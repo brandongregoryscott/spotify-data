@@ -1,0 +1,35 @@
+{
+  "id": "04GCjO1r1hPelibCUq9S8H",
+  "name": "Fog Lake",
+  "uri": "spotify:artist:04GCjO1r1hPelibCUq9S8H",
+  "followers": {
+    "href": null,
+    "total": 110713
+  },
+  "genres": [
+    "lo-fi indie",
+    "newfoundland indie",
+    "small room"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb351342194cb97193ed1d4386",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174351342194cb97193ed1d4386",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178351342194cb97193ed1d4386",
+      "width": 160
+    }
+  ],
+  "popularity": 55,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H"
+  }
+}

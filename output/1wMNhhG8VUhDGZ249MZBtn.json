@@ -1,0 +1,34 @@
+{
+  "id": "1wMNhhG8VUhDGZ249MZBtn",
+  "name": "Whatever, Dad",
+  "uri": "spotify:artist:1wMNhhG8VUhDGZ249MZBtn",
+  "followers": {
+    "href": null,
+    "total": 98345
+  },
+  "genres": [
+    "lo-fi indie",
+    "small room"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfe1383383535372a3b9a2737",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fe1383383535372a3b9a2737",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fe1383383535372a3b9a2737",
+      "width": 160
+    }
+  ],
+  "popularity": 53,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1wMNhhG8VUhDGZ249MZBtn"
+  }
+}

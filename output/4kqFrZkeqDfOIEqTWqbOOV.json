@@ -1,0 +1,34 @@
+{
+  "id": "4kqFrZkeqDfOIEqTWqbOOV",
+  "name": "brakence",
+  "uri": "spotify:artist:4kqFrZkeqDfOIEqTWqbOOV",
+  "followers": {
+    "href": null,
+    "total": 245324
+  },
+  "genres": [
+    "glitchcore",
+    "hyperpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb808be2612c9044731e5970cd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174808be2612c9044731e5970cd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178808be2612c9044731e5970cd",
+      "width": 160
+    }
+  ],
+  "popularity": 57,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+  }
+}

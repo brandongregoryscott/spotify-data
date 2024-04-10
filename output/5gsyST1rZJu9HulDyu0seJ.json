@@ -1,0 +1,33 @@
+{
+  "id": "5gsyST1rZJu9HulDyu0seJ",
+  "name": "People I Love",
+  "uri": "spotify:artist:5gsyST1rZJu9HulDyu0seJ",
+  "followers": {
+    "href": null,
+    "total": 4848
+  },
+  "genres": [
+    "lo-fi indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe6d3fdd5690d285fafc143c0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e6d3fdd5690d285fafc143c0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e6d3fdd5690d285fafc143c0",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5gsyST1rZJu9HulDyu0seJ"
+  }
+}

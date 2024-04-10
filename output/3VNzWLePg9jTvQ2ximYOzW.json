@@ -1,0 +1,33 @@
+{
+  "id": "3VNzWLePg9jTvQ2ximYOzW",
+  "name": "julie",
+  "uri": "spotify:artist:3VNzWLePg9jTvQ2ximYOzW",
+  "followers": {
+    "href": null,
+    "total": 241178
+  },
+  "genres": [
+    "grungegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdf6f45705db6110633b0c2c7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174df6f45705db6110633b0c2c7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178df6f45705db6110633b0c2c7",
+      "width": 160
+    }
+  ],
+  "popularity": 52,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
+  }
+}

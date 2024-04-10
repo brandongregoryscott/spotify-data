@@ -1,0 +1,34 @@
+{
+  "id": "68VUmnZEzmzZdd1zPtnbZZ",
+  "name": "Mackned",
+  "uri": "spotify:artist:68VUmnZEzmzZdd1zPtnbZZ",
+  "followers": {
+    "href": null,
+    "total": 79495
+  },
+  "genres": [
+    "cloud rap",
+    "emo rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb77aa1e02172e341a51cddafa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517477aa1e02172e341a51cddafa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17877aa1e02172e341a51cddafa",
+      "width": 160
+    }
+  ],
+  "popularity": 44,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/68VUmnZEzmzZdd1zPtnbZZ"
+  }
+}

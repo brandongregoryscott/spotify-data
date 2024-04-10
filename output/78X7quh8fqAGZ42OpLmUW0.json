@@ -1,0 +1,34 @@
+{
+  "id": "78X7quh8fqAGZ42OpLmUW0",
+  "name": "Wiki",
+  "uri": "spotify:artist:78X7quh8fqAGZ42OpLmUW0",
+  "followers": {
+    "href": null,
+    "total": 60968
+  },
+  "genres": [
+    "alternative hip hop",
+    "chill abstract hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb23a4b0ee05fbb4be41e5ff4f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517423a4b0ee05fbb4be41e5ff4f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17823a4b0ee05fbb4be41e5ff4f",
+      "width": 160
+    }
+  ],
+  "popularity": 43,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0"
+  }
+}
