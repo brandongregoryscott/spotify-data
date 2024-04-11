@@ -1,0 +1,33 @@
+{
+  "id": "50fy7gkGQi1bdvREWPV6ZP",
+  "name": "Joon",
+  "uri": "spotify:artist:50fy7gkGQi1bdvREWPV6ZP",
+  "followers": {
+    "href": null,
+    "total": 11264
+  },
+  "genres": [
+    "bedroom r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb8b262ed1873044a268e0c65",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b8b262ed1873044a268e0c65",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b8b262ed1873044a268e0c65",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/50fy7gkGQi1bdvREWPV6ZP"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "77XuU5ExD4bRv1LwcNGQHZ",
+  "name": "Pulsr",
+  "uri": "spotify:artist:77XuU5ExD4bRv1LwcNGQHZ",
+  "followers": {
+    "href": null,
+    "total": 1295
+  },
+  "genres": [
+    "lo-fi indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb581a18ac3665ccca085e245a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174581a18ac3665ccca085e245a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178581a18ac3665ccca085e245a",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/77XuU5ExD4bRv1LwcNGQHZ"
+  }
+}

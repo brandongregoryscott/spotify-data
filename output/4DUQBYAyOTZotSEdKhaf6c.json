@@ -1,0 +1,35 @@
+{
+  "id": "4DUQBYAyOTZotSEdKhaf6c",
+  "name": "Basement",
+  "uri": "spotify:artist:4DUQBYAyOTZotSEdKhaf6c",
+  "followers": {
+    "href": null,
+    "total": 330832
+  },
+  "genres": [
+    "alternative emo",
+    "dreamo",
+    "emo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf77ad0b295a4f0daedfb4f3c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f77ad0b295a4f0daedfb4f3c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f77ad0b295a4f0daedfb4f3c",
+      "width": 160
+    }
+  ],
+  "popularity": 60,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+  }
+}

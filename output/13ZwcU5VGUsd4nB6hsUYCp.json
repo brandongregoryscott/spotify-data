@@ -1,0 +1,33 @@
+{
+  "id": "13ZwcU5VGUsd4nB6hsUYCp",
+  "name": "SUN ORGAN",
+  "uri": "spotify:artist:13ZwcU5VGUsd4nB6hsUYCp",
+  "followers": {
+    "href": null,
+    "total": 2945
+  },
+  "genres": [
+    "lo-fi indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb23db5a4d3891428e47fbd4bf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517423db5a4d3891428e47fbd4bf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17823db5a4d3891428e47fbd4bf",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/13ZwcU5VGUsd4nB6hsUYCp"
+  }
+}

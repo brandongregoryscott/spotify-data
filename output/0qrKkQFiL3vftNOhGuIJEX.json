@@ -1,0 +1,33 @@
+{
+  "id": "0qrKkQFiL3vftNOhGuIJEX",
+  "name": "familypet",
+  "uri": "spotify:artist:0qrKkQFiL3vftNOhGuIJEX",
+  "followers": {
+    "href": null,
+    "total": 45410
+  },
+  "genres": [
+    "emo rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb66bf33836b659ea98d3b93db",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517466bf33836b659ea98d3b93db",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17866bf33836b659ea98d3b93db",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0qrKkQFiL3vftNOhGuIJEX"
+  }
+}

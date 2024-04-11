@@ -1,0 +1,36 @@
+{
+  "id": "2ApaG60P4r0yhBoDCGD8YG",
+  "name": "Elliott Smith",
+  "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG",
+  "followers": {
+    "href": null,
+    "total": 1078569
+  },
+  "genres": [
+    "alternative rock",
+    "indie rock",
+    "melancholia",
+    "singer-songwriter"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb079739b801ab3f105866b76f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174079739b801ab3f105866b76f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178079739b801ab3f105866b76f",
+      "width": 160
+    }
+  ],
+  "popularity": 66,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+  }
+}

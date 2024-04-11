@@ -1,0 +1,34 @@
+{
+  "id": "1MQM8vc3NvLx1lWofNMxED",
+  "name": "6obby",
+  "uri": "spotify:artist:1MQM8vc3NvLx1lWofNMxED",
+  "followers": {
+    "href": null,
+    "total": 56883
+  },
+  "genres": [
+    "cloud rap",
+    "emo rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb244d3070525dc596665b44c1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174244d3070525dc596665b44c1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178244d3070525dc596665b44c1",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1MQM8vc3NvLx1lWofNMxED"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1r1ucecaJ4gxxgw9aeQ2zG",
+  "name": "Pools Apart",
+  "uri": "spotify:artist:1r1ucecaJ4gxxgw9aeQ2zG",
+  "followers": {
+    "href": null,
+    "total": 52
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb428f5c93df757652dadcf75e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174428f5c93df757652dadcf75e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178428f5c93df757652dadcf75e",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1r1ucecaJ4gxxgw9aeQ2zG"
+  }
+}

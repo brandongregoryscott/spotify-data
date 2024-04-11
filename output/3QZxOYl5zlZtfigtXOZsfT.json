@@ -1,0 +1,34 @@
+{
+  "id": "3QZxOYl5zlZtfigtXOZsfT",
+  "name": "dying in designer",
+  "uri": "spotify:artist:3QZxOYl5zlZtfigtXOZsfT",
+  "followers": {
+    "href": null,
+    "total": 27578
+  },
+  "genres": [
+    "emo rap",
+    "sad rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaa6a42bae9f6f295e233e04b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aa6a42bae9f6f295e233e04b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aa6a42bae9f6f295e233e04b",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3QZxOYl5zlZtfigtXOZsfT"
+  }
+}

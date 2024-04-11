@@ -1,0 +1,33 @@
+{
+  "id": "6fq8lpmabNBMPao92rMw3m",
+  "name": "torr",
+  "uri": "spotify:artist:6fq8lpmabNBMPao92rMw3m",
+  "followers": {
+    "href": null,
+    "total": 10484
+  },
+  "genres": [
+    "hyperpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb060181611cccdc26f8f05b09",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174060181611cccdc26f8f05b09",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178060181611cccdc26f8f05b09",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m"
+  }
+}

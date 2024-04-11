@@ -1,0 +1,35 @@
+{
+  "id": "5LMPXUMhWXshBPjrqvZOfv",
+  "name": "Remo Drive",
+  "uri": "spotify:artist:5LMPXUMhWXshBPjrqvZOfv",
+  "followers": {
+    "href": null,
+    "total": 129272
+  },
+  "genres": [
+    "alternative emo",
+    "bubblegrunge",
+    "emo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd869ede96cd1137774072412",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d869ede96cd1137774072412",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d869ede96cd1137774072412",
+      "width": 160
+    }
+  ],
+  "popularity": 43,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5LMPXUMhWXshBPjrqvZOfv"
+  }
+}

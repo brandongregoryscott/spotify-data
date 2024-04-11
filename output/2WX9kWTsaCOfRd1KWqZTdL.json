@@ -1,0 +1,33 @@
+{
+  "id": "2WX9kWTsaCOfRd1KWqZTdL",
+  "name": "Holy Mountain",
+  "uri": "spotify:artist:2WX9kWTsaCOfRd1KWqZTdL",
+  "followers": {
+    "href": null,
+    "total": 711
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb26136a9e9b4aac77ac8c11ae",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517426136a9e9b4aac77ac8c11ae",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17826136a9e9b4aac77ac8c11ae",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2WX9kWTsaCOfRd1KWqZTdL"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6h4r9Vtm0iLRTFyJrj6zcF",
+  "name": "Joyer",
+  "uri": "spotify:artist:6h4r9Vtm0iLRTFyJrj6zcF",
+  "followers": {
+    "href": null,
+    "total": 5330
+  },
+  "genres": [
+    "lo-fi indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb16e4bfd4e2ea03c47d92924b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517416e4bfd4e2ea03c47d92924b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17816e4bfd4e2ea03c47d92924b",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6h4r9Vtm0iLRTFyJrj6zcF"
+  }
+}

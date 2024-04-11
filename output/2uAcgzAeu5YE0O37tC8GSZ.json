@@ -1,0 +1,33 @@
+{
+  "id": "2uAcgzAeu5YE0O37tC8GSZ",
+  "name": "Reward",
+  "uri": "spotify:artist:2uAcgzAeu5YE0O37tC8GSZ",
+  "followers": {
+    "href": null,
+    "total": 245
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb50a4ba6516bb08b54cc2df43",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517450a4ba6516bb08b54cc2df43",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17850a4ba6516bb08b54cc2df43",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2uAcgzAeu5YE0O37tC8GSZ"
+  }
+}

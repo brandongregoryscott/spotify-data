@@ -1,0 +1,33 @@
+{
+  "id": "7grPdrpkSYC07AVySFiL20",
+  "name": "Mohinder",
+  "uri": "spotify:artist:7grPdrpkSYC07AVySFiL20",
+  "followers": {
+    "href": null,
+    "total": 5624
+  },
+  "genres": [
+    "emocore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb679b2a4d39d05d3b58f4d676",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174679b2a4d39d05d3b58f4d676",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178679b2a4d39d05d3b58f4d676",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7grPdrpkSYC07AVySFiL20"
+  }
+}

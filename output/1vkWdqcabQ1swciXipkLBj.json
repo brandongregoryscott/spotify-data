@@ -1,0 +1,34 @@
+{
+  "id": "1vkWdqcabQ1swciXipkLBj",
+  "name": "awfultune",
+  "uri": "spotify:artist:1vkWdqcabQ1swciXipkLBj",
+  "followers": {
+    "href": null,
+    "total": 364644
+  },
+  "genres": [
+    "indie pop",
+    "pov: indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc6f9de7998db719965d5df62",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c6f9de7998db719965d5df62",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c6f9de7998db719965d5df62",
+      "width": 160
+    }
+  ],
+  "popularity": 57,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1vkWdqcabQ1swciXipkLBj"
+  }
+}

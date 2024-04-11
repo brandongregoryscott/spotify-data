@@ -1,0 +1,35 @@
+{
+  "id": "14LOHiPLjJKiOzjFilTkWh",
+  "name": "Better Off",
+  "uri": "spotify:artist:14LOHiPLjJKiOzjFilTkWh",
+  "followers": {
+    "href": null,
+    "total": 15076
+  },
+  "genres": [
+    "alternative emo",
+    "anthem emo",
+    "diy emo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb04ea87a98befaa32d5a91864",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517404ea87a98befaa32d5a91864",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17804ea87a98befaa32d5a91864",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/14LOHiPLjJKiOzjFilTkWh"
+  }
+}

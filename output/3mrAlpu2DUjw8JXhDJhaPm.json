@@ -1,0 +1,33 @@
+{
+  "id": "3mrAlpu2DUjw8JXhDJhaPm",
+  "name": "nevrfall",
+  "uri": "spotify:artist:3mrAlpu2DUjw8JXhDJhaPm",
+  "followers": {
+    "href": null,
+    "total": 913
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb72538ce3547f83fb6bd6abb7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517472538ce3547f83fb6bd6abb7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17872538ce3547f83fb6bd6abb7",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3mrAlpu2DUjw8JXhDJhaPm"
+  }
+}

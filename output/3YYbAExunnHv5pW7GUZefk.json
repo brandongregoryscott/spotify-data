@@ -1,0 +1,34 @@
+{
+  "id": "3YYbAExunnHv5pW7GUZefk",
+  "name": "DC The Don",
+  "uri": "spotify:artist:3YYbAExunnHv5pW7GUZefk",
+  "followers": {
+    "href": null,
+    "total": 300124
+  },
+  "genres": [
+    "melodic rap",
+    "rage rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd3cbdb1d7b97022e49e65453",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d3cbdb1d7b97022e49e65453",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d3cbdb1d7b97022e49e65453",
+      "width": 160
+    }
+  ],
+  "popularity": 57,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
+  }
+}

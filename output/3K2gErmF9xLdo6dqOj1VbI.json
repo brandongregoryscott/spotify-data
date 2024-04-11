@@ -1,0 +1,34 @@
+{
+  "id": "3K2gErmF9xLdo6dqOj1VbI",
+  "name": "Teethe",
+  "uri": "spotify:artist:3K2gErmF9xLdo6dqOj1VbI",
+  "followers": {
+    "href": null,
+    "total": 20114
+  },
+  "genres": [
+    "american shoegaze",
+    "lo-fi indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc6de31558aa5e3b489fd2add",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c6de31558aa5e3b489fd2add",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c6de31558aa5e3b489fd2add",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI"
+  }
+}

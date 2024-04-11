@@ -1,0 +1,33 @@
+{
+  "id": "38cBFCETswOIfDjHd3xTIT",
+  "name": "Punty",
+  "uri": "spotify:artist:38cBFCETswOIfDjHd3xTIT",
+  "followers": {
+    "href": null,
+    "total": 998
+  },
+  "genres": [
+    "lo-fi indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc5fdadf39a89760b47e5ec91",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c5fdadf39a89760b47e5ec91",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c5fdadf39a89760b47e5ec91",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/38cBFCETswOIfDjHd3xTIT"
+  }
+}

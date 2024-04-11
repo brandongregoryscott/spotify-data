@@ -1,0 +1,34 @@
+{
+  "id": "3nOmqhdVTODRutSb5Y8kYz",
+  "name": "heavn",
+  "uri": "spotify:artist:3nOmqhdVTODRutSb5Y8kYz",
+  "followers": {
+    "href": null,
+    "total": 10697
+  },
+  "genres": [
+    "glitchcore",
+    "hyperpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb91af2f1a33b62b15538dafe7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517491af2f1a33b62b15538dafe7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17891af2f1a33b62b15538dafe7",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz"
+  }
+}

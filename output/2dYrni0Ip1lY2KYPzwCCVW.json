@@ -1,0 +1,33 @@
+{
+  "id": "2dYrni0Ip1lY2KYPzwCCVW",
+  "name": "Josh Augustin",
+  "uri": "spotify:artist:2dYrni0Ip1lY2KYPzwCCVW",
+  "followers": {
+    "href": null,
+    "total": 4300
+  },
+  "genres": [
+    "rochester mn indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb7274304a6d353ed823c1ca4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b7274304a6d353ed823c1ca4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b7274304a6d353ed823c1ca4",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2dYrni0Ip1lY2KYPzwCCVW"
+  }
+}

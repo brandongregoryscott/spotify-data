@@ -1,0 +1,33 @@
+{
+  "id": "5DoHtCZw1txGuSakzmbhEe",
+  "name": "black balloons",
+  "uri": "spotify:artist:5DoHtCZw1txGuSakzmbhEe",
+  "followers": {
+    "href": null,
+    "total": 18820
+  },
+  "genres": [
+    "chill breakcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd95f4b1206a418f603f3c406",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d95f4b1206a418f603f3c406",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d95f4b1206a418f603f3c406",
+      "width": 160
+    }
+  ],
+  "popularity": 39,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5DoHtCZw1txGuSakzmbhEe"
+  }
+}

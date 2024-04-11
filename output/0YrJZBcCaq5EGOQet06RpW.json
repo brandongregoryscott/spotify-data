@@ -1,0 +1,33 @@
+{
+  "id": "0YrJZBcCaq5EGOQet06RpW",
+  "name": "Trimmo",
+  "uri": "spotify:artist:0YrJZBcCaq5EGOQet06RpW",
+  "followers": {
+    "href": null,
+    "total": 315
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb00fb4da3f9796a1fd7c28b0f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517400fb4da3f9796a1fd7c28b0f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17800fb4da3f9796a1fd7c28b0f",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0YrJZBcCaq5EGOQet06RpW"
+  }
+}

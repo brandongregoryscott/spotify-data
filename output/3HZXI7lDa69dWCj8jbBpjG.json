@@ -1,0 +1,33 @@
+{
+  "id": "3HZXI7lDa69dWCj8jbBpjG",
+  "name": "COOL HEAT",
+  "uri": "spotify:artist:3HZXI7lDa69dWCj8jbBpjG",
+  "followers": {
+    "href": null,
+    "total": 5511
+  },
+  "genres": [
+    "chill dream pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd611c05b7dd5ba8d122ae6cb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d611c05b7dd5ba8d122ae6cb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d611c05b7dd5ba8d122ae6cb",
+      "width": 160
+    }
+  ],
+  "popularity": 34,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3HZXI7lDa69dWCj8jbBpjG"
+  }
+}

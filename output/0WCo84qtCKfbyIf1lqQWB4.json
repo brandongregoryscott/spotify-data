@@ -1,0 +1,33 @@
+{
+  "id": "0WCo84qtCKfbyIf1lqQWB4",
+  "name": "Geese",
+  "uri": "spotify:artist:0WCo84qtCKfbyIf1lqQWB4",
+  "followers": {
+    "href": null,
+    "total": 48769
+  },
+  "genres": [
+    "crank wave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe9adf71fd990a4df78ed1b3d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e9adf71fd990a4df78ed1b3d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e9adf71fd990a4df78ed1b3d",
+      "width": 160
+    }
+  ],
+  "popularity": 44,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+  }
+}

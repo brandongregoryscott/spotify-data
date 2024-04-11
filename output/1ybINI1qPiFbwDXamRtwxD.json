@@ -1,0 +1,33 @@
+{
+  "id": "1ybINI1qPiFbwDXamRtwxD",
+  "name": "Smino",
+  "uri": "spotify:artist:1ybINI1qPiFbwDXamRtwxD",
+  "followers": {
+    "href": null,
+    "total": 918979
+  },
+  "genres": [
+    "alternative r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfc5047d95db42b25c1d49aac",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fc5047d95db42b25c1d49aac",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fc5047d95db42b25c1d49aac",
+      "width": 160
+    }
+  ],
+  "popularity": 66,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+  }
+}

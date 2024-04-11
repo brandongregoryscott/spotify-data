@@ -1,0 +1,34 @@
+{
+  "id": "4bbjivSh1oG4NOc7uYHfw5",
+  "name": "Lil B",
+  "uri": "spotify:artist:4bbjivSh1oG4NOc7uYHfw5",
+  "followers": {
+    "href": null,
+    "total": 268125
+  },
+  "genres": [
+    "cloud rap",
+    "underground hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb10479cab73b2ba1121d22da9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517410479cab73b2ba1121d22da9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17810479cab73b2ba1121d22da9",
+      "width": 160
+    }
+  ],
+  "popularity": 55,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5"
+  }
+}

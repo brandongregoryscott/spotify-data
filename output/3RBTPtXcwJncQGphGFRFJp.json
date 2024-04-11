@@ -1,0 +1,33 @@
+{
+  "id": "3RBTPtXcwJncQGphGFRFJp",
+  "name": "Jodi",
+  "uri": "spotify:artist:3RBTPtXcwJncQGphGFRFJp",
+  "followers": {
+    "href": null,
+    "total": 5247
+  },
+  "genres": [
+    "small room"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb05afa20f13df794fa6aeb77f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517405afa20f13df794fa6aeb77f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17805afa20f13df794fa6aeb77f",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3RBTPtXcwJncQGphGFRFJp"
+  }
+}

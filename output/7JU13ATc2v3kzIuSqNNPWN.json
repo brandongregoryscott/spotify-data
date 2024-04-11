@@ -1,0 +1,35 @@
+{
+  "id": "7JU13ATc2v3kzIuSqNNPWN",
+  "name": "meat computer",
+  "uri": "spotify:artist:7JU13ATc2v3kzIuSqNNPWN",
+  "followers": {
+    "href": null,
+    "total": 43365
+  },
+  "genres": [
+    "cloud rap",
+    "glitchcore",
+    "hyperpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebef2b88ec86d6e46a1da85a80",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ef2b88ec86d6e46a1da85a80",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ef2b88ec86d6e46a1da85a80",
+      "width": 160
+    }
+  ],
+  "popularity": 43,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
+  }
+}

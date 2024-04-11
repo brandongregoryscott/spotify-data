@@ -1,0 +1,34 @@
+{
+  "id": "6BBkWyAZhcINj7GecYg3Wd",
+  "name": "Estee Nack",
+  "uri": "spotify:artist:6BBkWyAZhcINj7GecYg3Wd",
+  "followers": {
+    "href": null,
+    "total": 15882
+  },
+  "genres": [
+    "boom bap",
+    "drumless hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ccdae0e4bc9423c0ec3a610f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ccdae0e4bc9423c0ec3a610f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ccdae0e4bc9423c0ec3a610f",
+      "width": 64
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd"
+  }
+}

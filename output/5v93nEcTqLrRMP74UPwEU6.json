@@ -1,0 +1,33 @@
+{
+  "id": "5v93nEcTqLrRMP74UPwEU6",
+  "name": "Roan",
+  "uri": "spotify:artist:5v93nEcTqLrRMP74UPwEU6",
+  "followers": {
+    "href": null,
+    "total": 1531
+  },
+  "genres": [
+    "bedroom r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdfacd7606c0fe1901752b0ba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dfacd7606c0fe1901752b0ba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dfacd7606c0fe1901752b0ba",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5v93nEcTqLrRMP74UPwEU6"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "3gat7IO3Dlae8AFZZrQX5b",
+  "name": "yung van",
+  "uri": "spotify:artist:3gat7IO3Dlae8AFZZrQX5b",
+  "followers": {
+    "href": null,
+    "total": 36122
+  },
+  "genres": [
+    "cloud rap",
+    "emo rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb942a35b8f380cd44a3398563",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174942a35b8f380cd44a3398563",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178942a35b8f380cd44a3398563",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3gat7IO3Dlae8AFZZrQX5b"
+  }
+}

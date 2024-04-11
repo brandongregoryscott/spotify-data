@@ -1,0 +1,33 @@
+{
+  "id": "2EFO3laid2zP7GsGI5y7Am",
+  "name": "Pity Pattern",
+  "uri": "spotify:artist:2EFO3laid2zP7GsGI5y7Am",
+  "followers": {
+    "href": null,
+    "total": 91
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc950ea45606a899ac923db23",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c950ea45606a899ac923db23",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c950ea45606a899ac923db23",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2EFO3laid2zP7GsGI5y7Am"
+  }
+}

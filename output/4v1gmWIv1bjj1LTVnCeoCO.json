@@ -1,0 +1,34 @@
+{
+  "id": "4v1gmWIv1bjj1LTVnCeoCO",
+  "name": "hold",
+  "uri": "spotify:artist:4v1gmWIv1bjj1LTVnCeoCO",
+  "followers": {
+    "href": null,
+    "total": 18959
+  },
+  "genres": [
+    "corecore",
+    "lo-fi indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbd76b8092a23c0a72445fcfc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bd76b8092a23c0a72445fcfc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bd76b8092a23c0a72445fcfc",
+      "width": 160
+    }
+  ],
+  "popularity": 39,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4v1gmWIv1bjj1LTVnCeoCO"
+  }
+}

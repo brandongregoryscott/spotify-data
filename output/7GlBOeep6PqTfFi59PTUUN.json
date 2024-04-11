@@ -1,0 +1,34 @@
+{
+  "id": "7GlBOeep6PqTfFi59PTUUN",
+  "name": "Chappell Roan",
+  "uri": "spotify:artist:7GlBOeep6PqTfFi59PTUUN",
+  "followers": {
+    "href": null,
+    "total": 366452
+  },
+  "genres": [
+    "indie pop",
+    "springfield mo indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcde5a0d57c1b79de5fce6bee",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cde5a0d57c1b79de5fce6bee",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cde5a0d57c1b79de5fce6bee",
+      "width": 160
+    }
+  ],
+  "popularity": 73,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0ZxZlO7oWCSYMXhehpyMvE",
+  "name": "COIN",
+  "uri": "spotify:artist:0ZxZlO7oWCSYMXhehpyMvE",
+  "followers": {
+    "href": null,
+    "total": 638973
+  },
+  "genres": [
+    "pov: indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb598121cdabb902894098beab",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174598121cdabb902894098beab",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178598121cdabb902894098beab",
+      "width": 160
+    }
+  ],
+  "popularity": 61,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+  }
+}

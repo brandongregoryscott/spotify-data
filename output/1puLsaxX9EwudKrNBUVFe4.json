@@ -1,0 +1,33 @@
+{
+  "id": "1puLsaxX9EwudKrNBUVFe4",
+  "name": "BOYO",
+  "uri": "spotify:artist:1puLsaxX9EwudKrNBUVFe4",
+  "followers": {
+    "href": null,
+    "total": 46334
+  },
+  "genres": [
+    "indie garage rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeaa253f70afc850eba747455",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eaa253f70afc850eba747455",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eaa253f70afc850eba747455",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1puLsaxX9EwudKrNBUVFe4"
+  }
+}
