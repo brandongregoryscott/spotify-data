@@ -1,0 +1,33 @@
+{
+  "id": "54t0GD0wNdVmPpUtWs5ceU",
+  "name": "Eternal",
+  "uri": "spotify:artist:54t0GD0wNdVmPpUtWs5ceU",
+  "followers": {
+    "href": null,
+    "total": 2903
+  },
+  "genres": [
+    "indie shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738c4e5074a9ced44682d700ab",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028c4e5074a9ced44682d700ab",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518c4e5074a9ced44682d700ab",
+      "width": 64
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/54t0GD0wNdVmPpUtWs5ceU"
+  }
+}

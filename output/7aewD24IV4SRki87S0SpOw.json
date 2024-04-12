@@ -1,0 +1,33 @@
+{
+  "id": "7aewD24IV4SRki87S0SpOw",
+  "name": "Ro",
+  "uri": "spotify:artist:7aewD24IV4SRki87S0SpOw",
+  "followers": {
+    "href": null,
+    "total": 992
+  },
+  "genres": [
+    "spanish post-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb279d658faa789f11470802d1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174279d658faa789f11470802d1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178279d658faa789f11470802d1",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7aewD24IV4SRki87S0SpOw"
+  }
+}

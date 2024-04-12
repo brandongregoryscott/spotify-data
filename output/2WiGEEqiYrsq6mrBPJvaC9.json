@@ -1,0 +1,33 @@
+{
+  "id": "2WiGEEqiYrsq6mrBPJvaC9",
+  "name": "GREAF",
+  "uri": "spotify:artist:2WiGEEqiYrsq6mrBPJvaC9",
+  "followers": {
+    "href": null,
+    "total": 1873
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273227af1ddfcfaea9e6cf8b030",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02227af1ddfcfaea9e6cf8b030",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851227af1ddfcfaea9e6cf8b030",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2WiGEEqiYrsq6mrBPJvaC9"
+  }
+}

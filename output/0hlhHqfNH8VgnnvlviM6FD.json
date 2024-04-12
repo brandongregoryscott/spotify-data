@@ -1,0 +1,33 @@
+{
+  "id": "0hlhHqfNH8VgnnvlviM6FD",
+  "name": "Welcome Café",
+  "uri": "spotify:artist:0hlhHqfNH8VgnnvlviM6FD",
+  "followers": {
+    "href": null,
+    "total": 1390
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb20d05c732c202b52ecf9f546",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517420d05c732c202b52ecf9f546",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17820d05c732c202b52ecf9f546",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0hlhHqfNH8VgnnvlviM6FD"
+  }
+}

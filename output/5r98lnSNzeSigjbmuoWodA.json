@@ -1,0 +1,33 @@
+{
+  "id": "5r98lnSNzeSigjbmuoWodA",
+  "name": "Seamstress",
+  "uri": "spotify:artist:5r98lnSNzeSigjbmuoWodA",
+  "followers": {
+    "href": null,
+    "total": 313
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb101dcb45a63562cc544d75bd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174101dcb45a63562cc544d75bd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178101dcb45a63562cc544d75bd",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5r98lnSNzeSigjbmuoWodA"
+  }
+}

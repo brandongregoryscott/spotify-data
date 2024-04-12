@@ -1,0 +1,33 @@
+{
+  "id": "3ZA0c0wag105dNb5DggJRt",
+  "name": "kkae",
+  "uri": "spotify:artist:3ZA0c0wag105dNb5DggJRt",
+  "followers": {
+    "href": null,
+    "total": 108
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb80735afe7ea58333c1fd273e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517480735afe7ea58333c1fd273e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17880735afe7ea58333c1fd273e",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ZA0c0wag105dNb5DggJRt"
+  }
+}

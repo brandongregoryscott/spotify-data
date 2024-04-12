@@ -1,0 +1,33 @@
+{
+  "id": "6dGJm0ygV8BHylmqDPUJT3",
+  "name": "Jeebus",
+  "uri": "spotify:artist:6dGJm0ygV8BHylmqDPUJT3",
+  "followers": {
+    "href": null,
+    "total": 109
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7a313d4a0e6be1b2ac050bff",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051747a313d4a0e6be1b2ac050bff",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1787a313d4a0e6be1b2ac050bff",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6dGJm0ygV8BHylmqDPUJT3"
+  }
+}

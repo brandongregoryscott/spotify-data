@@ -1,0 +1,33 @@
+{
+  "id": "3LHTXIlBaP5EBhqKMpcr7L",
+  "name": "Fib",
+  "uri": "spotify:artist:3LHTXIlBaP5EBhqKMpcr7L",
+  "followers": {
+    "href": null,
+    "total": 671
+  },
+  "genres": [
+    "egg punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaaa87a85909d7aa8e83e419d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aaa87a85909d7aa8e83e419d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aaa87a85909d7aa8e83e419d",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3LHTXIlBaP5EBhqKMpcr7L"
+  }
+}

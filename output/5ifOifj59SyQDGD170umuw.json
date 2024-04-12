@@ -1,0 +1,34 @@
+{
+  "id": "5ifOifj59SyQDGD170umuw",
+  "name": "September",
+  "uri": "spotify:artist:5ifOifj59SyQDGD170umuw",
+  "followers": {
+    "href": null,
+    "total": 867
+  },
+  "genres": [
+    "emocore",
+    "indie emo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27350e3b0147fbd3e8baa7b5149",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0250e3b0147fbd3e8baa7b5149",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485150e3b0147fbd3e8baa7b5149",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ifOifj59SyQDGD170umuw"
+  }
+}

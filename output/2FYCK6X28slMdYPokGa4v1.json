@@ -1,0 +1,33 @@
+{
+  "id": "2FYCK6X28slMdYPokGa4v1",
+  "name": "OreO",
+  "uri": "spotify:artist:2FYCK6X28slMdYPokGa4v1",
+  "followers": {
+    "href": null,
+    "total": 621
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbfaae631a41a163903a4eef7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bfaae631a41a163903a4eef7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bfaae631a41a163903a4eef7",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2FYCK6X28slMdYPokGa4v1"
+  }
+}

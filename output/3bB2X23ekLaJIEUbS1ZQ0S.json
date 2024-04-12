@@ -1,0 +1,33 @@
+{
+  "id": "3bB2X23ekLaJIEUbS1ZQ0S",
+  "name": "Halloween",
+  "uri": "spotify:artist:3bB2X23ekLaJIEUbS1ZQ0S",
+  "followers": {
+    "href": null,
+    "total": 1893
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb13d2e5fe252b979b59a103ff",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517413d2e5fe252b979b59a103ff",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17813d2e5fe252b979b59a103ff",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3bB2X23ekLaJIEUbS1ZQ0S"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2Yp114orhinD5W0DioIKER",
+  "name": "Tabby",
+  "uri": "spotify:artist:2Yp114orhinD5W0DioIKER",
+  "followers": {
+    "href": null,
+    "total": 23644
+  },
+  "genres": [
+    "minnesota hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb068124f771e38ccfeab623a8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174068124f771e38ccfeab623a8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178068124f771e38ccfeab623a8",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Yp114orhinD5W0DioIKER"
+  }
+}

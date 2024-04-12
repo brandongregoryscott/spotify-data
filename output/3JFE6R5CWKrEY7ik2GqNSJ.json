@@ -1,0 +1,33 @@
+{
+  "id": "3JFE6R5CWKrEY7ik2GqNSJ",
+  "name": "Perto",
+  "uri": "spotify:artist:3JFE6R5CWKrEY7ik2GqNSJ",
+  "followers": {
+    "href": null,
+    "total": 4538
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27380fd6af6489369c15fdc7ff2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0280fd6af6489369c15fdc7ff2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485180fd6af6489369c15fdc7ff2",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3JFE6R5CWKrEY7ik2GqNSJ"
+  }
+}

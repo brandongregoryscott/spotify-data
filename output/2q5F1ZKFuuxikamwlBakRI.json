@@ -1,0 +1,33 @@
+{
+  "id": "2q5F1ZKFuuxikamwlBakRI",
+  "name": "Slow Ref",
+  "uri": "spotify:artist:2q5F1ZKFuuxikamwlBakRI",
+  "followers": {
+    "href": null,
+    "total": 148
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a207b8f1791501b5a935068a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a207b8f1791501b5a935068a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a207b8f1791501b5a935068a",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2q5F1ZKFuuxikamwlBakRI"
+  }
+}

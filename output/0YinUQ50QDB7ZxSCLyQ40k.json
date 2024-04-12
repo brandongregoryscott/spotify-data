@@ -1,0 +1,37 @@
+{
+  "id": "0YinUQ50QDB7ZxSCLyQ40k",
+  "name": "Mustard",
+  "uri": "spotify:artist:0YinUQ50QDB7ZxSCLyQ40k",
+  "followers": {
+    "href": null,
+    "total": 1167368
+  },
+  "genres": [
+    "cali rap",
+    "pop rap",
+    "rap",
+    "southern hip hop",
+    "trap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb36d700e57ae8be93479963a0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517436d700e57ae8be93479963a0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17836d700e57ae8be93479963a0",
+      "width": 160
+    }
+  ],
+  "popularity": 71,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+  }
+}

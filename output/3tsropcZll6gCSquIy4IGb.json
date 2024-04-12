@@ -1,0 +1,33 @@
+{
+  "id": "3tsropcZll6gCSquIy4IGb",
+  "name": "HIDENKA",
+  "uri": "spotify:artist:3tsropcZll6gCSquIy4IGb",
+  "followers": {
+    "href": null,
+    "total": 309
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27358adacdc812f1c364fd8e827",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0258adacdc812f1c364fd8e827",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485158adacdc812f1c364fd8e827",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3tsropcZll6gCSquIy4IGb"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2R0nqFZQNMwCwSmpEv3EaM",
+  "name": "emorave",
+  "uri": "spotify:artist:2R0nqFZQNMwCwSmpEv3EaM",
+  "followers": {
+    "href": null,
+    "total": 5426
+  },
+  "genres": [
+    "emoplugg",
+    "glitchcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb823f815fc2c63e80c1007fbb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174823f815fc2c63e80c1007fbb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178823f815fc2c63e80c1007fbb",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2R0nqFZQNMwCwSmpEv3EaM"
+  }
+}

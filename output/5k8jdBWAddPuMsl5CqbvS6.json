@@ -1,0 +1,33 @@
+{
+  "id": "5k8jdBWAddPuMsl5CqbvS6",
+  "name": "Sam Silbert",
+  "uri": "spotify:artist:5k8jdBWAddPuMsl5CqbvS6",
+  "followers": {
+    "href": null,
+    "total": 488
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebac4a9472ec3aba0d1d8b1ffc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ac4a9472ec3aba0d1d8b1ffc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ac4a9472ec3aba0d1d8b1ffc",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5k8jdBWAddPuMsl5CqbvS6"
+  }
+}

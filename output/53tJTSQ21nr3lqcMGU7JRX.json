@@ -1,0 +1,33 @@
+{
+  "id": "53tJTSQ21nr3lqcMGU7JRX",
+  "name": "Spur",
+  "uri": "spotify:artist:53tJTSQ21nr3lqcMGU7JRX",
+  "followers": {
+    "href": null,
+    "total": 153
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273794d0bc0097b5d7ab0e9b299",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02794d0bc0097b5d7ab0e9b299",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851794d0bc0097b5d7ab0e9b299",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/53tJTSQ21nr3lqcMGU7JRX"
+  }
+}

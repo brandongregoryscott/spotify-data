@@ -1,0 +1,35 @@
+{
+  "id": "7adlRX57hqe6Pc4YHrSGG0",
+  "name": "Runnner",
+  "uri": "spotify:artist:7adlRX57hqe6Pc4YHrSGG0",
+  "followers": {
+    "href": null,
+    "total": 25927
+  },
+  "genres": [
+    "countrygaze",
+    "la indie",
+    "small room"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfeb4f2032b0240e61fb2e666",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174feb4f2032b0240e61fb2e666",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178feb4f2032b0240e61fb2e666",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+  }
+}

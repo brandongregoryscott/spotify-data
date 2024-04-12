@@ -1,0 +1,33 @@
+{
+  "id": "192TOBc6yLOBZSyyIjslC2",
+  "name": "weial",
+  "uri": "spotify:artist:192TOBc6yLOBZSyyIjslC2",
+  "followers": {
+    "href": null,
+    "total": 783
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6c869b65981d3fa5debb85f6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051746c869b65981d3fa5debb85f6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1786c869b65981d3fa5debb85f6",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/192TOBc6yLOBZSyyIjslC2"
+  }
+}

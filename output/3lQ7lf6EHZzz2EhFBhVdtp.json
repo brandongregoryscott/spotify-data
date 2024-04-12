@@ -1,0 +1,34 @@
+{
+  "id": "3lQ7lf6EHZzz2EhFBhVdtp",
+  "name": "bleach",
+  "uri": "spotify:artist:3lQ7lf6EHZzz2EhFBhVdtp",
+  "followers": {
+    "href": null,
+    "total": 384
+  },
+  "genres": [
+    "hyperpop",
+    "proto-hyperpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf2fa3721647fffdaa21e4241",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f2fa3721647fffdaa21e4241",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f2fa3721647fffdaa21e4241",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3lQ7lf6EHZzz2EhFBhVdtp"
+  }
+}

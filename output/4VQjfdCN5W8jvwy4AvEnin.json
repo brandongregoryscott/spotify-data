@@ -1,0 +1,33 @@
+{
+  "id": "4VQjfdCN5W8jvwy4AvEnin",
+  "name": "Sad Frosty",
+  "uri": "spotify:artist:4VQjfdCN5W8jvwy4AvEnin",
+  "followers": {
+    "href": null,
+    "total": 125882
+  },
+  "genres": [
+    "meme rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb72d5f417f955ac8f6ce2383f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517472d5f417f955ac8f6ce2383f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17872d5f417f955ac8f6ce2383f",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4VQjfdCN5W8jvwy4AvEnin"
+  }
+}

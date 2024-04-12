@@ -1,0 +1,33 @@
+{
+  "id": "6jrUShOJXjtu8uyilUQVrO",
+  "name": "Endswell",
+  "uri": "spotify:artist:6jrUShOJXjtu8uyilUQVrO",
+  "followers": {
+    "href": null,
+    "total": 499
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaff50a064f3c53d4087f4eda",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aff50a064f3c53d4087f4eda",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aff50a064f3c53d4087f4eda",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6jrUShOJXjtu8uyilUQVrO"
+  }
+}

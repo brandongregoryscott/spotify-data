@@ -1,0 +1,35 @@
+{
+  "id": "0cGUm45nv7Z6M6qdXYQGTX",
+  "name": "Kehlani",
+  "uri": "spotify:artist:0cGUm45nv7Z6M6qdXYQGTX",
+  "followers": {
+    "href": null,
+    "total": 7556941
+  },
+  "genres": [
+    "pop",
+    "r&b",
+    "rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb257217c67faea40445b21169",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174257217c67faea40445b21169",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178257217c67faea40445b21169",
+      "width": 160
+    }
+  ],
+  "popularity": 74,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+  }
+}

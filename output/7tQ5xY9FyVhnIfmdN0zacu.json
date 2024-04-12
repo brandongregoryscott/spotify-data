@@ -1,0 +1,33 @@
+{
+  "id": "7tQ5xY9FyVhnIfmdN0zacu",
+  "name": "Maajins",
+  "uri": "spotify:artist:7tQ5xY9FyVhnIfmdN0zacu",
+  "followers": {
+    "href": null,
+    "total": 21039
+  },
+  "genres": [
+    "pluggnb"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb95b7c615f204a14be6a09006",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517495b7c615f204a14be6a09006",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17895b7c615f204a14be6a09006",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7tQ5xY9FyVhnIfmdN0zacu"
+  }
+}

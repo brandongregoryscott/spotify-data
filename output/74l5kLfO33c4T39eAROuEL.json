@@ -1,0 +1,33 @@
+{
+  "id": "74l5kLfO33c4T39eAROuEL",
+  "name": "Foreign Fields",
+  "uri": "spotify:artist:74l5kLfO33c4T39eAROuEL",
+  "followers": {
+    "href": null,
+    "total": 25632
+  },
+  "genres": [
+    "ambient folk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5be710d3bbf5d99f0f771ae1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051745be710d3bbf5d99f0f771ae1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1785be710d3bbf5d99f0f771ae1",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/74l5kLfO33c4T39eAROuEL"
+  }
+}

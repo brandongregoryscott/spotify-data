@@ -1,0 +1,33 @@
+{
+  "id": "4gVQ3qalc6wCyH6QoR39j4",
+  "name": "The Mercury Brothers",
+  "uri": "spotify:artist:4gVQ3qalc6wCyH6QoR39j4",
+  "followers": {
+    "href": null,
+    "total": 405
+  },
+  "genres": [
+    "asbury park indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd8ec316c2b9cf847dc05f958",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d8ec316c2b9cf847dc05f958",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d8ec316c2b9cf847dc05f958",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4gVQ3qalc6wCyH6QoR39j4"
+  }
+}

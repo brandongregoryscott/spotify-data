@@ -1,0 +1,33 @@
+{
+  "id": "1b08zDiHMggFoYohBVMmvm",
+  "name": "Young and Dramatic",
+  "uri": "spotify:artist:1b08zDiHMggFoYohBVMmvm",
+  "followers": {
+    "href": null,
+    "total": 1718
+  },
+  "genres": [
+    "belarusian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273abc483d8dd1fa3db6782234c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02abc483d8dd1fa3db6782234c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851abc483d8dd1fa3db6782234c",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1b08zDiHMggFoYohBVMmvm"
+  }
+}

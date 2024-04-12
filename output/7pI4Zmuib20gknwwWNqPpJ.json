@@ -1,0 +1,35 @@
+{
+  "id": "7pI4Zmuib20gknwwWNqPpJ",
+  "name": "gingus",
+  "uri": "spotify:artist:7pI4Zmuib20gknwwWNqPpJ",
+  "followers": {
+    "href": null,
+    "total": 4877
+  },
+  "genres": [
+    "dariacore",
+    "hyperpop",
+    "mashcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb76f9847d90aa7c362c524ee",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b76f9847d90aa7c362c524ee",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b76f9847d90aa7c362c524ee",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7pI4Zmuib20gknwwWNqPpJ"
+  }
+}

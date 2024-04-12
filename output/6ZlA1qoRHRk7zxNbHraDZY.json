@@ -1,0 +1,33 @@
+{
+  "id": "6ZlA1qoRHRk7zxNbHraDZY",
+  "name": "Really Big Pinecone",
+  "uri": "spotify:artist:6ZlA1qoRHRk7zxNbHraDZY",
+  "followers": {
+    "href": null,
+    "total": 1389
+  },
+  "genres": [
+    "small room"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273eb2d066c3c8fed8d4827fe46",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02eb2d066c3c8fed8d4827fe46",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851eb2d066c3c8fed8d4827fe46",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ZlA1qoRHRk7zxNbHraDZY"
+  }
+}

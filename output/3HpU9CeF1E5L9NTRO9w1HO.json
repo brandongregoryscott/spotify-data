@@ -1,0 +1,33 @@
+{
+  "id": "3HpU9CeF1E5L9NTRO9w1HO",
+  "name": "Paul",
+  "uri": "spotify:artist:3HpU9CeF1E5L9NTRO9w1HO",
+  "followers": {
+    "href": null,
+    "total": 275
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273162f464a57046b8a68f13c7e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02162f464a57046b8a68f13c7e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851162f464a57046b8a68f13c7e",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3HpU9CeF1E5L9NTRO9w1HO"
+  }
+}

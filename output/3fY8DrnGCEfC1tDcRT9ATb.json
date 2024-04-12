@@ -1,0 +1,33 @@
+{
+  "id": "3fY8DrnGCEfC1tDcRT9ATb",
+  "name": "Nonsense",
+  "uri": "spotify:artist:3fY8DrnGCEfC1tDcRT9ATb",
+  "followers": {
+    "href": null,
+    "total": 30
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc595d76923c3d15cafad27df",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c595d76923c3d15cafad27df",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c595d76923c3d15cafad27df",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3fY8DrnGCEfC1tDcRT9ATb"
+  }
+}

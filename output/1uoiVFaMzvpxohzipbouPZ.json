@@ -1,0 +1,33 @@
+{
+  "id": "1uoiVFaMzvpxohzipbouPZ",
+  "name": "ghost orange",
+  "uri": "spotify:artist:1uoiVFaMzvpxohzipbouPZ",
+  "followers": {
+    "href": null,
+    "total": 391
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb836c43098c69a119f904052c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174836c43098c69a119f904052c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178836c43098c69a119f904052c",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1uoiVFaMzvpxohzipbouPZ"
+  }
+}

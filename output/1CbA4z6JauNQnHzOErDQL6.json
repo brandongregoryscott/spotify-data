@@ -1,0 +1,34 @@
+{
+  "id": "1CbA4z6JauNQnHzOErDQL6",
+  "name": "Luci4",
+  "uri": "spotify:artist:1CbA4z6JauNQnHzOErDQL6",
+  "followers": {
+    "href": null,
+    "total": 293635
+  },
+  "genres": [
+    "sigilkore",
+    "sped up"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba280b2baccd8b09e59e97386",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a280b2baccd8b09e59e97386",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a280b2baccd8b09e59e97386",
+      "width": 160
+    }
+  ],
+  "popularity": 60,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6"
+  }
+}

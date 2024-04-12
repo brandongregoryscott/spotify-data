@@ -1,0 +1,33 @@
+{
+  "id": "1lVFFPJ2itaa1ssmx4QBO4",
+  "name": "Casper Hill",
+  "uri": "spotify:artist:1lVFFPJ2itaa1ssmx4QBO4",
+  "followers": {
+    "href": null,
+    "total": 740
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebab3dd089f8a5ee5c0ff25626",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ab3dd089f8a5ee5c0ff25626",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ab3dd089f8a5ee5c0ff25626",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1lVFFPJ2itaa1ssmx4QBO4"
+  }
+}

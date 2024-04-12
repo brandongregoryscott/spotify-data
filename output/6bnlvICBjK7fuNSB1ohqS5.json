@@ -1,0 +1,34 @@
+{
+  "id": "6bnlvICBjK7fuNSB1ohqS5",
+  "name": "Danger Incorporated",
+  "uri": "spotify:artist:6bnlvICBjK7fuNSB1ohqS5",
+  "followers": {
+    "href": null,
+    "total": 202841
+  },
+  "genres": [
+    "cloud rap",
+    "dark trap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb345a897ea36847a3371e1251",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174345a897ea36847a3371e1251",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178345a897ea36847a3371e1251",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6bnlvICBjK7fuNSB1ohqS5"
+  }
+}

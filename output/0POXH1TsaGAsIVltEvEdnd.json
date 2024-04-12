@@ -1,0 +1,33 @@
+{
+  "id": "0POXH1TsaGAsIVltEvEdnd",
+  "name": "Pines",
+  "uri": "spotify:artist:0POXH1TsaGAsIVltEvEdnd",
+  "followers": {
+    "href": null,
+    "total": 144
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cdffcc7179f290013ce8cd3f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cdffcc7179f290013ce8cd3f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cdffcc7179f290013ce8cd3f",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0POXH1TsaGAsIVltEvEdnd"
+  }
+}

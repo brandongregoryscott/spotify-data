@@ -1,0 +1,33 @@
+{
+  "id": "0z4Xobq3Cww9QymK9EqVvq",
+  "name": "Burger Boy",
+  "uri": "spotify:artist:0z4Xobq3Cww9QymK9EqVvq",
+  "followers": {
+    "href": null,
+    "total": 310
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb65858060e2e164e70a005b06",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517465858060e2e164e70a005b06",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17865858060e2e164e70a005b06",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0z4Xobq3Cww9QymK9EqVvq"
+  }
+}

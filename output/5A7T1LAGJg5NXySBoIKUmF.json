@@ -1,0 +1,33 @@
+{
+  "id": "5A7T1LAGJg5NXySBoIKUmF",
+  "name": "che",
+  "uri": "spotify:artist:5A7T1LAGJg5NXySBoIKUmF",
+  "followers": {
+    "href": null,
+    "total": 86576
+  },
+  "genres": [
+    "rage rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb95942ab261acababf76f6163",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517495942ab261acababf76f6163",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17895942ab261acababf76f6163",
+      "width": 160
+    }
+  ],
+  "popularity": 53,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "74KM79TiuVKeVCqs8QtB0B",
+  "name": "Sabrina Carpenter",
+  "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B",
+  "followers": {
+    "href": null,
+    "total": 7739381
+  },
+  "genres": [
+    "pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaead9d4bfd812d0d267b2991",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aead9d4bfd812d0d267b2991",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aead9d4bfd812d0d267b2991",
+      "width": 160
+    }
+  ],
+  "popularity": 81,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+  }
+}

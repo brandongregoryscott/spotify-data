@@ -1,0 +1,33 @@
+{
+  "id": "1oPRcJUkloHaRLYx0olBLJ",
+  "name": "Magdalena Bay",
+  "uri": "spotify:artist:1oPRcJUkloHaRLYx0olBLJ",
+  "followers": {
+    "href": null,
+    "total": 196313
+  },
+  "genres": [
+    "la pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb698556458f9fff3d47a893ab",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174698556458f9fff3d47a893ab",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178698556458f9fff3d47a893ab",
+      "width": 160
+    }
+  ],
+  "popularity": 55,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+  }
+}

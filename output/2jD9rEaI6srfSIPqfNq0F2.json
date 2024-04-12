@@ -1,0 +1,33 @@
+{
+  "id": "2jD9rEaI6srfSIPqfNq0F2",
+  "name": "monnihead",
+  "uri": "spotify:artist:2jD9rEaI6srfSIPqfNq0F2",
+  "followers": {
+    "href": null,
+    "total": 488
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb34b63d98d9c5cc81d7114f68",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517434b63d98d9c5cc81d7114f68",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17834b63d98d9c5cc81d7114f68",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2jD9rEaI6srfSIPqfNq0F2"
+  }
+}

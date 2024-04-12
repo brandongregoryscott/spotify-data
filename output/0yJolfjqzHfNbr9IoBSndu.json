@@ -1,0 +1,33 @@
+{
+  "id": "0yJolfjqzHfNbr9IoBSndu",
+  "name": "Avey Tare",
+  "uri": "spotify:artist:0yJolfjqzHfNbr9IoBSndu",
+  "followers": {
+    "href": null,
+    "total": 38547
+  },
+  "genres": [
+    "experimental pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba72c69fdd7e8f0f26130db39",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a72c69fdd7e8f0f26130db39",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a72c69fdd7e8f0f26130db39",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu"
+  }
+}

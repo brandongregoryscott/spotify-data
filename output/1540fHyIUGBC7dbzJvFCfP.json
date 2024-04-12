@@ -1,0 +1,33 @@
+{
+  "id": "1540fHyIUGBC7dbzJvFCfP",
+  "name": "Sunforger",
+  "uri": "spotify:artist:1540fHyIUGBC7dbzJvFCfP",
+  "followers": {
+    "href": null,
+    "total": 781
+  },
+  "genres": [
+    "experimental indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb99cd6fdc5b4a94d26d1c7301",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517499cd6fdc5b4a94d26d1c7301",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17899cd6fdc5b4a94d26d1c7301",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1540fHyIUGBC7dbzJvFCfP"
+  }
+}

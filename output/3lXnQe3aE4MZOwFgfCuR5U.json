@@ -1,0 +1,33 @@
+{
+  "id": "3lXnQe3aE4MZOwFgfCuR5U",
+  "name": "5ever",
+  "uri": "spotify:artist:3lXnQe3aE4MZOwFgfCuR5U",
+  "followers": {
+    "href": null,
+    "total": 575
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9a5d9c9c92bd7661e79ba8de",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051749a5d9c9c92bd7661e79ba8de",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1789a5d9c9c92bd7661e79ba8de",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3lXnQe3aE4MZOwFgfCuR5U"
+  }
+}

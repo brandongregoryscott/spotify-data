@@ -1,0 +1,33 @@
+{
+  "id": "15eJnht8wSa1rUGRQpYU6l",
+  "name": "wishlane",
+  "uri": "spotify:artist:15eJnht8wSa1rUGRQpYU6l",
+  "followers": {
+    "href": null,
+    "total": 2709
+  },
+  "genres": [
+    "hyperpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4f47db578342c2f29bf78aa3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744f47db578342c2f29bf78aa3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784f47db578342c2f29bf78aa3",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/15eJnht8wSa1rUGRQpYU6l"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1PkM8pZQFryMO4FNSgs3Ld",
+  "name": "Jack Kwon",
+  "uri": "spotify:artist:1PkM8pZQFryMO4FNSgs3Ld",
+  "followers": {
+    "href": null,
+    "total": 11705
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc119792cb491592f520074d1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c119792cb491592f520074d1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c119792cb491592f520074d1",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1PkM8pZQFryMO4FNSgs3Ld"
+  }
+}

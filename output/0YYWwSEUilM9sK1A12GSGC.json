@@ -1,0 +1,33 @@
+{
+  "id": "0YYWwSEUilM9sK1A12GSGC",
+  "name": "leo.",
+  "uri": "spotify:artist:0YYWwSEUilM9sK1A12GSGC",
+  "followers": {
+    "href": null,
+    "total": 40374
+  },
+  "genres": [
+    "pov: indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb031500b46841a1df68ccf410",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174031500b46841a1df68ccf410",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178031500b46841a1df68ccf410",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0YYWwSEUilM9sK1A12GSGC"
+  }
+}

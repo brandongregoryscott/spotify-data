@@ -1,0 +1,33 @@
+{
+  "id": "5UjbkvWHVeK8gZiKHkJDxp",
+  "name": "Jean Pool",
+  "uri": "spotify:artist:5UjbkvWHVeK8gZiKHkJDxp",
+  "followers": {
+    "href": null,
+    "total": 609
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb25431a915e3adb6018c9f257",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517425431a915e3adb6018c9f257",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17825431a915e3adb6018c9f257",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5UjbkvWHVeK8gZiKHkJDxp"
+  }
+}

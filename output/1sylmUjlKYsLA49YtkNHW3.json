@@ -1,0 +1,34 @@
+{
+  "id": "1sylmUjlKYsLA49YtkNHW3",
+  "name": "Cursive",
+  "uri": "spotify:artist:1sylmUjlKYsLA49YtkNHW3",
+  "followers": {
+    "href": null,
+    "total": 109271
+  },
+  "genres": [
+    "emo",
+    "omaha indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb04d9e3c571bba4eab5cca2a7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517404d9e3c571bba4eab5cca2a7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17804d9e3c571bba4eab5cca2a7",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3"
+  }
+}

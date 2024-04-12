@@ -1,0 +1,33 @@
+{
+  "id": "3PpRFv88rIEusFzZwMl3Dr",
+  "name": "AJAY",
+  "uri": "spotify:artist:3PpRFv88rIEusFzZwMl3Dr",
+  "followers": {
+    "href": null,
+    "total": 471
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb658fd0213ef84141c9660268",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174658fd0213ef84141c9660268",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178658fd0213ef84141c9660268",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3PpRFv88rIEusFzZwMl3Dr"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "03ppzG5Nagi79iTjK7lX91",
+  "name": "tomi",
+  "uri": "spotify:artist:03ppzG5Nagi79iTjK7lX91",
+  "followers": {
+    "href": null,
+    "total": 837
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeedd420ca72453b8deb702ac",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eedd420ca72453b8deb702ac",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eedd420ca72453b8deb702ac",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03ppzG5Nagi79iTjK7lX91"
+  }
+}

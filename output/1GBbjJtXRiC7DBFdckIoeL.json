@@ -1,0 +1,33 @@
+{
+  "id": "1GBbjJtXRiC7DBFdckIoeL",
+  "name": "hexenzense",
+  "uri": "spotify:artist:1GBbjJtXRiC7DBFdckIoeL",
+  "followers": {
+    "href": null,
+    "total": 463
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb191b2fdf060eb8de791a9010",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174191b2fdf060eb8de791a9010",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178191b2fdf060eb8de791a9010",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1GBbjJtXRiC7DBFdckIoeL"
+  }
+}

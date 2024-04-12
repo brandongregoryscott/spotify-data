@@ -1,0 +1,37 @@
+{
+  "id": "6G7OerKc3eBO9sVkRNopFC",
+  "name": "Cat Power",
+  "uri": "spotify:artist:6G7OerKc3eBO9sVkRNopFC",
+  "followers": {
+    "href": null,
+    "total": 735432
+  },
+  "genres": [
+    "art pop",
+    "indie rock",
+    "melancholia",
+    "singer-songwriter",
+    "slowcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebda19135d5733a4ceaca360f7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174da19135d5733a4ceaca360f7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178da19135d5733a4ceaca360f7",
+      "width": 160
+    }
+  ],
+  "popularity": 56,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+  }
+}

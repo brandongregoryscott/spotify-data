@@ -1,0 +1,34 @@
+{
+  "id": "5EtZGidUP0imIVaUwBo4GW",
+  "name": "six impala",
+  "uri": "spotify:artist:5EtZGidUP0imIVaUwBo4GW",
+  "followers": {
+    "href": null,
+    "total": 20324
+  },
+  "genres": [
+    "bubblegum bass",
+    "hyperpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb14d163de7d0c424c044ab7c0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517414d163de7d0c424c044ab7c0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17814d163de7d0c424c044ab7c0",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW"
+  }
+}

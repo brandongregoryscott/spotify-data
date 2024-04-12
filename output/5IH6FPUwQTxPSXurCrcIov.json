@@ -1,0 +1,35 @@
+{
+  "id": "5IH6FPUwQTxPSXurCrcIov",
+  "name": "Alec Benjamin",
+  "uri": "spotify:artist:5IH6FPUwQTxPSXurCrcIov",
+  "followers": {
+    "href": null,
+    "total": 4972430
+  },
+  "genres": [
+    "alt z",
+    "pop",
+    "pov: indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbfe1e006291c44c97ba1757b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bfe1e006291c44c97ba1757b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bfe1e006291c44c97ba1757b",
+      "width": 160
+    }
+  ],
+  "popularity": 76,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+  }
+}

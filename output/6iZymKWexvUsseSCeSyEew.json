@@ -1,0 +1,33 @@
+{
+  "id": "6iZymKWexvUsseSCeSyEew",
+  "name": "No Demo",
+  "uri": "spotify:artist:6iZymKWexvUsseSCeSyEew",
+  "followers": {
+    "href": null,
+    "total": 138
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb691fb67b88da9e28c35a3912",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174691fb67b88da9e28c35a3912",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178691fb67b88da9e28c35a3912",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6iZymKWexvUsseSCeSyEew"
+  }
+}

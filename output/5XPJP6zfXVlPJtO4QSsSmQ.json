@@ -1,0 +1,33 @@
+{
+  "id": "5XPJP6zfXVlPJtO4QSsSmQ",
+  "name": "Chase Icon",
+  "uri": "spotify:artist:5XPJP6zfXVlPJtO4QSsSmQ",
+  "followers": {
+    "href": null,
+    "total": 62922
+  },
+  "genres": [
+    "pink noise"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebad102e0a248edf13a029842c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ad102e0a248edf13a029842c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ad102e0a248edf13a029842c",
+      "width": 160
+    }
+  ],
+  "popularity": 52,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "2rYqBfxSvw45tW4WP5drQ2",
+  "name": "Super American",
+  "uri": "spotify:artist:2rYqBfxSvw45tW4WP5drQ2",
+  "followers": {
+    "href": null,
+    "total": 12577
+  },
+  "genres": [
+    "alternative emo",
+    "anthem emo",
+    "buffalo ny indie",
+    "pop punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb688e040deb5c222965b393bd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174688e040deb5c222965b393bd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178688e040deb5c222965b393bd",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2"
+  }
+}

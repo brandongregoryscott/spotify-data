@@ -1,0 +1,33 @@
+{
+  "id": "1ZED8tttKWBN5qgssc94zQ",
+  "name": "My Guitar Is Trying to Kill Me",
+  "uri": "spotify:artist:1ZED8tttKWBN5qgssc94zQ",
+  "followers": {
+    "href": null,
+    "total": 2136
+  },
+  "genres": [
+    "lo-fi indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb212c30ea44dbbfd97891291e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174212c30ea44dbbfd97891291e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178212c30ea44dbbfd97891291e",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ZED8tttKWBN5qgssc94zQ"
+  }
+}

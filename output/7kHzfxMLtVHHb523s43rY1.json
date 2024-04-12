@@ -1,0 +1,39 @@
+{
+  "id": "7kHzfxMLtVHHb523s43rY1",
+  "name": "Converge",
+  "uri": "spotify:artist:7kHzfxMLtVHHb523s43rY1",
+  "followers": {
+    "href": null,
+    "total": 207229
+  },
+  "genres": [
+    "boston hardcore",
+    "chaotic hardcore",
+    "mathcore",
+    "metalcore",
+    "post-hardcore",
+    "post-rock",
+    "sludge metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc981c4a6e7890a2698db53f4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c981c4a6e7890a2698db53f4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c981c4a6e7890a2698db53f4",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
+  }
+}

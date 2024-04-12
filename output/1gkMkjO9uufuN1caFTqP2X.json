@@ -1,0 +1,33 @@
+{
+  "id": "1gkMkjO9uufuN1caFTqP2X",
+  "name": "Your Persona",
+  "uri": "spotify:artist:1gkMkjO9uufuN1caFTqP2X",
+  "followers": {
+    "href": null,
+    "total": 430
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb059dff97af65ae8ad662cfc9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174059dff97af65ae8ad662cfc9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178059dff97af65ae8ad662cfc9",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1gkMkjO9uufuN1caFTqP2X"
+  }
+}

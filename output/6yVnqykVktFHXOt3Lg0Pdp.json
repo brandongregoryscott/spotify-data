@@ -1,0 +1,33 @@
+{
+  "id": "6yVnqykVktFHXOt3Lg0Pdp",
+  "name": "Éclo",
+  "uri": "spotify:artist:6yVnqykVktFHXOt3Lg0Pdp",
+  "followers": {
+    "href": null,
+    "total": 527
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb13ce66c329c9c9323702ff09",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517413ce66c329c9c9323702ff09",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17813ce66c329c9c9323702ff09",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6yVnqykVktFHXOt3Lg0Pdp"
+  }
+}

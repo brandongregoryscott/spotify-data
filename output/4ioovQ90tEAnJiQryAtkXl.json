@@ -1,0 +1,34 @@
+{
+  "id": "4ioovQ90tEAnJiQryAtkXl",
+  "name": "Uboa",
+  "uri": "spotify:artist:4ioovQ90tEAnJiQryAtkXl",
+  "followers": {
+    "href": null,
+    "total": 21133
+  },
+  "genres": [
+    "death industrial",
+    "noise"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb24c6cf89eaf96a14b82e37cb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517424c6cf89eaf96a14b82e37cb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17824c6cf89eaf96a14b82e37cb",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4ioovQ90tEAnJiQryAtkXl"
+  }
+}

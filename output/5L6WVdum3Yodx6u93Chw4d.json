@@ -1,0 +1,33 @@
+{
+  "id": "5L6WVdum3Yodx6u93Chw4d",
+  "name": "Alumni",
+  "uri": "spotify:artist:5L6WVdum3Yodx6u93Chw4d",
+  "followers": {
+    "href": null,
+    "total": 251
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbfdc0830bf2c7ecbabd3a6b4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bfdc0830bf2c7ecbabd3a6b4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bfdc0830bf2c7ecbabd3a6b4",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5L6WVdum3Yodx6u93Chw4d"
+  }
+}

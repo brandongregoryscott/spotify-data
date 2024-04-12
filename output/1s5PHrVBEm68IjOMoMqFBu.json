@@ -1,0 +1,33 @@
+{
+  "id": "1s5PHrVBEm68IjOMoMqFBu",
+  "name": "Hijackk",
+  "uri": "spotify:artist:1s5PHrVBEm68IjOMoMqFBu",
+  "followers": {
+    "href": null,
+    "total": 183
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb010805c516f32a4544957f88",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174010805c516f32a4544957f88",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178010805c516f32a4544957f88",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1s5PHrVBEm68IjOMoMqFBu"
+  }
+}

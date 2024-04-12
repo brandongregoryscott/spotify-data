@@ -1,0 +1,33 @@
+{
+  "id": "3oJ87PKsCtAXbLhGaYZdZf",
+  "name": "Iris Holmes",
+  "uri": "spotify:artist:3oJ87PKsCtAXbLhGaYZdZf",
+  "followers": {
+    "href": null,
+    "total": 455
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb2a5c8f29d69dc3f07809e5bf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051742a5c8f29d69dc3f07809e5bf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1782a5c8f29d69dc3f07809e5bf",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3oJ87PKsCtAXbLhGaYZdZf"
+  }
+}

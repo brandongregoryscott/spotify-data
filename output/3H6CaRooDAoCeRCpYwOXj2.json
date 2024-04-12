@@ -1,0 +1,35 @@
+{
+  "id": "3H6CaRooDAoCeRCpYwOXj2",
+  "name": "Ramirez",
+  "uri": "spotify:artist:3H6CaRooDAoCeRCpYwOXj2",
+  "followers": {
+    "href": null,
+    "total": 386793
+  },
+  "genres": [
+    "cloud rap",
+    "dark trap",
+    "phonk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9b97b028946cf00184a43701",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051749b97b028946cf00184a43701",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1789b97b028946cf00184a43701",
+      "width": 160
+    }
+  ],
+  "popularity": 66,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5FJv6AMvBBaCIXTgFpWIUe",
+  "name": "1990Morgue",
+  "uri": "spotify:artist:5FJv6AMvBBaCIXTgFpWIUe",
+  "followers": {
+    "href": null,
+    "total": 1256
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27340557c9cbffd41eeef202a44",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0240557c9cbffd41eeef202a44",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485140557c9cbffd41eeef202a44",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5FJv6AMvBBaCIXTgFpWIUe"
+  }
+}

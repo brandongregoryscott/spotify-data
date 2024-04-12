@@ -1,0 +1,33 @@
+{
+  "id": "1MaQRDI7QUo8lm9vwWrBfL",
+  "name": "Jay Karin",
+  "uri": "spotify:artist:1MaQRDI7QUo8lm9vwWrBfL",
+  "followers": {
+    "href": null,
+    "total": 65
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4d151b433f60bc3bf39b5972",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744d151b433f60bc3bf39b5972",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784d151b433f60bc3bf39b5972",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1MaQRDI7QUo8lm9vwWrBfL"
+  }
+}

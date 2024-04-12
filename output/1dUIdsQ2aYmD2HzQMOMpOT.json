@@ -1,0 +1,33 @@
+{
+  "id": "1dUIdsQ2aYmD2HzQMOMpOT",
+  "name": "Twin Tacoma",
+  "uri": "spotify:artist:1dUIdsQ2aYmD2HzQMOMpOT",
+  "followers": {
+    "href": null,
+    "total": 2584
+  },
+  "genres": [
+    "modern indie folk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb566f6e72328e69858e687cd8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174566f6e72328e69858e687cd8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178566f6e72328e69858e687cd8",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1dUIdsQ2aYmD2HzQMOMpOT"
+  }
+}

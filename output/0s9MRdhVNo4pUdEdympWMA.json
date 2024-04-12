@@ -1,0 +1,33 @@
+{
+  "id": "0s9MRdhVNo4pUdEdympWMA",
+  "name": "chas m",
+  "uri": "spotify:artist:0s9MRdhVNo4pUdEdympWMA",
+  "followers": {
+    "href": null,
+    "total": 363
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb43619f2c8e757f54f48f7fd3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517443619f2c8e757f54f48f7fd3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17843619f2c8e757f54f48f7fd3",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0s9MRdhVNo4pUdEdympWMA"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7n3U6Ro1fSOb9rQHbUQl2j",
+  "name": "Cult Favorite",
+  "uri": "spotify:artist:7n3U6Ro1fSOb9rQHbUQl2j",
+  "followers": {
+    "href": null,
+    "total": 249
+  },
+  "genres": [
+    "abstract hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd2f912a291db81dd8715d529",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d2f912a291db81dd8715d529",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d2f912a291db81dd8715d529",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7n3U6Ro1fSOb9rQHbUQl2j"
+  }
+}

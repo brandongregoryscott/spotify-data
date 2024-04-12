@@ -1,0 +1,33 @@
+{
+  "id": "1BrsDdAUinxh5OUUScERow",
+  "name": "blottter",
+  "uri": "spotify:artist:1BrsDdAUinxh5OUUScERow",
+  "followers": {
+    "href": null,
+    "total": 5736
+  },
+  "genres": [
+    "chill breakcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc3363d8f71fe41206fb6890a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c3363d8f71fe41206fb6890a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c3363d8f71fe41206fb6890a",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1BrsDdAUinxh5OUUScERow"
+  }
+}

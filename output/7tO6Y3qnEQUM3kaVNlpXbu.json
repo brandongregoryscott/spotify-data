@@ -1,0 +1,33 @@
+{
+  "id": "7tO6Y3qnEQUM3kaVNlpXbu",
+  "name": "Zeruel",
+  "uri": "spotify:artist:7tO6Y3qnEQUM3kaVNlpXbu",
+  "followers": {
+    "href": null,
+    "total": 40558
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb62db6ca0e623569255b114c6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517462db6ca0e623569255b114c6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17862db6ca0e623569255b114c6",
+      "width": 160
+    }
+  ],
+  "popularity": 52,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7tO6Y3qnEQUM3kaVNlpXbu"
+  }
+}

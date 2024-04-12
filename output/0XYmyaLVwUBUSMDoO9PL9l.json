@@ -1,0 +1,33 @@
+{
+  "id": "0XYmyaLVwUBUSMDoO9PL9l",
+  "name": "Korcz",
+  "uri": "spotify:artist:0XYmyaLVwUBUSMDoO9PL9l",
+  "followers": {
+    "href": null,
+    "total": 204
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb36b1a6d9f583158d8005ba0a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517436b1a6d9f583158d8005ba0a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17836b1a6d9f583158d8005ba0a",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0XYmyaLVwUBUSMDoO9PL9l"
+  }
+}

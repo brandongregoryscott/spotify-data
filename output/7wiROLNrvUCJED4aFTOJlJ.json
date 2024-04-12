@@ -1,0 +1,33 @@
+{
+  "id": "7wiROLNrvUCJED4aFTOJlJ",
+  "name": "STATEN",
+  "uri": "spotify:artist:7wiROLNrvUCJED4aFTOJlJ",
+  "followers": {
+    "href": null,
+    "total": 391
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb76cf7499dad5a804ba986892",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517476cf7499dad5a804ba986892",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17876cf7499dad5a804ba986892",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7wiROLNrvUCJED4aFTOJlJ"
+  }
+}

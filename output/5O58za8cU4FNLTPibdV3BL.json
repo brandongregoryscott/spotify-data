@@ -1,0 +1,33 @@
+{
+  "id": "5O58za8cU4FNLTPibdV3BL",
+  "name": "soren",
+  "uri": "spotify:artist:5O58za8cU4FNLTPibdV3BL",
+  "followers": {
+    "href": null,
+    "total": 202
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734c1ec23c3b11efbb2bc6aca4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024c1ec23c3b11efbb2bc6aca4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515e5d35ca9cf15946a273b754",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5O58za8cU4FNLTPibdV3BL"
+  }
+}

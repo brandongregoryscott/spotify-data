@@ -1,0 +1,35 @@
+{
+  "id": "3tIzE1MQigIhocuWtGBNrx",
+  "name": "paranoid void",
+  "uri": "spotify:artist:3tIzE1MQigIhocuWtGBNrx",
+  "followers": {
+    "href": null,
+    "total": 24091
+  },
+  "genres": [
+    "japanese math rock",
+    "japanese post-rock",
+    "kansai indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba7eb1ffe7b085a0abd6b6ef2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a7eb1ffe7b085a0abd6b6ef2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a7eb1ffe7b085a0abd6b6ef2",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3tIzE1MQigIhocuWtGBNrx"
+  }
+}

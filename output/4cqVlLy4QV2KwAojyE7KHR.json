@@ -1,0 +1,33 @@
+{
+  "id": "4cqVlLy4QV2KwAojyE7KHR",
+  "name": "Science Noodles",
+  "uri": "spotify:artist:4cqVlLy4QV2KwAojyE7KHR",
+  "followers": {
+    "href": null,
+    "total": 27068
+  },
+  "genres": [
+    "hong kong indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebda92cd8e1e137b0310f82329",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174da92cd8e1e137b0310f82329",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178da92cd8e1e137b0310f82329",
+      "width": 160
+    }
+  ],
+  "popularity": 34,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4cqVlLy4QV2KwAojyE7KHR"
+  }
+}

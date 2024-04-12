@@ -1,0 +1,34 @@
+{
+  "id": "5L15t6I0PQS9SBXbiklPEN",
+  "name": "Summrs",
+  "uri": "spotify:artist:5L15t6I0PQS9SBXbiklPEN",
+  "followers": {
+    "href": null,
+    "total": 380390
+  },
+  "genres": [
+    "glitchcore",
+    "plugg"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb23ee53d92d7fb3cb1d87b94e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517423ee53d92d7fb3cb1d87b94e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17823ee53d92d7fb3cb1d87b94e",
+      "width": 160
+    }
+  ],
+  "popularity": 62,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN"
+  }
+}

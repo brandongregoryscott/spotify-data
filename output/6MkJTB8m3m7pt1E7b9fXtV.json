@@ -1,0 +1,33 @@
+{
+  "id": "6MkJTB8m3m7pt1E7b9fXtV",
+  "name": "Gosh Diggity",
+  "uri": "spotify:artist:6MkJTB8m3m7pt1E7b9fXtV",
+  "followers": {
+    "href": null,
+    "total": 417
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebde62de1a0588f27932b681d1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174de62de1a0588f27932b681d1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178de62de1a0588f27932b681d1",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6MkJTB8m3m7pt1E7b9fXtV"
+  }
+}

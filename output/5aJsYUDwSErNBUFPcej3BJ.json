@@ -1,0 +1,33 @@
+{
+  "id": "5aJsYUDwSErNBUFPcej3BJ",
+  "name": "Rigz",
+  "uri": "spotify:artist:5aJsYUDwSErNBUFPcej3BJ",
+  "followers": {
+    "href": null,
+    "total": 7902
+  },
+  "genres": [
+    "boom bap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb9ab8d2f51ef5f49d4197658",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b9ab8d2f51ef5f49d4197658",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b9ab8d2f51ef5f49d4197658",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5aJsYUDwSErNBUFPcej3BJ"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "5wbQ674GzsknR3lZucAVhx",
+  "name": "Avenade",
+  "uri": "spotify:artist:5wbQ674GzsknR3lZucAVhx",
+  "followers": {
+    "href": null,
+    "total": 4453
+  },
+  "genres": [
+    "normal indie",
+    "nu gaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebccc39796c86e6aeb779b8a5d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ccc39796c86e6aeb779b8a5d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ccc39796c86e6aeb779b8a5d",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5wbQ674GzsknR3lZucAVhx"
+  }
+}

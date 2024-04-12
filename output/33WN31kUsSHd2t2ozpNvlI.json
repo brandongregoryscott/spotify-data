@@ -1,0 +1,33 @@
+{
+  "id": "33WN31kUsSHd2t2ozpNvlI",
+  "name": "Iris Jupiter",
+  "uri": "spotify:artist:33WN31kUsSHd2t2ozpNvlI",
+  "followers": {
+    "href": null,
+    "total": 223
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf5d56b9800837d31363857e6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f5d56b9800837d31363857e6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f5d56b9800837d31363857e6",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/33WN31kUsSHd2t2ozpNvlI"
+  }
+}

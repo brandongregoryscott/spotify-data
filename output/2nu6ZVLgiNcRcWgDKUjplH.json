@@ -1,0 +1,34 @@
+{
+  "id": "2nu6ZVLgiNcRcWgDKUjplH",
+  "name": "eery",
+  "uri": "spotify:artist:2nu6ZVLgiNcRcWgDKUjplH",
+  "followers": {
+    "href": null,
+    "total": 78863
+  },
+  "genres": [
+    "lo-fi beats",
+    "lo-fi rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb87006a3eb6de8bcc3258e0a0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517487006a3eb6de8bcc3258e0a0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17887006a3eb6de8bcc3258e0a0",
+      "width": 160
+    }
+  ],
+  "popularity": 37,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2nu6ZVLgiNcRcWgDKUjplH"
+  }
+}

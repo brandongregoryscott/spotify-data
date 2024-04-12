@@ -1,0 +1,33 @@
+{
+  "id": "4yRSUmhuSJ3KcIMljdh4fH",
+  "name": "Chat Pile",
+  "uri": "spotify:artist:4yRSUmhuSJ3KcIMljdh4fH",
+  "followers": {
+    "href": null,
+    "total": 53397
+  },
+  "genres": [
+    "noise rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc018ac02cb4425bf41f283ca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c018ac02cb4425bf41f283ca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c018ac02cb4425bf41f283ca",
+      "width": 160
+    }
+  ],
+  "popularity": 34,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH"
+  }
+}

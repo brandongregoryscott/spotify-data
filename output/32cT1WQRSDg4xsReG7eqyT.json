@@ -1,0 +1,34 @@
+{
+  "id": "32cT1WQRSDg4xsReG7eqyT",
+  "name": "38 Spesh",
+  "uri": "spotify:artist:32cT1WQRSDg4xsReG7eqyT",
+  "followers": {
+    "href": null,
+    "total": 58303
+  },
+  "genres": [
+    "boom bap",
+    "upstate ny rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb05d9fdf74d1500efaceee3da",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517405d9fdf74d1500efaceee3da",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17805d9fdf74d1500efaceee3da",
+      "width": 160
+    }
+  ],
+  "popularity": 46,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+  }
+}

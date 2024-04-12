@@ -1,0 +1,33 @@
+{
+  "id": "2FG8ej88kwm05ia80G5xgD",
+  "name": "NotEnvy",
+  "uri": "spotify:artist:2FG8ej88kwm05ia80G5xgD",
+  "followers": {
+    "href": null,
+    "total": 1749
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb72f422f3272a6ed61040b620",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517472f422f3272a6ed61040b620",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17872f422f3272a6ed61040b620",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2FG8ej88kwm05ia80G5xgD"
+  }
+}

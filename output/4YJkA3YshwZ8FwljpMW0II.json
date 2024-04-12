@@ -1,0 +1,34 @@
+{
+  "id": "4YJkA3YshwZ8FwljpMW0II",
+  "name": "sagun",
+  "uri": "spotify:artist:4YJkA3YshwZ8FwljpMW0II",
+  "followers": {
+    "href": null,
+    "total": 177621
+  },
+  "genres": [
+    "lo-fi chill",
+    "sad lo-fi"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb2acd905e4db802351795bec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b2acd905e4db802351795bec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b2acd905e4db802351795bec",
+      "width": 160
+    }
+  ],
+  "popularity": 51,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II"
+  }
+}

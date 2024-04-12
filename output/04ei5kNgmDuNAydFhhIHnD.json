@@ -1,0 +1,33 @@
+{
+  "id": "04ei5kNgmDuNAydFhhIHnD",
+  "name": "Landon Cube",
+  "uri": "spotify:artist:04ei5kNgmDuNAydFhhIHnD",
+  "followers": {
+    "href": null,
+    "total": 370899
+  },
+  "genres": [
+    "pop rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb366376a838fb6dbe0334346a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174366376a838fb6dbe0334346a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178366376a838fb6dbe0334346a",
+      "width": 160
+    }
+  ],
+  "popularity": 56,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/04ei5kNgmDuNAydFhhIHnD"
+  }
+}

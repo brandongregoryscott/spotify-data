@@ -1,0 +1,34 @@
+{
+  "id": "1jUEqf1F3oW4JGoMfYxCvN",
+  "name": "The Velveteins",
+  "uri": "spotify:artist:1jUEqf1F3oW4JGoMfYxCvN",
+  "followers": {
+    "href": null,
+    "total": 21342
+  },
+  "genres": [
+    "edmonton indie",
+    "indie garage rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb62053bbf70c8b230fe7f3fff",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517462053bbf70c8b230fe7f3fff",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17862053bbf70c8b230fe7f3fff",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1jUEqf1F3oW4JGoMfYxCvN"
+  }
+}

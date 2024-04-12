@@ -1,0 +1,33 @@
+{
+  "id": "3BGUNVzuoQ79pOjLxJsZZg",
+  "name": "Her New Knife",
+  "uri": "spotify:artist:3BGUNVzuoQ79pOjLxJsZZg",
+  "followers": {
+    "href": null,
+    "total": 6966
+  },
+  "genres": [
+    "american shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3fc1ba2639d4ba501588e77d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051743fc1ba2639d4ba501588e77d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1783fc1ba2639d4ba501588e77d",
+      "width": 160
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg"
+  }
+}

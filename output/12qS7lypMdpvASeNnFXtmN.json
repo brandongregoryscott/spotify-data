@@ -1,0 +1,34 @@
+{
+  "id": "12qS7lypMdpvASeNnFXtmN",
+  "name": "Hoops",
+  "uri": "spotify:artist:12qS7lypMdpvASeNnFXtmN",
+  "followers": {
+    "href": null,
+    "total": 40352
+  },
+  "genres": [
+    "chill dream pop",
+    "indie garage rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebecc3c153ff67927f5737b36d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ecc3c153ff67927f5737b36d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ecc3c153ff67927f5737b36d",
+      "width": 160
+    }
+  ],
+  "popularity": 34,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/12qS7lypMdpvASeNnFXtmN"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1UFcACXh16Ani02WCn3FnO",
+  "name": "Racecar",
+  "uri": "spotify:artist:1UFcACXh16Ani02WCn3FnO",
+  "followers": {
+    "href": null,
+    "total": 125
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb87de453a2bde032afde6d65f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517487de453a2bde032afde6d65f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17887de453a2bde032afde6d65f",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1UFcACXh16Ani02WCn3FnO"
+  }
+}

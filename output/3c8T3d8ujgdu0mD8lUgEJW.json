@@ -1,0 +1,33 @@
+{
+  "id": "3c8T3d8ujgdu0mD8lUgEJW",
+  "name": "Seaholm",
+  "uri": "spotify:artist:3c8T3d8ujgdu0mD8lUgEJW",
+  "followers": {
+    "href": null,
+    "total": 1008
+  },
+  "genres": [
+    "ann arbor indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb30a7e2f2ea24f3ec7225daca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517430a7e2f2ea24f3ec7225daca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17830a7e2f2ea24f3ec7225daca",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3c8T3d8ujgdu0mD8lUgEJW"
+  }
+}

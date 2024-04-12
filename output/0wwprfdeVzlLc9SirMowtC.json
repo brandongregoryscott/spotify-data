@@ -1,0 +1,33 @@
+{
+  "id": "0wwprfdeVzlLc9SirMowtC",
+  "name": "RU$H",
+  "uri": "spotify:artist:0wwprfdeVzlLc9SirMowtC",
+  "followers": {
+    "href": null,
+    "total": 2790
+  },
+  "genres": [
+    "boom bap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb11f485a832c7db5a5b1fcfc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b11f485a832c7db5a5b1fcfc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b11f485a832c7db5a5b1fcfc",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0wwprfdeVzlLc9SirMowtC"
+  }
+}

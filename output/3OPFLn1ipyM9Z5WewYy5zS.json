@@ -1,0 +1,33 @@
+{
+  "id": "3OPFLn1ipyM9Z5WewYy5zS",
+  "name": "RXLVND",
+  "uri": "spotify:artist:3OPFLn1ipyM9Z5WewYy5zS",
+  "followers": {
+    "href": null,
+    "total": 5894
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb795baa880fdcbb7aa13b2d19",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174795baa880fdcbb7aa13b2d19",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178795baa880fdcbb7aa13b2d19",
+      "width": 160
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3OPFLn1ipyM9Z5WewYy5zS"
+  }
+}

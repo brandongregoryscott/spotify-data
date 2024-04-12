@@ -1,0 +1,34 @@
+{
+  "id": "78llxgPhTC161F8fNIjE6p",
+  "name": "Just Nick",
+  "uri": "spotify:artist:78llxgPhTC161F8fNIjE6p",
+  "followers": {
+    "href": null,
+    "total": 12266
+  },
+  "genres": [
+    "acoustic punk",
+    "folk punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdb166a088fcd3cdd43d21a0f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174db166a088fcd3cdd43d21a0f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178db166a088fcd3cdd43d21a0f",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/78llxgPhTC161F8fNIjE6p"
+  }
+}

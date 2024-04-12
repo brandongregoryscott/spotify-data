@@ -1,0 +1,33 @@
+{
+  "id": "03G0pJHLHj7FRuCV5OYzpv",
+  "name": "The Fiery Furnaces",
+  "uri": "spotify:artist:03G0pJHLHj7FRuCV5OYzpv",
+  "followers": {
+    "href": null,
+    "total": 25422
+  },
+  "genres": [
+    "brooklyn indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3f76f9a2e3f27e152dea5f51",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051743f76f9a2e3f27e152dea5f51",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1783f76f9a2e3f27e152dea5f51",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03G0pJHLHj7FRuCV5OYzpv"
+  }
+}

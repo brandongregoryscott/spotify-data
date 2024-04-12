@@ -1,0 +1,33 @@
+{
+  "id": "5irNNTdXLHmMsW9VSNyIE9",
+  "name": "Ty Farris",
+  "uri": "spotify:artist:5irNNTdXLHmMsW9VSNyIE9",
+  "followers": {
+    "href": null,
+    "total": 5132
+  },
+  "genres": [
+    "boom bap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb222228f7a441f631ccbc34ee",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174222228f7a441f631ccbc34ee",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178222228f7a441f631ccbc34ee",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5irNNTdXLHmMsW9VSNyIE9"
+  }
+}

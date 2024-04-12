@@ -1,0 +1,33 @@
+{
+  "id": "4cbUTvxHtDynXXbU6LEp7Z",
+  "name": "Concerned Friend",
+  "uri": "spotify:artist:4cbUTvxHtDynXXbU6LEp7Z",
+  "followers": {
+    "href": null,
+    "total": 434
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf463eaa1832b3447840e20bd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f463eaa1832b3447840e20bd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f463eaa1832b3447840e20bd",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4cbUTvxHtDynXXbU6LEp7Z"
+  }
+}

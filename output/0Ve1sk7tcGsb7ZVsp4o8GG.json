@@ -1,0 +1,35 @@
+{
+  "id": "0Ve1sk7tcGsb7ZVsp4o8GG",
+  "name": "The Softies",
+  "uri": "spotify:artist:0Ve1sk7tcGsb7ZVsp4o8GG",
+  "followers": {
+    "href": null,
+    "total": 17904
+  },
+  "genres": [
+    "sacramento indie",
+    "tape club",
+    "twee pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf79df082d2f233fc97fb6532",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f79df082d2f233fc97fb6532",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f79df082d2f233fc97fb6532",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Ve1sk7tcGsb7ZVsp4o8GG"
+  }
+}

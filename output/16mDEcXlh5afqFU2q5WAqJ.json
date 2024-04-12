@@ -1,0 +1,33 @@
+{
+  "id": "16mDEcXlh5afqFU2q5WAqJ",
+  "name": "Majetic",
+  "uri": "spotify:artist:16mDEcXlh5afqFU2q5WAqJ",
+  "followers": {
+    "href": null,
+    "total": 693
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba04b65b96c9a6f7b639810a9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a04b65b96c9a6f7b639810a9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a04b65b96c9a6f7b639810a9",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/16mDEcXlh5afqFU2q5WAqJ"
+  }
+}

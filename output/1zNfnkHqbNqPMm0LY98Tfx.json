@@ -1,0 +1,33 @@
+{
+  "id": "1zNfnkHqbNqPMm0LY98Tfx",
+  "name": "fredo disco",
+  "uri": "spotify:artist:1zNfnkHqbNqPMm0LY98Tfx",
+  "followers": {
+    "href": null,
+    "total": 31249
+  },
+  "genres": [
+    "diy emo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaf02f21044b8ef15b5505dce",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174af02f21044b8ef15b5505dce",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178af02f21044b8ef15b5505dce",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1zNfnkHqbNqPMm0LY98Tfx"
+  }
+}

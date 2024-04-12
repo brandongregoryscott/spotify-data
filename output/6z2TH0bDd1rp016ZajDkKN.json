@@ -1,0 +1,33 @@
+{
+  "id": "6z2TH0bDd1rp016ZajDkKN",
+  "name": "Plum",
+  "uri": "spotify:artist:6z2TH0bDd1rp016ZajDkKN",
+  "followers": {
+    "href": null,
+    "total": 3766
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe586aa408a2f5683bda84d88",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e586aa408a2f5683bda84d88",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e586aa408a2f5683bda84d88",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6z2TH0bDd1rp016ZajDkKN"
+  }
+}

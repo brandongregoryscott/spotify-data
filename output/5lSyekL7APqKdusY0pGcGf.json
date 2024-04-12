@@ -1,0 +1,33 @@
+{
+  "id": "5lSyekL7APqKdusY0pGcGf",
+  "name": "Rich People",
+  "uri": "spotify:artist:5lSyekL7APqKdusY0pGcGf",
+  "followers": {
+    "href": null,
+    "total": 7713
+  },
+  "genres": [
+    "anthem emo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb31ded2f7d19e93ff222c6a32",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517431ded2f7d19e93ff222c6a32",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17831ded2f7d19e93ff222c6a32",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5lSyekL7APqKdusY0pGcGf"
+  }
+}

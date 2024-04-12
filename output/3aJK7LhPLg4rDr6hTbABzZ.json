@@ -1,0 +1,33 @@
+{
+  "id": "3aJK7LhPLg4rDr6hTbABzZ",
+  "name": "Miss Ayesha",
+  "uri": "spotify:artist:3aJK7LhPLg4rDr6hTbABzZ",
+  "followers": {
+    "href": null,
+    "total": 28633
+  },
+  "genres": [
+    "pink noise"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcff240d07305702dcd6faa36",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cff240d07305702dcd6faa36",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cff240d07305702dcd6faa36",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3aJK7LhPLg4rDr6hTbABzZ"
+  }
+}

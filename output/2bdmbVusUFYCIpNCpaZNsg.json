@@ -1,0 +1,34 @@
+{
+  "id": "2bdmbVusUFYCIpNCpaZNsg",
+  "name": "Deadbroke",
+  "uri": "spotify:artist:2bdmbVusUFYCIpNCpaZNsg",
+  "followers": {
+    "href": null,
+    "total": 2369
+  },
+  "genres": [
+    "emo rap",
+    "lo-fi chill"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba54f42fd41f7c6b7c2b7aafc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a54f42fd41f7c6b7c2b7aafc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a54f42fd41f7c6b7c2b7aafc",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2bdmbVusUFYCIpNCpaZNsg"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7r756ODJFyOdgoFouNJzTu",
+  "name": "Rêve",
+  "uri": "spotify:artist:7r756ODJFyOdgoFouNJzTu",
+  "followers": {
+    "href": null,
+    "total": 255
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ba915ac26cbbdbc4f1f73cbb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ba915ac26cbbdbc4f1f73cbb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ba915ac26cbbdbc4f1f73cbb",
+      "width": 64
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7r756ODJFyOdgoFouNJzTu"
+  }
+}

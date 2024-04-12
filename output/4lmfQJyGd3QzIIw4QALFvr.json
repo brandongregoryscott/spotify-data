@@ -1,0 +1,33 @@
+{
+  "id": "4lmfQJyGd3QzIIw4QALFvr",
+  "name": "Marcelo",
+  "uri": "spotify:artist:4lmfQJyGd3QzIIw4QALFvr",
+  "followers": {
+    "href": null,
+    "total": 2589
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb64ce5c30202a7a8649b45d6c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517464ce5c30202a7a8649b45d6c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17864ce5c30202a7a8649b45d6c",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4lmfQJyGd3QzIIw4QALFvr"
+  }
+}

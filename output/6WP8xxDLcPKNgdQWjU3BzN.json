@@ -1,0 +1,33 @@
+{
+  "id": "6WP8xxDLcPKNgdQWjU3BzN",
+  "name": "Liquid Mike",
+  "uri": "spotify:artist:6WP8xxDLcPKNgdQWjU3BzN",
+  "followers": {
+    "href": null,
+    "total": 3347
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbfe117ebc41ba2fde97545fc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bfe117ebc41ba2fde97545fc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bfe117ebc41ba2fde97545fc",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6WP8xxDLcPKNgdQWjU3BzN"
+  }
+}

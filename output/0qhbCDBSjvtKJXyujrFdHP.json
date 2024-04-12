@@ -1,0 +1,35 @@
+{
+  "id": "0qhbCDBSjvtKJXyujrFdHP",
+  "name": "Tacoma Radar",
+  "uri": "spotify:artist:0qhbCDBSjvtKJXyujrFdHP",
+  "followers": {
+    "href": null,
+    "total": 6507
+  },
+  "genres": [
+    "lo-fi indie",
+    "scottish indie",
+    "slowcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731f219fee2ec9e49c0c26d5a4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021f219fee2ec9e49c0c26d5a4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511f219fee2ec9e49c0c26d5a4",
+      "width": 64
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0qhbCDBSjvtKJXyujrFdHP"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1GUci0loUu7Ysy2YkLLick",
+  "name": "Forma Norte",
+  "uri": "spotify:artist:1GUci0loUu7Ysy2YkLLick",
+  "followers": {
+    "href": null,
+    "total": 1886
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb20b15c361d9805a56b412a31",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517420b15c361d9805a56b412a31",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17820b15c361d9805a56b412a31",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1GUci0loUu7Ysy2YkLLick"
+  }
+}

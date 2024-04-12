@@ -1,0 +1,33 @@
+{
+  "id": "2svHPYrTsHMA9808TNCeRL",
+  "name": "Jay Cinema",
+  "uri": "spotify:artist:2svHPYrTsHMA9808TNCeRL",
+  "followers": {
+    "href": null,
+    "total": 1823
+  },
+  "genres": [
+    "chill abstract hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb872ef0b38ba7f83963b1fbee",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174872ef0b38ba7f83963b1fbee",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178872ef0b38ba7f83963b1fbee",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2svHPYrTsHMA9808TNCeRL"
+  }
+}

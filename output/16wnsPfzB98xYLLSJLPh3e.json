@@ -1,0 +1,35 @@
+{
+  "id": "16wnsPfzB98xYLLSJLPh3e",
+  "name": "Haggus",
+  "uri": "spotify:artist:16wnsPfzB98xYLLSJLPh3e",
+  "followers": {
+    "href": null,
+    "total": 19094
+  },
+  "genres": [
+    "american grindcore",
+    "goregrind",
+    "mincecore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb21b79b523157eb35e950c230",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517421b79b523157eb35e950c230",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17821b79b523157eb35e950c230",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/16wnsPfzB98xYLLSJLPh3e"
+  }
+}

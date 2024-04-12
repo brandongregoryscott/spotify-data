@@ -1,0 +1,33 @@
+{
+  "id": "7H8V1HogNgOYacGLtEQovZ",
+  "name": "Jersey Dave",
+  "uri": "spotify:artist:7H8V1HogNgOYacGLtEQovZ",
+  "followers": {
+    "href": null,
+    "total": 134
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebda7e7c1cdb99a0d4633de07f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174da7e7c1cdb99a0d4633de07f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178da7e7c1cdb99a0d4633de07f",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7H8V1HogNgOYacGLtEQovZ"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0vUk0rbl0BkFjmeFvjOvoj",
+  "name": "Ashes",
+  "uri": "spotify:artist:0vUk0rbl0BkFjmeFvjOvoj",
+  "followers": {
+    "href": null,
+    "total": 784
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb31940723ce0ba2dc2586504e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517431940723ce0ba2dc2586504e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17831940723ce0ba2dc2586504e",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0vUk0rbl0BkFjmeFvjOvoj"
+  }
+}

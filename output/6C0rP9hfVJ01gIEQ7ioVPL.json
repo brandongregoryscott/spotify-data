@@ -1,0 +1,33 @@
+{
+  "id": "6C0rP9hfVJ01gIEQ7ioVPL",
+  "name": "p3rsona!",
+  "uri": "spotify:artist:6C0rP9hfVJ01gIEQ7ioVPL",
+  "followers": {
+    "href": null,
+    "total": 323
+  },
+  "genres": [
+    "dariacore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7f77acb7fa762cde472c8860",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051747f77acb7fa762cde472c8860",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1787f77acb7fa762cde472c8860",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6C0rP9hfVJ01gIEQ7ioVPL"
+  }
+}

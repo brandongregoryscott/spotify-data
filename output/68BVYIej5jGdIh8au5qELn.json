@@ -1,0 +1,33 @@
+{
+  "id": "68BVYIej5jGdIh8au5qELn",
+  "name": "L'Rain",
+  "uri": "spotify:artist:68BVYIej5jGdIh8au5qELn",
+  "followers": {
+    "href": null,
+    "total": 36256
+  },
+  "genres": [
+    "collage pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd74fca99ded6a87a5befa7a4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d74fca99ded6a87a5befa7a4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d74fca99ded6a87a5befa7a4",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn"
+  }
+}

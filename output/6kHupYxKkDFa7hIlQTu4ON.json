@@ -1,0 +1,33 @@
+{
+  "id": "6kHupYxKkDFa7hIlQTu4ON",
+  "name": "sha ray",
+  "uri": "spotify:artist:6kHupYxKkDFa7hIlQTu4ON",
+  "followers": {
+    "href": null,
+    "total": 62
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebff7874ecb11356e993ed651f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ff7874ecb11356e993ed651f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ff7874ecb11356e993ed651f",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6kHupYxKkDFa7hIlQTu4ON"
+  }
+}

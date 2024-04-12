@@ -1,0 +1,33 @@
+{
+  "id": "5FJKTwdeCFfs7ZX66hNTSJ",
+  "name": "Al Menne",
+  "uri": "spotify:artist:5FJKTwdeCFfs7ZX66hNTSJ",
+  "followers": {
+    "href": null,
+    "total": 2107
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb999dc989d8e25223b938bc2f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174999dc989d8e25223b938bc2f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178999dc989d8e25223b938bc2f",
+      "width": 160
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5FJKTwdeCFfs7ZX66hNTSJ"
+  }
+}

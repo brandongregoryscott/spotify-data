@@ -1,0 +1,33 @@
+{
+  "id": "5Bw9kFNhy019e4IBCJZlzw",
+  "name": "Jordana",
+  "uri": "spotify:artist:5Bw9kFNhy019e4IBCJZlzw",
+  "followers": {
+    "href": null,
+    "total": 102601
+  },
+  "genres": [
+    "modern indie pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfebc6d17fc57eebef656ac6a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174febc6d17fc57eebef656ac6a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178febc6d17fc57eebef656ac6a",
+      "width": 160
+    }
+  ],
+  "popularity": 63,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+  }
+}

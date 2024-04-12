@@ -1,0 +1,39 @@
+{
+  "id": "5Q8gM5SMBT2LAoZ5LzqAvH",
+  "name": "Frank Black",
+  "uri": "spotify:artist:5Q8gM5SMBT2LAoZ5LzqAvH",
+  "followers": {
+    "href": null,
+    "total": 110752
+  },
+  "genres": [
+    "alternative rock",
+    "power pop"
+  ],
+  "images": [
+    {
+      "height": 1000,
+      "url": "https://i.scdn.co/image/0d2ad50905f22762f6a6dffd453cede14807ea92",
+      "width": 1000
+    },
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/179bf4f890ad52d046d007f875f5a16bbaeafd53",
+      "width": 640
+    },
+    {
+      "height": 200,
+      "url": "https://i.scdn.co/image/995344bddccd44af5b1441d09897fbb4621e3108",
+      "width": 200
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/494a018abbe59b91f5df3bbbe85f565244c12a4d",
+      "width": 64
+    }
+  ],
+  "popularity": 39,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Q8gM5SMBT2LAoZ5LzqAvH"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1h1CNvurvYYLyzLbpeqaLq",
+  "name": "saturn 17",
+  "uri": "spotify:artist:1h1CNvurvYYLyzLbpeqaLq",
+  "followers": {
+    "href": null,
+    "total": 19219
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc07ee9d137e1b1abefb9faaf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c07ee9d137e1b1abefb9faaf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c07ee9d137e1b1abefb9faaf",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1h1CNvurvYYLyzLbpeqaLq"
+  }
+}

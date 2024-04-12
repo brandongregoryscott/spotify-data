@@ -1,0 +1,35 @@
+{
+  "id": "31Wc49ZcT7cWtWGo2qbM0f",
+  "name": "Adventures",
+  "uri": "spotify:artist:31Wc49ZcT7cWtWGo2qbM0f",
+  "followers": {
+    "href": null,
+    "total": 19735
+  },
+  "genres": [
+    "alternative emo",
+    "dreamo",
+    "midwest emo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733d33e25ea489ec2ab60cc68d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023d33e25ea489ec2ab60cc68d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513d33e25ea489ec2ab60cc68d",
+      "width": 64
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/31Wc49ZcT7cWtWGo2qbM0f"
+  }
+}

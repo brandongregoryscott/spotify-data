@@ -1,0 +1,33 @@
+{
+  "id": "7nJaNAVeNa6mb2MIgQA8xw",
+  "name": "stampeter",
+  "uri": "spotify:artist:7nJaNAVeNa6mb2MIgQA8xw",
+  "followers": {
+    "href": null,
+    "total": 169
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27336db874ae2fb7232e9f7cfb5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0236db874ae2fb7232e9f7cfb5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485136db874ae2fb7232e9f7cfb5",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7nJaNAVeNa6mb2MIgQA8xw"
+  }
+}

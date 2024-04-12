@@ -1,0 +1,33 @@
+{
+  "id": "3aYQXcymMDktzapDd73jeE",
+  "name": "Michaelangelo",
+  "uri": "spotify:artist:3aYQXcymMDktzapDd73jeE",
+  "followers": {
+    "href": null,
+    "total": 2783
+  },
+  "genres": [
+    "boom bap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb08bf2bb7cef2f308ee5af346",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517408bf2bb7cef2f308ee5af346",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17808bf2bb7cef2f308ee5af346",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3aYQXcymMDktzapDd73jeE"
+  }
+}

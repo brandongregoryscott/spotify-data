@@ -1,0 +1,33 @@
+{
+  "id": "25hjCXq9ACmSkWbnvKMThf",
+  "name": "Nimstarr",
+  "uri": "spotify:artist:25hjCXq9ACmSkWbnvKMThf",
+  "followers": {
+    "href": null,
+    "total": 72292
+  },
+  "genres": [
+    "bedroom r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd56977f4ba2d606e71b35f14",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d56977f4ba2d606e71b35f14",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d56977f4ba2d606e71b35f14",
+      "width": 160
+    }
+  ],
+  "popularity": 61,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf"
+  }
+}

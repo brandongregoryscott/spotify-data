@@ -1,0 +1,33 @@
+{
+  "id": "7rS02nJ9p2v7VygAD70l8b",
+  "name": "Sour Fiction",
+  "uri": "spotify:artist:7rS02nJ9p2v7VygAD70l8b",
+  "followers": {
+    "href": null,
+    "total": 600
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb150454ae118b90507f20b4b4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174150454ae118b90507f20b4b4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178150454ae118b90507f20b4b4",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7rS02nJ9p2v7VygAD70l8b"
+  }
+}

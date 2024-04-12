@@ -1,0 +1,34 @@
+{
+  "id": "3rkvTohJjRrfR0FwRVZGJ2",
+  "name": "Dentist",
+  "uri": "spotify:artist:3rkvTohJjRrfR0FwRVZGJ2",
+  "followers": {
+    "href": null,
+    "total": 1987
+  },
+  "genres": [
+    "asbury park indie",
+    "indie surf"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb2fef5954cd1f427c1443d6a3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051742fef5954cd1f427c1443d6a3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1782fef5954cd1f427c1443d6a3",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3rkvTohJjRrfR0FwRVZGJ2"
+  }
+}

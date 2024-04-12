@@ -1,0 +1,33 @@
+{
+  "id": "4kUrsZgmDxtZvXLQcOo1PF",
+  "name": "Erisu",
+  "uri": "spotify:artist:4kUrsZgmDxtZvXLQcOo1PF",
+  "followers": {
+    "href": null,
+    "total": 5255
+  },
+  "genres": [
+    "emo rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb79f07abf325778e8315448f8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517479f07abf325778e8315448f8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17879f07abf325778e8315448f8",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4kUrsZgmDxtZvXLQcOo1PF"
+  }
+}

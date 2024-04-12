@@ -1,0 +1,33 @@
+{
+  "id": "7gA8t37hgJ60PM6lu1XYkI",
+  "name": "Nico North",
+  "uri": "spotify:artist:7gA8t37hgJ60PM6lu1XYkI",
+  "followers": {
+    "href": null,
+    "total": 295
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba0c85df8d989c2775040513d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a0c85df8d989c2775040513d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a0c85df8d989c2775040513d",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7gA8t37hgJ60PM6lu1XYkI"
+  }
+}

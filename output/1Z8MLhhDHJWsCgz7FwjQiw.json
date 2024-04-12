@@ -1,0 +1,33 @@
+{
+  "id": "1Z8MLhhDHJWsCgz7FwjQiw",
+  "name": "Hot Leather",
+  "uri": "spotify:artist:1Z8MLhhDHJWsCgz7FwjQiw",
+  "followers": {
+    "href": null,
+    "total": 1192
+  },
+  "genres": [
+    "epunk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb5d60c8b1b47f4c55afe82bf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b5d60c8b1b47f4c55afe82bf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b5d60c8b1b47f4c55afe82bf",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Z8MLhhDHJWsCgz7FwjQiw"
+  }
+}

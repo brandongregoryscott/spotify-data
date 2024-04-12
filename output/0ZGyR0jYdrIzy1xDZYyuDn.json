@@ -1,0 +1,33 @@
+{
+  "id": "0ZGyR0jYdrIzy1xDZYyuDn",
+  "name": "nickname jos",
+  "uri": "spotify:artist:0ZGyR0jYdrIzy1xDZYyuDn",
+  "followers": {
+    "href": null,
+    "total": 3025
+  },
+  "genres": [
+    "nashville indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdf956906502b119a018be6e1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174df956906502b119a018be6e1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178df956906502b119a018be6e1",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ZGyR0jYdrIzy1xDZYyuDn"
+  }
+}

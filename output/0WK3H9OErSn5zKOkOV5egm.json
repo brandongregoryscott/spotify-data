@@ -1,0 +1,34 @@
+{
+  "id": "0WK3H9OErSn5zKOkOV5egm",
+  "name": "DDG",
+  "uri": "spotify:artist:0WK3H9OErSn5zKOkOV5egm",
+  "followers": {
+    "href": null,
+    "total": 1277362
+  },
+  "genres": [
+    "pop rap",
+    "trap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb491981b0b50ee4656db2d36d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174491981b0b50ee4656db2d36d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178491981b0b50ee4656db2d36d",
+      "width": 160
+    }
+  ],
+  "popularity": 63,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+  }
+}

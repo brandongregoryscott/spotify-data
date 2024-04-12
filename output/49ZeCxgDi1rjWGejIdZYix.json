@@ -1,0 +1,33 @@
+{
+  "id": "49ZeCxgDi1rjWGejIdZYix",
+  "name": "lemon bread",
+  "uri": "spotify:artist:49ZeCxgDi1rjWGejIdZYix",
+  "followers": {
+    "href": null,
+    "total": 1064
+  },
+  "genres": [
+    "bedroom skramz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb757a13765579ad4970e6059a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174757a13765579ad4970e6059a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178757a13765579ad4970e6059a",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/49ZeCxgDi1rjWGejIdZYix"
+  }
+}

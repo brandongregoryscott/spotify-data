@@ -1,0 +1,33 @@
+{
+  "id": "1SWucm4IFusGaTVPynDmY4",
+  "name": "Goings",
+  "uri": "spotify:artist:1SWucm4IFusGaTVPynDmY4",
+  "followers": {
+    "href": null,
+    "total": 1221
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb371f3e541363ec9ba1c4a05c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174371f3e541363ec9ba1c4a05c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178371f3e541363ec9ba1c4a05c",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1SWucm4IFusGaTVPynDmY4"
+  }
+}

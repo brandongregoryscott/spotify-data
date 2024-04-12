@@ -1,0 +1,33 @@
+{
+  "id": "7xJdgZ8jsq2d1sZJWJejbE",
+  "name": "Nina Tech",
+  "uri": "spotify:artist:7xJdgZ8jsq2d1sZJWJejbE",
+  "followers": {
+    "href": null,
+    "total": 3106
+  },
+  "genres": [
+    "trap queen"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb22f5440d65c3b80b96103bd7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517422f5440d65c3b80b96103bd7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17822f5440d65c3b80b96103bd7",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7xJdgZ8jsq2d1sZJWJejbE"
+  }
+}

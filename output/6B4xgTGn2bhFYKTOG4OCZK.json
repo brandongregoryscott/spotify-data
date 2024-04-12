@@ -1,0 +1,33 @@
+{
+  "id": "6B4xgTGn2bhFYKTOG4OCZK",
+  "name": "Shh... This is a Library",
+  "uri": "spotify:artist:6B4xgTGn2bhFYKTOG4OCZK",
+  "followers": {
+    "href": null,
+    "total": 241
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ccc93d2a39526b6a607e6a0b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ccc93d2a39526b6a607e6a0b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ccc93d2a39526b6a607e6a0b",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6B4xgTGn2bhFYKTOG4OCZK"
+  }
+}

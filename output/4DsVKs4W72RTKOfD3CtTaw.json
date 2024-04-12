@@ -1,0 +1,33 @@
+{
+  "id": "4DsVKs4W72RTKOfD3CtTaw",
+  "name": "remy",
+  "uri": "spotify:artist:4DsVKs4W72RTKOfD3CtTaw",
+  "followers": {
+    "href": null,
+    "total": 19916
+  },
+  "genres": [
+    "modern indie pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb36922488ffbebb8461f355fe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517436922488ffbebb8461f355fe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17836922488ffbebb8461f355fe",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw"
+  }
+}

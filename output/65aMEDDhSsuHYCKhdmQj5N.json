@@ -1,0 +1,33 @@
+{
+  "id": "65aMEDDhSsuHYCKhdmQj5N",
+  "name": "The Lasso",
+  "uri": "spotify:artist:65aMEDDhSsuHYCKhdmQj5N",
+  "followers": {
+    "href": null,
+    "total": 1873
+  },
+  "genres": [
+    "psychedelic hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe5933322c331809d04ac5efe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e5933322c331809d04ac5efe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e5933322c331809d04ac5efe",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/65aMEDDhSsuHYCKhdmQj5N"
+  }
+}

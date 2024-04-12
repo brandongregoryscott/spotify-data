@@ -1,0 +1,35 @@
+{
+  "id": "1ORqMSJSmrCCJtFNUt7OqR",
+  "name": "Sangam",
+  "uri": "spotify:artist:1ORqMSJSmrCCJtFNUt7OqR",
+  "followers": {
+    "href": null,
+    "total": 9080
+  },
+  "genres": [
+    "ambient lo-fi",
+    "dreampunk",
+    "hardvapour"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb22e009076740c08e71d08300",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517422e009076740c08e71d08300",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17822e009076740c08e71d08300",
+      "width": 160
+    }
+  ],
+  "popularity": 47,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ORqMSJSmrCCJtFNUt7OqR"
+  }
+}

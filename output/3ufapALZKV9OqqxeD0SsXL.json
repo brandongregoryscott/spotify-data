@@ -1,0 +1,33 @@
+{
+  "id": "3ufapALZKV9OqqxeD0SsXL",
+  "name": "Peach Fuzz",
+  "uri": "spotify:artist:3ufapALZKV9OqqxeD0SsXL",
+  "followers": {
+    "href": null,
+    "total": 3009
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebddba3d8f3e2209974a854a37",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ddba3d8f3e2209974a854a37",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ddba3d8f3e2209974a854a37",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ufapALZKV9OqqxeD0SsXL"
+  }
+}

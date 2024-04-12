@@ -1,0 +1,33 @@
+{
+  "id": "2xtqvceHIoaEhiENoBezC8",
+  "name": "Somewhere",
+  "uri": "spotify:artist:2xtqvceHIoaEhiENoBezC8",
+  "followers": {
+    "href": null,
+    "total": 108
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5ec7442aa0de3217942a0bd8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051745ec7442aa0de3217942a0bd8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1785ec7442aa0de3217942a0bd8",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2xtqvceHIoaEhiENoBezC8"
+  }
+}

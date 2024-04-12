@@ -1,0 +1,33 @@
+{
+  "id": "5TksTjlfS8BKpHbbcoHO0Q",
+  "name": "Jake Tittle",
+  "uri": "spotify:artist:5TksTjlfS8BKpHbbcoHO0Q",
+  "followers": {
+    "href": null,
+    "total": 454
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcb8bd2027bc889f24c64d3b4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cb8bd2027bc889f24c64d3b4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cb8bd2027bc889f24c64d3b4",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5TksTjlfS8BKpHbbcoHO0Q"
+  }
+}

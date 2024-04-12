@@ -1,0 +1,33 @@
+{
+  "id": "3Xcs4iLjx3ojvXDjnU32O7",
+  "name": "Tommy the Animal",
+  "uri": "spotify:artist:3Xcs4iLjx3ojvXDjnU32O7",
+  "followers": {
+    "href": null,
+    "total": 336
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe978586e478d850b5c4d7da9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e978586e478d850b5c4d7da9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e978586e478d850b5c4d7da9",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Xcs4iLjx3ojvXDjnU32O7"
+  }
+}

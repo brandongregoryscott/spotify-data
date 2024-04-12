@@ -1,0 +1,34 @@
+{
+  "id": "6bayHl2VHbIseMg1jby37l",
+  "name": "Modern Color",
+  "uri": "spotify:artist:6bayHl2VHbIseMg1jby37l",
+  "followers": {
+    "href": null,
+    "total": 48397
+  },
+  "genres": [
+    "american shoegaze",
+    "dreamo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb88bbd8dc5a209d31400f8ebb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517488bbd8dc5a209d31400f8ebb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17888bbd8dc5a209d31400f8ebb",
+      "width": 160
+    }
+  ],
+  "popularity": 44,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l"
+  }
+}

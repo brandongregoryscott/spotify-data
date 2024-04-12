@@ -1,0 +1,33 @@
+{
+  "id": "0rWJFOldG3BBCEs34eq0kR",
+  "name": "The Cluster Flies",
+  "uri": "spotify:artist:0rWJFOldG3BBCEs34eq0kR",
+  "followers": {
+    "href": null,
+    "total": 102
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb96ff44237dcd4b2a814e1735",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517496ff44237dcd4b2a814e1735",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17896ff44237dcd4b2a814e1735",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0rWJFOldG3BBCEs34eq0kR"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3SozjO3Lat463tQICI9LcE",
+  "name": "Tyla",
+  "uri": "spotify:artist:3SozjO3Lat463tQICI9LcE",
+  "followers": {
+    "href": null,
+    "total": 904943
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcc628db5cd6fffcb659decab",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cc628db5cd6fffcb659decab",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cc628db5cd6fffcb659decab",
+      "width": 160
+    }
+  ],
+  "popularity": 80,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+  }
+}

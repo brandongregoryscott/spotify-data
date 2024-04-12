@@ -1,0 +1,34 @@
+{
+  "id": "3ajf12ub55b51qcS94d9Co",
+  "name": "Orla Gartland",
+  "uri": "spotify:artist:3ajf12ub55b51qcS94d9Co",
+  "followers": {
+    "href": null,
+    "total": 247600
+  },
+  "genres": [
+    "indie pop",
+    "irish pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb67d90e1b80be741fc4a6be13",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517467d90e1b80be741fc4a6be13",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17867d90e1b80be741fc4a6be13",
+      "width": 160
+    }
+  ],
+  "popularity": 51,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+  }
+}

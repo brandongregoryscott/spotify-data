@@ -1,0 +1,33 @@
+{
+  "id": "6dtWB9xG7j1nvjmPMrhTk7",
+  "name": "bappy",
+  "uri": "spotify:artist:6dtWB9xG7j1nvjmPMrhTk7",
+  "followers": {
+    "href": null,
+    "total": 268
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebebb73af195b97ea5739844ff",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ebb73af195b97ea5739844ff",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ebb73af195b97ea5739844ff",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6dtWB9xG7j1nvjmPMrhTk7"
+  }
+}

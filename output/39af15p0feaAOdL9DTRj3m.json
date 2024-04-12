@@ -1,0 +1,33 @@
+{
+  "id": "39af15p0feaAOdL9DTRj3m",
+  "name": "JT",
+  "uri": "spotify:artist:39af15p0feaAOdL9DTRj3m",
+  "followers": {
+    "href": null,
+    "total": 88829
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf256bc0ee9ed452d201d2888",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f256bc0ee9ed452d201d2888",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f256bc0ee9ed452d201d2888",
+      "width": 160
+    }
+  ],
+  "popularity": 62,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+  }
+}

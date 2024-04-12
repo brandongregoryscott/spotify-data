@@ -1,0 +1,33 @@
+{
+  "id": "5t2O8uGwolnWsmH2KgsL0p",
+  "name": "Jake Bogardus",
+  "uri": "spotify:artist:5t2O8uGwolnWsmH2KgsL0p",
+  "followers": {
+    "href": null,
+    "total": 103
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfd8ddae8417ae43c8b27b3b4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fd8ddae8417ae43c8b27b3b4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fd8ddae8417ae43c8b27b3b4",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5t2O8uGwolnWsmH2KgsL0p"
+  }
+}

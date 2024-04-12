@@ -1,0 +1,33 @@
+{
+  "id": "22bvUzi8MgkpSKBWGB2vTJ",
+  "name": "Ryan Hall",
+  "uri": "spotify:artist:22bvUzi8MgkpSKBWGB2vTJ",
+  "followers": {
+    "href": null,
+    "total": 13201
+  },
+  "genres": [
+    "hyper-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc0b0e7660da72142f016314a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c0b0e7660da72142f016314a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c0b0e7660da72142f016314a",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/22bvUzi8MgkpSKBWGB2vTJ"
+  }
+}

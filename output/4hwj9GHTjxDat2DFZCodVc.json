@@ -1,0 +1,33 @@
+{
+  "id": "4hwj9GHTjxDat2DFZCodVc",
+  "name": "caponeti",
+  "uri": "spotify:artist:4hwj9GHTjxDat2DFZCodVc",
+  "followers": {
+    "href": null,
+    "total": 1208
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb646d63837b2d3867b700612c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174646d63837b2d3867b700612c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178646d63837b2d3867b700612c",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4hwj9GHTjxDat2DFZCodVc"
+  }
+}

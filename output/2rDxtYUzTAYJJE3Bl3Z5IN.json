@@ -1,0 +1,36 @@
+{
+  "id": "2rDxtYUzTAYJJE3Bl3Z5IN",
+  "name": "Jeff Tweedy",
+  "uri": "spotify:artist:2rDxtYUzTAYJJE3Bl3Z5IN",
+  "followers": {
+    "href": null,
+    "total": 91693
+  },
+  "genres": [
+    "alternative country",
+    "chamber pop",
+    "roots rock",
+    "singer-songwriter"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfbddc561042109b5528d43d8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fbddc561042109b5528d43d8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fbddc561042109b5528d43d8",
+      "width": 160
+    }
+  ],
+  "popularity": 39,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN"
+  }
+}

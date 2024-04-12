@@ -1,0 +1,33 @@
+{
+  "id": "1ifeSQ0aSFTJcQUJXxGlVH",
+  "name": "Snacking",
+  "uri": "spotify:artist:1ifeSQ0aSFTJcQUJXxGlVH",
+  "followers": {
+    "href": null,
+    "total": 896
+  },
+  "genres": [
+    "st petersburg fl indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb14d83a8da9941c5c97fa55ac",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517414d83a8da9941c5c97fa55ac",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17814d83a8da9941c5c97fa55ac",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ifeSQ0aSFTJcQUJXxGlVH"
+  }
+}

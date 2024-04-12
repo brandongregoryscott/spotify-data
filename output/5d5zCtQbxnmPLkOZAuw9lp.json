@@ -1,0 +1,34 @@
+{
+  "id": "5d5zCtQbxnmPLkOZAuw9lp",
+  "name": "Diners",
+  "uri": "spotify:artist:5d5zCtQbxnmPLkOZAuw9lp",
+  "followers": {
+    "href": null,
+    "total": 17495
+  },
+  "genres": [
+    "indie garage rock",
+    "small room"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb248cf994da7719fa297c4d68",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174248cf994da7719fa297c4d68",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178248cf994da7719fa297c4d68",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5d5zCtQbxnmPLkOZAuw9lp"
+  }
+}

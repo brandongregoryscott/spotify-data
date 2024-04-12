@@ -1,0 +1,34 @@
+{
+  "id": "5cEY65Q6ZxL5vQKaKl7sXR",
+  "name": "Piqued",
+  "uri": "spotify:artist:5cEY65Q6ZxL5vQKaKl7sXR",
+  "followers": {
+    "href": null,
+    "total": 348
+  },
+  "genres": [
+    "new england emo",
+    "worcester ma indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd75b53bbdcd7de6d876c47bc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d75b53bbdcd7de6d876c47bc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d75b53bbdcd7de6d876c47bc",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5cEY65Q6ZxL5vQKaKl7sXR"
+  }
+}

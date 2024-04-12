@@ -1,0 +1,33 @@
+{
+  "id": "2Rn8McsCwkrCtBM7NK0ltb",
+  "name": "kasper gem",
+  "uri": "spotify:artist:2Rn8McsCwkrCtBM7NK0ltb",
+  "followers": {
+    "href": null,
+    "total": 2796
+  },
+  "genres": [
+    "glitchcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb722f175e2a122a1682f9cb92",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174722f175e2a122a1682f9cb92",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178722f175e2a122a1682f9cb92",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Rn8McsCwkrCtBM7NK0ltb"
+  }
+}

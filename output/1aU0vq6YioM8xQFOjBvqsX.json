@@ -1,0 +1,34 @@
+{
+  "id": "1aU0vq6YioM8xQFOjBvqsX",
+  "name": "Tall Friend",
+  "uri": "spotify:artist:1aU0vq6YioM8xQFOjBvqsX",
+  "followers": {
+    "href": null,
+    "total": 2212
+  },
+  "genres": [
+    "philly indie",
+    "small room"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb87e3282ea9d931e8ac3a229f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517487e3282ea9d931e8ac3a229f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17887e3282ea9d931e8ac3a229f",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1aU0vq6YioM8xQFOjBvqsX"
+  }
+}

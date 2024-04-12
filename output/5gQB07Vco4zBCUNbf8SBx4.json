@@ -1,0 +1,33 @@
+{
+  "id": "5gQB07Vco4zBCUNbf8SBx4",
+  "name": "Viper",
+  "uri": "spotify:artist:5gQB07Vco4zBCUNbf8SBx4",
+  "followers": {
+    "href": null,
+    "total": 31466
+  },
+  "genres": [
+    "cloud rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fd64a3922a98c12f7cf66d01",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fd64a3922a98c12f7cf66d01",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fd64a3922a98c12f7cf66d01",
+      "width": 64
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5gQB07Vco4zBCUNbf8SBx4"
+  }
+}

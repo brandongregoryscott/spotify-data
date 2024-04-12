@@ -1,0 +1,33 @@
+{
+  "id": "3vKT7DifMxpG9CWR7c8eC8",
+  "name": "JOBA",
+  "uri": "spotify:artist:3vKT7DifMxpG9CWR7c8eC8",
+  "followers": {
+    "href": null,
+    "total": 33588
+  },
+  "genres": [
+    "bedroom soul"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb39d8d521fd3b3dd3f68f51d6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517439d8d521fd3b3dd3f68f51d6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17839d8d521fd3b3dd3f68f51d6",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3vKT7DifMxpG9CWR7c8eC8"
+  }
+}

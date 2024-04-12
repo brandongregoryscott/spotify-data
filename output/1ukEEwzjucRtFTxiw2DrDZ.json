@@ -1,0 +1,33 @@
+{
+  "id": "1ukEEwzjucRtFTxiw2DrDZ",
+  "name": "Goat Girl",
+  "uri": "spotify:artist:1ukEEwzjucRtFTxiw2DrDZ",
+  "followers": {
+    "href": null,
+    "total": 71810
+  },
+  "genres": [
+    "crank wave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba8715985f7a6879dddb5a846",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a8715985f7a6879dddb5a846",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a8715985f7a6879dddb5a846",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ"
+  }
+}

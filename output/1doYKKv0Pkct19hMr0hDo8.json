@@ -1,0 +1,35 @@
+{
+  "id": "1doYKKv0Pkct19hMr0hDo8",
+  "name": "Jetty Bones",
+  "uri": "spotify:artist:1doYKKv0Pkct19hMr0hDo8",
+  "followers": {
+    "href": null,
+    "total": 16115
+  },
+  "genres": [
+    "anthem emo",
+    "dayton indie",
+    "diy emo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb051e683ec14b6e64709e9ebd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174051e683ec14b6e64709e9ebd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178051e683ec14b6e64709e9ebd",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1doYKKv0Pkct19hMr0hDo8"
+  }
+}

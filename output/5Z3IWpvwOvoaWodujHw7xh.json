@@ -1,0 +1,36 @@
+{
+  "id": "5Z3IWpvwOvoaWodujHw7xh",
+  "name": "Dan Deacon",
+  "uri": "spotify:artist:5Z3IWpvwOvoaWodujHw7xh",
+  "followers": {
+    "href": null,
+    "total": 122798
+  },
+  "genres": [
+    "baltimore indie",
+    "experimental pop",
+    "indietronica",
+    "noise pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbe862dadd4231c1735bb452a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174be862dadd4231c1735bb452a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178be862dadd4231c1735bb452a",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Z3IWpvwOvoaWodujHw7xh"
+  }
+}

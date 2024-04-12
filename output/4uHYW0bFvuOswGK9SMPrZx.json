@@ -1,0 +1,33 @@
+{
+  "id": "4uHYW0bFvuOswGK9SMPrZx",
+  "name": "Public Access",
+  "uri": "spotify:artist:4uHYW0bFvuOswGK9SMPrZx",
+  "followers": {
+    "href": null,
+    "total": 352
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba3743b7cd1ea5ba6aa6e4c0a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a3743b7cd1ea5ba6aa6e4c0a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a3743b7cd1ea5ba6aa6e4c0a",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4uHYW0bFvuOswGK9SMPrZx"
+  }
+}

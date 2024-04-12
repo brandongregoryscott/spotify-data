@@ -1,0 +1,33 @@
+{
+  "id": "75Cjwervrw6KbpnBVBLlpF",
+  "name": "Sweet Avenue",
+  "uri": "spotify:artist:75Cjwervrw6KbpnBVBLlpF",
+  "followers": {
+    "href": null,
+    "total": 166
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe9a2b4b3e7f33aba7160befc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e9a2b4b3e7f33aba7160befc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e9a2b4b3e7f33aba7160befc",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/75Cjwervrw6KbpnBVBLlpF"
+  }
+}

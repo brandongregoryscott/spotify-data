@@ -1,0 +1,33 @@
+{
+  "id": "01vSIL5z9eoJqtFNbTLGdn",
+  "name": "Brainspit",
+  "uri": "spotify:artist:01vSIL5z9eoJqtFNbTLGdn",
+  "followers": {
+    "href": null,
+    "total": 10371
+  },
+  "genres": [
+    "mincecore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb041276841b8aae8ab5ea2fed",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174041276841b8aae8ab5ea2fed",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178041276841b8aae8ab5ea2fed",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01vSIL5z9eoJqtFNbTLGdn"
+  }
+}

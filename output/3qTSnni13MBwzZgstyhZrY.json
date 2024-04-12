@@ -1,0 +1,36 @@
+{
+  "id": "3qTSnni13MBwzZgstyhZrY",
+  "name": "Noothgrush",
+  "uri": "spotify:artist:3qTSnni13MBwzZgstyhZrY",
+  "followers": {
+    "href": null,
+    "total": 17743
+  },
+  "genres": [
+    "crust punk",
+    "drone metal",
+    "powerviolence",
+    "sludge metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8d3d88ab5f144b604f75b414",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051748d3d88ab5f144b604f75b414",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1788d3d88ab5f144b604f75b414",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3qTSnni13MBwzZgstyhZrY"
+  }
+}

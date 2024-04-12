@@ -1,0 +1,33 @@
+{
+  "id": "03vWQx7x09Nqiv7Ks0HC7C",
+  "name": "a vow",
+  "uri": "spotify:artist:03vWQx7x09Nqiv7Ks0HC7C",
+  "followers": {
+    "href": null,
+    "total": 13256
+  },
+  "genres": [
+    "ambient lo-fi"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcfc2677f20705534067c76b7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cfc2677f20705534067c76b7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cfc2677f20705534067c76b7",
+      "width": 160
+    }
+  ],
+  "popularity": 58,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03vWQx7x09Nqiv7Ks0HC7C"
+  }
+}

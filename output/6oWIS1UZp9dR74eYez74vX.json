@@ -1,0 +1,34 @@
+{
+  "id": "6oWIS1UZp9dR74eYez74vX",
+  "name": "Tikkle Me",
+  "uri": "spotify:artist:6oWIS1UZp9dR74eYez74vX",
+  "followers": {
+    "href": null,
+    "total": 29273
+  },
+  "genres": [
+    "swedish electropop",
+    "swedish synthpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb11cdba68e26612a427836c77",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517411cdba68e26612a427836c77",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17811cdba68e26612a427836c77",
+      "width": 160
+    }
+  ],
+  "popularity": 50,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6oWIS1UZp9dR74eYez74vX"
+  }
+}

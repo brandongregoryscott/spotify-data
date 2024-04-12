@@ -1,0 +1,33 @@
+{
+  "id": "0ay59GIMW31rSEZKDmw8Aa",
+  "name": "mofie",
+  "uri": "spotify:artist:0ay59GIMW31rSEZKDmw8Aa",
+  "followers": {
+    "href": null,
+    "total": 841
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb512ec91d3ffb4f79113cc22e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174512ec91d3ffb4f79113cc22e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178512ec91d3ffb4f79113cc22e",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ay59GIMW31rSEZKDmw8Aa"
+  }
+}

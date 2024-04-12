@@ -1,0 +1,33 @@
+{
+  "id": "76ffLLty1y2p2eH4DylwIh",
+  "name": "BUGCORE",
+  "uri": "spotify:artist:76ffLLty1y2p2eH4DylwIh",
+  "followers": {
+    "href": null,
+    "total": 2809
+  },
+  "genres": [
+    "mashcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf1a5be427325d63e945878cb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f1a5be427325d63e945878cb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f1a5be427325d63e945878cb",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/76ffLLty1y2p2eH4DylwIh"
+  }
+}

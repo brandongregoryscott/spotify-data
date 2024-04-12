@@ -1,0 +1,33 @@
+{
+  "id": "3snKRklbclbHPIT9vPfnqu",
+  "name": "Marigold",
+  "uri": "spotify:artist:3snKRklbclbHPIT9vPfnqu",
+  "followers": {
+    "href": null,
+    "total": 582
+  },
+  "genres": [
+    "buffalo ny indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb6974b17bfc247c3e6f75ee7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b6974b17bfc247c3e6f75ee7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b6974b17bfc247c3e6f75ee7",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3snKRklbclbHPIT9vPfnqu"
+  }
+}

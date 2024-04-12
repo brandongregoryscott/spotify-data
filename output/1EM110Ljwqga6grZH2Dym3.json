@@ -1,0 +1,33 @@
+{
+  "id": "1EM110Ljwqga6grZH2Dym3",
+  "name": "Hardrock",
+  "uri": "spotify:artist:1EM110Ljwqga6grZH2Dym3",
+  "followers": {
+    "href": null,
+    "total": 83444
+  },
+  "genres": [
+    "rage rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb61ce2afc219ef3904d23f5dc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517461ce2afc219ef3904d23f5dc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17861ce2afc219ef3904d23f5dc",
+      "width": 160
+    }
+  ],
+  "popularity": 51,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3"
+  }
+}

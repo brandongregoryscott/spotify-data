@@ -1,0 +1,33 @@
+{
+  "id": "1eVNvxrTzIdtMQtY89unvN",
+  "name": "GAHM",
+  "uri": "spotify:artist:1eVNvxrTzIdtMQtY89unvN",
+  "followers": {
+    "href": null,
+    "total": 78
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebec5b4d8abb5566aa59a1ee7f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ec5b4d8abb5566aa59a1ee7f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ec5b4d8abb5566aa59a1ee7f",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1eVNvxrTzIdtMQtY89unvN"
+  }
+}

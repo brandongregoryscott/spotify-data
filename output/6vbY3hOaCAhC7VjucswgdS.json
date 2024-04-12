@@ -1,0 +1,36 @@
+{
+  "id": "6vbY3hOaCAhC7VjucswgdS",
+  "name": "Twista",
+  "uri": "spotify:artist:6vbY3hOaCAhC7VjucswgdS",
+  "followers": {
+    "href": null,
+    "total": 1054442
+  },
+  "genres": [
+    "chicago rap",
+    "dirty south rap",
+    "gangster rap",
+    "trap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe37be858f5a8b74dc35780c4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e37be858f5a8b74dc35780c4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e37be858f5a8b74dc35780c4",
+      "width": 160
+    }
+  ],
+  "popularity": 66,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
+  }
+}

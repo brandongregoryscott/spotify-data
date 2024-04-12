@@ -1,0 +1,33 @@
+{
+  "id": "1sUsr8Sursg7S81rBFTRZb",
+  "name": "kaisani",
+  "uri": "spotify:artist:1sUsr8Sursg7S81rBFTRZb",
+  "followers": {
+    "href": null,
+    "total": 3497
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfacb929b0e9e7c09fcb35daa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174facb929b0e9e7c09fcb35daa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178facb929b0e9e7c09fcb35daa",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1sUsr8Sursg7S81rBFTRZb"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5L8sOhELDubWJgQubXCPcK",
+  "name": "stack$",
+  "uri": "spotify:artist:5L8sOhELDubWJgQubXCPcK",
+  "followers": {
+    "href": null,
+    "total": 8950
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdfeb3bf096a86c24724cc4bc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dfeb3bf096a86c24724cc4bc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dfeb3bf096a86c24724cc4bc",
+      "width": 160
+    }
+  ],
+  "popularity": 41,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5L8sOhELDubWJgQubXCPcK"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3w4RoaGwSOh86XP8NIlogO",
+  "name": "In2Elements",
+  "uri": "spotify:artist:3w4RoaGwSOh86XP8NIlogO",
+  "followers": {
+    "href": null,
+    "total": 913
+  },
+  "genres": [
+    "american post-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb69d918d4cc1762f6b05aa140",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517469d918d4cc1762f6b05aa140",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17869d918d4cc1762f6b05aa140",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3w4RoaGwSOh86XP8NIlogO"
+  }
+}

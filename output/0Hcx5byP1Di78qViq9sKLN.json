@@ -1,0 +1,33 @@
+{
+  "id": "0Hcx5byP1Di78qViq9sKLN",
+  "name": "Sun Picture",
+  "uri": "spotify:artist:0Hcx5byP1Di78qViq9sKLN",
+  "followers": {
+    "href": null,
+    "total": 101
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273aa95bdf07f2ae3bbf21034ed",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02aa95bdf07f2ae3bbf21034ed",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851aa95bdf07f2ae3bbf21034ed",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Hcx5byP1Di78qViq9sKLN"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4skJp5OKvcc9eKokiuhi2s",
+  "name": "Pond",
+  "uri": "spotify:artist:4skJp5OKvcc9eKokiuhi2s",
+  "followers": {
+    "href": null,
+    "total": 327187
+  },
+  "genres": [
+    "neo-psychedelic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfeacc4fe5eb5046f077a998e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174feacc4fe5eb5046f077a998e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178feacc4fe5eb5046f077a998e",
+      "width": 160
+    }
+  ],
+  "popularity": 48,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
+  }
+}
