@@ -23,11 +23,13 @@ def main()
     new_artist_ids = []
 
     chunk.each_slice(50) do |artist_ids_chunk|
+        sleep(1)
+
         artists = RSpotify::Artist.find(artist_ids_chunk)
         artists.each_with_index do |artist, index|
             # Manually slow down the loop every 5th iteration since we're making an additional API call per artist we track
             if index % 5 === 0
-                sleep(0.5)
+                sleep(0.25)
             end
 
             save_artist_json_file(artist)
