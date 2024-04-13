@@ -1,0 +1,34 @@
+{
+  "id": "5c0KBOhx0CFxOvBrrr171R",
+  "name": "Quasar",
+  "uri": "spotify:artist:5c0KBOhx0CFxOvBrrr171R",
+  "followers": {
+    "href": null,
+    "total": 3122
+  },
+  "genres": [
+    "brazilian indie rock",
+    "shoegaze brasileiro"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe13da22d810f8d7c0ef6de1d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e13da22d810f8d7c0ef6de1d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e13da22d810f8d7c0ef6de1d",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5c0KBOhx0CFxOvBrrr171R"
+  }
+}

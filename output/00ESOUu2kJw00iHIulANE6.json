@@ -1,0 +1,35 @@
+{
+  "id": "00ESOUu2kJw00iHIulANE6",
+  "name": "Masonna",
+  "uri": "spotify:artist:00ESOUu2kJw00iHIulANE6",
+  "followers": {
+    "href": null,
+    "total": 11130
+  },
+  "genres": [
+    "japanoise",
+    "noise",
+    "power electronics"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c18c0a53284b00d79caf633f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c18c0a53284b00d79caf633f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c18c0a53284b00d79caf633f",
+      "width": 64
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/00ESOUu2kJw00iHIulANE6"
+  }
+}

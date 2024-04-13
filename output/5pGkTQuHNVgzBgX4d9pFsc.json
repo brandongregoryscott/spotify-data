@@ -1,0 +1,33 @@
+{
+  "id": "5pGkTQuHNVgzBgX4d9pFsc",
+  "name": "Veltpunch",
+  "uri": "spotify:artist:5pGkTQuHNVgzBgX4d9pFsc",
+  "followers": {
+    "href": null,
+    "total": 20787
+  },
+  "genres": [
+    "j-poprock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb25837bcec4ec5354fbd2dd46",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517425837bcec4ec5354fbd2dd46",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17825837bcec4ec5354fbd2dd46",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5pGkTQuHNVgzBgX4d9pFsc"
+  }
+}

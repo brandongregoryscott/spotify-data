@@ -1,0 +1,33 @@
+{
+  "id": "4h4xVUiuywBMpNJGq3hlMK",
+  "name": "Revin",
+  "uri": "spotify:artist:4h4xVUiuywBMpNJGq3hlMK",
+  "followers": {
+    "href": null,
+    "total": 966
+  },
+  "genres": [
+    "chill breakcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb9251985b0beb9e1a015618d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b9251985b0beb9e1a015618d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b9251985b0beb9e1a015618d",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4h4xVUiuywBMpNJGq3hlMK"
+  }
+}

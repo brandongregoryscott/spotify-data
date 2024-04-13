@@ -1,0 +1,33 @@
+{
+  "id": "1IPPbWefxSAcgfWHztfaIT",
+  "name": "Citrobal",
+  "uri": "spotify:artist:1IPPbWefxSAcgfWHztfaIT",
+  "followers": {
+    "href": null,
+    "total": 2955
+  },
+  "genres": [
+    "shibuya-kei"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27314e3c538eb363f3cc44dc4d8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0214e3c538eb363f3cc44dc4d8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485114e3c538eb363f3cc44dc4d8",
+      "width": 64
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1IPPbWefxSAcgfWHztfaIT"
+  }
+}

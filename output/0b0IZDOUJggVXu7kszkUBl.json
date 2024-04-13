@@ -1,0 +1,33 @@
+{
+  "id": "0b0IZDOUJggVXu7kszkUBl",
+  "name": "Kanpeki",
+  "uri": "spotify:artist:0b0IZDOUJggVXu7kszkUBl",
+  "followers": {
+    "href": null,
+    "total": 720
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb38bf5d95fe5f5325907100c6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517438bf5d95fe5f5325907100c6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17838bf5d95fe5f5325907100c6",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0b0IZDOUJggVXu7kszkUBl"
+  }
+}

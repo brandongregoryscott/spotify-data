@@ -1,0 +1,33 @@
+{
+  "id": "2KBLzBFLA62R7vAyRaQDk4",
+  "name": "Nyteout",
+  "uri": "spotify:artist:2KBLzBFLA62R7vAyRaQDk4",
+  "followers": {
+    "href": null,
+    "total": 486
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb040a62bb9ea6319bc58ec49c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174040a62bb9ea6319bc58ec49c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178040a62bb9ea6319bc58ec49c",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2KBLzBFLA62R7vAyRaQDk4"
+  }
+}

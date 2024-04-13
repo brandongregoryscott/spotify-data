@@ -1,0 +1,34 @@
+{
+  "id": "6mhTxQr2OvKXoNgXJ4qmbj",
+  "name": "전자양",
+  "uri": "spotify:artist:6mhTxQr2OvKXoNgXJ4qmbj",
+  "followers": {
+    "href": null,
+    "total": 3687
+  },
+  "genres": [
+    "k-indie",
+    "korean shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dc7245e6f80686fce2cb70c6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dc7245e6f80686fce2cb70c6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dc7245e6f80686fce2cb70c6",
+      "width": 64
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6mhTxQr2OvKXoNgXJ4qmbj"
+  }
+}

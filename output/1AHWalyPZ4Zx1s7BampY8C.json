@@ -1,0 +1,33 @@
+{
+  "id": "1AHWalyPZ4Zx1s7BampY8C",
+  "name": "Sitcom",
+  "uri": "spotify:artist:1AHWalyPZ4Zx1s7BampY8C",
+  "followers": {
+    "href": null,
+    "total": 22419
+  },
+  "genres": [
+    "small room"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdef3d80f9061cf991e44657b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174def3d80f9061cf991e44657b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178def3d80f9061cf991e44657b",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1AHWalyPZ4Zx1s7BampY8C"
+  }
+}

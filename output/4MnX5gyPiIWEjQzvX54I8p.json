@@ -1,0 +1,36 @@
+{
+  "id": "4MnX5gyPiIWEjQzvX54I8p",
+  "name": "END",
+  "uri": "spotify:artist:4MnX5gyPiIWEjQzvX54I8p",
+  "followers": {
+    "href": null,
+    "total": 62956
+  },
+  "genres": [
+    "chaotic hardcore",
+    "mathcore",
+    "metallic hardcore",
+    "new jersey hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf4539270169a9e3c3480e6a2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f4539270169a9e3c3480e6a2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f4539270169a9e3c3480e6a2",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p"
+  }
+}

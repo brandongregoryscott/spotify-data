@@ -1,0 +1,33 @@
+{
+  "id": "1qkTOVMyvliY1ALZ8hLt5m",
+  "name": "Frustrator",
+  "uri": "spotify:artist:1qkTOVMyvliY1ALZ8hLt5m",
+  "followers": {
+    "href": null,
+    "total": 495
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27307621b5372442fad40217cef",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0207621b5372442fad40217cef",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485107621b5372442fad40217cef",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1qkTOVMyvliY1ALZ8hLt5m"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3ExmT881CXzdkE8yR80dlU",
+  "name": "Katie Vick",
+  "uri": "spotify:artist:3ExmT881CXzdkE8yR80dlU",
+  "followers": {
+    "href": null,
+    "total": 281
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba5a978ce2fefb36222353c0c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a5a978ce2fefb36222353c0c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a5a978ce2fefb36222353c0c",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ExmT881CXzdkE8yR80dlU"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0t6ZITbnIlZ6hwR0AoznRF",
+  "name": "Wacko",
+  "uri": "spotify:artist:0t6ZITbnIlZ6hwR0AoznRF",
+  "followers": {
+    "href": null,
+    "total": 4989
+  },
+  "genres": [
+    "socal indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273edc6767066b588dd09563f9b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02edc6767066b588dd09563f9b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851edc6767066b588dd09563f9b",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0t6ZITbnIlZ6hwR0AoznRF"
+  }
+}

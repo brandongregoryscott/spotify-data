@@ -1,0 +1,34 @@
+{
+  "id": "7jwu4mG1DdUpe0gC2pjNpU",
+  "name": "Maggat",
+  "uri": "spotify:artist:7jwu4mG1DdUpe0gC2pjNpU",
+  "followers": {
+    "href": null,
+    "total": 956
+  },
+  "genres": [
+    "indie emo",
+    "new wave of screamo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe71210bd06ffc2737850ac1e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e71210bd06ffc2737850ac1e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e71210bd06ffc2737850ac1e",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7jwu4mG1DdUpe0gC2pjNpU"
+  }
+}

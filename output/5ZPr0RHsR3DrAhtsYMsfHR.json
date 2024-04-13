@@ -1,0 +1,35 @@
+{
+  "id": "5ZPr0RHsR3DrAhtsYMsfHR",
+  "name": "Jesus Piece",
+  "uri": "spotify:artist:5ZPr0RHsR3DrAhtsYMsfHR",
+  "followers": {
+    "href": null,
+    "total": 90239
+  },
+  "genres": [
+    "black punk",
+    "metallic hardcore",
+    "pennsylvania hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb25952629ccca24e45e4f098f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517425952629ccca24e45e4f098f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17825952629ccca24e45e4f098f",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR"
+  }
+}

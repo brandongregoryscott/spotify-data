@@ -1,0 +1,33 @@
+{
+  "id": "3duzRxIov4pDHb7EFlABoR",
+  "name": "zuro",
+  "uri": "spotify:artist:3duzRxIov4pDHb7EFlABoR",
+  "followers": {
+    "href": null,
+    "total": 1236
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb45924503230780025521b94d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517445924503230780025521b94d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17845924503230780025521b94d",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3duzRxIov4pDHb7EFlABoR"
+  }
+}
