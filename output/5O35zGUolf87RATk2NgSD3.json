@@ -1,0 +1,34 @@
+{
+  "id": "5O35zGUolf87RATk2NgSD3",
+  "name": "Hether",
+  "uri": "spotify:artist:5O35zGUolf87RATk2NgSD3",
+  "followers": {
+    "href": null,
+    "total": 48740
+  },
+  "genres": [
+    "bedroom pop",
+    "modern indie pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb75f08ad1ea42fe5791af0eec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517475f08ad1ea42fe5791af0eec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17875f08ad1ea42fe5791af0eec",
+      "width": 160
+    }
+  ],
+  "popularity": 46,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+  }
+}

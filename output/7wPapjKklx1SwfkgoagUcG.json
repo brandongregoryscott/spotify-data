@@ -1,0 +1,33 @@
+{
+  "id": "7wPapjKklx1SwfkgoagUcG",
+  "name": "sevnce",
+  "uri": "spotify:artist:7wPapjKklx1SwfkgoagUcG",
+  "followers": {
+    "href": null,
+    "total": 330
+  },
+  "genres": [
+    "chill breakcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbce43e9090f4b86614403f08",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bce43e9090f4b86614403f08",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bce43e9090f4b86614403f08",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7wPapjKklx1SwfkgoagUcG"
+  }
+}

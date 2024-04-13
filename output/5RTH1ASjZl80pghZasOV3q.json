@@ -1,0 +1,33 @@
+{
+  "id": "5RTH1ASjZl80pghZasOV3q",
+  "name": "Skizmo",
+  "uri": "spotify:artist:5RTH1ASjZl80pghZasOV3q",
+  "followers": {
+    "href": null,
+    "total": 252
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb94039f10966c749b021fe33f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517494039f10966c749b021fe33f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17894039f10966c749b021fe33f",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5RTH1ASjZl80pghZasOV3q"
+  }
+}

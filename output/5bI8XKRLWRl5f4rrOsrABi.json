@@ -1,0 +1,33 @@
+{
+  "id": "5bI8XKRLWRl5f4rrOsrABi",
+  "name": "Crescent",
+  "uri": "spotify:artist:5bI8XKRLWRl5f4rrOsrABi",
+  "followers": {
+    "href": null,
+    "total": 2096
+  },
+  "genres": [
+    "scenecore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd63225c65a53d00f3d4221cd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d63225c65a53d00f3d4221cd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d63225c65a53d00f3d4221cd",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5bI8XKRLWRl5f4rrOsrABi"
+  }
+}

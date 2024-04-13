@@ -1,0 +1,35 @@
+{
+  "id": "5kanrcJl2KaWNzmrIT58vf",
+  "name": "Hong Kong Express",
+  "uri": "spotify:artist:5kanrcJl2KaWNzmrIT58vf",
+  "followers": {
+    "href": null,
+    "total": 22236
+  },
+  "genres": [
+    "dreampunk",
+    "hardvapour",
+    "vaporwave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb26fbeeac4e8c45780b3b3a7d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517426fbeeac4e8c45780b3b3a7d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17826fbeeac4e8c45780b3b3a7d",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5kanrcJl2KaWNzmrIT58vf"
+  }
+}

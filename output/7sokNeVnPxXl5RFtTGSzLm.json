@@ -1,0 +1,33 @@
+{
+  "id": "7sokNeVnPxXl5RFtTGSzLm",
+  "name": "Fresh Jame",
+  "uri": "spotify:artist:7sokNeVnPxXl5RFtTGSzLm",
+  "followers": {
+    "href": null,
+    "total": 538
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734963813e49d7643185ad08ef",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024963813e49d7643185ad08ef",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514963813e49d7643185ad08ef",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7sokNeVnPxXl5RFtTGSzLm"
+  }
+}

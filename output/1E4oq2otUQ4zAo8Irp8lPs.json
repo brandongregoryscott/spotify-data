@@ -1,0 +1,33 @@
+{
+  "id": "1E4oq2otUQ4zAo8Irp8lPs",
+  "name": "secretamente estou reescrevendo minhas memórias",
+  "uri": "spotify:artist:1E4oq2otUQ4zAo8Irp8lPs",
+  "followers": {
+    "href": null,
+    "total": 512
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731e445db60027bf3beff07abf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021e445db60027bf3beff07abf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511e445db60027bf3beff07abf",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1E4oq2otUQ4zAo8Irp8lPs"
+  }
+}

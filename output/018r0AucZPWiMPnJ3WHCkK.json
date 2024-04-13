@@ -1,0 +1,33 @@
+{
+  "id": "018r0AucZPWiMPnJ3WHCkK",
+  "name": "Def",
+  "uri": "spotify:artist:018r0AucZPWiMPnJ3WHCkK",
+  "followers": {
+    "href": null,
+    "total": 1925
+  },
+  "genres": [
+    "brazilian emo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb071fee8a0d7184bfbb822b74",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174071fee8a0d7184bfbb822b74",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178071fee8a0d7184bfbb822b74",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/018r0AucZPWiMPnJ3WHCkK"
+  }
+}

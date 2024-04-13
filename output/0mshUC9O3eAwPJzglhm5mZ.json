@@ -1,0 +1,42 @@
+{
+  "id": "0mshUC9O3eAwPJzglhm5mZ",
+  "name": "The Secret",
+  "uri": "spotify:artist:0mshUC9O3eAwPJzglhm5mZ",
+  "followers": {
+    "href": null,
+    "total": 15715
+  },
+  "genres": [
+    "blackened crust",
+    "chaotic hardcore",
+    "drone metal",
+    "italian hardcore",
+    "neo-crust"
+  ],
+  "images": [
+    {
+      "height": 1000,
+      "url": "https://i.scdn.co/image/9715f395791b018eae17a30e6ba696ced63a7e26",
+      "width": 1000
+    },
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/4797727cdc5ab21a331afd2501c6262a4f99486f",
+      "width": 640
+    },
+    {
+      "height": 200,
+      "url": "https://i.scdn.co/image/05dcc873ab120d1a928cbf4efafcad58e653bcbc",
+      "width": 200
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/5617440cc25495bad0cc77732b1da6f2d92bfa61",
+      "width": 64
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0mshUC9O3eAwPJzglhm5mZ"
+  }
+}

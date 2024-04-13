@@ -1,0 +1,35 @@
+{
+  "id": "2vJObElaIZWYDLpiXiJMo9",
+  "name": "Cornelius",
+  "uri": "spotify:artist:2vJObElaIZWYDLpiXiJMo9",
+  "followers": {
+    "href": null,
+    "total": 153104
+  },
+  "genres": [
+    "indietronica",
+    "japanese alternative pop",
+    "shibuya-kei"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdd24386203ce97cd25e97496",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dd24386203ce97cd25e97496",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dd24386203ce97cd25e97496",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
+  }
+}

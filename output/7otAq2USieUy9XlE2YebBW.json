@@ -1,0 +1,33 @@
+{
+  "id": "7otAq2USieUy9XlE2YebBW",
+  "name": "Big Fun",
+  "uri": "spotify:artist:7otAq2USieUy9XlE2YebBW",
+  "followers": {
+    "href": null,
+    "total": 5475
+  },
+  "genres": [
+    "socal indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb12b00ec0d266ba58795f4eef",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517412b00ec0d266ba58795f4eef",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17812b00ec0d266ba58795f4eef",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7otAq2USieUy9XlE2YebBW"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6zBCHIcMTnEDL9Qj7bxLWK",
+  "name": "Practicxl",
+  "uri": "spotify:artist:6zBCHIcMTnEDL9Qj7bxLWK",
+  "followers": {
+    "href": null,
+    "total": 350
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb123c8f1eb7ece80f36d3cd02",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174123c8f1eb7ece80f36d3cd02",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178123c8f1eb7ece80f36d3cd02",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6zBCHIcMTnEDL9Qj7bxLWK"
+  }
+}

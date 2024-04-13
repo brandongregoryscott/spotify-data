@@ -1,0 +1,33 @@
+{
+  "id": "2lMbnMWwgAxvVHXVDlF3ZV",
+  "name": "Prince Innocence",
+  "uri": "spotify:artist:2lMbnMWwgAxvVHXVDlF3ZV",
+  "followers": {
+    "href": null,
+    "total": 12998
+  },
+  "genres": [
+    "canadian electropop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebff5ce00fba41008aa0865296",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ff5ce00fba41008aa0865296",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ff5ce00fba41008aa0865296",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2lMbnMWwgAxvVHXVDlF3ZV"
+  }
+}

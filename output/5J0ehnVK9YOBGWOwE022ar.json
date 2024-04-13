@@ -1,0 +1,33 @@
+{
+  "id": "5J0ehnVK9YOBGWOwE022ar",
+  "name": "Split Chain",
+  "uri": "spotify:artist:5J0ehnVK9YOBGWOwE022ar",
+  "followers": {
+    "href": null,
+    "total": 13843
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd3905d6568a2cce448b6fbc9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d3905d6568a2cce448b6fbc9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d3905d6568a2cce448b6fbc9",
+      "width": 160
+    }
+  ],
+  "popularity": 43,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
+  }
+}

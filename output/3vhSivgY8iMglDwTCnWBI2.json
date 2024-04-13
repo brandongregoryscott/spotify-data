@@ -1,0 +1,33 @@
+{
+  "id": "3vhSivgY8iMglDwTCnWBI2",
+  "name": "dreamloader",
+  "uri": "spotify:artist:3vhSivgY8iMglDwTCnWBI2",
+  "followers": {
+    "href": null,
+    "total": 250
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdb65a1b2955befa28497671d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174db65a1b2955befa28497671d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178db65a1b2955befa28497671d",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3vhSivgY8iMglDwTCnWBI2"
+  }
+}

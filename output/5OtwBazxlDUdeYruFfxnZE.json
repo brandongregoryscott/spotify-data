@@ -1,0 +1,33 @@
+{
+  "id": "5OtwBazxlDUdeYruFfxnZE",
+  "name": "Fridge",
+  "uri": "spotify:artist:5OtwBazxlDUdeYruFfxnZE",
+  "followers": {
+    "href": null,
+    "total": 237
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb56fcc7f66408f28440683a69",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517456fcc7f66408f28440683a69",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17856fcc7f66408f28440683a69",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5OtwBazxlDUdeYruFfxnZE"
+  }
+}

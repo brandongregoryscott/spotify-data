@@ -1,0 +1,33 @@
+{
+  "id": "2AOTmilsEJDBEM6SIHFFy6",
+  "name": "Blanket",
+  "uri": "spotify:artist:2AOTmilsEJDBEM6SIHFFy6",
+  "followers": {
+    "href": null,
+    "total": 15747
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb22c00e9208ce37b6095a598b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517422c00e9208ce37b6095a598b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17822c00e9208ce37b6095a598b",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6"
+  }
+}

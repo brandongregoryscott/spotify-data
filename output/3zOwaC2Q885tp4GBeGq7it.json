@@ -1,0 +1,33 @@
+{
+  "id": "3zOwaC2Q885tp4GBeGq7it",
+  "name": "havoc",
+  "uri": "spotify:artist:3zOwaC2Q885tp4GBeGq7it",
+  "followers": {
+    "href": null,
+    "total": 51
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27356dd85cea7c2bf6b5efc222b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0256dd85cea7c2bf6b5efc222b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485156dd85cea7c2bf6b5efc222b",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3zOwaC2Q885tp4GBeGq7it"
+  }
+}

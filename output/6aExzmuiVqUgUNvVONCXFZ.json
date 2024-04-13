@@ -1,0 +1,34 @@
+{
+  "id": "6aExzmuiVqUgUNvVONCXFZ",
+  "name": "Vapora",
+  "uri": "spotify:artist:6aExzmuiVqUgUNvVONCXFZ",
+  "followers": {
+    "href": null,
+    "total": 2746
+  },
+  "genres": [
+    "mallsoft",
+    "vaporwave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfe7c685745fbee5f32542d59",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fe7c685745fbee5f32542d59",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fe7c685745fbee5f32542d59",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6aExzmuiVqUgUNvVONCXFZ"
+  }
+}

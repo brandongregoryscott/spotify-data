@@ -1,0 +1,36 @@
+{
+  "id": "0wnipczytUzHtDCCoCWV6L",
+  "name": "Techno Animal",
+  "uri": "spotify:artist:0wnipczytUzHtDCCoCWV6L",
+  "followers": {
+    "href": null,
+    "total": 7447
+  },
+  "genres": [
+    "british experimental",
+    "british industrial",
+    "dub metal",
+    "industrial hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdc3694747a027a8c8dac8867",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dc3694747a027a8c8dac8867",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dc3694747a027a8c8dac8867",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0wnipczytUzHtDCCoCWV6L"
+  }
+}
