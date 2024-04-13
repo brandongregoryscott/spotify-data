@@ -1,0 +1,33 @@
+{
+  "id": "7pVTLdf8j65BYsLYmIuesd",
+  "name": "DM 90",
+  "uri": "spotify:artist:7pVTLdf8j65BYsLYmIuesd",
+  "followers": {
+    "href": null,
+    "total": 16758
+  },
+  "genres": [
+    "rally house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb897e82f2929088ca9eecc221",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174897e82f2929088ca9eecc221",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178897e82f2929088ca9eecc221",
+      "width": 160
+    }
+  ],
+  "popularity": 45,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7pVTLdf8j65BYsLYmIuesd"
+  }
+}

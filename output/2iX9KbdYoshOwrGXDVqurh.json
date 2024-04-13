@@ -1,0 +1,33 @@
+{
+  "id": "2iX9KbdYoshOwrGXDVqurh",
+  "name": "Redda",
+  "uri": "spotify:artist:2iX9KbdYoshOwrGXDVqurh",
+  "followers": {
+    "href": null,
+    "total": 13000
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe80e89dc9e2877f0852315a2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e80e89dc9e2877f0852315a2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e80e89dc9e2877f0852315a2",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2iX9KbdYoshOwrGXDVqurh"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5pbCmXHP1zv1aeMGjlNi06",
+  "name": "Rotundos",
+  "uri": "spotify:artist:5pbCmXHP1zv1aeMGjlNi06",
+  "followers": {
+    "href": null,
+    "total": 466
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbc28fd8a86a6528d0116368f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bc28fd8a86a6528d0116368f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bc28fd8a86a6528d0116368f",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5pbCmXHP1zv1aeMGjlNi06"
+  }
+}

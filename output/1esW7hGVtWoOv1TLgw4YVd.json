@@ -1,0 +1,33 @@
+{
+  "id": "1esW7hGVtWoOv1TLgw4YVd",
+  "name": "Jorge Andrés",
+  "uri": "spotify:artist:1esW7hGVtWoOv1TLgw4YVd",
+  "followers": {
+    "href": null,
+    "total": 201
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcebd04937248fe3ea0b01c71",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cebd04937248fe3ea0b01c71",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cebd04937248fe3ea0b01c71",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1esW7hGVtWoOv1TLgw4YVd"
+  }
+}

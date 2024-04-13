@@ -1,0 +1,33 @@
+{
+  "id": "5EMZTm0HlUrJqm2gEgIgES",
+  "name": "Pallas",
+  "uri": "spotify:artist:5EMZTm0HlUrJqm2gEgIgES",
+  "followers": {
+    "href": null,
+    "total": 231
+  },
+  "genres": [
+    "atlanta indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732024044865bc362819eb9f61",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022024044865bc362819eb9f61",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512024044865bc362819eb9f61",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5EMZTm0HlUrJqm2gEgIgES"
+  }
+}

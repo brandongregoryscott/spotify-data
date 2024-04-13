@@ -1,0 +1,33 @@
+{
+  "id": "6jAwGiTR1vM9nEnsSv2dn5",
+  "name": "Tama Gucci",
+  "uri": "spotify:artist:6jAwGiTR1vM9nEnsSv2dn5",
+  "followers": {
+    "href": null,
+    "total": 7999
+  },
+  "genres": [
+    "proto-hyperpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb73db358d91bee8e1f7cb13e3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517473db358d91bee8e1f7cb13e3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17873db358d91bee8e1f7cb13e3",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5"
+  }
+}

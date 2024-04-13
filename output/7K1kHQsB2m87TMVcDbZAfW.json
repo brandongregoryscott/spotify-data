@@ -1,0 +1,33 @@
+{
+  "id": "7K1kHQsB2m87TMVcDbZAfW",
+  "name": "Matty",
+  "uri": "spotify:artist:7K1kHQsB2m87TMVcDbZAfW",
+  "followers": {
+    "href": null,
+    "total": 31889
+  },
+  "genres": [
+    "neo-psychedelic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb03c88898c3a3fda6cb4f7d61",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517403c88898c3a3fda6cb4f7d61",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17803c88898c3a3fda6cb4f7d61",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW"
+  }
+}

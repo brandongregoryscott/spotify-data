@@ -1,0 +1,33 @@
+{
+  "id": "3rAqGBxAU0VsPMITnZHhsV",
+  "name": "Watch Out",
+  "uri": "spotify:artist:3rAqGBxAU0VsPMITnZHhsV",
+  "followers": {
+    "href": null,
+    "total": 254
+  },
+  "genres": [
+    "la hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb15cc4c62dcb5cc0dc4caf9ff",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517415cc4c62dcb5cc0dc4caf9ff",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17815cc4c62dcb5cc0dc4caf9ff",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3rAqGBxAU0VsPMITnZHhsV"
+  }
+}

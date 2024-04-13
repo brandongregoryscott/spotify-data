@@ -1,0 +1,33 @@
+{
+  "id": "0ivOJQm0lul3EPmhJ7MjnQ",
+  "name": "airattic",
+  "uri": "spotify:artist:0ivOJQm0lul3EPmhJ7MjnQ",
+  "followers": {
+    "href": null,
+    "total": 1209
+  },
+  "genres": [
+    "alt-idol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733adb41ad0117edc2f0a421ea",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023adb41ad0117edc2f0a421ea",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513adb41ad0117edc2f0a421ea",
+      "width": 64
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ivOJQm0lul3EPmhJ7MjnQ"
+  }
+}

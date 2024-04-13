@@ -1,0 +1,33 @@
+{
+  "id": "2avrAiKHyEOuZq92O1yIxV",
+  "name": "princess paparazzi",
+  "uri": "spotify:artist:2avrAiKHyEOuZq92O1yIxV",
+  "followers": {
+    "href": null,
+    "total": 5328
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb310147691fc20ff14fbfb357",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174310147691fc20ff14fbfb357",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178310147691fc20ff14fbfb357",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2avrAiKHyEOuZq92O1yIxV"
+  }
+}

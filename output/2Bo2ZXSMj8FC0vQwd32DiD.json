@@ -1,0 +1,33 @@
+{
+  "id": "2Bo2ZXSMj8FC0vQwd32DiD",
+  "name": "Neo Neos",
+  "uri": "spotify:artist:2Bo2ZXSMj8FC0vQwd32DiD",
+  "followers": {
+    "href": null,
+    "total": 720
+  },
+  "genres": [
+    "egg punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273722d9df7eefa37e35e325caf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02722d9df7eefa37e35e325caf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851722d9df7eefa37e35e325caf",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Bo2ZXSMj8FC0vQwd32DiD"
+  }
+}

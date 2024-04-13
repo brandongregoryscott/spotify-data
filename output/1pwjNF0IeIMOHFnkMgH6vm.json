@@ -1,0 +1,33 @@
+{
+  "id": "1pwjNF0IeIMOHFnkMgH6vm",
+  "name": "okybby",
+  "uri": "spotify:artist:1pwjNF0IeIMOHFnkMgH6vm",
+  "followers": {
+    "href": null,
+    "total": 442
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba35b213c2ee543aa30f72d08",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a35b213c2ee543aa30f72d08",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a35b213c2ee543aa30f72d08",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1pwjNF0IeIMOHFnkMgH6vm"
+  }
+}

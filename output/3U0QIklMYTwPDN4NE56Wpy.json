@@ -1,0 +1,35 @@
+{
+  "id": "3U0QIklMYTwPDN4NE56Wpy",
+  "name": "PYRAMID",
+  "uri": "spotify:artist:3U0QIklMYTwPDN4NE56Wpy",
+  "followers": {
+    "href": null,
+    "total": 4686
+  },
+  "genres": [
+    "japanese jazz",
+    "japanese jazz fusion",
+    "japanese soul"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb718cd84fb673823e65f82c06",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174718cd84fb673823e65f82c06",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178718cd84fb673823e65f82c06",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
+  }
+}

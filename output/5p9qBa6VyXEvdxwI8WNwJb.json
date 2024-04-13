@@ -1,0 +1,33 @@
+{
+  "id": "5p9qBa6VyXEvdxwI8WNwJb",
+  "name": "PROM",
+  "uri": "spotify:artist:5p9qBa6VyXEvdxwI8WNwJb",
+  "followers": {
+    "href": null,
+    "total": 4765
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebadd4254c7052ad293ce231b9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174add4254c7052ad293ce231b9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178add4254c7052ad293ce231b9",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5p9qBa6VyXEvdxwI8WNwJb"
+  }
+}

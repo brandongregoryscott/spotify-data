@@ -1,0 +1,33 @@
+{
+  "id": "681ANzmKTyqMjgPffPiFPp",
+  "name": "Melody English",
+  "uri": "spotify:artist:681ANzmKTyqMjgPffPiFPp",
+  "followers": {
+    "href": null,
+    "total": 1292
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba031d11578de842e0ed9e2f1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a031d11578de842e0ed9e2f1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a031d11578de842e0ed9e2f1",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/681ANzmKTyqMjgPffPiFPp"
+  }
+}

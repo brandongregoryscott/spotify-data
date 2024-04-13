@@ -1,0 +1,33 @@
+{
+  "id": "12VSR1NiYR5Gs7mbhZulQm",
+  "name": "Romeo Arcade",
+  "uri": "spotify:artist:12VSR1NiYR5Gs7mbhZulQm",
+  "followers": {
+    "href": null,
+    "total": 131
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb28be3fc48f08897a9e9df404",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517428be3fc48f08897a9e9df404",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17828be3fc48f08897a9e9df404",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/12VSR1NiYR5Gs7mbhZulQm"
+  }
+}

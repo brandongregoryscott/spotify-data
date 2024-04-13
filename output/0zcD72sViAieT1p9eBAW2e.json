@@ -1,0 +1,33 @@
+{
+  "id": "0zcD72sViAieT1p9eBAW2e",
+  "name": "PopKill",
+  "uri": "spotify:artist:0zcD72sViAieT1p9eBAW2e",
+  "followers": {
+    "href": null,
+    "total": 2344
+  },
+  "genres": [
+    "epunk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb00e2b58b849bdfda201856f6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517400e2b58b849bdfda201856f6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17800e2b58b849bdfda201856f6",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0zcD72sViAieT1p9eBAW2e"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1lqDRvPcGCAMCIMxICjgnf",
+  "name": "Abuse",
+  "uri": "spotify:artist:1lqDRvPcGCAMCIMxICjgnf",
+  "followers": {
+    "href": null,
+    "total": 8489
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f7ec7578152b79f70b7133f1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f7ec7578152b79f70b7133f1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f7ec7578152b79f70b7133f1",
+      "width": 64
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1lqDRvPcGCAMCIMxICjgnf"
+  }
+}

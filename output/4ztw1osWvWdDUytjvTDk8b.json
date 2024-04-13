@@ -1,0 +1,33 @@
+{
+  "id": "4ztw1osWvWdDUytjvTDk8b",
+  "name": "Torena",
+  "uri": "spotify:artist:4ztw1osWvWdDUytjvTDk8b",
+  "followers": {
+    "href": null,
+    "total": 5571
+  },
+  "genres": [
+    "california hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb75de3cc12d767c4c30b64311",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517475de3cc12d767c4c30b64311",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17875de3cc12d767c4c30b64311",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4ztw1osWvWdDUytjvTDk8b"
+  }
+}

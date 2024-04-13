@@ -1,0 +1,33 @@
+{
+  "id": "5DB2hxtY9wL2fC5VYaAsYS",
+  "name": "Hopper1000",
+  "uri": "spotify:artist:5DB2hxtY9wL2fC5VYaAsYS",
+  "followers": {
+    "href": null,
+    "total": 593
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebec03e0348812354305735375",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ec03e0348812354305735375",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ec03e0348812354305735375",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5DB2hxtY9wL2fC5VYaAsYS"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "5YqapqmxiGPp0njaXC10fz",
+  "name": "Hot Cross",
+  "uri": "spotify:artist:5YqapqmxiGPp0njaXC10fz",
+  "followers": {
+    "href": null,
+    "total": 7879
+  },
+  "genres": [
+    "philly indie",
+    "screamo",
+    "skramz"
+  ],
+  "images": [
+    {
+      "height": 200,
+      "url": "https://i.scdn.co/image/698d3191b0149655d9cf37a452b475becad2dedd",
+      "width": 300
+    },
+    {
+      "height": 133,
+      "url": "https://i.scdn.co/image/424a540741dfb81a562975e13a26ca7cd3060ffd",
+      "width": 200
+    },
+    {
+      "height": 43,
+      "url": "https://i.scdn.co/image/5830d94920150580f2b6debc31ebc38953136d16",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5YqapqmxiGPp0njaXC10fz"
+  }
+}

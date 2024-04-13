@@ -1,0 +1,33 @@
+{
+  "id": "7CknUKzfJxqgKAI1ZPhBGk",
+  "name": "Raed Raees",
+  "uri": "spotify:artist:7CknUKzfJxqgKAI1ZPhBGk",
+  "followers": {
+    "href": null,
+    "total": 1221
+  },
+  "genres": [
+    "experimental pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdcb30a2e68d75727b6f6372c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dcb30a2e68d75727b6f6372c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dcb30a2e68d75727b6f6372c",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7CknUKzfJxqgKAI1ZPhBGk"
+  }
+}

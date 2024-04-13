@@ -1,0 +1,34 @@
+{
+  "id": "0CQuAKiUYqH0OK020E3miJ",
+  "name": "domico",
+  "uri": "spotify:artist:0CQuAKiUYqH0OK020E3miJ",
+  "followers": {
+    "href": null,
+    "total": 44688
+  },
+  "genres": [
+    "j-rock",
+    "japanese alternative rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb79747d63ae1cd8c4105fbb1b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517479747d63ae1cd8c4105fbb1b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17879747d63ae1cd8c4105fbb1b",
+      "width": 160
+    }
+  ],
+  "popularity": 34,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ"
+  }
+}

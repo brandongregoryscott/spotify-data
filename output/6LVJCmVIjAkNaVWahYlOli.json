@@ -1,0 +1,33 @@
+{
+  "id": "6LVJCmVIjAkNaVWahYlOli",
+  "name": "The Abigails",
+  "uri": "spotify:artist:6LVJCmVIjAkNaVWahYlOli",
+  "followers": {
+    "href": null,
+    "total": 9726
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735ec0ad0e5489d67a3b613a37",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025ec0ad0e5489d67a3b613a37",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515ec0ad0e5489d67a3b613a37",
+      "width": 64
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6LVJCmVIjAkNaVWahYlOli"
+  }
+}

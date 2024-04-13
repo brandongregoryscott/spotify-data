@@ -1,0 +1,34 @@
+{
+  "id": "1l71h69qRBtPEVxtV0FSla",
+  "name": "Ceramic Hello",
+  "uri": "spotify:artist:1l71h69qRBtPEVxtV0FSla",
+  "followers": {
+    "href": null,
+    "total": 4466
+  },
+  "genres": [
+    "minimal wave",
+    "proto-techno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fd4bcd5171eb55ca1a4d5d1f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fd4bcd5171eb55ca1a4d5d1f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fd4bcd5171eb55ca1a4d5d1f",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1l71h69qRBtPEVxtV0FSla"
+  }
+}

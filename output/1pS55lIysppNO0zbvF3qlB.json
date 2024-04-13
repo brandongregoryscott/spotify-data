@@ -1,0 +1,33 @@
+{
+  "id": "1pS55lIysppNO0zbvF3qlB",
+  "name": "Max Diaz",
+  "uri": "spotify:artist:1pS55lIysppNO0zbvF3qlB",
+  "followers": {
+    "href": null,
+    "total": 12001
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8104cbf24ed9611739fd34c6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051748104cbf24ed9611739fd34c6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1788104cbf24ed9611739fd34c6",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1pS55lIysppNO0zbvF3qlB"
+  }
+}

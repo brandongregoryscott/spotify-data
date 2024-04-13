@@ -1,0 +1,33 @@
+{
+  "id": "43Gm1LUCd4aNssaTUMqIhG",
+  "name": "Jotay",
+  "uri": "spotify:artist:43Gm1LUCd4aNssaTUMqIhG",
+  "followers": {
+    "href": null,
+    "total": 489
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb52f35ddadb8c177b785cf547",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517452f35ddadb8c177b785cf547",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17852f35ddadb8c177b785cf547",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/43Gm1LUCd4aNssaTUMqIhG"
+  }
+}

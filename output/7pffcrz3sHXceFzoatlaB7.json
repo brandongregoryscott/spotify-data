@@ -1,0 +1,33 @@
+{
+  "id": "7pffcrz3sHXceFzoatlaB7",
+  "name": "Ultraluna",
+  "uri": "spotify:artist:7pffcrz3sHXceFzoatlaB7",
+  "followers": {
+    "href": null,
+    "total": 327
+  },
+  "genres": [
+    "shoegaze brasileiro"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb32c8fbedef575ba141f3e160",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517432c8fbedef575ba141f3e160",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17832c8fbedef575ba141f3e160",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7pffcrz3sHXceFzoatlaB7"
+  }
+}

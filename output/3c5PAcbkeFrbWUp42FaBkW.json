@@ -1,0 +1,33 @@
+{
+  "id": "3c5PAcbkeFrbWUp42FaBkW",
+  "name": "Belong",
+  "uri": "spotify:artist:3c5PAcbkeFrbWUp42FaBkW",
+  "followers": {
+    "href": null,
+    "total": 14685
+  },
+  "genres": [
+    "drone"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb381c64acfaa0a01e6a3d42c5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174381c64acfaa0a01e6a3d42c5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178381c64acfaa0a01e6a3d42c5",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3c5PAcbkeFrbWUp42FaBkW"
+  }
+}

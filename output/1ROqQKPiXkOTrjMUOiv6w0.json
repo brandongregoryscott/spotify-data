@@ -1,0 +1,33 @@
+{
+  "id": "1ROqQKPiXkOTrjMUOiv6w0",
+  "name": "Bean Boy",
+  "uri": "spotify:artist:1ROqQKPiXkOTrjMUOiv6w0",
+  "followers": {
+    "href": null,
+    "total": 1514
+  },
+  "genres": [
+    "bubblegum bass"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebda92d4e9284cc8474021f89c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174da92d4e9284cc8474021f89c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178da92d4e9284cc8474021f89c",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ROqQKPiXkOTrjMUOiv6w0"
+  }
+}

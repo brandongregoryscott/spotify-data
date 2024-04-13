@@ -1,0 +1,33 @@
+{
+  "id": "5Pq9MmggHpEYq0maxFcTEu",
+  "name": "Defamation",
+  "uri": "spotify:artist:5Pq9MmggHpEYq0maxFcTEu",
+  "followers": {
+    "href": null,
+    "total": 400
+  },
+  "genres": [
+    "la hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb78e5830dffa531cf25811315",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517478e5830dffa531cf25811315",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17878e5830dffa531cf25811315",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Pq9MmggHpEYq0maxFcTEu"
+  }
+}

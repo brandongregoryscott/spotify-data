@@ -1,0 +1,33 @@
+{
+  "id": "2aCi1if4XAlBJsVH35mCpx",
+  "name": "The Mall",
+  "uri": "spotify:artist:2aCi1if4XAlBJsVH35mCpx",
+  "followers": {
+    "href": null,
+    "total": 7303
+  },
+  "genres": [
+    "synth punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb41d27e0cc3561dfb6947782c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517441d27e0cc3561dfb6947782c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17841d27e0cc3561dfb6947782c",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2aCi1if4XAlBJsVH35mCpx"
+  }
+}

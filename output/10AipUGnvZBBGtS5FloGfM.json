@@ -1,0 +1,33 @@
+{
+  "id": "10AipUGnvZBBGtS5FloGfM",
+  "name": "Jake Tobin",
+  "uri": "spotify:artist:10AipUGnvZBBGtS5FloGfM",
+  "followers": {
+    "href": null,
+    "total": 1074
+  },
+  "genres": [
+    "experimental indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732900ee8ecd9b606748ed1b9e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022900ee8ecd9b606748ed1b9e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512900ee8ecd9b606748ed1b9e",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/10AipUGnvZBBGtS5FloGfM"
+  }
+}

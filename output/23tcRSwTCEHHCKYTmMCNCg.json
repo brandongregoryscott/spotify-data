@@ -1,0 +1,35 @@
+{
+  "id": "23tcRSwTCEHHCKYTmMCNCg",
+  "name": "Qual",
+  "uri": "spotify:artist:23tcRSwTCEHHCKYTmMCNCg",
+  "followers": {
+    "href": null,
+    "total": 20105
+  },
+  "genres": [
+    "dark post-punk",
+    "grave wave",
+    "minimal wave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc940969ed235abfeaf00fb2f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c940969ed235abfeaf00fb2f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c940969ed235abfeaf00fb2f",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/23tcRSwTCEHHCKYTmMCNCg"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "5ECyYNzsUGOleOIRvhm9En",
+  "name": "CMD094",
+  "uri": "spotify:artist:5ECyYNzsUGOleOIRvhm9En",
+  "followers": {
+    "href": null,
+    "total": 2119
+  },
+  "genres": [
+    "dreampunk",
+    "slushwave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c6430e750fd991a20fd2db0c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c6430e750fd991a20fd2db0c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c6430e750fd991a20fd2db0c",
+      "width": 64
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ECyYNzsUGOleOIRvhm9En"
+  }
+}

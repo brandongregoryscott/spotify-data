@@ -1,0 +1,34 @@
+{
+  "id": "4l3pCmSMjqdSkhWUZp6jCD",
+  "name": "Natsu Summer",
+  "uri": "spotify:artist:4l3pCmSMjqdSkhWUZp6jCD",
+  "followers": {
+    "href": null,
+    "total": 10656
+  },
+  "genres": [
+    "city pop",
+    "classic city pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb34f680352d97a78e074b0006",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517434f680352d97a78e074b0006",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17834f680352d97a78e074b0006",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD"
+  }
+}

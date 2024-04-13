@@ -1,0 +1,33 @@
+{
+  "id": "3cSFP8ZUJeHzJaPdHtdl0F",
+  "name": "Camille Keller",
+  "uri": "spotify:artist:3cSFP8ZUJeHzJaPdHtdl0F",
+  "followers": {
+    "href": null,
+    "total": 491
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb271ed172af5faff1db2481e5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174271ed172af5faff1db2481e5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178271ed172af5faff1db2481e5",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3cSFP8ZUJeHzJaPdHtdl0F"
+  }
+}

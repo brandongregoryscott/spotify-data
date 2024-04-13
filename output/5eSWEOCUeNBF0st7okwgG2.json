@@ -1,0 +1,33 @@
+{
+  "id": "5eSWEOCUeNBF0st7okwgG2",
+  "name": "Paseri Onuma",
+  "uri": "spotify:artist:5eSWEOCUeNBF0st7okwgG2",
+  "followers": {
+    "href": null,
+    "total": 12515
+  },
+  "genres": [
+    "vocaloid"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf4ba6d3c6f46104af5eb91bc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f4ba6d3c6f46104af5eb91bc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f4ba6d3c6f46104af5eb91bc",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5eSWEOCUeNBF0st7okwgG2"
+  }
+}

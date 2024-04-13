@@ -1,0 +1,33 @@
+{
+  "id": "5MKMyGF5liSToTOyWQ4Azb",
+  "name": "Roboteam",
+  "uri": "spotify:artist:5MKMyGF5liSToTOyWQ4Azb",
+  "followers": {
+    "href": null,
+    "total": 274
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d5ae914e199fc3dc2e8e6c6e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023f1615fe3fab81cc9f5d9f4b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513f1615fe3fab81cc9f5d9f4b",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5MKMyGF5liSToTOyWQ4Azb"
+  }
+}

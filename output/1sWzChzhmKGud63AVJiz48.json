@@ -1,0 +1,33 @@
+{
+  "id": "1sWzChzhmKGud63AVJiz48",
+  "name": "Faketechsupport",
+  "uri": "spotify:artist:1sWzChzhmKGud63AVJiz48",
+  "followers": {
+    "href": null,
+    "total": 102
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb552bbc6d0a64af57f5fe12c5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174552bbc6d0a64af57f5fe12c5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178552bbc6d0a64af57f5fe12c5",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1sWzChzhmKGud63AVJiz48"
+  }
+}

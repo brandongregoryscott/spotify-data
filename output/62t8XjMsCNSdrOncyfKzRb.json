@@ -1,0 +1,34 @@
+{
+  "id": "62t8XjMsCNSdrOncyfKzRb",
+  "name": "Krisma",
+  "uri": "spotify:artist:62t8XjMsCNSdrOncyfKzRb",
+  "followers": {
+    "href": null,
+    "total": 10526
+  },
+  "genres": [
+    "italian new wave",
+    "minimal wave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733fc567aa4a068afac933ff4a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023fc567aa4a068afac933ff4a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513fc567aa4a068afac933ff4a",
+      "width": 64
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/62t8XjMsCNSdrOncyfKzRb"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7EbEGUmlNL8TU34KEUsthy",
+  "name": "Semantix",
+  "uri": "spotify:artist:7EbEGUmlNL8TU34KEUsthy",
+  "followers": {
+    "href": null,
+    "total": 971
+  },
+  "genres": [
+    "modern ebm"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebca60d984ac91515faea96b0a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ca60d984ac91515faea96b0a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ca60d984ac91515faea96b0a",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7EbEGUmlNL8TU34KEUsthy"
+  }
+}

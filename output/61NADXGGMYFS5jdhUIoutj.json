@@ -1,0 +1,33 @@
+{
+  "id": "61NADXGGMYFS5jdhUIoutj",
+  "name": "Sonho Estranho",
+  "uri": "spotify:artist:61NADXGGMYFS5jdhUIoutj",
+  "followers": {
+    "href": null,
+    "total": 653
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb433db5d436bb15803a9cb21a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174433db5d436bb15803a9cb21a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178433db5d436bb15803a9cb21a",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/61NADXGGMYFS5jdhUIoutj"
+  }
+}

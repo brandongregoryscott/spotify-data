@@ -1,0 +1,33 @@
+{
+  "id": "2L8w8wwNFtKVGd9CLkicfe",
+  "name": "The Otals",
+  "uri": "spotify:artist:2L8w8wwNFtKVGd9CLkicfe",
+  "followers": {
+    "href": null,
+    "total": 1792
+  },
+  "genres": [
+    "japanese shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba780f4de981e8d682c4ce0e9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a780f4de981e8d682c4ce0e9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a780f4de981e8d682c4ce0e9",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2L8w8wwNFtKVGd9CLkicfe"
+  }
+}

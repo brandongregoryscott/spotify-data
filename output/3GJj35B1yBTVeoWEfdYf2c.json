@@ -1,0 +1,33 @@
+{
+  "id": "3GJj35B1yBTVeoWEfdYf2c",
+  "name": "Regejs",
+  "uri": "spotify:artist:3GJj35B1yBTVeoWEfdYf2c",
+  "followers": {
+    "href": null,
+    "total": 235
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb010acfbf4ad9841b7a3628c1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174010acfbf4ad9841b7a3628c1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178010acfbf4ad9841b7a3628c1",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3GJj35B1yBTVeoWEfdYf2c"
+  }
+}

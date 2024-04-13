@@ -1,0 +1,33 @@
+{
+  "id": "2FdDSPXB2n9hDmefj2Ou4U",
+  "name": "NELN",
+  "uri": "spotify:artist:2FdDSPXB2n9hDmefj2Ou4U",
+  "followers": {
+    "href": null,
+    "total": 1962
+  },
+  "genres": [
+    "alt-idol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb37ccc53d92f64ff848dbaf58",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517437ccc53d92f64ff848dbaf58",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17837ccc53d92f64ff848dbaf58",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2FdDSPXB2n9hDmefj2Ou4U"
+  }
+}

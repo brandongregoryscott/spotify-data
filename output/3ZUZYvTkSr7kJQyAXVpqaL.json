@@ -1,0 +1,38 @@
+{
+  "id": "3ZUZYvTkSr7kJQyAXVpqaL",
+  "name": "Donald Byrd",
+  "uri": "spotify:artist:3ZUZYvTkSr7kJQyAXVpqaL",
+  "followers": {
+    "href": null,
+    "total": 129491
+  },
+  "genres": [
+    "bebop",
+    "hard bop",
+    "jazz",
+    "jazz funk",
+    "jazz trumpet",
+    "soul jazz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb81b9ea6a232cbd9695ee14d6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517481b9ea6a232cbd9695ee14d6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17881b9ea6a232cbd9695ee14d6",
+      "width": 160
+    }
+  ],
+  "popularity": 48,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+  }
+}

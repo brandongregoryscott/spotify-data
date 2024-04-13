@@ -1,0 +1,33 @@
+{
+  "id": "5qiuvEjMGam0nWVOqEzFzO",
+  "name": "Youngbling",
+  "uri": "spotify:artist:5qiuvEjMGam0nWVOqEzFzO",
+  "followers": {
+    "href": null,
+    "total": 66
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdcdbd1f034d8f0169cd604b7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dcdbd1f034d8f0169cd604b7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dcdbd1f034d8f0169cd604b7",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5qiuvEjMGam0nWVOqEzFzO"
+  }
+}

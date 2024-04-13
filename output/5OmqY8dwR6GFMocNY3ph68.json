@@ -1,0 +1,33 @@
+{
+  "id": "5OmqY8dwR6GFMocNY3ph68",
+  "name": "Stux.Io",
+  "uri": "spotify:artist:5OmqY8dwR6GFMocNY3ph68",
+  "followers": {
+    "href": null,
+    "total": 5924
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb77d5b27cc452c0d3819e8e0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b77d5b27cc452c0d3819e8e0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b77d5b27cc452c0d3819e8e0",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68"
+  }
+}

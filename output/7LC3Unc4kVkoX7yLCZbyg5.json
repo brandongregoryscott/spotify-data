@@ -1,0 +1,33 @@
+{
+  "id": "7LC3Unc4kVkoX7yLCZbyg5",
+  "name": "Raça",
+  "uri": "spotify:artist:7LC3Unc4kVkoX7yLCZbyg5",
+  "followers": {
+    "href": null,
+    "total": 8100
+  },
+  "genres": [
+    "brazilian indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb573c6f90d6c41a4ec3d7057b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174573c6f90d6c41a4ec3d7057b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178573c6f90d6c41a4ec3d7057b",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5"
+  }
+}

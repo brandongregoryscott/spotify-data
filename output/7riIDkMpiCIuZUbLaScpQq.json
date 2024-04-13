@@ -1,0 +1,33 @@
+{
+  "id": "7riIDkMpiCIuZUbLaScpQq",
+  "name": "DAISY",
+  "uri": "spotify:artist:7riIDkMpiCIuZUbLaScpQq",
+  "followers": {
+    "href": null,
+    "total": 30770
+  },
+  "genres": [
+    "la pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb81e5f24cc2c8bda6bc425462",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517481e5f24cc2c8bda6bc425462",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17881e5f24cc2c8bda6bc425462",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7riIDkMpiCIuZUbLaScpQq"
+  }
+}

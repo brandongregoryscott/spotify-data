@@ -1,0 +1,33 @@
+{
+  "id": "0xGFys6ZDjNoPQmbVXIFtK",
+  "name": "Hearsing",
+  "uri": "spotify:artist:0xGFys6ZDjNoPQmbVXIFtK",
+  "followers": {
+    "href": null,
+    "total": 298
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb9687856af50ec092ac8683b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b9687856af50ec092ac8683b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b9687856af50ec092ac8683b",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0xGFys6ZDjNoPQmbVXIFtK"
+  }
+}

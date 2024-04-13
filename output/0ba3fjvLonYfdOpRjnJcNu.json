@@ -1,0 +1,33 @@
+{
+  "id": "0ba3fjvLonYfdOpRjnJcNu",
+  "name": "ピューパ!!",
+  "uri": "spotify:artist:0ba3fjvLonYfdOpRjnJcNu",
+  "followers": {
+    "href": null,
+    "total": 2545
+  },
+  "genres": [
+    "alt-idol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1bb717bdd495943a0917f626",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051741bb717bdd495943a0917f626",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1781bb717bdd495943a0917f626",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ba3fjvLonYfdOpRjnJcNu"
+  }
+}

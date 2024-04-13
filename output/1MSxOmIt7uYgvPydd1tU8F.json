@@ -1,0 +1,34 @@
+{
+  "id": "1MSxOmIt7uYgvPydd1tU8F",
+  "name": "Photay",
+  "uri": "spotify:artist:1MSxOmIt7uYgvPydd1tU8F",
+  "followers": {
+    "href": null,
+    "total": 64370
+  },
+  "genres": [
+    "indie jazz",
+    "wonky"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcd6e24f7a668ffd17eb16258",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cd6e24f7a668ffd17eb16258",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cd6e24f7a668ffd17eb16258",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F"
+  }
+}

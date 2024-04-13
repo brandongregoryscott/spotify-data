@@ -1,0 +1,33 @@
+{
+  "id": "3gcJTounp4NCELEkzR8oI1",
+  "name": "Oog Bogo",
+  "uri": "spotify:artist:3gcJTounp4NCELEkzR8oI1",
+  "followers": {
+    "href": null,
+    "total": 1902
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273288f288f214de892323de7b1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02288f288f214de892323de7b1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851288f288f214de892323de7b1",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3gcJTounp4NCELEkzR8oI1"
+  }
+}

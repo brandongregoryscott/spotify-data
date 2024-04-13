@@ -1,0 +1,33 @@
+{
+  "id": "1G9YDatH1zKWQYsETnj7Y5",
+  "name": "dokuros",
+  "uri": "spotify:artist:1G9YDatH1zKWQYsETnj7Y5",
+  "followers": {
+    "href": null,
+    "total": 125
+  },
+  "genres": [
+    "j-punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ecd4d06a9f285d5518609299",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ecd4d06a9f285d5518609299",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ecd4d06a9f285d5518609299",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1G9YDatH1zKWQYsETnj7Y5"
+  }
+}

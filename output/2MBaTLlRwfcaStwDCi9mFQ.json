@@ -1,0 +1,33 @@
+{
+  "id": "2MBaTLlRwfcaStwDCi9mFQ",
+  "name": "Human Garbage",
+  "uri": "spotify:artist:2MBaTLlRwfcaStwDCi9mFQ",
+  "followers": {
+    "href": null,
+    "total": 3244
+  },
+  "genres": [
+    "la hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe4564c83bd8af1808b077a9f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e4564c83bd8af1808b077a9f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e4564c83bd8af1808b077a9f",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2MBaTLlRwfcaStwDCi9mFQ"
+  }
+}

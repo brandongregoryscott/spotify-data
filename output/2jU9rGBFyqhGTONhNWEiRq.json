@@ -1,0 +1,35 @@
+{
+  "id": "2jU9rGBFyqhGTONhNWEiRq",
+  "name": "Tropical Interface",
+  "uri": "spotify:artist:2jU9rGBFyqhGTONhNWEiRq",
+  "followers": {
+    "href": null,
+    "total": 1316
+  },
+  "genres": [
+    "deconstructed club",
+    "experimental club",
+    "russian experimental electronic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27393e7a6837b55397bc6156b02",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0293e7a6837b55397bc6156b02",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485193e7a6837b55397bc6156b02",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2jU9rGBFyqhGTONhNWEiRq"
+  }
+}

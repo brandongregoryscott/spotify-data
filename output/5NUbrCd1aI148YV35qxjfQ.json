@@ -1,0 +1,33 @@
+{
+  "id": "5NUbrCd1aI148YV35qxjfQ",
+  "name": "Fluid",
+  "uri": "spotify:artist:5NUbrCd1aI148YV35qxjfQ",
+  "followers": {
+    "href": null,
+    "total": 320
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd7db61eec130eb14f96f14b5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d7db61eec130eb14f96f14b5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d7db61eec130eb14f96f14b5",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5NUbrCd1aI148YV35qxjfQ"
+  }
+}

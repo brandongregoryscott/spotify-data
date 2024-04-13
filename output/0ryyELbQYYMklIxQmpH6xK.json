@@ -1,0 +1,35 @@
+{
+  "id": "0ryyELbQYYMklIxQmpH6xK",
+  "name": "HiGE",
+  "uri": "spotify:artist:0ryyELbQYYMklIxQmpH6xK",
+  "followers": {
+    "href": null,
+    "total": 14677
+  },
+  "genres": [
+    "j-rock",
+    "japanese alternative rock",
+    "japanese indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb30678cbb8fc325416df75e7f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517430678cbb8fc325416df75e7f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17830678cbb8fc325416df75e7f",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ryyELbQYYMklIxQmpH6xK"
+  }
+}

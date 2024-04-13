@@ -1,0 +1,33 @@
+{
+  "id": "1emgDf5qBtbL909f2Pt7uP",
+  "name": "3LNA",
+  "uri": "spotify:artist:1emgDf5qBtbL909f2Pt7uP",
+  "followers": {
+    "href": null,
+    "total": 12557
+  },
+  "genres": [
+    "neue neue deutsche welle"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb316cb369eeaffa98fa339cba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174316cb369eeaffa98fa339cba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178316cb369eeaffa98fa339cba",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1emgDf5qBtbL909f2Pt7uP"
+  }
+}

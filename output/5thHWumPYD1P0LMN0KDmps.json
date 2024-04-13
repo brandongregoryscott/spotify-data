@@ -1,0 +1,33 @@
+{
+  "id": "5thHWumPYD1P0LMN0KDmps",
+  "name": "Don Tiki",
+  "uri": "spotify:artist:5thHWumPYD1P0LMN0KDmps",
+  "followers": {
+    "href": null,
+    "total": 2008
+  },
+  "genres": [
+    "exotica"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731003580e3810cd60506041b8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021003580e3810cd60506041b8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511003580e3810cd60506041b8",
+      "width": 64
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5thHWumPYD1P0LMN0KDmps"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1y1kgm958cxXSvDKon9N78",
+  "name": "AUT2M",
+  "uri": "spotify:artist:1y1kgm958cxXSvDKon9N78",
+  "followers": {
+    "href": null,
+    "total": 752
+  },
+  "genres": [
+    "dreampunk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb62ac4f966829cbdf7cbeb652",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517462ac4f966829cbdf7cbeb652",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17862ac4f966829cbdf7cbeb652",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1y1kgm958cxXSvDKon9N78"
+  }
+}

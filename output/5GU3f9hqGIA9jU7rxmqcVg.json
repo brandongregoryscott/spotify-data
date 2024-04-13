@@ -1,0 +1,33 @@
+{
+  "id": "5GU3f9hqGIA9jU7rxmqcVg",
+  "name": "Figurehead",
+  "uri": "spotify:artist:5GU3f9hqGIA9jU7rxmqcVg",
+  "followers": {
+    "href": null,
+    "total": 31
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27392a62dae6a6e73f415b63dd3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0292a62dae6a6e73f415b63dd3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485192a62dae6a6e73f415b63dd3",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5GU3f9hqGIA9jU7rxmqcVg"
+  }
+}

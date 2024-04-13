@@ -1,0 +1,34 @@
+{
+  "id": "5RYHqDtvrm4QLsvcoOHmR9",
+  "name": "Tenorio Jr.",
+  "uri": "spotify:artist:5RYHqDtvrm4QLsvcoOHmR9",
+  "followers": {
+    "href": null,
+    "total": 7205
+  },
+  "genres": [
+    "brazilian jazz",
+    "samba-jazz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cde47b8de5d902eb953e5d22",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cde47b8de5d902eb953e5d22",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cde47b8de5d902eb953e5d22",
+      "width": 64
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5RYHqDtvrm4QLsvcoOHmR9"
+  }
+}

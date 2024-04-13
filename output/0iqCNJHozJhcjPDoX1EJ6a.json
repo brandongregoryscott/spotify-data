@@ -1,0 +1,33 @@
+{
+  "id": "0iqCNJHozJhcjPDoX1EJ6a",
+  "name": "marinelli",
+  "uri": "spotify:artist:0iqCNJHozJhcjPDoX1EJ6a",
+  "followers": {
+    "href": null,
+    "total": 9698
+  },
+  "genres": [
+    "modern indie pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb88cb4f35b86de4f281bcb8b0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517488cb4f35b86de4f281bcb8b0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17888cb4f35b86de4f281bcb8b0",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a"
+  }
+}

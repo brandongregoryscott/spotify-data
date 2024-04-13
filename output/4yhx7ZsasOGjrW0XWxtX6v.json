@@ -1,0 +1,33 @@
+{
+  "id": "4yhx7ZsasOGjrW0XWxtX6v",
+  "name": "concrete twin",
+  "uri": "spotify:artist:4yhx7ZsasOGjrW0XWxtX6v",
+  "followers": {
+    "href": null,
+    "total": 261
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ea249f18421324be8ccd8eba",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ea249f18421324be8ccd8eba",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ea249f18421324be8ccd8eba",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4yhx7ZsasOGjrW0XWxtX6v"
+  }
+}

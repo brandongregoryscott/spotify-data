@@ -1,0 +1,33 @@
+{
+  "id": "3zFfixHjsrscsvwAG7gFvo",
+  "name": "Beach Freaks",
+  "uri": "spotify:artist:3zFfixHjsrscsvwAG7gFvo",
+  "followers": {
+    "href": null,
+    "total": 786
+  },
+  "genres": [
+    "socal indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb39ca4d4869c9d47579a06cf0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517439ca4d4869c9d47579a06cf0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17839ca4d4869c9d47579a06cf0",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3zFfixHjsrscsvwAG7gFvo"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2D8BHFg7BZhpp4ODSNZBfU",
+  "name": "Xela Nova",
+  "uri": "spotify:artist:2D8BHFg7BZhpp4ODSNZBfU",
+  "followers": {
+    "href": null,
+    "total": 60
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb60bc1a38d06f8cf6f20a0f1a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517460bc1a38d06f8cf6f20a0f1a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17860bc1a38d06f8cf6f20a0f1a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2D8BHFg7BZhpp4ODSNZBfU"
+  }
+}

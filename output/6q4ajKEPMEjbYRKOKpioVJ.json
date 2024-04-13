@@ -1,0 +1,33 @@
+{
+  "id": "6q4ajKEPMEjbYRKOKpioVJ",
+  "name": "Numb",
+  "uri": "spotify:artist:6q4ajKEPMEjbYRKOKpioVJ",
+  "followers": {
+    "href": null,
+    "total": 216
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb30d42eafc846e7f85593d48b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517430d42eafc846e7f85593d48b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17830d42eafc846e7f85593d48b",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6q4ajKEPMEjbYRKOKpioVJ"
+  }
+}

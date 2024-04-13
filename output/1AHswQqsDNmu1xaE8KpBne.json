@@ -1,0 +1,34 @@
+{
+  "id": "1AHswQqsDNmu1xaE8KpBne",
+  "name": "COBRAH",
+  "uri": "spotify:artist:1AHswQqsDNmu1xaE8KpBne",
+  "followers": {
+    "href": null,
+    "total": 143360
+  },
+  "genres": [
+    "escape room",
+    "pink noise"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb48bd4b8bdff67188db5c29bc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517448bd4b8bdff67188db5c29bc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17848bd4b8bdff67188db5c29bc",
+      "width": 160
+    }
+  ],
+  "popularity": 55,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1PN5OVSTnGQdzHFASmnZxp",
+  "name": "That Graduate",
+  "uri": "spotify:artist:1PN5OVSTnGQdzHFASmnZxp",
+  "followers": {
+    "href": null,
+    "total": 237
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb41abf22cd8d29ee7aa6977c4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517441abf22cd8d29ee7aa6977c4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17841abf22cd8d29ee7aa6977c4",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1PN5OVSTnGQdzHFASmnZxp"
+  }
+}

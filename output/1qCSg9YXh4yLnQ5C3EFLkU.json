@@ -1,0 +1,33 @@
+{
+  "id": "1qCSg9YXh4yLnQ5C3EFLkU",
+  "name": "Pizza for Face",
+  "uri": "spotify:artist:1qCSg9YXh4yLnQ5C3EFLkU",
+  "followers": {
+    "href": null,
+    "total": 199
+  },
+  "genres": [
+    "vaporwave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730a1d217d37cc1e56c163851e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020a1d217d37cc1e56c163851e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510a1d217d37cc1e56c163851e",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1qCSg9YXh4yLnQ5C3EFLkU"
+  }
+}

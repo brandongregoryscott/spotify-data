@@ -1,0 +1,37 @@
+{
+  "id": "7Eu1txygG6nJttLHbZdQOh",
+  "name": "Four Tet",
+  "uri": "spotify:artist:7Eu1txygG6nJttLHbZdQOh",
+  "followers": {
+    "href": null,
+    "total": 717152
+  },
+  "genres": [
+    "electronica",
+    "folktronica",
+    "indietronica",
+    "intelligent dance music",
+    "trip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb21c0ea7fc21ab3038d111ec2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517421c0ea7fc21ab3038d111ec2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17821c0ea7fc21ab3038d111ec2",
+      "width": 160
+    }
+  ],
+  "popularity": 64,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+  }
+}

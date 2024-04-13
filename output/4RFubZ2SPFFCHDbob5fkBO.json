@@ -1,0 +1,33 @@
+{
+  "id": "4RFubZ2SPFFCHDbob5fkBO",
+  "name": "Big Dumb Baby",
+  "uri": "spotify:artist:4RFubZ2SPFFCHDbob5fkBO",
+  "followers": {
+    "href": null,
+    "total": 382
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb703ffa095e6cdeefd9c8e785",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174703ffa095e6cdeefd9c8e785",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178703ffa095e6cdeefd9c8e785",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4RFubZ2SPFFCHDbob5fkBO"
+  }
+}

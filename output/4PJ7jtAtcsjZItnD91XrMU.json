@@ -1,0 +1,35 @@
+{
+  "id": "4PJ7jtAtcsjZItnD91XrMU",
+  "name": "Void Vision",
+  "uri": "spotify:artist:4PJ7jtAtcsjZItnD91XrMU",
+  "followers": {
+    "href": null,
+    "total": 21364
+  },
+  "genres": [
+    "dark post-punk",
+    "grave wave",
+    "minimal wave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebebc7809e9b301234b135173d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ebc7809e9b301234b135173d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ebc7809e9b301234b135173d",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4PJ7jtAtcsjZItnD91XrMU"
+  }
+}

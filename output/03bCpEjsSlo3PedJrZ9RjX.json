@@ -1,0 +1,34 @@
+{
+  "id": "03bCpEjsSlo3PedJrZ9RjX",
+  "name": "My Fictions",
+  "uri": "spotify:artist:03bCpEjsSlo3PedJrZ9RjX",
+  "followers": {
+    "href": null,
+    "total": 2117
+  },
+  "genres": [
+    "boston hardcore",
+    "chaotic hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb08c4fdd434c39f6dea4cbab7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517408c4fdd434c39f6dea4cbab7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17808c4fdd434c39f6dea4cbab7",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03bCpEjsSlo3PedJrZ9RjX"
+  }
+}

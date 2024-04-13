@@ -1,0 +1,33 @@
+{
+  "id": "3Xl9e1afWM0F1a1X2Y3rmS",
+  "name": "Chutes",
+  "uri": "spotify:artist:3Xl9e1afWM0F1a1X2Y3rmS",
+  "followers": {
+    "href": null,
+    "total": 233
+  },
+  "genres": [
+    "san diego indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27395cd289b3d37bba7a772aa3b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0295cd289b3d37bba7a772aa3b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485195cd289b3d37bba7a772aa3b",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Xl9e1afWM0F1a1X2Y3rmS"
+  }
+}

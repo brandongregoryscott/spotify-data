@@ -1,0 +1,37 @@
+{
+  "id": "0aIpJqqTLf683ojWREc5lg",
+  "name": "Joy Orbison",
+  "uri": "spotify:artist:0aIpJqqTLf683ojWREc5lg",
+  "followers": {
+    "href": null,
+    "total": 99603
+  },
+  "genres": [
+    "electronica",
+    "float house",
+    "future garage",
+    "uk bass",
+    "wonky"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc86b26ee98dd1a8993a016de",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c86b26ee98dd1a8993a016de",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c86b26ee98dd1a8993a016de",
+      "width": 160
+    }
+  ],
+  "popularity": 47,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+  }
+}

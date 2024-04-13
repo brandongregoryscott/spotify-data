@@ -1,0 +1,33 @@
+{
+  "id": "1qPMBDzIv4WJoToZqNxb1f",
+  "name": "Flasher",
+  "uri": "spotify:artist:1qPMBDzIv4WJoToZqNxb1f",
+  "followers": {
+    "href": null,
+    "total": 13642
+  },
+  "genres": [
+    "dc indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba49bb85b67c4227de49abdae",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a49bb85b67c4227de49abdae",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a49bb85b67c4227de49abdae",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f"
+  }
+}

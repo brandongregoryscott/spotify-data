@@ -1,0 +1,33 @@
+{
+  "id": "5pIxtyYo4a6oSmEYrqYjjf",
+  "name": "downer",
+  "uri": "spotify:artist:5pIxtyYo4a6oSmEYrqYjjf",
+  "followers": {
+    "href": null,
+    "total": 373
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732cb21865c301f9b55daf9924",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022cb21865c301f9b55daf9924",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512cb21865c301f9b55daf9924",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5pIxtyYo4a6oSmEYrqYjjf"
+  }
+}

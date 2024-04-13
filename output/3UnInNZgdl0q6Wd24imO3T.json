@@ -1,0 +1,34 @@
+{
+  "id": "3UnInNZgdl0q6Wd24imO3T",
+  "name": "Macula Dog",
+  "uri": "spotify:artist:3UnInNZgdl0q6Wd24imO3T",
+  "followers": {
+    "href": null,
+    "total": 2309
+  },
+  "genres": [
+    "experimental indie",
+    "experimental pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb57a79ed0511ca9e3a813aad9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517457a79ed0511ca9e3a813aad9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17857a79ed0511ca9e3a813aad9",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3UnInNZgdl0q6Wd24imO3T"
+  }
+}

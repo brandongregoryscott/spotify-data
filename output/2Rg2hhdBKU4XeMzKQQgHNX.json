@@ -1,0 +1,33 @@
+{
+  "id": "2Rg2hhdBKU4XeMzKQQgHNX",
+  "name": "24hr Video",
+  "uri": "spotify:artist:2Rg2hhdBKU4XeMzKQQgHNX",
+  "followers": {
+    "href": null,
+    "total": 488
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb69d817d5e1b4856de72496d2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517469d817d5e1b4856de72496d2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17869d817d5e1b4856de72496d2",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Rg2hhdBKU4XeMzKQQgHNX"
+  }
+}

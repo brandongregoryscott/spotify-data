@@ -1,0 +1,33 @@
+{
+  "id": "50B3E1JE4rsZ4MiEzOP4vM",
+  "name": "POPCULTR",
+  "uri": "spotify:artist:50B3E1JE4rsZ4MiEzOP4vM",
+  "followers": {
+    "href": null,
+    "total": 825
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebacb340fff4430749a5172bd9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174acb340fff4430749a5172bd9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178acb340fff4430749a5172bd9",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/50B3E1JE4rsZ4MiEzOP4vM"
+  }
+}

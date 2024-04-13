@@ -1,0 +1,33 @@
+{
+  "id": "6jNLWMmQOaV3OeQbjPmWOn",
+  "name": "Cuando el problema no existe",
+  "uri": "spotify:artist:6jNLWMmQOaV3OeQbjPmWOn",
+  "followers": {
+    "href": null,
+    "total": 1296
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27364cbb6beb0dbe5724bb39d9b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0264cbb6beb0dbe5724bb39d9b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485164cbb6beb0dbe5724bb39d9b",
+      "width": 64
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6jNLWMmQOaV3OeQbjPmWOn"
+  }
+}

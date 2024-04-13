@@ -1,0 +1,33 @@
+{
+  "id": "1lg25s6OPyEG34Z9xH2kQB",
+  "name": "baydo.",
+  "uri": "spotify:artist:1lg25s6OPyEG34Z9xH2kQB",
+  "followers": {
+    "href": null,
+    "total": 27
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273174e8cd86edaae9a62a03dec",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02174e8cd86edaae9a62a03dec",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851174e8cd86edaae9a62a03dec",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1lg25s6OPyEG34Z9xH2kQB"
+  }
+}

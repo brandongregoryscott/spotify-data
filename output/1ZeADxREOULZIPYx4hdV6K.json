@@ -1,0 +1,33 @@
+{
+  "id": "1ZeADxREOULZIPYx4hdV6K",
+  "name": "Gums",
+  "uri": "spotify:artist:1ZeADxREOULZIPYx4hdV6K",
+  "followers": {
+    "href": null,
+    "total": 442
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe347b1fa4b410a3d464ecd50",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e347b1fa4b410a3d464ecd50",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e347b1fa4b410a3d464ecd50",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ZeADxREOULZIPYx4hdV6K"
+  }
+}

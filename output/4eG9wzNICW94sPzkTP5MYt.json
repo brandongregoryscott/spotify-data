@@ -1,0 +1,34 @@
+{
+  "id": "4eG9wzNICW94sPzkTP5MYt",
+  "name": "Milton Wright",
+  "uri": "spotify:artist:4eG9wzNICW94sPzkTP5MYt",
+  "followers": {
+    "href": null,
+    "total": 10563
+  },
+  "genres": [
+    "classic soul",
+    "jazz funk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731e0c82e62ffb1e646f332173",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021e0c82e62ffb1e646f332173",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511e0c82e62ffb1e646f332173",
+      "width": 64
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4eG9wzNICW94sPzkTP5MYt"
+  }
+}

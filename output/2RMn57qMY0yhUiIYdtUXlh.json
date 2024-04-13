@@ -1,0 +1,33 @@
+{
+  "id": "2RMn57qMY0yhUiIYdtUXlh",
+  "name": "Blaue Blume",
+  "uri": "spotify:artist:2RMn57qMY0yhUiIYdtUXlh",
+  "followers": {
+    "href": null,
+    "total": 19300
+  },
+  "genres": [
+    "danish alternative rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfec74f376d2db21c17b48ca9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fec74f376d2db21c17b48ca9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fec74f376d2db21c17b48ca9",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh"
+  }
+}

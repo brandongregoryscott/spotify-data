@@ -1,0 +1,33 @@
+{
+  "id": "447BCj2dgTCNQstFoNFeX7",
+  "name": "The Ruffans",
+  "uri": "spotify:artist:447BCj2dgTCNQstFoNFeX7",
+  "followers": {
+    "href": null,
+    "total": 365
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf50ae9757501627a5ad28ef7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f50ae9757501627a5ad28ef7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f50ae9757501627a5ad28ef7",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/447BCj2dgTCNQstFoNFeX7"
+  }
+}

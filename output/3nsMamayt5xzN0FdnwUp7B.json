@@ -1,0 +1,33 @@
+{
+  "id": "3nsMamayt5xzN0FdnwUp7B",
+  "name": "Kogarashi",
+  "uri": "spotify:artist:3nsMamayt5xzN0FdnwUp7B",
+  "followers": {
+    "href": null,
+    "total": 569
+  },
+  "genres": [
+    "bubblegum bass"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbc37deaa3aa5c8c4f7cb975f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bc37deaa3aa5c8c4f7cb975f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bc37deaa3aa5c8c4f7cb975f",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3nsMamayt5xzN0FdnwUp7B"
+  }
+}

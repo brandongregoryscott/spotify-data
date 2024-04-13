@@ -1,0 +1,33 @@
+{
+  "id": "6KlZUD1KPGBe5jwxcCzRHF",
+  "name": "Neve",
+  "uri": "spotify:artist:6KlZUD1KPGBe5jwxcCzRHF",
+  "followers": {
+    "href": null,
+    "total": 979
+  },
+  "genres": [
+    "proto-hyperpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb768a73c1bfbf833f7e6dd439",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174768a73c1bfbf833f7e6dd439",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178768a73c1bfbf833f7e6dd439",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6KlZUD1KPGBe5jwxcCzRHF"
+  }
+}

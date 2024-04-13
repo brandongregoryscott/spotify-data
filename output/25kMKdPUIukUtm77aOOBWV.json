@@ -1,0 +1,33 @@
+{
+  "id": "25kMKdPUIukUtm77aOOBWV",
+  "name": "amiinA",
+  "uri": "spotify:artist:25kMKdPUIukUtm77aOOBWV",
+  "followers": {
+    "href": null,
+    "total": 1522
+  },
+  "genres": [
+    "alt-idol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735809257d1e6bf921ed12cf5c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025809257d1e6bf921ed12cf5c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515809257d1e6bf921ed12cf5c",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/25kMKdPUIukUtm77aOOBWV"
+  }
+}

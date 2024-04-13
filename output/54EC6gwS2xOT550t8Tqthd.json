@@ -1,0 +1,36 @@
+{
+  "id": "54EC6gwS2xOT550t8Tqthd",
+  "name": "Kas Product",
+  "uri": "spotify:artist:54EC6gwS2xOT550t8Tqthd",
+  "followers": {
+    "href": null,
+    "total": 10251
+  },
+  "genres": [
+    "coldwave",
+    "early french punk",
+    "french post-punk",
+    "minimal wave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb07883cbc37031151573316c2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517407883cbc37031151573316c2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17807883cbc37031151573316c2",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/54EC6gwS2xOT550t8Tqthd"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "1zd1VAgsqYxYJ1Vgjm8eQG",
+  "name": "Nymb",
+  "uri": "spotify:artist:1zd1VAgsqYxYJ1Vgjm8eQG",
+  "followers": {
+    "href": null,
+    "total": 654
+  },
+  "genres": [
+    "chicago punk",
+    "indie emo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b3b3bc83354c4fda08dd773d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b3b3bc83354c4fda08dd773d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b3b3bc83354c4fda08dd773d",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1zd1VAgsqYxYJ1Vgjm8eQG"
+  }
+}

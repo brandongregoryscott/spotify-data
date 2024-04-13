@@ -1,0 +1,33 @@
+{
+  "id": "4Ww46Z3SO4SJGXs4eMkwZQ",
+  "name": "Bamster",
+  "uri": "spotify:artist:4Ww46Z3SO4SJGXs4eMkwZQ",
+  "followers": {
+    "href": null,
+    "total": 258
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb243e4971385909e6483a0aaf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174243e4971385909e6483a0aaf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178243e4971385909e6483a0aaf",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Ww46Z3SO4SJGXs4eMkwZQ"
+  }
+}

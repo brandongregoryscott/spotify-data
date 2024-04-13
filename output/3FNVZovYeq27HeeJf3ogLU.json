@@ -1,0 +1,35 @@
+{
+  "id": "3FNVZovYeq27HeeJf3ogLU",
+  "name": "Arukara",
+  "uri": "spotify:artist:3FNVZovYeq27HeeJf3ogLU",
+  "followers": {
+    "href": null,
+    "total": 36460
+  },
+  "genres": [
+    "j-rock",
+    "japanese alternative rock",
+    "japanese math rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba28f0b7bd5c0c3791cc69403",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a28f0b7bd5c0c3791cc69403",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a28f0b7bd5c0c3791cc69403",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3FNVZovYeq27HeeJf3ogLU"
+  }
+}

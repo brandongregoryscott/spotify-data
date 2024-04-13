@@ -1,0 +1,34 @@
+{
+  "id": "4sGXRKVt3jXcqjUCRuK67C",
+  "name": "The Memories",
+  "uri": "spotify:artist:4sGXRKVt3jXcqjUCRuK67C",
+  "followers": {
+    "href": null,
+    "total": 24149
+  },
+  "genres": [
+    "indie garage rock",
+    "popgaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba53c66d795cf80c824a08ffa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a53c66d795cf80c824a08ffa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a53c66d795cf80c824a08ffa",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4sGXRKVt3jXcqjUCRuK67C"
+  }
+}

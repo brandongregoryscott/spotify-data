@@ -1,0 +1,33 @@
+{
+  "id": "3kbxSeLvtQJkPCCh3ESKoe",
+  "name": "Video Days",
+  "uri": "spotify:artist:3kbxSeLvtQJkPCCh3ESKoe",
+  "followers": {
+    "href": null,
+    "total": 12700
+  },
+  "genres": [
+    "corecore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba7b5a800d4c0b2b68267b726",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a7b5a800d4c0b2b68267b726",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a7b5a800d4c0b2b68267b726",
+      "width": 160
+    }
+  ],
+  "popularity": 50,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3kbxSeLvtQJkPCCh3ESKoe"
+  }
+}

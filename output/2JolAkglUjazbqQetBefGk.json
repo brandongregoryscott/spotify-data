@@ -1,0 +1,33 @@
+{
+  "id": "2JolAkglUjazbqQetBefGk",
+  "name": "sinema",
+  "uri": "spotify:artist:2JolAkglUjazbqQetBefGk",
+  "followers": {
+    "href": null,
+    "total": 1065
+  },
+  "genres": [
+    "new wave of screamo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb84a51ccfd96e1286ac8091d2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517484a51ccfd96e1286ac8091d2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17884a51ccfd96e1286ac8091d2",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2JolAkglUjazbqQetBefGk"
+  }
+}

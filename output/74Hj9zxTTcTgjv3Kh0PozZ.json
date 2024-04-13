@@ -1,0 +1,35 @@
+{
+  "id": "74Hj9zxTTcTgjv3Kh0PozZ",
+  "name": "Moacir Santos",
+  "uri": "spotify:artist:74Hj9zxTTcTgjv3Kh0PozZ",
+  "followers": {
+    "href": null,
+    "total": 31287
+  },
+  "genres": [
+    "bossa nova",
+    "brazilian jazz",
+    "samba-jazz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737fcc26d64e661db1204a85ed",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027fcc26d64e661db1204a85ed",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517fcc26d64e661db1204a85ed",
+      "width": 64
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/74Hj9zxTTcTgjv3Kh0PozZ"
+  }
+}

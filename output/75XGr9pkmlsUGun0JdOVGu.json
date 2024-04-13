@@ -1,0 +1,33 @@
+{
+  "id": "75XGr9pkmlsUGun0JdOVGu",
+  "name": "Edless",
+  "uri": "spotify:artist:75XGr9pkmlsUGun0JdOVGu",
+  "followers": {
+    "href": null,
+    "total": 760
+  },
+  "genres": [
+    "milan indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4dba542485f291d2b5627525",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744dba542485f291d2b5627525",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784dba542485f291d2b5627525",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/75XGr9pkmlsUGun0JdOVGu"
+  }
+}

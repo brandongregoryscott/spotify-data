@@ -1,0 +1,33 @@
+{
+  "id": "1PIQzQLRzCDzkwpz3jTbeX",
+  "name": "Cinderblock CA",
+  "uri": "spotify:artist:1PIQzQLRzCDzkwpz3jTbeX",
+  "followers": {
+    "href": null,
+    "total": 869
+  },
+  "genres": [
+    "la hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb2f229c2d0daec3ea1ae61c6d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051742f229c2d0daec3ea1ae61c6d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1782f229c2d0daec3ea1ae61c6d",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1PIQzQLRzCDzkwpz3jTbeX"
+  }
+}

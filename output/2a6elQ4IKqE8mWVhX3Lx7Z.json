@@ -1,0 +1,33 @@
+{
+  "id": "2a6elQ4IKqE8mWVhX3Lx7Z",
+  "name": "y o u r d i s c o v e r y",
+  "uri": "spotify:artist:2a6elQ4IKqE8mWVhX3Lx7Z",
+  "followers": {
+    "href": null,
+    "total": 317
+  },
+  "genres": [
+    "slushwave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb582e40db8702a2b94d3c63de",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174582e40db8702a2b94d3c63de",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178582e40db8702a2b94d3c63de",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2a6elQ4IKqE8mWVhX3Lx7Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "49H7TP0j57PzefFWfHZGJb",
+  "name": "John Moods",
+  "uri": "spotify:artist:49H7TP0j57PzefFWfHZGJb",
+  "followers": {
+    "href": null,
+    "total": 8239
+  },
+  "genres": [
+    "german indie pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb938dfde5788219221f9465e6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174938dfde5788219221f9465e6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178938dfde5788219221f9465e6",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb"
+  }
+}

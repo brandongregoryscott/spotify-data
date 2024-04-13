@@ -1,0 +1,33 @@
+{
+  "id": "6oI4pfJPnuFLAnK8Kv0QPW",
+  "name": "WRENCH",
+  "uri": "spotify:artist:6oI4pfJPnuFLAnK8Kv0QPW",
+  "followers": {
+    "href": null,
+    "total": 1955
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbccb5f6a1a4ea0aaaaa12b4b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bccb5f6a1a4ea0aaaaa12b4b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bccb5f6a1a4ea0aaaaa12b4b",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6oI4pfJPnuFLAnK8Kv0QPW"
+  }
+}

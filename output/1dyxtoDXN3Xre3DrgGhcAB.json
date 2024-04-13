@@ -1,0 +1,33 @@
+{
+  "id": "1dyxtoDXN3Xre3DrgGhcAB",
+  "name": "said",
+  "uri": "spotify:artist:1dyxtoDXN3Xre3DrgGhcAB",
+  "followers": {
+    "href": null,
+    "total": 987
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27325b79c5949a07c543803100c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0225b79c5949a07c543803100c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485125b79c5949a07c543803100c",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1dyxtoDXN3Xre3DrgGhcAB"
+  }
+}

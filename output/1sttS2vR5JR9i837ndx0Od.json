@@ -1,0 +1,33 @@
+{
+  "id": "1sttS2vR5JR9i837ndx0Od",
+  "name": "Ivan Limes",
+  "uri": "spotify:artist:1sttS2vR5JR9i837ndx0Od",
+  "followers": {
+    "href": null,
+    "total": 429
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb04571b6170f824f947c14e6e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517404571b6170f824f947c14e6e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17804571b6170f824f947c14e6e",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1sttS2vR5JR9i837ndx0Od"
+  }
+}
