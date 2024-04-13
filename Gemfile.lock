@@ -14,6 +14,7 @@ GEM
       domain_name (~> 0.5)
     jwt (2.8.1)
       base64
+    language_server-protocol (3.17.0.3)
     mime-types (3.5.2)
       mime-types-data (~> 3.2015)
     mime-types-data (3.2024.0305)
@@ -35,6 +36,7 @@ GEM
     omniauth-oauth2 (1.8.0)
       oauth2 (>= 1.4, < 3)
       omniauth (~> 2.0)
+    prism (0.24.0)
     public_suffix (5.0.5)
     rack (3.0.10)
     rack-protection (4.0.0)
@@ -48,9 +50,14 @@ GEM
       addressable (~> 2.8.0)
       omniauth-oauth2 (>= 1.6)
       rest-client (~> 2.0.2)
+    ruby-lsp (0.16.4)
+      language_server-protocol (~> 3.17.0)
+      prism (>= 0.22.0, < 0.25)
+      sorbet-runtime (>= 0.5.10782)
     snaky_hash (2.0.1)
       hashie
       version_gem (~> 1.1, >= 1.1.1)
+    sorbet-runtime (0.5.11346)
     uri (0.13.0)
     version_gem (1.1.4)
 
@@ -60,6 +67,7 @@ PLATFORMS
 
 DEPENDENCIES
   rspotify
+  ruby-lsp
 
 BUNDLED WITH
    2.5.4
