@@ -1,0 +1,33 @@
+{
+  "id": "4iW7dCnHbqN5YErzN7FghD",
+  "name": "Dreamwell",
+  "uri": "spotify:artist:4iW7dCnHbqN5YErzN7FghD",
+  "followers": {
+    "href": null,
+    "total": 6226
+  },
+  "genres": [
+    "new england emo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb3dd61489f01146ff41e2408",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b3dd61489f01146ff41e2408",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b3dd61489f01146ff41e2408",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4iW7dCnHbqN5YErzN7FghD"
+  }
+}

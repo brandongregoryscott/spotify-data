@@ -1,0 +1,33 @@
+{
+  "id": "3nUxMAVlLuArMnqxbZHOU8",
+  "name": "Roxas",
+  "uri": "spotify:artist:3nUxMAVlLuArMnqxbZHOU8",
+  "followers": {
+    "href": null,
+    "total": 350
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734757d4734a787d25679fb121",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024757d4734a787d25679fb121",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514757d4734a787d25679fb121",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3nUxMAVlLuArMnqxbZHOU8"
+  }
+}

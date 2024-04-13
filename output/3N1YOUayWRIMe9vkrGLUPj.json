@@ -1,0 +1,33 @@
+{
+  "id": "3N1YOUayWRIMe9vkrGLUPj",
+  "name": "Sam Hyde",
+  "uri": "spotify:artist:3N1YOUayWRIMe9vkrGLUPj",
+  "followers": {
+    "href": null,
+    "total": 3232
+  },
+  "genres": [
+    "epunk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273848f4d5767644d0df48173c2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02848f4d5767644d0df48173c2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851848f4d5767644d0df48173c2",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3N1YOUayWRIMe9vkrGLUPj"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2vkwLkSefyVCINnLUE6Q9K",
+  "name": "Blemjin",
+  "uri": "spotify:artist:2vkwLkSefyVCINnLUE6Q9K",
+  "followers": {
+    "href": null,
+    "total": 233
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe55a96edc6e34506d22d4315",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e55a96edc6e34506d22d4315",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e55a96edc6e34506d22d4315",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2vkwLkSefyVCINnLUE6Q9K"
+  }
+}

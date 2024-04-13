@@ -1,0 +1,34 @@
+{
+  "id": "0DtZpphJ9twDHZ69yZs5KE",
+  "name": "Apagón",
+  "uri": "spotify:artist:0DtZpphJ9twDHZ69yZs5KE",
+  "followers": {
+    "href": null,
+    "total": 1387
+  },
+  "genres": [
+    "peruvian punk",
+    "peruvian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb14824459af748ceb94acae3d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517414824459af748ceb94acae3d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17814824459af748ceb94acae3d",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0DtZpphJ9twDHZ69yZs5KE"
+  }
+}

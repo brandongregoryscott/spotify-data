@@ -1,0 +1,33 @@
+{
+  "id": "10vxlFO7l4kgOKtsz4HbQp",
+  "name": "d'Eon",
+  "uri": "spotify:artist:10vxlFO7l4kgOKtsz4HbQp",
+  "followers": {
+    "href": null,
+    "total": 4534
+  },
+  "genres": [
+    "comfy synth"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb454d4e077360c5fddc4b8a1e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174454d4e077360c5fddc4b8a1e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178454d4e077360c5fddc4b8a1e",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/10vxlFO7l4kgOKtsz4HbQp"
+  }
+}

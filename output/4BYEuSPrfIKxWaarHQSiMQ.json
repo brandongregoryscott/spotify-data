@@ -1,0 +1,34 @@
+{
+  "id": "4BYEuSPrfIKxWaarHQSiMQ",
+  "name": "Inside The Beehive",
+  "uri": "spotify:artist:4BYEuSPrfIKxWaarHQSiMQ",
+  "followers": {
+    "href": null,
+    "total": 2250
+  },
+  "genres": [
+    "mathcore",
+    "mathgrind"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732daa4c756f45a78cb40384ac",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022daa4c756f45a78cb40384ac",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512daa4c756f45a78cb40384ac",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4BYEuSPrfIKxWaarHQSiMQ"
+  }
+}

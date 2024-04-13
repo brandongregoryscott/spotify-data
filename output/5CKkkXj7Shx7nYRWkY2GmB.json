@@ -1,0 +1,33 @@
+{
+  "id": "5CKkkXj7Shx7nYRWkY2GmB",
+  "name": "Kopy",
+  "uri": "spotify:artist:5CKkkXj7Shx7nYRWkY2GmB",
+  "followers": {
+    "href": null,
+    "total": 547
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273394d82e5713c08cdfd6f8eeb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02394d82e5713c08cdfd6f8eeb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851394d82e5713c08cdfd6f8eeb",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5CKkkXj7Shx7nYRWkY2GmB"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "54h3JMtP27k9ezpNHycAmI",
+  "name": "Stice",
+  "uri": "spotify:artist:54h3JMtP27k9ezpNHycAmI",
+  "followers": {
+    "href": null,
+    "total": 795
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3000f7660a1769d54dd661ad",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051743000f7660a1769d54dd661ad",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1783000f7660a1769d54dd661ad",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/54h3JMtP27k9ezpNHycAmI"
+  }
+}

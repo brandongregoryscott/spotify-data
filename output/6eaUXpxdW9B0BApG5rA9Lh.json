@@ -1,0 +1,35 @@
+{
+  "id": "6eaUXpxdW9B0BApG5rA9Lh",
+  "name": "Bubblegum Octopus",
+  "uri": "spotify:artist:6eaUXpxdW9B0BApG5rA9Lh",
+  "followers": {
+    "href": null,
+    "total": 4950
+  },
+  "genres": [
+    "bitpop",
+    "cybergrind",
+    "nintendocore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb16f9d37fa216189b9dac5f8e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517416f9d37fa216189b9dac5f8e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17816f9d37fa216189b9dac5f8e",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6eaUXpxdW9B0BApG5rA9Lh"
+  }
+}

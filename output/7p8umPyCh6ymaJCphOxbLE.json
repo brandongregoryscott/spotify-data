@@ -1,0 +1,33 @@
+{
+  "id": "7p8umPyCh6ymaJCphOxbLE",
+  "name": "YUP YUP",
+  "uri": "spotify:artist:7p8umPyCh6ymaJCphOxbLE",
+  "followers": {
+    "href": null,
+    "total": 482
+  },
+  "genres": [
+    "alt-idol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd4ee60a759a97535c92c2286",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d4ee60a759a97535c92c2286",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d4ee60a759a97535c92c2286",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7p8umPyCh6ymaJCphOxbLE"
+  }
+}

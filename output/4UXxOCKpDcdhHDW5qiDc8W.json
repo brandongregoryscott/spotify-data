@@ -1,0 +1,35 @@
+{
+  "id": "4UXxOCKpDcdhHDW5qiDc8W",
+  "name": "Lacing",
+  "uri": "spotify:artist:4UXxOCKpDcdhHDW5qiDc8W",
+  "followers": {
+    "href": null,
+    "total": 2408
+  },
+  "genres": [
+    "american shoegaze",
+    "chattanooga indie",
+    "grungegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb667c4efdcde1a21c6920a5d8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174667c4efdcde1a21c6920a5d8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178667c4efdcde1a21c6920a5d8",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4UXxOCKpDcdhHDW5qiDc8W"
+  }
+}

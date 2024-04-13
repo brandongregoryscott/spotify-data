@@ -1,0 +1,33 @@
+{
+  "id": "2Ex2rPGBgusFf8YtSPEjc8",
+  "name": "出海部",
+  "uri": "spotify:artist:2Ex2rPGBgusFf8YtSPEjc8",
+  "followers": {
+    "href": null,
+    "total": 880
+  },
+  "genres": [
+    "sinogaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732f4bf2a30c29446eb0436dc6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022f4bf2a30c29446eb0436dc6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512f4bf2a30c29446eb0436dc6",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Ex2rPGBgusFf8YtSPEjc8"
+  }
+}

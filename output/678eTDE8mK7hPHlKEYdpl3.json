@@ -1,0 +1,33 @@
+{
+  "id": "678eTDE8mK7hPHlKEYdpl3",
+  "name": "Pulgas",
+  "uri": "spotify:artist:678eTDE8mK7hPHlKEYdpl3",
+  "followers": {
+    "href": null,
+    "total": 1479
+  },
+  "genres": [
+    "experimental indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb631ab08770dea0cc1729fcf1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174631ab08770dea0cc1729fcf1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178631ab08770dea0cc1729fcf1",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/678eTDE8mK7hPHlKEYdpl3"
+  }
+}

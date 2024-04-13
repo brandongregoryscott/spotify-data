@@ -1,0 +1,33 @@
+{
+  "id": "4y6uvkq9f8CcQbba7RYlDp",
+  "name": "minddrive",
+  "uri": "spotify:artist:4y6uvkq9f8CcQbba7RYlDp",
+  "followers": {
+    "href": null,
+    "total": 91
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb59cdf203fe54e3343671076b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517459cdf203fe54e3343671076b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17859cdf203fe54e3343671076b",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4y6uvkq9f8CcQbba7RYlDp"
+  }
+}

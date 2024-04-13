@@ -1,0 +1,33 @@
+{
+  "id": "3abmTIIqxlRsONhRZ7sfQB",
+  "name": "Strawberry Station",
+  "uri": "spotify:artist:3abmTIIqxlRsONhRZ7sfQB",
+  "followers": {
+    "href": null,
+    "total": 5394
+  },
+  "genres": [
+    "future funk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdeb7fb2f6163abd26a3012d7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174deb7fb2f6163abd26a3012d7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178deb7fb2f6163abd26a3012d7",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
+  }
+}

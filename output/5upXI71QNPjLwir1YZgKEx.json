@@ -1,0 +1,33 @@
+{
+  "id": "5upXI71QNPjLwir1YZgKEx",
+  "name": "cinema staff",
+  "uri": "spotify:artist:5upXI71QNPjLwir1YZgKEx",
+  "followers": {
+    "href": null,
+    "total": 49432
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb59a255db716ea052646e7fc4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517459a255db716ea052646e7fc4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17859a255db716ea052646e7fc4",
+      "width": 160
+    }
+  ],
+  "popularity": 44,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx"
+  }
+}

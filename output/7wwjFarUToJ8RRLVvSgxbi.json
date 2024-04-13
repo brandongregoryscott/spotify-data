@@ -1,0 +1,33 @@
+{
+  "id": "7wwjFarUToJ8RRLVvSgxbi",
+  "name": "Eric Frye",
+  "uri": "spotify:artist:7wwjFarUToJ8RRLVvSgxbi",
+  "followers": {
+    "href": null,
+    "total": 342
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27374abf664b836923f539edfcc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0274abf664b836923f539edfcc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485174abf664b836923f539edfcc",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7wwjFarUToJ8RRLVvSgxbi"
+  }
+}

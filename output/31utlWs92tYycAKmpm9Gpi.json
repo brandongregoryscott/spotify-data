@@ -1,0 +1,33 @@
+{
+  "id": "31utlWs92tYycAKmpm9Gpi",
+  "name": "Lemm",
+  "uri": "spotify:artist:31utlWs92tYycAKmpm9Gpi",
+  "followers": {
+    "href": null,
+    "total": 1228
+  },
+  "genres": [
+    "vocaloid rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b5f6ed67863e42100f56182f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b5f6ed67863e42100f56182f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b5f6ed67863e42100f56182f",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/31utlWs92tYycAKmpm9Gpi"
+  }
+}

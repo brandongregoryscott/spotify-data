@@ -1,0 +1,33 @@
+{
+  "id": "10Z2RfS8lpiUhaDVy36voI",
+  "name": "Hello Hawk",
+  "uri": "spotify:artist:10Z2RfS8lpiUhaDVy36voI",
+  "followers": {
+    "href": null,
+    "total": 648
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeee6c9d48290465d3ddedec8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eee6c9d48290465d3ddedec8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eee6c9d48290465d3ddedec8",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/10Z2RfS8lpiUhaDVy36voI"
+  }
+}

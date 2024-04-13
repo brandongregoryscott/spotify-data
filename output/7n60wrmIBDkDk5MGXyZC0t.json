@@ -1,0 +1,33 @@
+{
+  "id": "7n60wrmIBDkDk5MGXyZC0t",
+  "name": "Gal Go",
+  "uri": "spotify:artist:7n60wrmIBDkDk5MGXyZC0t",
+  "followers": {
+    "href": null,
+    "total": 2746
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcf24c277db841c9dc260f7cc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cf24c277db841c9dc260f7cc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cf24c277db841c9dc260f7cc",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7n60wrmIBDkDk5MGXyZC0t"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3lA70Za02Yjc5x761zAjqZ",
+  "name": "요나",
+  "uri": "spotify:artist:3lA70Za02Yjc5x761zAjqZ",
+  "followers": {
+    "href": null,
+    "total": 312
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273896e8d181ffaf310de96638c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02896e8d181ffaf310de96638c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851896e8d181ffaf310de96638c",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3lA70Za02Yjc5x761zAjqZ"
+  }
+}

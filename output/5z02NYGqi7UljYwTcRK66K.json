@@ -1,0 +1,33 @@
+{
+  "id": "5z02NYGqi7UljYwTcRK66K",
+  "name": "Sparkler",
+  "uri": "spotify:artist:5z02NYGqi7UljYwTcRK66K",
+  "followers": {
+    "href": null,
+    "total": 985
+  },
+  "genres": [
+    "american shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb388581891c411b06d835f7ba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174388581891c411b06d835f7ba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178388581891c411b06d835f7ba",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5z02NYGqi7UljYwTcRK66K"
+  }
+}

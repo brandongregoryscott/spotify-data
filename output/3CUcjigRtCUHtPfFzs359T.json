@@ -1,0 +1,34 @@
+{
+  "id": "3CUcjigRtCUHtPfFzs359T",
+  "name": "表情銀行",
+  "uri": "spotify:artist:3CUcjigRtCUHtPfFzs359T",
+  "followers": {
+    "href": null,
+    "total": 5003
+  },
+  "genres": [
+    "chinese indie pop",
+    "chinese indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273630ed5463504e937c8cc182c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023a906e5937507725ac346fc0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513a906e5937507725ac346fc0",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3CUcjigRtCUHtPfFzs359T"
+  }
+}

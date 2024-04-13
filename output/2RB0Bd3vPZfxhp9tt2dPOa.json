@@ -1,0 +1,33 @@
+{
+  "id": "2RB0Bd3vPZfxhp9tt2dPOa",
+  "name": "Cobalt Road",
+  "uri": "spotify:artist:2RB0Bd3vPZfxhp9tt2dPOa",
+  "followers": {
+    "href": null,
+    "total": 440
+  },
+  "genres": [
+    "vaportrap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe5ab3014a155b12ac30177e0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e5ab3014a155b12ac30177e0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e5ab3014a155b12ac30177e0",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2RB0Bd3vPZfxhp9tt2dPOa"
+  }
+}

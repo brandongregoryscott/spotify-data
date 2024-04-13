@@ -1,0 +1,33 @@
+{
+  "id": "3wrzezEX4hZg7Ng95VeAuV",
+  "name": "upon",
+  "uri": "spotify:artist:3wrzezEX4hZg7Ng95VeAuV",
+  "followers": {
+    "href": null,
+    "total": 36
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8db2b49b22d4389ba7b79ab2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051748db2b49b22d4389ba7b79ab2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1788db2b49b22d4389ba7b79ab2",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3wrzezEX4hZg7Ng95VeAuV"
+  }
+}

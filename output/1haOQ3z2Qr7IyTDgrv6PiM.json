@@ -1,0 +1,33 @@
+{
+  "id": "1haOQ3z2Qr7IyTDgrv6PiM",
+  "name": "LUNKHEAD",
+  "uri": "spotify:artist:1haOQ3z2Qr7IyTDgrv6PiM",
+  "followers": {
+    "href": null,
+    "total": 12732
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb03bb3d746d25b6fd488fdb7c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517403bb3d746d25b6fd488fdb7c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17803bb3d746d25b6fd488fdb7c",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1haOQ3z2Qr7IyTDgrv6PiM"
+  }
+}

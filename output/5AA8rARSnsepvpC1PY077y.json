@@ -1,0 +1,33 @@
+{
+  "id": "5AA8rARSnsepvpC1PY077y",
+  "name": "sodalite",
+  "uri": "spotify:artist:5AA8rARSnsepvpC1PY077y",
+  "followers": {
+    "href": null,
+    "total": 103
+  },
+  "genres": [
+    "mallsoft"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bc3275c9d0af2e73dfa98fef",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bc3275c9d0af2e73dfa98fef",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bc3275c9d0af2e73dfa98fef",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5AA8rARSnsepvpC1PY077y"
+  }
+}

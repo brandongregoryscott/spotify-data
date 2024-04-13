@@ -1,0 +1,33 @@
+{
+  "id": "3qDyWYaHmvAGKXjdrMGYex",
+  "name": "海の散歩",
+  "uri": "spotify:artist:3qDyWYaHmvAGKXjdrMGYex",
+  "followers": {
+    "href": null,
+    "total": 121
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb18052426a2789ab60813f824",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517418052426a2789ab60813f824",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17818052426a2789ab60813f824",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3qDyWYaHmvAGKXjdrMGYex"
+  }
+}

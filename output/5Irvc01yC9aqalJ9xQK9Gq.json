@@ -1,0 +1,33 @@
+{
+  "id": "5Irvc01yC9aqalJ9xQK9Gq",
+  "name": "Intentions",
+  "uri": "spotify:artist:5Irvc01yC9aqalJ9xQK9Gq",
+  "followers": {
+    "href": null,
+    "total": 250
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaf14e7e384a3db29a369d267",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174af14e7e384a3db29a369d267",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178af14e7e384a3db29a369d267",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Irvc01yC9aqalJ9xQK9Gq"
+  }
+}

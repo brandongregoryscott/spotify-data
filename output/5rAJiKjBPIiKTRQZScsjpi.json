@@ -1,0 +1,33 @@
+{
+  "id": "5rAJiKjBPIiKTRQZScsjpi",
+  "name": "DEEP LEARNING",
+  "uri": "spotify:artist:5rAJiKjBPIiKTRQZScsjpi",
+  "followers": {
+    "href": null,
+    "total": 674
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebff3bf8c3e4c9f8c91243963b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ff3bf8c3e4c9f8c91243963b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ff3bf8c3e4c9f8c91243963b",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5rAJiKjBPIiKTRQZScsjpi"
+  }
+}

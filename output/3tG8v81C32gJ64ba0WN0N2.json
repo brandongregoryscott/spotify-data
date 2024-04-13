@@ -1,0 +1,33 @@
+{
+  "id": "3tG8v81C32gJ64ba0WN0N2",
+  "name": "Hi, I'm Chris",
+  "uri": "spotify:artist:3tG8v81C32gJ64ba0WN0N2",
+  "followers": {
+    "href": null,
+    "total": 8572
+  },
+  "genres": [
+    "lo-fi rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd660f1c2873c91801dbc572e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d660f1c2873c91801dbc572e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d660f1c2873c91801dbc572e",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3tG8v81C32gJ64ba0WN0N2"
+  }
+}

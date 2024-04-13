@@ -1,0 +1,33 @@
+{
+  "id": "2MC7k6a3ZBHrDR4nMT50O4",
+  "name": "ロップMALL",
+  "uri": "spotify:artist:2MC7k6a3ZBHrDR4nMT50O4",
+  "followers": {
+    "href": null,
+    "total": 43
+  },
+  "genres": [
+    "mallsoft"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfbbce7fcec854c59793d1070",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fbbce7fcec854c59793d1070",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fbbce7fcec854c59793d1070",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2MC7k6a3ZBHrDR4nMT50O4"
+  }
+}

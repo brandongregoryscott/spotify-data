@@ -1,0 +1,33 @@
+{
+  "id": "1TXrR3RaxKlYRiRyt9oHrB",
+  "name": "Kurama",
+  "uri": "spotify:artist:1TXrR3RaxKlYRiRyt9oHrB",
+  "followers": {
+    "href": null,
+    "total": 957
+  },
+  "genres": [
+    "mathcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfee77c1339d37b38a8ce20d3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fee77c1339d37b38a8ce20d3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fee77c1339d37b38a8ce20d3",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1TXrR3RaxKlYRiRyt9oHrB"
+  }
+}

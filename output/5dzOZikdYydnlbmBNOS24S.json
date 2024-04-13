@@ -1,0 +1,34 @@
+{
+  "id": "5dzOZikdYydnlbmBNOS24S",
+  "name": "teto",
+  "uri": "spotify:artist:5dzOZikdYydnlbmBNOS24S",
+  "followers": {
+    "href": null,
+    "total": 39293
+  },
+  "genres": [
+    "j-rock",
+    "japanese alternative rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb54c4c71cad390e2d1b7dd82e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517454c4c71cad390e2d1b7dd82e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17854c4c71cad390e2d1b7dd82e",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5dzOZikdYydnlbmBNOS24S"
+  }
+}

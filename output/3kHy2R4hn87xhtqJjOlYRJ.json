@@ -1,0 +1,33 @@
+{
+  "id": "3kHy2R4hn87xhtqJjOlYRJ",
+  "name": "James Underwood",
+  "uri": "spotify:artist:3kHy2R4hn87xhtqJjOlYRJ",
+  "followers": {
+    "href": null,
+    "total": 150
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736fe422fefda838532265e012",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026fe422fefda838532265e012",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516fe422fefda838532265e012",
+      "width": 64
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3kHy2R4hn87xhtqJjOlYRJ"
+  }
+}

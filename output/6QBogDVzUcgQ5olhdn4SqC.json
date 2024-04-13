@@ -1,0 +1,33 @@
+{
+  "id": "6QBogDVzUcgQ5olhdn4SqC",
+  "name": "1000 ánimas",
+  "uri": "spotify:artist:6QBogDVzUcgQ5olhdn4SqC",
+  "followers": {
+    "href": null,
+    "total": 333
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba63801047d75b94e9d8233f5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a63801047d75b94e9d8233f5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a63801047d75b94e9d8233f5",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6QBogDVzUcgQ5olhdn4SqC"
+  }
+}

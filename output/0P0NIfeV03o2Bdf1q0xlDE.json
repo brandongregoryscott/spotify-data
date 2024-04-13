@@ -1,0 +1,33 @@
+{
+  "id": "0P0NIfeV03o2Bdf1q0xlDE",
+  "name": "suteki",
+  "uri": "spotify:artist:0P0NIfeV03o2Bdf1q0xlDE",
+  "followers": {
+    "href": null,
+    "total": 946
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebde24b89b9db0a7bd7867ea70",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174de24b89b9db0a7bd7867ea70",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178de24b89b9db0a7bd7867ea70",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0P0NIfeV03o2Bdf1q0xlDE"
+  }
+}

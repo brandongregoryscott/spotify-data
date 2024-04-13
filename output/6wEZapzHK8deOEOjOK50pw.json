@@ -1,0 +1,34 @@
+{
+  "id": "6wEZapzHK8deOEOjOK50pw",
+  "name": "Slide",
+  "uri": "spotify:artist:6wEZapzHK8deOEOjOK50pw",
+  "followers": {
+    "href": null,
+    "total": 1300
+  },
+  "genres": [
+    "american shoegaze",
+    "doomgaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc3ded494b01ed17ab4e8f47f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c3ded494b01ed17ab4e8f47f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c3ded494b01ed17ab4e8f47f",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6wEZapzHK8deOEOjOK50pw"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "570hYppifPXSy1q9odRQwy",
+  "name": "Daze",
+  "uri": "spotify:artist:570hYppifPXSy1q9odRQwy",
+  "followers": {
+    "href": null,
+    "total": 2077
+  },
+  "genres": [
+    "american shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5b61193d4afd78c6c2270537",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051745b61193d4afd78c6c2270537",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1785b61193d4afd78c6c2270537",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/570hYppifPXSy1q9odRQwy"
+  }
+}

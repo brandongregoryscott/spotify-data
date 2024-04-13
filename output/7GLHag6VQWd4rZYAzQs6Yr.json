@@ -1,0 +1,33 @@
+{
+  "id": "7GLHag6VQWd4rZYAzQs6Yr",
+  "name": "OMG",
+  "uri": "spotify:artist:7GLHag6VQWd4rZYAzQs6Yr",
+  "followers": {
+    "href": null,
+    "total": 360
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733332a8f03b37cd972128edf9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023332a8f03b37cd972128edf9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513332a8f03b37cd972128edf9",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7GLHag6VQWd4rZYAzQs6Yr"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "000I60AeWcpszUzzirjtbZ",
+  "name": "s7n",
+  "uri": "spotify:artist:000I60AeWcpszUzzirjtbZ",
+  "followers": {
+    "href": null,
+    "total": 336
+  },
+  "genres": [
+    "hyperpop italiano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe144eeb334e580fd73753ed6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e144eeb334e580fd73753ed6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e144eeb334e580fd73753ed6",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/000I60AeWcpszUzzirjtbZ"
+  }
+}

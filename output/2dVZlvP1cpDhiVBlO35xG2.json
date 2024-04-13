@@ -1,0 +1,33 @@
+{
+  "id": "2dVZlvP1cpDhiVBlO35xG2",
+  "name": "Iceblink",
+  "uri": "spotify:artist:2dVZlvP1cpDhiVBlO35xG2",
+  "followers": {
+    "href": null,
+    "total": 1357
+  },
+  "genres": [
+    "minneapolis indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb195d723007bf6e54bc3a180f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174195d723007bf6e54bc3a180f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178195d723007bf6e54bc3a180f",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2dVZlvP1cpDhiVBlO35xG2"
+  }
+}

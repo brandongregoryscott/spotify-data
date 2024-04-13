@@ -1,0 +1,35 @@
+{
+  "id": "5ac1qjsr4dSDWsfYY6YvBa",
+  "name": "Carpainter",
+  "uri": "spotify:artist:5ac1qjsr4dSDWsfYY6YvBa",
+  "followers": {
+    "href": null,
+    "total": 6009
+  },
+  "genres": [
+    "hardgroove",
+    "japanese electronic",
+    "japanese house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1823079699d7551a3bb2ff36",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051741823079699d7551a3bb2ff36",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1781823079699d7551a3bb2ff36",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ac1qjsr4dSDWsfYY6YvBa"
+  }
+}

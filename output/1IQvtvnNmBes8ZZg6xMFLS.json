@@ -1,0 +1,34 @@
+{
+  "id": "1IQvtvnNmBes8ZZg6xMFLS",
+  "name": "Droon",
+  "uri": "spotify:artist:1IQvtvnNmBes8ZZg6xMFLS",
+  "followers": {
+    "href": null,
+    "total": 798
+  },
+  "genres": [
+    "breakcore",
+    "drill and bass"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba637b6935451e7616d2f6c02",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a637b6935451e7616d2f6c02",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a637b6935451e7616d2f6c02",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1IQvtvnNmBes8ZZg6xMFLS"
+  }
+}

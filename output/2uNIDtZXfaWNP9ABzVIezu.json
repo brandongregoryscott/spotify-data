@@ -1,0 +1,33 @@
+{
+  "id": "2uNIDtZXfaWNP9ABzVIezu",
+  "name": "Disc System",
+  "uri": "spotify:artist:2uNIDtZXfaWNP9ABzVIezu",
+  "followers": {
+    "href": null,
+    "total": 155
+  },
+  "genres": [
+    "chillsynth"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e77df47753f3ace8aeb18692",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e77df47753f3ace8aeb18692",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e77df47753f3ace8aeb18692",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2uNIDtZXfaWNP9ABzVIezu"
+  }
+}

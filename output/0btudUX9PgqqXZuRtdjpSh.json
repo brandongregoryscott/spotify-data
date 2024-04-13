@@ -1,0 +1,35 @@
+{
+  "id": "0btudUX9PgqqXZuRtdjpSh",
+  "name": "OYAT",
+  "uri": "spotify:artist:0btudUX9PgqqXZuRtdjpSh",
+  "followers": {
+    "href": null,
+    "total": 26349
+  },
+  "genres": [
+    "j-indie",
+    "japanese alternative rock",
+    "japanese soul"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb936b84f8471a808e09c2cb0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b936b84f8471a808e09c2cb0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b936b84f8471a808e09c2cb0",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0btudUX9PgqqXZuRtdjpSh"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1vwoujcmAbnNhouYzfEQ95",
+  "name": "velora",
+  "uri": "spotify:artist:1vwoujcmAbnNhouYzfEQ95",
+  "followers": {
+    "href": null,
+    "total": 2548
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb99711760aba060514960f62b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517499711760aba060514960f62b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17899711760aba060514960f62b",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1vwoujcmAbnNhouYzfEQ95"
+  }
+}

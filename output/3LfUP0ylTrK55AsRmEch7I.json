@@ -1,0 +1,33 @@
+{
+  "id": "3LfUP0ylTrK55AsRmEch7I",
+  "name": "Distancia",
+  "uri": "spotify:artist:3LfUP0ylTrK55AsRmEch7I",
+  "followers": {
+    "href": null,
+    "total": 737
+  },
+  "genres": [
+    "chilean hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c8fa18dfd72c82ce0afb5a31",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c8fa18dfd72c82ce0afb5a31",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c8fa18dfd72c82ce0afb5a31",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3LfUP0ylTrK55AsRmEch7I"
+  }
+}

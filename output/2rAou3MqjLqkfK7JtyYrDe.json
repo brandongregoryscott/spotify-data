@@ -1,0 +1,33 @@
+{
+  "id": "2rAou3MqjLqkfK7JtyYrDe",
+  "name": "Godot",
+  "uri": "spotify:artist:2rAou3MqjLqkfK7JtyYrDe",
+  "followers": {
+    "href": null,
+    "total": 177
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebabc110bc051451e8bca86fb3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174abc110bc051451e8bca86fb3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178abc110bc051451e8bca86fb3",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2rAou3MqjLqkfK7JtyYrDe"
+  }
+}

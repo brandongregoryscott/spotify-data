@@ -1,0 +1,33 @@
+{
+  "id": "2PSgWXYHWYU45JStIE38LH",
+  "name": "Pii",
+  "uri": "spotify:artist:2PSgWXYHWYU45JStIE38LH",
+  "followers": {
+    "href": null,
+    "total": 3209
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb23f9cf9ccff35c1f8c949bad",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517423f9cf9ccff35c1f8c949bad",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17823f9cf9ccff35c1f8c949bad",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2PSgWXYHWYU45JStIE38LH"
+  }
+}

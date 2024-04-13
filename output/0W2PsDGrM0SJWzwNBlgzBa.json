@@ -1,0 +1,33 @@
+{
+  "id": "0W2PsDGrM0SJWzwNBlgzBa",
+  "name": "Atlas.Exe",
+  "uri": "spotify:artist:0W2PsDGrM0SJWzwNBlgzBa",
+  "followers": {
+    "href": null,
+    "total": 299
+  },
+  "genres": [
+    "vaporwave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735c51f10767f75438c35fa668",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025c51f10767f75438c35fa668",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515c51f10767f75438c35fa668",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0W2PsDGrM0SJWzwNBlgzBa"
+  }
+}

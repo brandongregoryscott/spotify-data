@@ -1,0 +1,33 @@
+{
+  "id": "1JPB5yaB5HC087VZDFTdbV",
+  "name": "DJ Lilika",
+  "uri": "spotify:artist:1JPB5yaB5HC087VZDFTdbV",
+  "followers": {
+    "href": null,
+    "total": 123
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27374c00c78cb7353d8f47bf0fd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0274c00c78cb7353d8f47bf0fd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485174c00c78cb7353d8f47bf0fd",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1JPB5yaB5HC087VZDFTdbV"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5SrlQieWBV1Jb5EJEbRKOf",
+  "name": "Pettersson",
+  "uri": "spotify:artist:5SrlQieWBV1Jb5EJEbRKOf",
+  "followers": {
+    "href": null,
+    "total": 224
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273853f5672b141bb603fe14a8f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02853f5672b141bb603fe14a8f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851853f5672b141bb603fe14a8f",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5SrlQieWBV1Jb5EJEbRKOf"
+  }
+}

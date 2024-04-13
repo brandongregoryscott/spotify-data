@@ -1,0 +1,33 @@
+{
+  "id": "2RIdttz1HCrkdG543y4qfN",
+  "name": "Avec Avec",
+  "uri": "spotify:artist:2RIdttz1HCrkdG543y4qfN",
+  "followers": {
+    "href": null,
+    "total": 2934
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb38c0f11c2d54cb787e103e11",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517438c0f11c2d54cb787e103e11",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17838c0f11c2d54cb787e103e11",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2RIdttz1HCrkdG543y4qfN"
+  }
+}

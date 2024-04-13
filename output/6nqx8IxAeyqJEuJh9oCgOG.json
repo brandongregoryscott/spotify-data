@@ -1,0 +1,33 @@
+{
+  "id": "6nqx8IxAeyqJEuJh9oCgOG",
+  "name": "The Microgram",
+  "uri": "spotify:artist:6nqx8IxAeyqJEuJh9oCgOG",
+  "followers": {
+    "href": null,
+    "total": 525
+  },
+  "genres": [
+    "dreampunk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc9feaa473cc758866e61eccc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c9feaa473cc758866e61eccc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c9feaa473cc758866e61eccc",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6nqx8IxAeyqJEuJh9oCgOG"
+  }
+}

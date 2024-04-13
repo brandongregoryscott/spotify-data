@@ -1,0 +1,33 @@
+{
+  "id": "0kbl25Zya0X7bHFgPLcXQ4",
+  "name": "Apes",
+  "uri": "spotify:artist:0kbl25Zya0X7bHFgPLcXQ4",
+  "followers": {
+    "href": null,
+    "total": 1981
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaeebc78fa2300a6b42c96ddd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aeebc78fa2300a6b42c96ddd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aeebc78fa2300a6b42c96ddd",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0kbl25Zya0X7bHFgPLcXQ4"
+  }
+}

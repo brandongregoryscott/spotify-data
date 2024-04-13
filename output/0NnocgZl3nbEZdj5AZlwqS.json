@@ -1,0 +1,33 @@
+{
+  "id": "0NnocgZl3nbEZdj5AZlwqS",
+  "name": "jaune",
+  "uri": "spotify:artist:0NnocgZl3nbEZdj5AZlwqS",
+  "followers": {
+    "href": null,
+    "total": 202
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb91fc69ddc55ef133cbf8ab95",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517491fc69ddc55ef133cbf8ab95",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17891fc69ddc55ef133cbf8ab95",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0NnocgZl3nbEZdj5AZlwqS"
+  }
+}

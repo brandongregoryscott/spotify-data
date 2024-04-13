@@ -1,0 +1,33 @@
+{
+  "id": "70hRRKV7tjPRPZRCp2CwIv",
+  "name": "Tintoretto",
+  "uri": "spotify:artist:70hRRKV7tjPRPZRCp2CwIv",
+  "followers": {
+    "href": null,
+    "total": 233
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dd3a5a75766e1d9346458fd1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dd3a5a75766e1d9346458fd1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dd3a5a75766e1d9346458fd1",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/70hRRKV7tjPRPZRCp2CwIv"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "069NvUyP0gLi6YL3FT3doa",
+  "name": "Hiperson",
+  "uri": "spotify:artist:069NvUyP0gLi6YL3FT3doa",
+  "followers": {
+    "href": null,
+    "total": 29996
+  },
+  "genres": [
+    "chinese indie rock",
+    "chinese post-punk",
+    "southern china indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaf1bd35f6d2c6c877aa194ad",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174af1bd35f6d2c6c877aa194ad",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178af1bd35f6d2c6c877aa194ad",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/069NvUyP0gLi6YL3FT3doa"
+  }
+}

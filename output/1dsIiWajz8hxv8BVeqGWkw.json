@@ -1,0 +1,33 @@
+{
+  "id": "1dsIiWajz8hxv8BVeqGWkw",
+  "name": "Spresso",
+  "uri": "spotify:artist:1dsIiWajz8hxv8BVeqGWkw",
+  "followers": {
+    "href": null,
+    "total": 474
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27355d0f23d3292de1b37ca345f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0255d0f23d3292de1b37ca345f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485155d0f23d3292de1b37ca345f",
+      "width": 64
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1dsIiWajz8hxv8BVeqGWkw"
+  }
+}

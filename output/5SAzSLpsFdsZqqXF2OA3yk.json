@@ -1,0 +1,34 @@
+{
+  "id": "5SAzSLpsFdsZqqXF2OA3yk",
+  "name": "lang",
+  "uri": "spotify:artist:5SAzSLpsFdsZqqXF2OA3yk",
+  "followers": {
+    "href": null,
+    "total": 1485
+  },
+  "genres": [
+    "japanese emo",
+    "japanese screamo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe8809f5c620624acfc3eb67d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e8809f5c620624acfc3eb67d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e8809f5c620624acfc3eb67d",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5SAzSLpsFdsZqqXF2OA3yk"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5GOKlplU7Q04QLtPZ0uYtB",
+  "name": "mello",
+  "uri": "spotify:artist:5GOKlplU7Q04QLtPZ0uYtB",
+  "followers": {
+    "href": null,
+    "total": 40
+  },
+  "genres": [
+    "vaportrap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb22a8f5495a7d99ec8a9dfb99",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517422a8f5495a7d99ec8a9dfb99",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17822a8f5495a7d99ec8a9dfb99",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5GOKlplU7Q04QLtPZ0uYtB"
+  }
+}

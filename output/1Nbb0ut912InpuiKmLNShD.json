@@ -1,0 +1,34 @@
+{
+  "id": "1Nbb0ut912InpuiKmLNShD",
+  "name": "Riviera",
+  "uri": "spotify:artist:1Nbb0ut912InpuiKmLNShD",
+  "followers": {
+    "href": null,
+    "total": 4504
+  },
+  "genres": [
+    "indie rock italiano",
+    "italian emo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb3cf7cb49aeb7ae07b7f3e2e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b3cf7cb49aeb7ae07b7f3e2e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b3cf7cb49aeb7ae07b7f3e2e",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Nbb0ut912InpuiKmLNShD"
+  }
+}

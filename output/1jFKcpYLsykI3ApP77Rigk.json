@@ -1,0 +1,33 @@
+{
+  "id": "1jFKcpYLsykI3ApP77Rigk",
+  "name": "Domain",
+  "uri": "spotify:artist:1jFKcpYLsykI3ApP77Rigk",
+  "followers": {
+    "href": null,
+    "total": 2759
+  },
+  "genres": [
+    "florida hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba21410755768c54a235c24d0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a21410755768c54a235c24d0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a21410755768c54a235c24d0",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1jFKcpYLsykI3ApP77Rigk"
+  }
+}

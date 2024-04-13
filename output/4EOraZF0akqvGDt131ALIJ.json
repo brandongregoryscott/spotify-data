@@ -1,0 +1,34 @@
+{
+  "id": "4EOraZF0akqvGDt131ALIJ",
+  "name": "stack44",
+  "uri": "spotify:artist:4EOraZF0akqvGDt131ALIJ",
+  "followers": {
+    "href": null,
+    "total": 1714
+  },
+  "genres": [
+    "japanese melodic punk",
+    "japanese pop punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735128b2a25e0018bfabb0afb9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025128b2a25e0018bfabb0afb9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515128b2a25e0018bfabb0afb9",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4EOraZF0akqvGDt131ALIJ"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "50s9nxRDUgwtYLeTLSoASq",
+  "name": "Hamparte",
+  "uri": "spotify:artist:50s9nxRDUgwtYLeTLSoASq",
+  "followers": {
+    "href": null,
+    "total": 142
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27385f790b69ff6f7fd20e9a504",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0285f790b69ff6f7fd20e9a504",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485185f790b69ff6f7fd20e9a504",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/50s9nxRDUgwtYLeTLSoASq"
+  }
+}

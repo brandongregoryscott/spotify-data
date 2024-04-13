@@ -1,0 +1,33 @@
+{
+  "id": "1L8hDJV88hVf9pxX2CXjhv",
+  "name": "Get Well",
+  "uri": "spotify:artist:1L8hDJV88hVf9pxX2CXjhv",
+  "followers": {
+    "href": null,
+    "total": 105
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe20d367324ae2c9533a3e4ba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e20d367324ae2c9533a3e4ba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e20d367324ae2c9533a3e4ba",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1L8hDJV88hVf9pxX2CXjhv"
+  }
+}

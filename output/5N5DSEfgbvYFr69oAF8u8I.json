@@ -1,0 +1,33 @@
+{
+  "id": "5N5DSEfgbvYFr69oAF8u8I",
+  "name": "ODDLY",
+  "uri": "spotify:artist:5N5DSEfgbvYFr69oAF8u8I",
+  "followers": {
+    "href": null,
+    "total": 555
+  },
+  "genres": [
+    "kansai indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb97698fb220e5f041445ef1af",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517497698fb220e5f041445ef1af",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17897698fb220e5f041445ef1af",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5N5DSEfgbvYFr69oAF8u8I"
+  }
+}

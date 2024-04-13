@@ -1,0 +1,33 @@
+{
+  "id": "0rwAfWOupAubVcyaJqSQVl",
+  "name": "Pudgel",
+  "uri": "spotify:artist:0rwAfWOupAubVcyaJqSQVl",
+  "followers": {
+    "href": null,
+    "total": 390
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb42adeb25d9fae6d01dea5172",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517442adeb25d9fae6d01dea5172",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17842adeb25d9fae6d01dea5172",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0rwAfWOupAubVcyaJqSQVl"
+  }
+}

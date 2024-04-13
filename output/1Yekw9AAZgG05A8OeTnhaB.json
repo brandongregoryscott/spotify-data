@@ -1,0 +1,33 @@
+{
+  "id": "1Yekw9AAZgG05A8OeTnhaB",
+  "name": "Apu Nanu",
+  "uri": "spotify:artist:1Yekw9AAZgG05A8OeTnhaB",
+  "followers": {
+    "href": null,
+    "total": 491
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe3456b8cd81fc9e70adf7735",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e3456b8cd81fc9e70adf7735",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e3456b8cd81fc9e70adf7735",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Yekw9AAZgG05A8OeTnhaB"
+  }
+}

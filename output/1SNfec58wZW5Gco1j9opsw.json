@@ -1,0 +1,33 @@
+{
+  "id": "1SNfec58wZW5Gco1j9opsw",
+  "name": "Conheartist",
+  "uri": "spotify:artist:1SNfec58wZW5Gco1j9opsw",
+  "followers": {
+    "href": null,
+    "total": 1566
+  },
+  "genres": [
+    "american shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27311a33651a7bc8668c8e6c050",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0211a33651a7bc8668c8e6c050",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485111a33651a7bc8668c8e6c050",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1SNfec58wZW5Gco1j9opsw"
+  }
+}

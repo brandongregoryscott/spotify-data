@@ -1,0 +1,33 @@
+{
+  "id": "0B2YsrIBI53yIKtjn6KRBC",
+  "name": "Sunglow",
+  "uri": "spotify:artist:0B2YsrIBI53yIKtjn6KRBC",
+  "followers": {
+    "href": null,
+    "total": 641
+  },
+  "genres": [
+    "experimental indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd69edb5921429af460952feb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d69edb5921429af460952feb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d69edb5921429af460952feb",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0B2YsrIBI53yIKtjn6KRBC"
+  }
+}

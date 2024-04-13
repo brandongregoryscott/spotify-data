@@ -1,0 +1,34 @@
+{
+  "id": "2g4AaOOW8KxL0h1dSWfNxZ",
+  "name": "SND",
+  "uri": "spotify:artist:2g4AaOOW8KxL0h1dSWfNxZ",
+  "followers": {
+    "href": null,
+    "total": 7607
+  },
+  "genres": [
+    "british experimental",
+    "glitch"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273043ed1441bd3e30810afbb65",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02043ed1441bd3e30810afbb65",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851043ed1441bd3e30810afbb65",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2g4AaOOW8KxL0h1dSWfNxZ"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "6kic5bCjlohhDn9KzXbOta",
+  "name": "Clark",
+  "uri": "spotify:artist:6kic5bCjlohhDn9KzXbOta",
+  "followers": {
+    "href": null,
+    "total": 129964
+  },
+  "genres": [
+    "electronica",
+    "intelligent dance music",
+    "wonky"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7d3f24f4506d090e0a415a39",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051747d3f24f4506d090e0a415a39",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1787d3f24f4506d090e0a415a39",
+      "width": 160
+    }
+  ],
+  "popularity": 43,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+  }
+}

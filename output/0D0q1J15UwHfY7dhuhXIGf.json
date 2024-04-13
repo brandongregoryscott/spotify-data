@@ -1,0 +1,33 @@
+{
+  "id": "0D0q1J15UwHfY7dhuhXIGf",
+  "name": "monochromia",
+  "uri": "spotify:artist:0D0q1J15UwHfY7dhuhXIGf",
+  "followers": {
+    "href": null,
+    "total": 209
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27341c5120c8f74caab9b25b32b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0241c5120c8f74caab9b25b32b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485141c5120c8f74caab9b25b32b",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0D0q1J15UwHfY7dhuhXIGf"
+  }
+}

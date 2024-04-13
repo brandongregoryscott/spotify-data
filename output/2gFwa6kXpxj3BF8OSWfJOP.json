@@ -1,0 +1,33 @@
+{
+  "id": "2gFwa6kXpxj3BF8OSWfJOP",
+  "name": "Yung Chuck",
+  "uri": "spotify:artist:2gFwa6kXpxj3BF8OSWfJOP",
+  "followers": {
+    "href": null,
+    "total": 301
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbd664cb1948f2422067efa07",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bd664cb1948f2422067efa07",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bd664cb1948f2422067efa07",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2gFwa6kXpxj3BF8OSWfJOP"
+  }
+}

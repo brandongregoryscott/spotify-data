@@ -1,0 +1,33 @@
+{
+  "id": "1lMqv223L69En5LAy6Mtit",
+  "name": "LOOP POOL",
+  "uri": "spotify:artist:1lMqv223L69En5LAy6Mtit",
+  "followers": {
+    "href": null,
+    "total": 2350
+  },
+  "genres": [
+    "japanese math rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdedc1a5bae2ccf2f3ac32019",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dedc1a5bae2ccf2f3ac32019",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dedc1a5bae2ccf2f3ac32019",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1lMqv223L69En5LAy6Mtit"
+  }
+}

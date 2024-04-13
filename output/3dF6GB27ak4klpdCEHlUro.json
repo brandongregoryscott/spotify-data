@@ -1,0 +1,33 @@
+{
+  "id": "3dF6GB27ak4klpdCEHlUro",
+  "name": "Noverte",
+  "uri": "spotify:artist:3dF6GB27ak4klpdCEHlUro",
+  "followers": {
+    "href": null,
+    "total": 753
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb111e24f608ecdb4b3a25b011",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174111e24f608ecdb4b3a25b011",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178111e24f608ecdb4b3a25b011",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3dF6GB27ak4klpdCEHlUro"
+  }
+}

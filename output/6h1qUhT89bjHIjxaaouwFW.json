@@ -1,0 +1,33 @@
+{
+  "id": "6h1qUhT89bjHIjxaaouwFW",
+  "name": "Iokera",
+  "uri": "spotify:artist:6h1qUhT89bjHIjxaaouwFW",
+  "followers": {
+    "href": null,
+    "total": 264
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27396dfa6627d8fd44153ea75e4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0296dfa6627d8fd44153ea75e4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485196dfa6627d8fd44153ea75e4",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6h1qUhT89bjHIjxaaouwFW"
+  }
+}

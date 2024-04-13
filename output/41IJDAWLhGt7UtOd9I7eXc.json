@@ -1,0 +1,33 @@
+{
+  "id": "41IJDAWLhGt7UtOd9I7eXc",
+  "name": "そぞろまる",
+  "uri": "spotify:artist:41IJDAWLhGt7UtOd9I7eXc",
+  "followers": {
+    "href": null,
+    "total": 272
+  },
+  "genres": [
+    "vocaloid rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27320322070a55af36855cefff8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0220322070a55af36855cefff8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485120322070a55af36855cefff8",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/41IJDAWLhGt7UtOd9I7eXc"
+  }
+}

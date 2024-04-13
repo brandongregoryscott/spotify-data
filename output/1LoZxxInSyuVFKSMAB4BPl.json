@@ -1,0 +1,35 @@
+{
+  "id": "1LoZxxInSyuVFKSMAB4BPl",
+  "name": "DJ Python",
+  "uri": "spotify:artist:1LoZxxInSyuVFKSMAB4BPl",
+  "followers": {
+    "href": null,
+    "total": 25495
+  },
+  "genres": [
+    "ambient house",
+    "float house",
+    "fluxwork"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb029ec55493e651b7db5a83d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b029ec55493e651b7db5a83d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b029ec55493e651b7db5a83d",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+  }
+}

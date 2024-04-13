@@ -1,0 +1,33 @@
+{
+  "id": "11dVScfX7HGPn9zpPDPzDN",
+  "name": "Danny Bensi",
+  "uri": "spotify:artist:11dVScfX7HGPn9zpPDPzDN",
+  "followers": {
+    "href": null,
+    "total": 2246
+  },
+  "genres": [
+    "soundtrack"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb124b4c9cd6da4dfb41a98c24",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174124b4c9cd6da4dfb41a98c24",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178124b4c9cd6da4dfb41a98c24",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/11dVScfX7HGPn9zpPDPzDN"
+  }
+}

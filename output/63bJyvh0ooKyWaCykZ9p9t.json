@@ -1,0 +1,34 @@
+{
+  "id": "63bJyvh0ooKyWaCykZ9p9t",
+  "name": "PIGGS",
+  "uri": "spotify:artist:63bJyvh0ooKyWaCykZ9p9t",
+  "followers": {
+    "href": null,
+    "total": 5492
+  },
+  "genres": [
+    "alt-idol",
+    "idol rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb22c47c3e67f145164bef4817",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517422c47c3e67f145164bef4817",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17822c47c3e67f145164bef4817",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/63bJyvh0ooKyWaCykZ9p9t"
+  }
+}

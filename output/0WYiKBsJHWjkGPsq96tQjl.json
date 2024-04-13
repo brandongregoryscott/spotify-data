@@ -1,0 +1,34 @@
+{
+  "id": "0WYiKBsJHWjkGPsq96tQjl",
+  "name": "Uklao",
+  "uri": "spotify:artist:0WYiKBsJHWjkGPsq96tQjl",
+  "followers": {
+    "href": null,
+    "total": 361
+  },
+  "genres": [
+    "caracas indie",
+    "emo mexicano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe3459c144b0a5ba1080045cf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e3459c144b0a5ba1080045cf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e3459c144b0a5ba1080045cf",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0WYiKBsJHWjkGPsq96tQjl"
+  }
+}

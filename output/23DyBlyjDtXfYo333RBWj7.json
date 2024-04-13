@@ -1,0 +1,33 @@
+{
+  "id": "23DyBlyjDtXfYo333RBWj7",
+  "name": "Ganymede",
+  "uri": "spotify:artist:23DyBlyjDtXfYo333RBWj7",
+  "followers": {
+    "href": null,
+    "total": 145
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb36ae664b9ed2c5bf5f68d4d3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517436ae664b9ed2c5bf5f68d4d3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17836ae664b9ed2c5bf5f68d4d3",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/23DyBlyjDtXfYo333RBWj7"
+  }
+}

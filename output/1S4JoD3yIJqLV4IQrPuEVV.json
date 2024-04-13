@@ -1,0 +1,33 @@
+{
+  "id": "1S4JoD3yIJqLV4IQrPuEVV",
+  "name": "TwoForty",
+  "uri": "spotify:artist:1S4JoD3yIJqLV4IQrPuEVV",
+  "followers": {
+    "href": null,
+    "total": 71
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebec35190d909d0a9672fda298",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ec35190d909d0a9672fda298",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ec35190d909d0a9672fda298",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1S4JoD3yIJqLV4IQrPuEVV"
+  }
+}

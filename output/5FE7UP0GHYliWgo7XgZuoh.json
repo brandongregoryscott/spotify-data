@@ -1,0 +1,34 @@
+{
+  "id": "5FE7UP0GHYliWgo7XgZuoh",
+  "name": "Thin",
+  "uri": "spotify:artist:5FE7UP0GHYliWgo7XgZuoh",
+  "followers": {
+    "href": null,
+    "total": 2101
+  },
+  "genres": [
+    "mathcore",
+    "mathgrind"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdb969535fdd0f73577e8c7c3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174db969535fdd0f73577e8c7c3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178db969535fdd0f73577e8c7c3",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5FE7UP0GHYliWgo7XgZuoh"
+  }
+}

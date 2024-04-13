@@ -1,0 +1,33 @@
+{
+  "id": "1O30SBzXnXduCHs8P9X6yz",
+  "name": "MAPA",
+  "uri": "spotify:artist:1O30SBzXnXduCHs8P9X6yz",
+  "followers": {
+    "href": null,
+    "total": 2155
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27381b6faec0eac195495ed4def",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0281b6faec0eac195495ed4def",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485181b6faec0eac195495ed4def",
+      "width": 64
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1O30SBzXnXduCHs8P9X6yz"
+  }
+}

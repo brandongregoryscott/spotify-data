@@ -1,0 +1,33 @@
+{
+  "id": "1JMrpbSGKMWYYs8vPOjbLS",
+  "name": "RAVENWORKS",
+  "uri": "spotify:artist:1JMrpbSGKMWYYs8vPOjbLS",
+  "followers": {
+    "href": null,
+    "total": 110
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27375a008a095a5a20c4f20ae8e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0275a008a095a5a20c4f20ae8e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485175a008a095a5a20c4f20ae8e",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1JMrpbSGKMWYYs8vPOjbLS"
+  }
+}

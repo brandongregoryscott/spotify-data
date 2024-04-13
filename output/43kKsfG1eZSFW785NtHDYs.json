@@ -1,0 +1,34 @@
+{
+  "id": "43kKsfG1eZSFW785NtHDYs",
+  "name": "DYGL",
+  "uri": "spotify:artist:43kKsfG1eZSFW785NtHDYs",
+  "followers": {
+    "href": null,
+    "total": 67406
+  },
+  "genres": [
+    "japanese alternative rock",
+    "japanese punk rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb26092fd1a6d5b55b4b4abff3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517426092fd1a6d5b55b4b4abff3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17826092fd1a6d5b55b4b4abff3",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs"
+  }
+}

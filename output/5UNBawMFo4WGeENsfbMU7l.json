@@ -1,0 +1,35 @@
+{
+  "id": "5UNBawMFo4WGeENsfbMU7l",
+  "name": "Iris",
+  "uri": "spotify:artist:5UNBawMFo4WGeENsfbMU7l",
+  "followers": {
+    "href": null,
+    "total": 1997
+  },
+  "genres": [
+    "american shoegaze",
+    "canadian shoegaze",
+    "grungegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb2aac39565a5d631f97b7c04",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b2aac39565a5d631f97b7c04",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b2aac39565a5d631f97b7c04",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5UNBawMFo4WGeENsfbMU7l"
+  }
+}

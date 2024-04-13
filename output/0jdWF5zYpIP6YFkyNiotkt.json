@@ -1,0 +1,33 @@
+{
+  "id": "0jdWF5zYpIP6YFkyNiotkt",
+  "name": "Del4y",
+  "uri": "spotify:artist:0jdWF5zYpIP6YFkyNiotkt",
+  "followers": {
+    "href": null,
+    "total": 117
+  },
+  "genres": [
+    "future funk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdcc4461e16ee1ce874662d18",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dcc4461e16ee1ce874662d18",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dcc4461e16ee1ce874662d18",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0jdWF5zYpIP6YFkyNiotkt"
+  }
+}

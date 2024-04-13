@@ -1,0 +1,33 @@
+{
+  "id": "1M2syHJsaNx83HYzXX0Ycp",
+  "name": "te'",
+  "uri": "spotify:artist:1M2syHJsaNx83HYzXX0Ycp",
+  "followers": {
+    "href": null,
+    "total": 9472
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebde4caaa2fde6ecf9a35c7580",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174de4caaa2fde6ecf9a35c7580",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178de4caaa2fde6ecf9a35c7580",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1M2syHJsaNx83HYzXX0Ycp"
+  }
+}

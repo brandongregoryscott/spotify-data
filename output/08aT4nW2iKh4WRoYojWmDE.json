@@ -1,0 +1,35 @@
+{
+  "id": "08aT4nW2iKh4WRoYojWmDE",
+  "name": "The Winking Owl",
+  "uri": "spotify:artist:08aT4nW2iKh4WRoYojWmDE",
+  "followers": {
+    "href": null,
+    "total": 32732
+  },
+  "genres": [
+    "anime rock",
+    "j-pixie",
+    "japanese pop punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaee582272472379b912244f7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aee582272472379b912244f7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aee582272472379b912244f7",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE"
+  }
+}

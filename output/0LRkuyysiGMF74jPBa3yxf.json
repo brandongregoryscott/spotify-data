@@ -1,0 +1,33 @@
+{
+  "id": "0LRkuyysiGMF74jPBa3yxf",
+  "name": "Cashier",
+  "uri": "spotify:artist:0LRkuyysiGMF74jPBa3yxf",
+  "followers": {
+    "href": null,
+    "total": 3255
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f04b16ccfde91bf9392f9b28",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020a2c11f422d7e14617a9843e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f04b16ccfde91bf9392f9b28",
+      "width": 64
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0LRkuyysiGMF74jPBa3yxf"
+  }
+}

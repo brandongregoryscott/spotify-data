@@ -1,0 +1,33 @@
+{
+  "id": "7jXX1eX5xGGX1sa9RxfXyb",
+  "name": "ArtFluids",
+  "uri": "spotify:artist:7jXX1eX5xGGX1sa9RxfXyb",
+  "followers": {
+    "href": null,
+    "total": 87
+  },
+  "genres": [
+    "utopian virtual"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273567d67a8b006867d1b389c75",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02567d67a8b006867d1b389c75",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851567d67a8b006867d1b389c75",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7jXX1eX5xGGX1sa9RxfXyb"
+  }
+}

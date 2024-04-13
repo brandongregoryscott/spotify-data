@@ -1,0 +1,33 @@
+{
+  "id": "6pUbTIIprIeGcORQFgTO5k",
+  "name": "Allwarm",
+  "uri": "spotify:artist:6pUbTIIprIeGcORQFgTO5k",
+  "followers": {
+    "href": null,
+    "total": 430
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d2111f6de772d2f7ccbbdd32",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d2111f6de772d2f7ccbbdd32",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d2111f6de772d2f7ccbbdd32",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6pUbTIIprIeGcORQFgTO5k"
+  }
+}

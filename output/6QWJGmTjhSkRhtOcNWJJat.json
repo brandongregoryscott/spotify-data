@@ -1,0 +1,33 @@
+{
+  "id": "6QWJGmTjhSkRhtOcNWJJat",
+  "name": "Buh",
+  "uri": "spotify:artist:6QWJGmTjhSkRhtOcNWJJat",
+  "followers": {
+    "href": null,
+    "total": 620
+  },
+  "genres": [
+    "peruvian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27317e72be9dce181b67cc6eaf2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0217e72be9dce181b67cc6eaf2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485117e72be9dce181b67cc6eaf2",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6QWJGmTjhSkRhtOcNWJJat"
+  }
+}

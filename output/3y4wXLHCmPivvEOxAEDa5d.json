@@ -1,0 +1,33 @@
+{
+  "id": "3y4wXLHCmPivvEOxAEDa5d",
+  "name": "Luvely",
+  "uri": "spotify:artist:3y4wXLHCmPivvEOxAEDa5d",
+  "followers": {
+    "href": null,
+    "total": 82
+  },
+  "genres": [
+    "dreampunk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27324aad8ab711744d00e381bbb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0224aad8ab711744d00e381bbb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485124aad8ab711744d00e381bbb",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3y4wXLHCmPivvEOxAEDa5d"
+  }
+}

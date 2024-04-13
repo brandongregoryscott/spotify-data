@@ -1,0 +1,33 @@
+{
+  "id": "0DCtmTy1mWclNyXvU7aNRA",
+  "name": "Jockey",
+  "uri": "spotify:artist:0DCtmTy1mWclNyXvU7aNRA",
+  "followers": {
+    "href": null,
+    "total": 1628
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba0ec606dcdb91cc069a89771",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a0ec606dcdb91cc069a89771",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a0ec606dcdb91cc069a89771",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0DCtmTy1mWclNyXvU7aNRA"
+  }
+}

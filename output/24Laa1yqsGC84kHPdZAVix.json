@@ -1,0 +1,33 @@
+{
+  "id": "24Laa1yqsGC84kHPdZAVix",
+  "name": "TASK",
+  "uri": "spotify:artist:24Laa1yqsGC84kHPdZAVix",
+  "followers": {
+    "href": null,
+    "total": 805
+  },
+  "genres": [
+    "vocaloid rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273613b8d600fcf0943cb7be315",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02613b8d600fcf0943cb7be315",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851613b8d600fcf0943cb7be315",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/24Laa1yqsGC84kHPdZAVix"
+  }
+}

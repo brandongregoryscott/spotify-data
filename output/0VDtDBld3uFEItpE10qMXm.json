@@ -1,0 +1,38 @@
+{
+  "id": "0VDtDBld3uFEItpE10qMXm",
+  "name": "Form A Log",
+  "uri": "spotify:artist:0VDtDBld3uFEItpE10qMXm",
+  "followers": {
+    "href": null,
+    "total": 79
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 1000,
+      "url": "https://i.scdn.co/image/9eaaea017c8c672177b81283b35889fe24df1d53",
+      "width": 1000
+    },
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/0587850fdad194db3451a94ace52a9c88bf76ed7",
+      "width": 640
+    },
+    {
+      "height": 200,
+      "url": "https://i.scdn.co/image/d198bd12512ae0da674b3f5daeddb726f7c3377c",
+      "width": 200
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/aef6456e29c6a7e661bab469fca53e19196b5521",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0VDtDBld3uFEItpE10qMXm"
+  }
+}

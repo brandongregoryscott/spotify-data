@@ -1,0 +1,36 @@
+{
+  "id": "7indGc1Jxbza3ehwm9ffVc",
+  "name": "Dev/Null",
+  "uri": "spotify:artist:7indGc1Jxbza3ehwm9ffVc",
+  "followers": {
+    "href": null,
+    "total": 5736
+  },
+  "genres": [
+    "breakcore",
+    "flashcore",
+    "modern jungle",
+    "new england experimental"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737653888dcbfb52f0896480dc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027653888dcbfb52f0896480dc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517653888dcbfb52f0896480dc",
+      "width": 64
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7indGc1Jxbza3ehwm9ffVc"
+  }
+}
