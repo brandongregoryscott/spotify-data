@@ -1,0 +1,33 @@
+{
+  "id": "4hWY7aEgKIDVHfctcteqPV",
+  "name": "Stand Alone Complex",
+  "uri": "spotify:artist:4hWY7aEgKIDVHfctcteqPV",
+  "followers": {
+    "href": null,
+    "total": 2113
+  },
+  "genres": [
+    "progressive metalcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27356d7204a93470f0ca214af29",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0256d7204a93470f0ca214af29",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485156d7204a93470f0ca214af29",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4hWY7aEgKIDVHfctcteqPV"
+  }
+}

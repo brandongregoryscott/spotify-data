@@ -1,0 +1,33 @@
+{
+  "id": "0uxw8IRTRfcLtKTn8va2ja",
+  "name": "Out of Time",
+  "uri": "spotify:artist:0uxw8IRTRfcLtKTn8va2ja",
+  "followers": {
+    "href": null,
+    "total": 182
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb26a6d8ebea8cd5ec8f1d36cd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517426a6d8ebea8cd5ec8f1d36cd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17826a6d8ebea8cd5ec8f1d36cd",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0uxw8IRTRfcLtKTn8va2ja"
+  }
+}

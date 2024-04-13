@@ -1,0 +1,33 @@
+{
+  "id": "5nqg0avColSW2cvY9XBPfm",
+  "name": "SoapCharge",
+  "uri": "spotify:artist:5nqg0avColSW2cvY9XBPfm",
+  "followers": {
+    "href": null,
+    "total": 373
+  },
+  "genres": [
+    "street punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcf9db88cfb1fd784587af434",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cf9db88cfb1fd784587af434",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cf9db88cfb1fd784587af434",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5nqg0avColSW2cvY9XBPfm"
+  }
+}

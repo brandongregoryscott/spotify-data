@@ -1,0 +1,33 @@
+{
+  "id": "3x31fDTJjZFIWcvKhRjTSz",
+  "name": "BenchCup",
+  "uri": "spotify:artist:3x31fDTJjZFIWcvKhRjTSz",
+  "followers": {
+    "href": null,
+    "total": 271
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4595a8a5b07e4009d94dc195",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744595a8a5b07e4009d94dc195",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784595a8a5b07e4009d94dc195",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3x31fDTJjZFIWcvKhRjTSz"
+  }
+}

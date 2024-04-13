@@ -1,0 +1,33 @@
+{
+  "id": "2ffIFx73y8UfIrhUqIBMJD",
+  "name": "Samurae",
+  "uri": "spotify:artist:2ffIFx73y8UfIrhUqIBMJD",
+  "followers": {
+    "href": null,
+    "total": 155
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb21be91cbd4d6531ea1c1d992",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517421be91cbd4d6531ea1c1d992",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17821be91cbd4d6531ea1c1d992",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ffIFx73y8UfIrhUqIBMJD"
+  }
+}

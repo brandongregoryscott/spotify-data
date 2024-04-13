@@ -1,0 +1,35 @@
+{
+  "id": "7Ip1eXTDPgmMib2tTiJCyG",
+  "name": "CMX",
+  "uri": "spotify:artist:7Ip1eXTDPgmMib2tTiJCyG",
+  "followers": {
+    "href": null,
+    "total": 32119
+  },
+  "genres": [
+    "finnish alternative rock",
+    "finnish progressive rock",
+    "suomi rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb37edef5605252f6b265b669b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517437edef5605252f6b265b669b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17837edef5605252f6b265b669b",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7Ip1eXTDPgmMib2tTiJCyG"
+  }
+}

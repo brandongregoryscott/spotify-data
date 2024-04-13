@@ -1,0 +1,33 @@
+{
+  "id": "2qabXgXEN5cRqEvQzC8eox",
+  "name": "Chorduroy",
+  "uri": "spotify:artist:2qabXgXEN5cRqEvQzC8eox",
+  "followers": {
+    "href": null,
+    "total": 351
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb07c2be71cd57347d8431c1a1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517407c2be71cd57347d8431c1a1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17807c2be71cd57347d8431c1a1",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2qabXgXEN5cRqEvQzC8eox"
+  }
+}

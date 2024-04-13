@@ -1,0 +1,33 @@
+{
+  "id": "0z8ShnIyctKoYwU68qKzRT",
+  "name": "Regressor",
+  "uri": "spotify:artist:0z8ShnIyctKoYwU68qKzRT",
+  "followers": {
+    "href": null,
+    "total": 2975
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb15c0e472064b76a2e443130c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517415c0e472064b76a2e443130c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17815c0e472064b76a2e443130c",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0z8ShnIyctKoYwU68qKzRT"
+  }
+}

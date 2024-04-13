@@ -1,0 +1,33 @@
+{
+  "id": "545J5cUXTs4ZdFku3EBlSC",
+  "name": "Dissidente",
+  "uri": "spotify:artist:545J5cUXTs4ZdFku3EBlSC",
+  "followers": {
+    "href": null,
+    "total": 1346
+  },
+  "genres": [
+    "modern ska punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe89e3af073fde84c69f34edd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e89e3af073fde84c69f34edd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e89e3af073fde84c69f34edd",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/545J5cUXTs4ZdFku3EBlSC"
+  }
+}

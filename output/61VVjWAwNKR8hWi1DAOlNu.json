@@ -1,0 +1,33 @@
+{
+  "id": "61VVjWAwNKR8hWi1DAOlNu",
+  "name": "Tayta Bird",
+  "uri": "spotify:artist:61VVjWAwNKR8hWi1DAOlNu",
+  "followers": {
+    "href": null,
+    "total": 2269
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb50bd8081bba5128595839495",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517450bd8081bba5128595839495",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17850bd8081bba5128595839495",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/61VVjWAwNKR8hWi1DAOlNu"
+  }
+}

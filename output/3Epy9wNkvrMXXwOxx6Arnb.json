@@ -1,0 +1,33 @@
+{
+  "id": "3Epy9wNkvrMXXwOxx6Arnb",
+  "name": "tasteofink.",
+  "uri": "spotify:artist:3Epy9wNkvrMXXwOxx6Arnb",
+  "followers": {
+    "href": null,
+    "total": 81
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaf1b265ad764065f0cc56d04",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174af1b265ad764065f0cc56d04",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178af1b265ad764065f0cc56d04",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Epy9wNkvrMXXwOxx6Arnb"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5TxDnqQVW2Rc5AWpHo8gXR",
+  "name": "Splinter",
+  "uri": "spotify:artist:5TxDnqQVW2Rc5AWpHo8gXR",
+  "followers": {
+    "href": null,
+    "total": 772
+  },
+  "genres": [
+    "australian hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcf1dcff59c982fa2dfbcb4af",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cf1dcff59c982fa2dfbcb4af",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cf1dcff59c982fa2dfbcb4af",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5TxDnqQVW2Rc5AWpHo8gXR"
+  }
+}

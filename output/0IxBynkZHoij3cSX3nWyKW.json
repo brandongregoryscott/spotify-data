@@ -1,0 +1,33 @@
+{
+  "id": "0IxBynkZHoij3cSX3nWyKW",
+  "name": "Torn Between",
+  "uri": "spotify:artist:0IxBynkZHoij3cSX3nWyKW",
+  "followers": {
+    "href": null,
+    "total": 279
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeec04c24e36edcf8fc8c8ca6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eec04c24e36edcf8fc8c8ca6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eec04c24e36edcf8fc8c8ca6",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0IxBynkZHoij3cSX3nWyKW"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3TWZYikZFbzHnAMh5kfmfq",
+  "name": "The Forerunner",
+  "uri": "spotify:artist:3TWZYikZFbzHnAMh5kfmfq",
+  "followers": {
+    "href": null,
+    "total": 2277
+  },
+  "genres": [
+    "christian metalcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d2f16d9a677de064106ebcfa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d2f16d9a677de064106ebcfa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d2f16d9a677de064106ebcfa",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3TWZYikZFbzHnAMh5kfmfq"
+  }
+}

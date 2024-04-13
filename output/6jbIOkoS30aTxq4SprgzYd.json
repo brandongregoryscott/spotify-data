@@ -1,0 +1,33 @@
+{
+  "id": "6jbIOkoS30aTxq4SprgzYd",
+  "name": "Adaliah",
+  "uri": "spotify:artist:6jbIOkoS30aTxq4SprgzYd",
+  "followers": {
+    "href": null,
+    "total": 900
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcaba104d95db7b46464f1cc1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174caba104d95db7b46464f1cc1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178caba104d95db7b46464f1cc1",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6jbIOkoS30aTxq4SprgzYd"
+  }
+}

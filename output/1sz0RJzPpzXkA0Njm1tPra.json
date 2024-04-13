@@ -1,0 +1,33 @@
+{
+  "id": "1sz0RJzPpzXkA0Njm1tPra",
+  "name": "A Moments Notice",
+  "uri": "spotify:artist:1sz0RJzPpzXkA0Njm1tPra",
+  "followers": {
+    "href": null,
+    "total": 1102
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdb970ff59bd32c7d4e830e69",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174db970ff59bd32c7d4e830e69",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178db970ff59bd32c7d4e830e69",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1sz0RJzPpzXkA0Njm1tPra"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "1ekJ1lfbNxL1o7ZvrdwZjU",
+  "name": "Lengsel",
+  "uri": "spotify:artist:1ekJ1lfbNxL1o7ZvrdwZjU",
+  "followers": {
+    "href": null,
+    "total": 2806
+  },
+  "genres": [
+    "norwegian metal",
+    "technical black metal",
+    "unblack metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6455fec4ec20a8def349fdef",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051746455fec4ec20a8def349fdef",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1786455fec4ec20a8def349fdef",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ekJ1lfbNxL1o7ZvrdwZjU"
+  }
+}

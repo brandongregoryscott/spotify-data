@@ -1,0 +1,34 @@
+{
+  "id": "6FmntufhrDlfZWayEIrK91",
+  "name": "Kylähullut",
+  "uri": "spotify:artist:6FmntufhrDlfZWayEIrK91",
+  "followers": {
+    "href": null,
+    "total": 5024
+  },
+  "genres": [
+    "finnish hardcore",
+    "finnish punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe7bee5efc3c66066f6d00f7c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e7bee5efc3c66066f6d00f7c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e7bee5efc3c66066f6d00f7c",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6FmntufhrDlfZWayEIrK91"
+  }
+}

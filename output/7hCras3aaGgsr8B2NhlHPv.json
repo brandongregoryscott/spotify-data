@@ -1,0 +1,33 @@
+{
+  "id": "7hCras3aaGgsr8B2NhlHPv",
+  "name": "Father Figuer",
+  "uri": "spotify:artist:7hCras3aaGgsr8B2NhlHPv",
+  "followers": {
+    "href": null,
+    "total": 459
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7636735622dffb2f35f8346b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051747636735622dffb2f35f8346b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1787636735622dffb2f35f8346b",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7hCras3aaGgsr8B2NhlHPv"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5s5bDMYmlwgWhaQKDBzDAA",
+  "name": "Franklynn",
+  "uri": "spotify:artist:5s5bDMYmlwgWhaQKDBzDAA",
+  "followers": {
+    "href": null,
+    "total": 125
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb31b33564f9e7924f2e5f0e5a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517431b33564f9e7924f2e5f0e5a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17831b33564f9e7924f2e5f0e5a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5s5bDMYmlwgWhaQKDBzDAA"
+  }
+}

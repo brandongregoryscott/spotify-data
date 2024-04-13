@@ -1,0 +1,33 @@
+{
+  "id": "357kGclXxGq4GGTMXaWzow",
+  "name": "Hangdog",
+  "uri": "spotify:artist:357kGclXxGq4GGTMXaWzow",
+  "followers": {
+    "href": null,
+    "total": 428
+  },
+  "genres": [
+    "pennsylvania hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc48f6f9908a81796a0ee2afc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c48f6f9908a81796a0ee2afc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c48f6f9908a81796a0ee2afc",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/357kGclXxGq4GGTMXaWzow"
+  }
+}

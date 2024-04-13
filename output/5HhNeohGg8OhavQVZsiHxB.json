@@ -1,0 +1,33 @@
+{
+  "id": "5HhNeohGg8OhavQVZsiHxB",
+  "name": "LOMELI",
+  "uri": "spotify:artist:5HhNeohGg8OhavQVZsiHxB",
+  "followers": {
+    "href": null,
+    "total": 3570
+  },
+  "genres": [
+    "indie r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb052b7c5107d76523cb204625",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174052b7c5107d76523cb204625",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178052b7c5107d76523cb204625",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5HhNeohGg8OhavQVZsiHxB"
+  }
+}

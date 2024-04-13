@@ -1,0 +1,33 @@
+{
+  "id": "4T9yw3e1eWASHsWYo8nHr1",
+  "name": "elartedenada",
+  "uri": "spotify:artist:4T9yw3e1eWASHsWYo8nHr1",
+  "followers": {
+    "href": null,
+    "total": 23
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdd55455a609258db501e9806",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dd55455a609258db501e9806",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dd55455a609258db501e9806",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4T9yw3e1eWASHsWYo8nHr1"
+  }
+}

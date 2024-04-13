@@ -1,0 +1,33 @@
+{
+  "id": "3yJKPjGtCu9CMYWCcaRKGc",
+  "name": "Golden Week",
+  "uri": "spotify:artist:3yJKPjGtCu9CMYWCcaRKGc",
+  "followers": {
+    "href": null,
+    "total": 402
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc31d332c52f8f497121256ae",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c31d332c52f8f497121256ae",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c31d332c52f8f497121256ae",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3yJKPjGtCu9CMYWCcaRKGc"
+  }
+}

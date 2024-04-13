@@ -1,0 +1,33 @@
+{
+  "id": "0vWtNM9b15fQ6ryqGw7z5S",
+  "name": "The Vics",
+  "uri": "spotify:artist:0vWtNM9b15fQ6ryqGw7z5S",
+  "followers": {
+    "href": null,
+    "total": 545
+  },
+  "genres": [
+    "pittsburgh indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf3c064f35c952953d707e491",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f3c064f35c952953d707e491",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f3c064f35c952953d707e491",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0vWtNM9b15fQ6ryqGw7z5S"
+  }
+}

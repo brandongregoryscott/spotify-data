@@ -1,0 +1,33 @@
+{
+  "id": "1B0mpZJa6M2jcwvbPA0lWN",
+  "name": "A Rose, By Any Other Name",
+  "uri": "spotify:artist:1B0mpZJa6M2jcwvbPA0lWN",
+  "followers": {
+    "href": null,
+    "total": 734
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273407b21266de72470301faf3f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02407b21266de72470301faf3f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851407b21266de72470301faf3f",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1B0mpZJa6M2jcwvbPA0lWN"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1YdWxmmj11cbJbcHhUrvba",
+  "name": "Gas FL",
+  "uri": "spotify:artist:1YdWxmmj11cbJbcHhUrvba",
+  "followers": {
+    "href": null,
+    "total": 973
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb1af4d8a8641eeded6b1a54a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b1af4d8a8641eeded6b1a54a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b1af4d8a8641eeded6b1a54a",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1YdWxmmj11cbJbcHhUrvba"
+  }
+}

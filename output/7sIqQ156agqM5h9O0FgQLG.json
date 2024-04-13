@@ -1,0 +1,33 @@
+{
+  "id": "7sIqQ156agqM5h9O0FgQLG",
+  "name": "ZIION",
+  "uri": "spotify:artist:7sIqQ156agqM5h9O0FgQLG",
+  "followers": {
+    "href": null,
+    "total": 510
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb08aedf7f91bd85e220679fb4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517408aedf7f91bd85e220679fb4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17808aedf7f91bd85e220679fb4",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7sIqQ156agqM5h9O0FgQLG"
+  }
+}

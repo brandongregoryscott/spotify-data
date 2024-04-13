@@ -1,0 +1,33 @@
+{
+  "id": "03u8GNyd701MXQgN2avCjH",
+  "name": "Black Elephant",
+  "uri": "spotify:artist:03u8GNyd701MXQgN2avCjH",
+  "followers": {
+    "href": null,
+    "total": 6945
+  },
+  "genres": [
+    "italian stoner rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732c03e1fd299b604c9e3327d7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022c03e1fd299b604c9e3327d7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512c03e1fd299b604c9e3327d7",
+      "width": 64
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03u8GNyd701MXQgN2avCjH"
+  }
+}

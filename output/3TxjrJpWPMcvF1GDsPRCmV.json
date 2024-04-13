@@ -1,0 +1,33 @@
+{
+  "id": "3TxjrJpWPMcvF1GDsPRCmV",
+  "name": "LaVey",
+  "uri": "spotify:artist:3TxjrJpWPMcvF1GDsPRCmV",
+  "followers": {
+    "href": null,
+    "total": 332
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb552893b1b9cb41d003a2862e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174552893b1b9cb41d003a2862e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178552893b1b9cb41d003a2862e",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3TxjrJpWPMcvF1GDsPRCmV"
+  }
+}

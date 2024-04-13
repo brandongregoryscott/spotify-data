@@ -1,0 +1,33 @@
+{
+  "id": "7zodrzDbBSSds26aw3dSKk",
+  "name": "Frankenbok",
+  "uri": "spotify:artist:7zodrzDbBSSds26aw3dSKk",
+  "followers": {
+    "href": null,
+    "total": 1671
+  },
+  "genres": [
+    "australian metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb60d43d9eeadcc4287e8b96e5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517460d43d9eeadcc4287e8b96e5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17860d43d9eeadcc4287e8b96e5",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7zodrzDbBSSds26aw3dSKk"
+  }
+}

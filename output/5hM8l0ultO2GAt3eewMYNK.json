@@ -1,0 +1,33 @@
+{
+  "id": "5hM8l0ultO2GAt3eewMYNK",
+  "name": "Randy",
+  "uri": "spotify:artist:5hM8l0ultO2GAt3eewMYNK",
+  "followers": {
+    "href": null,
+    "total": 137
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb2b5e39b74073c4fe589e7fa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b2b5e39b74073c4fe589e7fa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b2b5e39b74073c4fe589e7fa",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5hM8l0ultO2GAt3eewMYNK"
+  }
+}

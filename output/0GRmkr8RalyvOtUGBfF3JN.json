@@ -1,0 +1,33 @@
+{
+  "id": "0GRmkr8RalyvOtUGBfF3JN",
+  "name": "Rych",
+  "uri": "spotify:artist:0GRmkr8RalyvOtUGBfF3JN",
+  "followers": {
+    "href": null,
+    "total": 32
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb56a7ef03d8fbf4f56adab8bb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517456a7ef03d8fbf4f56adab8bb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17856a7ef03d8fbf4f56adab8bb",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0GRmkr8RalyvOtUGBfF3JN"
+  }
+}

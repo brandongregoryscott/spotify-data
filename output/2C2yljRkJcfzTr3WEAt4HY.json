@@ -1,0 +1,33 @@
+{
+  "id": "2C2yljRkJcfzTr3WEAt4HY",
+  "name": "723",
+  "uri": "spotify:artist:2C2yljRkJcfzTr3WEAt4HY",
+  "followers": {
+    "href": null,
+    "total": 305
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe85556218aad36fb229f11ca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e85556218aad36fb229f11ca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e85556218aad36fb229f11ca",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2C2yljRkJcfzTr3WEAt4HY"
+  }
+}

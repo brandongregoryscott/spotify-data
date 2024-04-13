@@ -1,0 +1,33 @@
+{
+  "id": "3PvJIfKWoZeAmrccEIqhni",
+  "name": "Los Slaters",
+  "uri": "spotify:artist:3PvJIfKWoZeAmrccEIqhni",
+  "followers": {
+    "href": null,
+    "total": 19
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb108cc55ddcc152d1db8d2ac1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174108cc55ddcc152d1db8d2ac1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178108cc55ddcc152d1db8d2ac1",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3PvJIfKWoZeAmrccEIqhni"
+  }
+}

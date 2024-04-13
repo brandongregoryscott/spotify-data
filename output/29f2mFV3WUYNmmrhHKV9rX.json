@@ -1,0 +1,33 @@
+{
+  "id": "29f2mFV3WUYNmmrhHKV9rX",
+  "name": "HAWK",
+  "uri": "spotify:artist:29f2mFV3WUYNmmrhHKV9rX",
+  "followers": {
+    "href": null,
+    "total": 12023
+  },
+  "genres": [
+    "american metalcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb2723c0427a7a70d91553120b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051742723c0427a7a70d91553120b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1782723c0427a7a70d91553120b",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/29f2mFV3WUYNmmrhHKV9rX"
+  }
+}

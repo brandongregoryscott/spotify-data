@@ -1,0 +1,33 @@
+{
+  "id": "3hDCFp9w2butjo3C6WxcYW",
+  "name": "Lil Kool Aid",
+  "uri": "spotify:artist:3hDCFp9w2butjo3C6WxcYW",
+  "followers": {
+    "href": null,
+    "total": 253
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb369fced84105a8a58af38bd4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174369fced84105a8a58af38bd4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178369fced84105a8a58af38bd4",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3hDCFp9w2butjo3C6WxcYW"
+  }
+}

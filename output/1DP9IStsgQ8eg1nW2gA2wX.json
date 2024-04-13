@@ -1,0 +1,33 @@
+{
+  "id": "1DP9IStsgQ8eg1nW2gA2wX",
+  "name": "Palaces",
+  "uri": "spotify:artist:1DP9IStsgQ8eg1nW2gA2wX",
+  "followers": {
+    "href": null,
+    "total": 99
+  },
+  "genres": [
+    "atlanta metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb55b9c55ed1acaa08f2e2a0c4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517455b9c55ed1acaa08f2e2a0c4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17855b9c55ed1acaa08f2e2a0c4",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1DP9IStsgQ8eg1nW2gA2wX"
+  }
+}

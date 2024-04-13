@@ -1,0 +1,33 @@
+{
+  "id": "5BCzMYBL5CQryHyDMk1SrX",
+  "name": "Two Birds",
+  "uri": "spotify:artist:5BCzMYBL5CQryHyDMk1SrX",
+  "followers": {
+    "href": null,
+    "total": 371
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb19603d9dc3e64450893f07c1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517419603d9dc3e64450893f07c1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17819603d9dc3e64450893f07c1",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5BCzMYBL5CQryHyDMk1SrX"
+  }
+}

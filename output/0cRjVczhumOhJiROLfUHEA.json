@@ -1,0 +1,33 @@
+{
+  "id": "0cRjVczhumOhJiROLfUHEA",
+  "name": "Rosary",
+  "uri": "spotify:artist:0cRjVczhumOhJiROLfUHEA",
+  "followers": {
+    "href": null,
+    "total": 284
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbd16e53d7f4cd3c0eed0aefd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bd16e53d7f4cd3c0eed0aefd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bd16e53d7f4cd3c0eed0aefd",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0cRjVczhumOhJiROLfUHEA"
+  }
+}

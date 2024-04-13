@@ -1,0 +1,33 @@
+{
+  "id": "6gzPFf6sEdQT9BQzsjHUVY",
+  "name": "Melt",
+  "uri": "spotify:artist:6gzPFf6sEdQT9BQzsjHUVY",
+  "followers": {
+    "href": null,
+    "total": 507
+  },
+  "genres": [
+    "pittsburgh indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd3b9f6f6197a7b6a3cd1183d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d3b9f6f6197a7b6a3cd1183d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d3b9f6f6197a7b6a3cd1183d",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6gzPFf6sEdQT9BQzsjHUVY"
+  }
+}

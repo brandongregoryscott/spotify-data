@@ -1,0 +1,33 @@
+{
+  "id": "5ubi1Du2eoQxxMJklnbl6I",
+  "name": "Ectoplasm",
+  "uri": "spotify:artist:5ubi1Du2eoQxxMJklnbl6I",
+  "followers": {
+    "href": null,
+    "total": 958
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb11db48cfd151ac703f1d24fc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517411db48cfd151ac703f1d24fc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17811db48cfd151ac703f1d24fc",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ubi1Du2eoQxxMJklnbl6I"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1iCAOvbbCvgNN7tIv5PZcN",
+  "name": "Rico Blu",
+  "uri": "spotify:artist:1iCAOvbbCvgNN7tIv5PZcN",
+  "followers": {
+    "href": null,
+    "total": 164
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebabaf3f6c2bf557ecf4d9c27d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174abaf3f6c2bf557ecf4d9c27d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178abaf3f6c2bf557ecf4d9c27d",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1iCAOvbbCvgNN7tIv5PZcN"
+  }
+}

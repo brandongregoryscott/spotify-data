@@ -1,0 +1,34 @@
+{
+  "id": "2dEwyqGOcggWerDzg1QTOq",
+  "name": "Verenpisara",
+  "uri": "spotify:artist:2dEwyqGOcggWerDzg1QTOq",
+  "followers": {
+    "href": null,
+    "total": 2087
+  },
+  "genres": [
+    "finnish metal",
+    "suomi rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273810777981efd93b9ecacbb29",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02810777981efd93b9ecacbb29",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851810777981efd93b9ecacbb29",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2dEwyqGOcggWerDzg1QTOq"
+  }
+}

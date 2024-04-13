@@ -1,0 +1,33 @@
+{
+  "id": "5wJjwicsoN4HiLVwVY628Z",
+  "name": "Insular",
+  "uri": "spotify:artist:5wJjwicsoN4HiLVwVY628Z",
+  "followers": {
+    "href": null,
+    "total": 639
+  },
+  "genres": [
+    "tennessee metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba521efd2f986884a42e50eef",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a521efd2f986884a42e50eef",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a521efd2f986884a42e50eef",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5wJjwicsoN4HiLVwVY628Z"
+  }
+}

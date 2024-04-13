@@ -1,0 +1,33 @@
+{
+  "id": "1qEZa31QIwTryhmn4dbTir",
+  "name": "S.P.I.T",
+  "uri": "spotify:artist:1qEZa31QIwTryhmn4dbTir",
+  "followers": {
+    "href": null,
+    "total": 888
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba8d52e6d523514aea950dfe2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a8d52e6d523514aea950dfe2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a8d52e6d523514aea950dfe2",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1qEZa31QIwTryhmn4dbTir"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3dp5FvGpN8Y1NiBFItzSPu",
+  "name": "Just Right",
+  "uri": "spotify:artist:3dp5FvGpN8Y1NiBFItzSPu",
+  "followers": {
+    "href": null,
+    "total": 504
+  },
+  "genres": [
+    "canadian hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb701e89f0add4cb19dffc8ee4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174701e89f0add4cb19dffc8ee4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178701e89f0add4cb19dffc8ee4",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3dp5FvGpN8Y1NiBFItzSPu"
+  }
+}

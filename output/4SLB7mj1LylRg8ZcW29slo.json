@@ -1,0 +1,34 @@
+{
+  "id": "4SLB7mj1LylRg8ZcW29slo",
+  "name": "Same",
+  "uri": "spotify:artist:4SLB7mj1LylRg8ZcW29slo",
+  "followers": {
+    "href": null,
+    "total": 941
+  },
+  "genres": [
+    "pittsburgh indie",
+    "pittsburgh indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc75d51c122f937ad1c5c94ac",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c75d51c122f937ad1c5c94ac",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c75d51c122f937ad1c5c94ac",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4SLB7mj1LylRg8ZcW29slo"
+  }
+}

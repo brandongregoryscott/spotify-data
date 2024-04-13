@@ -1,0 +1,33 @@
+{
+  "id": "51M2l9r2xX31tNp0SA4WZf",
+  "name": "Tunic",
+  "uri": "spotify:artist:51M2l9r2xX31tNp0SA4WZf",
+  "followers": {
+    "href": null,
+    "total": 4625
+  },
+  "genres": [
+    "manitoba indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb38abb2e8df295d9e4c379dad",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517438abb2e8df295d9e4c379dad",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17838abb2e8df295d9e4c379dad",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/51M2l9r2xX31tNp0SA4WZf"
+  }
+}

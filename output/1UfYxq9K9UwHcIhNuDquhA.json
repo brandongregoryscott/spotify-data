@@ -1,0 +1,33 @@
+{
+  "id": "1UfYxq9K9UwHcIhNuDquhA",
+  "name": "GORGS",
+  "uri": "spotify:artist:1UfYxq9K9UwHcIhNuDquhA",
+  "followers": {
+    "href": null,
+    "total": 3377
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb916f4abc5d83db79e48c1853",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174916f4abc5d83db79e48c1853",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178916f4abc5d83db79e48c1853",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1UfYxq9K9UwHcIhNuDquhA"
+  }
+}

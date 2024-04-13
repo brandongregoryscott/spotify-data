@@ -1,0 +1,33 @@
+{
+  "id": "4VEL9EUoH3DGnWEV2fLJII",
+  "name": "New Methods",
+  "uri": "spotify:artist:4VEL9EUoH3DGnWEV2fLJII",
+  "followers": {
+    "href": null,
+    "total": 370
+  },
+  "genres": [
+    "texas hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb254ac0a3540c6b1c6761ab1a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174254ac0a3540c6b1c6761ab1a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178254ac0a3540c6b1c6761ab1a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4VEL9EUoH3DGnWEV2fLJII"
+  }
+}

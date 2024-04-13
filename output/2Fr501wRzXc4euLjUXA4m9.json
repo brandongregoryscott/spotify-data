@@ -1,0 +1,33 @@
+{
+  "id": "2Fr501wRzXc4euLjUXA4m9",
+  "name": "ONLY SHALLOW",
+  "uri": "spotify:artist:2Fr501wRzXc4euLjUXA4m9",
+  "followers": {
+    "href": null,
+    "total": 161
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1dab5bbacb3309b2ee55cc4b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051741dab5bbacb3309b2ee55cc4b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1781dab5bbacb3309b2ee55cc4b",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Fr501wRzXc4euLjUXA4m9"
+  }
+}

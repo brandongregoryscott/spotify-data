@@ -1,0 +1,34 @@
+{
+  "id": "3a01lQ4j7fFXCkA4A2hAzf",
+  "name": "Adelaide",
+  "uri": "spotify:artist:3a01lQ4j7fFXCkA4A2hAzf",
+  "followers": {
+    "href": null,
+    "total": 375
+  },
+  "genres": [
+    "christian deathcore",
+    "tennessee metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dc6b7213b630cafec33af0a6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dc6b7213b630cafec33af0a6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dc6b7213b630cafec33af0a6",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3a01lQ4j7fFXCkA4A2hAzf"
+  }
+}

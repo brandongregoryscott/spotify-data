@@ -1,0 +1,33 @@
+{
+  "id": "6ATrpqnkk3KeJ4lKwnERQw",
+  "name": "ZERO",
+  "uri": "spotify:artist:6ATrpqnkk3KeJ4lKwnERQw",
+  "followers": {
+    "href": null,
+    "total": 102
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb31aee27c511648b12d0da8ac",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517431aee27c511648b12d0da8ac",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17831aee27c511648b12d0da8ac",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ATrpqnkk3KeJ4lKwnERQw"
+  }
+}

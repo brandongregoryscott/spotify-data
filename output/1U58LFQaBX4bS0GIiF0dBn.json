@@ -1,0 +1,33 @@
+{
+  "id": "1U58LFQaBX4bS0GIiF0dBn",
+  "name": "Destroy//Create",
+  "uri": "spotify:artist:1U58LFQaBX4bS0GIiF0dBn",
+  "followers": {
+    "href": null,
+    "total": 2307
+  },
+  "genres": [
+    "western ny metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbb83ac7c5c8a6135acb045fc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bb83ac7c5c8a6135acb045fc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bb83ac7c5c8a6135acb045fc",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1U58LFQaBX4bS0GIiF0dBn"
+  }
+}

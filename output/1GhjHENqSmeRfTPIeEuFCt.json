@@ -1,0 +1,33 @@
+{
+  "id": "1GhjHENqSmeRfTPIeEuFCt",
+  "name": "SoulKiller",
+  "uri": "spotify:artist:1GhjHENqSmeRfTPIeEuFCt",
+  "followers": {
+    "href": null,
+    "total": 699
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfe37109ce386a018d7c43f5a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fe37109ce386a018d7c43f5a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fe37109ce386a018d7c43f5a",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1GhjHENqSmeRfTPIeEuFCt"
+  }
+}

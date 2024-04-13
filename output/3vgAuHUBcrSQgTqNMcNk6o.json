@@ -1,0 +1,34 @@
+{
+  "id": "3vgAuHUBcrSQgTqNMcNk6o",
+  "name": "Resplandor",
+  "uri": "spotify:artist:3vgAuHUBcrSQgTqNMcNk6o",
+  "followers": {
+    "href": null,
+    "total": 2177
+  },
+  "genres": [
+    "indie shoegaze",
+    "latin shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb657b5d3fddb169b18385fd3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b657b5d3fddb169b18385fd3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b657b5d3fddb169b18385fd3",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3vgAuHUBcrSQgTqNMcNk6o"
+  }
+}

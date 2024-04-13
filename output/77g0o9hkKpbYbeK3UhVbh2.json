@@ -1,0 +1,33 @@
+{
+  "id": "77g0o9hkKpbYbeK3UhVbh2",
+  "name": "Rex Arthur",
+  "uri": "spotify:artist:77g0o9hkKpbYbeK3UhVbh2",
+  "followers": {
+    "href": null,
+    "total": 430
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb47d6c057ccd3367d2a29ffbb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517447d6c057ccd3367d2a29ffbb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17847d6c057ccd3367d2a29ffbb",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/77g0o9hkKpbYbeK3UhVbh2"
+  }
+}

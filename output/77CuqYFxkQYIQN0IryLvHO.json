@@ -1,0 +1,33 @@
+{
+  "id": "77CuqYFxkQYIQN0IryLvHO",
+  "name": "Triple Seven",
+  "uri": "spotify:artist:77CuqYFxkQYIQN0IryLvHO",
+  "followers": {
+    "href": null,
+    "total": 25
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebada87a05b1a6ea2f1a13752a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ada87a05b1a6ea2f1a13752a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ada87a05b1a6ea2f1a13752a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/77CuqYFxkQYIQN0IryLvHO"
+  }
+}

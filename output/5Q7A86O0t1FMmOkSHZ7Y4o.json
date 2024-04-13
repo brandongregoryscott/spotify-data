@@ -1,0 +1,33 @@
+{
+  "id": "5Q7A86O0t1FMmOkSHZ7Y4o",
+  "name": "Bolster",
+  "uri": "spotify:artist:5Q7A86O0t1FMmOkSHZ7Y4o",
+  "followers": {
+    "href": null,
+    "total": 257
+  },
+  "genres": [
+    "ohio hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc06a3cdb908e5944e92a0e70",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c06a3cdb908e5944e92a0e70",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c06a3cdb908e5944e92a0e70",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Q7A86O0t1FMmOkSHZ7Y4o"
+  }
+}

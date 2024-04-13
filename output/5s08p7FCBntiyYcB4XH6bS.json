@@ -1,0 +1,33 @@
+{
+  "id": "5s08p7FCBntiyYcB4XH6bS",
+  "name": "La Pest",
+  "uri": "spotify:artist:5s08p7FCBntiyYcB4XH6bS",
+  "followers": {
+    "href": null,
+    "total": 196
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdfdfde58ab49735eeaf90260",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dfdfde58ab49735eeaf90260",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dfdfde58ab49735eeaf90260",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5s08p7FCBntiyYcB4XH6bS"
+  }
+}

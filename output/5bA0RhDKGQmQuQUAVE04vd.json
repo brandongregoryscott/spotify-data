@@ -1,0 +1,33 @@
+{
+  "id": "5bA0RhDKGQmQuQUAVE04vd",
+  "name": "NoComply",
+  "uri": "spotify:artist:5bA0RhDKGQmQuQUAVE04vd",
+  "followers": {
+    "href": null,
+    "total": 586
+  },
+  "genres": [
+    "powerviolence"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731cd83f07071625ee9becccda",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021cd83f07071625ee9becccda",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511cd83f07071625ee9becccda",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5bA0RhDKGQmQuQUAVE04vd"
+  }
+}

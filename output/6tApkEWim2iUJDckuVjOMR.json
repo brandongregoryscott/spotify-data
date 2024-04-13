@@ -1,0 +1,33 @@
+{
+  "id": "6tApkEWim2iUJDckuVjOMR",
+  "name": "La Merka",
+  "uri": "spotify:artist:6tApkEWim2iUJDckuVjOMR",
+  "followers": {
+    "href": null,
+    "total": 1960
+  },
+  "genres": [
+    "indie arequipeno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfcf339867daf52c00faf35c1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fcf339867daf52c00faf35c1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fcf339867daf52c00faf35c1",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6tApkEWim2iUJDckuVjOMR"
+  }
+}

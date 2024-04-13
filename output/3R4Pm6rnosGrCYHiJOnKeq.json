@@ -1,0 +1,33 @@
+{
+  "id": "3R4Pm6rnosGrCYHiJOnKeq",
+  "name": "Hollo",
+  "uri": "spotify:artist:3R4Pm6rnosGrCYHiJOnKeq",
+  "followers": {
+    "href": null,
+    "total": 127
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb764b9e5e915d456b791dc748",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174764b9e5e915d456b791dc748",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178764b9e5e915d456b791dc748",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3R4Pm6rnosGrCYHiJOnKeq"
+  }
+}

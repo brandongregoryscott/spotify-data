@@ -1,0 +1,33 @@
+{
+  "id": "4WNPfrLyyHOzPQZirnrTzB",
+  "name": "Echo Spiral",
+  "uri": "spotify:artist:4WNPfrLyyHOzPQZirnrTzB",
+  "followers": {
+    "href": null,
+    "total": 256
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733d830ff2a9a07fc4cdf6cd6e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023d830ff2a9a07fc4cdf6cd6e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513d830ff2a9a07fc4cdf6cd6e",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4WNPfrLyyHOzPQZirnrTzB"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3ae0OtZDCLEMOpaZXXYkzr",
+  "name": "Moria",
+  "uri": "spotify:artist:3ae0OtZDCLEMOpaZXXYkzr",
+  "followers": {
+    "href": null,
+    "total": 539
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8c4cafc02278e955e6a34fec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051748c4cafc02278e955e6a34fec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1788c4cafc02278e955e6a34fec",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ae0OtZDCLEMOpaZXXYkzr"
+  }
+}

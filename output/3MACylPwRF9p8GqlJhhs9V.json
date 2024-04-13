@@ -1,0 +1,33 @@
+{
+  "id": "3MACylPwRF9p8GqlJhhs9V",
+  "name": "Everyone was taken",
+  "uri": "spotify:artist:3MACylPwRF9p8GqlJhhs9V",
+  "followers": {
+    "href": null,
+    "total": 23
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a784d05f72b799cd25b059dd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a784d05f72b799cd25b059dd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a784d05f72b799cd25b059dd",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3MACylPwRF9p8GqlJhhs9V"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "24GWxb7afGo5T6azZecNWr",
+  "name": "Bone Crown",
+  "uri": "spotify:artist:24GWxb7afGo5T6azZecNWr",
+  "followers": {
+    "href": null,
+    "total": 801
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcf0af60fef21a1a762c05f11",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cf0af60fef21a1a762c05f11",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cf0af60fef21a1a762c05f11",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/24GWxb7afGo5T6azZecNWr"
+  }
+}

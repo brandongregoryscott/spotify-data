@@ -1,0 +1,33 @@
+{
+  "id": "3SOk4jBEQ0lVYfxwg23KoD",
+  "name": "Street Policy",
+  "uri": "spotify:artist:3SOk4jBEQ0lVYfxwg23KoD",
+  "followers": {
+    "href": null,
+    "total": 310
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb882a316a0b1368fd7b81062c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174882a316a0b1368fd7b81062c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178882a316a0b1368fd7b81062c",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3SOk4jBEQ0lVYfxwg23KoD"
+  }
+}

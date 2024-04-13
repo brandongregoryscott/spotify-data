@@ -1,0 +1,33 @@
+{
+  "id": "53roEVEm4PzNuWY2iGw7bD",
+  "name": "Don Gero",
+  "uri": "spotify:artist:53roEVEm4PzNuWY2iGw7bD",
+  "followers": {
+    "href": null,
+    "total": 383
+  },
+  "genres": [
+    "experimental indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27305a25bc16c871f8d19f745a3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0205a25bc16c871f8d19f745a3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485105a25bc16c871f8d19f745a3",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/53roEVEm4PzNuWY2iGw7bD"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1fHN1gALRvJfKCErsMKF7D",
+  "name": "Fractura",
+  "uri": "spotify:artist:1fHN1gALRvJfKCErsMKF7D",
+  "followers": {
+    "href": null,
+    "total": 296
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf6de2febe28f8ad6c4e6f2bf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f6de2febe28f8ad6c4e6f2bf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f6de2febe28f8ad6c4e6f2bf",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1fHN1gALRvJfKCErsMKF7D"
+  }
+}

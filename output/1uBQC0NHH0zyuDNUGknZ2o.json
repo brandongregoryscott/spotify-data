@@ -1,0 +1,33 @@
+{
+  "id": "1uBQC0NHH0zyuDNUGknZ2o",
+  "name": "sour tooth",
+  "uri": "spotify:artist:1uBQC0NHH0zyuDNUGknZ2o",
+  "followers": {
+    "href": null,
+    "total": 367
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba352e153bf5bd8433a6e4db0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a352e153bf5bd8433a6e4db0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a352e153bf5bd8433a6e4db0",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1uBQC0NHH0zyuDNUGknZ2o"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2HThNfDWuSjxSAItcyzZmt",
+  "name": "Regression",
+  "uri": "spotify:artist:2HThNfDWuSjxSAItcyzZmt",
+  "followers": {
+    "href": null,
+    "total": 618
+  },
+  "genres": [
+    "h8000"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732dc3364e96ddb4ee06e88322",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022dc3364e96ddb4ee06e88322",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512dc3364e96ddb4ee06e88322",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2HThNfDWuSjxSAItcyzZmt"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "340jOxcLu9oGymLAaqCGDD",
+  "name": "Shades",
+  "uri": "spotify:artist:340jOxcLu9oGymLAaqCGDD",
+  "followers": {
+    "href": null,
+    "total": 158
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbcc27a389680b4f450b75e4c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bcc27a389680b4f450b75e4c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bcc27a389680b4f450b75e4c",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/340jOxcLu9oGymLAaqCGDD"
+  }
+}

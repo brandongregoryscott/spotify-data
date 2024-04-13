@@ -1,0 +1,33 @@
+{
+  "id": "3zDYYKokWbBkltgNTloeVp",
+  "name": "Bruno Karnel",
+  "uri": "spotify:artist:3zDYYKokWbBkltgNTloeVp",
+  "followers": {
+    "href": null,
+    "total": 397
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebffdecf6c2dd5c70405e66fe9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ffdecf6c2dd5c70405e66fe9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ffdecf6c2dd5c70405e66fe9",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3zDYYKokWbBkltgNTloeVp"
+  }
+}

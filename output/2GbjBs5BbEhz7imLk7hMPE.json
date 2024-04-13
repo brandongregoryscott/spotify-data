@@ -1,0 +1,33 @@
+{
+  "id": "2GbjBs5BbEhz7imLk7hMPE",
+  "name": "DOMS",
+  "uri": "spotify:artist:2GbjBs5BbEhz7imLk7hMPE",
+  "followers": {
+    "href": null,
+    "total": 198
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb36fb19fe6357b112f1669339",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517436fb19fe6357b112f1669339",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17836fb19fe6357b112f1669339",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2GbjBs5BbEhz7imLk7hMPE"
+  }
+}

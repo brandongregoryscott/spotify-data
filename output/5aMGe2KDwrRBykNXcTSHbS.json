@@ -1,0 +1,33 @@
+{
+  "id": "5aMGe2KDwrRBykNXcTSHbS",
+  "name": "Muckle",
+  "uri": "spotify:artist:5aMGe2KDwrRBykNXcTSHbS",
+  "followers": {
+    "href": null,
+    "total": 172
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb52f49ecae70af2f86c4a0f44",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517452f49ecae70af2f86c4a0f44",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17852f49ecae70af2f86c4a0f44",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5aMGe2KDwrRBykNXcTSHbS"
+  }
+}

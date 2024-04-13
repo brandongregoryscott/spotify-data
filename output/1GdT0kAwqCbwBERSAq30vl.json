@@ -1,0 +1,33 @@
+{
+  "id": "1GdT0kAwqCbwBERSAq30vl",
+  "name": "Sullivan",
+  "uri": "spotify:artist:1GdT0kAwqCbwBERSAq30vl",
+  "followers": {
+    "href": null,
+    "total": 58
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc109ab614b170aaa3903212a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c109ab614b170aaa3903212a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c109ab614b170aaa3903212a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1GdT0kAwqCbwBERSAq30vl"
+  }
+}

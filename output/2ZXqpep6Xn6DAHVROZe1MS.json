@@ -1,0 +1,33 @@
+{
+  "id": "2ZXqpep6Xn6DAHVROZe1MS",
+  "name": "StarBlaze",
+  "uri": "spotify:artist:2ZXqpep6Xn6DAHVROZe1MS",
+  "followers": {
+    "href": null,
+    "total": 445
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd774ed770ad527bed4ec748c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d774ed770ad527bed4ec748c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d774ed770ad527bed4ec748c",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ZXqpep6Xn6DAHVROZe1MS"
+  }
+}

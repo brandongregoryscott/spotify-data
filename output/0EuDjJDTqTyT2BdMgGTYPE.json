@@ -1,0 +1,33 @@
+{
+  "id": "0EuDjJDTqTyT2BdMgGTYPE",
+  "name": "Lynchmada",
+  "uri": "spotify:artist:0EuDjJDTqTyT2BdMgGTYPE",
+  "followers": {
+    "href": null,
+    "total": 115
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb12e648825e2e1eb5af0883c3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517412e648825e2e1eb5af0883c3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17812e648825e2e1eb5af0883c3",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0EuDjJDTqTyT2BdMgGTYPE"
+  }
+}

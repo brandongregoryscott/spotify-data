@@ -1,0 +1,33 @@
+{
+  "id": "2gSd9tANwmHLVlt4zZXqpu",
+  "name": "Delicious Pastries",
+  "uri": "spotify:artist:2gSd9tANwmHLVlt4zZXqpu",
+  "followers": {
+    "href": null,
+    "total": 132
+  },
+  "genres": [
+    "pittsburgh indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737c4896e364763a158e0516d5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027c4896e364763a158e0516d5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517c4896e364763a158e0516d5",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2gSd9tANwmHLVlt4zZXqpu"
+  }
+}

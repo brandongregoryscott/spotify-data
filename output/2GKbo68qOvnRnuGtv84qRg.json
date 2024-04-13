@@ -1,0 +1,33 @@
+{
+  "id": "2GKbo68qOvnRnuGtv84qRg",
+  "name": "Regions",
+  "uri": "spotify:artist:2GKbo68qOvnRnuGtv84qRg",
+  "followers": {
+    "href": null,
+    "total": 220
+  },
+  "genres": [
+    "blackened deathcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb055ae6d01e1ce10160da07ec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174055ae6d01e1ce10160da07ec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178055ae6d01e1ce10160da07ec",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2GKbo68qOvnRnuGtv84qRg"
+  }
+}

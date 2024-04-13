@@ -1,0 +1,33 @@
+{
+  "id": "5GqJB27hi74xeVrWLuaKNq",
+  "name": "Problem Solver",
+  "uri": "spotify:artist:5GqJB27hi74xeVrWLuaKNq",
+  "followers": {
+    "href": null,
+    "total": 233
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb30650f3cfda28b9aa6e0de13",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517430650f3cfda28b9aa6e0de13",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17830650f3cfda28b9aa6e0de13",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5GqJB27hi74xeVrWLuaKNq"
+  }
+}

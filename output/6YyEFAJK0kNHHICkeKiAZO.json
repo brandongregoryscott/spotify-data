@@ -1,0 +1,33 @@
+{
+  "id": "6YyEFAJK0kNHHICkeKiAZO",
+  "name": "Messengers",
+  "uri": "spotify:artist:6YyEFAJK0kNHHICkeKiAZO",
+  "followers": {
+    "href": null,
+    "total": 150
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb640a92132ec0b789539fc9df",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174640a92132ec0b789539fc9df",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178640a92132ec0b789539fc9df",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6YyEFAJK0kNHHICkeKiAZO"
+  }
+}

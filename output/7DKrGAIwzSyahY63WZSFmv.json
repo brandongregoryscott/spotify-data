@@ -1,0 +1,33 @@
+{
+  "id": "7DKrGAIwzSyahY63WZSFmv",
+  "name": "Varjokoodi",
+  "uri": "spotify:artist:7DKrGAIwzSyahY63WZSFmv",
+  "followers": {
+    "href": null,
+    "total": 152
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb591c940b832f5032517f4368",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174591c940b832f5032517f4368",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178591c940b832f5032517f4368",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7DKrGAIwzSyahY63WZSFmv"
+  }
+}

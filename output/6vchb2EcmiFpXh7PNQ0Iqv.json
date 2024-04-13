@@ -1,0 +1,33 @@
+{
+  "id": "6vchb2EcmiFpXh7PNQ0Iqv",
+  "name": "Promise Game",
+  "uri": "spotify:artist:6vchb2EcmiFpXh7PNQ0Iqv",
+  "followers": {
+    "href": null,
+    "total": 1500
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb799124e27e7e737218575d2f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174799124e27e7e737218575d2f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178799124e27e7e737218575d2f",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6vchb2EcmiFpXh7PNQ0Iqv"
+  }
+}

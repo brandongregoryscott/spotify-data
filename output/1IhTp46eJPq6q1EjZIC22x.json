@@ -1,0 +1,34 @@
+{
+  "id": "1IhTp46eJPq6q1EjZIC22x",
+  "name": "INYECTORES",
+  "uri": "spotify:artist:1IhTp46eJPq6q1EjZIC22x",
+  "followers": {
+    "href": null,
+    "total": 20837
+  },
+  "genres": [
+    "peruvian punk",
+    "peruvian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcf96bc9581e0ae8eea15f579",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cf96bc9581e0ae8eea15f579",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cf96bc9581e0ae8eea15f579",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1IhTp46eJPq6q1EjZIC22x"
+  }
+}

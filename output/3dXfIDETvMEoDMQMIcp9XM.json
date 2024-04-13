@@ -1,0 +1,33 @@
+{
+  "id": "3dXfIDETvMEoDMQMIcp9XM",
+  "name": "Redlord",
+  "uri": "spotify:artist:3dXfIDETvMEoDMQMIcp9XM",
+  "followers": {
+    "href": null,
+    "total": 843
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1a0f3f322385ebeda92f2a4f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051741a0f3f322385ebeda92f2a4f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1781a0f3f322385ebeda92f2a4f",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3dXfIDETvMEoDMQMIcp9XM"
+  }
+}

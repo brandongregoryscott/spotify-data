@@ -1,0 +1,33 @@
+{
+  "id": "1wuhIzdDeNFDaKUF774H9e",
+  "name": "Foot",
+  "uri": "spotify:artist:1wuhIzdDeNFDaKUF774H9e",
+  "followers": {
+    "href": null,
+    "total": 1468
+  },
+  "genres": [
+    "australian psych"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1f69ff6984ceb60809950853",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051741f69ff6984ceb60809950853",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1781f69ff6984ceb60809950853",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1wuhIzdDeNFDaKUF774H9e"
+  }
+}

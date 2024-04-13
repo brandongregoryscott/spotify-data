@@ -1,0 +1,33 @@
+{
+  "id": "7IMAHLUMOgDyvrt78I1GU9",
+  "name": "Swerves",
+  "uri": "spotify:artist:7IMAHLUMOgDyvrt78I1GU9",
+  "followers": {
+    "href": null,
+    "total": 326
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc5e3a7b6e03acea4e2fad9bf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c5e3a7b6e03acea4e2fad9bf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c5e3a7b6e03acea4e2fad9bf",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7IMAHLUMOgDyvrt78I1GU9"
+  }
+}

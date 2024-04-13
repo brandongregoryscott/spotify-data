@@ -1,0 +1,33 @@
+{
+  "id": "3047wNReVWvwjsUKEIGCMq",
+  "name": "Inconvenience",
+  "uri": "spotify:artist:3047wNReVWvwjsUKEIGCMq",
+  "followers": {
+    "href": null,
+    "total": 341
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb01e834365116e1ffaf2cbd88",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517401e834365116e1ffaf2cbd88",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17801e834365116e1ffaf2cbd88",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3047wNReVWvwjsUKEIGCMq"
+  }
+}

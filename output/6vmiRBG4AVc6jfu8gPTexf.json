@@ -1,0 +1,33 @@
+{
+  "id": "6vmiRBG4AVc6jfu8gPTexf",
+  "name": "PRDGMS",
+  "uri": "spotify:artist:6vmiRBG4AVc6jfu8gPTexf",
+  "followers": {
+    "href": null,
+    "total": 900
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb65e1c38a9a5268ee35e3b635",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517465e1c38a9a5268ee35e3b635",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17865e1c38a9a5268ee35e3b635",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6vmiRBG4AVc6jfu8gPTexf"
+  }
+}

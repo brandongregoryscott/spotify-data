@@ -1,0 +1,33 @@
+{
+  "id": "3gJdhuULhfOJ8hSqoMr4yQ",
+  "name": "Cropsey",
+  "uri": "spotify:artist:3gJdhuULhfOJ8hSqoMr4yQ",
+  "followers": {
+    "href": null,
+    "total": 535
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb25ace143f3bd7f524850e18d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517425ace143f3bd7f524850e18d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17825ace143f3bd7f524850e18d",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3gJdhuULhfOJ8hSqoMr4yQ"
+  }
+}

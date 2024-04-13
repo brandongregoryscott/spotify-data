@@ -1,0 +1,33 @@
+{
+  "id": "17ugZ8jxpWYsxdWJ9iYpKh",
+  "name": "Error",
+  "uri": "spotify:artist:17ugZ8jxpWYsxdWJ9iYpKh",
+  "followers": {
+    "href": null,
+    "total": 622
+  },
+  "genres": [
+    "lion city hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba1cd2c72aed1d20d895a8bea",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a1cd2c72aed1d20d895a8bea",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a1cd2c72aed1d20d895a8bea",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/17ugZ8jxpWYsxdWJ9iYpKh"
+  }
+}

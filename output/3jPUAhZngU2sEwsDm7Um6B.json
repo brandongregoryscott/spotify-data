@@ -1,0 +1,33 @@
+{
+  "id": "3jPUAhZngU2sEwsDm7Um6B",
+  "name": "DREGG",
+  "uri": "spotify:artist:3jPUAhZngU2sEwsDm7Um6B",
+  "followers": {
+    "href": null,
+    "total": 8971
+  },
+  "genres": [
+    "australian post-hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb54b12dcd1074efb5e2b8a12b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517454b12dcd1074efb5e2b8a12b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17854b12dcd1074efb5e2b8a12b",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3jPUAhZngU2sEwsDm7Um6B"
+  }
+}

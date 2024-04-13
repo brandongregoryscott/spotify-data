@@ -1,0 +1,33 @@
+{
+  "id": "19pDv3U1JIr0gBhxn7Odyr",
+  "name": "Still Here",
+  "uri": "spotify:artist:19pDv3U1JIr0gBhxn7Odyr",
+  "followers": {
+    "href": null,
+    "total": 406
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe1d7e40e7152011c23ab0a7f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e1d7e40e7152011c23ab0a7f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e1d7e40e7152011c23ab0a7f",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/19pDv3U1JIr0gBhxn7Odyr"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5Qx1Cc3imyPHVhAsqc6Sra",
+  "name": "Neon Noodle",
+  "uri": "spotify:artist:5Qx1Cc3imyPHVhAsqc6Sra",
+  "followers": {
+    "href": null,
+    "total": 167
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fcba3d3a33ed1b16f571fc6f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fcba3d3a33ed1b16f571fc6f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fcba3d3a33ed1b16f571fc6f",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Qx1Cc3imyPHVhAsqc6Sra"
+  }
+}

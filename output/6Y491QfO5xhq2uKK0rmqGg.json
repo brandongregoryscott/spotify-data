@@ -1,0 +1,33 @@
+{
+  "id": "6Y491QfO5xhq2uKK0rmqGg",
+  "name": "Simpleton",
+  "uri": "spotify:artist:6Y491QfO5xhq2uKK0rmqGg",
+  "followers": {
+    "href": null,
+    "total": 1216
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb23c155f8ff8f9181605f7562",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517423c155f8ff8f9181605f7562",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17823c155f8ff8f9181605f7562",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Y491QfO5xhq2uKK0rmqGg"
+  }
+}

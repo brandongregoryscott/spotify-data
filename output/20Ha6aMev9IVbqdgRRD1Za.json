@@ -1,0 +1,33 @@
+{
+  "id": "20Ha6aMev9IVbqdgRRD1Za",
+  "name": "AHENA",
+  "uri": "spotify:artist:20Ha6aMev9IVbqdgRRD1Za",
+  "followers": {
+    "href": null,
+    "total": 39
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba854531d2d0857d3627fac33",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a854531d2d0857d3627fac33",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a854531d2d0857d3627fac33",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/20Ha6aMev9IVbqdgRRD1Za"
+  }
+}

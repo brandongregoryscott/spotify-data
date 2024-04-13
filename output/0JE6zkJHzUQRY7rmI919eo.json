@@ -1,0 +1,33 @@
+{
+  "id": "0JE6zkJHzUQRY7rmI919eo",
+  "name": "Galleons",
+  "uri": "spotify:artist:0JE6zkJHzUQRY7rmI919eo",
+  "followers": {
+    "href": null,
+    "total": 19120
+  },
+  "genres": [
+    "swancore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb25dc45e141bf775cc50da752",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517425dc45e141bf775cc50da752",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17825dc45e141bf775cc50da752",
+      "width": 160
+    }
+  ],
+  "popularity": 43,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0JE6zkJHzUQRY7rmI919eo"
+  }
+}

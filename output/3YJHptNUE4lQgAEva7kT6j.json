@@ -1,0 +1,33 @@
+{
+  "id": "3YJHptNUE4lQgAEva7kT6j",
+  "name": "The Ferenjis",
+  "uri": "spotify:artist:3YJHptNUE4lQgAEva7kT6j",
+  "followers": {
+    "href": null,
+    "total": 234
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbca5c738627f73301c19bb8a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bca5c738627f73301c19bb8a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bca5c738627f73301c19bb8a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3YJHptNUE4lQgAEva7kT6j"
+  }
+}

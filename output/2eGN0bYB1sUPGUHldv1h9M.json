@@ -1,0 +1,34 @@
+{
+  "id": "2eGN0bYB1sUPGUHldv1h9M",
+  "name": "Tyrantti",
+  "uri": "spotify:artist:2eGN0bYB1sUPGUHldv1h9M",
+  "followers": {
+    "href": null,
+    "total": 1249
+  },
+  "genres": [
+    "finnish heavy metal",
+    "finnish metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc55b75cd654baeccb464ae0b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c55b75cd654baeccb464ae0b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c55b75cd654baeccb464ae0b",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2eGN0bYB1sUPGUHldv1h9M"
+  }
+}

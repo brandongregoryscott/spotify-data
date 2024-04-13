@@ -1,0 +1,33 @@
+{
+  "id": "1R2bS521wyV6hC3Tyl69XP",
+  "name": "Milky Fresh",
+  "uri": "spotify:artist:1R2bS521wyV6hC3Tyl69XP",
+  "followers": {
+    "href": null,
+    "total": 76
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb0241c3044e56105f5a87143",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b0241c3044e56105f5a87143",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b0241c3044e56105f5a87143",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1R2bS521wyV6hC3Tyl69XP"
+  }
+}

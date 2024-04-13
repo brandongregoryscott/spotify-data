@@ -1,0 +1,33 @@
+{
+  "id": "1T0AHv8atrZJKLmh9xbY2Z",
+  "name": "Desbande",
+  "uri": "spotify:artist:1T0AHv8atrZJKLmh9xbY2Z",
+  "followers": {
+    "href": null,
+    "total": 256
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe20262d22c4dca2ec5a304c1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e20262d22c4dca2ec5a304c1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e20262d22c4dca2ec5a304c1",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1T0AHv8atrZJKLmh9xbY2Z"
+  }
+}

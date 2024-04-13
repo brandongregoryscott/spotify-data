@@ -1,0 +1,33 @@
+{
+  "id": "2c5DqAylCQkc7WxBmSxqff",
+  "name": "Wave Types",
+  "uri": "spotify:artist:2c5DqAylCQkc7WxBmSxqff",
+  "followers": {
+    "href": null,
+    "total": 1841
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdacf5f8b456563c4e46c73df",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dacf5f8b456563c4e46c73df",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dacf5f8b456563c4e46c73df",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2c5DqAylCQkc7WxBmSxqff"
+  }
+}

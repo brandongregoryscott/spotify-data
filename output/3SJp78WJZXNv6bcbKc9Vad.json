@@ -1,0 +1,33 @@
+{
+  "id": "3SJp78WJZXNv6bcbKc9Vad",
+  "name": "Recognize",
+  "uri": "spotify:artist:3SJp78WJZXNv6bcbKc9Vad",
+  "followers": {
+    "href": null,
+    "total": 2084
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27314be35b780bc9420b52516ff",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0214be35b780bc9420b52516ff",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485114be35b780bc9420b52516ff",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3SJp78WJZXNv6bcbKc9Vad"
+  }
+}

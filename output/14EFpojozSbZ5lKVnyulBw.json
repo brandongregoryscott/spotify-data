@@ -1,0 +1,33 @@
+{
+  "id": "14EFpojozSbZ5lKVnyulBw",
+  "name": "índigo",
+  "uri": "spotify:artist:14EFpojozSbZ5lKVnyulBw",
+  "followers": {
+    "href": null,
+    "total": 96
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb71fe137767a55ce889623ea7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517471fe137767a55ce889623ea7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17871fe137767a55ce889623ea7",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/14EFpojozSbZ5lKVnyulBw"
+  }
+}

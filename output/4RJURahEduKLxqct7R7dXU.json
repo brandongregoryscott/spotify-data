@@ -1,0 +1,33 @@
+{
+  "id": "4RJURahEduKLxqct7R7dXU",
+  "name": "Negatives",
+  "uri": "spotify:artist:4RJURahEduKLxqct7R7dXU",
+  "followers": {
+    "href": null,
+    "total": 440
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeafe3271338ce0536a34ff09",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eafe3271338ce0536a34ff09",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eafe3271338ce0536a34ff09",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4RJURahEduKLxqct7R7dXU"
+  }
+}

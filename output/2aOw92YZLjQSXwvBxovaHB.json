@@ -1,0 +1,33 @@
+{
+  "id": "2aOw92YZLjQSXwvBxovaHB",
+  "name": "Variant",
+  "uri": "spotify:artist:2aOw92YZLjQSXwvBxovaHB",
+  "followers": {
+    "href": null,
+    "total": 782
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdc21f4b2563379dd784ebb54",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dc21f4b2563379dd784ebb54",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dc21f4b2563379dd784ebb54",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2aOw92YZLjQSXwvBxovaHB"
+  }
+}

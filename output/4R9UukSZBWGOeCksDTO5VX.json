@@ -1,0 +1,33 @@
+{
+  "id": "4R9UukSZBWGOeCksDTO5VX",
+  "name": "f3ralcat",
+  "uri": "spotify:artist:4R9UukSZBWGOeCksDTO5VX",
+  "followers": {
+    "href": null,
+    "total": 134
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb44d99f04f0c290316c1af338",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517444d99f04f0c290316c1af338",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17844d99f04f0c290316c1af338",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4R9UukSZBWGOeCksDTO5VX"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2sUnnUKXQhQ0lJw0VPpDGY",
+  "name": "COLDSTATE",
+  "uri": "spotify:artist:2sUnnUKXQhQ0lJw0VPpDGY",
+  "followers": {
+    "href": null,
+    "total": 3753
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb174476ec0c8878ec024022fa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174174476ec0c8878ec024022fa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178174476ec0c8878ec024022fa",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2sUnnUKXQhQ0lJw0VPpDGY"
+  }
+}

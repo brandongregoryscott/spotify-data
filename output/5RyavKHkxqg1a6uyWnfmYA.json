@@ -1,0 +1,33 @@
+{
+  "id": "5RyavKHkxqg1a6uyWnfmYA",
+  "name": "Weak Link",
+  "uri": "spotify:artist:5RyavKHkxqg1a6uyWnfmYA",
+  "followers": {
+    "href": null,
+    "total": 434
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0b035910c377cbe6ae7273b7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051740b035910c377cbe6ae7273b7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1780b035910c377cbe6ae7273b7",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5RyavKHkxqg1a6uyWnfmYA"
+  }
+}

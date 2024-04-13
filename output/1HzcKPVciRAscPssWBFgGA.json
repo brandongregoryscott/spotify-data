@@ -1,0 +1,33 @@
+{
+  "id": "1HzcKPVciRAscPssWBFgGA",
+  "name": "Afterglow",
+  "uri": "spotify:artist:1HzcKPVciRAscPssWBFgGA",
+  "followers": {
+    "href": null,
+    "total": 10715
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb72479b8aff6a4e68748a4815",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517472479b8aff6a4e68748a4815",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17872479b8aff6a4e68748a4815",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1HzcKPVciRAscPssWBFgGA"
+  }
+}

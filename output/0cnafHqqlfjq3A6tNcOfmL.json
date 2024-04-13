@@ -1,0 +1,33 @@
+{
+  "id": "0cnafHqqlfjq3A6tNcOfmL",
+  "name": "TEXTURA",
+  "uri": "spotify:artist:0cnafHqqlfjq3A6tNcOfmL",
+  "followers": {
+    "href": null,
+    "total": 91
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739fd815e02be14d7298731c2f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029fd815e02be14d7298731c2f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519fd815e02be14d7298731c2f",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0cnafHqqlfjq3A6tNcOfmL"
+  }
+}

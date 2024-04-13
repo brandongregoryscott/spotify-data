@@ -1,0 +1,35 @@
+{
+  "id": "1uuC7Sq1w4AmHFGKsLGeBX",
+  "name": "Ekulu",
+  "uri": "spotify:artist:1uuC7Sq1w4AmHFGKsLGeBX",
+  "followers": {
+    "href": null,
+    "total": 9970
+  },
+  "genres": [
+    "metallic hardcore",
+    "modern hardcore",
+    "nyhc"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdc6a3e58db90317d0507cd5e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dc6a3e58db90317d0507cd5e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dc6a3e58db90317d0507cd5e",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1uuC7Sq1w4AmHFGKsLGeBX"
+  }
+}

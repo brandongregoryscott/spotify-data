@@ -1,0 +1,33 @@
+{
+  "id": "6RyQ8EmebZ1QppXm4pT7xi",
+  "name": "Sunny Gang",
+  "uri": "spotify:artist:6RyQ8EmebZ1QppXm4pT7xi",
+  "followers": {
+    "href": null,
+    "total": 288
+  },
+  "genres": [
+    "new jersey punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf39878a2f4232fc426f35402",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f39878a2f4232fc426f35402",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f39878a2f4232fc426f35402",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6RyQ8EmebZ1QppXm4pT7xi"
+  }
+}

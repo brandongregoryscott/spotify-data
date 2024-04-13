@@ -1,0 +1,33 @@
+{
+  "id": "5HsMfKc6xLKw6ancYYe8Ph",
+  "name": "Noroth",
+  "uri": "spotify:artist:5HsMfKc6xLKw6ancYYe8Ph",
+  "followers": {
+    "href": null,
+    "total": 482
+  },
+  "genres": [
+    "seattle metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273888ec24b5b7887a6bd710243",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02888ec24b5b7887a6bd710243",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851888ec24b5b7887a6bd710243",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5HsMfKc6xLKw6ancYYe8Ph"
+  }
+}

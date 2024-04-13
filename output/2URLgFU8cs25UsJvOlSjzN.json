@@ -1,0 +1,33 @@
+{
+  "id": "2URLgFU8cs25UsJvOlSjzN",
+  "name": "Teksuo",
+  "uri": "spotify:artist:2URLgFU8cs25UsJvOlSjzN",
+  "followers": {
+    "href": null,
+    "total": 3054
+  },
+  "genres": [
+    "spanish metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe90f3d468ac878daee7b1848",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e90f3d468ac878daee7b1848",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e90f3d468ac878daee7b1848",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2URLgFU8cs25UsJvOlSjzN"
+  }
+}

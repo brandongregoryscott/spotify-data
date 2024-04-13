@@ -1,0 +1,33 @@
+{
+  "id": "39wIEcjUHoeAnLo2pXxoOb",
+  "name": "BETTA",
+  "uri": "spotify:artist:39wIEcjUHoeAnLo2pXxoOb",
+  "followers": {
+    "href": null,
+    "total": 591
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf5469ee1ef3640b21db30e2b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f5469ee1ef3640b21db30e2b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f5469ee1ef3640b21db30e2b",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/39wIEcjUHoeAnLo2pXxoOb"
+  }
+}

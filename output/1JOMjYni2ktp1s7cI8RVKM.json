@@ -1,0 +1,33 @@
+{
+  "id": "1JOMjYni2ktp1s7cI8RVKM",
+  "name": "Lacking",
+  "uri": "spotify:artist:1JOMjYni2ktp1s7cI8RVKM",
+  "followers": {
+    "href": null,
+    "total": 414
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731a1344550dc7b0f3f8246aad",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021a1344550dc7b0f3f8246aad",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511a1344550dc7b0f3f8246aad",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1JOMjYni2ktp1s7cI8RVKM"
+  }
+}

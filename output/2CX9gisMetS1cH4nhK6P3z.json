@@ -1,0 +1,33 @@
+{
+  "id": "2CX9gisMetS1cH4nhK6P3z",
+  "name": "Half/Cross",
+  "uri": "spotify:artist:2CX9gisMetS1cH4nhK6P3z",
+  "followers": {
+    "href": null,
+    "total": 239
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735f2e569018cef391a265329a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025f2e569018cef391a265329a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515f2e569018cef391a265329a",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2CX9gisMetS1cH4nhK6P3z"
+  }
+}

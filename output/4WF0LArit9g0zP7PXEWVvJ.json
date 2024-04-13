@@ -1,0 +1,33 @@
+{
+  "id": "4WF0LArit9g0zP7PXEWVvJ",
+  "name": "Perelandra",
+  "uri": "spotify:artist:4WF0LArit9g0zP7PXEWVvJ",
+  "followers": {
+    "href": null,
+    "total": 1553
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebde631b5815a70f0aca00a1fd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174de631b5815a70f0aca00a1fd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178de631b5815a70f0aca00a1fd",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4WF0LArit9g0zP7PXEWVvJ"
+  }
+}

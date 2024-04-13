@@ -1,0 +1,33 @@
+{
+  "id": "5bxpcM0wKyFreVwQwmfzXX",
+  "name": "Swinery",
+  "uri": "spotify:artist:5bxpcM0wKyFreVwQwmfzXX",
+  "followers": {
+    "href": null,
+    "total": 850
+  },
+  "genres": [
+    "christian deathcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb27dcb941188c56ee6c623e86",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517427dcb941188c56ee6c623e86",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17827dcb941188c56ee6c623e86",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5bxpcM0wKyFreVwQwmfzXX"
+  }
+}

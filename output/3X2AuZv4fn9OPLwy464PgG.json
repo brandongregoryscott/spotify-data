@@ -1,0 +1,33 @@
+{
+  "id": "3X2AuZv4fn9OPLwy464PgG",
+  "name": "Darro",
+  "uri": "spotify:artist:3X2AuZv4fn9OPLwy464PgG",
+  "followers": {
+    "href": null,
+    "total": 2215
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb42ec54c4bcc79193084f83ca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517442ec54c4bcc79193084f83ca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17842ec54c4bcc79193084f83ca",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3X2AuZv4fn9OPLwy464PgG"
+  }
+}

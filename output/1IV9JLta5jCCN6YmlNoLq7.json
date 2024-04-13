@@ -1,0 +1,34 @@
+{
+  "id": "1IV9JLta5jCCN6YmlNoLq7",
+  "name": "The Southern Oracle",
+  "uri": "spotify:artist:1IV9JLta5jCCN6YmlNoLq7",
+  "followers": {
+    "href": null,
+    "total": 3592
+  },
+  "genres": [
+    "hungarian metal",
+    "magyar alternative"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb16cfb4c1bf311d2c80f209a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b16cfb4c1bf311d2c80f209a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b16cfb4c1bf311d2c80f209a",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1IV9JLta5jCCN6YmlNoLq7"
+  }
+}

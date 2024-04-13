@@ -1,0 +1,33 @@
+{
+  "id": "1itxF65N0tWoPtKPWhTjBM",
+  "name": "Jet Rodeo",
+  "uri": "spotify:artist:1itxF65N0tWoPtKPWhTjBM",
+  "followers": {
+    "href": null,
+    "total": 1139
+  },
+  "genres": [
+    "indie rock peruano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb76ac87b9a85203e1071ef512",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517476ac87b9a85203e1071ef512",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17876ac87b9a85203e1071ef512",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1itxF65N0tWoPtKPWhTjBM"
+  }
+}

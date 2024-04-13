@@ -1,0 +1,34 @@
+{
+  "id": "6SCQH2ILKJpFCfqGLC8qIH",
+  "name": "Nave Ascensor",
+  "uri": "spotify:artist:6SCQH2ILKJpFCfqGLC8qIH",
+  "followers": {
+    "href": null,
+    "total": 2860
+  },
+  "genres": [
+    "indie rock peruano",
+    "peruvian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbee8ad285212a455afbbde95",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bee8ad285212a455afbbde95",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bee8ad285212a455afbbde95",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6SCQH2ILKJpFCfqGLC8qIH"
+  }
+}

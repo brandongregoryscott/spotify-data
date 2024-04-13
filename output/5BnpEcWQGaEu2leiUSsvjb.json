@@ -1,0 +1,33 @@
+{
+  "id": "5BnpEcWQGaEu2leiUSsvjb",
+  "name": "Sonia Barcelona",
+  "uri": "spotify:artist:5BnpEcWQGaEu2leiUSsvjb",
+  "followers": {
+    "href": null,
+    "total": 718
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb60f9865177469a49c3382fed",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517460f9865177469a49c3382fed",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17860f9865177469a49c3382fed",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5BnpEcWQGaEu2leiUSsvjb"
+  }
+}

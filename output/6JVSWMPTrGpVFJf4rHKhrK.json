@@ -1,0 +1,33 @@
+{
+  "id": "6JVSWMPTrGpVFJf4rHKhrK",
+  "name": "TITVN",
+  "uri": "spotify:artist:6JVSWMPTrGpVFJf4rHKhrK",
+  "followers": {
+    "href": null,
+    "total": 809
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd894e89150af941bc2242f64",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d894e89150af941bc2242f64",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d894e89150af941bc2242f64",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6JVSWMPTrGpVFJf4rHKhrK"
+  }
+}

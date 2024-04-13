@@ -1,0 +1,33 @@
+{
+  "id": "4W7vqiAMkiCYYHbMeIm8i0",
+  "name": "The Pine",
+  "uri": "spotify:artist:4W7vqiAMkiCYYHbMeIm8i0",
+  "followers": {
+    "href": null,
+    "total": 206
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebff984e94b4c29ae2e90660db",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ff984e94b4c29ae2e90660db",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ff984e94b4c29ae2e90660db",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4W7vqiAMkiCYYHbMeIm8i0"
+  }
+}

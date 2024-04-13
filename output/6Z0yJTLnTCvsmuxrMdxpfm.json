@@ -1,0 +1,33 @@
+{
+  "id": "6Z0yJTLnTCvsmuxrMdxpfm",
+  "name": "Røt",
+  "uri": "spotify:artist:6Z0yJTLnTCvsmuxrMdxpfm",
+  "followers": {
+    "href": null,
+    "total": 1932
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbc7fb881682b8efc63b928bf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bc7fb881682b8efc63b928bf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bc7fb881682b8efc63b928bf",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Z0yJTLnTCvsmuxrMdxpfm"
+  }
+}

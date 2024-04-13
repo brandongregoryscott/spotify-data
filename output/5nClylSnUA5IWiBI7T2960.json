@@ -1,0 +1,34 @@
+{
+  "id": "5nClylSnUA5IWiBI7T2960",
+  "name": "Satelles",
+  "uri": "spotify:artist:5nClylSnUA5IWiBI7T2960",
+  "followers": {
+    "href": null,
+    "total": 903
+  },
+  "genres": [
+    "hungarian punk",
+    "magyar alternative"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebec5bab11f842c0b09b649c47",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ec5bab11f842c0b09b649c47",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ec5bab11f842c0b09b649c47",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5nClylSnUA5IWiBI7T2960"
+  }
+}

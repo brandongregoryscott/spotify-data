@@ -1,0 +1,33 @@
+{
+  "id": "0nYqH22K19D3MUPFeomPIP",
+  "name": "Bonginator",
+  "uri": "spotify:artist:0nYqH22K19D3MUPFeomPIP",
+  "followers": {
+    "href": null,
+    "total": 8402
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb251e9cf5f962a7641fa54998",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174251e9cf5f962a7641fa54998",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178251e9cf5f962a7641fa54998",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0nYqH22K19D3MUPFeomPIP"
+  }
+}

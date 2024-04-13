@@ -1,0 +1,34 @@
+{
+  "id": "1WVv3ipBmDcKQZp2in33nw",
+  "name": "Out of System Transfer",
+  "uri": "spotify:artist:1WVv3ipBmDcKQZp2in33nw",
+  "followers": {
+    "href": null,
+    "total": 2368
+  },
+  "genres": [
+    "acoustic punk",
+    "folk punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb881fd2d7d15c626dad8a5cfc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174881fd2d7d15c626dad8a5cfc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178881fd2d7d15c626dad8a5cfc",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1WVv3ipBmDcKQZp2in33nw"
+  }
+}

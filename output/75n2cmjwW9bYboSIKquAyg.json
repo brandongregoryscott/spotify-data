@@ -1,0 +1,33 @@
+{
+  "id": "75n2cmjwW9bYboSIKquAyg",
+  "name": "Strict",
+  "uri": "spotify:artist:75n2cmjwW9bYboSIKquAyg",
+  "followers": {
+    "href": null,
+    "total": 253
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb93173067cbe7b07a16f1abe9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517493173067cbe7b07a16f1abe9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17893173067cbe7b07a16f1abe9",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/75n2cmjwW9bYboSIKquAyg"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "54okLCsuAzwltG8zHECNpm",
+  "name": "Hyro The Hero",
+  "uri": "spotify:artist:54okLCsuAzwltG8zHECNpm",
+  "followers": {
+    "href": null,
+    "total": 40255
+  },
+  "genres": [
+    "nu-metalcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb65aad5f9faf5c78ac3873b7c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517465aad5f9faf5c78ac3873b7c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17865aad5f9faf5c78ac3873b7c",
+      "width": 160
+    }
+  ],
+  "popularity": 43,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+  }
+}

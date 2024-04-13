@@ -1,0 +1,33 @@
+{
+  "id": "1UvOMYR0RaWUiRiHIUshr4",
+  "name": "IanNoEstaLoco",
+  "uri": "spotify:artist:1UvOMYR0RaWUiRiHIUshr4",
+  "followers": {
+    "href": null,
+    "total": 323
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb49c1b9f845feda1cd485cca2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517449c1b9f845feda1cd485cca2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17849c1b9f845feda1cd485cca2",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1UvOMYR0RaWUiRiHIUshr4"
+  }
+}

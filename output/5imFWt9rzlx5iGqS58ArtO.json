@@ -1,0 +1,33 @@
+{
+  "id": "5imFWt9rzlx5iGqS58ArtO",
+  "name": "Alex Terrible",
+  "uri": "spotify:artist:5imFWt9rzlx5iGqS58ArtO",
+  "followers": {
+    "href": null,
+    "total": 79052
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbe251f4f3901c5887569dd7a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174be251f4f3901c5887569dd7a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178be251f4f3901c5887569dd7a",
+      "width": 160
+    }
+  ],
+  "popularity": 44,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5imFWt9rzlx5iGqS58ArtO"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5vvKfz1h1KhUnTglSEIgZD",
+  "name": "Quinine",
+  "uri": "spotify:artist:5vvKfz1h1KhUnTglSEIgZD",
+  "followers": {
+    "href": null,
+    "total": 101
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd276f3f208fa1e4b6d58a4cf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d276f3f208fa1e4b6d58a4cf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d276f3f208fa1e4b6d58a4cf",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5vvKfz1h1KhUnTglSEIgZD"
+  }
+}

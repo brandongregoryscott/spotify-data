@@ -1,0 +1,33 @@
+{
+  "id": "3AJXlxXQgE7PE23pRO6Cqb",
+  "name": "EUNÔIA",
+  "uri": "spotify:artist:3AJXlxXQgE7PE23pRO6Cqb",
+  "followers": {
+    "href": null,
+    "total": 80
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdef9caae8eab481b903dc378",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174def9caae8eab481b903dc378",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178def9caae8eab481b903dc378",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3AJXlxXQgE7PE23pRO6Cqb"
+  }
+}

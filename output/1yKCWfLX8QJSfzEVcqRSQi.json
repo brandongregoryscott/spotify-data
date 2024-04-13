@@ -1,0 +1,33 @@
+{
+  "id": "1yKCWfLX8QJSfzEVcqRSQi",
+  "name": "Cutup",
+  "uri": "spotify:artist:1yKCWfLX8QJSfzEVcqRSQi",
+  "followers": {
+    "href": null,
+    "total": 87
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739921fcd7fec2138b425ecaa4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029921fcd7fec2138b425ecaa4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519921fcd7fec2138b425ecaa4",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1yKCWfLX8QJSfzEVcqRSQi"
+  }
+}

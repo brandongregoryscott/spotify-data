@@ -1,0 +1,33 @@
+{
+  "id": "4XD1VWhnZKcmkD8VzHKuKr",
+  "name": "Disperser",
+  "uri": "spotify:artist:4XD1VWhnZKcmkD8VzHKuKr",
+  "followers": {
+    "href": null,
+    "total": 161
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba71315db2ecbe533acb67ccb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a71315db2ecbe533acb67ccb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a71315db2ecbe533acb67ccb",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4XD1VWhnZKcmkD8VzHKuKr"
+  }
+}

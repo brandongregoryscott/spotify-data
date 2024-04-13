@@ -1,0 +1,33 @@
+{
+  "id": "1qMp8oN1TpcPNY7pu2tduN",
+  "name": "Yuvees",
+  "uri": "spotify:artist:1qMp8oN1TpcPNY7pu2tduN",
+  "followers": {
+    "href": null,
+    "total": 610
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd51994b3665486c39572d285",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d51994b3665486c39572d285",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d51994b3665486c39572d285",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1qMp8oN1TpcPNY7pu2tduN"
+  }
+}

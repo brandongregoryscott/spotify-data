@@ -1,0 +1,33 @@
+{
+  "id": "0I7BILj8tTlmr1dbE0I9bv",
+  "name": "Unwill",
+  "uri": "spotify:artist:0I7BILj8tTlmr1dbE0I9bv",
+  "followers": {
+    "href": null,
+    "total": 299
+  },
+  "genres": [
+    "rochester ny indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb94610922ea4541f6ef0fa056",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517494610922ea4541f6ef0fa056",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17894610922ea4541f6ef0fa056",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0I7BILj8tTlmr1dbE0I9bv"
+  }
+}

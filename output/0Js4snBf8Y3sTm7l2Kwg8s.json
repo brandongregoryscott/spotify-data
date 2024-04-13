@@ -1,0 +1,33 @@
+{
+  "id": "0Js4snBf8Y3sTm7l2Kwg8s",
+  "name": "Instructor",
+  "uri": "spotify:artist:0Js4snBf8Y3sTm7l2Kwg8s",
+  "followers": {
+    "href": null,
+    "total": 827
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27313274159d18886f3f422ff3f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0213274159d18886f3f422ff3f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485113274159d18886f3f422ff3f",
+      "width": 64
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Js4snBf8Y3sTm7l2Kwg8s"
+  }
+}

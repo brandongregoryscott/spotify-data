@@ -1,0 +1,33 @@
+{
+  "id": "1kBvtrO0SrEXxrksnsnFzL",
+  "name": "Chained Up",
+  "uri": "spotify:artist:1kBvtrO0SrEXxrksnsnFzL",
+  "followers": {
+    "href": null,
+    "total": 340
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb89d3fa82a07fa704b5204b68",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517489d3fa82a07fa704b5204b68",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17889d3fa82a07fa704b5204b68",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1kBvtrO0SrEXxrksnsnFzL"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5HaQ1iUrxbeCxePD242aHL",
+  "name": "B. Fraser",
+  "uri": "spotify:artist:5HaQ1iUrxbeCxePD242aHL",
+  "followers": {
+    "href": null,
+    "total": 1328
+  },
+  "genres": [
+    "south carolina indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb35bdfe76875c6e19000768f3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517435bdfe76875c6e19000768f3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17835bdfe76875c6e19000768f3",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5HaQ1iUrxbeCxePD242aHL"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "07nyrtO9X26aBUAl6Odu3M",
+  "name": "The Brave",
+  "uri": "spotify:artist:07nyrtO9X26aBUAl6Odu3M",
+  "followers": {
+    "href": null,
+    "total": 12337
+  },
+  "genres": [
+    "australian metalcore",
+    "australian post-hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaef759de0c02398fb1aeba63",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aef759de0c02398fb1aeba63",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aef759de0c02398fb1aeba63",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07nyrtO9X26aBUAl6Odu3M"
+  }
+}

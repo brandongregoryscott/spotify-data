@@ -1,0 +1,33 @@
+{
+  "id": "3BcfjFNlrjyYWaakHFK4OV",
+  "name": "A Beautiful Somewhere",
+  "uri": "spotify:artist:3BcfjFNlrjyYWaakHFK4OV",
+  "followers": {
+    "href": null,
+    "total": 107
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebba911de9221430d9893b7854",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ba911de9221430d9893b7854",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ba911de9221430d9893b7854",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3BcfjFNlrjyYWaakHFK4OV"
+  }
+}

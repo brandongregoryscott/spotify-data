@@ -1,0 +1,35 @@
+{
+  "id": "0OG1DoaGFeeXGYBGbbCjka",
+  "name": "Ghost Iris",
+  "uri": "spotify:artist:0OG1DoaGFeeXGYBGbbCjka",
+  "followers": {
+    "href": null,
+    "total": 32905
+  },
+  "genres": [
+    "djent",
+    "metalcore",
+    "progressive metalcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd19f2a7f43699fc5a9a7e110",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d19f2a7f43699fc5a9a7e110",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d19f2a7f43699fc5a9a7e110",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0OG1DoaGFeeXGYBGbbCjka"
+  }
+}

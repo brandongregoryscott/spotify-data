@@ -1,0 +1,33 @@
+{
+  "id": "1GovSYQ9CmJxIem7Bmsf4c",
+  "name": "MAST",
+  "uri": "spotify:artist:1GovSYQ9CmJxIem7Bmsf4c",
+  "followers": {
+    "href": null,
+    "total": 172
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf0aab6ad178938eb0986d46b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f0aab6ad178938eb0986d46b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f0aab6ad178938eb0986d46b",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1GovSYQ9CmJxIem7Bmsf4c"
+  }
+}

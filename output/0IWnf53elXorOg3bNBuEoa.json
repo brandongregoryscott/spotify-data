@@ -1,0 +1,33 @@
+{
+  "id": "0IWnf53elXorOg3bNBuEoa",
+  "name": "Sansed",
+  "uri": "spotify:artist:0IWnf53elXorOg3bNBuEoa",
+  "followers": {
+    "href": null,
+    "total": 170
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebae559bedc347b967e7b86148",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ae559bedc347b967e7b86148",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ae559bedc347b967e7b86148",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0IWnf53elXorOg3bNBuEoa"
+  }
+}

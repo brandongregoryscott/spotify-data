@@ -1,0 +1,33 @@
+{
+  "id": "6he9KieJyQKqi2SAccR76k",
+  "name": "Identity Error",
+  "uri": "spotify:artist:6he9KieJyQKqi2SAccR76k",
+  "followers": {
+    "href": null,
+    "total": 286
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb07a01c79bd10b92991e72a77",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517407a01c79bd10b92991e72a77",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17807a01c79bd10b92991e72a77",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6he9KieJyQKqi2SAccR76k"
+  }
+}

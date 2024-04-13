@@ -1,0 +1,33 @@
+{
+  "id": "0gQQZNeqNdZsGPskabsioG",
+  "name": "ALIOTH",
+  "uri": "spotify:artist:0gQQZNeqNdZsGPskabsioG",
+  "followers": {
+    "href": null,
+    "total": 363
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf7ce67e94aa2a6438a3b0834",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f7ce67e94aa2a6438a3b0834",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f7ce67e94aa2a6438a3b0834",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0gQQZNeqNdZsGPskabsioG"
+  }
+}

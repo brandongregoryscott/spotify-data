@@ -1,0 +1,33 @@
+{
+  "id": "1RpkMrMvFHUkJtRiZfNHYh",
+  "name": "Drag Pattern",
+  "uri": "spotify:artist:1RpkMrMvFHUkJtRiZfNHYh",
+  "followers": {
+    "href": null,
+    "total": 95
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27300d5dfd12030d0075d02b219",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0200d5dfd12030d0075d02b219",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485100d5dfd12030d0075d02b219",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1RpkMrMvFHUkJtRiZfNHYh"
+  }
+}

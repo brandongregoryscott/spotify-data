@@ -1,0 +1,35 @@
+{
+  "id": "4HYB35YLMCRIzQobpWs5yv",
+  "name": "Los Saicos",
+  "uri": "spotify:artist:4HYB35YLMCRIzQobpWs5yv",
+  "followers": {
+    "href": null,
+    "total": 69082
+  },
+  "genres": [
+    "nueva ola peruana",
+    "peruvian punk",
+    "peruvian rock"
+  ],
+  "images": [
+    {
+      "height": 520,
+      "url": "https://i.scdn.co/image/db820ad9cf4ffdc858ba20bddf801b4059a40ef0",
+      "width": 314
+    },
+    {
+      "height": 331,
+      "url": "https://i.scdn.co/image/2755581a15c27e41357ca6c589e5efab78f9413d",
+      "width": 200
+    },
+    {
+      "height": 106,
+      "url": "https://i.scdn.co/image/f5dde62b17150e51ecec86806dfa2103d8ebccd0",
+      "width": 64
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4HYB35YLMCRIzQobpWs5yv"
+  }
+}

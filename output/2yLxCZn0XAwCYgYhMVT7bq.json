@@ -1,0 +1,33 @@
+{
+  "id": "2yLxCZn0XAwCYgYhMVT7bq",
+  "name": "7mnd",
+  "uri": "spotify:artist:2yLxCZn0XAwCYgYhMVT7bq",
+  "followers": {
+    "href": null,
+    "total": 190
+  },
+  "genres": [
+    "electronic djent"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb95c78a05cd4f9e3b6feaeff3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517495c78a05cd4f9e3b6feaeff3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17895c78a05cd4f9e3b6feaeff3",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2yLxCZn0XAwCYgYhMVT7bq"
+  }
+}

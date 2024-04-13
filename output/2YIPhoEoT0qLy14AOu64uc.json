@@ -1,0 +1,33 @@
+{
+  "id": "2YIPhoEoT0qLy14AOu64uc",
+  "name": "Escape",
+  "uri": "spotify:artist:2YIPhoEoT0qLy14AOu64uc",
+  "followers": {
+    "href": null,
+    "total": 190
+  },
+  "genres": [
+    "belgian hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273832450d832b616480c22eddf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02832450d832b616480c22eddf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851832450d832b616480c22eddf",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2YIPhoEoT0qLy14AOu64uc"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3WEi6m5KEZSKZDSOfzhbjk",
+  "name": "Oftener",
+  "uri": "spotify:artist:3WEi6m5KEZSKZDSOfzhbjk",
+  "followers": {
+    "href": null,
+    "total": 621
+  },
+  "genres": [
+    "minneapolis indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7d232de7edc3f3a7b16c82a2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051747d232de7edc3f3a7b16c82a2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1787d232de7edc3f3a7b16c82a2",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3WEi6m5KEZSKZDSOfzhbjk"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5r22UCkMnYyxVPmVLoA6vJ",
+  "name": "Vaasa Palaa",
+  "uri": "spotify:artist:5r22UCkMnYyxVPmVLoA6vJ",
+  "followers": {
+    "href": null,
+    "total": 547
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4340faed4b4bd1a8b97fa5e1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744340faed4b4bd1a8b97fa5e1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784340faed4b4bd1a8b97fa5e1",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5r22UCkMnYyxVPmVLoA6vJ"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2a4UGVfNuNA24qJkBO5KTe",
+  "name": "The Arbitrary",
+  "uri": "spotify:artist:2a4UGVfNuNA24qJkBO5KTe",
+  "followers": {
+    "href": null,
+    "total": 2661
+  },
+  "genres": [
+    "instrumental progressive metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb430a4aa8e356aae434fc55cc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174430a4aa8e356aae434fc55cc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178430a4aa8e356aae434fc55cc",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2a4UGVfNuNA24qJkBO5KTe"
+  }
+}

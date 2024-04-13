@@ -1,0 +1,34 @@
+{
+  "id": "2PDKX72mDBLHqjTbJprA2c",
+  "name": "Outlier",
+  "uri": "spotify:artist:2PDKX72mDBLHqjTbJprA2c",
+  "followers": {
+    "href": null,
+    "total": 2297
+  },
+  "genres": [
+    "blackened hardcore",
+    "blackened screamo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaac43b33960d46f6b40eb0a1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aac43b33960d46f6b40eb0a1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aac43b33960d46f6b40eb0a1",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2PDKX72mDBLHqjTbJprA2c"
+  }
+}

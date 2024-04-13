@@ -1,0 +1,33 @@
+{
+  "id": "6v7bUy8j5SvbZb1efbkQQd",
+  "name": "St.Hood",
+  "uri": "spotify:artist:6v7bUy8j5SvbZb1efbkQQd",
+  "followers": {
+    "href": null,
+    "total": 743
+  },
+  "genres": [
+    "finnish hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebddd3fdf15b84d3fa40a0255a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ddd3fdf15b84d3fa40a0255a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ddd3fdf15b84d3fa40a0255a",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6v7bUy8j5SvbZb1efbkQQd"
+  }
+}

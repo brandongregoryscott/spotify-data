@@ -1,0 +1,33 @@
+{
+  "id": "2S7V3BEuoCItrD01EXujzp",
+  "name": "410a",
+  "uri": "spotify:artist:2S7V3BEuoCItrD01EXujzp",
+  "followers": {
+    "href": null,
+    "total": 66
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb95992a7970a9076ac4b1d10d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517495992a7970a9076ac4b1d10d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17895992a7970a9076ac4b1d10d",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2S7V3BEuoCItrD01EXujzp"
+  }
+}

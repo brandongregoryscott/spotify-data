@@ -1,0 +1,33 @@
+{
+  "id": "48BjT3EKDgW0mBi9mWIAOu",
+  "name": "Clara Kent",
+  "uri": "spotify:artist:48BjT3EKDgW0mBi9mWIAOu",
+  "followers": {
+    "href": null,
+    "total": 587
+  },
+  "genres": [
+    "pittsburgh rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb836e737449b46c6ccd1c8036",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174836e737449b46c6ccd1c8036",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178836e737449b46c6ccd1c8036",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/48BjT3EKDgW0mBi9mWIAOu"
+  }
+}

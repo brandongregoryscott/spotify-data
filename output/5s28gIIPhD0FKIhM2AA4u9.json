@@ -1,0 +1,33 @@
+{
+  "id": "5s28gIIPhD0FKIhM2AA4u9",
+  "name": "Pearl",
+  "uri": "spotify:artist:5s28gIIPhD0FKIhM2AA4u9",
+  "followers": {
+    "href": null,
+    "total": 203
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730acd6b6e4da8cff2da236853",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020acd6b6e4da8cff2da236853",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510acd6b6e4da8cff2da236853",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5s28gIIPhD0FKIhM2AA4u9"
+  }
+}

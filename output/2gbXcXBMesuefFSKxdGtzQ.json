@@ -1,0 +1,33 @@
+{
+  "id": "2gbXcXBMesuefFSKxdGtzQ",
+  "name": "Jan Jan",
+  "uri": "spotify:artist:2gbXcXBMesuefFSKxdGtzQ",
+  "followers": {
+    "href": null,
+    "total": 168
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf81c16e77eb740c3fd3362ff",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f81c16e77eb740c3fd3362ff",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f81c16e77eb740c3fd3362ff",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2gbXcXBMesuefFSKxdGtzQ"
+  }
+}

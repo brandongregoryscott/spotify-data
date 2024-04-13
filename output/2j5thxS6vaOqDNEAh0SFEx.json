@@ -1,0 +1,35 @@
+{
+  "id": "2j5thxS6vaOqDNEAh0SFEx",
+  "name": "See You Next Tuesday",
+  "uri": "spotify:artist:2j5thxS6vaOqDNEAh0SFEx",
+  "followers": {
+    "href": null,
+    "total": 23234
+  },
+  "genres": [
+    "deathcore",
+    "mathcore",
+    "nintendocore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebde6372ebb75d96dc6dbdb18f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174de6372ebb75d96dc6dbdb18f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178de6372ebb75d96dc6dbdb18f",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2j5thxS6vaOqDNEAh0SFEx"
+  }
+}

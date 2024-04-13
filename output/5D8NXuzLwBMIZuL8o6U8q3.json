@@ -1,0 +1,33 @@
+{
+  "id": "5D8NXuzLwBMIZuL8o6U8q3",
+  "name": "Black Ends",
+  "uri": "spotify:artist:5D8NXuzLwBMIZuL8o6U8q3",
+  "followers": {
+    "href": null,
+    "total": 3839
+  },
+  "genres": [
+    "seattle indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb19b6a92841665a2dfb65a709",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517419b6a92841665a2dfb65a709",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17819b6a92841665a2dfb65a709",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5D8NXuzLwBMIZuL8o6U8q3"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "25ozykbWo3rwO1pwlKpdPv",
+  "name": "Extraño Deseo",
+  "uri": "spotify:artist:25ozykbWo3rwO1pwlKpdPv",
+  "followers": {
+    "href": null,
+    "total": 149
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd64383fe011730129f4347a7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d64383fe011730129f4347a7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d64383fe011730129f4347a7",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/25ozykbWo3rwO1pwlKpdPv"
+  }
+}

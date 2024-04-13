@@ -1,0 +1,33 @@
+{
+  "id": "0mZNAA4RClGWArjeRQJMd1",
+  "name": "Common Family",
+  "uri": "spotify:artist:0mZNAA4RClGWArjeRQJMd1",
+  "followers": {
+    "href": null,
+    "total": 16
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb8667b1f29d807e96375287b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b8667b1f29d807e96375287b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b8667b1f29d807e96375287b",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0mZNAA4RClGWArjeRQJMd1"
+  }
+}

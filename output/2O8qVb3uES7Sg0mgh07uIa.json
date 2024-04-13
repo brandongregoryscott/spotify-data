@@ -1,0 +1,33 @@
+{
+  "id": "2O8qVb3uES7Sg0mgh07uIa",
+  "name": "Orenda",
+  "uri": "spotify:artist:2O8qVb3uES7Sg0mgh07uIa",
+  "followers": {
+    "href": null,
+    "total": 97
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb236a481e9ff05eb013c25114",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174236a481e9ff05eb013c25114",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178236a481e9ff05eb013c25114",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2O8qVb3uES7Sg0mgh07uIa"
+  }
+}

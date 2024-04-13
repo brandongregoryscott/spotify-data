@@ -1,0 +1,33 @@
+{
+  "id": "5IgzjydqrMwizEAHE7ixXo",
+  "name": "Alessandro Zilio",
+  "uri": "spotify:artist:5IgzjydqrMwizEAHE7ixXo",
+  "followers": {
+    "href": null,
+    "total": 330
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb62183d4a71475afb195b11bf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517462183d4a71475afb195b11bf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17862183d4a71475afb195b11bf",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5IgzjydqrMwizEAHE7ixXo"
+  }
+}

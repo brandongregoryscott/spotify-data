@@ -1,0 +1,33 @@
+{
+  "id": "7gDWUlnw8hHqhwGYPGzjLo",
+  "name": "East Capri",
+  "uri": "spotify:artist:7gDWUlnw8hHqhwGYPGzjLo",
+  "followers": {
+    "href": null,
+    "total": 855
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7a08c4df859462ffe21dcd1b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051747a08c4df859462ffe21dcd1b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1787a08c4df859462ffe21dcd1b",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7gDWUlnw8hHqhwGYPGzjLo"
+  }
+}

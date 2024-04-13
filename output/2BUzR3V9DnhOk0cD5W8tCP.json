@@ -1,0 +1,33 @@
+{
+  "id": "2BUzR3V9DnhOk0cD5W8tCP",
+  "name": "Blind Eye",
+  "uri": "spotify:artist:2BUzR3V9DnhOk0cD5W8tCP",
+  "followers": {
+    "href": null,
+    "total": 200
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3551c07b7a1947092fad7a1d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051743551c07b7a1947092fad7a1d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1783551c07b7a1947092fad7a1d",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2BUzR3V9DnhOk0cD5W8tCP"
+  }
+}

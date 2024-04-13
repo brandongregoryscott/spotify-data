@@ -1,0 +1,33 @@
+{
+  "id": "3XWnrWCKGtKALFOncmgq2t",
+  "name": "Showtigers",
+  "uri": "spotify:artist:3XWnrWCKGtKALFOncmgq2t",
+  "followers": {
+    "href": null,
+    "total": 147
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb71da666e4d28f8882c33cc09",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517471da666e4d28f8882c33cc09",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17871da666e4d28f8882c33cc09",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3XWnrWCKGtKALFOncmgq2t"
+  }
+}

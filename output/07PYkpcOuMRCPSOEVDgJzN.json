@@ -1,0 +1,33 @@
+{
+  "id": "07PYkpcOuMRCPSOEVDgJzN",
+  "name": "See The Light",
+  "uri": "spotify:artist:07PYkpcOuMRCPSOEVDgJzN",
+  "followers": {
+    "href": null,
+    "total": 2173
+  },
+  "genres": [
+    "christian metalcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732577b846b5380784f1d9e37f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022577b846b5380784f1d9e37f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512577b846b5380784f1d9e37f",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07PYkpcOuMRCPSOEVDgJzN"
+  }
+}

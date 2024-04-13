@@ -1,0 +1,33 @@
+{
+  "id": "3qeVjyGz8DW9nPkIRUdWJj",
+  "name": "Phantom",
+  "uri": "spotify:artist:3qeVjyGz8DW9nPkIRUdWJj",
+  "followers": {
+    "href": null,
+    "total": 1122
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27384175d3bb975461fd2637ffb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0284175d3bb975461fd2637ffb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485184175d3bb975461fd2637ffb",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3qeVjyGz8DW9nPkIRUdWJj"
+  }
+}

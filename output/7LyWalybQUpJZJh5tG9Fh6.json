@@ -1,0 +1,33 @@
+{
+  "id": "7LyWalybQUpJZJh5tG9Fh6",
+  "name": "VALIDACTIVE",
+  "uri": "spotify:artist:7LyWalybQUpJZJh5tG9Fh6",
+  "followers": {
+    "href": null,
+    "total": 24
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273830d4cde0931cfb0e2cc05a1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02830d4cde0931cfb0e2cc05a1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851830d4cde0931cfb0e2cc05a1",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7LyWalybQUpJZJh5tG9Fh6"
+  }
+}

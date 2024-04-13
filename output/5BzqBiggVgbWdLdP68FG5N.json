@@ -1,0 +1,33 @@
+{
+  "id": "5BzqBiggVgbWdLdP68FG5N",
+  "name": "Wallace Hound",
+  "uri": "spotify:artist:5BzqBiggVgbWdLdP68FG5N",
+  "followers": {
+    "href": null,
+    "total": 213
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb72710a0c4778b0027af03cfe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517472710a0c4778b0027af03cfe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17872710a0c4778b0027af03cfe",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5BzqBiggVgbWdLdP68FG5N"
+  }
+}

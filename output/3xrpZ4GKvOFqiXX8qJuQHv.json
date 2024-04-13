@@ -1,0 +1,33 @@
+{
+  "id": "3xrpZ4GKvOFqiXX8qJuQHv",
+  "name": "ARTICLE V",
+  "uri": "spotify:artist:3xrpZ4GKvOFqiXX8qJuQHv",
+  "followers": {
+    "href": null,
+    "total": 153
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb811b26d4625e5025dda54d9e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174811b26d4625e5025dda54d9e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178811b26d4625e5025dda54d9e",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3xrpZ4GKvOFqiXX8qJuQHv"
+  }
+}

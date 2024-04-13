@@ -1,0 +1,33 @@
+{
+  "id": "7tnICxEQkOML369POsUizq",
+  "name": "Josh Kerr",
+  "uri": "spotify:artist:7tnICxEQkOML369POsUizq",
+  "followers": {
+    "href": null,
+    "total": 18025
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebed86f6c94efc39a4cb78edc1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ed86f6c94efc39a4cb78edc1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ed86f6c94efc39a4cb78edc1",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7tnICxEQkOML369POsUizq"
+  }
+}

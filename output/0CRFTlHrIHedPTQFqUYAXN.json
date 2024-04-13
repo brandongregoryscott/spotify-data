@@ -1,0 +1,34 @@
+{
+  "id": "0CRFTlHrIHedPTQFqUYAXN",
+  "name": "Santa Madero",
+  "uri": "spotify:artist:0CRFTlHrIHedPTQFqUYAXN",
+  "followers": {
+    "href": null,
+    "total": 14197
+  },
+  "genres": [
+    "indie rock peruano",
+    "peruvian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd80205695490a467c896443e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d80205695490a467c896443e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d80205695490a467c896443e",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0CRFTlHrIHedPTQFqUYAXN"
+  }
+}

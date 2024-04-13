@@ -1,0 +1,33 @@
+{
+  "id": "6MR7apVTgZb0Mi35hBDPPQ",
+  "name": "Ferret Bueller",
+  "uri": "spotify:artist:6MR7apVTgZb0Mi35hBDPPQ",
+  "followers": {
+    "href": null,
+    "total": 186
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739a447d9d924ec4834ceb4540",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029a447d9d924ec4834ceb4540",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519a447d9d924ec4834ceb4540",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6MR7apVTgZb0Mi35hBDPPQ"
+  }
+}

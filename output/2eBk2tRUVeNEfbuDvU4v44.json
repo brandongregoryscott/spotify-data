@@ -1,0 +1,33 @@
+{
+  "id": "2eBk2tRUVeNEfbuDvU4v44",
+  "name": "Kyle Anderson",
+  "uri": "spotify:artist:2eBk2tRUVeNEfbuDvU4v44",
+  "followers": {
+    "href": null,
+    "total": 464
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f41f440373e0c23082727b63",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f41f440373e0c23082727b63",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f41f440373e0c23082727b63",
+      "width": 64
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2eBk2tRUVeNEfbuDvU4v44"
+  }
+}

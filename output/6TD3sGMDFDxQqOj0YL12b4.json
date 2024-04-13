@@ -1,0 +1,34 @@
+{
+  "id": "6TD3sGMDFDxQqOj0YL12b4",
+  "name": "Kilpi",
+  "uri": "spotify:artist:6TD3sGMDFDxQqOj0YL12b4",
+  "followers": {
+    "href": null,
+    "total": 4740
+  },
+  "genres": [
+    "finnish heavy metal",
+    "suomi rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736cb7a21b6f98338977b849c0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026cb7a21b6f98338977b849c0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516cb7a21b6f98338977b849c0",
+      "width": 64
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6TD3sGMDFDxQqOj0YL12b4"
+  }
+}

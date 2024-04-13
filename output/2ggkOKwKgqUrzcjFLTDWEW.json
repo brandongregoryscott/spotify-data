@@ -1,0 +1,33 @@
+{
+  "id": "2ggkOKwKgqUrzcjFLTDWEW",
+  "name": "Strange Magic",
+  "uri": "spotify:artist:2ggkOKwKgqUrzcjFLTDWEW",
+  "followers": {
+    "href": null,
+    "total": 697
+  },
+  "genres": [
+    "detroit hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb55e86c6f07c20693c1a98f23",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517455e86c6f07c20693c1a98f23",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17855e86c6f07c20693c1a98f23",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ggkOKwKgqUrzcjFLTDWEW"
+  }
+}

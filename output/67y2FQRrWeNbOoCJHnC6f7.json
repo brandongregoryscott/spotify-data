@@ -1,0 +1,33 @@
+{
+  "id": "67y2FQRrWeNbOoCJHnC6f7",
+  "name": "MSRY",
+  "uri": "spotify:artist:67y2FQRrWeNbOoCJHnC6f7",
+  "followers": {
+    "href": null,
+    "total": 567
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb1d2de576ff24076f9defcaf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b1d2de576ff24076f9defcaf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b1d2de576ff24076f9defcaf",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/67y2FQRrWeNbOoCJHnC6f7"
+  }
+}

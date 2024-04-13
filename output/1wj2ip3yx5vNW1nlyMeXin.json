@@ -1,0 +1,33 @@
+{
+  "id": "1wj2ip3yx5vNW1nlyMeXin",
+  "name": "YAKSAW",
+  "uri": "spotify:artist:1wj2ip3yx5vNW1nlyMeXin",
+  "followers": {
+    "href": null,
+    "total": 166
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb69c3a9c72ba3cc44348bf783",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517469c3a9c72ba3cc44348bf783",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17869c3a9c72ba3cc44348bf783",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1wj2ip3yx5vNW1nlyMeXin"
+  }
+}

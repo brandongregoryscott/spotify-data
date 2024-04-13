@@ -1,0 +1,33 @@
+{
+  "id": "212BCzYr9HaRWlLS4makdb",
+  "name": "Soulstate",
+  "uri": "spotify:artist:212BCzYr9HaRWlLS4makdb",
+  "followers": {
+    "href": null,
+    "total": 176
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb968df4c0378ee9d7e5f83fca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174968df4c0378ee9d7e5f83fca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178968df4c0378ee9d7e5f83fca",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/212BCzYr9HaRWlLS4makdb"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1NAW00pX1DxSF7u9Q4ATXe",
+  "name": "Working Breed",
+  "uri": "spotify:artist:1NAW00pX1DxSF7u9Q4ATXe",
+  "followers": {
+    "href": null,
+    "total": 122
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb466346162d16f3bad2b3ff18",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174466346162d16f3bad2b3ff18",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178466346162d16f3bad2b3ff18",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1NAW00pX1DxSF7u9Q4ATXe"
+  }
+}

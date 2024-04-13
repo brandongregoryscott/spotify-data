@@ -1,0 +1,33 @@
+{
+  "id": "1jRTuz4sZfpc7nnSbGUoOW",
+  "name": "Sink With Me",
+  "uri": "spotify:artist:1jRTuz4sZfpc7nnSbGUoOW",
+  "followers": {
+    "href": null,
+    "total": 2793
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb611effaafd1ac583d78071cb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174611effaafd1ac583d78071cb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178611effaafd1ac583d78071cb",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1jRTuz4sZfpc7nnSbGUoOW"
+  }
+}

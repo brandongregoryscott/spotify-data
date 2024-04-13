@@ -1,0 +1,33 @@
+{
+  "id": "111F4qYmtV6PkalCjvIyuB",
+  "name": "Persona",
+  "uri": "spotify:artist:111F4qYmtV6PkalCjvIyuB",
+  "followers": {
+    "href": null,
+    "total": 176
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd6246e0a3343a5f0b289ace4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d6246e0a3343a5f0b289ace4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d6246e0a3343a5f0b289ace4",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/111F4qYmtV6PkalCjvIyuB"
+  }
+}

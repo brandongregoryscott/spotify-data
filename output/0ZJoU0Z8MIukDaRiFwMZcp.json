@@ -1,0 +1,33 @@
+{
+  "id": "0ZJoU0Z8MIukDaRiFwMZcp",
+  "name": "Secret Gardens",
+  "uri": "spotify:artist:0ZJoU0Z8MIukDaRiFwMZcp",
+  "followers": {
+    "href": null,
+    "total": 3161
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb98612bdbba5cd64c9c983560",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517498612bdbba5cd64c9c983560",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17898612bdbba5cd64c9c983560",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ZJoU0Z8MIukDaRiFwMZcp"
+  }
+}

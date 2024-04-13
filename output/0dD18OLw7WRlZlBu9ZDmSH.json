@@ -1,0 +1,33 @@
+{
+  "id": "0dD18OLw7WRlZlBu9ZDmSH",
+  "name": "Grima",
+  "uri": "spotify:artist:0dD18OLw7WRlZlBu9ZDmSH",
+  "followers": {
+    "href": null,
+    "total": 3001
+  },
+  "genres": [
+    "metal galego"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb76f368e9e967a1a8fae154d9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517476f368e9e967a1a8fae154d9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17876f368e9e967a1a8fae154d9",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0dD18OLw7WRlZlBu9ZDmSH"
+  }
+}

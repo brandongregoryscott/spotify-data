@@ -1,0 +1,33 @@
+{
+  "id": "5EugHGtLV6lP5NZ6nI6kt5",
+  "name": "The Downcast",
+  "uri": "spotify:artist:5EugHGtLV6lP5NZ6nI6kt5",
+  "followers": {
+    "href": null,
+    "total": 687
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb270099e94489efbed6b31d11",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174270099e94489efbed6b31d11",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178270099e94489efbed6b31d11",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5EugHGtLV6lP5NZ6nI6kt5"
+  }
+}

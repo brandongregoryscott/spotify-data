@@ -1,0 +1,33 @@
+{
+  "id": "07eJA48ADhXVjUD6weog3M",
+  "name": "Klúa",
+  "uri": "spotify:artist:07eJA48ADhXVjUD6weog3M",
+  "followers": {
+    "href": null,
+    "total": 334
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd51a498e51dbd075c39f7903",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d51a498e51dbd075c39f7903",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d51a498e51dbd075c39f7903",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07eJA48ADhXVjUD6weog3M"
+  }
+}

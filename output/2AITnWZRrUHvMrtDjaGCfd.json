@@ -1,0 +1,33 @@
+{
+  "id": "2AITnWZRrUHvMrtDjaGCfd",
+  "name": "Beauty in a Plastic Bag",
+  "uri": "spotify:artist:2AITnWZRrUHvMrtDjaGCfd",
+  "followers": {
+    "href": null,
+    "total": 177
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfb0f5a3ec92631336b80d65e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fb0f5a3ec92631336b80d65e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fb0f5a3ec92631336b80d65e",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2AITnWZRrUHvMrtDjaGCfd"
+  }
+}

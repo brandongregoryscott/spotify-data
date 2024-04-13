@@ -1,0 +1,33 @@
+{
+  "id": "68OisgRu1qD9BBchvcOiif",
+  "name": "Into Apollo",
+  "uri": "spotify:artist:68OisgRu1qD9BBchvcOiif",
+  "followers": {
+    "href": null,
+    "total": 58
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27362117bd9bbe62fb2d5b5b1fd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0262117bd9bbe62fb2d5b5b1fd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485162117bd9bbe62fb2d5b5b1fd",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/68OisgRu1qD9BBchvcOiif"
+  }
+}

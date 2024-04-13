@@ -1,0 +1,35 @@
+{
+  "id": "0KlYEaj5sigNA1iixOstiH",
+  "name": "Sundressed",
+  "uri": "spotify:artist:0KlYEaj5sigNA1iixOstiH",
+  "followers": {
+    "href": null,
+    "total": 13436
+  },
+  "genres": [
+    "anthem emo",
+    "pop punk",
+    "tempe indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd3b9fdbf5c29f933df483be9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d3b9fdbf5c29f933df483be9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d3b9fdbf5c29f933df483be9",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0KlYEaj5sigNA1iixOstiH"
+  }
+}

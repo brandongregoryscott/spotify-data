@@ -1,0 +1,33 @@
+{
+  "id": "0H8gcTb6jhIiU6GtxVGAr9",
+  "name": "H3ATR",
+  "uri": "spotify:artist:0H8gcTb6jhIiU6GtxVGAr9",
+  "followers": {
+    "href": null,
+    "total": 14
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb972681f865605e44c7acb551",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174972681f865605e44c7acb551",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178972681f865605e44c7acb551",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0H8gcTb6jhIiU6GtxVGAr9"
+  }
+}

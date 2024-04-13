@@ -1,0 +1,33 @@
+{
+  "id": "6ZY6wZJoDnN7N6YEnFjYYD",
+  "name": "Denby",
+  "uri": "spotify:artist:6ZY6wZJoDnN7N6YEnFjYYD",
+  "followers": {
+    "href": null,
+    "total": 126
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb14bfda2fd634a23b782990b7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517414bfda2fd634a23b782990b7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17814bfda2fd634a23b782990b7",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ZY6wZJoDnN7N6YEnFjYYD"
+  }
+}

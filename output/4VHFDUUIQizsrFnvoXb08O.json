@@ -1,0 +1,33 @@
+{
+  "id": "4VHFDUUIQizsrFnvoXb08O",
+  "name": "Mi Bella Margarita",
+  "uri": "spotify:artist:4VHFDUUIQizsrFnvoXb08O",
+  "followers": {
+    "href": null,
+    "total": 24
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb26040bd382fab1049c733cd2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517426040bd382fab1049c733cd2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17826040bd382fab1049c733cd2",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4VHFDUUIQizsrFnvoXb08O"
+  }
+}

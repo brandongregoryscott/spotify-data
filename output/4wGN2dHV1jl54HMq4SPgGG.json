@@ -1,0 +1,33 @@
+{
+  "id": "4wGN2dHV1jl54HMq4SPgGG",
+  "name": "Total Loss",
+  "uri": "spotify:artist:4wGN2dHV1jl54HMq4SPgGG",
+  "followers": {
+    "href": null,
+    "total": 416
+  },
+  "genres": [
+    "ohio hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc329fa76c1b665fae2a0d46f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c329fa76c1b665fae2a0d46f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c329fa76c1b665fae2a0d46f",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4wGN2dHV1jl54HMq4SPgGG"
+  }
+}

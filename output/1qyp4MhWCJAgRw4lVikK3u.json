@@ -1,0 +1,33 @@
+{
+  "id": "1qyp4MhWCJAgRw4lVikK3u",
+  "name": "Soul Giant",
+  "uri": "spotify:artist:1qyp4MhWCJAgRw4lVikK3u",
+  "followers": {
+    "href": null,
+    "total": 84
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfb308f1a817ceaea5dce8cac",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fb308f1a817ceaea5dce8cac",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fb308f1a817ceaea5dce8cac",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1qyp4MhWCJAgRw4lVikK3u"
+  }
+}

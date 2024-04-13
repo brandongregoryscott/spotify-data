@@ -1,0 +1,33 @@
+{
+  "id": "3AQSaCi6Um8N9BWzW6tGWa",
+  "name": "Ill Vision",
+  "uri": "spotify:artist:3AQSaCi6Um8N9BWzW6tGWa",
+  "followers": {
+    "href": null,
+    "total": 583
+  },
+  "genres": [
+    "uk beatdown"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb616d9f72a6a23367966a364c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174616d9f72a6a23367966a364c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178616d9f72a6a23367966a364c",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3AQSaCi6Um8N9BWzW6tGWa"
+  }
+}

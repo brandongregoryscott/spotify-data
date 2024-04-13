@@ -1,0 +1,33 @@
+{
+  "id": "3iR1JJtzzvLZHWkd7JnF54",
+  "name": "MOLA",
+  "uri": "spotify:artist:3iR1JJtzzvLZHWkd7JnF54",
+  "followers": {
+    "href": null,
+    "total": 5
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fb0ac1c9e1185ccd0fb72090",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fb0ac1c9e1185ccd0fb72090",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fb0ac1c9e1185ccd0fb72090",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3iR1JJtzzvLZHWkd7JnF54"
+  }
+}

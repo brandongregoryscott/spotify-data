@@ -1,0 +1,33 @@
+{
+  "id": "1mFXiiJpZz2nY0DVY7RAOQ",
+  "name": "Murkwood",
+  "uri": "spotify:artist:1mFXiiJpZz2nY0DVY7RAOQ",
+  "followers": {
+    "href": null,
+    "total": 399
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb24fdadd465b0b998c1406534",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517424fdadd465b0b998c1406534",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17824fdadd465b0b998c1406534",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1mFXiiJpZz2nY0DVY7RAOQ"
+  }
+}

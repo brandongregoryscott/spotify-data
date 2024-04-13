@@ -1,0 +1,33 @@
+{
+  "id": "5M4dmjvNk3akecPjTway5s",
+  "name": "Fifty Flies",
+  "uri": "spotify:artist:5M4dmjvNk3akecPjTway5s",
+  "followers": {
+    "href": null,
+    "total": 134
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb87fc0a45db40ffd5cc505889",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517487fc0a45db40ffd5cc505889",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17887fc0a45db40ffd5cc505889",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5M4dmjvNk3akecPjTway5s"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3DXdNCG5YM2IUX2CDGgVvW",
+  "name": "Sangham",
+  "uri": "spotify:artist:3DXdNCG5YM2IUX2CDGgVvW",
+  "followers": {
+    "href": null,
+    "total": 289
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba3054f5bdb35e1d528e676de",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a3054f5bdb35e1d528e676de",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a3054f5bdb35e1d528e676de",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3DXdNCG5YM2IUX2CDGgVvW"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "119IjVgPSiib80EJTDrT6c",
+  "name": "Mother Said",
+  "uri": "spotify:artist:119IjVgPSiib80EJTDrT6c",
+  "followers": {
+    "href": null,
+    "total": 344
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb949c4cdf9090671182521e81",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174949c4cdf9090671182521e81",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178949c4cdf9090671182521e81",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/119IjVgPSiib80EJTDrT6c"
+  }
+}

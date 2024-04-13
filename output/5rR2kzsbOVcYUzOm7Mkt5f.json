@@ -1,0 +1,34 @@
+{
+  "id": "5rR2kzsbOVcYUzOm7Mkt5f",
+  "name": "My Cross To Bare",
+  "uri": "spotify:artist:5rR2kzsbOVcYUzOm7Mkt5f",
+  "followers": {
+    "href": null,
+    "total": 140
+  },
+  "genres": [
+    "british grindcore",
+    "technical grindcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736ce0677cc28f2bf103517b3a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026ce0677cc28f2bf103517b3a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516ce0677cc28f2bf103517b3a",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5rR2kzsbOVcYUzOm7Mkt5f"
+  }
+}

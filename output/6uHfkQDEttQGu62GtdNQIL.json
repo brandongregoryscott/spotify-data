@@ -1,0 +1,34 @@
+{
+  "id": "6uHfkQDEttQGu62GtdNQIL",
+  "name": "Pre",
+  "uri": "spotify:artist:6uHfkQDEttQGu62GtdNQIL",
+  "followers": {
+    "href": null,
+    "total": 2628
+  },
+  "genres": [
+    "noise rock",
+    "sasscore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27370fcca8fd8c6d04b480a4f75",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0270fcca8fd8c6d04b480a4f75",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485170fcca8fd8c6d04b480a4f75",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6uHfkQDEttQGu62GtdNQIL"
+  }
+}

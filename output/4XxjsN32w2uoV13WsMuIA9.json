@@ -1,0 +1,33 @@
+{
+  "id": "4XxjsN32w2uoV13WsMuIA9",
+  "name": "Nowheres",
+  "uri": "spotify:artist:4XxjsN32w2uoV13WsMuIA9",
+  "followers": {
+    "href": null,
+    "total": 412
+  },
+  "genres": [
+    "swedish hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb2882fc87c207c6a465b99e4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b2882fc87c207c6a465b99e4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b2882fc87c207c6a465b99e4",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4XxjsN32w2uoV13WsMuIA9"
+  }
+}
