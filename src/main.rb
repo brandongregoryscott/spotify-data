@@ -18,7 +18,7 @@ def main()
     artist_ids_file = File.read('input/artists.json')
     artist_ids = JSON.parse(artist_ids_file)
     chunk_size = (artist_ids.length / 24).floor
-    chunk = artist_ids.each_slice(chunk_size).to_a()[hour - 1]
+    chunk = artist_ids.each_slice(chunk_size).to_a()[hour]
 
     new_artist_ids = []
 
