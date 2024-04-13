@@ -1,0 +1,33 @@
+{
+  "id": "41hQlpi3r8ljXeRYbHbUBD",
+  "name": "Grove Street",
+  "uri": "spotify:artist:41hQlpi3r8ljXeRYbHbUBD",
+  "followers": {
+    "href": null,
+    "total": 8650
+  },
+  "genres": [
+    "ukhc"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebad0c48b6e77930d60ad75f35",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ad0c48b6e77930d60ad75f35",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ad0c48b6e77930d60ad75f35",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/41hQlpi3r8ljXeRYbHbUBD"
+  }
+}

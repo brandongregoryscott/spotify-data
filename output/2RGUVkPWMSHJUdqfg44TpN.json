@@ -1,0 +1,33 @@
+{
+  "id": "2RGUVkPWMSHJUdqfg44TpN",
+  "name": "El Jefazo",
+  "uri": "spotify:artist:2RGUVkPWMSHJUdqfg44TpN",
+  "followers": {
+    "href": null,
+    "total": 1114
+  },
+  "genres": [
+    "latin american heavy psych"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb15be4b882c0e1ae8e2ce905a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517415be4b882c0e1ae8e2ce905a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17815be4b882c0e1ae8e2ce905a",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2RGUVkPWMSHJUdqfg44TpN"
+  }
+}

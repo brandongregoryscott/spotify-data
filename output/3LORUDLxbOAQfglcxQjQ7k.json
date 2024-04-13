@@ -1,0 +1,33 @@
+{
+  "id": "3LORUDLxbOAQfglcxQjQ7k",
+  "name": "Nittsuga",
+  "uri": "spotify:artist:3LORUDLxbOAQfglcxQjQ7k",
+  "followers": {
+    "href": null,
+    "total": 96
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb34f15b9b718a41e5b03cbb80",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517434f15b9b718a41e5b03cbb80",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17834f15b9b718a41e5b03cbb80",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3LORUDLxbOAQfglcxQjQ7k"
+  }
+}

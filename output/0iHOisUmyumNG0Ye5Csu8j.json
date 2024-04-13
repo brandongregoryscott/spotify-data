@@ -1,0 +1,33 @@
+{
+  "id": "0iHOisUmyumNG0Ye5Csu8j",
+  "name": "Saru!",
+  "uri": "spotify:artist:0iHOisUmyumNG0Ye5Csu8j",
+  "followers": {
+    "href": null,
+    "total": 55
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebad8a18ba9ce53300af5fd411",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ad8a18ba9ce53300af5fd411",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ad8a18ba9ce53300af5fd411",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0iHOisUmyumNG0Ye5Csu8j"
+  }
+}

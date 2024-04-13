@@ -1,0 +1,33 @@
+{
+  "id": "10VBp06W8NIgMW4JruLCC4",
+  "name": "Kidd Voodoo",
+  "uri": "spotify:artist:10VBp06W8NIgMW4JruLCC4",
+  "followers": {
+    "href": null,
+    "total": 205914
+  },
+  "genres": [
+    "urbano chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb270d9c3e2beb1a3299e8c665",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174270d9c3e2beb1a3299e8c665",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178270d9c3e2beb1a3299e8c665",
+      "width": 160
+    }
+  ],
+  "popularity": 75,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+  }
+}

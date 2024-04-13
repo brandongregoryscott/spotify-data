@@ -1,0 +1,33 @@
+{
+  "id": "0rjms710nwQTdrQheXHJfz",
+  "name": "Standly",
+  "uri": "spotify:artist:0rjms710nwQTdrQheXHJfz",
+  "followers": {
+    "href": null,
+    "total": 969682
+  },
+  "genres": [
+    "urbano chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe18269238f07ea05724af9c6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e18269238f07ea05724af9c6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e18269238f07ea05724af9c6",
+      "width": 160
+    }
+  ],
+  "popularity": 71,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+  }
+}

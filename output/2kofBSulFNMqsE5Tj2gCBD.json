@@ -1,0 +1,33 @@
+{
+  "id": "2kofBSulFNMqsE5Tj2gCBD",
+  "name": "PVSSY",
+  "uri": "spotify:artist:2kofBSulFNMqsE5Tj2gCBD",
+  "followers": {
+    "href": null,
+    "total": 766
+  },
+  "genres": [
+    "latin tek"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb08f982e25deded8aaaf454ab",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517408f982e25deded8aaaf454ab",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17808f982e25deded8aaaf454ab",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2kofBSulFNMqsE5Tj2gCBD"
+  }
+}

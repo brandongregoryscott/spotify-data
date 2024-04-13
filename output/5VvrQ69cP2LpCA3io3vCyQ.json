@@ -1,0 +1,34 @@
+{
+  "id": "5VvrQ69cP2LpCA3io3vCyQ",
+  "name": "Oso Pardo",
+  "uri": "spotify:artist:5VvrQ69cP2LpCA3io3vCyQ",
+  "followers": {
+    "href": null,
+    "total": 2868
+  },
+  "genres": [
+    "colombian indie",
+    "colombian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb41c1e2162cb0f483be2399e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b41c1e2162cb0f483be2399e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b41c1e2162cb0f483be2399e",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5VvrQ69cP2LpCA3io3vCyQ"
+  }
+}

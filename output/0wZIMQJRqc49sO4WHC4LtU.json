@@ -1,0 +1,33 @@
+{
+  "id": "0wZIMQJRqc49sO4WHC4LtU",
+  "name": "Jingoro",
+  "uri": "spotify:artist:0wZIMQJRqc49sO4WHC4LtU",
+  "followers": {
+    "href": null,
+    "total": 483
+  },
+  "genres": [
+    "future funk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb092ebea6c5d34de29ce5a81e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174092ebea6c5d34de29ce5a81e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178092ebea6c5d34de29ce5a81e",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0wZIMQJRqc49sO4WHC4LtU"
+  }
+}

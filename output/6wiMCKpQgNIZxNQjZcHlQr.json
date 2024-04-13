@@ -1,0 +1,34 @@
+{
+  "id": "6wiMCKpQgNIZxNQjZcHlQr",
+  "name": "Vargas",
+  "uri": "spotify:artist:6wiMCKpQgNIZxNQjZcHlQr",
+  "followers": {
+    "href": null,
+    "total": 3456
+  },
+  "genres": [
+    "venezuelan indie",
+    "venezuelan rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb8f59c749d9df2a5d1013988",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b8f59c749d9df2a5d1013988",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b8f59c749d9df2a5d1013988",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6wiMCKpQgNIZxNQjZcHlQr"
+  }
+}

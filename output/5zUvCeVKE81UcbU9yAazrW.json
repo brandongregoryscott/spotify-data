@@ -1,0 +1,34 @@
+{
+  "id": "5zUvCeVKE81UcbU9yAazrW",
+  "name": "The First Step",
+  "uri": "spotify:artist:5zUvCeVKE81UcbU9yAazrW",
+  "followers": {
+    "href": null,
+    "total": 8480
+  },
+  "genres": [
+    "hardcore",
+    "straight edge"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb70b09a665ac8772f1e73d193",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517470b09a665ac8772f1e73d193",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17870b09a665ac8772f1e73d193",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5zUvCeVKE81UcbU9yAazrW"
+  }
+}

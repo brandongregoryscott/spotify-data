@@ -1,0 +1,33 @@
+{
+  "id": "3ZkkruWoj5y5La6XfueJlM",
+  "name": "SPLICED",
+  "uri": "spotify:artist:3ZkkruWoj5y5La6XfueJlM",
+  "followers": {
+    "href": null,
+    "total": 1264
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb89670fa06d4887a10c7116b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b89670fa06d4887a10c7116b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b89670fa06d4887a10c7116b",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ZkkruWoj5y5La6XfueJlM"
+  }
+}

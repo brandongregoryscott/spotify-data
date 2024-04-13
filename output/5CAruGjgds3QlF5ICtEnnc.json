@@ -1,0 +1,34 @@
+{
+  "id": "5CAruGjgds3QlF5ICtEnnc",
+  "name": "Jairo Vera",
+  "uri": "spotify:artist:5CAruGjgds3QlF5ICtEnnc",
+  "followers": {
+    "href": null,
+    "total": 1091465
+  },
+  "genres": [
+    "mambo chileno",
+    "urbano chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb49d32782734c4f55ec82b8a5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517449d32782734c4f55ec82b8a5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17849d32782734c4f55ec82b8a5",
+      "width": 160
+    }
+  ],
+  "popularity": 70,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+  }
+}

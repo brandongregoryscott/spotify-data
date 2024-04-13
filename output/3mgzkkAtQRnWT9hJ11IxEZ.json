@@ -1,0 +1,33 @@
+{
+  "id": "3mgzkkAtQRnWT9hJ11IxEZ",
+  "name": "Hazev",
+  "uri": "spotify:artist:3mgzkkAtQRnWT9hJ11IxEZ",
+  "followers": {
+    "href": null,
+    "total": 21
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebac84b5fedc8f13305a501dda",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ac84b5fedc8f13305a501dda",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ac84b5fedc8f13305a501dda",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3mgzkkAtQRnWT9hJ11IxEZ"
+  }
+}

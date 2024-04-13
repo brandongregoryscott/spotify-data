@@ -1,0 +1,33 @@
+{
+  "id": "1iV3ROcFUuQ7OTfRkphMxO",
+  "name": "La Clem",
+  "uri": "spotify:artist:1iV3ROcFUuQ7OTfRkphMxO",
+  "followers": {
+    "href": null,
+    "total": 111
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1a0dfa78133c774f208f5568",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051741a0dfa78133c774f208f5568",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1781a0dfa78133c774f208f5568",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1iV3ROcFUuQ7OTfRkphMxO"
+  }
+}

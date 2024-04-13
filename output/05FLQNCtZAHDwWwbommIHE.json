@@ -1,0 +1,33 @@
+{
+  "id": "05FLQNCtZAHDwWwbommIHE",
+  "name": "FOXXXLEAN",
+  "uri": "spotify:artist:05FLQNCtZAHDwWwbommIHE",
+  "followers": {
+    "href": null,
+    "total": 14
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f95e4870c610bd8faa5d6df5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f95e4870c610bd8faa5d6df5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f95e4870c610bd8faa5d6df5",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05FLQNCtZAHDwWwbommIHE"
+  }
+}

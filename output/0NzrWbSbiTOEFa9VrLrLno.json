@@ -1,0 +1,33 @@
+{
+  "id": "0NzrWbSbiTOEFa9VrLrLno",
+  "name": "Sky Bacon",
+  "uri": "spotify:artist:0NzrWbSbiTOEFa9VrLrLno",
+  "followers": {
+    "href": null,
+    "total": 185
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe84f59b38d68b92e43e5d3bf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e84f59b38d68b92e43e5d3bf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e84f59b38d68b92e43e5d3bf",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0NzrWbSbiTOEFa9VrLrLno"
+  }
+}

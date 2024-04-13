@@ -1,0 +1,34 @@
+{
+  "id": "6lLVz46yWq8JmQRkSLOwGc",
+  "name": "SLICE",
+  "uri": "spotify:artist:6lLVz46yWq8JmQRkSLOwGc",
+  "followers": {
+    "href": null,
+    "total": 398
+  },
+  "genres": [
+    "detroit hardcore",
+    "ohio hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe8aadb56a1f9a9a37d979f06",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e8aadb56a1f9a9a37d979f06",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e8aadb56a1f9a9a37d979f06",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6lLVz46yWq8JmQRkSLOwGc"
+  }
+}

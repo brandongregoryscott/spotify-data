@@ -1,0 +1,34 @@
+{
+  "id": "1WmHqBnzUgQG04GEljKVKk",
+  "name": "Fractalize",
+  "uri": "spotify:artist:1WmHqBnzUgQG04GEljKVKk",
+  "followers": {
+    "href": null,
+    "total": 13029
+  },
+  "genres": [
+    "djent",
+    "thall"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273795f7a897eea2b71cd2fc9bc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02795f7a897eea2b71cd2fc9bc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851795f7a897eea2b71cd2fc9bc",
+      "width": 64
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1WmHqBnzUgQG04GEljKVKk"
+  }
+}

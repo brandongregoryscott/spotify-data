@@ -1,0 +1,33 @@
+{
+  "id": "1UHaJEzTxox44wAPvgAuMm",
+  "name": "Discourse",
+  "uri": "spotify:artist:1UHaJEzTxox44wAPvgAuMm",
+  "followers": {
+    "href": null,
+    "total": 1696
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730f69bdae5e8b31e07fe6026c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020f69bdae5e8b31e07fe6026c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510f69bdae5e8b31e07fe6026c",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1UHaJEzTxox44wAPvgAuMm"
+  }
+}

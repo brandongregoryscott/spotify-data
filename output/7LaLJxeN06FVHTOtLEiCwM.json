@@ -1,0 +1,33 @@
+{
+  "id": "7LaLJxeN06FVHTOtLEiCwM",
+  "name": "RECARGA",
+  "uri": "spotify:artist:7LaLJxeN06FVHTOtLEiCwM",
+  "followers": {
+    "href": null,
+    "total": 5426
+  },
+  "genres": [
+    "peruvian punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1144e3a9eca7af98358c2238",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051741144e3a9eca7af98358c2238",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1781144e3a9eca7af98358c2238",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7LaLJxeN06FVHTOtLEiCwM"
+  }
+}

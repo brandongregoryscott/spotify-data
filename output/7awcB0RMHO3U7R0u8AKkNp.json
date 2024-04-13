@@ -1,0 +1,33 @@
+{
+  "id": "7awcB0RMHO3U7R0u8AKkNp",
+  "name": "Revistas",
+  "uri": "spotify:artist:7awcB0RMHO3U7R0u8AKkNp",
+  "followers": {
+    "href": null,
+    "total": 1288
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb00b0cc6f5ca978c90ed6008e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517400b0cc6f5ca978c90ed6008e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17800b0cc6f5ca978c90ed6008e",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7awcB0RMHO3U7R0u8AKkNp"
+  }
+}

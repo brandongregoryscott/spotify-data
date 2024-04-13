@@ -1,0 +1,33 @@
+{
+  "id": "2cMhUFPltUgGMCD5O2KwC8",
+  "name": "Protijed",
+  "uri": "spotify:artist:2cMhUFPltUgGMCD5O2KwC8",
+  "followers": {
+    "href": null,
+    "total": 576
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb58b154b2fd3dd9805c9c149d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517458b154b2fd3dd9805c9c149d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17858b154b2fd3dd9805c9c149d",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2cMhUFPltUgGMCD5O2KwC8"
+  }
+}

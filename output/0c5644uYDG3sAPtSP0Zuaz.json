@@ -1,0 +1,33 @@
+{
+  "id": "0c5644uYDG3sAPtSP0Zuaz",
+  "name": "Morbo",
+  "uri": "spotify:artist:0c5644uYDG3sAPtSP0Zuaz",
+  "followers": {
+    "href": null,
+    "total": 1807
+  },
+  "genres": [
+    "peruvian punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe05e6c2b8a737d23fcdfb8fd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e05e6c2b8a737d23fcdfb8fd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e05e6c2b8a737d23fcdfb8fd",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0c5644uYDG3sAPtSP0Zuaz"
+  }
+}

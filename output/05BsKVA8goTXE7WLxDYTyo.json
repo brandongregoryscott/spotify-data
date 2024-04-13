@@ -1,0 +1,34 @@
+{
+  "id": "05BsKVA8goTXE7WLxDYTyo",
+  "name": "Jordan",
+  "uri": "spotify:artist:05BsKVA8goTXE7WLxDYTyo",
+  "followers": {
+    "href": null,
+    "total": 2753
+  },
+  "genres": [
+    "argentine punk",
+    "latincore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ec80a534d8d3b5344fa89e70",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ec80a534d8d3b5344fa89e70",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ec80a534d8d3b5344fa89e70",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05BsKVA8goTXE7WLxDYTyo"
+  }
+}

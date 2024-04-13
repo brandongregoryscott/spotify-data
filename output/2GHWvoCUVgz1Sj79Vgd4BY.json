@@ -1,0 +1,33 @@
+{
+  "id": "2GHWvoCUVgz1Sj79Vgd4BY",
+  "name": "LILLiA",
+  "uri": "spotify:artist:2GHWvoCUVgz1Sj79Vgd4BY",
+  "followers": {
+    "href": null,
+    "total": 225
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb43c6a549a629f27e5ec81fd4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517443c6a549a629f27e5ec81fd4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17843c6a549a629f27e5ec81fd4",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2GHWvoCUVgz1Sj79Vgd4BY"
+  }
+}

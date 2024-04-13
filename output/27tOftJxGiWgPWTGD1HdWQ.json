@@ -1,0 +1,33 @@
+{
+  "id": "27tOftJxGiWgPWTGD1HdWQ",
+  "name": "Gigan",
+  "uri": "spotify:artist:27tOftJxGiWgPWTGD1HdWQ",
+  "followers": {
+    "href": null,
+    "total": 266
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734a7ca41b75c08b7921c485a8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024a7ca41b75c08b7921c485a8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514a7ca41b75c08b7921c485a8",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/27tOftJxGiWgPWTGD1HdWQ"
+  }
+}

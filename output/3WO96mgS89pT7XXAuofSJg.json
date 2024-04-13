@@ -1,0 +1,33 @@
+{
+  "id": "3WO96mgS89pT7XXAuofSJg",
+  "name": "Autopista Sur",
+  "uri": "spotify:artist:3WO96mgS89pT7XXAuofSJg",
+  "followers": {
+    "href": null,
+    "total": 218
+  },
+  "genres": [
+    "venezuelan rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d019ceefb45ba21c5dd6c08e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d019ceefb45ba21c5dd6c08e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d019ceefb45ba21c5dd6c08e",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3WO96mgS89pT7XXAuofSJg"
+  }
+}

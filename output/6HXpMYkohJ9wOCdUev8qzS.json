@@ -1,0 +1,33 @@
+{
+  "id": "6HXpMYkohJ9wOCdUev8qzS",
+  "name": "Vatic",
+  "uri": "spotify:artist:6HXpMYkohJ9wOCdUev8qzS",
+  "followers": {
+    "href": null,
+    "total": 3354
+  },
+  "genres": [
+    "australian metalcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba0569f8ae2c27c9b07001ac5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a0569f8ae2c27c9b07001ac5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a0569f8ae2c27c9b07001ac5",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6HXpMYkohJ9wOCdUev8qzS"
+  }
+}

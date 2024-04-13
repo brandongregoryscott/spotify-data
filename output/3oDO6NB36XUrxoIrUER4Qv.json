@@ -1,0 +1,34 @@
+{
+  "id": "3oDO6NB36XUrxoIrUER4Qv",
+  "name": "Falsabandera",
+  "uri": "spotify:artist:3oDO6NB36XUrxoIrUER4Qv",
+  "followers": {
+    "href": null,
+    "total": 511
+  },
+  "genres": [
+    "punk chileno",
+    "punk melodico chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb383e92625bec273630a40487",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174383e92625bec273630a40487",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178383e92625bec273630a40487",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3oDO6NB36XUrxoIrUER4Qv"
+  }
+}

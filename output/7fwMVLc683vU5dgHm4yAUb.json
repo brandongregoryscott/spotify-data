@@ -1,0 +1,33 @@
+{
+  "id": "7fwMVLc683vU5dgHm4yAUb",
+  "name": "Inzulto",
+  "uri": "spotify:artist:7fwMVLc683vU5dgHm4yAUb",
+  "followers": {
+    "href": null,
+    "total": 102
+  },
+  "genres": [
+    "punk chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd75bfb1f22e71cf88d1c60b9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d75bfb1f22e71cf88d1c60b9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d75bfb1f22e71cf88d1c60b9",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7fwMVLc683vU5dgHm4yAUb"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "01a5Ib0fEpAZyENthYcs4O",
+  "name": "Sinchlair",
+  "uri": "spotify:artist:01a5Ib0fEpAZyENthYcs4O",
+  "followers": {
+    "href": null,
+    "total": 400
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba616193e43fda471126d83a5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a616193e43fda471126d83a5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a616193e43fda471126d83a5",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01a5Ib0fEpAZyENthYcs4O"
+  }
+}

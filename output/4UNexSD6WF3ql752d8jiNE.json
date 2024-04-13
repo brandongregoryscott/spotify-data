@@ -1,0 +1,33 @@
+{
+  "id": "4UNexSD6WF3ql752d8jiNE",
+  "name": "CRAS",
+  "uri": "spotify:artist:4UNexSD6WF3ql752d8jiNE",
+  "followers": {
+    "href": null,
+    "total": 524
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733ca7c00cda775bb745afea84",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023ca7c00cda775bb745afea84",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513ca7c00cda775bb745afea84",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4UNexSD6WF3ql752d8jiNE"
+  }
+}

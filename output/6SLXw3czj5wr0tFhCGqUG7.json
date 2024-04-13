@@ -1,0 +1,36 @@
+{
+  "id": "6SLXw3czj5wr0tFhCGqUG7",
+  "name": "Bonzo",
+  "uri": "spotify:artist:6SLXw3czj5wr0tFhCGqUG7",
+  "followers": {
+    "href": null,
+    "total": 4656
+  },
+  "genres": [
+    "chilean metal",
+    "chilean rock",
+    "punk chileno",
+    "punk melodico chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cd28f53df545fd9861414f36",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cd28f53df545fd9861414f36",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cd28f53df545fd9861414f36",
+      "width": 64
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6SLXw3czj5wr0tFhCGqUG7"
+  }
+}

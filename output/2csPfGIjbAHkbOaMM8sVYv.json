@@ -1,0 +1,33 @@
+{
+  "id": "2csPfGIjbAHkbOaMM8sVYv",
+  "name": "REIKORAR",
+  "uri": "spotify:artist:2csPfGIjbAHkbOaMM8sVYv",
+  "followers": {
+    "href": null,
+    "total": 75
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb87de624cd0505ccdeeae18a9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517487de624cd0505ccdeeae18a9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17887de624cd0505ccdeeae18a9",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2csPfGIjbAHkbOaMM8sVYv"
+  }
+}

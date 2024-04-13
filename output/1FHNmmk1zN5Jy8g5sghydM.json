@@ -1,0 +1,33 @@
+{
+  "id": "1FHNmmk1zN5Jy8g5sghydM",
+  "name": "Maquina Machine",
+  "uri": "spotify:artist:1FHNmmk1zN5Jy8g5sghydM",
+  "followers": {
+    "href": null,
+    "total": 169
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb14cba0e50f98611ca9d865bb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517414cba0e50f98611ca9d865bb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17814cba0e50f98611ca9d865bb",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1FHNmmk1zN5Jy8g5sghydM"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "1ZRSDwlo8jbZMOuvTL087E",
+  "name": "Horned",
+  "uri": "spotify:artist:1ZRSDwlo8jbZMOuvTL087E",
+  "followers": {
+    "href": null,
+    "total": 4780
+  },
+  "genres": [
+    "beatdown",
+    "french hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf67c65859dcd97c7d2fad059",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f67c65859dcd97c7d2fad059",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f67c65859dcd97c7d2fad059",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ZRSDwlo8jbZMOuvTL087E"
+  }
+}

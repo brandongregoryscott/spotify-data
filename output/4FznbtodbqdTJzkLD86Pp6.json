@@ -1,0 +1,33 @@
+{
+  "id": "4FznbtodbqdTJzkLD86Pp6",
+  "name": "Inoible",
+  "uri": "spotify:artist:4FznbtodbqdTJzkLD86Pp6",
+  "followers": {
+    "href": null,
+    "total": 133
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd2e9a937668b325ed8054055",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d2e9a937668b325ed8054055",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d2e9a937668b325ed8054055",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4FznbtodbqdTJzkLD86Pp6"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5jugCl2MTp1IK74Vy5Wddh",
+  "name": "Learning Curve",
+  "uri": "spotify:artist:5jugCl2MTp1IK74Vy5Wddh",
+  "followers": {
+    "href": null,
+    "total": 209
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdc91ae7f7b5f29d10ca07840",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dc91ae7f7b5f29d10ca07840",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dc91ae7f7b5f29d10ca07840",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5jugCl2MTp1IK74Vy5Wddh"
+  }
+}

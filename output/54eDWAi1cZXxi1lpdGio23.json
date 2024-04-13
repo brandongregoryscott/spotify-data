@@ -1,0 +1,33 @@
+{
+  "id": "54eDWAi1cZXxi1lpdGio23",
+  "name": "Los Piggy",
+  "uri": "spotify:artist:54eDWAi1cZXxi1lpdGio23",
+  "followers": {
+    "href": null,
+    "total": 119
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb28f195df3015077cdcbf057f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517428f195df3015077cdcbf057f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17828f195df3015077cdcbf057f",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/54eDWAi1cZXxi1lpdGio23"
+  }
+}

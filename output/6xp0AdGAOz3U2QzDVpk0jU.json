@@ -1,0 +1,33 @@
+{
+  "id": "6xp0AdGAOz3U2QzDVpk0jU",
+  "name": "380",
+  "uri": "spotify:artist:6xp0AdGAOz3U2QzDVpk0jU",
+  "followers": {
+    "href": null,
+    "total": 5418
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe5e89f667b691c313ae4eca4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e5e89f667b691c313ae4eca4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e5e89f667b691c313ae4eca4",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6xp0AdGAOz3U2QzDVpk0jU"
+  }
+}

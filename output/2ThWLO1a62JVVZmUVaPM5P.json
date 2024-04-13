@@ -1,0 +1,33 @@
+{
+  "id": "2ThWLO1a62JVVZmUVaPM5P",
+  "name": "Franuli",
+  "uri": "spotify:artist:2ThWLO1a62JVVZmUVaPM5P",
+  "followers": {
+    "href": null,
+    "total": 227
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb2200af5abd5b313d52c9c2c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b2200af5abd5b313d52c9c2c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b2200af5abd5b313d52c9c2c",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ThWLO1a62JVVZmUVaPM5P"
+  }
+}

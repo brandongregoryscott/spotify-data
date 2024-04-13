@@ -1,0 +1,33 @@
+{
+  "id": "6qq8VHPNHYNr4gonpn3R2H",
+  "name": "Dysmorphia",
+  "uri": "spotify:artist:6qq8VHPNHYNr4gonpn3R2H",
+  "followers": {
+    "href": null,
+    "total": 516
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb859c80990ec0eacc49d72fb3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174859c80990ec0eacc49d72fb3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178859c80990ec0eacc49d72fb3",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6qq8VHPNHYNr4gonpn3R2H"
+  }
+}

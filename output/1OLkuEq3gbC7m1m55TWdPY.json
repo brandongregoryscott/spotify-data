@@ -1,0 +1,33 @@
+{
+  "id": "1OLkuEq3gbC7m1m55TWdPY",
+  "name": "Incentive",
+  "uri": "spotify:artist:1OLkuEq3gbC7m1m55TWdPY",
+  "followers": {
+    "href": null,
+    "total": 410
+  },
+  "genres": [
+    "arizona punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9966e5827a8b2a509be23320",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051749966e5827a8b2a509be23320",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1789966e5827a8b2a509be23320",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1OLkuEq3gbC7m1m55TWdPY"
+  }
+}

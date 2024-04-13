@@ -1,0 +1,33 @@
+{
+  "id": "2caaLhxVxlELPUOEI9TrcL",
+  "name": "2AT",
+  "uri": "spotify:artist:2caaLhxVxlELPUOEI9TrcL",
+  "followers": {
+    "href": null,
+    "total": 816
+  },
+  "genres": [
+    "latin tek"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc73b0b622c5ac43d5a027e05",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c73b0b622c5ac43d5a027e05",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c73b0b622c5ac43d5a027e05",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2caaLhxVxlELPUOEI9TrcL"
+  }
+}

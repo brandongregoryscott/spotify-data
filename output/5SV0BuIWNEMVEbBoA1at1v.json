@@ -1,0 +1,33 @@
+{
+  "id": "5SV0BuIWNEMVEbBoA1at1v",
+  "name": "Yatu",
+  "uri": "spotify:artist:5SV0BuIWNEMVEbBoA1at1v",
+  "followers": {
+    "href": null,
+    "total": 1574
+  },
+  "genres": [
+    "venezuelan rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b0416cf59097f27874c79bea",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b0416cf59097f27874c79bea",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b0416cf59097f27874c79bea",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5SV0BuIWNEMVEbBoA1at1v"
+  }
+}

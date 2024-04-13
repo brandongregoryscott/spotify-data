@@ -1,0 +1,33 @@
+{
+  "id": "6WUaa8ZbU8pcG17MtFZRu3",
+  "name": "Dharma",
+  "uri": "spotify:artist:6WUaa8ZbU8pcG17MtFZRu3",
+  "followers": {
+    "href": null,
+    "total": 134
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb38a6b112c3a828d5e528cccd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517438a6b112c3a828d5e528cccd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17838a6b112c3a828d5e528cccd",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6WUaa8ZbU8pcG17MtFZRu3"
+  }
+}

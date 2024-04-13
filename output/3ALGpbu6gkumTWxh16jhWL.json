@@ -1,0 +1,33 @@
+{
+  "id": "3ALGpbu6gkumTWxh16jhWL",
+  "name": "Juan Diego Soto",
+  "uri": "spotify:artist:3ALGpbu6gkumTWxh16jhWL",
+  "followers": {
+    "href": null,
+    "total": 117
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc5e3fc849fa2a1604b540374",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c5e3fc849fa2a1604b540374",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c5e3fc849fa2a1604b540374",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ALGpbu6gkumTWxh16jhWL"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4qPmWCw7m8lR3zfikZGMvE",
+  "name": "Fantom Limb",
+  "uri": "spotify:artist:4qPmWCw7m8lR3zfikZGMvE",
+  "followers": {
+    "href": null,
+    "total": 200
+  },
+  "genres": [
+    "mathcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdce89412450de0b5c61c87fc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dce89412450de0b5c61c87fc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dce89412450de0b5c61c87fc",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4qPmWCw7m8lR3zfikZGMvE"
+  }
+}

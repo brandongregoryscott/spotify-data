@@ -1,0 +1,33 @@
+{
+  "id": "3bls1CmQ3fqcoQ90rcirhv",
+  "name": "Fugadøs",
+  "uri": "spotify:artist:3bls1CmQ3fqcoQ90rcirhv",
+  "followers": {
+    "href": null,
+    "total": 481
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb51e130ccaa1f0789057c7cdb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517451e130ccaa1f0789057c7cdb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17851e130ccaa1f0789057c7cdb",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3bls1CmQ3fqcoQ90rcirhv"
+  }
+}

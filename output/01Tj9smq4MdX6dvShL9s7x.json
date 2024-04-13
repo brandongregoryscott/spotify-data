@@ -1,0 +1,33 @@
+{
+  "id": "01Tj9smq4MdX6dvShL9s7x",
+  "name": "Oceanica",
+  "uri": "spotify:artist:01Tj9smq4MdX6dvShL9s7x",
+  "followers": {
+    "href": null,
+    "total": 119
+  },
+  "genres": [
+    "shoegaze chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebabb2b28fc0e08787773f8fc9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174abb2b28fc0e08787773f8fc9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178abb2b28fc0e08787773f8fc9",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01Tj9smq4MdX6dvShL9s7x"
+  }
+}

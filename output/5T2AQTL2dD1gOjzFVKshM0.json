@@ -1,0 +1,33 @@
+{
+  "id": "5T2AQTL2dD1gOjzFVKshM0",
+  "name": "Safo",
+  "uri": "spotify:artist:5T2AQTL2dD1gOjzFVKshM0",
+  "followers": {
+    "href": null,
+    "total": 720
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb02480d417397c7cb323a4a15",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517402480d417397c7cb323a4a15",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17802480d417397c7cb323a4a15",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5T2AQTL2dD1gOjzFVKshM0"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1vO0lm2YXW6qUJkGHsLAZ1",
+  "name": "Máze",
+  "uri": "spotify:artist:1vO0lm2YXW6qUJkGHsLAZ1",
+  "followers": {
+    "href": null,
+    "total": 913
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba946f2703b9d5e72f7f62680",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a946f2703b9d5e72f7f62680",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a946f2703b9d5e72f7f62680",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1vO0lm2YXW6qUJkGHsLAZ1"
+  }
+}

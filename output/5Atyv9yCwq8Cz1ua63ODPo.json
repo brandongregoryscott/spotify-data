@@ -1,0 +1,33 @@
+{
+  "id": "5Atyv9yCwq8Cz1ua63ODPo",
+  "name": "Tooth",
+  "uri": "spotify:artist:5Atyv9yCwq8Cz1ua63ODPo",
+  "followers": {
+    "href": null,
+    "total": 708
+  },
+  "genres": [
+    "euskal musica"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb07a6c422accdc45335d36488",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517407a6c422accdc45335d36488",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17807a6c422accdc45335d36488",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Atyv9yCwq8Cz1ua63ODPo"
+  }
+}

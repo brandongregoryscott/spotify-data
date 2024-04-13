@@ -1,0 +1,33 @@
+{
+  "id": "1Ypa30VlBTUa09g6nLlzsK",
+  "name": "Granujas",
+  "uri": "spotify:artist:1Ypa30VlBTUa09g6nLlzsK",
+  "followers": {
+    "href": null,
+    "total": 200
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb16ad58c538255f9445d98c78",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517416ad58c538255f9445d98c78",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17816ad58c538255f9445d98c78",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Ypa30VlBTUa09g6nLlzsK"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5dfB8okcJRsAoU0zlylZrm",
+  "name": "Alleviate",
+  "uri": "spotify:artist:5dfB8okcJRsAoU0zlylZrm",
+  "followers": {
+    "href": null,
+    "total": 10133
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb89a3570599f0cf21657821fc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517489a3570599f0cf21657821fc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17889a3570599f0cf21657821fc",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5dfB8okcJRsAoU0zlylZrm"
+  }
+}

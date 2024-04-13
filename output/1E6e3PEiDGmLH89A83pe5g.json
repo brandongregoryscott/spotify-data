@@ -1,0 +1,33 @@
+{
+  "id": "1E6e3PEiDGmLH89A83pe5g",
+  "name": "Inertia",
+  "uri": "spotify:artist:1E6e3PEiDGmLH89A83pe5g",
+  "followers": {
+    "href": null,
+    "total": 7537
+  },
+  "genres": [
+    "australian metalcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb76d54ed9404cbc39b714e002",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517476d54ed9404cbc39b714e002",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17876d54ed9404cbc39b714e002",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1E6e3PEiDGmLH89A83pe5g"
+  }
+}

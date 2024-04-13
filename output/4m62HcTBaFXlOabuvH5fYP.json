@@ -1,0 +1,33 @@
+{
+  "id": "4m62HcTBaFXlOabuvH5fYP",
+  "name": "Inner Self",
+  "uri": "spotify:artist:4m62HcTBaFXlOabuvH5fYP",
+  "followers": {
+    "href": null,
+    "total": 1158
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebae4cf1f9d72f9c1c863d7ae2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ae4cf1f9d72f9c1c863d7ae2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ae4cf1f9d72f9c1c863d7ae2",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4m62HcTBaFXlOabuvH5fYP"
+  }
+}

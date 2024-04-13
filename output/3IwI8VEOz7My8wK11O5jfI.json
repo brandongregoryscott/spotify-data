@@ -1,0 +1,33 @@
+{
+  "id": "3IwI8VEOz7My8wK11O5jfI",
+  "name": "VANTAs",
+  "uri": "spotify:artist:3IwI8VEOz7My8wK11O5jfI",
+  "followers": {
+    "href": null,
+    "total": 267
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb81c44ae8867f32db6466e84c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517481c44ae8867f32db6466e84c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17881c44ae8867f32db6466e84c",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3IwI8VEOz7My8wK11O5jfI"
+  }
+}

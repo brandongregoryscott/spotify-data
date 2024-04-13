@@ -1,0 +1,33 @@
+{
+  "id": "5KK21MbMGuwW4Edgt2xlHy",
+  "name": "Panorama",
+  "uri": "spotify:artist:5KK21MbMGuwW4Edgt2xlHy",
+  "followers": {
+    "href": null,
+    "total": 456
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe603889c45017e18f4739c35",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e603889c45017e18f4739c35",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e603889c45017e18f4739c35",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5KK21MbMGuwW4Edgt2xlHy"
+  }
+}

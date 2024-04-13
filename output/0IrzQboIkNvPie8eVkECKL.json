@@ -1,0 +1,34 @@
+{
+  "id": "0IrzQboIkNvPie8eVkECKL",
+  "name": "Asmereir",
+  "uri": "spotify:artist:0IrzQboIkNvPie8eVkECKL",
+  "followers": {
+    "href": null,
+    "total": 9606
+  },
+  "genres": [
+    "peruvian punk",
+    "peruvian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f0979e1042b0c3e2fdd03ff3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f0979e1042b0c3e2fdd03ff3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f0979e1042b0c3e2fdd03ff3",
+      "width": 64
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0IrzQboIkNvPie8eVkECKL"
+  }
+}

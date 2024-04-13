@@ -1,0 +1,34 @@
+{
+  "id": "6ljAborhqO5OHpQH4cViqM",
+  "name": "Eskoria Humana",
+  "uri": "spotify:artist:6ljAborhqO5OHpQH4cViqM",
+  "followers": {
+    "href": null,
+    "total": 373
+  },
+  "genres": [
+    "punk chileno",
+    "punk melodico chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc92052b217e4cf33fd0519c7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c92052b217e4cf33fd0519c7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c92052b217e4cf33fd0519c7",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ljAborhqO5OHpQH4cViqM"
+  }
+}

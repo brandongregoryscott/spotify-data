@@ -1,0 +1,33 @@
+{
+  "id": "6378D0l6m32RVmM1Khvqca",
+  "name": "Getting Even",
+  "uri": "spotify:artist:6378D0l6m32RVmM1Khvqca",
+  "followers": {
+    "href": null,
+    "total": 315
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd29fc812725941ad14a67933",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d29fc812725941ad14a67933",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d29fc812725941ad14a67933",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6378D0l6m32RVmM1Khvqca"
+  }
+}

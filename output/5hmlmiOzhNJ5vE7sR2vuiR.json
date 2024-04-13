@@ -1,0 +1,34 @@
+{
+  "id": "5hmlmiOzhNJ5vE7sR2vuiR",
+  "name": "Tuoni",
+  "uri": "spotify:artist:5hmlmiOzhNJ5vE7sR2vuiR",
+  "followers": {
+    "href": null,
+    "total": 3475
+  },
+  "genres": [
+    "finnish metal",
+    "finnish metalcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27320db655700cf8acf14cfb533",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0220db655700cf8acf14cfb533",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485120db655700cf8acf14cfb533",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5hmlmiOzhNJ5vE7sR2vuiR"
+  }
+}

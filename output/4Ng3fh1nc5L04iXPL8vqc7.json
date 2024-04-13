@@ -1,0 +1,33 @@
+{
+  "id": "4Ng3fh1nc5L04iXPL8vqc7",
+  "name": "Best",
+  "uri": "spotify:artist:4Ng3fh1nc5L04iXPL8vqc7",
+  "followers": {
+    "href": null,
+    "total": 22488
+  },
+  "genres": [
+    "drill chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe31cffbdc8df4e0b966c00b0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e31cffbdc8df4e0b966c00b0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e31cffbdc8df4e0b966c00b0",
+      "width": 160
+    }
+  ],
+  "popularity": 64,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7"
+  }
+}

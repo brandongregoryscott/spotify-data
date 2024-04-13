@@ -1,0 +1,33 @@
+{
+  "id": "3xe1fd5uyPEOhXky8O6xxC",
+  "name": "Juan One",
+  "uri": "spotify:artist:3xe1fd5uyPEOhXky8O6xxC",
+  "followers": {
+    "href": null,
+    "total": 237
+  },
+  "genres": [
+    "detroit trap en espanol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbab9bcafc82b2c5146f72183",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bab9bcafc82b2c5146f72183",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bab9bcafc82b2c5146f72183",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3xe1fd5uyPEOhXky8O6xxC"
+  }
+}

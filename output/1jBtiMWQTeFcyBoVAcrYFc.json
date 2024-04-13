@@ -1,0 +1,35 @@
+{
+  "id": "1jBtiMWQTeFcyBoVAcrYFc",
+  "name": "The Mire",
+  "uri": "spotify:artist:1jBtiMWQTeFcyBoVAcrYFc",
+  "followers": {
+    "href": null,
+    "total": 5237
+  },
+  "genres": [
+    "atmospheric post-metal",
+    "post-metal",
+    "uk post-metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739732a30c49062b64facb354d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029732a30c49062b64facb354d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519732a30c49062b64facb354d",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1jBtiMWQTeFcyBoVAcrYFc"
+  }
+}

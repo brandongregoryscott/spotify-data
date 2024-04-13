@@ -1,0 +1,33 @@
+{
+  "id": "2DQzm23U8P7L8nqmizJeLJ",
+  "name": "Backslide",
+  "uri": "spotify:artist:2DQzm23U8P7L8nqmizJeLJ",
+  "followers": {
+    "href": null,
+    "total": 1765
+  },
+  "genres": [
+    "atlanta metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb06161ac0940a569ef89b0b0d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517406161ac0940a569ef89b0b0d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17806161ac0940a569ef89b0b0d",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2DQzm23U8P7L8nqmizJeLJ"
+  }
+}

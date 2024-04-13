@@ -1,0 +1,33 @@
+{
+  "id": "5Bm9VWfVNAyZNQyAEsIAzn",
+  "name": "maket",
+  "uri": "spotify:artist:5Bm9VWfVNAyZNQyAEsIAzn",
+  "followers": {
+    "href": null,
+    "total": 589
+  },
+  "genres": [
+    "russian indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb01e733fd67c8a4b9d27c54c1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517401e733fd67c8a4b9d27c54c1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17801e733fd67c8a4b9d27c54c1",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Bm9VWfVNAyZNQyAEsIAzn"
+  }
+}

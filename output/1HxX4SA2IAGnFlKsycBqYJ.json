@@ -1,0 +1,33 @@
+{
+  "id": "1HxX4SA2IAGnFlKsycBqYJ",
+  "name": "Sunspear",
+  "uri": "spotify:artist:1HxX4SA2IAGnFlKsycBqYJ",
+  "followers": {
+    "href": null,
+    "total": 2939
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebab16d2c4fafc2412e82a3619",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ab16d2c4fafc2412e82a3619",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ab16d2c4fafc2412e82a3619",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1HxX4SA2IAGnFlKsycBqYJ"
+  }
+}

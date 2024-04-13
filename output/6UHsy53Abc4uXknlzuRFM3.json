@@ -1,0 +1,33 @@
+{
+  "id": "6UHsy53Abc4uXknlzuRFM3",
+  "name": "Adrien Gonzales",
+  "uri": "spotify:artist:6UHsy53Abc4uXknlzuRFM3",
+  "followers": {
+    "href": null,
+    "total": 395
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb620bb20273e25d232fc5af9a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174620bb20273e25d232fc5af9a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178620bb20273e25d232fc5af9a",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6UHsy53Abc4uXknlzuRFM3"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5ZPkreXWNbVBdlLwqoCaU4",
+  "name": "Stampede",
+  "uri": "spotify:artist:5ZPkreXWNbVBdlLwqoCaU4",
+  "followers": {
+    "href": null,
+    "total": 155
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f5543f4c3610082ca7e670bf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f5543f4c3610082ca7e670bf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f5543f4c3610082ca7e670bf",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ZPkreXWNbVBdlLwqoCaU4"
+  }
+}

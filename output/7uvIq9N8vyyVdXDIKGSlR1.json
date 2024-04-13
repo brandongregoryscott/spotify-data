@@ -1,0 +1,33 @@
+{
+  "id": "7uvIq9N8vyyVdXDIKGSlR1",
+  "name": "Lo!",
+  "uri": "spotify:artist:7uvIq9N8vyyVdXDIKGSlR1",
+  "followers": {
+    "href": null,
+    "total": 5648
+  },
+  "genres": [
+    "australian metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb494b8631aa3928487a8375c6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174494b8631aa3928487a8375c6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178494b8631aa3928487a8375c6",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7uvIq9N8vyyVdXDIKGSlR1"
+  }
+}

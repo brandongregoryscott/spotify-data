@@ -1,0 +1,33 @@
+{
+  "id": "7zaEBCGJZBZvCWS74HlOJu",
+  "name": "Lucky Feeling",
+  "uri": "spotify:artist:7zaEBCGJZBZvCWS74HlOJu",
+  "followers": {
+    "href": null,
+    "total": 111
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb11949a9fd64c5ff41fab04e9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517411949a9fd64c5ff41fab04e9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17811949a9fd64c5ff41fab04e9",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7zaEBCGJZBZvCWS74HlOJu"
+  }
+}

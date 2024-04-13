@@ -1,0 +1,33 @@
+{
+  "id": "2KVCvDrs43AuNRhm2A1YVI",
+  "name": "Centaurea",
+  "uri": "spotify:artist:2KVCvDrs43AuNRhm2A1YVI",
+  "followers": {
+    "href": null,
+    "total": 145
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd78b979e2d0c71641e864cc9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d78b979e2d0c71641e864cc9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d78b979e2d0c71641e864cc9",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2KVCvDrs43AuNRhm2A1YVI"
+  }
+}

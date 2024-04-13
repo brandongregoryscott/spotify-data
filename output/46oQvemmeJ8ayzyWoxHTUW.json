@@ -1,0 +1,34 @@
+{
+  "id": "46oQvemmeJ8ayzyWoxHTUW",
+  "name": "Hielo Negro",
+  "uri": "spotify:artist:46oQvemmeJ8ayzyWoxHTUW",
+  "followers": {
+    "href": null,
+    "total": 8629
+  },
+  "genres": [
+    "chilean rock",
+    "punk chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c9d7f0bf9e180cf68f4d4186",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c9d7f0bf9e180cf68f4d4186",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c9d7f0bf9e180cf68f4d4186",
+      "width": 64
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/46oQvemmeJ8ayzyWoxHTUW"
+  }
+}

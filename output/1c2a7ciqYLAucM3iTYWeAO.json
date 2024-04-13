@@ -1,0 +1,33 @@
+{
+  "id": "1c2a7ciqYLAucM3iTYWeAO",
+  "name": "Inarbolece",
+  "uri": "spotify:artist:1c2a7ciqYLAucM3iTYWeAO",
+  "followers": {
+    "href": null,
+    "total": 382
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc47b83207fc1e70682fad3c7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c47b83207fc1e70682fad3c7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c47b83207fc1e70682fad3c7",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1c2a7ciqYLAucM3iTYWeAO"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5YBVpLCaXesrFq8baXP2Qq",
+  "name": "Naara García",
+  "uri": "spotify:artist:5YBVpLCaXesrFq8baXP2Qq",
+  "followers": {
+    "href": null,
+    "total": 531
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb2c5fd58e2cd2f14d2b4bbde4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051742c5fd58e2cd2f14d2b4bbde4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1782c5fd58e2cd2f14d2b4bbde4",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5YBVpLCaXesrFq8baXP2Qq"
+  }
+}

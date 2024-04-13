@@ -1,0 +1,33 @@
+{
+  "id": "7ppbjBllcy7IGYrXpJYIxU",
+  "name": "Benjvmin",
+  "uri": "spotify:artist:7ppbjBllcy7IGYrXpJYIxU",
+  "followers": {
+    "href": null,
+    "total": 370
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb525e188c7cd2066343984a07",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174525e188c7cd2066343984a07",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178525e188c7cd2066343984a07",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ppbjBllcy7IGYrXpJYIxU"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "5gs7iemsrjIJbz0ryFcy79",
+  "name": "La Vida Bohème",
+  "uri": "spotify:artist:5gs7iemsrjIJbz0ryFcy79",
+  "followers": {
+    "href": null,
+    "total": 98853
+  },
+  "genres": [
+    "caracas indie",
+    "venezuelan indie",
+    "venezuelan rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb74b1f8e7b52dc8f6970d36de",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517474b1f8e7b52dc8f6970d36de",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17874b1f8e7b52dc8f6970d36de",
+      "width": 160
+    }
+  ],
+  "popularity": 47,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79"
+  }
+}

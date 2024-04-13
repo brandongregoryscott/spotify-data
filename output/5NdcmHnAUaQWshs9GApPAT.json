@@ -1,0 +1,35 @@
+{
+  "id": "5NdcmHnAUaQWshs9GApPAT",
+  "name": "Facewreck",
+  "uri": "spotify:artist:5NdcmHnAUaQWshs9GApPAT",
+  "followers": {
+    "href": null,
+    "total": 3753
+  },
+  "genres": [
+    "beatdown",
+    "metallic hardcore",
+    "pennsylvania hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbdf5cf50c2c937c6ffbabc81",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bdf5cf50c2c937c6ffbabc81",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bdf5cf50c2c937c6ffbabc81",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5NdcmHnAUaQWshs9GApPAT"
+  }
+}

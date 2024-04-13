@@ -1,0 +1,33 @@
+{
+  "id": "0bjSktuHQZ5JqthhDqo3a2",
+  "name": "БАКУРЛИ",
+  "uri": "spotify:artist:0bjSktuHQZ5JqthhDqo3a2",
+  "followers": {
+    "href": null,
+    "total": 335
+  },
+  "genres": [
+    "russian punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c476e519a49ceaa966198d64",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c476e519a49ceaa966198d64",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851699b6ba3a174f113897842ba",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0bjSktuHQZ5JqthhDqo3a2"
+  }
+}

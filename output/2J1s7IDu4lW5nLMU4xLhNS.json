@@ -1,0 +1,33 @@
+{
+  "id": "2J1s7IDu4lW5nLMU4xLhNS",
+  "name": "The Abstract Space",
+  "uri": "spotify:artist:2J1s7IDu4lW5nLMU4xLhNS",
+  "followers": {
+    "href": null,
+    "total": 215
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebded4f0ef146818b30723d8e4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ded4f0ef146818b30723d8e4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ded4f0ef146818b30723d8e4",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2J1s7IDu4lW5nLMU4xLhNS"
+  }
+}

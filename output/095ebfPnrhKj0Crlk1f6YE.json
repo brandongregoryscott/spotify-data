@@ -1,0 +1,33 @@
+{
+  "id": "095ebfPnrhKj0Crlk1f6YE",
+  "name": "Belk",
+  "uri": "spotify:artist:095ebfPnrhKj0Crlk1f6YE",
+  "followers": {
+    "href": null,
+    "total": 237
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebada0972634f37701bfeb167a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ada0972634f37701bfeb167a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ada0972634f37701bfeb167a",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/095ebfPnrhKj0Crlk1f6YE"
+  }
+}

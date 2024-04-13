@@ -1,0 +1,33 @@
+{
+  "id": "35iAdp3TrZPJT5UCv9bq7V",
+  "name": "dead7",
+  "uri": "spotify:artist:35iAdp3TrZPJT5UCv9bq7V",
+  "followers": {
+    "href": null,
+    "total": 3453
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb06bc656a5bb2b20c574bc7dc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517406bc656a5bb2b20c574bc7dc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17806bc656a5bb2b20c574bc7dc",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/35iAdp3TrZPJT5UCv9bq7V"
+  }
+}

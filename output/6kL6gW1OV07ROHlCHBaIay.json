@@ -1,0 +1,33 @@
+{
+  "id": "6kL6gW1OV07ROHlCHBaIay",
+  "name": "Luis Baumann",
+  "uri": "spotify:artist:6kL6gW1OV07ROHlCHBaIay",
+  "followers": {
+    "href": null,
+    "total": 407
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbd768ec9980af2f0d3e9a2ed",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bd768ec9980af2f0d3e9a2ed",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bd768ec9980af2f0d3e9a2ed",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6kL6gW1OV07ROHlCHBaIay"
+  }
+}

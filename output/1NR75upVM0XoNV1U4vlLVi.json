@@ -1,0 +1,33 @@
+{
+  "id": "1NR75upVM0XoNV1U4vlLVi",
+  "name": "Care Package",
+  "uri": "spotify:artist:1NR75upVM0XoNV1U4vlLVi",
+  "followers": {
+    "href": null,
+    "total": 173
+  },
+  "genres": [
+    "pittsburgh indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba7412741834be8b62cd06127",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a7412741834be8b62cd06127",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a7412741834be8b62cd06127",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1NR75upVM0XoNV1U4vlLVi"
+  }
+}

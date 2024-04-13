@@ -1,0 +1,33 @@
+{
+  "id": "5o1BN92ZEG8TucPzj6czCh",
+  "name": "Knosis",
+  "uri": "spotify:artist:5o1BN92ZEG8TucPzj6czCh",
+  "followers": {
+    "href": null,
+    "total": 21831
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb205b332da9f4c9ea126473ef",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174205b332da9f4c9ea126473ef",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178205b332da9f4c9ea126473ef",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh"
+  }
+}

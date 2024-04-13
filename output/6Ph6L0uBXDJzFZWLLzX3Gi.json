@@ -1,0 +1,33 @@
+{
+  "id": "6Ph6L0uBXDJzFZWLLzX3Gi",
+  "name": "La Georgie Boy",
+  "uri": "spotify:artist:6Ph6L0uBXDJzFZWLLzX3Gi",
+  "followers": {
+    "href": null,
+    "total": 195
+  },
+  "genres": [
+    "punk chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb51aaf9a54adf4dc3c836bc1b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517451aaf9a54adf4dc3c836bc1b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17851aaf9a54adf4dc3c836bc1b",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Ph6L0uBXDJzFZWLLzX3Gi"
+  }
+}

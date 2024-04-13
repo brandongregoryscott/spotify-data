@@ -1,0 +1,33 @@
+{
+  "id": "67jSCTJJZ1A06Fr4IXqFy0",
+  "name": "Mordox",
+  "uri": "spotify:artist:67jSCTJJZ1A06Fr4IXqFy0",
+  "followers": {
+    "href": null,
+    "total": 1663
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb06436cc6bcd5daa5c37c7d2a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517406436cc6bcd5daa5c37c7d2a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17806436cc6bcd5daa5c37c7d2a",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/67jSCTJJZ1A06Fr4IXqFy0"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2A13mQEfuWwPFQUA5RguH3",
+  "name": "Alhambre",
+  "uri": "spotify:artist:2A13mQEfuWwPFQUA5RguH3",
+  "followers": {
+    "href": null,
+    "total": 1154
+  },
+  "genres": [
+    "peruvian punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738855ca59c658e5e435c172c8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028855ca59c658e5e435c172c8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518855ca59c658e5e435c172c8",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2A13mQEfuWwPFQUA5RguH3"
+  }
+}

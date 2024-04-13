@@ -1,0 +1,33 @@
+{
+  "id": "3QmUsPv7mEJPKmUpfGm3oC",
+  "name": "Synge",
+  "uri": "spotify:artist:3QmUsPv7mEJPKmUpfGm3oC",
+  "followers": {
+    "href": null,
+    "total": 1635
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcdf10a3c372953e3acb3fa36",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cdf10a3c372953e3acb3fa36",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cdf10a3c372953e3acb3fa36",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3QmUsPv7mEJPKmUpfGm3oC"
+  }
+}

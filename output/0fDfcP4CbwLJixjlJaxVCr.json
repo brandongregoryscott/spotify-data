@@ -1,0 +1,35 @@
+{
+  "id": "0fDfcP4CbwLJixjlJaxVCr",
+  "name": "Miguelitos",
+  "uri": "spotify:artist:0fDfcP4CbwLJixjlJaxVCr",
+  "followers": {
+    "href": null,
+    "total": 1445
+  },
+  "genres": [
+    "chilean hardcore",
+    "punk chileno",
+    "punk melodico chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8fcee0b173898242405737a8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051748fcee0b173898242405737a8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1788fcee0b173898242405737a8",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0fDfcP4CbwLJixjlJaxVCr"
+  }
+}

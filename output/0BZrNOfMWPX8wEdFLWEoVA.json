@@ -1,0 +1,33 @@
+{
+  "id": "0BZrNOfMWPX8wEdFLWEoVA",
+  "name": "Von Kin",
+  "uri": "spotify:artist:0BZrNOfMWPX8wEdFLWEoVA",
+  "followers": {
+    "href": null,
+    "total": 240
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27373979ca779f0a29ab230024d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0273979ca779f0a29ab230024d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485173979ca779f0a29ab230024d",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0BZrNOfMWPX8wEdFLWEoVA"
+  }
+}

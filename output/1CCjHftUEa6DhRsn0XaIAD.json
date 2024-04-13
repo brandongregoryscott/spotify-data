@@ -1,0 +1,33 @@
+{
+  "id": "1CCjHftUEa6DhRsn0XaIAD",
+  "name": "Liotta",
+  "uri": "spotify:artist:1CCjHftUEa6DhRsn0XaIAD",
+  "followers": {
+    "href": null,
+    "total": 204
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcf056d3c53a65ef9fd4920ba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cf056d3c53a65ef9fd4920ba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cf056d3c53a65ef9fd4920ba",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1CCjHftUEa6DhRsn0XaIAD"
+  }
+}

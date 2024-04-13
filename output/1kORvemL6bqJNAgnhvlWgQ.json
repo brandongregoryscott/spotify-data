@@ -1,0 +1,33 @@
+{
+  "id": "1kORvemL6bqJNAgnhvlWgQ",
+  "name": "Bala Loka",
+  "uri": "spotify:artist:1kORvemL6bqJNAgnhvlWgQ",
+  "followers": {
+    "href": null,
+    "total": 299
+  },
+  "genres": [
+    "punk chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb96c020d13d683f71ab1d2c9a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517496c020d13d683f71ab1d2c9a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17896c020d13d683f71ab1d2c9a",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1kORvemL6bqJNAgnhvlWgQ"
+  }
+}

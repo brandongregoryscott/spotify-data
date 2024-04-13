@@ -1,0 +1,33 @@
+{
+  "id": "3PEUxwj4r8RJfna3clTew3",
+  "name": "IIII",
+  "uri": "spotify:artist:3PEUxwj4r8RJfna3clTew3",
+  "followers": {
+    "href": null,
+    "total": 228
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb43dc399cde1b72004f2b63ad",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517443dc399cde1b72004f2b63ad",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17843dc399cde1b72004f2b63ad",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3PEUxwj4r8RJfna3clTew3"
+  }
+}

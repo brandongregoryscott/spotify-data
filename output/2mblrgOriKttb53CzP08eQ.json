@@ -1,0 +1,33 @@
+{
+  "id": "2mblrgOriKttb53CzP08eQ",
+  "name": "Muramasa",
+  "uri": "spotify:artist:2mblrgOriKttb53CzP08eQ",
+  "followers": {
+    "href": null,
+    "total": 1357
+  },
+  "genres": [
+    "slam death metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebff800738b5262a1de7189885",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ff800738b5262a1de7189885",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ff800738b5262a1de7189885",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2mblrgOriKttb53CzP08eQ"
+  }
+}

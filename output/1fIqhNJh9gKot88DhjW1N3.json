@@ -1,0 +1,33 @@
+{
+  "id": "1fIqhNJh9gKot88DhjW1N3",
+  "name": "CatDog",
+  "uri": "spotify:artist:1fIqhNJh9gKot88DhjW1N3",
+  "followers": {
+    "href": null,
+    "total": 210
+  },
+  "genres": [
+    "punk chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bbd389d684e37912d9717f78",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bbd389d684e37912d9717f78",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bbd389d684e37912d9717f78",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1fIqhNJh9gKot88DhjW1N3"
+  }
+}

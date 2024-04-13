@@ -1,0 +1,34 @@
+{
+  "id": "2y71FGeNPZrETJhw4s3teI",
+  "name": "Rinoa",
+  "uri": "spotify:artist:2y71FGeNPZrETJhw4s3teI",
+  "followers": {
+    "href": null,
+    "total": 3610
+  },
+  "genres": [
+    "atmospheric sludge",
+    "uk post-metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731365bb6c4fd89321ce1011ce",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021365bb6c4fd89321ce1011ce",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511365bb6c4fd89321ce1011ce",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2y71FGeNPZrETJhw4s3teI"
+  }
+}

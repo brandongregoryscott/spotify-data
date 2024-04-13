@@ -1,0 +1,33 @@
+{
+  "id": "4w3ECqz8383WrzPbDQyfKu",
+  "name": "La Dosis",
+  "uri": "spotify:artist:4w3ECqz8383WrzPbDQyfKu",
+  "followers": {
+    "href": null,
+    "total": 391
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273626abfc4711789c3ea937f19",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02626abfc4711789c3ea937f19",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851626abfc4711789c3ea937f19",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4w3ECqz8383WrzPbDQyfKu"
+  }
+}

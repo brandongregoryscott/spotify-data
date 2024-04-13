@@ -1,0 +1,34 @@
+{
+  "id": "2tsEIClzHSIm4dZjdWPz6P",
+  "name": "Sick Shit",
+  "uri": "spotify:artist:2tsEIClzHSIm4dZjdWPz6P",
+  "followers": {
+    "href": null,
+    "total": 1136
+  },
+  "genres": [
+    "modern hardcore",
+    "new jersey punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb79e97aecf392a18d55a9a721",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517479e97aecf392a18d55a9a721",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17879e97aecf392a18d55a9a721",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2tsEIClzHSIm4dZjdWPz6P"
+  }
+}

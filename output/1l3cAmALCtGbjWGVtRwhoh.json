@@ -1,0 +1,36 @@
+{
+  "id": "1l3cAmALCtGbjWGVtRwhoh",
+  "name": "Enterprise Earth",
+  "uri": "spotify:artist:1l3cAmALCtGbjWGVtRwhoh",
+  "followers": {
+    "href": null,
+    "total": 103852
+  },
+  "genres": [
+    "brutal deathcore",
+    "deathcore",
+    "melodic metalcore",
+    "progressive deathcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfc466fa75606ed8bb228b8cd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fc466fa75606ed8bb228b8cd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fc466fa75606ed8bb228b8cd",
+      "width": 160
+    }
+  ],
+  "popularity": 39,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh"
+  }
+}

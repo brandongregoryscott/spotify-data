@@ -1,0 +1,33 @@
+{
+  "id": "1BKHqffXn1nZnGMl5UaOxr",
+  "name": "Lluvia Trip",
+  "uri": "spotify:artist:1BKHqffXn1nZnGMl5UaOxr",
+  "followers": {
+    "href": null,
+    "total": 295
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb117668e1b350035f481c380",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b117668e1b350035f481c380",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b117668e1b350035f481c380",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1BKHqffXn1nZnGMl5UaOxr"
+  }
+}

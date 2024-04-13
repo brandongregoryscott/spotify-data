@@ -1,0 +1,34 @@
+{
+  "id": "04mTej6RpWzBxGwhfThpIi",
+  "name": "Rojuu",
+  "uri": "spotify:artist:04mTej6RpWzBxGwhfThpIi",
+  "followers": {
+    "href": null,
+    "total": 333739
+  },
+  "genres": [
+    "rap regio",
+    "urbano espanol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe14ffcc8d7a104a65f39f3ca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e14ffcc8d7a104a65f39f3ca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e14ffcc8d7a104a65f39f3ca",
+      "width": 160
+    }
+  ],
+  "popularity": 61,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi"
+  }
+}

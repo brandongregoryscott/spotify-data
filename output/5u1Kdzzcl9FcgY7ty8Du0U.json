@@ -1,0 +1,35 @@
+{
+  "id": "5u1Kdzzcl9FcgY7ty8Du0U",
+  "name": "Jean Loup",
+  "uri": "spotify:artist:5u1Kdzzcl9FcgY7ty8Du0U",
+  "followers": {
+    "href": null,
+    "total": 5025
+  },
+  "genres": [
+    "math rock latinoamericano",
+    "mexican indie",
+    "mexican rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb230d578c9a1fd6a712a5a1bd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174230d578c9a1fd6a712a5a1bd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178230d578c9a1fd6a712a5a1bd",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U"
+  }
+}

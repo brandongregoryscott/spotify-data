@@ -1,0 +1,35 @@
+{
+  "id": "00XuZRBGAdkFatFrVdaazh",
+  "name": "Velódromo",
+  "uri": "spotify:artist:00XuZRBGAdkFatFrVdaazh",
+  "followers": {
+    "href": null,
+    "total": 1795
+  },
+  "genres": [
+    "chilean indie",
+    "latin shoegaze",
+    "shoegaze chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27382663b1515927de7137bf5f9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0282663b1515927de7137bf5f9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485182663b1515927de7137bf5f9",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/00XuZRBGAdkFatFrVdaazh"
+  }
+}

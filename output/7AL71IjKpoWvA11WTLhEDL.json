@@ -1,0 +1,33 @@
+{
+  "id": "7AL71IjKpoWvA11WTLhEDL",
+  "name": "El Duby Train",
+  "uri": "spotify:artist:7AL71IjKpoWvA11WTLhEDL",
+  "followers": {
+    "href": null,
+    "total": 35
+  },
+  "genres": [
+    "reggae peruano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfe01b604b84dfc1a577dd082",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fe01b604b84dfc1a577dd082",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fe01b604b84dfc1a577dd082",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7AL71IjKpoWvA11WTLhEDL"
+  }
+}

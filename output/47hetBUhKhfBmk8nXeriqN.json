@@ -1,0 +1,35 @@
+{
+  "id": "47hetBUhKhfBmk8nXeriqN",
+  "name": "Planeta No",
+  "uri": "spotify:artist:47hetBUhKhfBmk8nXeriqN",
+  "followers": {
+    "href": null,
+    "total": 27255
+  },
+  "genres": [
+    "chilean indie",
+    "chilean rock",
+    "concepcion indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb854240b6e135be5427f0ad7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b854240b6e135be5427f0ad7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b854240b6e135be5427f0ad7",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
+  }
+}

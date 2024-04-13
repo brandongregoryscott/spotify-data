@@ -1,0 +1,33 @@
+{
+  "id": "3OggS6Lzuzojyvd8t8ZAat",
+  "name": "Congelador",
+  "uri": "spotify:artist:3OggS6Lzuzojyvd8t8ZAat",
+  "followers": {
+    "href": null,
+    "total": 2674
+  },
+  "genres": [
+    "chilean indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb34e97732899b2d18ef911b1f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517434e97732899b2d18ef911b1f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17834e97732899b2d18ef911b1f",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3OggS6Lzuzojyvd8t8ZAat"
+  }
+}

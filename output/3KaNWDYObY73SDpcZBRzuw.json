@@ -1,0 +1,34 @@
+{
+  "id": "3KaNWDYObY73SDpcZBRzuw",
+  "name": "Irepelusa",
+  "uri": "spotify:artist:3KaNWDYObY73SDpcZBRzuw",
+  "followers": {
+    "href": null,
+    "total": 71634
+  },
+  "genres": [
+    "pop venezolano",
+    "trap venezolano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf35891a28eb907636d43587a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f35891a28eb907636d43587a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f35891a28eb907636d43587a",
+      "width": 160
+    }
+  ],
+  "popularity": 51,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+  }
+}

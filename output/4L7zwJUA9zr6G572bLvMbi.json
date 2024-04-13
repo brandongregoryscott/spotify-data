@@ -1,0 +1,33 @@
+{
+  "id": "4L7zwJUA9zr6G572bLvMbi",
+  "name": "Son Guga",
+  "uri": "spotify:artist:4L7zwJUA9zr6G572bLvMbi",
+  "followers": {
+    "href": null,
+    "total": 23
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ab8050302ea4fa4a0b103fbe",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ab8050302ea4fa4a0b103fbe",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ab8050302ea4fa4a0b103fbe",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4L7zwJUA9zr6G572bLvMbi"
+  }
+}

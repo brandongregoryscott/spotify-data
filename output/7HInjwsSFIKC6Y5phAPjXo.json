@@ -1,0 +1,34 @@
+{
+  "id": "7HInjwsSFIKC6Y5phAPjXo",
+  "name": "Sin Lenceria",
+  "uri": "spotify:artist:7HInjwsSFIKC6Y5phAPjXo",
+  "followers": {
+    "href": null,
+    "total": 685
+  },
+  "genres": [
+    "punk chileno",
+    "punk melodico chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba80fa57647fa5a106ce90e87",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a80fa57647fa5a106ce90e87",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a80fa57647fa5a106ce90e87",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7HInjwsSFIKC6Y5phAPjXo"
+  }
+}

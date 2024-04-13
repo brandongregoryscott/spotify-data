@@ -1,0 +1,33 @@
+{
+  "id": "3dKjM3C81h3EODthML6hQd",
+  "name": "Mun",
+  "uri": "spotify:artist:3dKjM3C81h3EODthML6hQd",
+  "followers": {
+    "href": null,
+    "total": 90
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb91a81eb7bdb693ebfc63c31e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517491a81eb7bdb693ebfc63c31e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17891a81eb7bdb693ebfc63c31e",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3dKjM3C81h3EODthML6hQd"
+  }
+}

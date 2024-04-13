@@ -1,0 +1,33 @@
+{
+  "id": "3hSaSOMhsBHvhYAnGjr8iW",
+  "name": "veresk",
+  "uri": "spotify:artist:3hSaSOMhsBHvhYAnGjr8iW",
+  "followers": {
+    "href": null,
+    "total": 2193
+  },
+  "genres": [
+    "russian emo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc3147b1b10bd9400b8415239",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c3147b1b10bd9400b8415239",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c3147b1b10bd9400b8415239",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3hSaSOMhsBHvhYAnGjr8iW"
+  }
+}

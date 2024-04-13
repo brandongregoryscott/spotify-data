@@ -1,0 +1,34 @@
+{
+  "id": "2DZ3QTRzxtiROlyh4rUTNC",
+  "name": "Purifier",
+  "uri": "spotify:artist:2DZ3QTRzxtiROlyh4rUTNC",
+  "followers": {
+    "href": null,
+    "total": 736
+  },
+  "genres": [
+    "austin metal",
+    "texas hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb358bb7db5c7e1b606af0e993",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174358bb7db5c7e1b606af0e993",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178358bb7db5c7e1b606af0e993",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2DZ3QTRzxtiROlyh4rUTNC"
+  }
+}

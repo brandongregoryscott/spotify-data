@@ -1,0 +1,34 @@
+{
+  "id": "0xVn1eO0pcrkPalQSlHinC",
+  "name": "3 AL HILO",
+  "uri": "spotify:artist:0xVn1eO0pcrkPalQSlHinC",
+  "followers": {
+    "href": null,
+    "total": 4388
+  },
+  "genres": [
+    "peruvian punk",
+    "peruvian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27329fb9c2395125e089e12d62a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0229fb9c2395125e089e12d62a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cf29eb16e0665c2b5580fb6e",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0xVn1eO0pcrkPalQSlHinC"
+  }
+}

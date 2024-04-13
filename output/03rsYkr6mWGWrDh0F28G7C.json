@@ -1,0 +1,33 @@
+{
+  "id": "03rsYkr6mWGWrDh0F28G7C",
+  "name": "Luis Otamendi",
+  "uri": "spotify:artist:03rsYkr6mWGWrDh0F28G7C",
+  "followers": {
+    "href": null,
+    "total": 321
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb832ea8f49fbb8777048d79aa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174832ea8f49fbb8777048d79aa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178832ea8f49fbb8777048d79aa",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03rsYkr6mWGWrDh0F28G7C"
+  }
+}

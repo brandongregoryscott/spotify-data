@@ -1,0 +1,34 @@
+{
+  "id": "0C6EtY3oRH8gYq8G58biMu",
+  "name": "Otra Salida",
+  "uri": "spotify:artist:0C6EtY3oRH8gYq8G58biMu",
+  "followers": {
+    "href": null,
+    "total": 3338
+  },
+  "genres": [
+    "argentine hardcore",
+    "argentine punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736ca4b69d02e0f7c19dac36bb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026ca4b69d02e0f7c19dac36bb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516ca4b69d02e0f7c19dac36bb",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0C6EtY3oRH8gYq8G58biMu"
+  }
+}

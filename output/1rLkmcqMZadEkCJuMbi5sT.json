@@ -1,0 +1,33 @@
+{
+  "id": "1rLkmcqMZadEkCJuMbi5sT",
+  "name": "Oscilan",
+  "uri": "spotify:artist:1rLkmcqMZadEkCJuMbi5sT",
+  "followers": {
+    "href": null,
+    "total": 81
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5d07cf7e45e2e672fe5a5a98",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051745d07cf7e45e2e672fe5a5a98",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1785d07cf7e45e2e672fe5a5a98",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1rLkmcqMZadEkCJuMbi5sT"
+  }
+}

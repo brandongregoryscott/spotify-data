@@ -1,0 +1,34 @@
+{
+  "id": "2LBteY4vnSD2zKwAgzOijB",
+  "name": "Mokoma",
+  "uri": "spotify:artist:2LBteY4vnSD2zKwAgzOijB",
+  "followers": {
+    "href": null,
+    "total": 39257
+  },
+  "genres": [
+    "finnish metal",
+    "suomi rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc54cd6bfc2d9328375538e32",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c54cd6bfc2d9328375538e32",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c54cd6bfc2d9328375538e32",
+      "width": 160
+    }
+  ],
+  "popularity": 45,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB"
+  }
+}

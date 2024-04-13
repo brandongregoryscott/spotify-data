@@ -1,0 +1,33 @@
+{
+  "id": "0VqZ86s4Z8DHDNHFwYf0oM",
+  "name": "garbí",
+  "uri": "spotify:artist:0VqZ86s4Z8DHDNHFwYf0oM",
+  "followers": {
+    "href": null,
+    "total": 655
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaf11e8c45a8f9a55ad0d1383",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174af11e8c45a8f9a55ad0d1383",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178af11e8c45a8f9a55ad0d1383",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0VqZ86s4Z8DHDNHFwYf0oM"
+  }
+}

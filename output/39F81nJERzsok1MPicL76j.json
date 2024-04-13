@@ -1,0 +1,35 @@
+{
+  "id": "39F81nJERzsok1MPicL76j",
+  "name": "Cenizas",
+  "uri": "spotify:artist:39F81nJERzsok1MPicL76j",
+  "followers": {
+    "href": null,
+    "total": 2797
+  },
+  "genres": [
+    "chilean hardcore",
+    "chilean metal",
+    "latincore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb96ab6edc7f378b334720faad",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517496ab6edc7f378b334720faad",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17896ab6edc7f378b334720faad",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/39F81nJERzsok1MPicL76j"
+  }
+}

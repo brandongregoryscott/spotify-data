@@ -1,0 +1,33 @@
+{
+  "id": "008X6nqq40pwPk0VJSyMs7",
+  "name": "Doctoh",
+  "uri": "spotify:artist:008X6nqq40pwPk0VJSyMs7",
+  "followers": {
+    "href": null,
+    "total": 52
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb13421438f03b2ee42f597a5d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517413421438f03b2ee42f597a5d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17813421438f03b2ee42f597a5d",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/008X6nqq40pwPk0VJSyMs7"
+  }
+}

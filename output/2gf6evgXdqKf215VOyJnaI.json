@@ -1,0 +1,33 @@
+{
+  "id": "2gf6evgXdqKf215VOyJnaI",
+  "name": "Priismaa",
+  "uri": "spotify:artist:2gf6evgXdqKf215VOyJnaI",
+  "followers": {
+    "href": null,
+    "total": 489
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebecb99c7022b24a14b899f1fc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ecb99c7022b24a14b899f1fc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ecb99c7022b24a14b899f1fc",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2gf6evgXdqKf215VOyJnaI"
+  }
+}

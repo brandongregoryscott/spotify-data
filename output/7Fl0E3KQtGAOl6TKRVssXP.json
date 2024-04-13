@@ -1,0 +1,34 @@
+{
+  "id": "7Fl0E3KQtGAOl6TKRVssXP",
+  "name": "NERDS",
+  "uri": "spotify:artist:7Fl0E3KQtGAOl6TKRVssXP",
+  "followers": {
+    "href": null,
+    "total": 2303
+  },
+  "genres": [
+    "colombian indie",
+    "colombian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb982fa6001bd6e5788afb64fc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174982fa6001bd6e5788afb64fc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178982fa6001bd6e5788afb64fc",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7Fl0E3KQtGAOl6TKRVssXP"
+  }
+}

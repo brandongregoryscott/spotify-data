@@ -1,0 +1,33 @@
+{
+  "id": "1oHFmC6M6CaDCqgPNOLsU6",
+  "name": "Social Crisis",
+  "uri": "spotify:artist:1oHFmC6M6CaDCqgPNOLsU6",
+  "followers": {
+    "href": null,
+    "total": 712
+  },
+  "genres": [
+    "punk chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc8410cb4ee291536c7bacd68",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c8410cb4ee291536c7bacd68",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c8410cb4ee291536c7bacd68",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1oHFmC6M6CaDCqgPNOLsU6"
+  }
+}

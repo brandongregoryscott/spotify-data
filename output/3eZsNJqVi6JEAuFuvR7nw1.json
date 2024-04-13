@@ -1,0 +1,33 @@
+{
+  "id": "3eZsNJqVi6JEAuFuvR7nw1",
+  "name": "Veed",
+  "uri": "spotify:artist:3eZsNJqVi6JEAuFuvR7nw1",
+  "followers": {
+    "href": null,
+    "total": 199
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd87fd1d50fffd715cbed0ffa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d87fd1d50fffd715cbed0ffa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d87fd1d50fffd715cbed0ffa",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3eZsNJqVi6JEAuFuvR7nw1"
+  }
+}

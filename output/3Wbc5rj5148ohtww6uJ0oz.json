@@ -1,0 +1,33 @@
+{
+  "id": "3Wbc5rj5148ohtww6uJ0oz",
+  "name": "André Farra",
+  "uri": "spotify:artist:3Wbc5rj5148ohtww6uJ0oz",
+  "followers": {
+    "href": null,
+    "total": 946
+  },
+  "genres": [
+    "ecuadorian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb096daa21f1f0beabc00f3a28",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174096daa21f1f0beabc00f3a28",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178096daa21f1f0beabc00f3a28",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Wbc5rj5148ohtww6uJ0oz"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1EJ7eVmYftASdbBbOzLfQQ",
+  "name": "Lumtz",
+  "uri": "spotify:artist:1EJ7eVmYftASdbBbOzLfQQ",
+  "followers": {
+    "href": null,
+    "total": 674
+  },
+  "genres": [
+    "argentine ambient"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6644a0bd34ba520e19228e6a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051746644a0bd34ba520e19228e6a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1786644a0bd34ba520e19228e6a",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1EJ7eVmYftASdbBbOzLfQQ"
+  }
+}

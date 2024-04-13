@@ -1,0 +1,33 @@
+{
+  "id": "31hHcrInbWZyRbOwgd0KtG",
+  "name": "Mentah",
+  "uri": "spotify:artist:31hHcrInbWZyRbOwgd0KtG",
+  "followers": {
+    "href": null,
+    "total": 392
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb37b17a99a3dd2a85eeb180f6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517437b17a99a3dd2a85eeb180f6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17837b17a99a3dd2a85eeb180f6",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/31hHcrInbWZyRbOwgd0KtG"
+  }
+}

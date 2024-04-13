@@ -1,0 +1,33 @@
+{
+  "id": "5onuVW2DScUloQV9hvWfZs",
+  "name": "Mange",
+  "uri": "spotify:artist:5onuVW2DScUloQV9hvWfZs",
+  "followers": {
+    "href": null,
+    "total": 547
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb51210f424ad68118bbfd92d3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517451210f424ad68118bbfd92d3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17851210f424ad68118bbfd92d3",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5onuVW2DScUloQV9hvWfZs"
+  }
+}

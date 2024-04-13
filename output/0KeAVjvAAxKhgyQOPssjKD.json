@@ -1,0 +1,33 @@
+{
+  "id": "0KeAVjvAAxKhgyQOPssjKD",
+  "name": "La veo venir",
+  "uri": "spotify:artist:0KeAVjvAAxKhgyQOPssjKD",
+  "followers": {
+    "href": null,
+    "total": 576
+  },
+  "genres": [
+    "indie rock colombiano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734fd71435f80299b20aabc11d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024fd71435f80299b20aabc11d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514fd71435f80299b20aabc11d",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0KeAVjvAAxKhgyQOPssjKD"
+  }
+}

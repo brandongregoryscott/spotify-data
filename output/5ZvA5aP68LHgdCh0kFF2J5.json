@@ -1,0 +1,33 @@
+{
+  "id": "5ZvA5aP68LHgdCh0kFF2J5",
+  "name": "Meeky",
+  "uri": "spotify:artist:5ZvA5aP68LHgdCh0kFF2J5",
+  "followers": {
+    "href": null,
+    "total": 567
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb21f18d927798c5459f00bb10",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517421f18d927798c5459f00bb10",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17821f18d927798c5459f00bb10",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ZvA5aP68LHgdCh0kFF2J5"
+  }
+}

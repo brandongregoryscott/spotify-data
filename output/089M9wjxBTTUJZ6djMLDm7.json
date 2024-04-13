@@ -1,0 +1,33 @@
+{
+  "id": "089M9wjxBTTUJZ6djMLDm7",
+  "name": "Nazgul",
+  "uri": "spotify:artist:089M9wjxBTTUJZ6djMLDm7",
+  "followers": {
+    "href": null,
+    "total": 239
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb62e81c527d6c792284030d5b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517462e81c527d6c792284030d5b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17862e81c527d6c792284030d5b",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/089M9wjxBTTUJZ6djMLDm7"
+  }
+}

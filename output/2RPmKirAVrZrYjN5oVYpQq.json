@@ -1,0 +1,33 @@
+{
+  "id": "2RPmKirAVrZrYjN5oVYpQq",
+  "name": "BANANAS",
+  "uri": "spotify:artist:2RPmKirAVrZrYjN5oVYpQq",
+  "followers": {
+    "href": null,
+    "total": 897
+  },
+  "genres": [
+    "euskal rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf1bccf7bcb81ec0bc7e46993",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f1bccf7bcb81ec0bc7e46993",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f1bccf7bcb81ec0bc7e46993",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2RPmKirAVrZrYjN5oVYpQq"
+  }
+}

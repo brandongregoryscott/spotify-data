@@ -1,0 +1,33 @@
+{
+  "id": "1sjAiXfRnlaJk1zNhmHSpf",
+  "name": "Nando García",
+  "uri": "spotify:artist:1sjAiXfRnlaJk1zNhmHSpf",
+  "followers": {
+    "href": null,
+    "total": 2325
+  },
+  "genres": [
+    "chilean indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc742b4ae7bf4a5b40eeaf7de",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c742b4ae7bf4a5b40eeaf7de",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c742b4ae7bf4a5b40eeaf7de",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1sjAiXfRnlaJk1zNhmHSpf"
+  }
+}

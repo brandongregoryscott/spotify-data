@@ -1,0 +1,34 @@
+{
+  "id": "5vDnG2WZMxXkNboI8AJ3af",
+  "name": "Belmar",
+  "uri": "spotify:artist:5vDnG2WZMxXkNboI8AJ3af",
+  "followers": {
+    "href": null,
+    "total": 1341
+  },
+  "genres": [
+    "cdmx indie",
+    "mexican edm"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb17d4d420015f804a1e7ba764",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517417d4d420015f804a1e7ba764",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17817d4d420015f804a1e7ba764",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af"
+  }
+}

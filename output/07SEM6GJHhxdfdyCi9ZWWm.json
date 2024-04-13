@@ -1,0 +1,33 @@
+{
+  "id": "07SEM6GJHhxdfdyCi9ZWWm",
+  "name": "DURENDAL",
+  "uri": "spotify:artist:07SEM6GJHhxdfdyCi9ZWWm",
+  "followers": {
+    "href": null,
+    "total": 107
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb117cec5b894e708de43a5b38",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174117cec5b894e708de43a5b38",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178117cec5b894e708de43a5b38",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07SEM6GJHhxdfdyCi9ZWWm"
+  }
+}

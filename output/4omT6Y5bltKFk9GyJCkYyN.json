@@ -1,0 +1,33 @@
+{
+  "id": "4omT6Y5bltKFk9GyJCkYyN",
+  "name": "Dandelion",
+  "uri": "spotify:artist:4omT6Y5bltKFk9GyJCkYyN",
+  "followers": {
+    "href": null,
+    "total": 507
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb70944ac9cc4fef54d7ced1a7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517470944ac9cc4fef54d7ced1a7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17870944ac9cc4fef54d7ced1a7",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4omT6Y5bltKFk9GyJCkYyN"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0GNOlfAdwq2xMeJUXieKYF",
+  "name": "Dagon",
+  "uri": "spotify:artist:0GNOlfAdwq2xMeJUXieKYF",
+  "followers": {
+    "href": null,
+    "total": 131
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb47cc40518b6fa325ada4aa98",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517447cc40518b6fa325ada4aa98",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17847cc40518b6fa325ada4aa98",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0GNOlfAdwq2xMeJUXieKYF"
+  }
+}

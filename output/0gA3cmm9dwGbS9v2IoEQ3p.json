@@ -1,0 +1,33 @@
+{
+  "id": "0gA3cmm9dwGbS9v2IoEQ3p",
+  "name": "Escondite",
+  "uri": "spotify:artist:0gA3cmm9dwGbS9v2IoEQ3p",
+  "followers": {
+    "href": null,
+    "total": 107
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb955da38ea94d5b743a64a19a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174955da38ea94d5b743a64a19a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178955da38ea94d5b743a64a19a",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0gA3cmm9dwGbS9v2IoEQ3p"
+  }
+}

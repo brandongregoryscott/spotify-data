@@ -1,0 +1,33 @@
+{
+  "id": "5jzHeqBMZElOiky0aWXsFG",
+  "name": "Suffer UK",
+  "uri": "spotify:artist:5jzHeqBMZElOiky0aWXsFG",
+  "followers": {
+    "href": null,
+    "total": 1850
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb68443955ca3be237636282dd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517468443955ca3be237636282dd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17868443955ca3be237636282dd",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5jzHeqBMZElOiky0aWXsFG"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "6YRr0btzGqfQ5K7r23qjEM",
+  "name": "Allt",
+  "uri": "spotify:artist:6YRr0btzGqfQ5K7r23qjEM",
+  "followers": {
+    "href": null,
+    "total": 23987
+  },
+  "genres": [
+    "progressive metalcore",
+    "swedish metalcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe85e45e0e70c3fd20ef06f0e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e85e45e0e70c3fd20ef06f0e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e85e45e0e70c3fd20ef06f0e",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM"
+  }
+}

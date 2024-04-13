@@ -1,0 +1,33 @@
+{
+  "id": "2dYTwuamEZAhv5fBpk27jb",
+  "name": "Lil Ele",
+  "uri": "spotify:artist:2dYTwuamEZAhv5fBpk27jb",
+  "followers": {
+    "href": null,
+    "total": 4
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27397031e2ce8f5a595c0fa2883",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0297031e2ce8f5a595c0fa2883",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485197031e2ce8f5a595c0fa2883",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2dYTwuamEZAhv5fBpk27jb"
+  }
+}

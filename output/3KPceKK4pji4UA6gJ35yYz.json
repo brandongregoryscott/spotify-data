@@ -1,0 +1,34 @@
+{
+  "id": "3KPceKK4pji4UA6gJ35yYz",
+  "name": "Los Luna",
+  "uri": "spotify:artist:3KPceKK4pji4UA6gJ35yYz",
+  "followers": {
+    "href": null,
+    "total": 1682
+  },
+  "genres": [
+    "indie trujillano",
+    "peruvian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5eb5c460f2b6e3eac1243591",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051745eb5c460f2b6e3eac1243591",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1785eb5c460f2b6e3eac1243591",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3KPceKK4pji4UA6gJ35yYz"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "58eM7OGcJRordDzBkeWJg4",
+  "name": "Parallax",
+  "uri": "spotify:artist:58eM7OGcJRordDzBkeWJg4",
+  "followers": {
+    "href": null,
+    "total": 299
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9318376e53dd51c14264a9cc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051749318376e53dd51c14264a9cc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1789318376e53dd51c14264a9cc",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/58eM7OGcJRordDzBkeWJg4"
+  }
+}

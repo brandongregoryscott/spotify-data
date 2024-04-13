@@ -1,0 +1,33 @@
+{
+  "id": "63hRgCbTdP3yf4IdYZ2AID",
+  "name": "Daniel Daniel",
+  "uri": "spotify:artist:63hRgCbTdP3yf4IdYZ2AID",
+  "followers": {
+    "href": null,
+    "total": 2330
+  },
+  "genres": [
+    "hyperpop en espanol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebda529f552eac420be2f08dbd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174da529f552eac420be2f08dbd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178da529f552eac420be2f08dbd",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/63hRgCbTdP3yf4IdYZ2AID"
+  }
+}

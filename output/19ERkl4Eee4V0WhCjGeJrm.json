@@ -1,0 +1,33 @@
+{
+  "id": "19ERkl4Eee4V0WhCjGeJrm",
+  "name": "astrid",
+  "uri": "spotify:artist:19ERkl4Eee4V0WhCjGeJrm",
+  "followers": {
+    "href": null,
+    "total": 569
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9fda00f4fd73f370371fb4f6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051749fda00f4fd73f370371fb4f6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1789fda00f4fd73f370371fb4f6",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/19ERkl4Eee4V0WhCjGeJrm"
+  }
+}

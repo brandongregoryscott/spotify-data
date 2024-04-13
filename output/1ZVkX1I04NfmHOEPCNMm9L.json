@@ -1,0 +1,34 @@
+{
+  "id": "1ZVkX1I04NfmHOEPCNMm9L",
+  "name": "C4",
+  "uri": "spotify:artist:1ZVkX1I04NfmHOEPCNMm9L",
+  "followers": {
+    "href": null,
+    "total": 2927
+  },
+  "genres": [
+    "boston hardcore",
+    "new england hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731c83dfdbfc22197e5fd3b62c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021c83dfdbfc22197e5fd3b62c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511c83dfdbfc22197e5fd3b62c",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ZVkX1I04NfmHOEPCNMm9L"
+  }
+}

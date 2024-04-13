@@ -1,0 +1,33 @@
+{
+  "id": "0tbugrVjIPpIm2KmWySwxz",
+  "name": "Chico Percebe",
+  "uri": "spotify:artist:0tbugrVjIPpIm2KmWySwxz",
+  "followers": {
+    "href": null,
+    "total": 414
+  },
+  "genres": [
+    "colombian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbddf922b225fca1891ddd306",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bddf922b225fca1891ddd306",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bddf922b225fca1891ddd306",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0tbugrVjIPpIm2KmWySwxz"
+  }
+}

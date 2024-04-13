@@ -1,0 +1,33 @@
+{
+  "id": "0VJ8t8uGlQWJSGPPecivZW",
+  "name": "Dromeda",
+  "uri": "spotify:artist:0VJ8t8uGlQWJSGPPecivZW",
+  "followers": {
+    "href": null,
+    "total": 131
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb77d71a3c7ca4d5ec2a0ff6bf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517477d71a3c7ca4d5ec2a0ff6bf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17877d71a3c7ca4d5ec2a0ff6bf",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0VJ8t8uGlQWJSGPPecivZW"
+  }
+}

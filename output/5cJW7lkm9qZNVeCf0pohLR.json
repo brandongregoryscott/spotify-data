@@ -1,0 +1,33 @@
+{
+  "id": "5cJW7lkm9qZNVeCf0pohLR",
+  "name": "Gin Xan",
+  "uri": "spotify:artist:5cJW7lkm9qZNVeCf0pohLR",
+  "followers": {
+    "href": null,
+    "total": 115
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb127b0c5d76c47e1ff29608fb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174127b0c5d76c47e1ff29608fb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178127b0c5d76c47e1ff29608fb",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5cJW7lkm9qZNVeCf0pohLR"
+  }
+}

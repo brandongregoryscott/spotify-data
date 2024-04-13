@@ -1,0 +1,33 @@
+{
+  "id": "42o0MSN39FoXyQCNqXG1QG",
+  "name": "capote",
+  "uri": "spotify:artist:42o0MSN39FoXyQCNqXG1QG",
+  "followers": {
+    "href": null,
+    "total": 244
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb70525bd8e0de3ff58fddd239",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517470525bd8e0de3ff58fddd239",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17870525bd8e0de3ff58fddd239",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/42o0MSN39FoXyQCNqXG1QG"
+  }
+}

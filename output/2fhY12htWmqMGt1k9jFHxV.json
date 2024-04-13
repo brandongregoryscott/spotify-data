@@ -1,0 +1,33 @@
+{
+  "id": "2fhY12htWmqMGt1k9jFHxV",
+  "name": "Alerta",
+  "uri": "spotify:artist:2fhY12htWmqMGt1k9jFHxV",
+  "followers": {
+    "href": null,
+    "total": 123
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb57c3e3a1fba8a33c63c1f799",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517457c3e3a1fba8a33c63c1f799",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17857c3e3a1fba8a33c63c1f799",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2fhY12htWmqMGt1k9jFHxV"
+  }
+}

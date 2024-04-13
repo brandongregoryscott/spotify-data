@@ -1,0 +1,33 @@
+{
+  "id": "2cCSpsMzNW3JbKRMK0PJZ4",
+  "name": "Detaria",
+  "uri": "spotify:artist:2cCSpsMzNW3JbKRMK0PJZ4",
+  "followers": {
+    "href": null,
+    "total": 38
+  },
+  "genres": [
+    "punk melodico chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27325ada19863295f97032f1cca",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0225ada19863295f97032f1cca",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485125ada19863295f97032f1cca",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2cCSpsMzNW3JbKRMK0PJZ4"
+  }
+}

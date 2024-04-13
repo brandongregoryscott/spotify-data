@@ -1,0 +1,33 @@
+{
+  "id": "0LyjU5HUHjIzKlbUdFNf0B",
+  "name": "Decisión Final",
+  "uri": "spotify:artist:0LyjU5HUHjIzKlbUdFNf0B",
+  "followers": {
+    "href": null,
+    "total": 625
+  },
+  "genres": [
+    "peruvian punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd5a237cc77be83b7b355e6ea",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d5a237cc77be83b7b355e6ea",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d5a237cc77be83b7b355e6ea",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0LyjU5HUHjIzKlbUdFNf0B"
+  }
+}

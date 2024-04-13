@@ -1,0 +1,33 @@
+{
+  "id": "5KKlnzRddNxqfOMlI8YFCd",
+  "name": "Lemon Parade",
+  "uri": "spotify:artist:5KKlnzRddNxqfOMlI8YFCd",
+  "followers": {
+    "href": null,
+    "total": 179
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27327bfa3537ae3901241ef7abc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0227bfa3537ae3901241ef7abc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485127bfa3537ae3901241ef7abc",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5KKlnzRddNxqfOMlI8YFCd"
+  }
+}

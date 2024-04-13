@@ -1,0 +1,36 @@
+{
+  "id": "3obp4XiSFdx8FcWTBXpZ9O",
+  "name": "Knut",
+  "uri": "spotify:artist:3obp4XiSFdx8FcWTBXpZ9O",
+  "followers": {
+    "href": null,
+    "total": 5345
+  },
+  "genres": [
+    "mathcore",
+    "post-metal",
+    "sludge metal",
+    "sludgecore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27306293233263ffc5865091004",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0206293233263ffc5865091004",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485106293233263ffc5865091004",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3obp4XiSFdx8FcWTBXpZ9O"
+  }
+}

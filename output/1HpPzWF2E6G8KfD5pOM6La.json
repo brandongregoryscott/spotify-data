@@ -1,0 +1,33 @@
+{
+  "id": "1HpPzWF2E6G8KfD5pOM6La",
+  "name": "Ater",
+  "uri": "spotify:artist:1HpPzWF2E6G8KfD5pOM6La",
+  "followers": {
+    "href": null,
+    "total": 1833
+  },
+  "genres": [
+    "thall"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4f16a36e4a12c8623ade4573",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744f16a36e4a12c8623ade4573",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784f16a36e4a12c8623ade4573",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1HpPzWF2E6G8KfD5pOM6La"
+  }
+}

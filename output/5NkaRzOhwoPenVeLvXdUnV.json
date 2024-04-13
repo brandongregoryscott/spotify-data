@@ -1,0 +1,34 @@
+{
+  "id": "5NkaRzOhwoPenVeLvXdUnV",
+  "name": "Espumita",
+  "uri": "spotify:artist:5NkaRzOhwoPenVeLvXdUnV",
+  "followers": {
+    "href": null,
+    "total": 1810
+  },
+  "genres": [
+    "ecuadorian alternative rock",
+    "ecuadorian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdfed04529729f5074d9cfeb2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dfed04529729f5074d9cfeb2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dfed04529729f5074d9cfeb2",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5NkaRzOhwoPenVeLvXdUnV"
+  }
+}

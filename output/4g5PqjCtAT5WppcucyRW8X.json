@@ -1,0 +1,33 @@
+{
+  "id": "4g5PqjCtAT5WppcucyRW8X",
+  "name": "Neon Vectors",
+  "uri": "spotify:artist:4g5PqjCtAT5WppcucyRW8X",
+  "followers": {
+    "href": null,
+    "total": 7275
+  },
+  "genres": [
+    "future funk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc02ffcf461e62eca536f5748",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c02ffcf461e62eca536f5748",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c02ffcf461e62eca536f5748",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
+  }
+}

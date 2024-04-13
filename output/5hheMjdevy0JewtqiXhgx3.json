@@ -1,0 +1,33 @@
+{
+  "id": "5hheMjdevy0JewtqiXhgx3",
+  "name": "Gran Celaje",
+  "uri": "spotify:artist:5hheMjdevy0JewtqiXhgx3",
+  "followers": {
+    "href": null,
+    "total": 784
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb443286baec536b760ee06972",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174443286baec536b760ee06972",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178443286baec536b760ee06972",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5hheMjdevy0JewtqiXhgx3"
+  }
+}

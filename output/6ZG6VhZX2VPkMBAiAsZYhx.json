@@ -1,0 +1,33 @@
+{
+  "id": "6ZG6VhZX2VPkMBAiAsZYhx",
+  "name": "Anubis",
+  "uri": "spotify:artist:6ZG6VhZX2VPkMBAiAsZYhx",
+  "followers": {
+    "href": null,
+    "total": 395
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb823f6cd8f17b83602420686e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174823f6cd8f17b83602420686e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178823f6cd8f17b83602420686e",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ZG6VhZX2VPkMBAiAsZYhx"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7rBKdYlOrwTHDRWZagPWoT",
+  "name": "Detest",
+  "uri": "spotify:artist:7rBKdYlOrwTHDRWZagPWoT",
+  "followers": {
+    "href": null,
+    "total": 9322
+  },
+  "genres": [
+    "uptempo hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb82f9bc4ea1da5c4e3b2bc5ea",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517482f9bc4ea1da5c4e3b2bc5ea",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17882f9bc4ea1da5c4e3b2bc5ea",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7rBKdYlOrwTHDRWZagPWoT"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6Bp9ziG0LvpAsOhKfVmrKc",
+  "name": "Iso.Data",
+  "uri": "spotify:artist:6Bp9ziG0LvpAsOhKfVmrKc",
+  "followers": {
+    "href": null,
+    "total": 246
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb290b9cf9cd146a67bc4344fb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174290b9cf9cd146a67bc4344fb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178290b9cf9cd146a67bc4344fb",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Bp9ziG0LvpAsOhKfVmrKc"
+  }
+}

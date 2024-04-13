@@ -1,0 +1,33 @@
+{
+  "id": "5dNA9pbdAbsWHh4wnWNEvU",
+  "name": "Niño Calavera",
+  "uri": "spotify:artist:5dNA9pbdAbsWHh4wnWNEvU",
+  "followers": {
+    "href": null,
+    "total": 324
+  },
+  "genres": [
+    "punk chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736854100d41090321560e7ef9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026854100d41090321560e7ef9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516854100d41090321560e7ef9",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5dNA9pbdAbsWHh4wnWNEvU"
+  }
+}
