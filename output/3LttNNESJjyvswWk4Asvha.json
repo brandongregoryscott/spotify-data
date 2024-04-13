@@ -1,0 +1,34 @@
+{
+  "id": "3LttNNESJjyvswWk4Asvha",
+  "name": "The Adverts",
+  "uri": "spotify:artist:3LttNNESJjyvswWk4Asvha",
+  "followers": {
+    "href": null,
+    "total": 45293
+  },
+  "genres": [
+    "punk",
+    "uk post-punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739d7c1ff0f53f8062d5ecbeda",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029d7c1ff0f53f8062d5ecbeda",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519d7c1ff0f53f8062d5ecbeda",
+      "width": 64
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3LttNNESJjyvswWk4Asvha"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "4mLJ3XfOM5FPjSAWdQ2Jk7",
+  "name": "Dr. Dog",
+  "uri": "spotify:artist:4mLJ3XfOM5FPjSAWdQ2Jk7",
+  "followers": {
+    "href": null,
+    "total": 525262
+  },
+  "genres": [
+    "chamber pop",
+    "indie rock",
+    "modern folk rock",
+    "philly indie",
+    "pov: indie",
+    "seattle indie",
+    "stomp and holler"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb389c0d8696b536d69be924db",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174389c0d8696b536d69be924db",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178389c0d8696b536d69be924db",
+      "width": 160
+    }
+  ],
+  "popularity": 63,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
+  }
+}

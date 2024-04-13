@@ -1,0 +1,33 @@
+{
+  "id": "6z0facoMGZYR8El8YaMw3q",
+  "name": "My Ruin",
+  "uri": "spotify:artist:6z0facoMGZYR8El8YaMw3q",
+  "followers": {
+    "href": null,
+    "total": 41375
+  },
+  "genres": [
+    "slayer"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27328ed4644181881c3babad59b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0228ed4644181881c3babad59b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485128ed4644181881c3babad59b",
+      "width": 64
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6z0facoMGZYR8El8YaMw3q"
+  }
+}

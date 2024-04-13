@@ -1,0 +1,33 @@
+{
+  "id": "0L3c5hhgyzUledsdcrzBW4",
+  "name": "Head to the Roots",
+  "uri": "spotify:artist:0L3c5hhgyzUledsdcrzBW4",
+  "followers": {
+    "href": null,
+    "total": 443
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc6107dd7b3aa54ea080f13af",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c6107dd7b3aa54ea080f13af",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c6107dd7b3aa54ea080f13af",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0L3c5hhgyzUledsdcrzBW4"
+  }
+}

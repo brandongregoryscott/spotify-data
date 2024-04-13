@@ -1,0 +1,33 @@
+{
+  "id": "42uDv2iDELwbdlk45yUt1a",
+  "name": "Hot Face",
+  "uri": "spotify:artist:42uDv2iDELwbdlk45yUt1a",
+  "followers": {
+    "href": null,
+    "total": 536
+  },
+  "genres": [
+    "crank wave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb67fb436aec68633ba0e45e7b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517467fb436aec68633ba0e45e7b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17867fb436aec68633ba0e45e7b",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/42uDv2iDELwbdlk45yUt1a"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6aGbM7A3oOwFUcUm6nf7ut",
+  "name": "Lay",
+  "uri": "spotify:artist:6aGbM7A3oOwFUcUm6nf7ut",
+  "followers": {
+    "href": null,
+    "total": 329
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27380072f764eb87b141019d695",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0280072f764eb87b141019d695",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485180072f764eb87b141019d695",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6aGbM7A3oOwFUcUm6nf7ut"
+  }
+}

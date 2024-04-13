@@ -1,0 +1,33 @@
+{
+  "id": "1wHOzFXXtwscTkrDadpdNY",
+  "name": "Thrower",
+  "uri": "spotify:artist:1wHOzFXXtwscTkrDadpdNY",
+  "followers": {
+    "href": null,
+    "total": 63
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb52eadcfffee2d1fbd30d2dc9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517452eadcfffee2d1fbd30d2dc9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17852eadcfffee2d1fbd30d2dc9",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1wHOzFXXtwscTkrDadpdNY"
+  }
+}

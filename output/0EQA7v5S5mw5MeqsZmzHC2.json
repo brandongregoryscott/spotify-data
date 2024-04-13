@@ -1,0 +1,34 @@
+{
+  "id": "0EQA7v5S5mw5MeqsZmzHC2",
+  "name": "Ben Woods",
+  "uri": "spotify:artist:0EQA7v5S5mw5MeqsZmzHC2",
+  "followers": {
+    "href": null,
+    "total": 768
+  },
+  "genres": [
+    "christchurch indie",
+    "nz indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe265c323526c4358ba30c1ea",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e265c323526c4358ba30c1ea",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e265c323526c4358ba30c1ea",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0EQA7v5S5mw5MeqsZmzHC2"
+  }
+}

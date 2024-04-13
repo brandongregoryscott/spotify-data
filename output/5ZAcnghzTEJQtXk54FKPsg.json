@@ -1,0 +1,33 @@
+{
+  "id": "5ZAcnghzTEJQtXk54FKPsg",
+  "name": "Senior Living",
+  "uri": "spotify:artist:5ZAcnghzTEJQtXk54FKPsg",
+  "followers": {
+    "href": null,
+    "total": 474
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcae25af131655cce840c6f57",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cae25af131655cce840c6f57",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cae25af131655cce840c6f57",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ZAcnghzTEJQtXk54FKPsg"
+  }
+}

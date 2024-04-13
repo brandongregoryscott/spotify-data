@@ -1,0 +1,33 @@
+{
+  "id": "27CXUHv5mekE9LNdC1KEqb",
+  "name": "Eric Bachmann",
+  "uri": "spotify:artist:27CXUHv5mekE9LNdC1KEqb",
+  "followers": {
+    "href": null,
+    "total": 4585
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebddb18914558869cea2b4425f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ddb18914558869cea2b4425f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ddb18914558869cea2b4425f",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/27CXUHv5mekE9LNdC1KEqb"
+  }
+}

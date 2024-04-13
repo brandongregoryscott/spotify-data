@@ -1,0 +1,33 @@
+{
+  "id": "5ZftQpaQyDTc6H9zw55SFA",
+  "name": "Putrid Stu",
+  "uri": "spotify:artist:5ZftQpaQyDTc6H9zw55SFA",
+  "followers": {
+    "href": null,
+    "total": 8621
+  },
+  "genres": [
+    "mincecore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebda27294057dc91afedc7707f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174da27294057dc91afedc7707f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178da27294057dc91afedc7707f",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ZftQpaQyDTc6H9zw55SFA"
+  }
+}

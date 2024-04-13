@@ -1,0 +1,33 @@
+{
+  "id": "2mKd2pOFDRgPRME0T27GZI",
+  "name": "Mulva",
+  "uri": "spotify:artist:2mKd2pOFDRgPRME0T27GZI",
+  "followers": {
+    "href": null,
+    "total": 139
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb32c37179f91a08e5c3ce2f38",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517432c37179f91a08e5c3ce2f38",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17832c37179f91a08e5c3ce2f38",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2mKd2pOFDRgPRME0T27GZI"
+  }
+}

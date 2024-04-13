@@ -1,0 +1,34 @@
+{
+  "id": "6Xq9CIMYWK4RCrMVtfEOM0",
+  "name": "Grayscale",
+  "uri": "spotify:artist:6Xq9CIMYWK4RCrMVtfEOM0",
+  "followers": {
+    "href": null,
+    "total": 90124
+  },
+  "genres": [
+    "anthem emo",
+    "pop punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaf7df671a82ceb8281ad02ff",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174af7df671a82ceb8281ad02ff",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178af7df671a82ceb8281ad02ff",
+      "width": 160
+    }
+  ],
+  "popularity": 45,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0"
+  }
+}

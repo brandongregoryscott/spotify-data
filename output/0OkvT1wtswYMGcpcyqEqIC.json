@@ -1,0 +1,33 @@
+{
+  "id": "0OkvT1wtswYMGcpcyqEqIC",
+  "name": "Kite Party",
+  "uri": "spotify:artist:0OkvT1wtswYMGcpcyqEqIC",
+  "followers": {
+    "href": null,
+    "total": 818
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fb4551b2b139831d5463b34a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fb4551b2b139831d5463b34a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fb4551b2b139831d5463b34a",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0OkvT1wtswYMGcpcyqEqIC"
+  }
+}

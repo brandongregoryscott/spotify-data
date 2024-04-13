@@ -1,0 +1,33 @@
+{
+  "id": "6sjlX0Q2GDWGsfmBQLas43",
+  "name": "Boyneski",
+  "uri": "spotify:artist:6sjlX0Q2GDWGsfmBQLas43",
+  "followers": {
+    "href": null,
+    "total": 75
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebad8337438829f42348ad9385",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ad8337438829f42348ad9385",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ad8337438829f42348ad9385",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6sjlX0Q2GDWGsfmBQLas43"
+  }
+}

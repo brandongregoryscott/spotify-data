@@ -1,0 +1,33 @@
+{
+  "id": "2RGC2p2HNrw2t73Da5A9SF",
+  "name": "Laikaa",
+  "uri": "spotify:artist:2RGC2p2HNrw2t73Da5A9SF",
+  "followers": {
+    "href": null,
+    "total": 484
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcb301579a1da390a8eb3594b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cb301579a1da390a8eb3594b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cb301579a1da390a8eb3594b",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2RGC2p2HNrw2t73Da5A9SF"
+  }
+}

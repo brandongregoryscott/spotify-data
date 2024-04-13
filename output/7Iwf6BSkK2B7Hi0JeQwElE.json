@@ -1,0 +1,33 @@
+{
+  "id": "7Iwf6BSkK2B7Hi0JeQwElE",
+  "name": "Ian Davies",
+  "uri": "spotify:artist:7Iwf6BSkK2B7Hi0JeQwElE",
+  "followers": {
+    "href": null,
+    "total": 108
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb350100f70abb933e5a66d3ea",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174350100f70abb933e5a66d3ea",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178350100f70abb933e5a66d3ea",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7Iwf6BSkK2B7Hi0JeQwElE"
+  }
+}

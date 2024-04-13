@@ -1,0 +1,39 @@
+{
+  "id": "5mNY0NPszdalbrb4ITO3M8",
+  "name": "Cluster",
+  "uri": "spotify:artist:5mNY0NPszdalbrb4ITO3M8",
+  "followers": {
+    "href": null,
+    "total": 57906
+  },
+  "genres": [
+    "berlin school",
+    "krautrock"
+  ],
+  "images": [
+    {
+      "height": 1000,
+      "url": "https://i.scdn.co/image/dfce0bf92c520627f37f52f253c39f2c7a1f40fb",
+      "width": 1000
+    },
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/0b2d58514a0fac4611f2c302dd054a330aa61dbc",
+      "width": 640
+    },
+    {
+      "height": 200,
+      "url": "https://i.scdn.co/image/03da1c9006e55100893a8aae4a3cb8254e3560f1",
+      "width": 200
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/a6a15994f392eedbef2eaedacb9e017ba064e113",
+      "width": 64
+    }
+  ],
+  "popularity": 37,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "42QHDuNZVv5k4MtjjfmSWY",
+  "name": "Lady Bird",
+  "uri": "spotify:artist:42QHDuNZVv5k4MtjjfmSWY",
+  "followers": {
+    "href": null,
+    "total": 9557
+  },
+  "genres": [
+    "english indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb45db635adb3485382b9b082e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517445db635adb3485382b9b082e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17845db635adb3485382b9b082e",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/42QHDuNZVv5k4MtjjfmSWY"
+  }
+}

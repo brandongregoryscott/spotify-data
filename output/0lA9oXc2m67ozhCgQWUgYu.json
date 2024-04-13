@@ -1,0 +1,33 @@
+{
+  "id": "0lA9oXc2m67ozhCgQWUgYu",
+  "name": "Torent",
+  "uri": "spotify:artist:0lA9oXc2m67ozhCgQWUgYu",
+  "followers": {
+    "href": null,
+    "total": 279
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbc3a48b001e2d9e88e02ebcd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bc3a48b001e2d9e88e02ebcd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bc3a48b001e2d9e88e02ebcd",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0lA9oXc2m67ozhCgQWUgYu"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "5eerVxtb9lY9p6D7m89Bs7",
+  "name": "Jenny Hval",
+  "uri": "spotify:artist:5eerVxtb9lY9p6D7m89Bs7",
+  "followers": {
+    "href": null,
+    "total": 73368
+  },
+  "genres": [
+    "art pop",
+    "electra",
+    "norwegian experimental",
+    "spectra"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb542e1181225be138049e6f33",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174542e1181225be138049e6f33",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178542e1181225be138049e6f33",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
+  }
+}

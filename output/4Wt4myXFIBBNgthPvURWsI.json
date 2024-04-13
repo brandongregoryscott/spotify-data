@@ -1,0 +1,33 @@
+{
+  "id": "4Wt4myXFIBBNgthPvURWsI",
+  "name": "hateful",
+  "uri": "spotify:artist:4Wt4myXFIBBNgthPvURWsI",
+  "followers": {
+    "href": null,
+    "total": 3867
+  },
+  "genres": [
+    "lo-fi chill"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb85186aca8c6d6d98bb93a0ff",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517485186aca8c6d6d98bb93a0ff",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17885186aca8c6d6d98bb93a0ff",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Wt4myXFIBBNgthPvURWsI"
+  }
+}

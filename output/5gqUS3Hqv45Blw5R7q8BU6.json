@@ -1,0 +1,33 @@
+{
+  "id": "5gqUS3Hqv45Blw5R7q8BU6",
+  "name": "charlie",
+  "uri": "spotify:artist:5gqUS3Hqv45Blw5R7q8BU6",
+  "followers": {
+    "href": null,
+    "total": 1111
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbb210daa8608fc9bdf47ff46",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bb210daa8608fc9bdf47ff46",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bb210daa8608fc9bdf47ff46",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5gqUS3Hqv45Blw5R7q8BU6"
+  }
+}

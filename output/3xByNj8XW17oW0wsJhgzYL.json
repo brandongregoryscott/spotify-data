@@ -1,0 +1,35 @@
+{
+  "id": "3xByNj8XW17oW0wsJhgzYL",
+  "name": "SOFT PLAY",
+  "uri": "spotify:artist:3xByNj8XW17oW0wsJhgzYL",
+  "followers": {
+    "href": null,
+    "total": 209556
+  },
+  "genres": [
+    "english indie rock",
+    "kent indie",
+    "modern alternative rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb70aa305a714849b6ce956013",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517470aa305a714849b6ce956013",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17870aa305a714849b6ce956013",
+      "width": 160
+    }
+  ],
+  "popularity": 50,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
+  }
+}

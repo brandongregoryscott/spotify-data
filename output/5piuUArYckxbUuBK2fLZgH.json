@@ -1,0 +1,33 @@
+{
+  "id": "5piuUArYckxbUuBK2fLZgH",
+  "name": "Soft and Dumb",
+  "uri": "spotify:artist:5piuUArYckxbUuBK2fLZgH",
+  "followers": {
+    "href": null,
+    "total": 1150
+  },
+  "genres": [
+    "american post-punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb30e43ca64a91a0f1551d16e4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517430e43ca64a91a0f1551d16e4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17830e43ca64a91a0f1551d16e4",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5piuUArYckxbUuBK2fLZgH"
+  }
+}

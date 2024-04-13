@@ -1,0 +1,34 @@
+{
+  "id": "2d2ElnqC2cMPp7zcSyv3yG",
+  "name": "PVA",
+  "uri": "spotify:artist:2d2ElnqC2cMPp7zcSyv3yG",
+  "followers": {
+    "href": null,
+    "total": 23769
+  },
+  "genres": [
+    "alternative dance",
+    "crank wave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb529aa527872a99898e621093",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174529aa527872a99898e621093",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178529aa527872a99898e621093",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG"
+  }
+}

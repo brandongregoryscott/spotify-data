@@ -1,0 +1,33 @@
+{
+  "id": "3JKcaaApz7XPYdTZyKignS",
+  "name": "Volcano",
+  "uri": "spotify:artist:3JKcaaApz7XPYdTZyKignS",
+  "followers": {
+    "href": null,
+    "total": 13769
+  },
+  "genres": [
+    "ohio hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736433a8f2793a5e3afe193a77",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026433a8f2793a5e3afe193a77",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516433a8f2793a5e3afe193a77",
+      "width": 64
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3JKcaaApz7XPYdTZyKignS"
+  }
+}

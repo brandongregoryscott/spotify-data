@@ -1,0 +1,33 @@
+{
+  "id": "70kEs7OMlk8egbrVvRlOIv",
+  "name": "Fust",
+  "uri": "spotify:artist:70kEs7OMlk8egbrVvRlOIv",
+  "followers": {
+    "href": null,
+    "total": 1361
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb41e1e7ac708abea9f2a3fbf3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517441e1e7ac708abea9f2a3fbf3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17841e1e7ac708abea9f2a3fbf3",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/70kEs7OMlk8egbrVvRlOIv"
+  }
+}

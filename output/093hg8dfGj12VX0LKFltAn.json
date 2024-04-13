@@ -1,0 +1,33 @@
+{
+  "id": "093hg8dfGj12VX0LKFltAn",
+  "name": "Bummer Hill",
+  "uri": "spotify:artist:093hg8dfGj12VX0LKFltAn",
+  "followers": {
+    "href": null,
+    "total": 465
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb76c9dd7fbb914cc32777a8ba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517476c9dd7fbb914cc32777a8ba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17876c9dd7fbb914cc32777a8ba",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/093hg8dfGj12VX0LKFltAn"
+  }
+}

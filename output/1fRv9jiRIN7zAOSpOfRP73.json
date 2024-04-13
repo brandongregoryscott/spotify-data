@@ -1,0 +1,35 @@
+{
+  "id": "1fRv9jiRIN7zAOSpOfRP73",
+  "name": "GEL",
+  "uri": "spotify:artist:1fRv9jiRIN7zAOSpOfRP73",
+  "followers": {
+    "href": null,
+    "total": 53724
+  },
+  "genres": [
+    "chain punk",
+    "modern hardcore",
+    "new jersey hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfefaa591cad9b661a0521799",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fefaa591cad9b661a0521799",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fefaa591cad9b661a0521799",
+      "width": 160
+    }
+  ],
+  "popularity": 43,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73"
+  }
+}

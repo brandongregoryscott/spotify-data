@@ -1,0 +1,35 @@
+{
+  "id": "07oHSnqyeLR2Upt5JDJjfy",
+  "name": "Shiner",
+  "uri": "spotify:artist:07oHSnqyeLR2Upt5JDJjfy",
+  "followers": {
+    "href": null,
+    "total": 13214
+  },
+  "genres": [
+    "math rock",
+    "post-hardcore",
+    "spacegrunge"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe89b7d472bdab724ca780bb1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e89b7d472bdab724ca780bb1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e89b7d472bdab724ca780bb1",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07oHSnqyeLR2Upt5JDJjfy"
+  }
+}

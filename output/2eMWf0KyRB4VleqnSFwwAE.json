@@ -1,0 +1,33 @@
+{
+  "id": "2eMWf0KyRB4VleqnSFwwAE",
+  "name": "The Phonecall",
+  "uri": "spotify:artist:2eMWf0KyRB4VleqnSFwwAE",
+  "followers": {
+    "href": null,
+    "total": 258
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb49da72dd7c93ce535d9a5dc8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517449da72dd7c93ce535d9a5dc8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17849da72dd7c93ce535d9a5dc8",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2eMWf0KyRB4VleqnSFwwAE"
+  }
+}

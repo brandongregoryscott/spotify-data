@@ -1,0 +1,34 @@
+{
+  "id": "76MYFplB5PTIPmoiwmZq4z",
+  "name": "Oslow",
+  "uri": "spotify:artist:76MYFplB5PTIPmoiwmZq4z",
+  "followers": {
+    "href": null,
+    "total": 1080
+  },
+  "genres": [
+    "aussie emo",
+    "midwest emo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb46b5afa77a0cd7778756b4d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b46b5afa77a0cd7778756b4d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b46b5afa77a0cd7778756b4d",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/76MYFplB5PTIPmoiwmZq4z"
+  }
+}

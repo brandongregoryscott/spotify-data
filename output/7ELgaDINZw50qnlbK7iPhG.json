@@ -1,0 +1,33 @@
+{
+  "id": "7ELgaDINZw50qnlbK7iPhG",
+  "name": "Thirdface",
+  "uri": "spotify:artist:7ELgaDINZw50qnlbK7iPhG",
+  "followers": {
+    "href": null,
+    "total": 7383
+  },
+  "genres": [
+    "modern hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5c6951ae5493226fee689204",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051745c6951ae5493226fee689204",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1785c6951ae5493226fee689204",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ELgaDINZw50qnlbK7iPhG"
+  }
+}

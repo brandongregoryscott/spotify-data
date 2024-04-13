@@ -1,0 +1,33 @@
+{
+  "id": "2yW7ALxCYqJMTBFLxGbs3g",
+  "name": "Thingy",
+  "uri": "spotify:artist:2yW7ALxCYqJMTBFLxGbs3g",
+  "followers": {
+    "href": null,
+    "total": 7078
+  },
+  "genres": [
+    "math rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733767b307742809625ab97044",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023767b307742809625ab97044",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513767b307742809625ab97044",
+      "width": 64
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2yW7ALxCYqJMTBFLxGbs3g"
+  }
+}

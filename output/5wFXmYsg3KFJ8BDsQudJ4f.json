@@ -1,0 +1,33 @@
+{
+  "id": "5wFXmYsg3KFJ8BDsQudJ4f",
+  "name": "Manchester Orchestra",
+  "uri": "spotify:artist:5wFXmYsg3KFJ8BDsQudJ4f",
+  "followers": {
+    "href": null,
+    "total": 554118
+  },
+  "genres": [
+    "indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc76415b4869d52d07f6fe5fd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c76415b4869d52d07f6fe5fd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c76415b4869d52d07f6fe5fd",
+      "width": 160
+    }
+  ],
+  "popularity": 62,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "5mcarhiatlvfCghqcn73rC",
+  "name": "The Seeds",
+  "uri": "spotify:artist:5mcarhiatlvfCghqcn73rC",
+  "followers": {
+    "href": null,
+    "total": 72574
+  },
+  "genres": [
+    "classic garage rock",
+    "protopunk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fcb35a573a3811f1a67e15a6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fcb35a573a3811f1a67e15a6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fcb35a573a3811f1a67e15a6",
+      "width": 64
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5mcarhiatlvfCghqcn73rC"
+  }
+}

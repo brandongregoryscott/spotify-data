@@ -1,0 +1,33 @@
+{
+  "id": "3OMz4nG4WuM4rKauIOITAS",
+  "name": "LOWER",
+  "uri": "spotify:artist:3OMz4nG4WuM4rKauIOITAS",
+  "followers": {
+    "href": null,
+    "total": 2937
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb18193a3f2576f7112c903e31",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517418193a3f2576f7112c903e31",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17818193a3f2576f7112c903e31",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3OMz4nG4WuM4rKauIOITAS"
+  }
+}

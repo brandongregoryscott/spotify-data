@@ -1,0 +1,33 @@
+{
+  "id": "6BNgKVa1bMGfldh4EVvvzd",
+  "name": "Broken Cloud Machine",
+  "uri": "spotify:artist:6BNgKVa1bMGfldh4EVvvzd",
+  "followers": {
+    "href": null,
+    "total": 581
+  },
+  "genres": [
+    "lo-fi indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3e9bc7fb3278d04313b92b40",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051743e9bc7fb3278d04313b92b40",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1783e9bc7fb3278d04313b92b40",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6BNgKVa1bMGfldh4EVvvzd"
+  }
+}

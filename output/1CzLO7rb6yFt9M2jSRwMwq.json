@@ -1,0 +1,33 @@
+{
+  "id": "1CzLO7rb6yFt9M2jSRwMwq",
+  "name": "Hel Toro",
+  "uri": "spotify:artist:1CzLO7rb6yFt9M2jSRwMwq",
+  "followers": {
+    "href": null,
+    "total": 220
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736d656393d55f1d3e01c11735",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026d656393d55f1d3e01c11735",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516d656393d55f1d3e01c11735",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1CzLO7rb6yFt9M2jSRwMwq"
+  }
+}

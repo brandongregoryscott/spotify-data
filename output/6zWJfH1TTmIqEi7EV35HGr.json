@@ -1,0 +1,36 @@
+{
+  "id": "6zWJfH1TTmIqEi7EV35HGr",
+  "name": "Pip Blom",
+  "uri": "spotify:artist:6zWJfH1TTmIqEi7EV35HGr",
+  "followers": {
+    "href": null,
+    "total": 51325
+  },
+  "genres": [
+    "crank wave",
+    "dutch indie",
+    "dutch indie rock",
+    "english indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb389fec1e185ce1659104f20d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174389fec1e185ce1659104f20d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178389fec1e185ce1659104f20d",
+      "width": 160
+    }
+  ],
+  "popularity": 39,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6zWJfH1TTmIqEi7EV35HGr"
+  }
+}

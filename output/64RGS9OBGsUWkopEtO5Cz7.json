@@ -1,0 +1,33 @@
+{
+  "id": "64RGS9OBGsUWkopEtO5Cz7",
+  "name": "Kevin Drew",
+  "uri": "spotify:artist:64RGS9OBGsUWkopEtO5Cz7",
+  "followers": {
+    "href": null,
+    "total": 16493
+  },
+  "genres": [
+    "canadian indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc9663737a6f7d86c6d33cf9d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c9663737a6f7d86c6d33cf9d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c9663737a6f7d86c6d33cf9d",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7"
+  }
+}

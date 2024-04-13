@@ -1,0 +1,33 @@
+{
+  "id": "36C05GAOlhHqdyXkOAvXm9",
+  "name": "tsuyouma",
+  "uri": "spotify:artist:36C05GAOlhHqdyXkOAvXm9",
+  "followers": {
+    "href": null,
+    "total": 270
+  },
+  "genres": [
+    "new wave of screamo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaca41b804b9e4312cd403041",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aca41b804b9e4312cd403041",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aca41b804b9e4312cd403041",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/36C05GAOlhHqdyXkOAvXm9"
+  }
+}

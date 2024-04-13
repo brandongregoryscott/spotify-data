@@ -1,0 +1,33 @@
+{
+  "id": "5HViQsHNdOovxKa420CPGR",
+  "name": "Friko",
+  "uri": "spotify:artist:5HViQsHNdOovxKa420CPGR",
+  "followers": {
+    "href": null,
+    "total": 14619
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb564cbe54789426dad718da70",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174564cbe54789426dad718da70",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178564cbe54789426dad718da70",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+  }
+}

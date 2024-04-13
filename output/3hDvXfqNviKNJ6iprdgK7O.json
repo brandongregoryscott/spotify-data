@@ -1,0 +1,33 @@
+{
+  "id": "3hDvXfqNviKNJ6iprdgK7O",
+  "name": "Rip Van Winkle",
+  "uri": "spotify:artist:3hDvXfqNviKNJ6iprdgK7O",
+  "followers": {
+    "href": null,
+    "total": 250
+  },
+  "genres": [
+    "gbvfi"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fcd2f4ba2a4aefda30aa5f2d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fcd2f4ba2a4aefda30aa5f2d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fcd2f4ba2a4aefda30aa5f2d",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3hDvXfqNviKNJ6iprdgK7O"
+  }
+}

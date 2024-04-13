@@ -1,0 +1,35 @@
+{
+  "id": "4DeF1n7pWrs52PhWd2sEyr",
+  "name": "Rasputina",
+  "uri": "spotify:artist:4DeF1n7pWrs52PhWd2sEyr",
+  "followers": {
+    "href": null,
+    "total": 56382
+  },
+  "genres": [
+    "cello",
+    "dark cabaret",
+    "steampunk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb9f9b9ba1aa10f48548e0aba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b9f9b9ba1aa10f48548e0aba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b9f9b9ba1aa10f48548e0aba",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4DeF1n7pWrs52PhWd2sEyr"
+  }
+}

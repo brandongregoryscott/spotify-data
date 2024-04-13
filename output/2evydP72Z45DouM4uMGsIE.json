@@ -1,0 +1,33 @@
+{
+  "id": "2evydP72Z45DouM4uMGsIE",
+  "name": "Ash",
+  "uri": "spotify:artist:2evydP72Z45DouM4uMGsIE",
+  "followers": {
+    "href": null,
+    "total": 175120
+  },
+  "genres": [
+    "britpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb53ae5e13a2f872ce8dcc3a40",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517453ae5e13a2f872ce8dcc3a40",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17853ae5e13a2f872ce8dcc3a40",
+      "width": 160
+    }
+  ],
+  "popularity": 43,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
+  }
+}

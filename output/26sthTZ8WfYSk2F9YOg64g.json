@@ -1,0 +1,33 @@
+{
+  "id": "26sthTZ8WfYSk2F9YOg64g",
+  "name": "Snail Trails",
+  "uri": "spotify:artist:26sthTZ8WfYSk2F9YOg64g",
+  "followers": {
+    "href": null,
+    "total": 255
+  },
+  "genres": [
+    "new wave of screamo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebef2f56b866d8ff4901e2e140",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ef2f56b866d8ff4901e2e140",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ef2f56b866d8ff4901e2e140",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/26sthTZ8WfYSk2F9YOg64g"
+  }
+}

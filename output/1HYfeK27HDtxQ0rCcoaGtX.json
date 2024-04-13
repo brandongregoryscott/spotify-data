@@ -1,0 +1,35 @@
+{
+  "id": "1HYfeK27HDtxQ0rCcoaGtX",
+  "name": "LUMER",
+  "uri": "spotify:artist:1HYfeK27HDtxQ0rCcoaGtX",
+  "followers": {
+    "href": null,
+    "total": 3518
+  },
+  "genres": [
+    "crank wave",
+    "hull indie",
+    "uk post-punk revival"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb6695f24c16357f0efafe12e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b6695f24c16357f0efafe12e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b6695f24c16357f0efafe12e",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1HYfeK27HDtxQ0rCcoaGtX"
+  }
+}

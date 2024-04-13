@@ -1,0 +1,35 @@
+{
+  "id": "21ltygJ3rGHmnqaUzqnsku",
+  "name": "Meatbodies",
+  "uri": "spotify:artist:21ltygJ3rGHmnqaUzqnsku",
+  "followers": {
+    "href": null,
+    "total": 43872
+  },
+  "genres": [
+    "garage pop",
+    "indie garage rock",
+    "neo-psychedelic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc7166b919c2395787cc5c73e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c7166b919c2395787cc5c73e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c7166b919c2395787cc5c73e",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/21ltygJ3rGHmnqaUzqnsku"
+  }
+}

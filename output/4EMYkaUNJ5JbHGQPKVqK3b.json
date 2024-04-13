@@ -1,0 +1,33 @@
+{
+  "id": "4EMYkaUNJ5JbHGQPKVqK3b",
+  "name": "The Dennies",
+  "uri": "spotify:artist:4EMYkaUNJ5JbHGQPKVqK3b",
+  "followers": {
+    "href": null,
+    "total": 301
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb13d1ca64fc39884d33779677",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517413d1ca64fc39884d33779677",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17813d1ca64fc39884d33779677",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4EMYkaUNJ5JbHGQPKVqK3b"
+  }
+}

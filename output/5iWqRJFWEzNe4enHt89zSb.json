@@ -1,0 +1,33 @@
+{
+  "id": "5iWqRJFWEzNe4enHt89zSb",
+  "name": "Banana",
+  "uri": "spotify:artist:5iWqRJFWEzNe4enHt89zSb",
+  "followers": {
+    "href": null,
+    "total": 145
+  },
+  "genres": [
+    "boston indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f256d0b59f74b16655e6f205",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f256d0b59f74b16655e6f205",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f256d0b59f74b16655e6f205",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5iWqRJFWEzNe4enHt89zSb"
+  }
+}

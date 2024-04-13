@@ -1,0 +1,33 @@
+{
+  "id": "49x9krjMRVeW1rH4IQL43B",
+  "name": "Vera Ellen",
+  "uri": "spotify:artist:49x9krjMRVeW1rH4IQL43B",
+  "followers": {
+    "href": null,
+    "total": 1464
+  },
+  "genres": [
+    "nz indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb26c9e0cf4707191a5efda96b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517426c9e0cf4707191a5efda96b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17826c9e0cf4707191a5efda96b",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/49x9krjMRVeW1rH4IQL43B"
+  }
+}

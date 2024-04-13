@@ -1,0 +1,33 @@
+{
+  "id": "2cW7KEYzMge8pg6dlv7HOS",
+  "name": "Eric Henkes",
+  "uri": "spotify:artist:2cW7KEYzMge8pg6dlv7HOS",
+  "followers": {
+    "href": null,
+    "total": 56
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb988a6ff516bd44643cc706ce",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174988a6ff516bd44643cc706ce",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178988a6ff516bd44643cc706ce",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2cW7KEYzMge8pg6dlv7HOS"
+  }
+}

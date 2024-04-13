@@ -1,0 +1,34 @@
+{
+  "id": "3D7VHcFLuxc2mlzoH5ngpe",
+  "name": "USA Nails",
+  "uri": "spotify:artist:3D7VHcFLuxc2mlzoH5ngpe",
+  "followers": {
+    "href": null,
+    "total": 7696
+  },
+  "genres": [
+    "noise rock",
+    "uk noise rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb03b43bdf46118a43105fb5ed",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517403b43bdf46118a43105fb5ed",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17803b43bdf46118a43105fb5ed",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3D7VHcFLuxc2mlzoH5ngpe"
+  }
+}

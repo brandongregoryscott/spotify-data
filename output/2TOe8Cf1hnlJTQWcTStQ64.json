@@ -1,0 +1,33 @@
+{
+  "id": "2TOe8Cf1hnlJTQWcTStQ64",
+  "name": "Raavi",
+  "uri": "spotify:artist:2TOe8Cf1hnlJTQWcTStQ64",
+  "followers": {
+    "href": null,
+    "total": 5165
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebebd22ee4ebc12b6865c51c2b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ebd22ee4ebc12b6865c51c2b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ebd22ee4ebc12b6865c51c2b",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2TOe8Cf1hnlJTQWcTStQ64"
+  }
+}
