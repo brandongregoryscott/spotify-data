@@ -4,9 +4,16 @@ require 'rspotify'
 require 'date'
 
 def main()
-    RSpotify.authenticate(ENV["CLIENT_ID"], ENV["CLIENT_SECRET"])
+    clientIds = ENV["CLIENT_IDS"].split(',')
+    clientSecrets = ENV["CLIENT_SECRETS"].split(',')
 
-    hour = DateTime.now.hour
+    hour = Integer(DateTime.now.strftime('%H'))
+
+    secretIndex = hour % 8
+    clientId = clientIds[secretIndex]
+    clientSecret = clientSecrets[secretIndex]
+
+    RSpotify.authenticate(clientId, clientSecret)
 
     artist_ids_file = File.read('input/artists.json')
     artist_ids = JSON.parse(artist_ids_file)
