@@ -1,0 +1,33 @@
+{
+  "id": "5dWoWpmyoQz9VHHUt29Ftq",
+  "name": "enable secret",
+  "uri": "spotify:artist:5dWoWpmyoQz9VHHUt29Ftq",
+  "followers": {
+    "href": null,
+    "total": 94
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb049ae36eb3301d3f180e89d2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174049ae36eb3301d3f180e89d2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178049ae36eb3301d3f180e89d2",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5dWoWpmyoQz9VHHUt29Ftq"
+  }
+}

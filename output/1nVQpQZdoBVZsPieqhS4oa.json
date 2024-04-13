@@ -1,0 +1,33 @@
+{
+  "id": "1nVQpQZdoBVZsPieqhS4oa",
+  "name": "willow1",
+  "uri": "spotify:artist:1nVQpQZdoBVZsPieqhS4oa",
+  "followers": {
+    "href": null,
+    "total": 240
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaf6d499cd486189e07175342",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174af6d499cd486189e07175342",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178af6d499cd486189e07175342",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1nVQpQZdoBVZsPieqhS4oa"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "22U1kCWJmaUXW4iWsbResJ",
+  "name": "Mala Vista",
+  "uri": "spotify:artist:22U1kCWJmaUXW4iWsbResJ",
+  "followers": {
+    "href": null,
+    "total": 340
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb38e63a361649f54a5420c67f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517438e63a361649f54a5420c67f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17838e63a361649f54a5420c67f",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/22U1kCWJmaUXW4iWsbResJ"
+  }
+}

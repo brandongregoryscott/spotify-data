@@ -1,0 +1,33 @@
+{
+  "id": "7KtRnMzllYYK67K4o3yjkV",
+  "name": "Quem é você Alice?",
+  "uri": "spotify:artist:7KtRnMzllYYK67K4o3yjkV",
+  "followers": {
+    "href": null,
+    "total": 2753
+  },
+  "genres": [
+    "rio grande do sul indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb54f3132c621a3720cdbc3e6f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517454f3132c621a3720cdbc3e6f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17854f3132c621a3720cdbc3e6f",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7KtRnMzllYYK67K4o3yjkV"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0G2H8XIsqcdI5GJrYdRRPa",
+  "name": "ESP",
+  "uri": "spotify:artist:0G2H8XIsqcdI5GJrYdRRPa",
+  "followers": {
+    "href": null,
+    "total": 3717
+  },
+  "genres": [
+    "hypertrance"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebca63235664143a6f96bbed9f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ca63235664143a6f96bbed9f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ca63235664143a6f96bbed9f",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0G2H8XIsqcdI5GJrYdRRPa"
+  }
+}

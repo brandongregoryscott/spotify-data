@@ -1,0 +1,33 @@
+{
+  "id": "3umkAem3suGUeqXP9N2A2B",
+  "name": "Firecracker 500",
+  "uri": "spotify:artist:3umkAem3suGUeqXP9N2A2B",
+  "followers": {
+    "href": null,
+    "total": 45
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe6dfc8438afa0816ee2b5539",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e6dfc8438afa0816ee2b5539",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e6dfc8438afa0816ee2b5539",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3umkAem3suGUeqXP9N2A2B"
+  }
+}

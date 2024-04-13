@@ -1,0 +1,36 @@
+{
+  "id": "3FPflECmvkrze212dLPRSC",
+  "name": "GFOTY",
+  "uri": "spotify:artist:3FPflECmvkrze212dLPRSC",
+  "followers": {
+    "href": null,
+    "total": 71787
+  },
+  "genres": [
+    "escape room",
+    "hyperpop",
+    "pink noise",
+    "proto-hyperpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb97b3e1f2fd057f46e4301378",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517497b3e1f2fd057f46e4301378",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17897b3e1f2fd057f46e4301378",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC"
+  }
+}

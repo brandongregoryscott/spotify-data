@@ -1,0 +1,33 @@
+{
+  "id": "5yCDU2cbUX69GwblH65Et5",
+  "name": "cherry pick",
+  "uri": "spotify:artist:5yCDU2cbUX69GwblH65Et5",
+  "followers": {
+    "href": null,
+    "total": 2300
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb94380f53c8b30e1ae46406c2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517494380f53c8b30e1ae46406c2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17894380f53c8b30e1ae46406c2",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5yCDU2cbUX69GwblH65Et5"
+  }
+}

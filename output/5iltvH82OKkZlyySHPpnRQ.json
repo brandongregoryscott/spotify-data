@@ -1,0 +1,33 @@
+{
+  "id": "5iltvH82OKkZlyySHPpnRQ",
+  "name": "OVERROCKET",
+  "uri": "spotify:artist:5iltvH82OKkZlyySHPpnRQ",
+  "followers": {
+    "href": null,
+    "total": 1464
+  },
+  "genres": [
+    "picopop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bd338a2150b30a5fea73764c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bd338a2150b30a5fea73764c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bd338a2150b30a5fea73764c",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5iltvH82OKkZlyySHPpnRQ"
+  }
+}

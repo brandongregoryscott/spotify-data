@@ -1,0 +1,33 @@
+{
+  "id": "2Si3D69wfASRJMWq8BltJg",
+  "name": "monoqlom",
+  "uri": "spotify:artist:2Si3D69wfASRJMWq8BltJg",
+  "followers": {
+    "href": null,
+    "total": 216
+  },
+  "genres": [
+    "extratone"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273af05adf6ee8e1fd09d31f58e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02af05adf6ee8e1fd09d31f58e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851af05adf6ee8e1fd09d31f58e",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Si3D69wfASRJMWq8BltJg"
+  }
+}

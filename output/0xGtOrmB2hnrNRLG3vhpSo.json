@@ -1,0 +1,33 @@
+{
+  "id": "0xGtOrmB2hnrNRLG3vhpSo",
+  "name": "Anri",
+  "uri": "spotify:artist:0xGtOrmB2hnrNRLG3vhpSo",
+  "followers": {
+    "href": null,
+    "total": 366494
+  },
+  "genres": [
+    "classic city pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cfd93d36fe2365f9436587d1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cfd93d36fe2365f9436587d1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cfd93d36fe2365f9436587d1",
+      "width": 64
+    }
+  ],
+  "popularity": 60,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo"
+  }
+}

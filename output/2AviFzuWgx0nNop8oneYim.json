@@ -1,0 +1,33 @@
+{
+  "id": "2AviFzuWgx0nNop8oneYim",
+  "name": "Consumer",
+  "uri": "spotify:artist:2AviFzuWgx0nNop8oneYim",
+  "followers": {
+    "href": null,
+    "total": 948
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273670ed6d9e21a322e1be8f718",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02670ed6d9e21a322e1be8f718",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851670ed6d9e21a322e1be8f718",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2AviFzuWgx0nNop8oneYim"
+  }
+}

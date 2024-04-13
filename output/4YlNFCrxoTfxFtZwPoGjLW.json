@@ -1,0 +1,35 @@
+{
+  "id": "4YlNFCrxoTfxFtZwPoGjLW",
+  "name": "Torus",
+  "uri": "spotify:artist:4YlNFCrxoTfxFtZwPoGjLW",
+  "followers": {
+    "href": null,
+    "total": 9150
+  },
+  "genres": [
+    "deconstructed club",
+    "grimewave",
+    "new isolationism"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebda0ff4034754824faed1c796",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174da0ff4034754824faed1c796",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178da0ff4034754824faed1c796",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4YlNFCrxoTfxFtZwPoGjLW"
+  }
+}

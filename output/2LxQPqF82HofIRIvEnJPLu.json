@@ -1,0 +1,33 @@
+{
+  "id": "2LxQPqF82HofIRIvEnJPLu",
+  "name": "Drux",
+  "uri": "spotify:artist:2LxQPqF82HofIRIvEnJPLu",
+  "followers": {
+    "href": null,
+    "total": 1626
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb524e47153282e0c6b537a92a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174524e47153282e0c6b537a92a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178524e47153282e0c6b537a92a",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2LxQPqF82HofIRIvEnJPLu"
+  }
+}

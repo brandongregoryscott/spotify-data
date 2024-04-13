@@ -1,0 +1,33 @@
+{
+  "id": "0Ts7E9BKfqHcnmQjUvNmli",
+  "name": "cactø",
+  "uri": "spotify:artist:0Ts7E9BKfqHcnmQjUvNmli",
+  "followers": {
+    "href": null,
+    "total": 1078
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcfb28daef31a65038a5de045",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cfb28daef31a65038a5de045",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cfb28daef31a65038a5de045",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Ts7E9BKfqHcnmQjUvNmli"
+  }
+}

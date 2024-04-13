@@ -1,0 +1,33 @@
+{
+  "id": "1naNQO2AjeQSJBezcMI0wB",
+  "name": "nenji",
+  "uri": "spotify:artist:1naNQO2AjeQSJBezcMI0wB",
+  "followers": {
+    "href": null,
+    "total": 1041
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb8df6436e65ac5ce31a975c0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b8df6436e65ac5ce31a975c0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b8df6436e65ac5ce31a975c0",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1naNQO2AjeQSJBezcMI0wB"
+  }
+}

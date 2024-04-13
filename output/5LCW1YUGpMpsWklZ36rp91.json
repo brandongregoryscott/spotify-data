@@ -1,0 +1,33 @@
+{
+  "id": "5LCW1YUGpMpsWklZ36rp91",
+  "name": "Trhä",
+  "uri": "spotify:artist:5LCW1YUGpMpsWklZ36rp91",
+  "followers": {
+    "href": null,
+    "total": 7803
+  },
+  "genres": [
+    "autonomous black metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b76a72b53649a2fc4d630383",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b76a72b53649a2fc4d630383",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b76a72b53649a2fc4d630383",
+      "width": 64
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5LCW1YUGpMpsWklZ36rp91"
+  }
+}
