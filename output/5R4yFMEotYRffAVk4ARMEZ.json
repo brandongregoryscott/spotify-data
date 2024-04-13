@@ -1,0 +1,33 @@
+{
+  "id": "5R4yFMEotYRffAVk4ARMEZ",
+  "name": "Apate",
+  "uri": "spotify:artist:5R4yFMEotYRffAVk4ARMEZ",
+  "followers": {
+    "href": null,
+    "total": 7997
+  },
+  "genres": [
+    "metallic hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebad288b5e495d5cabb6758a97",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ad288b5e495d5cabb6758a97",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ad288b5e495d5cabb6758a97",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5R4yFMEotYRffAVk4ARMEZ"
+  }
+}

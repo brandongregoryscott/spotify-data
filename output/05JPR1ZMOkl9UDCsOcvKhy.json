@@ -1,0 +1,33 @@
+{
+  "id": "05JPR1ZMOkl9UDCsOcvKhy",
+  "name": "Zoller",
+  "uri": "spotify:artist:05JPR1ZMOkl9UDCsOcvKhy",
+  "followers": {
+    "href": null,
+    "total": 174
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb03b0cd880739e19b9dc5d0ff",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517403b0cd880739e19b9dc5d0ff",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17803b0cd880739e19b9dc5d0ff",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05JPR1ZMOkl9UDCsOcvKhy"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "12NT5hq8ehhvaZJaBJ2iXn",
+  "name": "Torrente",
+  "uri": "spotify:artist:12NT5hq8ehhvaZJaBJ2iXn",
+  "followers": {
+    "href": null,
+    "total": 810
+  },
+  "genres": [
+    "detroit trap en espanol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb406fd5edd3c0daa0b01fcaaf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174406fd5edd3c0daa0b01fcaaf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178406fd5edd3c0daa0b01fcaaf",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/12NT5hq8ehhvaZJaBJ2iXn"
+  }
+}

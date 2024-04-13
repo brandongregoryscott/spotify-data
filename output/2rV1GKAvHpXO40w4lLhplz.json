@@ -1,0 +1,33 @@
+{
+  "id": "2rV1GKAvHpXO40w4lLhplz",
+  "name": "Chini.png",
+  "uri": "spotify:artist:2rV1GKAvHpXO40w4lLhplz",
+  "followers": {
+    "href": null,
+    "total": 5898
+  },
+  "genres": [
+    "chilean indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb240d4674fe194c22e4834b15",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174240d4674fe194c22e4834b15",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178240d4674fe194c22e4834b15",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
+  }
+}

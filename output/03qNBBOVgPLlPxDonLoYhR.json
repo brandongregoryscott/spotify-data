@@ -1,0 +1,35 @@
+{
+  "id": "03qNBBOVgPLlPxDonLoYhR",
+  "name": "Juguetenfermo",
+  "uri": "spotify:artist:03qNBBOVgPLlPxDonLoYhR",
+  "followers": {
+    "href": null,
+    "total": 745
+  },
+  "genres": [
+    "chilean hardcore",
+    "punk chileno",
+    "punk melodico chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb14fd0fe701ee2d8b06d771a7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517414fd0fe701ee2d8b06d771a7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17814fd0fe701ee2d8b06d771a7",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03qNBBOVgPLlPxDonLoYhR"
+  }
+}

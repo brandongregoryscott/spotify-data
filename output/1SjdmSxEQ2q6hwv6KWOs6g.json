@@ -1,0 +1,33 @@
+{
+  "id": "1SjdmSxEQ2q6hwv6KWOs6g",
+  "name": "CARD",
+  "uri": "spotify:artist:1SjdmSxEQ2q6hwv6KWOs6g",
+  "followers": {
+    "href": null,
+    "total": 747
+  },
+  "genres": [
+    "japanese emo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb75901a29ac5c6dff14615250",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517475901a29ac5c6dff14615250",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17875901a29ac5c6dff14615250",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1SjdmSxEQ2q6hwv6KWOs6g"
+  }
+}

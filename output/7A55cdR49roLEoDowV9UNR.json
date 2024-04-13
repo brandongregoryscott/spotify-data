@@ -1,0 +1,33 @@
+{
+  "id": "7A55cdR49roLEoDowV9UNR",
+  "name": "Kule",
+  "uri": "spotify:artist:7A55cdR49roLEoDowV9UNR",
+  "followers": {
+    "href": null,
+    "total": 645
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc075c77b7e08d501db458735",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c075c77b7e08d501db458735",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c075c77b7e08d501db458735",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7A55cdR49roLEoDowV9UNR"
+  }
+}

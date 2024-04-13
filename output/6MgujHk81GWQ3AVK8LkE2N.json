@@ -1,0 +1,33 @@
+{
+  "id": "6MgujHk81GWQ3AVK8LkE2N",
+  "name": "Triangles",
+  "uri": "spotify:artist:6MgujHk81GWQ3AVK8LkE2N",
+  "followers": {
+    "href": null,
+    "total": 259
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb07f6cb266f36ce66efdf1376",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517407f6cb266f36ce66efdf1376",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17807f6cb266f36ce66efdf1376",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6MgujHk81GWQ3AVK8LkE2N"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2siNFFYb4sldMke5POpiXN",
+  "name": "Feeding",
+  "uri": "spotify:artist:2siNFFYb4sldMke5POpiXN",
+  "followers": {
+    "href": null,
+    "total": 139
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dddfc1ece8fa98bdf9d080eb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dddfc1ece8fa98bdf9d080eb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dddfc1ece8fa98bdf9d080eb",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2siNFFYb4sldMke5POpiXN"
+  }
+}

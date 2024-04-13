@@ -1,0 +1,33 @@
+{
+  "id": "67zDY0PpdxQVBLAwWLfXag",
+  "name": "Phaeder",
+  "uri": "spotify:artist:67zDY0PpdxQVBLAwWLfXag",
+  "followers": {
+    "href": null,
+    "total": 121
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ef28d7a4628291a94019805b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ef28d7a4628291a94019805b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ef28d7a4628291a94019805b",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/67zDY0PpdxQVBLAwWLfXag"
+  }
+}

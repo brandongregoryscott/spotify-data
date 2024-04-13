@@ -1,0 +1,33 @@
+{
+  "id": "0y875CYRltx6I3I6i9qkxE",
+  "name": "Strainer",
+  "uri": "spotify:artist:0y875CYRltx6I3I6i9qkxE",
+  "followers": {
+    "href": null,
+    "total": 419
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb61372aeb88298629837014ea",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517461372aeb88298629837014ea",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17861372aeb88298629837014ea",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0y875CYRltx6I3I6i9qkxE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3Cf9pFcsp8XRIMPDIBow7e",
+  "name": "Seven days cl",
+  "uri": "spotify:artist:3Cf9pFcsp8XRIMPDIBow7e",
+  "followers": {
+    "href": null,
+    "total": 108
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb2ade3cf1e003feff003d361c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051742ade3cf1e003feff003d361c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1782ade3cf1e003feff003d361c",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Cf9pFcsp8XRIMPDIBow7e"
+  }
+}

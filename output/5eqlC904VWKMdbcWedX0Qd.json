@@ -1,0 +1,33 @@
+{
+  "id": "5eqlC904VWKMdbcWedX0Qd",
+  "name": "Mundane",
+  "uri": "spotify:artist:5eqlC904VWKMdbcWedX0Qd",
+  "followers": {
+    "href": null,
+    "total": 121
+  },
+  "genres": [
+    "swedish emo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba92b33786f3d56581f8a757c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a92b33786f3d56581f8a757c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a92b33786f3d56581f8a757c",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5eqlC904VWKMdbcWedX0Qd"
+  }
+}

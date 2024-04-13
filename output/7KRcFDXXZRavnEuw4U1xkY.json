@@ -1,0 +1,33 @@
+{
+  "id": "7KRcFDXXZRavnEuw4U1xkY",
+  "name": "S.E.R.",
+  "uri": "spotify:artist:7KRcFDXXZRavnEuw4U1xkY",
+  "followers": {
+    "href": null,
+    "total": 298
+  },
+  "genres": [
+    "punk melodico chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb283f2ea67b1c96acca2982f1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174283f2ea67b1c96acca2982f1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178283f2ea67b1c96acca2982f1",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7KRcFDXXZRavnEuw4U1xkY"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3BwdoxEHqxicASs1AaBevm",
+  "name": "narry",
+  "uri": "spotify:artist:3BwdoxEHqxicASs1AaBevm",
+  "followers": {
+    "href": null,
+    "total": 863
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe9176b7a14627824750254f0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e9176b7a14627824750254f0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e9176b7a14627824750254f0",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3BwdoxEHqxicASs1AaBevm"
+  }
+}

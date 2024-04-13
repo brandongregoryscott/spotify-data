@@ -1,0 +1,33 @@
+{
+  "id": "5caq5gxBeWAzvz8boqmBdb",
+  "name": "Los Esplifs",
+  "uri": "spotify:artist:5caq5gxBeWAzvz8boqmBdb",
+  "followers": {
+    "href": null,
+    "total": 2892
+  },
+  "genres": [
+    "nu-cumbia"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba60f070b1e479a3e96222946",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a60f070b1e479a3e96222946",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a60f070b1e479a3e96222946",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb"
+  }
+}

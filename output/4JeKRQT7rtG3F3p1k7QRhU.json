@@ -1,0 +1,33 @@
+{
+  "id": "4JeKRQT7rtG3F3p1k7QRhU",
+  "name": "Blindlace",
+  "uri": "spotify:artist:4JeKRQT7rtG3F3p1k7QRhU",
+  "followers": {
+    "href": null,
+    "total": 199
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb84ddb2c912c807f78362b4d3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517484ddb2c912c807f78362b4d3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17884ddb2c912c807f78362b4d3",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4JeKRQT7rtG3F3p1k7QRhU"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "1fkyhBbbUGjPdlZiO77GPU",
+  "name": "Desolate",
+  "uri": "spotify:artist:1fkyhBbbUGjPdlZiO77GPU",
+  "followers": {
+    "href": null,
+    "total": 9162
+  },
+  "genres": [
+    "metallic hardcore",
+    "nu-metalcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb63930d2df1ee3c5a8ae4ac4b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517463930d2df1ee3c5a8ae4ac4b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17863930d2df1ee3c5a8ae4ac4b",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1fkyhBbbUGjPdlZiO77GPU"
+  }
+}

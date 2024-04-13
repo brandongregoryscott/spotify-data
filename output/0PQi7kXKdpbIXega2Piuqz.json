@@ -1,0 +1,33 @@
+{
+  "id": "0PQi7kXKdpbIXega2Piuqz",
+  "name": "proun",
+  "uri": "spotify:artist:0PQi7kXKdpbIXega2Piuqz",
+  "followers": {
+    "href": null,
+    "total": 225
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c540192f1d60716dbe5d7112",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c540192f1d60716dbe5d7112",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c540192f1d60716dbe5d7112",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0PQi7kXKdpbIXega2Piuqz"
+  }
+}

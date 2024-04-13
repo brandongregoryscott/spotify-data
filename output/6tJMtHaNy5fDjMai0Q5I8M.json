@@ -1,0 +1,34 @@
+{
+  "id": "6tJMtHaNy5fDjMai0Q5I8M",
+  "name": "Sekiri",
+  "uri": "spotify:artist:6tJMtHaNy5fDjMai0Q5I8M",
+  "followers": {
+    "href": null,
+    "total": 1195
+  },
+  "genres": [
+    "j-punk",
+    "japanese hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e087eb969e536404bf05dcab",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02628da7ecdddbb69f3745a913",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851628da7ecdddbb69f3745a913",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6tJMtHaNy5fDjMai0Q5I8M"
+  }
+}

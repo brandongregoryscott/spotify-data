@@ -1,0 +1,33 @@
+{
+  "id": "0sKnuIwqYNB4PiyLimn8pT",
+  "name": "AMPOLLA",
+  "uri": "spotify:artist:0sKnuIwqYNB4PiyLimn8pT",
+  "followers": {
+    "href": null,
+    "total": 577
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb303ac193b06672d891b951c8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174303ac193b06672d891b951c8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178303ac193b06672d891b951c8",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0sKnuIwqYNB4PiyLimn8pT"
+  }
+}

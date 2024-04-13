@@ -1,0 +1,33 @@
+{
+  "id": "4dl5XJw5CNeOnpjOwhRlRI",
+  "name": "Tres Agujas",
+  "uri": "spotify:artist:4dl5XJw5CNeOnpjOwhRlRI",
+  "followers": {
+    "href": null,
+    "total": 169
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb24e5d7211763251ecd872e15",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517424e5d7211763251ecd872e15",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17824e5d7211763251ecd872e15",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4dl5XJw5CNeOnpjOwhRlRI"
+  }
+}

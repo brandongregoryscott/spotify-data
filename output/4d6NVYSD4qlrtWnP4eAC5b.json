@@ -1,0 +1,34 @@
+{
+  "id": "4d6NVYSD4qlrtWnP4eAC5b",
+  "name": "Reveries",
+  "uri": "spotify:artist:4d6NVYSD4qlrtWnP4eAC5b",
+  "followers": {
+    "href": null,
+    "total": 533
+  },
+  "genres": [
+    "american shoegaze",
+    "grungegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb29723547460f0af646a74264",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517429723547460f0af646a74264",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17829723547460f0af646a74264",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4d6NVYSD4qlrtWnP4eAC5b"
+  }
+}

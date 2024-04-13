@@ -1,0 +1,33 @@
+{
+  "id": "6h5S54D14qLsqsymfWj1Pz",
+  "name": "Ascera",
+  "uri": "spotify:artist:6h5S54D14qLsqsymfWj1Pz",
+  "followers": {
+    "href": null,
+    "total": 1681
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb86bb73c540ab8baf32d50efd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517486bb73c540ab8baf32d50efd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17886bb73c540ab8baf32d50efd",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6h5S54D14qLsqsymfWj1Pz"
+  }
+}

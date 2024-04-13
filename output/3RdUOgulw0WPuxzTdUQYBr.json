@@ -1,0 +1,33 @@
+{
+  "id": "3RdUOgulw0WPuxzTdUQYBr",
+  "name": "Paisaje Local",
+  "uri": "spotify:artist:3RdUOgulw0WPuxzTdUQYBr",
+  "followers": {
+    "href": null,
+    "total": 396
+  },
+  "genres": [
+    "venezuelan indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba4d2f75a941fb7219d603a4b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a4d2f75a941fb7219d603a4b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a4d2f75a941fb7219d603a4b",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3RdUOgulw0WPuxzTdUQYBr"
+  }
+}

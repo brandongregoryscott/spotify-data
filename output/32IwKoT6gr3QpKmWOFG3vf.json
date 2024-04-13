@@ -1,0 +1,33 @@
+{
+  "id": "32IwKoT6gr3QpKmWOFG3vf",
+  "name": "Xcelerate",
+  "uri": "spotify:artist:32IwKoT6gr3QpKmWOFG3vf",
+  "followers": {
+    "href": null,
+    "total": 672
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb063b9e370b479c8b1c64bfdb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174063b9e370b479c8b1c64bfdb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178063b9e370b479c8b1c64bfdb",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/32IwKoT6gr3QpKmWOFG3vf"
+  }
+}

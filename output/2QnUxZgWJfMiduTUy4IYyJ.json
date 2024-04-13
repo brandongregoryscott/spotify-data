@@ -1,0 +1,33 @@
+{
+  "id": "2QnUxZgWJfMiduTUy4IYyJ",
+  "name": "Seeking",
+  "uri": "spotify:artist:2QnUxZgWJfMiduTUy4IYyJ",
+  "followers": {
+    "href": null,
+    "total": 125
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730ab39eccf243003064a6483f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020ab39eccf243003064a6483f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510ab39eccf243003064a6483f",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2QnUxZgWJfMiduTUy4IYyJ"
+  }
+}

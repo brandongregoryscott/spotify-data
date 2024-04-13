@@ -1,0 +1,33 @@
+{
+  "id": "5vJvvfiHupGUwvsVYMh5n8",
+  "name": "Johnny Sunrise",
+  "uri": "spotify:artist:5vJvvfiHupGUwvsVYMh5n8",
+  "followers": {
+    "href": null,
+    "total": 66
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd5e1e9b07e6285ac177ed207",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d5e1e9b07e6285ac177ed207",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d5e1e9b07e6285ac177ed207",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5vJvvfiHupGUwvsVYMh5n8"
+  }
+}

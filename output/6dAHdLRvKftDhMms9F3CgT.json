@@ -1,0 +1,33 @@
+{
+  "id": "6dAHdLRvKftDhMms9F3CgT",
+  "name": "Great Youth",
+  "uri": "spotify:artist:6dAHdLRvKftDhMms9F3CgT",
+  "followers": {
+    "href": null,
+    "total": 230
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbe1ff0238983ebf0ff54e816",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174be1ff0238983ebf0ff54e816",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178be1ff0238983ebf0ff54e816",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6dAHdLRvKftDhMms9F3CgT"
+  }
+}

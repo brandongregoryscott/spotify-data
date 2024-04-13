@@ -1,0 +1,33 @@
+{
+  "id": "5blTeupnPzCsJfT2kEOlUX",
+  "name": "Juan Cordero",
+  "uri": "spotify:artist:5blTeupnPzCsJfT2kEOlUX",
+  "followers": {
+    "href": null,
+    "total": 352
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb485f108c6a6527e6ea18277a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174485f108c6a6527e6ea18277a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178485f108c6a6527e6ea18277a",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5blTeupnPzCsJfT2kEOlUX"
+  }
+}

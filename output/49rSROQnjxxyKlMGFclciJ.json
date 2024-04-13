@@ -1,0 +1,33 @@
+{
+  "id": "49rSROQnjxxyKlMGFclciJ",
+  "name": "Mangual",
+  "uri": "spotify:artist:49rSROQnjxxyKlMGFclciJ",
+  "followers": {
+    "href": null,
+    "total": 195
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27343573cc9015201a54f69a3bd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0243573cc9015201a54f69a3bd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485143573cc9015201a54f69a3bd",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/49rSROQnjxxyKlMGFclciJ"
+  }
+}

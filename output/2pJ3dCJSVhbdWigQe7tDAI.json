@@ -1,0 +1,33 @@
+{
+  "id": "2pJ3dCJSVhbdWigQe7tDAI",
+  "name": "Cemento",
+  "uri": "spotify:artist:2pJ3dCJSVhbdWigQe7tDAI",
+  "followers": {
+    "href": null,
+    "total": 1205
+  },
+  "genres": [
+    "egg punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd9dbaec7a423c5403073a9ea",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d9dbaec7a423c5403073a9ea",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d9dbaec7a423c5403073a9ea",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2pJ3dCJSVhbdWigQe7tDAI"
+  }
+}

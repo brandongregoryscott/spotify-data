@@ -1,0 +1,34 @@
+{
+  "id": "3jUdxjSjZwgx6p7js0AYkV",
+  "name": "-1",
+  "uri": "spotify:artist:3jUdxjSjZwgx6p7js0AYkV",
+  "followers": {
+    "href": null,
+    "total": 3744
+  },
+  "genres": [
+    "russian emo",
+    "russian screamo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27362ab06fdfa8c19252a5e9a32",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0262ab06fdfa8c19252a5e9a32",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485162ab06fdfa8c19252a5e9a32",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3jUdxjSjZwgx6p7js0AYkV"
+  }
+}

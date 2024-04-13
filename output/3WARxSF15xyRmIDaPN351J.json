@@ -1,0 +1,33 @@
+{
+  "id": "3WARxSF15xyRmIDaPN351J",
+  "name": "Hellbound",
+  "uri": "spotify:artist:3WARxSF15xyRmIDaPN351J",
+  "followers": {
+    "href": null,
+    "total": 1269
+  },
+  "genres": [
+    "ukhc"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f594244682c8a96bf7174989",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f594244682c8a96bf7174989",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f594244682c8a96bf7174989",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3WARxSF15xyRmIDaPN351J"
+  }
+}

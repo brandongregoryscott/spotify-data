@@ -1,0 +1,34 @@
+{
+  "id": "6LE9lW3E48cGM8tk5UGv30",
+  "name": "Harkla",
+  "uri": "spotify:artist:6LE9lW3E48cGM8tk5UGv30",
+  "followers": {
+    "href": null,
+    "total": 5896
+  },
+  "genres": [
+    "djent",
+    "thall"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe68700cc391cd405e9cf2a70",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e68700cc391cd405e9cf2a70",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e68700cc391cd405e9cf2a70",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6LE9lW3E48cGM8tk5UGv30"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "4GDvibpvUSKwwmeAxnctro",
+  "name": "The Crinn",
+  "uri": "spotify:artist:4GDvibpvUSKwwmeAxnctro",
+  "followers": {
+    "href": null,
+    "total": 1333
+  },
+  "genres": [
+    "mathcore",
+    "mathgrind"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27350405ebf4f584b3516b67a39",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0250405ebf4f584b3516b67a39",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485150405ebf4f584b3516b67a39",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4GDvibpvUSKwwmeAxnctro"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3Qf5pEnGCnPR52BLZvKx4V",
+  "name": "Flequillo Punk",
+  "uri": "spotify:artist:3Qf5pEnGCnPR52BLZvKx4V",
+  "followers": {
+    "href": null,
+    "total": 222
+  },
+  "genres": [
+    "punk chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb84859dcb9bc968ca5c7fc15c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517484859dcb9bc968ca5c7fc15c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17884859dcb9bc968ca5c7fc15c",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Qf5pEnGCnPR52BLZvKx4V"
+  }
+}

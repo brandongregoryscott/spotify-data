@@ -1,0 +1,33 @@
+{
+  "id": "43khdnIsJLaGtHr6012xH3",
+  "name": "Xerxes",
+  "uri": "spotify:artist:43khdnIsJLaGtHr6012xH3",
+  "followers": {
+    "href": null,
+    "total": 881
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731a76891fdbf5a1185acddd6b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021a76891fdbf5a1185acddd6b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511a76891fdbf5a1185acddd6b",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/43khdnIsJLaGtHr6012xH3"
+  }
+}

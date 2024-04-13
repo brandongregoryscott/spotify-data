@@ -1,0 +1,33 @@
+{
+  "id": "039FyZZVTQIDVZr8egsXsL",
+  "name": "Chump",
+  "uri": "spotify:artist:039FyZZVTQIDVZr8egsXsL",
+  "followers": {
+    "href": null,
+    "total": 124
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb78aa763527a82e91c53e117d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517478aa763527a82e91c53e117d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17878aa763527a82e91c53e117d",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/039FyZZVTQIDVZr8egsXsL"
+  }
+}

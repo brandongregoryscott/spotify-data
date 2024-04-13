@@ -1,0 +1,33 @@
+{
+  "id": "5MRxZvxjOM16eF7R9jjdXt",
+  "name": "The Mocos",
+  "uri": "spotify:artist:5MRxZvxjOM16eF7R9jjdXt",
+  "followers": {
+    "href": null,
+    "total": 124
+  },
+  "genres": [
+    "peruvian punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb07ef75644f5a30d96a6fe9cb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517407ef75644f5a30d96a6fe9cb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17807ef75644f5a30d96a6fe9cb",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5MRxZvxjOM16eF7R9jjdXt"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5tNUuqRmkI6cvh7PydpfKx",
+  "name": "SOMBRAS",
+  "uri": "spotify:artist:5tNUuqRmkI6cvh7PydpfKx",
+  "followers": {
+    "href": null,
+    "total": 127
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27351e932a420f6d4f9a578bbc4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0251e932a420f6d4f9a578bbc4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485151e932a420f6d4f9a578bbc4",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5tNUuqRmkI6cvh7PydpfKx"
+  }
+}

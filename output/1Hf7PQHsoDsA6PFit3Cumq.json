@@ -1,0 +1,33 @@
+{
+  "id": "1Hf7PQHsoDsA6PFit3Cumq",
+  "name": "Gimnasta",
+  "uri": "spotify:artist:1Hf7PQHsoDsA6PFit3Cumq",
+  "followers": {
+    "href": null,
+    "total": 100
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb14b321037224669d164f9f22",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517414b321037224669d164f9f22",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17814b321037224669d164f9f22",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Hf7PQHsoDsA6PFit3Cumq"
+  }
+}

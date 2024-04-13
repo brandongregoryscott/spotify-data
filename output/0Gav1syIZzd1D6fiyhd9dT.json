@@ -1,0 +1,35 @@
+{
+  "id": "0Gav1syIZzd1D6fiyhd9dT",
+  "name": "VCTMS",
+  "uri": "spotify:artist:0Gav1syIZzd1D6fiyhd9dT",
+  "followers": {
+    "href": null,
+    "total": 42364
+  },
+  "genres": [
+    "deathcore",
+    "metallic hardcore",
+    "nu-metalcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebac88e6ab912ccb9de98014a4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ac88e6ab912ccb9de98014a4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ac88e6ab912ccb9de98014a4",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Gav1syIZzd1D6fiyhd9dT"
+  }
+}

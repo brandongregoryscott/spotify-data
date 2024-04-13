@@ -1,0 +1,33 @@
+{
+  "id": "46HMElB7UJnX4wID94BF2J",
+  "name": "mourn",
+  "uri": "spotify:artist:46HMElB7UJnX4wID94BF2J",
+  "followers": {
+    "href": null,
+    "total": 9
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb2251b700f166b663f26e24fd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051742251b700f166b663f26e24fd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1782251b700f166b663f26e24fd",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/46HMElB7UJnX4wID94BF2J"
+  }
+}

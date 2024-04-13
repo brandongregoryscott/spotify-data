@@ -1,0 +1,33 @@
+{
+  "id": "44CF7mHlaEZh3MMntVeE8W",
+  "name": "always sunny",
+  "uri": "spotify:artist:44CF7mHlaEZh3MMntVeE8W",
+  "followers": {
+    "href": null,
+    "total": 126
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ffa238fdd7722aaff42a8990",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ffa238fdd7722aaff42a8990",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ffa238fdd7722aaff42a8990",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/44CF7mHlaEZh3MMntVeE8W"
+  }
+}

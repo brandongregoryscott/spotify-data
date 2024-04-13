@@ -1,0 +1,33 @@
+{
+  "id": "3nRzKcJmbmw01ED1bTFOli",
+  "name": "Clava",
+  "uri": "spotify:artist:3nRzKcJmbmw01ED1bTFOli",
+  "followers": {
+    "href": null,
+    "total": 1485
+  },
+  "genres": [
+    "brazilian hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd67b463a8083cb8944738e1a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d67b463a8083cb8944738e1a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d67b463a8083cb8944738e1a",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3nRzKcJmbmw01ED1bTFOli"
+  }
+}

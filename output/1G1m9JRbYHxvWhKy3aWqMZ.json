@@ -1,0 +1,33 @@
+{
+  "id": "1G1m9JRbYHxvWhKy3aWqMZ",
+  "name": "Orpha",
+  "uri": "spotify:artist:1G1m9JRbYHxvWhKy3aWqMZ",
+  "followers": {
+    "href": null,
+    "total": 210
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c5c8dbbcd8c2b7d918326fdb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c5c8dbbcd8c2b7d918326fdb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c5c8dbbcd8c2b7d918326fdb",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1G1m9JRbYHxvWhKy3aWqMZ"
+  }
+}

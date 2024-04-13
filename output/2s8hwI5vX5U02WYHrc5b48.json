@@ -1,0 +1,33 @@
+{
+  "id": "2s8hwI5vX5U02WYHrc5b48",
+  "name": "franco",
+  "uri": "spotify:artist:2s8hwI5vX5U02WYHrc5b48",
+  "followers": {
+    "href": null,
+    "total": 137
+  },
+  "genres": [
+    "russian emo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735f749dd00105c2e35f68f251",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025f749dd00105c2e35f68f251",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515f749dd00105c2e35f68f251",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2s8hwI5vX5U02WYHrc5b48"
+  }
+}

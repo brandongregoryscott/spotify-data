@@ -1,0 +1,33 @@
+{
+  "id": "1f2PLzXRZm5VooOrle066T",
+  "name": "S.K.A",
+  "uri": "spotify:artist:1f2PLzXRZm5VooOrle066T",
+  "followers": {
+    "href": null,
+    "total": 602
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb436354cb129116b39035cbe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b436354cb129116b39035cbe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b436354cb129116b39035cbe",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1f2PLzXRZm5VooOrle066T"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0xTLRNdUIfW4wsjEAmmDWk",
+  "name": "Qalín",
+  "uri": "spotify:artist:0xTLRNdUIfW4wsjEAmmDWk",
+  "followers": {
+    "href": null,
+    "total": 206
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27379b0cfd0ced1d55cc1e64d0d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0279b0cfd0ced1d55cc1e64d0d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485179b0cfd0ced1d55cc1e64d0d",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0xTLRNdUIfW4wsjEAmmDWk"
+  }
+}

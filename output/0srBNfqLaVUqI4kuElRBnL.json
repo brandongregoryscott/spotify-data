@@ -1,0 +1,33 @@
+{
+  "id": "0srBNfqLaVUqI4kuElRBnL",
+  "name": "Jan Pawel",
+  "uri": "spotify:artist:0srBNfqLaVUqI4kuElRBnL",
+  "followers": {
+    "href": null,
+    "total": 378
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0a7b639245593f8406821c9e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051740a7b639245593f8406821c9e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1780a7b639245593f8406821c9e",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0srBNfqLaVUqI4kuElRBnL"
+  }
+}

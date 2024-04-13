@@ -1,0 +1,33 @@
+{
+  "id": "6zGzRIBkAMQ2uQn3z8OEyf",
+  "name": "MAVIS",
+  "uri": "spotify:artist:6zGzRIBkAMQ2uQn3z8OEyf",
+  "followers": {
+    "href": null,
+    "total": 2177
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebacc9ba9e98c1e7c308f08a53",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174acc9ba9e98c1e7c308f08a53",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178acc9ba9e98c1e7c308f08a53",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6zGzRIBkAMQ2uQn3z8OEyf"
+  }
+}

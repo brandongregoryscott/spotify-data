@@ -1,0 +1,33 @@
+{
+  "id": "3e7c6EbaGduaCsNsnbhEfX",
+  "name": "bronbaba",
+  "uri": "spotify:artist:3e7c6EbaGduaCsNsnbhEfX",
+  "followers": {
+    "href": null,
+    "total": 489
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27328d03101426ca276b33176cc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0228d03101426ca276b33176cc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485128d03101426ca276b33176cc",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3e7c6EbaGduaCsNsnbhEfX"
+  }
+}

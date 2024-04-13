@@ -1,0 +1,33 @@
+{
+  "id": "5aiZVDnG9CZNhLj4VwjEN6",
+  "name": "hey, lonely planet",
+  "uri": "spotify:artist:5aiZVDnG9CZNhLj4VwjEN6",
+  "followers": {
+    "href": null,
+    "total": 582
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc61beb20110e2cf27ae1d557",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c61beb20110e2cf27ae1d557",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c61beb20110e2cf27ae1d557",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5aiZVDnG9CZNhLj4VwjEN6"
+  }
+}

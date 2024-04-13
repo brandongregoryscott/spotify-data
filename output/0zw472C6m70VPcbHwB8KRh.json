@@ -1,0 +1,33 @@
+{
+  "id": "0zw472C6m70VPcbHwB8KRh",
+  "name": "Summerhead",
+  "uri": "spotify:artist:0zw472C6m70VPcbHwB8KRh",
+  "followers": {
+    "href": null,
+    "total": 80
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbdcfdf0a32ac00fd3f3b66c6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bdcfdf0a32ac00fd3f3b66c6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bdcfdf0a32ac00fd3f3b66c6",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0zw472C6m70VPcbHwB8KRh"
+  }
+}

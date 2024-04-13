@@ -1,0 +1,33 @@
+{
+  "id": "1zKLqt8i31ve2tyeR6dcMZ",
+  "name": "Discontent",
+  "uri": "spotify:artist:1zKLqt8i31ve2tyeR6dcMZ",
+  "followers": {
+    "href": null,
+    "total": 887
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732d5d988c55306c7de64934ca",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022d5d988c55306c7de64934ca",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512d5d988c55306c7de64934ca",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1zKLqt8i31ve2tyeR6dcMZ"
+  }
+}

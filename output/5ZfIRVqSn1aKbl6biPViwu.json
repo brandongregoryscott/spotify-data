@@ -1,0 +1,33 @@
+{
+  "id": "5ZfIRVqSn1aKbl6biPViwu",
+  "name": "Sentenciero",
+  "uri": "spotify:artist:5ZfIRVqSn1aKbl6biPViwu",
+  "followers": {
+    "href": null,
+    "total": 799
+  },
+  "genres": [
+    "argentine hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb66f463ded89a9c4eb3915260",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517466f463ded89a9c4eb3915260",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17866f463ded89a9c4eb3915260",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ZfIRVqSn1aKbl6biPViwu"
+  }
+}

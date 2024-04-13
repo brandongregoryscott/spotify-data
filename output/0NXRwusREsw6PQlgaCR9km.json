@@ -1,0 +1,33 @@
+{
+  "id": "0NXRwusREsw6PQlgaCR9km",
+  "name": "Uiro",
+  "uri": "spotify:artist:0NXRwusREsw6PQlgaCR9km",
+  "followers": {
+    "href": null,
+    "total": 206
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf96ce49db4fcaaaf9da84fbc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f96ce49db4fcaaaf9da84fbc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f96ce49db4fcaaaf9da84fbc",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0NXRwusREsw6PQlgaCR9km"
+  }
+}

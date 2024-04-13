@@ -1,0 +1,34 @@
+{
+  "id": "0UxJaYmd5PkjivoMF15jwh",
+  "name": "Merel",
+  "uri": "spotify:artist:0UxJaYmd5PkjivoMF15jwh",
+  "followers": {
+    "href": null,
+    "total": 439
+  },
+  "genres": [
+    "emocore",
+    "indie emo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeb3a32feb91da3207fbf82f2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eb3a32feb91da3207fbf82f2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eb3a32feb91da3207fbf82f2",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0UxJaYmd5PkjivoMF15jwh"
+  }
+}

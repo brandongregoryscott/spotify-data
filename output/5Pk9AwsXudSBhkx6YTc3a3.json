@@ -1,0 +1,34 @@
+{
+  "id": "5Pk9AwsXudSBhkx6YTc3a3",
+  "name": "La Reacción",
+  "uri": "spotify:artist:5Pk9AwsXudSBhkx6YTc3a3",
+  "followers": {
+    "href": null,
+    "total": 383
+  },
+  "genres": [
+    "punk chileno",
+    "punk melodico chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc7093ad3ff90e284ad4d9b36",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c7093ad3ff90e284ad4d9b36",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c7093ad3ff90e284ad4d9b36",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Pk9AwsXudSBhkx6YTc3a3"
+  }
+}

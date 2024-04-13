@@ -1,0 +1,33 @@
+{
+  "id": "0CbSQPfhWQIZmlpSysVkXO",
+  "name": "Ragtag",
+  "uri": "spotify:artist:0CbSQPfhWQIZmlpSysVkXO",
+  "followers": {
+    "href": null,
+    "total": 210
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf2a868871c6c4112bc9b3ada",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f2a868871c6c4112bc9b3ada",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f2a868871c6c4112bc9b3ada",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0CbSQPfhWQIZmlpSysVkXO"
+  }
+}

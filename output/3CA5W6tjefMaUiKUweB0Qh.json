@@ -1,0 +1,34 @@
+{
+  "id": "3CA5W6tjefMaUiKUweB0Qh",
+  "name": "Separated",
+  "uri": "spotify:artist:3CA5W6tjefMaUiKUweB0Qh",
+  "followers": {
+    "href": null,
+    "total": 846
+  },
+  "genres": [
+    "metallic hardcore",
+    "nyhc"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738aafd89d0af242657de98b99",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028aafd89d0af242657de98b99",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518aafd89d0af242657de98b99",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3CA5W6tjefMaUiKUweB0Qh"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4r6WtScg6432ThqBWqA4wD",
+  "name": "dip",
+  "uri": "spotify:artist:4r6WtScg6432ThqBWqA4wD",
+  "followers": {
+    "href": null,
+    "total": 2010
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273062cf94e4028ec4bd6e775f4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02062cf94e4028ec4bd6e775f4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851062cf94e4028ec4bd6e775f4",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4r6WtScg6432ThqBWqA4wD"
+  }
+}

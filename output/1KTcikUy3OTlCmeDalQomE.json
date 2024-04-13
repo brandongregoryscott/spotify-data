@@ -1,0 +1,33 @@
+{
+  "id": "1KTcikUy3OTlCmeDalQomE",
+  "name": "Kingpin",
+  "uri": "spotify:artist:1KTcikUy3OTlCmeDalQomE",
+  "followers": {
+    "href": null,
+    "total": 244
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27384985a11efbebe124cdd2faf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0284985a11efbebe124cdd2faf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485184985a11efbebe124cdd2faf",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1KTcikUy3OTlCmeDalQomE"
+  }
+}

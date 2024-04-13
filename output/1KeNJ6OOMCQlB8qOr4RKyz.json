@@ -1,0 +1,35 @@
+{
+  "id": "1KeNJ6OOMCQlB8qOr4RKyz",
+  "name": "Koningsor",
+  "uri": "spotify:artist:1KeNJ6OOMCQlB8qOr4RKyz",
+  "followers": {
+    "href": null,
+    "total": 720
+  },
+  "genres": [
+    "austin metal",
+    "mathcore",
+    "texas metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb353018471724d2d0d5d68419",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174353018471724d2d0d5d68419",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178353018471724d2d0d5d68419",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1KeNJ6OOMCQlB8qOr4RKyz"
+  }
+}

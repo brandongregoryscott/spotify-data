@@ -1,0 +1,33 @@
+{
+  "id": "7rtwPDzF26LGUM5eQPch3F",
+  "name": "Petrula",
+  "uri": "spotify:artist:7rtwPDzF26LGUM5eQPch3F",
+  "followers": {
+    "href": null,
+    "total": 284
+  },
+  "genres": [
+    "venezuelan rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fd2a6f0f995cebaa7f38ab5e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fd2a6f0f995cebaa7f38ab5e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fd2a6f0f995cebaa7f38ab5e",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7rtwPDzF26LGUM5eQPch3F"
+  }
+}

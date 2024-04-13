@@ -1,0 +1,33 @@
+{
+  "id": "0XHKcgHYNXQlFGHoG58xS6",
+  "name": "Colina",
+  "uri": "spotify:artist:0XHKcgHYNXQlFGHoG58xS6",
+  "followers": {
+    "href": null,
+    "total": 171
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb406aea3906b8e875c4c20c4a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174406aea3906b8e875c4c20c4a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178406aea3906b8e875c4c20c4a",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0XHKcgHYNXQlFGHoG58xS6"
+  }
+}

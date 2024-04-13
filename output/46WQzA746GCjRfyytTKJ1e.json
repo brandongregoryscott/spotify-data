@@ -1,0 +1,33 @@
+{
+  "id": "46WQzA746GCjRfyytTKJ1e",
+  "name": "Fermantic",
+  "uri": "spotify:artist:46WQzA746GCjRfyytTKJ1e",
+  "followers": {
+    "href": null,
+    "total": 30
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27380547cbe21d075c8c6889107",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0280547cbe21d075c8c6889107",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485180547cbe21d075c8c6889107",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/46WQzA746GCjRfyytTKJ1e"
+  }
+}

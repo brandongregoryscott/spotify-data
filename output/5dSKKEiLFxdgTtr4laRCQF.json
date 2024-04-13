@@ -1,0 +1,34 @@
+{
+  "id": "5dSKKEiLFxdgTtr4laRCQF",
+  "name": "Bruno Bardo",
+  "uri": "spotify:artist:5dSKKEiLFxdgTtr4laRCQF",
+  "followers": {
+    "href": null,
+    "total": 1787
+  },
+  "genres": [
+    "indie rock peruano",
+    "peruvian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb92fd8271f505d9a033cdf35e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517492fd8271f505d9a033cdf35e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17892fd8271f505d9a033cdf35e",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5dSKKEiLFxdgTtr4laRCQF"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4lHTvhSBYET8vaavUNzps0",
+  "name": "Tenue",
+  "uri": "spotify:artist:4lHTvhSBYET8vaavUNzps0",
+  "followers": {
+    "href": null,
+    "total": 2289
+  },
+  "genres": [
+    "blackened screamo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb13435b10d5be6088bb6067db",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517413435b10d5be6088bb6067db",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17813435b10d5be6088bb6067db",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4lHTvhSBYET8vaavUNzps0"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7nk8kdvBNGJvSvHNVDLa6K",
+  "name": "Backyard",
+  "uri": "spotify:artist:7nk8kdvBNGJvSvHNVDLa6K",
+  "followers": {
+    "href": null,
+    "total": 102
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736fd6a26ac96d6cd1145306f5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026fd6a26ac96d6cd1145306f5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516fd6a26ac96d6cd1145306f5",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7nk8kdvBNGJvSvHNVDLa6K"
+  }
+}

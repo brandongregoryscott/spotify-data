@@ -1,0 +1,33 @@
+{
+  "id": "0WGWncetdiH4xfsXOWLDWT",
+  "name": "Despot",
+  "uri": "spotify:artist:0WGWncetdiH4xfsXOWLDWT",
+  "followers": {
+    "href": null,
+    "total": 247
+  },
+  "genres": [
+    "new wave of screamo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb656fa6b5f916b047fe0721c1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174656fa6b5f916b047fe0721c1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178656fa6b5f916b047fe0721c1",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0WGWncetdiH4xfsXOWLDWT"
+  }
+}

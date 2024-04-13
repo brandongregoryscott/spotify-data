@@ -1,0 +1,33 @@
+{
+  "id": "3abIeH9xhNkFgBzz8NRSSS",
+  "name": "Steps",
+  "uri": "spotify:artist:3abIeH9xhNkFgBzz8NRSSS",
+  "followers": {
+    "href": null,
+    "total": 163
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732886bb99d311ed55570803de",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022886bb99d311ed55570803de",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512886bb99d311ed55570803de",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3abIeH9xhNkFgBzz8NRSSS"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5aXHvKLZlW6hDCTvI6xjqN",
+  "name": "Hotel",
+  "uri": "spotify:artist:5aXHvKLZlW6hDCTvI6xjqN",
+  "followers": {
+    "href": null,
+    "total": 1257
+  },
+  "genres": [
+    "venezuelan rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba93c820a5d35c5469238427b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a93c820a5d35c5469238427b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a93c820a5d35c5469238427b",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5aXHvKLZlW6hDCTvI6xjqN"
+  }
+}

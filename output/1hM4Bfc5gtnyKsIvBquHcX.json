@@ -1,0 +1,33 @@
+{
+  "id": "1hM4Bfc5gtnyKsIvBquHcX",
+  "name": "Soquete",
+  "uri": "spotify:artist:1hM4Bfc5gtnyKsIvBquHcX",
+  "followers": {
+    "href": null,
+    "total": 106
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27379560096807de1e0c0f24b8e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0279560096807de1e0c0f24b8e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485179560096807de1e0c0f24b8e",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1hM4Bfc5gtnyKsIvBquHcX"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7rgxcas8NoOYhsIglbh6Lu",
+  "name": "Spoiled",
+  "uri": "spotify:artist:7rgxcas8NoOYhsIglbh6Lu",
+  "followers": {
+    "href": null,
+    "total": 183
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfb02d33501b940d2ce579d1a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fb02d33501b940d2ce579d1a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fb02d33501b940d2ce579d1a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7rgxcas8NoOYhsIglbh6Lu"
+  }
+}

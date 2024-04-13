@@ -1,0 +1,35 @@
+{
+  "id": "0QZIMnY7wq3wAIbPPFPRdk",
+  "name": "Regarde",
+  "uri": "spotify:artist:0QZIMnY7wq3wAIbPPFPRdk",
+  "followers": {
+    "href": null,
+    "total": 1112
+  },
+  "genres": [
+    "italian emo",
+    "italian post-hardcore",
+    "italian screamo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebca711b8812fcdab73b72dc7e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ca711b8812fcdab73b72dc7e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ca711b8812fcdab73b72dc7e",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0QZIMnY7wq3wAIbPPFPRdk"
+  }
+}

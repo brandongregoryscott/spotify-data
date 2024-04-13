@@ -1,0 +1,35 @@
+{
+  "id": "3Mpl6q5GdubLhAFQsHLKGj",
+  "name": "Blush Response",
+  "uri": "spotify:artist:3Mpl6q5GdubLhAFQsHLKGj",
+  "followers": {
+    "href": null,
+    "total": 3540
+  },
+  "genres": [
+    "adelaide indie",
+    "australian shoegaze",
+    "grungegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf9f32d9f67303b0fe5971dda",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f9f32d9f67303b0fe5971dda",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f9f32d9f67303b0fe5971dda",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Mpl6q5GdubLhAFQsHLKGj"
+  }
+}

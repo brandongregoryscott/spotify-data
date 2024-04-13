@@ -1,0 +1,34 @@
+{
+  "id": "1F4oynmQhLxXhdS4J2z9MH",
+  "name": "Sureste",
+  "uri": "spotify:artist:1F4oynmQhLxXhdS4J2z9MH",
+  "followers": {
+    "href": null,
+    "total": 8223
+  },
+  "genres": [
+    "emo mexicano",
+    "mexican pop punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb568177f8fa6e63638d86ae25",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174568177f8fa6e63638d86ae25",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178568177f8fa6e63638d86ae25",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1F4oynmQhLxXhdS4J2z9MH"
+  }
+}

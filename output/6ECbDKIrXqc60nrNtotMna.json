@@ -1,0 +1,33 @@
+{
+  "id": "6ECbDKIrXqc60nrNtotMna",
+  "name": "Slump",
+  "uri": "spotify:artist:6ECbDKIrXqc60nrNtotMna",
+  "followers": {
+    "href": null,
+    "total": 182
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdedfc241560a76293476650a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dedfc241560a76293476650a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dedfc241560a76293476650a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ECbDKIrXqc60nrNtotMna"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0zwmPKUZ3rxo1XTRvDveFg",
+  "name": "Kristian Prefact",
+  "uri": "spotify:artist:0zwmPKUZ3rxo1XTRvDveFg",
+  "followers": {
+    "href": null,
+    "total": 826
+  },
+  "genres": [
+    "colombian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb12466b2ec1bc7fadb5ebeb0d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517412466b2ec1bc7fadb5ebeb0d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17812466b2ec1bc7fadb5ebeb0d",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0zwmPKUZ3rxo1XTRvDveFg"
+  }
+}

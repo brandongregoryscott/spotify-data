@@ -1,0 +1,33 @@
+{
+  "id": "4RxUGW2HRMIm9qI1GJqMgK",
+  "name": "Good Game",
+  "uri": "spotify:artist:4RxUGW2HRMIm9qI1GJqMgK",
+  "followers": {
+    "href": null,
+    "total": 6830
+  },
+  "genres": [
+    "instrumental math rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb03f31265c63a4094f97028d0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517403f31265c63a4094f97028d0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17803f31265c63a4094f97028d0",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4RxUGW2HRMIm9qI1GJqMgK"
+  }
+}

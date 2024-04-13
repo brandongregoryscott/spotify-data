@@ -1,0 +1,34 @@
+{
+  "id": "688DWUNbjSYgK5yXJQUXyE",
+  "name": "films",
+  "uri": "spotify:artist:688DWUNbjSYgK5yXJQUXyE",
+  "followers": {
+    "href": null,
+    "total": 3151
+  },
+  "genres": [
+    "j-ambient",
+    "japanese post-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdc8c0fb91a03aa2c84bbbf22",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dc8c0fb91a03aa2c84bbbf22",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dc8c0fb91a03aa2c84bbbf22",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/688DWUNbjSYgK5yXJQUXyE"
+  }
+}

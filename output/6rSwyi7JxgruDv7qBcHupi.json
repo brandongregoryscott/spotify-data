@@ -1,0 +1,33 @@
+{
+  "id": "6rSwyi7JxgruDv7qBcHupi",
+  "name": "imie",
+  "uri": "spotify:artist:6rSwyi7JxgruDv7qBcHupi",
+  "followers": {
+    "href": null,
+    "total": 219
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27319381edb84223a0dde9540c2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0219381edb84223a0dde9540c2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485119381edb84223a0dde9540c2",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6rSwyi7JxgruDv7qBcHupi"
+  }
+}

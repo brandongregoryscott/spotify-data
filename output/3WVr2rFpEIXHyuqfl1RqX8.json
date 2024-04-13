@@ -1,0 +1,33 @@
+{
+  "id": "3WVr2rFpEIXHyuqfl1RqX8",
+  "name": "RIS",
+  "uri": "spotify:artist:3WVr2rFpEIXHyuqfl1RqX8",
+  "followers": {
+    "href": null,
+    "total": 320
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebde585d653c2bff0ab73f29a5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174de585d653c2bff0ab73f29a5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178de585d653c2bff0ab73f29a5",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3WVr2rFpEIXHyuqfl1RqX8"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3ayXGNtq3hwXarAHJGFHuF",
+  "name": "PZA",
+  "uri": "spotify:artist:3ayXGNtq3hwXarAHJGFHuF",
+  "followers": {
+    "href": null,
+    "total": 146
+  },
+  "genres": [
+    "vaportrap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27387f012e4cc4c50562639bace",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0287f012e4cc4c50562639bace",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485187f012e4cc4c50562639bace",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ayXGNtq3hwXarAHJGFHuF"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5NvFNxcwbBZoc5bKSQgBJp",
+  "name": "Crater Creek",
+  "uri": "spotify:artist:5NvFNxcwbBZoc5bKSQgBJp",
+  "followers": {
+    "href": null,
+    "total": 102
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdaeee0b81708bed38b01b6fa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174daeee0b81708bed38b01b6fa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178daeee0b81708bed38b01b6fa",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5NvFNxcwbBZoc5bKSQgBJp"
+  }
+}

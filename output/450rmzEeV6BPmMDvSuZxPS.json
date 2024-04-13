@@ -1,0 +1,34 @@
+{
+  "id": "450rmzEeV6BPmMDvSuZxPS",
+  "name": "Vestra",
+  "uri": "spotify:artist:450rmzEeV6BPmMDvSuZxPS",
+  "followers": {
+    "href": null,
+    "total": 2543
+  },
+  "genres": [
+    "colombian hardcore",
+    "latincore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcf4d179ebbe03ecb30bdf916",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cf4d179ebbe03ecb30bdf916",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cf4d179ebbe03ecb30bdf916",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/450rmzEeV6BPmMDvSuZxPS"
+  }
+}

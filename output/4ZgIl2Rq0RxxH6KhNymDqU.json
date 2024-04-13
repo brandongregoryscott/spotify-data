@@ -1,0 +1,33 @@
+{
+  "id": "4ZgIl2Rq0RxxH6KhNymDqU",
+  "name": "Foong",
+  "uri": "spotify:artist:4ZgIl2Rq0RxxH6KhNymDqU",
+  "followers": {
+    "href": null,
+    "total": 99
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb369593de57e1bb04e0f0d6ab",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174369593de57e1bb04e0f0d6ab",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178369593de57e1bb04e0f0d6ab",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4ZgIl2Rq0RxxH6KhNymDqU"
+  }
+}

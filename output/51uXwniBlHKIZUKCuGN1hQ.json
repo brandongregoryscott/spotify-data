@@ -1,0 +1,33 @@
+{
+  "id": "51uXwniBlHKIZUKCuGN1hQ",
+  "name": "1905",
+  "uri": "spotify:artist:51uXwniBlHKIZUKCuGN1hQ",
+  "followers": {
+    "href": null,
+    "total": 972
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27386089570e22ce8d6f571085b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0286089570e22ce8d6f571085b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485186089570e22ce8d6f571085b",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/51uXwniBlHKIZUKCuGN1hQ"
+  }
+}

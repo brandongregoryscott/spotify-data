@@ -1,0 +1,33 @@
+{
+  "id": "2jFS33AH9rchb1ChcKbiLx",
+  "name": "Mano de Obra",
+  "uri": "spotify:artist:2jFS33AH9rchb1ChcKbiLx",
+  "followers": {
+    "href": null,
+    "total": 890
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb78ecb5637216171ad6e66fcd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517478ecb5637216171ad6e66fcd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17878ecb5637216171ad6e66fcd",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2jFS33AH9rchb1ChcKbiLx"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2sdTNct8FjErtvxUMyD92E",
+  "name": "Troubled Minds",
+  "uri": "spotify:artist:2sdTNct8FjErtvxUMyD92E",
+  "followers": {
+    "href": null,
+    "total": 3230
+  },
+  "genres": [
+    "phoenix indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb77cfedacdab0c24d01f87897",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517477cfedacdab0c24d01f87897",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17877cfedacdab0c24d01f87897",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2sdTNct8FjErtvxUMyD92E"
+  }
+}

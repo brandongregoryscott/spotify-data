@@ -1,0 +1,33 @@
+{
+  "id": "5ZWjPv2hBIP0VB71V6rwf3",
+  "name": "wesley",
+  "uri": "spotify:artist:5ZWjPv2hBIP0VB71V6rwf3",
+  "followers": {
+    "href": null,
+    "total": 59
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb383b74ea84cae174f8622307",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174383b74ea84cae174f8622307",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178383b74ea84cae174f8622307",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ZWjPv2hBIP0VB71V6rwf3"
+  }
+}

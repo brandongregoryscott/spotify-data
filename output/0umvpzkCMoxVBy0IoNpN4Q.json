@@ -1,0 +1,33 @@
+{
+  "id": "0umvpzkCMoxVBy0IoNpN4Q",
+  "name": "Bodybox",
+  "uri": "spotify:artist:0umvpzkCMoxVBy0IoNpN4Q",
+  "followers": {
+    "href": null,
+    "total": 14670
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfd8441e988447965119b4acd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fd8441e988447965119b4acd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fd8441e988447965119b4acd",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0umvpzkCMoxVBy0IoNpN4Q"
+  }
+}

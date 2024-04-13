@@ -1,0 +1,34 @@
+{
+  "id": "65Jeqhhv2peAnYORe4BKxb",
+  "name": "Policy of Three",
+  "uri": "spotify:artist:65Jeqhhv2peAnYORe4BKxb",
+  "followers": {
+    "href": null,
+    "total": 1128
+  },
+  "genres": [
+    "emo punk",
+    "indie emo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736a7d2e2e72c42c66758f43d5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026a7d2e2e72c42c66758f43d5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516a7d2e2e72c42c66758f43d5",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/65Jeqhhv2peAnYORe4BKxb"
+  }
+}

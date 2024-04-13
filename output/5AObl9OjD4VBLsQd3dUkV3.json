@@ -1,0 +1,33 @@
+{
+  "id": "5AObl9OjD4VBLsQd3dUkV3",
+  "name": "Chain Gang",
+  "uri": "spotify:artist:5AObl9OjD4VBLsQd3dUkV3",
+  "followers": {
+    "href": null,
+    "total": 2949
+  },
+  "genres": [
+    "beatdown"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb81615531d0e29a54a2229166",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517481615531d0e29a54a2229166",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17881615531d0e29a54a2229166",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5AObl9OjD4VBLsQd3dUkV3"
+  }
+}

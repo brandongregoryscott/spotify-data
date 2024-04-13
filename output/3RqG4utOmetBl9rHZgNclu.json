@@ -1,0 +1,33 @@
+{
+  "id": "3RqG4utOmetBl9rHZgNclu",
+  "name": "Omsorg",
+  "uri": "spotify:artist:3RqG4utOmetBl9rHZgNclu",
+  "followers": {
+    "href": null,
+    "total": 386
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb78c19ded8794c10445b863b4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517478c19ded8794c10445b863b4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17878c19ded8794c10445b863b4",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3RqG4utOmetBl9rHZgNclu"
+  }
+}
