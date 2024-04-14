@@ -2,8 +2,6 @@ name: Sync
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron:  '05 * * * *'
 
 env:
   CLIENT_IDS: ${{secrets.CLIENT_IDS}}
@@ -25,7 +23,7 @@ jobs:
       run: bundle install
 
     - name: Sync data
-      run: ruby src/main.rb
+      run: ruby scripts/main.rb
 
     - name: Commit and push
       run: |-
