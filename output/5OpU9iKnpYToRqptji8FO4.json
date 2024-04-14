@@ -1,0 +1,33 @@
+{
+  "id": "5OpU9iKnpYToRqptji8FO4",
+  "name": "Summet",
+  "uri": "spotify:artist:5OpU9iKnpYToRqptji8FO4",
+  "followers": {
+    "href": null,
+    "total": 2379
+  },
+  "genres": [
+    "future bass"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba9744408b1c49976a8d7c066",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a9744408b1c49976a8d7c066",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a9744408b1c49976a8d7c066",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5OpU9iKnpYToRqptji8FO4"
+  }
+}

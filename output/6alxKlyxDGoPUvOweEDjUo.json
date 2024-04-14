@@ -1,0 +1,33 @@
+{
+  "id": "6alxKlyxDGoPUvOweEDjUo",
+  "name": "Giraa",
+  "uri": "spotify:artist:6alxKlyxDGoPUvOweEDjUo",
+  "followers": {
+    "href": null,
+    "total": 1029
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe80823f9efa9d480345e2478",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e80823f9efa9d480345e2478",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e80823f9efa9d480345e2478",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6alxKlyxDGoPUvOweEDjUo"
+  }
+}

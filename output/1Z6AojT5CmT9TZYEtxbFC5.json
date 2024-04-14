@@ -1,0 +1,33 @@
+{
+  "id": "1Z6AojT5CmT9TZYEtxbFC5",
+  "name": "cinna",
+  "uri": "spotify:artist:1Z6AojT5CmT9TZYEtxbFC5",
+  "followers": {
+    "href": null,
+    "total": 314
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb83414eefb3ec9f5ae1095c35",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517483414eefb3ec9f5ae1095c35",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17883414eefb3ec9f5ae1095c35",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Z6AojT5CmT9TZYEtxbFC5"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0SWl4c0TZmXv62JWpsO7vg",
+  "name": "etai s0",
+  "uri": "spotify:artist:0SWl4c0TZmXv62JWpsO7vg",
+  "followers": {
+    "href": null,
+    "total": 206
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfee3f741b9ac8e41e933ebf2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fee3f741b9ac8e41e933ebf2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fee3f741b9ac8e41e933ebf2",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0SWl4c0TZmXv62JWpsO7vg"
+  }
+}

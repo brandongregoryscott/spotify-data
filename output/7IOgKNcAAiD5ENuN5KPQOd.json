@@ -1,0 +1,33 @@
+{
+  "id": "7IOgKNcAAiD5ENuN5KPQOd",
+  "name": "Lucy02",
+  "uri": "spotify:artist:7IOgKNcAAiD5ENuN5KPQOd",
+  "followers": {
+    "href": null,
+    "total": 140
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8a28ca5fa1a5632d113948de",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051748a28ca5fa1a5632d113948de",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1788a28ca5fa1a5632d113948de",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7IOgKNcAAiD5ENuN5KPQOd"
+  }
+}

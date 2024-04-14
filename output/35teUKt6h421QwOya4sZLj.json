@@ -1,0 +1,33 @@
+{
+  "id": "35teUKt6h421QwOya4sZLj",
+  "name": "p3rk",
+  "uri": "spotify:artist:35teUKt6h421QwOya4sZLj",
+  "followers": {
+    "href": null,
+    "total": 172
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb83a0e107caa8844460adf8a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b83a0e107caa8844460adf8a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b83a0e107caa8844460adf8a",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/35teUKt6h421QwOya4sZLj"
+  }
+}

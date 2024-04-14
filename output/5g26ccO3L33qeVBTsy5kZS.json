@@ -1,0 +1,33 @@
+{
+  "id": "5g26ccO3L33qeVBTsy5kZS",
+  "name": "marco",
+  "uri": "spotify:artist:5g26ccO3L33qeVBTsy5kZS",
+  "followers": {
+    "href": null,
+    "total": 734
+  },
+  "genres": [
+    "sad lo-fi"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd65d384eea9a6817401f21e5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d65d384eea9a6817401f21e5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d65d384eea9a6817401f21e5",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5g26ccO3L33qeVBTsy5kZS"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3VhKwjUzCzgIJAzpjMBXmQ",
+  "name": "Rarin",
+  "uri": "spotify:artist:3VhKwjUzCzgIJAzpjMBXmQ",
+  "followers": {
+    "href": null,
+    "total": 103658
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb669f639f2070f23028dc5463",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174669f639f2070f23028dc5463",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178669f639f2070f23028dc5463",
+      "width": 160
+    }
+  ],
+  "popularity": 51,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3VhKwjUzCzgIJAzpjMBXmQ"
+  }
+}

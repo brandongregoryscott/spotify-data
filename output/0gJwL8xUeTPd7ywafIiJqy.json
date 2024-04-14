@@ -1,0 +1,33 @@
+{
+  "id": "0gJwL8xUeTPd7ywafIiJqy",
+  "name": "jd",
+  "uri": "spotify:artist:0gJwL8xUeTPd7ywafIiJqy",
+  "followers": {
+    "href": null,
+    "total": 434
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f509d0961097ac2dc339de30",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f509d0961097ac2dc339de30",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f509d0961097ac2dc339de30",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0gJwL8xUeTPd7ywafIiJqy"
+  }
+}

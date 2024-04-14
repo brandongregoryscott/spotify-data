@@ -1,0 +1,33 @@
+{
+  "id": "51YclfICtVbD3jYLlJHdEh",
+  "name": "yuske",
+  "uri": "spotify:artist:51YclfICtVbD3jYLlJHdEh",
+  "followers": {
+    "href": null,
+    "total": 970
+  },
+  "genres": [
+    "emoplugg"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb71b8d9ea742d37820dfbe0d1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517471b8d9ea742d37820dfbe0d1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17871b8d9ea742d37820dfbe0d1",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/51YclfICtVbD3jYLlJHdEh"
+  }
+}

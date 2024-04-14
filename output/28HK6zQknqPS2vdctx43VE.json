@@ -1,0 +1,33 @@
+{
+  "id": "28HK6zQknqPS2vdctx43VE",
+  "name": "CRVIG",
+  "uri": "spotify:artist:28HK6zQknqPS2vdctx43VE",
+  "followers": {
+    "href": null,
+    "total": 216
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6d9385633caa361cf22e512d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051746d9385633caa361cf22e512d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1786d9385633caa361cf22e512d",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/28HK6zQknqPS2vdctx43VE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1AgJYm5ErkFyUErBxggU8s",
+  "name": "Rocco Bunko",
+  "uri": "spotify:artist:1AgJYm5ErkFyUErBxggU8s",
+  "followers": {
+    "href": null,
+    "total": 981
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcb799e3b15a8cc64c8360d26",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cb799e3b15a8cc64c8360d26",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cb799e3b15a8cc64c8360d26",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1AgJYm5ErkFyUErBxggU8s"
+  }
+}

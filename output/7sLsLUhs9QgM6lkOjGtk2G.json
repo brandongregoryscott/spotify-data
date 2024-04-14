@@ -1,0 +1,33 @@
+{
+  "id": "7sLsLUhs9QgM6lkOjGtk2G",
+  "name": "Makina",
+  "uri": "spotify:artist:7sLsLUhs9QgM6lkOjGtk2G",
+  "followers": {
+    "href": null,
+    "total": 782
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaead09093f7a696bcefd09ea",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aead09093f7a696bcefd09ea",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aead09093f7a696bcefd09ea",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7sLsLUhs9QgM6lkOjGtk2G"
+  }
+}

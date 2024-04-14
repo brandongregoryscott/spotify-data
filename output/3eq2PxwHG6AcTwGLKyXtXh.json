@@ -1,0 +1,33 @@
+{
+  "id": "3eq2PxwHG6AcTwGLKyXtXh",
+  "name": "Deet",
+  "uri": "spotify:artist:3eq2PxwHG6AcTwGLKyXtXh",
+  "followers": {
+    "href": null,
+    "total": 1127
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeafb43f426fe210311e41932",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eafb43f426fe210311e41932",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eafb43f426fe210311e41932",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3eq2PxwHG6AcTwGLKyXtXh"
+  }
+}

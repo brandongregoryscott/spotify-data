@@ -1,0 +1,33 @@
+{
+  "id": "3XrhSpSTwii2SOGZ1FB8fZ",
+  "name": "gasmask",
+  "uri": "spotify:artist:3XrhSpSTwii2SOGZ1FB8fZ",
+  "followers": {
+    "href": null,
+    "total": 149
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb76f6481f23febf1ef3ea788e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517476f6481f23febf1ef3ea788e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17876f6481f23febf1ef3ea788e",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3XrhSpSTwii2SOGZ1FB8fZ"
+  }
+}

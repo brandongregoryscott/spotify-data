@@ -1,0 +1,33 @@
+{
+  "id": "1YZwoutBQnxaznZsPcTonZ",
+  "name": "rede.",
+  "uri": "spotify:artist:1YZwoutBQnxaznZsPcTonZ",
+  "followers": {
+    "href": null,
+    "total": 53
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb15b9a2809d1d2667128e066d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517415b9a2809d1d2667128e066d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17815b9a2809d1d2667128e066d",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1YZwoutBQnxaznZsPcTonZ"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0Y3Qkv9ZgtMYIcBowkZM3N",
+  "name": "Sobi",
+  "uri": "spotify:artist:0Y3Qkv9ZgtMYIcBowkZM3N",
+  "followers": {
+    "href": null,
+    "total": 177
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb474a3fa3c17f6cf5250fb211",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174474a3fa3c17f6cf5250fb211",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178474a3fa3c17f6cf5250fb211",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Y3Qkv9ZgtMYIcBowkZM3N"
+  }
+}

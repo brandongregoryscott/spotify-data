@@ -1,0 +1,33 @@
+{
+  "id": "0f96KA37xG9m8EJUCQdifk",
+  "name": "kurse11",
+  "uri": "spotify:artist:0f96KA37xG9m8EJUCQdifk",
+  "followers": {
+    "href": null,
+    "total": 335
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba0ed426d11309909ae74685e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a0ed426d11309909ae74685e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a0ed426d11309909ae74685e",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0f96KA37xG9m8EJUCQdifk"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "71b3cG0SJIR7wiqLshtJRq",
+  "name": "sxth2",
+  "uri": "spotify:artist:71b3cG0SJIR7wiqLshtJRq",
+  "followers": {
+    "href": null,
+    "total": 846
+  },
+  "genres": [
+    "dariacore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba557b15679eb4fed4abd8106",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a557b15679eb4fed4abd8106",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a557b15679eb4fed4abd8106",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/71b3cG0SJIR7wiqLshtJRq"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "02SyRDHBw5WymBaghDayFQ",
+  "name": "Venthan",
+  "uri": "spotify:artist:02SyRDHBw5WymBaghDayFQ",
+  "followers": {
+    "href": null,
+    "total": 307
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebab83d2b49d6f21f60c83aa42",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ab83d2b49d6f21f60c83aa42",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ab83d2b49d6f21f60c83aa42",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/02SyRDHBw5WymBaghDayFQ"
+  }
+}

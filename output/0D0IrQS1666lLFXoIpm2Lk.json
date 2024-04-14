@@ -1,0 +1,33 @@
+{
+  "id": "0D0IrQS1666lLFXoIpm2Lk",
+  "name": "vin0",
+  "uri": "spotify:artist:0D0IrQS1666lLFXoIpm2Lk",
+  "followers": {
+    "href": null,
+    "total": 1078
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb63b46c1631852ae0a47e1c47",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517463b46c1631852ae0a47e1c47",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17863b46c1631852ae0a47e1c47",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0D0IrQS1666lLFXoIpm2Lk"
+  }
+}

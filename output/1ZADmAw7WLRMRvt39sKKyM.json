@@ -1,0 +1,33 @@
+{
+  "id": "1ZADmAw7WLRMRvt39sKKyM",
+  "name": "jæmes",
+  "uri": "spotify:artist:1ZADmAw7WLRMRvt39sKKyM",
+  "followers": {
+    "href": null,
+    "total": 169
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731030550e64bd0f49a056e7ab",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021030550e64bd0f49a056e7ab",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511030550e64bd0f49a056e7ab",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ZADmAw7WLRMRvt39sKKyM"
+  }
+}

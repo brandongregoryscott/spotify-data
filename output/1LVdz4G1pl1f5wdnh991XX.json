@@ -1,0 +1,33 @@
+{
+  "id": "1LVdz4G1pl1f5wdnh991XX",
+  "name": "Mirin",
+  "uri": "spotify:artist:1LVdz4G1pl1f5wdnh991XX",
+  "followers": {
+    "href": null,
+    "total": 201
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb036611a6675d0054898733ba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174036611a6675d0054898733ba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178036611a6675d0054898733ba",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1LVdz4G1pl1f5wdnh991XX"
+  }
+}

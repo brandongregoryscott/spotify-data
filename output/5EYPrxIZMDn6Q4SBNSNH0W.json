@@ -1,0 +1,33 @@
+{
+  "id": "5EYPrxIZMDn6Q4SBNSNH0W",
+  "name": "sscenery",
+  "uri": "spotify:artist:5EYPrxIZMDn6Q4SBNSNH0W",
+  "followers": {
+    "href": null,
+    "total": 79
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbaf0d897d6934e35a552d4e6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174baf0d897d6934e35a552d4e6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178baf0d897d6934e35a552d4e6",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5EYPrxIZMDn6Q4SBNSNH0W"
+  }
+}

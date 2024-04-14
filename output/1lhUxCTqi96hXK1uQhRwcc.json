@@ -1,0 +1,33 @@
+{
+  "id": "1lhUxCTqi96hXK1uQhRwcc",
+  "name": "hi.brio",
+  "uri": "spotify:artist:1lhUxCTqi96hXK1uQhRwcc",
+  "followers": {
+    "href": null,
+    "total": 144
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27369ac3742f5a994232f75a070",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0269ac3742f5a994232f75a070",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485169ac3742f5a994232f75a070",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1lhUxCTqi96hXK1uQhRwcc"
+  }
+}

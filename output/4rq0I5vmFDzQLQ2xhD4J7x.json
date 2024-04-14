@@ -1,0 +1,33 @@
+{
+  "id": "4rq0I5vmFDzQLQ2xhD4J7x",
+  "name": "lucifer",
+  "uri": "spotify:artist:4rq0I5vmFDzQLQ2xhD4J7x",
+  "followers": {
+    "href": null,
+    "total": 26
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273208c44b117acfc289ca6aa1e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02208c44b117acfc289ca6aa1e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851208c44b117acfc289ca6aa1e",
+      "width": 64
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4rq0I5vmFDzQLQ2xhD4J7x"
+  }
+}

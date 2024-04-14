@@ -1,0 +1,33 @@
+{
+  "id": "2VTLKU8cAZDr5JuZ7HS4BA",
+  "name": "KMays",
+  "uri": "spotify:artist:2VTLKU8cAZDr5JuZ7HS4BA",
+  "followers": {
+    "href": null,
+    "total": 469
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb06a5f9b9140cf0585ca2c1fa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517406a5f9b9140cf0585ca2c1fa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17806a5f9b9140cf0585ca2c1fa",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2VTLKU8cAZDr5JuZ7HS4BA"
+  }
+}

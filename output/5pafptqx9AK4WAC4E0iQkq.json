@@ -1,0 +1,33 @@
+{
+  "id": "5pafptqx9AK4WAC4E0iQkq",
+  "name": "vulture-19",
+  "uri": "spotify:artist:5pafptqx9AK4WAC4E0iQkq",
+  "followers": {
+    "href": null,
+    "total": 148
+  },
+  "genres": [
+    "dariacore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736a070ac3f7e66309707a133e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026a070ac3f7e66309707a133e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516a070ac3f7e66309707a133e",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5pafptqx9AK4WAC4E0iQkq"
+  }
+}

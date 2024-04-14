@@ -1,0 +1,35 @@
+{
+  "id": "31enKimZVIjA10b0HYQxHX",
+  "name": "po9t",
+  "uri": "spotify:artist:31enKimZVIjA10b0HYQxHX",
+  "followers": {
+    "href": null,
+    "total": 3871
+  },
+  "genres": [
+    "lo-fi chill",
+    "sad lo-fi",
+    "sad rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb40ee732328f6704554351ac",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b40ee732328f6704554351ac",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b40ee732328f6704554351ac",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/31enKimZVIjA10b0HYQxHX"
+  }
+}

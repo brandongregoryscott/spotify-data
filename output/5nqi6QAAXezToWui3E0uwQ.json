@@ -1,0 +1,33 @@
+{
+  "id": "5nqi6QAAXezToWui3E0uwQ",
+  "name": "Lil Keel",
+  "uri": "spotify:artist:5nqi6QAAXezToWui3E0uwQ",
+  "followers": {
+    "href": null,
+    "total": 3198
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb40497f2838bc475fc3f3c6e3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517440497f2838bc475fc3f3c6e3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17840497f2838bc475fc3f3c6e3",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5nqi6QAAXezToWui3E0uwQ"
+  }
+}

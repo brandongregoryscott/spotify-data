@@ -1,0 +1,33 @@
+{
+  "id": "6H7ThNPX1FMuZWyx6QmfNj",
+  "name": "Koshi",
+  "uri": "spotify:artist:6H7ThNPX1FMuZWyx6QmfNj",
+  "followers": {
+    "href": null,
+    "total": 1192
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf42ef6fe76e5d9df1a343729",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f42ef6fe76e5d9df1a343729",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f42ef6fe76e5d9df1a343729",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6H7ThNPX1FMuZWyx6QmfNj"
+  }
+}

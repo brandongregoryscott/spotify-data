@@ -1,0 +1,33 @@
+{
+  "id": "4ekCKsrLpp6xf8kJ2AUJVU",
+  "name": "TYGKO",
+  "uri": "spotify:artist:4ekCKsrLpp6xf8kJ2AUJVU",
+  "followers": {
+    "href": null,
+    "total": 1233
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1ce4d05c9842ff618494344b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051741ce4d05c9842ff618494344b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1781ce4d05c9842ff618494344b",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4ekCKsrLpp6xf8kJ2AUJVU"
+  }
+}

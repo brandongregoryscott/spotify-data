@@ -1,0 +1,33 @@
+{
+  "id": "58dODJDrNq8DHvx5CJDJgd",
+  "name": "Violyt",
+  "uri": "spotify:artist:58dODJDrNq8DHvx5CJDJgd",
+  "followers": {
+    "href": null,
+    "total": 249
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbb8fb81fd711d86dcd71370a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bb8fb81fd711d86dcd71370a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bb8fb81fd711d86dcd71370a",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/58dODJDrNq8DHvx5CJDJgd"
+  }
+}

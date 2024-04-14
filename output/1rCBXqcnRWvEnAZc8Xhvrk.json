@@ -1,0 +1,33 @@
+{
+  "id": "1rCBXqcnRWvEnAZc8Xhvrk",
+  "name": "healings",
+  "uri": "spotify:artist:1rCBXqcnRWvEnAZc8Xhvrk",
+  "followers": {
+    "href": null,
+    "total": 60
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfe8aed535a2b8b6585814ce4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fe8aed535a2b8b6585814ce4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fe8aed535a2b8b6585814ce4",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1rCBXqcnRWvEnAZc8Xhvrk"
+  }
+}

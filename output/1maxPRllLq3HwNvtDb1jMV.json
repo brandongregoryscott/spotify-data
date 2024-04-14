@@ -1,0 +1,33 @@
+{
+  "id": "1maxPRllLq3HwNvtDb1jMV",
+  "name": "redhorse",
+  "uri": "spotify:artist:1maxPRllLq3HwNvtDb1jMV",
+  "followers": {
+    "href": null,
+    "total": 647
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe3dbb3923bc468f71e06f5b0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e3dbb3923bc468f71e06f5b0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e3dbb3923bc468f71e06f5b0",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1maxPRllLq3HwNvtDb1jMV"
+  }
+}

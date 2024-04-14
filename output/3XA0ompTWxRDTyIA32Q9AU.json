@@ -1,0 +1,33 @@
+{
+  "id": "3XA0ompTWxRDTyIA32Q9AU",
+  "name": "5star",
+  "uri": "spotify:artist:3XA0ompTWxRDTyIA32Q9AU",
+  "followers": {
+    "href": null,
+    "total": 582
+  },
+  "genres": [
+    "german hyperpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb56a5dece9d7972188263d25b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517456a5dece9d7972188263d25b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17856a5dece9d7972188263d25b",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3XA0ompTWxRDTyIA32Q9AU"
+  }
+}

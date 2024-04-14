@@ -1,0 +1,33 @@
+{
+  "id": "4KqkgKssI2penZbFI5WeVX",
+  "name": "Vega4lov",
+  "uri": "spotify:artist:4KqkgKssI2penZbFI5WeVX",
+  "followers": {
+    "href": null,
+    "total": 105
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb71fdb219904e169e25ba702f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517471fdb219904e169e25ba702f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17871fdb219904e169e25ba702f",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4KqkgKssI2penZbFI5WeVX"
+  }
+}

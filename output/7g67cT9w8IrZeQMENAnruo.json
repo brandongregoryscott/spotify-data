@@ -1,0 +1,33 @@
+{
+  "id": "7g67cT9w8IrZeQMENAnruo",
+  "name": "3ve",
+  "uri": "spotify:artist:7g67cT9w8IrZeQMENAnruo",
+  "followers": {
+    "href": null,
+    "total": 435
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb85bc31b8c7dbea6b1d4912bb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517485bc31b8c7dbea6b1d4912bb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17885bc31b8c7dbea6b1d4912bb",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7g67cT9w8IrZeQMENAnruo"
+  }
+}

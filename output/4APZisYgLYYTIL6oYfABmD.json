@@ -1,0 +1,33 @@
+{
+  "id": "4APZisYgLYYTIL6oYfABmD",
+  "name": "toastywav",
+  "uri": "spotify:artist:4APZisYgLYYTIL6oYfABmD",
+  "followers": {
+    "href": null,
+    "total": 680
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb013e7c4f5ec64fef3f2fcaa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b013e7c4f5ec64fef3f2fcaa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b013e7c4f5ec64fef3f2fcaa",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4APZisYgLYYTIL6oYfABmD"
+  }
+}

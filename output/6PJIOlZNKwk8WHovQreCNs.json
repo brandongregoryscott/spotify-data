@@ -1,0 +1,33 @@
+{
+  "id": "6PJIOlZNKwk8WHovQreCNs",
+  "name": "erdo",
+  "uri": "spotify:artist:6PJIOlZNKwk8WHovQreCNs",
+  "followers": {
+    "href": null,
+    "total": 474
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe629195f4eda36d89c6dae30",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e629195f4eda36d89c6dae30",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e629195f4eda36d89c6dae30",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6PJIOlZNKwk8WHovQreCNs"
+  }
+}

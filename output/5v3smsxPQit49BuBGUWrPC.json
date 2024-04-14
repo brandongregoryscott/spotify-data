@@ -1,0 +1,33 @@
+{
+  "id": "5v3smsxPQit49BuBGUWrPC",
+  "name": "DiLo",
+  "uri": "spotify:artist:5v3smsxPQit49BuBGUWrPC",
+  "followers": {
+    "href": null,
+    "total": 151
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb718b55bf231b9f86e3177ac5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174718b55bf231b9f86e3177ac5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178718b55bf231b9f86e3177ac5",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5v3smsxPQit49BuBGUWrPC"
+  }
+}

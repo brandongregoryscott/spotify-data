@@ -1,0 +1,33 @@
+{
+  "id": "6OMeWwhQYqKka22e4zSnur",
+  "name": "Surge",
+  "uri": "spotify:artist:6OMeWwhQYqKka22e4zSnur",
+  "followers": {
+    "href": null,
+    "total": 8263
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbc228ef4546d272b234718f0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bc228ef4546d272b234718f0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bc228ef4546d272b234718f0",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6OMeWwhQYqKka22e4zSnur"
+  }
+}

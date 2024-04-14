@@ -1,0 +1,33 @@
+{
+  "id": "3skJItifCqpB072LncMKDA",
+  "name": "hannevig",
+  "uri": "spotify:artist:3skJItifCqpB072LncMKDA",
+  "followers": {
+    "href": null,
+    "total": 137
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb57349278aa0d5b28248a3c1d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517457349278aa0d5b28248a3c1d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17857349278aa0d5b28248a3c1d",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3skJItifCqpB072LncMKDA"
+  }
+}

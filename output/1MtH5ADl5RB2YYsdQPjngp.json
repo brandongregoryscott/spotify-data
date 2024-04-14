@@ -1,0 +1,33 @@
+{
+  "id": "1MtH5ADl5RB2YYsdQPjngp",
+  "name": "Serg",
+  "uri": "spotify:artist:1MtH5ADl5RB2YYsdQPjngp",
+  "followers": {
+    "href": null,
+    "total": 130
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3572d11ec7cbd2b579cb0a4b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051743572d11ec7cbd2b579cb0a4b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1783572d11ec7cbd2b579cb0a4b",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1MtH5ADl5RB2YYsdQPjngp"
+  }
+}

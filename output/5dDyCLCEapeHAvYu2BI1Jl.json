@@ -1,0 +1,33 @@
+{
+  "id": "5dDyCLCEapeHAvYu2BI1Jl",
+  "name": "birdtunes",
+  "uri": "spotify:artist:5dDyCLCEapeHAvYu2BI1Jl",
+  "followers": {
+    "href": null,
+    "total": 3934
+  },
+  "genres": [
+    "bedroom r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba93267a6d781767bd350978c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a93267a6d781767bd350978c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a93267a6d781767bd350978c",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5dDyCLCEapeHAvYu2BI1Jl"
+  }
+}

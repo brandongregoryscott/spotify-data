@@ -1,0 +1,33 @@
+{
+  "id": "5m8wDH0cFzGv8UGdUpMidL",
+  "name": "emoo",
+  "uri": "spotify:artist:5m8wDH0cFzGv8UGdUpMidL",
+  "followers": {
+    "href": null,
+    "total": 187
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebde8ebe5e9b8578180780c71e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174de8ebe5e9b8578180780c71e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178de8ebe5e9b8578180780c71e",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5m8wDH0cFzGv8UGdUpMidL"
+  }
+}

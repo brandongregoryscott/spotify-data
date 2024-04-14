@@ -1,0 +1,34 @@
+{
+  "id": "08OCWF4MDd9CQC2uPbsV3j",
+  "name": "Xavi",
+  "uri": "spotify:artist:08OCWF4MDd9CQC2uPbsV3j",
+  "followers": {
+    "href": null,
+    "total": 8253
+  },
+  "genres": [
+    "future bass",
+    "melodic dubstep"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd762b9c893a3736fe01d7f00",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d762b9c893a3736fe01d7f00",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d762b9c893a3736fe01d7f00",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/08OCWF4MDd9CQC2uPbsV3j"
+  }
+}

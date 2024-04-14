@@ -1,0 +1,33 @@
+{
+  "id": "5LnJaCaQy7VTdAwNK1OXJG",
+  "name": "uuniform",
+  "uri": "spotify:artist:5LnJaCaQy7VTdAwNK1OXJG",
+  "followers": {
+    "href": null,
+    "total": 32
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaf8121d6e9dccc76190e3237",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174af8121d6e9dccc76190e3237",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178af8121d6e9dccc76190e3237",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5LnJaCaQy7VTdAwNK1OXJG"
+  }
+}

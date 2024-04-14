@@ -1,0 +1,33 @@
+{
+  "id": "17qmiUkva1BphxwiC99mBO",
+  "name": "findkoji",
+  "uri": "spotify:artist:17qmiUkva1BphxwiC99mBO",
+  "followers": {
+    "href": null,
+    "total": 152
+  },
+  "genres": [
+    "lo-fi chill"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb05ad1cb2337944fccf7a774d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517405ad1cb2337944fccf7a774d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17805ad1cb2337944fccf7a774d",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/17qmiUkva1BphxwiC99mBO"
+  }
+}

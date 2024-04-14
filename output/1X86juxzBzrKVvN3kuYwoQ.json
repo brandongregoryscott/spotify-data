@@ -1,0 +1,33 @@
+{
+  "id": "1X86juxzBzrKVvN3kuYwoQ",
+  "name": "may",
+  "uri": "spotify:artist:1X86juxzBzrKVvN3kuYwoQ",
+  "followers": {
+    "href": null,
+    "total": 765
+  },
+  "genres": [
+    "emoplugg"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbec02f82ee5858a635dc4afc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bec02f82ee5858a635dc4afc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bec02f82ee5858a635dc4afc",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1X86juxzBzrKVvN3kuYwoQ"
+  }
+}

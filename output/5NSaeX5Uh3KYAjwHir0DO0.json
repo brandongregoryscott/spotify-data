@@ -1,0 +1,33 @@
+{
+  "id": "5NSaeX5Uh3KYAjwHir0DO0",
+  "name": "sicko",
+  "uri": "spotify:artist:5NSaeX5Uh3KYAjwHir0DO0",
+  "followers": {
+    "href": null,
+    "total": 407
+  },
+  "genres": [
+    "sigilkore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ba9bff83da935f6c187f2cb7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ba9bff83da935f6c187f2cb7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ba9bff83da935f6c187f2cb7",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5NSaeX5Uh3KYAjwHir0DO0"
+  }
+}

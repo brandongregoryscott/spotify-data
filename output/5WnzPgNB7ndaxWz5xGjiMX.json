@@ -1,0 +1,33 @@
+{
+  "id": "5WnzPgNB7ndaxWz5xGjiMX",
+  "name": "h1dekii",
+  "uri": "spotify:artist:5WnzPgNB7ndaxWz5xGjiMX",
+  "followers": {
+    "href": null,
+    "total": 73
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5300f25b1d497800a10b65b9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051745300f25b1d497800a10b65b9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1785300f25b1d497800a10b65b9",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5WnzPgNB7ndaxWz5xGjiMX"
+  }
+}

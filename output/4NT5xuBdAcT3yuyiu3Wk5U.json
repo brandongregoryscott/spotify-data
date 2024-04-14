@@ -1,0 +1,33 @@
+{
+  "id": "4NT5xuBdAcT3yuyiu3Wk5U",
+  "name": "seph",
+  "uri": "spotify:artist:4NT5xuBdAcT3yuyiu3Wk5U",
+  "followers": {
+    "href": null,
+    "total": 482
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbf80a0dbece16efd1279d48f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bf80a0dbece16efd1279d48f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bf80a0dbece16efd1279d48f",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4NT5xuBdAcT3yuyiu3Wk5U"
+  }
+}

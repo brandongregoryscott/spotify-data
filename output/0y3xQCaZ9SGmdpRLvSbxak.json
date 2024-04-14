@@ -1,0 +1,33 @@
+{
+  "id": "0y3xQCaZ9SGmdpRLvSbxak",
+  "name": "hi",
+  "uri": "spotify:artist:0y3xQCaZ9SGmdpRLvSbxak",
+  "followers": {
+    "href": null,
+    "total": 2669
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb327dd958760e31c637343694",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174327dd958760e31c637343694",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178327dd958760e31c637343694",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0y3xQCaZ9SGmdpRLvSbxak"
+  }
+}

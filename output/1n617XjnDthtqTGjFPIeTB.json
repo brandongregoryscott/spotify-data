@@ -1,0 +1,34 @@
+{
+  "id": "1n617XjnDthtqTGjFPIeTB",
+  "name": "sholoh",
+  "uri": "spotify:artist:1n617XjnDthtqTGjFPIeTB",
+  "followers": {
+    "href": null,
+    "total": 1362
+  },
+  "genres": [
+    "glitchcore",
+    "indie hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb60df1562ef208832448a2ad2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517460df1562ef208832448a2ad2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17860df1562ef208832448a2ad2",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1n617XjnDthtqTGjFPIeTB"
+  }
+}

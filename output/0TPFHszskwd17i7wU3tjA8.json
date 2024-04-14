@@ -1,0 +1,33 @@
+{
+  "id": "0TPFHszskwd17i7wU3tjA8",
+  "name": "reesoo",
+  "uri": "spotify:artist:0TPFHszskwd17i7wU3tjA8",
+  "followers": {
+    "href": null,
+    "total": 147
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb169060fa67d8444e86ae3b5c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174169060fa67d8444e86ae3b5c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178169060fa67d8444e86ae3b5c",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0TPFHszskwd17i7wU3tjA8"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "25bsoU422NKTd2yogYNTXa",
+  "name": "gash",
+  "uri": "spotify:artist:25bsoU422NKTd2yogYNTXa",
+  "followers": {
+    "href": null,
+    "total": 92
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb45b57d83ea67f63b03e02bad",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517445b57d83ea67f63b03e02bad",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17845b57d83ea67f63b03e02bad",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/25bsoU422NKTd2yogYNTXa"
+  }
+}

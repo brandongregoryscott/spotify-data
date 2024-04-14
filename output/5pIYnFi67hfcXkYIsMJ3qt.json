@@ -1,0 +1,33 @@
+{
+  "id": "5pIYnFi67hfcXkYIsMJ3qt",
+  "name": "Chonzu",
+  "uri": "spotify:artist:5pIYnFi67hfcXkYIsMJ3qt",
+  "followers": {
+    "href": null,
+    "total": 141
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdf157bba6388a37bc5a13160",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174df157bba6388a37bc5a13160",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178df157bba6388a37bc5a13160",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5pIYnFi67hfcXkYIsMJ3qt"
+  }
+}

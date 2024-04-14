@@ -1,0 +1,33 @@
+{
+  "id": "69beQ0OjuDA1QZaFJLLuhW",
+  "name": "gloomy",
+  "uri": "spotify:artist:69beQ0OjuDA1QZaFJLLuhW",
+  "followers": {
+    "href": null,
+    "total": 1234
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27306e256d3b7eb27e86efc6797",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0206e256d3b7eb27e86efc6797",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485106e256d3b7eb27e86efc6797",
+      "width": 64
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/69beQ0OjuDA1QZaFJLLuhW"
+  }
+}

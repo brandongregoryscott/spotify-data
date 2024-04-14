@@ -1,0 +1,36 @@
+{
+  "id": "6WAtFnwKXtsZBvVVONWrYM",
+  "name": "Ex Models",
+  "uri": "spotify:artist:6WAtFnwKXtsZBvVVONWrYM",
+  "followers": {
+    "href": null,
+    "total": 5499
+  },
+  "genres": [
+    "math rock",
+    "noise punk",
+    "noise rock",
+    "sasscore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb271fdff10c96e7cc0fa36130",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174271fdff10c96e7cc0fa36130",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178271fdff10c96e7cc0fa36130",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6WAtFnwKXtsZBvVVONWrYM"
+  }
+}

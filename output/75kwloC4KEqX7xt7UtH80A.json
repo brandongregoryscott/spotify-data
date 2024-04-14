@@ -1,0 +1,34 @@
+{
+  "id": "75kwloC4KEqX7xt7UtH80A",
+  "name": "Tdstr",
+  "uri": "spotify:artist:75kwloC4KEqX7xt7UtH80A",
+  "followers": {
+    "href": null,
+    "total": 1467
+  },
+  "genres": [
+    "dariacore",
+    "mashcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb30bc32c3276ba0727d39d258",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517430bc32c3276ba0727d39d258",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17830bc32c3276ba0727d39d258",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/75kwloC4KEqX7xt7UtH80A"
+  }
+}
