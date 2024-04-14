@@ -1,0 +1,33 @@
+{
+  "id": "1V5DIiygIvrhqKYjauAmaU",
+  "name": "Home View",
+  "uri": "spotify:artist:1V5DIiygIvrhqKYjauAmaU",
+  "followers": {
+    "href": null,
+    "total": 558
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf40eac250cf0263be592d2f1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f40eac250cf0263be592d2f1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f40eac250cf0263be592d2f1",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1V5DIiygIvrhqKYjauAmaU"
+  }
+}

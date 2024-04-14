@@ -1,0 +1,33 @@
+{
+  "id": "2DdPAfxTTAXZIwzn3JBJsd",
+  "name": "gor3",
+  "uri": "spotify:artist:2DdPAfxTTAXZIwzn3JBJsd",
+  "followers": {
+    "href": null,
+    "total": 437
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6522704088d78f39aa0ae0b5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051746522704088d78f39aa0ae0b5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1786522704088d78f39aa0ae0b5",
+      "width": 160
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2DdPAfxTTAXZIwzn3JBJsd"
+  }
+}

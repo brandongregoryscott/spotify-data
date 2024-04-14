@@ -1,0 +1,34 @@
+{
+  "id": "5fRnNOrEt6z1TDudpbzAcC",
+  "name": "Vanum",
+  "uri": "spotify:artist:5fRnNOrEt6z1TDudpbzAcC",
+  "followers": {
+    "href": null,
+    "total": 9496
+  },
+  "genres": [
+    "atmospheric black metal",
+    "voidgaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebecbbaf05f76cb3730e0649ec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ecbbaf05f76cb3730e0649ec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ecbbaf05f76cb3730e0649ec",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5fRnNOrEt6z1TDudpbzAcC"
+  }
+}

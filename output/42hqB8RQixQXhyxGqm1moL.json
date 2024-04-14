@@ -1,0 +1,33 @@
+{
+  "id": "42hqB8RQixQXhyxGqm1moL",
+  "name": "akoge",
+  "uri": "spotify:artist:42hqB8RQixQXhyxGqm1moL",
+  "followers": {
+    "href": null,
+    "total": 9843
+  },
+  "genres": [
+    "sigilkore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb74d16b8954ec4e8352d6dc41",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517474d16b8954ec4e8352d6dc41",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17874d16b8954ec4e8352d6dc41",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/42hqB8RQixQXhyxGqm1moL"
+  }
+}

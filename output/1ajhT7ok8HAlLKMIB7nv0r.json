@@ -1,0 +1,33 @@
+{
+  "id": "1ajhT7ok8HAlLKMIB7nv0r",
+  "name": "June Sky",
+  "uri": "spotify:artist:1ajhT7ok8HAlLKMIB7nv0r",
+  "followers": {
+    "href": null,
+    "total": 437
+  },
+  "genres": [
+    "bleakgaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf159602199c6dfeca465075f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f159602199c6dfeca465075f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f159602199c6dfeca465075f",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ajhT7ok8HAlLKMIB7nv0r"
+  }
+}

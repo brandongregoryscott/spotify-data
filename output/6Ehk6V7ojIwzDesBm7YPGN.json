@@ -1,0 +1,33 @@
+{
+  "id": "6Ehk6V7ojIwzDesBm7YPGN",
+  "name": "TANAGEN",
+  "uri": "spotify:artist:6Ehk6V7ojIwzDesBm7YPGN",
+  "followers": {
+    "href": null,
+    "total": 32
+  },
+  "genres": [
+    "extratone"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bfff51d56034771d37ea8001",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bfff51d56034771d37ea8001",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bfff51d56034771d37ea8001",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Ehk6V7ojIwzDesBm7YPGN"
+  }
+}

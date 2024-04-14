@@ -1,0 +1,33 @@
+{
+  "id": "0sKYQqfTvN5qmHPfhfHNry",
+  "name": "lunarr",
+  "uri": "spotify:artist:0sKYQqfTvN5qmHPfhfHNry",
+  "followers": {
+    "href": null,
+    "total": 4010
+  },
+  "genres": [
+    "scenecore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe801eb9a1806525e3800f548",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e801eb9a1806525e3800f548",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e801eb9a1806525e3800f548",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0sKYQqfTvN5qmHPfhfHNry"
+  }
+}

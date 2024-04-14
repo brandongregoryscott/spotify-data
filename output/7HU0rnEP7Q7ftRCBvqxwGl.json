@@ -1,0 +1,33 @@
+{
+  "id": "7HU0rnEP7Q7ftRCBvqxwGl",
+  "name": "HURGEL",
+  "uri": "spotify:artist:7HU0rnEP7Q7ftRCBvqxwGl",
+  "followers": {
+    "href": null,
+    "total": 21
+  },
+  "genres": [
+    "extratone"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273489f13184cc58ba782c5918c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02489f13184cc58ba782c5918c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851489f13184cc58ba782c5918c",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7HU0rnEP7Q7ftRCBvqxwGl"
+  }
+}

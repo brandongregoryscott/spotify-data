@@ -1,0 +1,33 @@
+{
+  "id": "3kLjcqFmnLnNfBJfjZYa8y",
+  "name": "cholorofilm",
+  "uri": "spotify:artist:3kLjcqFmnLnNfBJfjZYa8y",
+  "followers": {
+    "href": null,
+    "total": 9481
+  },
+  "genres": [
+    "scenecore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfe2716c6e339900682669371",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fe2716c6e339900682669371",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fe2716c6e339900682669371",
+      "width": 160
+    }
+  ],
+  "popularity": 41,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3kLjcqFmnLnNfBJfjZYa8y"
+  }
+}

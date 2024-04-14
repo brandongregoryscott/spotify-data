@@ -1,0 +1,33 @@
+{
+  "id": "0NtrNqGsBCEVEiaWRt0X7T",
+  "name": "Cessna",
+  "uri": "spotify:artist:0NtrNqGsBCEVEiaWRt0X7T",
+  "followers": {
+    "href": null,
+    "total": 243
+  },
+  "genres": [
+    "tape club"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a35c94f44d4b06484b17ef49",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a35c94f44d4b06484b17ef49",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a35c94f44d4b06484b17ef49",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0NtrNqGsBCEVEiaWRt0X7T"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5hAeBiMGwnoFDNf7jB0mdl",
+  "name": "la lune",
+  "uri": "spotify:artist:5hAeBiMGwnoFDNf7jB0mdl",
+  "followers": {
+    "href": null,
+    "total": 356
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb87c764308bf879ef31093ec0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517487c764308bf879ef31093ec0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17887c764308bf879ef31093ec0",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5hAeBiMGwnoFDNf7jB0mdl"
+  }
+}

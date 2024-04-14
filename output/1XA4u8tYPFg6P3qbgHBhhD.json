@@ -1,0 +1,33 @@
+{
+  "id": "1XA4u8tYPFg6P3qbgHBhhD",
+  "name": "violet_dash",
+  "uri": "spotify:artist:1XA4u8tYPFg6P3qbgHBhhD",
+  "followers": {
+    "href": null,
+    "total": 388
+  },
+  "genres": [
+    "furry"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb60a58f1ee85f3313eca2282b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517460a58f1ee85f3313eca2282b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17860a58f1ee85f3313eca2282b",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1XA4u8tYPFg6P3qbgHBhhD"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5mvzbaqEyufJI09DXA7LFY",
+  "name": "Yung Aether",
+  "uri": "spotify:artist:5mvzbaqEyufJI09DXA7LFY",
+  "followers": {
+    "href": null,
+    "total": 83
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcd4ea5d9751e8ff4453e7bba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cd4ea5d9751e8ff4453e7bba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cd4ea5d9751e8ff4453e7bba",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5mvzbaqEyufJI09DXA7LFY"
+  }
+}

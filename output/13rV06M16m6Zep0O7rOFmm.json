@@ -1,0 +1,33 @@
+{
+  "id": "13rV06M16m6Zep0O7rOFmm",
+  "name": "Yuba",
+  "uri": "spotify:artist:13rV06M16m6Zep0O7rOFmm",
+  "followers": {
+    "href": null,
+    "total": 209
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb99ba5f781ae5af62a5fd4cd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b99ba5f781ae5af62a5fd4cd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b99ba5f781ae5af62a5fd4cd",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/13rV06M16m6Zep0O7rOFmm"
+  }
+}

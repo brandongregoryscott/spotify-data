@@ -1,0 +1,33 @@
+{
+  "id": "4IJY2pv12uH88i4v5XLMC7",
+  "name": "eien",
+  "uri": "spotify:artist:4IJY2pv12uH88i4v5XLMC7",
+  "followers": {
+    "href": null,
+    "total": 1205
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb2de21fde9ed5411d8b0f92e1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051742de21fde9ed5411d8b0f92e1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1782de21fde9ed5411d8b0f92e1",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4IJY2pv12uH88i4v5XLMC7"
+  }
+}

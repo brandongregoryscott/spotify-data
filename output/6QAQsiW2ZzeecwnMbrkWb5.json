@@ -1,0 +1,33 @@
+{
+  "id": "6QAQsiW2ZzeecwnMbrkWb5",
+  "name": "Joe Christmas",
+  "uri": "spotify:artist:6QAQsiW2ZzeecwnMbrkWb5",
+  "followers": {
+    "href": null,
+    "total": 1179
+  },
+  "genres": [
+    "christian punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738acf22be7f3a0d8a7088731a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028acf22be7f3a0d8a7088731a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518acf22be7f3a0d8a7088731a",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6QAQsiW2ZzeecwnMbrkWb5"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3II4BTkM0mJbwvFxVJRdeS",
+  "name": "sace6",
+  "uri": "spotify:artist:3II4BTkM0mJbwvFxVJRdeS",
+  "followers": {
+    "href": null,
+    "total": 6483
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb487619c169e9e3103a73fb44",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174487619c169e9e3103a73fb44",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178487619c169e9e3103a73fb44",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
+  }
+}

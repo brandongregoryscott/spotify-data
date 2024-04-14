@@ -1,0 +1,33 @@
+{
+  "id": "3KbX4RlZ3BPaSGms7b8P9q",
+  "name": "kobain",
+  "uri": "spotify:artist:3KbX4RlZ3BPaSGms7b8P9q",
+  "followers": {
+    "href": null,
+    "total": 101
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a1410951fabcb366041956d7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a1410951fabcb366041956d7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a1410951fabcb366041956d7",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3KbX4RlZ3BPaSGms7b8P9q"
+  }
+}

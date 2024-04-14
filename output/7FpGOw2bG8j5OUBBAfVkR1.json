@@ -1,0 +1,33 @@
+{
+  "id": "7FpGOw2bG8j5OUBBAfVkR1",
+  "name": "猫戦",
+  "uri": "spotify:artist:7FpGOw2bG8j5OUBBAfVkR1",
+  "followers": {
+    "href": null,
+    "total": 8826
+  },
+  "genres": [
+    "kansai indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb09bbe06da5b83cc6a7aac9a1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517409bbe06da5b83cc6a7aac9a1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17809bbe06da5b83cc6a7aac9a1",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1"
+  }
+}

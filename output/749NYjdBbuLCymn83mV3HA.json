@@ -1,0 +1,35 @@
+{
+  "id": "749NYjdBbuLCymn83mV3HA",
+  "name": "Lull",
+  "uri": "spotify:artist:749NYjdBbuLCymn83mV3HA",
+  "followers": {
+    "href": null,
+    "total": 2560
+  },
+  "genres": [
+    "ambient industrial",
+    "british experimental",
+    "dub metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273081ddc4a1cdb4b6a51991e6a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02081ddc4a1cdb4b6a51991e6a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851081ddc4a1cdb4b6a51991e6a",
+      "width": 64
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/749NYjdBbuLCymn83mV3HA"
+  }
+}

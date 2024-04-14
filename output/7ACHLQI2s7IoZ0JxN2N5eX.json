@@ -1,0 +1,33 @@
+{
+  "id": "7ACHLQI2s7IoZ0JxN2N5eX",
+  "name": "cezz",
+  "uri": "spotify:artist:7ACHLQI2s7IoZ0JxN2N5eX",
+  "followers": {
+    "href": null,
+    "total": 502
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb6650565b236552c2fafcc08",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b6650565b236552c2fafcc08",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b6650565b236552c2fafcc08",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ACHLQI2s7IoZ0JxN2N5eX"
+  }
+}

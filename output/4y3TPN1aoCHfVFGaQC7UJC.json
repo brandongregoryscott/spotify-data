@@ -1,0 +1,33 @@
+{
+  "id": "4y3TPN1aoCHfVFGaQC7UJC",
+  "name": "Ana Eclipse",
+  "uri": "spotify:artist:4y3TPN1aoCHfVFGaQC7UJC",
+  "followers": {
+    "href": null,
+    "total": 10526
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb521c5171cca25957e7398327",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174521c5171cca25957e7398327",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178521c5171cca25957e7398327",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4y3TPN1aoCHfVFGaQC7UJC"
+  }
+}

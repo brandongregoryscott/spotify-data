@@ -1,0 +1,33 @@
+{
+  "id": "4YaO6zWHHGYD4gFdJnZ6uu",
+  "name": "1cey",
+  "uri": "spotify:artist:4YaO6zWHHGYD4gFdJnZ6uu",
+  "followers": {
+    "href": null,
+    "total": 119
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb45620e7748a6b62f2c74f6e4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517445620e7748a6b62f2c74f6e4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17845620e7748a6b62f2c74f6e4",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4YaO6zWHHGYD4gFdJnZ6uu"
+  }
+}

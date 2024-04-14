@@ -1,0 +1,33 @@
+{
+  "id": "1in8zMAOUzhqOAvAkMh7Yk",
+  "name": "Dogma Soup",
+  "uri": "spotify:artist:1in8zMAOUzhqOAvAkMh7Yk",
+  "followers": {
+    "href": null,
+    "total": 341
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb116d1d7d8f7540941f580a32",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174116d1d7d8f7540941f580a32",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178116d1d7d8f7540941f580a32",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1in8zMAOUzhqOAvAkMh7Yk"
+  }
+}

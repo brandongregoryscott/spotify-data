@@ -1,0 +1,33 @@
+{
+  "id": "6BUNSl0SGQNvFPweocS5UQ",
+  "name": "nyli",
+  "uri": "spotify:artist:6BUNSl0SGQNvFPweocS5UQ",
+  "followers": {
+    "href": null,
+    "total": 576
+  },
+  "genres": [
+    "sigilkore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebca481554eecb9441382e6827",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ca481554eecb9441382e6827",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ca481554eecb9441382e6827",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6BUNSl0SGQNvFPweocS5UQ"
+  }
+}

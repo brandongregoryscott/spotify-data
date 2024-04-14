@@ -1,0 +1,39 @@
+{
+  "id": "0XFkf3NSP76nB7zhzPdM9X",
+  "name": "Sojourner",
+  "uri": "spotify:artist:0XFkf3NSP76nB7zhzPdM9X",
+  "followers": {
+    "href": null,
+    "total": 22257
+  },
+  "genres": [
+    "atmospheric black metal",
+    "dungeon synth",
+    "epic black metal",
+    "folk metal",
+    "melodic death metal",
+    "viking metal",
+    "voidgaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfd11aba5a636c53b5ce847f7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fd11aba5a636c53b5ce847f7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fd11aba5a636c53b5ce847f7",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0XFkf3NSP76nB7zhzPdM9X"
+  }
+}

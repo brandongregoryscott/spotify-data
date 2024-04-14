@@ -1,0 +1,33 @@
+{
+  "id": "16oOypteWPMxwzJFL3yxJH",
+  "name": "Morris Village",
+  "uri": "spotify:artist:16oOypteWPMxwzJFL3yxJH",
+  "followers": {
+    "href": null,
+    "total": 68
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf807bcf545e4e2589a8b4e95",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f807bcf545e4e2589a8b4e95",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f807bcf545e4e2589a8b4e95",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/16oOypteWPMxwzJFL3yxJH"
+  }
+}

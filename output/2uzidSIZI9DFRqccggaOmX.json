@@ -1,0 +1,33 @@
+{
+  "id": "2uzidSIZI9DFRqccggaOmX",
+  "name": "cybermonk",
+  "uri": "spotify:artist:2uzidSIZI9DFRqccggaOmX",
+  "followers": {
+    "href": null,
+    "total": 43
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27307787b71e053bacdeaa69d45",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0207787b71e053bacdeaa69d45",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485107787b71e053bacdeaa69d45",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2uzidSIZI9DFRqccggaOmX"
+  }
+}

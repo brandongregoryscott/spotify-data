@@ -1,0 +1,33 @@
+{
+  "id": "0ayXB8aXa509rZq7h8hQ5R",
+  "name": "hr0001",
+  "uri": "spotify:artist:0ayXB8aXa509rZq7h8hQ5R",
+  "followers": {
+    "href": null,
+    "total": 83
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734dcd30398c693be295822dec",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024dcd30398c693be295822dec",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514dcd30398c693be295822dec",
+      "width": 64
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ayXB8aXa509rZq7h8hQ5R"
+  }
+}

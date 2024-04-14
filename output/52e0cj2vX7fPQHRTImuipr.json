@@ -1,0 +1,33 @@
+{
+  "id": "52e0cj2vX7fPQHRTImuipr",
+  "name": "Kuang Program",
+  "uri": "spotify:artist:52e0cj2vX7fPQHRTImuipr",
+  "followers": {
+    "href": null,
+    "total": 301
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27345ca1744c2e1d7473a06867c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0245ca1744c2e1d7473a06867c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485145ca1744c2e1d7473a06867c",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/52e0cj2vX7fPQHRTImuipr"
+  }
+}

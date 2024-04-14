@@ -1,0 +1,33 @@
+{
+  "id": "4fag8ybgb4H3sIzmrVf4xZ",
+  "name": "baan",
+  "uri": "spotify:artist:4fag8ybgb4H3sIzmrVf4xZ",
+  "followers": {
+    "href": null,
+    "total": 159
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734c7687915812d0da647a5dd1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024c7687915812d0da647a5dd1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514c7687915812d0da647a5dd1",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4fag8ybgb4H3sIzmrVf4xZ"
+  }
+}

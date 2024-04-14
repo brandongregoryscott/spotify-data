@@ -1,0 +1,33 @@
+{
+  "id": "2m9jmZgB1ox1XVoxV6FhIr",
+  "name": "Thanks, I'm Trying",
+  "uri": "spotify:artist:2m9jmZgB1ox1XVoxV6FhIr",
+  "followers": {
+    "href": null,
+    "total": 33
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd7bfb26e9afaa38f51bdbd88",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d7bfb26e9afaa38f51bdbd88",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d7bfb26e9afaa38f51bdbd88",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2m9jmZgB1ox1XVoxV6FhIr"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "3PvNSturlrBV4aYdMJAyOH",
+  "name": "Sambassadeur",
+  "uri": "spotify:artist:3PvNSturlrBV4aYdMJAyOH",
+  "followers": {
+    "href": null,
+    "total": 8543
+  },
+  "genres": [
+    "metropopolis",
+    "swedish indie pop",
+    "tape club"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfeea32fc9edab361fe81128d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174feea32fc9edab361fe81128d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178feea32fc9edab361fe81128d",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3PvNSturlrBV4aYdMJAyOH"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0PNEmAcd6i5jSSmNul36fY",
+  "name": "glover.",
+  "uri": "spotify:artist:0PNEmAcd6i5jSSmNul36fY",
+  "followers": {
+    "href": null,
+    "total": 410
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd9e0512624f481512f2e7018",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d9e0512624f481512f2e7018",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d9e0512624f481512f2e7018",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0PNEmAcd6i5jSSmNul36fY"
+  }
+}

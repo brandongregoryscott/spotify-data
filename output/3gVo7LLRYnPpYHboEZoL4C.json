@@ -1,0 +1,33 @@
+{
+  "id": "3gVo7LLRYnPpYHboEZoL4C",
+  "name": "Hylna",
+  "uri": "spotify:artist:3gVo7LLRYnPpYHboEZoL4C",
+  "followers": {
+    "href": null,
+    "total": 286
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb55ee59e876d0106869a3d70",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b55ee59e876d0106869a3d70",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b55ee59e876d0106869a3d70",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3gVo7LLRYnPpYHboEZoL4C"
+  }
+}

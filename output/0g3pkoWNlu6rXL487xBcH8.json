@@ -1,0 +1,34 @@
+{
+  "id": "0g3pkoWNlu6rXL487xBcH8",
+  "name": "Nomark",
+  "uri": "spotify:artist:0g3pkoWNlu6rXL487xBcH8",
+  "followers": {
+    "href": null,
+    "total": 4113
+  },
+  "genres": [
+    "scenecore",
+    "slovenian hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb55403fd212e1711d01f328eb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517455403fd212e1711d01f328eb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17855403fd212e1711d01f328eb",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0g3pkoWNlu6rXL487xBcH8"
+  }
+}

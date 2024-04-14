@@ -1,0 +1,33 @@
+{
+  "id": "6qWQ49hbX08ZLyRABxaasl",
+  "name": "FLat7",
+  "uri": "spotify:artist:6qWQ49hbX08ZLyRABxaasl",
+  "followers": {
+    "href": null,
+    "total": 1287
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273eef2776f90838f4e1654fece",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02eef2776f90838f4e1654fece",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851eef2776f90838f4e1654fece",
+      "width": 64
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6qWQ49hbX08ZLyRABxaasl"
+  }
+}

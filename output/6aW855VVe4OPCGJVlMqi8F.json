@@ -1,0 +1,33 @@
+{
+  "id": "6aW855VVe4OPCGJVlMqi8F",
+  "name": "pikaro",
+  "uri": "spotify:artist:6aW855VVe4OPCGJVlMqi8F",
+  "followers": {
+    "href": null,
+    "total": 390
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdfad68c3c8610ede49286672",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dfad68c3c8610ede49286672",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dfad68c3c8610ede49286672",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6aW855VVe4OPCGJVlMqi8F"
+  }
+}

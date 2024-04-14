@@ -1,0 +1,33 @@
+{
+  "id": "61zHgRKaKFtSxh8kNGIICY",
+  "name": "Elevation",
+  "uri": "spotify:artist:61zHgRKaKFtSxh8kNGIICY",
+  "followers": {
+    "href": null,
+    "total": 123
+  },
+  "genres": [
+    "stateside dnb"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736feb85ca8beb74873a0e4613",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026feb85ca8beb74873a0e4613",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516feb85ca8beb74873a0e4613",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/61zHgRKaKFtSxh8kNGIICY"
+  }
+}

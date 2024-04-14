@@ -1,0 +1,35 @@
+{
+  "id": "3YVXe4scnHrYPxhvmWVOOT",
+  "name": "Bismuth",
+  "uri": "spotify:artist:3YVXe4scnHrYPxhvmWVOOT",
+  "followers": {
+    "href": null,
+    "total": 4177
+  },
+  "genres": [
+    "drone metal",
+    "post-doom metal",
+    "uk doom metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d4c1410cc26ecf76bfd9868b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d4c1410cc26ecf76bfd9868b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d4c1410cc26ecf76bfd9868b",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3YVXe4scnHrYPxhvmWVOOT"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "0IQrfexpeCXMmHFX2jnT1Q",
+  "name": "Michel Dida",
+  "uri": "spotify:artist:0IQrfexpeCXMmHFX2jnT1Q",
+  "followers": {
+    "href": null,
+    "total": 3881
+  },
+  "genres": [
+    "swedish hip hop",
+    "swedish trap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb06d54a60044c8b3a1bf999ea",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517406d54a60044c8b3a1bf999ea",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17806d54a60044c8b3a1bf999ea",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0IQrfexpeCXMmHFX2jnT1Q"
+  }
+}

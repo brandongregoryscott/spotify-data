@@ -1,0 +1,33 @@
+{
+  "id": "5HeBEhJKTI9OAmmB07EtWN",
+  "name": "fasfasfas!",
+  "uri": "spotify:artist:5HeBEhJKTI9OAmmB07EtWN",
+  "followers": {
+    "href": null,
+    "total": 157
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9d18f4b8c6a8821fff1ae005",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051749d18f4b8c6a8821fff1ae005",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1789d18f4b8c6a8821fff1ae005",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5HeBEhJKTI9OAmmB07EtWN"
+  }
+}

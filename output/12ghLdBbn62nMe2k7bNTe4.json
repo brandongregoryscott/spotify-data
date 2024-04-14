@@ -1,0 +1,33 @@
+{
+  "id": "12ghLdBbn62nMe2k7bNTe4",
+  "name": "Biddy Fox",
+  "uri": "spotify:artist:12ghLdBbn62nMe2k7bNTe4",
+  "followers": {
+    "href": null,
+    "total": 174
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dbc70b25a208dbcd5aab3c39",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dbc70b25a208dbcd5aab3c39",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dbc70b25a208dbcd5aab3c39",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/12ghLdBbn62nMe2k7bNTe4"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1QXwIgp7aA3JT7WIyaAcur",
+  "name": "cloudyfield",
+  "uri": "spotify:artist:1QXwIgp7aA3JT7WIyaAcur",
+  "followers": {
+    "href": null,
+    "total": 10091
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb123681440e9b407ee2d550a0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174123681440e9b407ee2d550a0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178123681440e9b407ee2d550a0",
+      "width": 160
+    }
+  ],
+  "popularity": 39,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1QXwIgp7aA3JT7WIyaAcur"
+  }
+}

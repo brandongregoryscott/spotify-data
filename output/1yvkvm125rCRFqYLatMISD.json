@@ -1,0 +1,33 @@
+{
+  "id": "1yvkvm125rCRFqYLatMISD",
+  "name": "I Hate It Too",
+  "uri": "spotify:artist:1yvkvm125rCRFqYLatMISD",
+  "followers": {
+    "href": null,
+    "total": 2750
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdd72e6f0b39a367bfe0ac74d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dd72e6f0b39a367bfe0ac74d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dd72e6f0b39a367bfe0ac74d",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1yvkvm125rCRFqYLatMISD"
+  }
+}

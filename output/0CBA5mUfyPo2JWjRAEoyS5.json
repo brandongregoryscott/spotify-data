@@ -1,0 +1,36 @@
+{
+  "id": "0CBA5mUfyPo2JWjRAEoyS5",
+  "name": "Wedard",
+  "uri": "spotify:artist:0CBA5mUfyPo2JWjRAEoyS5",
+  "followers": {
+    "href": null,
+    "total": 18378
+  },
+  "genres": [
+    "atmospheric black metal",
+    "cosmic black metal",
+    "depressive black metal",
+    "german black metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb738945c6625fba01cfbd5a6f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174738945c6625fba01cfbd5a6f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178738945c6625fba01cfbd5a6f",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0CBA5mUfyPo2JWjRAEoyS5"
+  }
+}

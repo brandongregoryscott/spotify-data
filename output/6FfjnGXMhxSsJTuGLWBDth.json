@@ -1,0 +1,36 @@
+{
+  "id": "6FfjnGXMhxSsJTuGLWBDth",
+  "name": "HEALTH",
+  "uri": "spotify:artist:6FfjnGXMhxSsJTuGLWBDth",
+  "followers": {
+    "href": null,
+    "total": 245635
+  },
+  "genres": [
+    "grave wave",
+    "metropopolis",
+    "noise pop",
+    "noise rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5b2bf033db0073228084edb4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051745b2bf033db0073228084edb4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1785b2bf033db0073228084edb4",
+      "width": 160
+    }
+  ],
+  "popularity": 58,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+  }
+}

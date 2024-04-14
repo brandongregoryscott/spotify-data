@@ -1,0 +1,35 @@
+{
+  "id": "5HeMRsU1AunQINeEVHFdx5",
+  "name": "CHERYM",
+  "uri": "spotify:artist:5HeMRsU1AunQINeEVHFdx5",
+  "followers": {
+    "href": null,
+    "total": 5125
+  },
+  "genres": [
+    "derry indie",
+    "irish indie rock",
+    "northern irish punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb60f746c4321f56eba14e04a8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517460f746c4321f56eba14e04a8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17860f746c4321f56eba14e04a8",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5HeMRsU1AunQINeEVHFdx5"
+  }
+}
