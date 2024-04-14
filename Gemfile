@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'ruby-lsp'
 gem 'rspotify'
+gem 'rubocop', require: false
+gem 'ruby-lsp', require: false
