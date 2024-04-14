@@ -4,6 +4,8 @@ require 'rspotify'
 require 'date'
 
 def main()
+    random = Random.new()
+
     clientIds = ENV["CLIENT_IDS"].split(',')
     clientSecrets = ENV["CLIENT_SECRETS"].split(',')
 
@@ -23,7 +25,7 @@ def main()
     new_artist_ids = []
 
     chunk.each_slice(50) do |artist_ids_chunk|
-        sleep(1)
+        sleep(0.5)
 
         artists = RSpotify::Artist.find(artist_ids_chunk)
         artists.each_with_index do |artist, index|
@@ -33,6 +35,11 @@ def main()
             end
 
             save_artist_json_file(artist)
+
+            if random.rand(100) < 75
+                next
+            end
+
             related_artists = artist.related_artists
             related_artists.each do |related_artist|
                 save_artist_json_file(related_artist)
