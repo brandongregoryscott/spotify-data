@@ -14,9 +14,13 @@ def main
   chunk.each_slice(50).with_index do |artist_ids_chunk, index|
     sleep(0.25) if (index % 2).zero?
 
-    artists = RSpotify::Artist.find(artist_ids_chunk)
-    artists.each do |artist|
-      save_artist_json_file(artist)
+    begin
+      artists = RSpotify::Artist.find(artist_ids_chunk)
+      artists.each do |artist|
+        save_artist_json_file(artist)
+      end
+    rescue RestClient::TooManyRequests
+      puts '429 caught'
     end
   end
 end
