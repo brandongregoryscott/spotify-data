@@ -1,0 +1,35 @@
+{
+  "id": "5skndjHcdgjWqKBYlmEXou",
+  "name": "Lea Bertucci",
+  "uri": "spotify:artist:5skndjHcdgjWqKBYlmEXou",
+  "followers": {
+    "href": null,
+    "total": 4000
+  },
+  "genres": [
+    "electra",
+    "modern electroacoustic",
+    "sound art"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f15afb9e4f3489f61add556d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f15afb9e4f3489f61add556d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f15afb9e4f3489f61add556d",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5skndjHcdgjWqKBYlmEXou"
+  }
+}

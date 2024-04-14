@@ -1,0 +1,34 @@
+{
+  "id": "57eMezj5cRrIJreMdbecEh",
+  "name": "Mime",
+  "uri": "spotify:artist:57eMezj5cRrIJreMdbecEh",
+  "followers": {
+    "href": null,
+    "total": 9823
+  },
+  "genres": [
+    "city pop",
+    "japanese dance pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf403211e7f09736bc520862b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f403211e7f09736bc520862b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f403211e7f09736bc520862b",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh"
+  }
+}

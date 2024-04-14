@@ -1,0 +1,33 @@
+{
+  "id": "5VJFA1mVyVkGSBMRkHO8j7",
+  "name": "SpeedX",
+  "uri": "spotify:artist:5VJFA1mVyVkGSBMRkHO8j7",
+  "followers": {
+    "href": null,
+    "total": 460
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738d76b3f23cc43f3f0b750f02",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028d76b3f23cc43f3f0b750f02",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518d76b3f23cc43f3f0b750f02",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5VJFA1mVyVkGSBMRkHO8j7"
+  }
+}

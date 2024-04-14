@@ -1,0 +1,33 @@
+{
+  "id": "1dz60qThu6WMBIGcwxPz6O",
+  "name": "Luka Aron",
+  "uri": "spotify:artist:1dz60qThu6WMBIGcwxPz6O",
+  "followers": {
+    "href": null,
+    "total": 114
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb75f114215cd97dc8fe4ad5db",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517475f114215cd97dc8fe4ad5db",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17875f114215cd97dc8fe4ad5db",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1dz60qThu6WMBIGcwxPz6O"
+  }
+}

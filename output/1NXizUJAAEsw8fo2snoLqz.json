@@ -1,0 +1,33 @@
+{
+  "id": "1NXizUJAAEsw8fo2snoLqz",
+  "name": "Tombstone Poetry",
+  "uri": "spotify:artist:1NXizUJAAEsw8fo2snoLqz",
+  "followers": {
+    "href": null,
+    "total": 640
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc42804fa045cc690198f06f5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c42804fa045cc690198f06f5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c42804fa045cc690198f06f5",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1NXizUJAAEsw8fo2snoLqz"
+  }
+}

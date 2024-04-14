@@ -1,0 +1,34 @@
+{
+  "id": "15fZ3hlvf6rcqHls6hZAbt",
+  "name": "SANOVA",
+  "uri": "spotify:artist:15fZ3hlvf6rcqHls6hZAbt",
+  "followers": {
+    "href": null,
+    "total": 16580
+  },
+  "genres": [
+    "japanese jazz fusion",
+    "progressive jazz fusion"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27347df28a3112b652cfd6d166f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0247df28a3112b652cfd6d166f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485147df28a3112b652cfd6d166f",
+      "width": 64
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt"
+  }
+}

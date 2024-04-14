@@ -1,0 +1,33 @@
+{
+  "id": "2LghC42VJVmrDCpqYYuaM7",
+  "name": "Neir",
+  "uri": "spotify:artist:2LghC42VJVmrDCpqYYuaM7",
+  "followers": {
+    "href": null,
+    "total": 113
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfeee56f7878edeb24db9c57a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174feee56f7878edeb24db9c57a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178feee56f7878edeb24db9c57a",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2LghC42VJVmrDCpqYYuaM7"
+  }
+}

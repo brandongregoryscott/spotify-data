@@ -1,0 +1,33 @@
+{
+  "id": "7h4MPfZlynyXXPDhWR8AnW",
+  "name": "kous",
+  "uri": "spotify:artist:7h4MPfZlynyXXPDhWR8AnW",
+  "followers": {
+    "href": null,
+    "total": 3684
+  },
+  "genres": [
+    "vocaloid"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739370bb219b17b812daee1606",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029370bb219b17b812daee1606",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519370bb219b17b812daee1606",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7h4MPfZlynyXXPDhWR8AnW"
+  }
+}

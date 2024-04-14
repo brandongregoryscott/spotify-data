@@ -1,0 +1,33 @@
+{
+  "id": "4Z6k39rY2KzAs77DBgt18k",
+  "name": "이은하",
+  "uri": "spotify:artist:4Z6k39rY2KzAs77DBgt18k",
+  "followers": {
+    "href": null,
+    "total": 755
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27377b788933435dd920e961cf6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0277b788933435dd920e961cf6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485177b788933435dd920e961cf6",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Z6k39rY2KzAs77DBgt18k"
+  }
+}

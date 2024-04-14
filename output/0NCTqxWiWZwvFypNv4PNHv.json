@@ -1,0 +1,33 @@
+{
+  "id": "0NCTqxWiWZwvFypNv4PNHv",
+  "name": "Lý Trang",
+  "uri": "spotify:artist:0NCTqxWiWZwvFypNv4PNHv",
+  "followers": {
+    "href": null,
+    "total": 960
+  },
+  "genres": [
+    "vietnamese electronic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf1b5bff0322e11ff0d13b515",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f1b5bff0322e11ff0d13b515",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f1b5bff0322e11ff0d13b515",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0NCTqxWiWZwvFypNv4PNHv"
+  }
+}

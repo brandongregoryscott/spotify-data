@@ -1,0 +1,33 @@
+{
+  "id": "56doCgBpa86q4J9lAlaRv7",
+  "name": "AVR010",
+  "uri": "spotify:artist:56doCgBpa86q4J9lAlaRv7",
+  "followers": {
+    "href": null,
+    "total": 63
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcaac2dd7bfc16db18f874e26",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174caac2dd7bfc16db18f874e26",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178caac2dd7bfc16db18f874e26",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/56doCgBpa86q4J9lAlaRv7"
+  }
+}

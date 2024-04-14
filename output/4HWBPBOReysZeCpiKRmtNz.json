@@ -1,0 +1,33 @@
+{
+  "id": "4HWBPBOReysZeCpiKRmtNz",
+  "name": "YOU",
+  "uri": "spotify:artist:4HWBPBOReysZeCpiKRmtNz",
+  "followers": {
+    "href": null,
+    "total": 170
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d7fd7c91b4751aac67165616",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d7fd7c91b4751aac67165616",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d7fd7c91b4751aac67165616",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4HWBPBOReysZeCpiKRmtNz"
+  }
+}

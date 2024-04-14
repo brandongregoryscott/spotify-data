@@ -1,0 +1,34 @@
+{
+  "id": "71ZbGM5jT2M0Nc3UmaLa52",
+  "name": "The Routes",
+  "uri": "spotify:artist:71ZbGM5jT2M0Nc3UmaLa52",
+  "followers": {
+    "href": null,
+    "total": 2187
+  },
+  "genres": [
+    "japanese garage rock",
+    "trash rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba5831205b09f3eb7c34312ca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a5831205b09f3eb7c34312ca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a5831205b09f3eb7c34312ca",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/71ZbGM5jT2M0Nc3UmaLa52"
+  }
+}

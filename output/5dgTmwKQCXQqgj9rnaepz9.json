@@ -1,0 +1,33 @@
+{
+  "id": "5dgTmwKQCXQqgj9rnaepz9",
+  "name": "50 pears",
+  "uri": "spotify:artist:5dgTmwKQCXQqgj9rnaepz9",
+  "followers": {
+    "href": null,
+    "total": 249
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe557b9e013555655aff36e98",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e557b9e013555655aff36e98",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e557b9e013555655aff36e98",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5dgTmwKQCXQqgj9rnaepz9"
+  }
+}

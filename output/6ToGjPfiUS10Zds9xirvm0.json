@@ -1,0 +1,35 @@
+{
+  "id": "6ToGjPfiUS10Zds9xirvm0",
+  "name": "Elori Saxl",
+  "uri": "spotify:artist:6ToGjPfiUS10Zds9xirvm0",
+  "followers": {
+    "href": null,
+    "total": 6440
+  },
+  "genres": [
+    "experimental classical",
+    "pastoral",
+    "spectra"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8ccbb87cade8aa433b90aa57",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051748ccbb87cade8aa433b90aa57",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1788ccbb87cade8aa433b90aa57",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2xQOzDzIDDqW9y6kfFKQn2",
+  "name": "More",
+  "uri": "spotify:artist:2xQOzDzIDDqW9y6kfFKQn2",
+  "followers": {
+    "href": null,
+    "total": 351
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738aa5279ba3dd2f810f31c6f8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028aa5279ba3dd2f810f31c6f8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518aa5279ba3dd2f810f31c6f8",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2xQOzDzIDDqW9y6kfFKQn2"
+  }
+}

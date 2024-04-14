@@ -1,0 +1,33 @@
+{
+  "id": "0vRyt5xtZZ8cve0YTSxNIw",
+  "name": "Martyna Basta",
+  "uri": "spotify:artist:0vRyt5xtZZ8cve0YTSxNIw",
+  "followers": {
+    "href": null,
+    "total": 3404
+  },
+  "genres": [
+    "spectra"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb0c4dd1d272a8bab8260a9bf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b0c4dd1d272a8bab8260a9bf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b0c4dd1d272a8bab8260a9bf",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0vRyt5xtZZ8cve0YTSxNIw"
+  }
+}

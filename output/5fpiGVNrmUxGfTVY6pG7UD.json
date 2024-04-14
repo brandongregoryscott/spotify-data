@@ -1,0 +1,33 @@
+{
+  "id": "5fpiGVNrmUxGfTVY6pG7UD",
+  "name": "STRAM",
+  "uri": "spotify:artist:5fpiGVNrmUxGfTVY6pG7UD",
+  "followers": {
+    "href": null,
+    "total": 452
+  },
+  "genres": [
+    "japanese post-punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb00374a1b36e24009ce9d04e2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517400374a1b36e24009ce9d04e2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17800374a1b36e24009ce9d04e2",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5fpiGVNrmUxGfTVY6pG7UD"
+  }
+}

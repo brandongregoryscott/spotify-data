@@ -1,0 +1,33 @@
+{
+  "id": "5Tw7HAto7vPD3EDcdPyTmz",
+  "name": "yodaka",
+  "uri": "spotify:artist:5Tw7HAto7vPD3EDcdPyTmz",
+  "followers": {
+    "href": null,
+    "total": 125
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a9499d2ba5c57ea933c2cccd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a9499d2ba5c57ea933c2cccd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a9499d2ba5c57ea933c2cccd",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Tw7HAto7vPD3EDcdPyTmz"
+  }
+}

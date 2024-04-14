@@ -1,0 +1,33 @@
+{
+  "id": "0ACPT1r3EDVniwEIaN0m4i",
+  "name": "Jugem",
+  "uri": "spotify:artist:0ACPT1r3EDVniwEIaN0m4i",
+  "followers": {
+    "href": null,
+    "total": 44
+  },
+  "genres": [
+    "kansai indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb54a7524719e15eb2048e1141",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517454a7524719e15eb2048e1141",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17854a7524719e15eb2048e1141",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ACPT1r3EDVniwEIaN0m4i"
+  }
+}

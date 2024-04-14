@@ -1,0 +1,33 @@
+{
+  "id": "5uOYiNf1jaOSusSwHMsLNF",
+  "name": "sugarman",
+  "uri": "spotify:artist:5uOYiNf1jaOSusSwHMsLNF",
+  "followers": {
+    "href": null,
+    "total": 86
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736072097faf0f5ca380a8d93f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026072097faf0f5ca380a8d93f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516072097faf0f5ca380a8d93f",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5uOYiNf1jaOSusSwHMsLNF"
+  }
+}

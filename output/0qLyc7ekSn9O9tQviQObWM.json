@@ -1,0 +1,33 @@
+{
+  "id": "0qLyc7ekSn9O9tQviQObWM",
+  "name": "Zylva",
+  "uri": "spotify:artist:0qLyc7ekSn9O9tQviQObWM",
+  "followers": {
+    "href": null,
+    "total": 325
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb745f6ee22d6f0ef500717324",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174745f6ee22d6f0ef500717324",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178745f6ee22d6f0ef500717324",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0qLyc7ekSn9O9tQviQObWM"
+  }
+}

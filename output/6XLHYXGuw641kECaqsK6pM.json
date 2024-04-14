@@ -1,0 +1,33 @@
+{
+  "id": "6XLHYXGuw641kECaqsK6pM",
+  "name": "Amesua",
+  "uri": "spotify:artist:6XLHYXGuw641kECaqsK6pM",
+  "followers": {
+    "href": null,
+    "total": 202
+  },
+  "genres": [
+    "sardinia indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb71001cabec9c5b0774725e41",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517471001cabec9c5b0774725e41",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17871001cabec9c5b0774725e41",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6XLHYXGuw641kECaqsK6pM"
+  }
+}

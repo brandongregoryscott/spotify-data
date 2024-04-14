@@ -1,0 +1,33 @@
+{
+  "id": "5nCgjWUjFdlNTRtLO5e8jy",
+  "name": "HF International",
+  "uri": "spotify:artist:5nCgjWUjFdlNTRtLO5e8jy",
+  "followers": {
+    "href": null,
+    "total": 699
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb35e9e4c9be762c317352d2a7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517435e9e4c9be762c317352d2a7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17835e9e4c9be762c317352d2a7",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5nCgjWUjFdlNTRtLO5e8jy"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1l1AZyAot5n0dxChQuempn",
+  "name": "selva aimé",
+  "uri": "spotify:artist:1l1AZyAot5n0dxChQuempn",
+  "followers": {
+    "href": null,
+    "total": 86
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb00089fc00abfc4a3584f4b32",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517400089fc00abfc4a3584f4b32",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17800089fc00abfc4a3584f4b32",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1l1AZyAot5n0dxChQuempn"
+  }
+}

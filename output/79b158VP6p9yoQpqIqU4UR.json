@@ -1,0 +1,33 @@
+{
+  "id": "79b158VP6p9yoQpqIqU4UR",
+  "name": "Ran",
+  "uri": "spotify:artist:79b158VP6p9yoQpqIqU4UR",
+  "followers": {
+    "href": null,
+    "total": 4307
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe205ca82e88743dc0c87017d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e205ca82e88743dc0c87017d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e205ca82e88743dc0c87017d",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/79b158VP6p9yoQpqIqU4UR"
+  }
+}

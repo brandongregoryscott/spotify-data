@@ -1,0 +1,33 @@
+{
+  "id": "13aiEk0fFVGkLXyNMrdM7o",
+  "name": "LLLL",
+  "uri": "spotify:artist:13aiEk0fFVGkLXyNMrdM7o",
+  "followers": {
+    "href": null,
+    "total": 8042
+  },
+  "genres": [
+    "japanese electropop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb25b91234ad939c305464ae36",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517425b91234ad939c305464ae36",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17825b91234ad939c305464ae36",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/13aiEk0fFVGkLXyNMrdM7o"
+  }
+}

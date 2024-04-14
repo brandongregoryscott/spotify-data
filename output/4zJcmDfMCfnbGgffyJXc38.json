@@ -1,0 +1,33 @@
+{
+  "id": "4zJcmDfMCfnbGgffyJXc38",
+  "name": "Polonius",
+  "uri": "spotify:artist:4zJcmDfMCfnbGgffyJXc38",
+  "followers": {
+    "href": null,
+    "total": 91
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739ec643d4f3baee7ecf5fe807",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029ec643d4f3baee7ecf5fe807",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519ec643d4f3baee7ecf5fe807",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4zJcmDfMCfnbGgffyJXc38"
+  }
+}

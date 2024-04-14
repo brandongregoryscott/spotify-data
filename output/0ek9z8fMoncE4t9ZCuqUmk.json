@@ -1,0 +1,33 @@
+{
+  "id": "0ek9z8fMoncE4t9ZCuqUmk",
+  "name": "JARADA",
+  "uri": "spotify:artist:0ek9z8fMoncE4t9ZCuqUmk",
+  "followers": {
+    "href": null,
+    "total": 532
+  },
+  "genres": [
+    "israeli punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739deb6959942de896972b71fb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029deb6959942de896972b71fb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519deb6959942de896972b71fb",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ek9z8fMoncE4t9ZCuqUmk"
+  }
+}

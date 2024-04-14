@@ -1,0 +1,33 @@
+{
+  "id": "0mK9sFyrguHYMEYZHZVp6M",
+  "name": "Chantal Michelle",
+  "uri": "spotify:artist:0mK9sFyrguHYMEYZHZVp6M",
+  "followers": {
+    "href": null,
+    "total": 533
+  },
+  "genres": [
+    "spectra"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb07245d183cf13536a3cc6e2d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517407245d183cf13536a3cc6e2d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17807245d183cf13536a3cc6e2d",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0mK9sFyrguHYMEYZHZVp6M"
+  }
+}

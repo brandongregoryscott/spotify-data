@@ -1,0 +1,33 @@
+{
+  "id": "2VrPzey7xbgrr9ZhJqQXKF",
+  "name": "FiDZ",
+  "uri": "spotify:artist:2VrPzey7xbgrr9ZhJqQXKF",
+  "followers": {
+    "href": null,
+    "total": 185
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273baddc74ec491fefc69cc8e7b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02baddc74ec491fefc69cc8e7b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851baddc74ec491fefc69cc8e7b",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2VrPzey7xbgrr9ZhJqQXKF"
+  }
+}

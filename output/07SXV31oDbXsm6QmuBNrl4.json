@@ -1,0 +1,33 @@
+{
+  "id": "07SXV31oDbXsm6QmuBNrl4",
+  "name": "Tarotplane",
+  "uri": "spotify:artist:07SXV31oDbXsm6QmuBNrl4",
+  "followers": {
+    "href": null,
+    "total": 909
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb28b69609ba5424892ab988c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b28b69609ba5424892ab988c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b28b69609ba5424892ab988c",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07SXV31oDbXsm6QmuBNrl4"
+  }
+}

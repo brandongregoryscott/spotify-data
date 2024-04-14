@@ -1,0 +1,33 @@
+{
+  "id": "5tW3D9FV7cf1n6vslkaRVM",
+  "name": "ÆTERNA",
+  "uri": "spotify:artist:5tW3D9FV7cf1n6vslkaRVM",
+  "followers": {
+    "href": null,
+    "total": 528
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebee8817b73e5f3f03b2401bf6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ee8817b73e5f3f03b2401bf6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ee8817b73e5f3f03b2401bf6",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5tW3D9FV7cf1n6vslkaRVM"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "3J8gUMSMX6Wk4Do8Anu7ta",
+  "name": "Lake Mary",
+  "uri": "spotify:artist:3J8gUMSMX6Wk4Do8Anu7ta",
+  "followers": {
+    "href": null,
+    "total": 1008
+  },
+  "genres": [
+    "american primitive",
+    "pastoral"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb09584afcf9d3ae88711cc041",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517409584afcf9d3ae88711cc041",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17809584afcf9d3ae88711cc041",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3J8gUMSMX6Wk4Do8Anu7ta"
+  }
+}

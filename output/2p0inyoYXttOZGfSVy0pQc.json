@@ -1,0 +1,33 @@
+{
+  "id": "2p0inyoYXttOZGfSVy0pQc",
+  "name": "이지연",
+  "uri": "spotify:artist:2p0inyoYXttOZGfSVy0pQc",
+  "followers": {
+    "href": null,
+    "total": 360
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb00a4b5fb0a10270e75cd52b7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517400a4b5fb0a10270e75cd52b7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17800a4b5fb0a10270e75cd52b7",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2p0inyoYXttOZGfSVy0pQc"
+  }
+}

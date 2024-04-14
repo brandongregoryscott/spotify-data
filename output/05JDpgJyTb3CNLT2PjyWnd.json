@@ -1,0 +1,33 @@
+{
+  "id": "05JDpgJyTb3CNLT2PjyWnd",
+  "name": "Sebastian Vydra",
+  "uri": "spotify:artist:05JDpgJyTb3CNLT2PjyWnd",
+  "followers": {
+    "href": null,
+    "total": 401
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9bda10b1af32a6374856128a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051749bda10b1af32a6374856128a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1789bda10b1af32a6374856128a",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05JDpgJyTb3CNLT2PjyWnd"
+  }
+}

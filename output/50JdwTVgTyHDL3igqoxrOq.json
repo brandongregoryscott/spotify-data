@@ -1,0 +1,33 @@
+{
+  "id": "50JdwTVgTyHDL3igqoxrOq",
+  "name": "NUG",
+  "uri": "spotify:artist:50JdwTVgTyHDL3igqoxrOq",
+  "followers": {
+    "href": null,
+    "total": 181
+  },
+  "genres": [
+    "ambient dub"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b42a227ec67f06f339fea913",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b42a227ec67f06f339fea913",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b42a227ec67f06f339fea913",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/50JdwTVgTyHDL3igqoxrOq"
+  }
+}

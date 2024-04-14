@@ -1,0 +1,35 @@
+{
+  "id": "3byNP92JuDIPjxYPamK7N0",
+  "name": "13Steps",
+  "uri": "spotify:artist:3byNP92JuDIPjxYPamK7N0",
+  "followers": {
+    "href": null,
+    "total": 333
+  },
+  "genres": [
+    "korean hardcore",
+    "korean metal",
+    "korean punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273479611d71db33138587c104b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02479611d71db33138587c104b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851479611d71db33138587c104b",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3byNP92JuDIPjxYPamK7N0"
+  }
+}

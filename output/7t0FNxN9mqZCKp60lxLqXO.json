@@ -1,0 +1,33 @@
+{
+  "id": "7t0FNxN9mqZCKp60lxLqXO",
+  "name": "POP",
+  "uri": "spotify:artist:7t0FNxN9mqZCKp60lxLqXO",
+  "followers": {
+    "href": null,
+    "total": 3108
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731e0d14eed5712b2e4407740e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021e0d14eed5712b2e4407740e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511e0d14eed5712b2e4407740e",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7t0FNxN9mqZCKp60lxLqXO"
+  }
+}

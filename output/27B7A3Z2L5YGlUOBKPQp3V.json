@@ -1,0 +1,33 @@
+{
+  "id": "27B7A3Z2L5YGlUOBKPQp3V",
+  "name": "TechDiff",
+  "uri": "spotify:artist:27B7A3Z2L5YGlUOBKPQp3V",
+  "followers": {
+    "href": null,
+    "total": 545
+  },
+  "genres": [
+    "breakcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273923d04e529076795c98d960d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02923d04e529076795c98d960d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851923d04e529076795c98d960d",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/27B7A3Z2L5YGlUOBKPQp3V"
+  }
+}

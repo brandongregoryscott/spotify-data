@@ -1,0 +1,33 @@
+{
+  "id": "1mO1aF6KhdNzPHmd4KXPZO",
+  "name": "MIKKO",
+  "uri": "spotify:artist:1mO1aF6KhdNzPHmd4KXPZO",
+  "followers": {
+    "href": null,
+    "total": 290
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734fac8a92fe751cadca27e0df",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024fac8a92fe751cadca27e0df",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514fac8a92fe751cadca27e0df",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1mO1aF6KhdNzPHmd4KXPZO"
+  }
+}

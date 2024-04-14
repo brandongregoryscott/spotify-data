@@ -1,0 +1,33 @@
+{
+  "id": "3CY4VRT6e45o793yRTyqDC",
+  "name": "Ci flower",
+  "uri": "spotify:artist:3CY4VRT6e45o793yRTyqDC",
+  "followers": {
+    "href": null,
+    "total": 675
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738ee47b7b660d5740be331d0c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028ee47b7b660d5740be331d0c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518ee47b7b660d5740be331d0c",
+      "width": 64
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3CY4VRT6e45o793yRTyqDC"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "72BpecIFualrQ7mj1c9K0l",
+  "name": "cues",
+  "uri": "spotify:artist:72BpecIFualrQ7mj1c9K0l",
+  "followers": {
+    "href": null,
+    "total": 1292
+  },
+  "genres": [
+    "singaporean indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb943a4f4929592678c2c2716a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174943a4f4929592678c2c2716a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178943a4f4929592678c2c2716a",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/72BpecIFualrQ7mj1c9K0l"
+  }
+}

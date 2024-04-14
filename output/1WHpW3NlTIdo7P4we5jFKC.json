@@ -1,0 +1,33 @@
+{
+  "id": "1WHpW3NlTIdo7P4we5jFKC",
+  "name": "Uchudan",
+  "uri": "spotify:artist:1WHpW3NlTIdo7P4we5jFKC",
+  "followers": {
+    "href": null,
+    "total": 415
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8cebb4e1b2eb7cdc3c9db324",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051748cebb4e1b2eb7cdc3c9db324",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1788cebb4e1b2eb7cdc3c9db324",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1WHpW3NlTIdo7P4we5jFKC"
+  }
+}

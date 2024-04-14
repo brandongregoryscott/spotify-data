@@ -1,0 +1,33 @@
+{
+  "id": "2MZFAprvCfbOsj36FJeFcU",
+  "name": "戸田恵子",
+  "uri": "spotify:artist:2MZFAprvCfbOsj36FJeFcU",
+  "followers": {
+    "href": null,
+    "total": 377
+  },
+  "genres": [
+    "mecha"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ece16d5a6e336f1f5b9c642c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ece16d5a6e336f1f5b9c642c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ece16d5a6e336f1f5b9c642c",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2MZFAprvCfbOsj36FJeFcU"
+  }
+}

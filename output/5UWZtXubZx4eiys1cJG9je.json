@@ -1,0 +1,33 @@
+{
+  "id": "5UWZtXubZx4eiys1cJG9je",
+  "name": "Sanjonas",
+  "uri": "spotify:artist:5UWZtXubZx4eiys1cJG9je",
+  "followers": {
+    "href": null,
+    "total": 161
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb68902761eb3d80d6281fdc82",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517468902761eb3d80d6281fdc82",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17868902761eb3d80d6281fdc82",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5UWZtXubZx4eiys1cJG9je"
+  }
+}

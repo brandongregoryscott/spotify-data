@@ -1,0 +1,33 @@
+{
+  "id": "7IMqmZRaebLWN3e0uxkrIP",
+  "name": "Vindit",
+  "uri": "spotify:artist:7IMqmZRaebLWN3e0uxkrIP",
+  "followers": {
+    "href": null,
+    "total": 271
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb465c7e290fc414fcfe5b34c2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174465c7e290fc414fcfe5b34c2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178465c7e290fc414fcfe5b34c2",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7IMqmZRaebLWN3e0uxkrIP"
+  }
+}

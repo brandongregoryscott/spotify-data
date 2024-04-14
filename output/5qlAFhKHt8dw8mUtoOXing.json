@@ -1,0 +1,33 @@
+{
+  "id": "5qlAFhKHt8dw8mUtoOXing",
+  "name": "Tsuru",
+  "uri": "spotify:artist:5qlAFhKHt8dw8mUtoOXing",
+  "followers": {
+    "href": null,
+    "total": 264
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c0fa2c087c7eb9b08881ff45",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c0fa2c087c7eb9b08881ff45",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c0fa2c087c7eb9b08881ff45",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5qlAFhKHt8dw8mUtoOXing"
+  }
+}

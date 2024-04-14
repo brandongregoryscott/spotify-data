@@ -1,0 +1,34 @@
+{
+  "id": "1KKws8K3asQ2PFU4EL6pZr",
+  "name": "Sinistr0",
+  "uri": "spotify:artist:1KKws8K3asQ2PFU4EL6pZr",
+  "followers": {
+    "href": null,
+    "total": 1721
+  },
+  "genres": [
+    "wave",
+    "witch house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb810b0b08ba9c84d8ec08bd98",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174810b0b08ba9c84d8ec08bd98",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178810b0b08ba9c84d8ec08bd98",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1KKws8K3asQ2PFU4EL6pZr"
+  }
+}

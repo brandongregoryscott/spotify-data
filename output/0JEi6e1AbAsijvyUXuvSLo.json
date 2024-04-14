@@ -1,0 +1,33 @@
+{
+  "id": "0JEi6e1AbAsijvyUXuvSLo",
+  "name": "Dependent",
+  "uri": "spotify:artist:0JEi6e1AbAsijvyUXuvSLo",
+  "followers": {
+    "href": null,
+    "total": 472
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb50985afa3202c90e27ccec31",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517450985afa3202c90e27ccec31",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17850985afa3202c90e27ccec31",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0JEi6e1AbAsijvyUXuvSLo"
+  }
+}

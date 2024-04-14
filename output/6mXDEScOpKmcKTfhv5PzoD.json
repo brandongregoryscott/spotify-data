@@ -1,0 +1,33 @@
+{
+  "id": "6mXDEScOpKmcKTfhv5PzoD",
+  "name": "Oblinof",
+  "uri": "spotify:artist:6mXDEScOpKmcKTfhv5PzoD",
+  "followers": {
+    "href": null,
+    "total": 204
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dd59248d7c6d1380b6a20eef",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dd59248d7c6d1380b6a20eef",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dd59248d7c6d1380b6a20eef",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6mXDEScOpKmcKTfhv5PzoD"
+  }
+}

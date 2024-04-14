@@ -1,0 +1,33 @@
+{
+  "id": "5GdYqOZEqxJLC7BuUlrOdL",
+  "name": "LÄ-PPISCH",
+  "uri": "spotify:artist:5GdYqOZEqxJLC7BuUlrOdL",
+  "followers": {
+    "href": null,
+    "total": 15583
+  },
+  "genres": [
+    "classic j-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb95ee4db5456c9b1ddad84fb4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517495ee4db5456c9b1ddad84fb4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17895ee4db5456c9b1ddad84fb4",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5GdYqOZEqxJLC7BuUlrOdL"
+  }
+}

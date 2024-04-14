@@ -1,0 +1,33 @@
+{
+  "id": "5w4653zVZxM8qdmwRzPUFO",
+  "name": "Mare Interno",
+  "uri": "spotify:artist:5w4653zVZxM8qdmwRzPUFO",
+  "followers": {
+    "href": null,
+    "total": 193
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb90923b3aad9c46dacd82d0b5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517490923b3aad9c46dacd82d0b5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17890923b3aad9c46dacd82d0b5",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5w4653zVZxM8qdmwRzPUFO"
+  }
+}

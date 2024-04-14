@@ -1,0 +1,33 @@
+{
+  "id": "50h2tBXWxIdL1ol9zowwyp",
+  "name": "NAMI",
+  "uri": "spotify:artist:50h2tBXWxIdL1ol9zowwyp",
+  "followers": {
+    "href": null,
+    "total": 1180
+  },
+  "genres": [
+    "classic korean pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bd39c1dd5ecf7687e5048764",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bd39c1dd5ecf7687e5048764",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bd39c1dd5ecf7687e5048764",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/50h2tBXWxIdL1ol9zowwyp"
+  }
+}

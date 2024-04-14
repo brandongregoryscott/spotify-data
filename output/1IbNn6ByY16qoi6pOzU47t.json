@@ -1,0 +1,33 @@
+{
+  "id": "1IbNn6ByY16qoi6pOzU47t",
+  "name": "GEDO",
+  "uri": "spotify:artist:1IbNn6ByY16qoi6pOzU47t",
+  "followers": {
+    "href": null,
+    "total": 2572
+  },
+  "genres": [
+    "j-punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb90b9f108f32817e25523e188",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517490b9f108f32817e25523e188",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17890b9f108f32817e25523e188",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1IbNn6ByY16qoi6pOzU47t"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0B40wdXWTpyOECIkJInmrA",
+  "name": "Composition Booklet",
+  "uri": "spotify:artist:0B40wdXWTpyOECIkJInmrA",
+  "followers": {
+    "href": null,
+    "total": 189
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebffe623dbb4c27fd8847490e1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ffe623dbb4c27fd8847490e1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ffe623dbb4c27fd8847490e1",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0B40wdXWTpyOECIkJInmrA"
+  }
+}

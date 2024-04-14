@@ -1,0 +1,33 @@
+{
+  "id": "30aaJCBZ3WASNcbq27Z3MG",
+  "name": "Utae",
+  "uri": "spotify:artist:30aaJCBZ3WASNcbq27Z3MG",
+  "followers": {
+    "href": null,
+    "total": 1376
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb774efb0b524ea6c24fe38c8c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174774efb0b524ea6c24fe38c8c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178774efb0b524ea6c24fe38c8c",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/30aaJCBZ3WASNcbq27Z3MG"
+  }
+}

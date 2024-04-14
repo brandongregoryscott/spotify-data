@@ -1,0 +1,33 @@
+{
+  "id": "6DHnPFiLpGfhAK57bCthh7",
+  "name": "elsy",
+  "uri": "spotify:artist:6DHnPFiLpGfhAK57bCthh7",
+  "followers": {
+    "href": null,
+    "total": 595
+  },
+  "genres": [
+    "alt-idol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273506ba4e2610d016a6d0afe35",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02506ba4e2610d016a6d0afe35",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851506ba4e2610d016a6d0afe35",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6DHnPFiLpGfhAK57bCthh7"
+  }
+}

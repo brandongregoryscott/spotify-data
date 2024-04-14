@@ -1,0 +1,35 @@
+{
+  "id": "7767FkTCOQF51TpFvLzNpl",
+  "name": "Good Morning America",
+  "uri": "spotify:artist:7767FkTCOQF51TpFvLzNpl",
+  "followers": {
+    "href": null,
+    "total": 50004
+  },
+  "genres": [
+    "anime rock",
+    "j-rock",
+    "japanese alternative rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcfe1fa2640ed979881854663",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cfe1fa2640ed979881854663",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cfe1fa2640ed979881854663",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7767FkTCOQF51TpFvLzNpl"
+  }
+}

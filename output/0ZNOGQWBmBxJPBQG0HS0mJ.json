@@ -1,0 +1,33 @@
+{
+  "id": "0ZNOGQWBmBxJPBQG0HS0mJ",
+  "name": "Rekishi",
+  "uri": "spotify:artist:0ZNOGQWBmBxJPBQG0HS0mJ",
+  "followers": {
+    "href": null,
+    "total": 157562
+  },
+  "genres": [
+    "j-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb76e65501dfb245a3d551a601",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517476e65501dfb245a3d551a601",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17876e65501dfb245a3d551a601",
+      "width": 160
+    }
+  ],
+  "popularity": 41,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ZNOGQWBmBxJPBQG0HS0mJ"
+  }
+}

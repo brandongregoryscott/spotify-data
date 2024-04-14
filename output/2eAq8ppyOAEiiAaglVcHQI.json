@@ -1,0 +1,33 @@
+{
+  "id": "2eAq8ppyOAEiiAaglVcHQI",
+  "name": "harue",
+  "uri": "spotify:artist:2eAq8ppyOAEiiAaglVcHQI",
+  "followers": {
+    "href": null,
+    "total": 1187
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe2fc140b30f77f4274c933ec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e2fc140b30f77f4274c933ec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e2fc140b30f77f4274c933ec",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2eAq8ppyOAEiiAaglVcHQI"
+  }
+}

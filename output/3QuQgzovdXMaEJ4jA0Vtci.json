@@ -1,0 +1,33 @@
+{
+  "id": "3QuQgzovdXMaEJ4jA0Vtci",
+  "name": "Le Frit",
+  "uri": "spotify:artist:3QuQgzovdXMaEJ4jA0Vtci",
+  "followers": {
+    "href": null,
+    "total": 136
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd5d6a5fb2a7cbd31b18900f1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d5d6a5fb2a7cbd31b18900f1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d5d6a5fb2a7cbd31b18900f1",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3QuQgzovdXMaEJ4jA0Vtci"
+  }
+}

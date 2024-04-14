@@ -1,0 +1,33 @@
+{
+  "id": "1lUCH7LGT6XkhM47jQVGiD",
+  "name": "Raphael",
+  "uri": "spotify:artist:1lUCH7LGT6XkhM47jQVGiD",
+  "followers": {
+    "href": null,
+    "total": 8482
+  },
+  "genres": [
+    "visual kei"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273350e10488765cea4084f527d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02350e10488765cea4084f527d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851350e10488765cea4084f527d",
+      "width": 64
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1lUCH7LGT6XkhM47jQVGiD"
+  }
+}

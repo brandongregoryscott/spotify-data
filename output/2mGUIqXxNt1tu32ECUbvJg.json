@@ -1,0 +1,33 @@
+{
+  "id": "2mGUIqXxNt1tu32ECUbvJg",
+  "name": "AIR",
+  "uri": "spotify:artist:2mGUIqXxNt1tu32ECUbvJg",
+  "followers": {
+    "href": null,
+    "total": 10603
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739eec92b027794015f5909944",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029eec92b027794015f5909944",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519eec92b027794015f5909944",
+      "width": 64
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2mGUIqXxNt1tu32ECUbvJg"
+  }
+}

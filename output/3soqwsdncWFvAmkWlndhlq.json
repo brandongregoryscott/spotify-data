@@ -1,0 +1,33 @@
+{
+  "id": "3soqwsdncWFvAmkWlndhlq",
+  "name": "rirunede",
+  "uri": "spotify:artist:3soqwsdncWFvAmkWlndhlq",
+  "followers": {
+    "href": null,
+    "total": 809
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27311b96dd0653a021306ec9c3a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0211b96dd0653a021306ec9c3a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485111b96dd0653a021306ec9c3a",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3soqwsdncWFvAmkWlndhlq"
+  }
+}

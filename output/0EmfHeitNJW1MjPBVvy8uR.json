@@ -1,0 +1,33 @@
+{
+  "id": "0EmfHeitNJW1MjPBVvy8uR",
+  "name": "김수철",
+  "uri": "spotify:artist:0EmfHeitNJW1MjPBVvy8uR",
+  "followers": {
+    "href": null,
+    "total": 1968
+  },
+  "genres": [
+    "classic korean pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d6067edb23ed890f376a7faa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d6067edb23ed890f376a7faa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d6067edb23ed890f376a7faa",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0EmfHeitNJW1MjPBVvy8uR"
+  }
+}

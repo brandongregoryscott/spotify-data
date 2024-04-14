@@ -1,0 +1,34 @@
+{
+  "id": "2nPbHQW065TWbk7EjsEfiS",
+  "name": "Absolute area",
+  "uri": "spotify:artist:2nPbHQW065TWbk7EjsEfiS",
+  "followers": {
+    "href": null,
+    "total": 23673
+  },
+  "genres": [
+    "japanese alternative rock",
+    "modern j-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbe5c924d8222364907ee8af4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174be5c924d8222364907ee8af4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178be5c924d8222364907ee8af4",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2nPbHQW065TWbk7EjsEfiS"
+  }
+}

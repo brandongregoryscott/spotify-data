@@ -1,0 +1,34 @@
+{
+  "id": "5IzQ6cbQ5QAL3fmUwlTHRK",
+  "name": "Lucy Gooch",
+  "uri": "spotify:artist:5IzQ6cbQ5QAL3fmUwlTHRK",
+  "followers": {
+    "href": null,
+    "total": 5437
+  },
+  "genres": [
+    "british experimental",
+    "spectra"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb72deeb268b68b98fb5832ae",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b72deeb268b68b98fb5832ae",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b72deeb268b68b98fb5832ae",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK"
+  }
+}

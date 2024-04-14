@@ -1,0 +1,34 @@
+{
+  "id": "5yJQESWDle4vEpptfqxjkN",
+  "name": "ircle",
+  "uri": "spotify:artist:5yJQESWDle4vEpptfqxjkN",
+  "followers": {
+    "href": null,
+    "total": 3600
+  },
+  "genres": [
+    "japanese alternative rock",
+    "kyushu indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebec997fd12ea4ae8637e5bc7a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ec997fd12ea4ae8637e5bc7a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ec997fd12ea4ae8637e5bc7a",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5yJQESWDle4vEpptfqxjkN"
+  }
+}

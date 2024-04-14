@@ -1,0 +1,33 @@
+{
+  "id": "1ouIlCuQAcCSjLtUnBqY0q",
+  "name": "J Sliwa",
+  "uri": "spotify:artist:1ouIlCuQAcCSjLtUnBqY0q",
+  "followers": {
+    "href": null,
+    "total": 259
+  },
+  "genres": [
+    "hypertrance"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd74e5ce000af56f493f52a30",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d74e5ce000af56f493f52a30",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d74e5ce000af56f493f52a30",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ouIlCuQAcCSjLtUnBqY0q"
+  }
+}

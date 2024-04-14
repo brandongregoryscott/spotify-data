@@ -1,0 +1,33 @@
+{
+  "id": "6YdIeehdQyBsfDSapX5pLs",
+  "name": "Raw Thrills",
+  "uri": "spotify:artist:6YdIeehdQyBsfDSapX5pLs",
+  "followers": {
+    "href": null,
+    "total": 1655
+  },
+  "genres": [
+    "popgaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb382d512488f32145466d104",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b382d512488f32145466d104",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b382d512488f32145466d104",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6YdIeehdQyBsfDSapX5pLs"
+  }
+}

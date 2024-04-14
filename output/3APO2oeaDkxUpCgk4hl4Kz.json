@@ -1,0 +1,33 @@
+{
+  "id": "3APO2oeaDkxUpCgk4hl4Kz",
+  "name": "escapes",
+  "uri": "spotify:artist:3APO2oeaDkxUpCgk4hl4Kz",
+  "followers": {
+    "href": null,
+    "total": 507
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27365f3cb480a49b3c96269cfe6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0265f3cb480a49b3c96269cfe6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485165f3cb480a49b3c96269cfe6",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3APO2oeaDkxUpCgk4hl4Kz"
+  }
+}

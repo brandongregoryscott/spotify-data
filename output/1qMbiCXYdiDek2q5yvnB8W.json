@@ -1,0 +1,33 @@
+{
+  "id": "1qMbiCXYdiDek2q5yvnB8W",
+  "name": "Ma Sha",
+  "uri": "spotify:artist:1qMbiCXYdiDek2q5yvnB8W",
+  "followers": {
+    "href": null,
+    "total": 440
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb52293e50c0d575d73ca4aacf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517452293e50c0d575d73ca4aacf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17852293e50c0d575d73ca4aacf",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1qMbiCXYdiDek2q5yvnB8W"
+  }
+}

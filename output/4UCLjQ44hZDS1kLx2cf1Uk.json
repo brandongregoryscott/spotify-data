@@ -1,0 +1,33 @@
+{
+  "id": "4UCLjQ44hZDS1kLx2cf1Uk",
+  "name": "Foad",
+  "uri": "spotify:artist:4UCLjQ44hZDS1kLx2cf1Uk",
+  "followers": {
+    "href": null,
+    "total": 4538
+  },
+  "genres": [
+    "japanese metalcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb973e4957e0c8ccee4ef598e5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174973e4957e0c8ccee4ef598e5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178973e4957e0c8ccee4ef598e5",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4UCLjQ44hZDS1kLx2cf1Uk"
+  }
+}

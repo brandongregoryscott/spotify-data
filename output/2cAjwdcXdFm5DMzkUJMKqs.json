@@ -1,0 +1,33 @@
+{
+  "id": "2cAjwdcXdFm5DMzkUJMKqs",
+  "name": "Favorite Blue",
+  "uri": "spotify:artist:2cAjwdcXdFm5DMzkUJMKqs",
+  "followers": {
+    "href": null,
+    "total": 3257
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273da0060165999bcdd615a05db",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02da0060165999bcdd615a05db",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851da0060165999bcdd615a05db",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2cAjwdcXdFm5DMzkUJMKqs"
+  }
+}

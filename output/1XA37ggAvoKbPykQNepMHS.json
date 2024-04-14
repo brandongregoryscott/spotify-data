@@ -1,0 +1,33 @@
+{
+  "id": "1XA37ggAvoKbPykQNepMHS",
+  "name": "Teleskop",
+  "uri": "spotify:artist:1XA37ggAvoKbPykQNepMHS",
+  "followers": {
+    "href": null,
+    "total": 135
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfe06d690451da6aae45e0b89",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fe06d690451da6aae45e0b89",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fe06d690451da6aae45e0b89",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1XA37ggAvoKbPykQNepMHS"
+  }
+}

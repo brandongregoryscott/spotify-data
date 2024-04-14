@@ -1,0 +1,33 @@
+{
+  "id": "3d4IXRu42NvQGlv4bke723",
+  "name": "miriko",
+  "uri": "spotify:artist:3d4IXRu42NvQGlv4bke723",
+  "followers": {
+    "href": null,
+    "total": 634
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273479de272d9d72feca3284c35",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02479de272d9d72feca3284c35",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851479de272d9d72feca3284c35",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3d4IXRu42NvQGlv4bke723"
+  }
+}

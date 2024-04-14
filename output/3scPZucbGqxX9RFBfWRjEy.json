@@ -1,0 +1,33 @@
+{
+  "id": "3scPZucbGqxX9RFBfWRjEy",
+  "name": "Butter Butter",
+  "uri": "spotify:artist:3scPZucbGqxX9RFBfWRjEy",
+  "followers": {
+    "href": null,
+    "total": 788
+  },
+  "genres": [
+    "japanese indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bd1c26ae77b7e3ded6b0bc7d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bd1c26ae77b7e3ded6b0bc7d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bd1c26ae77b7e3ded6b0bc7d",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3scPZucbGqxX9RFBfWRjEy"
+  }
+}

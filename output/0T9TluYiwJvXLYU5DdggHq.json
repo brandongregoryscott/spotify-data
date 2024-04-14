@@ -1,0 +1,33 @@
+{
+  "id": "0T9TluYiwJvXLYU5DdggHq",
+  "name": "Gravy",
+  "uri": "spotify:artist:0T9TluYiwJvXLYU5DdggHq",
+  "followers": {
+    "href": null,
+    "total": 13
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd57e813010ccdc3ca2c5770c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d57e813010ccdc3ca2c5770c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d57e813010ccdc3ca2c5770c",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0T9TluYiwJvXLYU5DdggHq"
+  }
+}

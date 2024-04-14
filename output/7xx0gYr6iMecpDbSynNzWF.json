@@ -1,0 +1,35 @@
+{
+  "id": "7xx0gYr6iMecpDbSynNzWF",
+  "name": "SHANK",
+  "uri": "spotify:artist:7xx0gYr6iMecpDbSynNzWF",
+  "followers": {
+    "href": null,
+    "total": 43634
+  },
+  "genres": [
+    "j-rock",
+    "japanese pop punk",
+    "japanese punk rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe690bdb2fe22d4e61b2e2be0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e690bdb2fe22d4e61b2e2be0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e690bdb2fe22d4e61b2e2be0",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
+  }
+}

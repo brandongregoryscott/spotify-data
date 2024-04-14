@@ -1,0 +1,33 @@
+{
+  "id": "1eKGo2wynD0Zrocqt8ahzb",
+  "name": "Constante",
+  "uri": "spotify:artist:1eKGo2wynD0Zrocqt8ahzb",
+  "followers": {
+    "href": null,
+    "total": 286
+  },
+  "genres": [
+    "french emo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeaf76be6e4d5b9f06798108b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eaf76be6e4d5b9f06798108b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eaf76be6e4d5b9f06798108b",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1eKGo2wynD0Zrocqt8ahzb"
+  }
+}

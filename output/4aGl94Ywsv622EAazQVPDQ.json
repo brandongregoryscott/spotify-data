@@ -1,0 +1,33 @@
+{
+  "id": "4aGl94Ywsv622EAazQVPDQ",
+  "name": "ERA",
+  "uri": "spotify:artist:4aGl94Ywsv622EAazQVPDQ",
+  "followers": {
+    "href": null,
+    "total": 1475
+  },
+  "genres": [
+    "japanese chill rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb89024de5da9352cf520f9fb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b89024de5da9352cf520f9fb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b89024de5da9352cf520f9fb",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4aGl94Ywsv622EAazQVPDQ"
+  }
+}

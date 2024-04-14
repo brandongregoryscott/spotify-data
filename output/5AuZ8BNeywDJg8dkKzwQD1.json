@@ -1,0 +1,33 @@
+{
+  "id": "5AuZ8BNeywDJg8dkKzwQD1",
+  "name": "LIQUID",
+  "uri": "spotify:artist:5AuZ8BNeywDJg8dkKzwQD1",
+  "followers": {
+    "href": null,
+    "total": 263
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd06b8024c4b8058534ecad75",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d06b8024c4b8058534ecad75",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d06b8024c4b8058534ecad75",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5AuZ8BNeywDJg8dkKzwQD1"
+  }
+}

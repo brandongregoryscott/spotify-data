@@ -1,0 +1,33 @@
+{
+  "id": "6E0nqUTrVRNwUGcbZxeDX9",
+  "name": "MONOEYES",
+  "uri": "spotify:artist:6E0nqUTrVRNwUGcbZxeDX9",
+  "followers": {
+    "href": null,
+    "total": 66021
+  },
+  "genres": [
+    "j-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdac4a510c689c3a0815e3b10",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dac4a510c689c3a0815e3b10",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dac4a510c689c3a0815e3b10",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6E0nqUTrVRNwUGcbZxeDX9"
+  }
+}

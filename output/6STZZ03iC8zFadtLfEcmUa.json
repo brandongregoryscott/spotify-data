@@ -1,0 +1,33 @@
+{
+  "id": "6STZZ03iC8zFadtLfEcmUa",
+  "name": "Me & U2",
+  "uri": "spotify:artist:6STZZ03iC8zFadtLfEcmUa",
+  "followers": {
+    "href": null,
+    "total": 425
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb134798f9a1f4e48f349713fa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174134798f9a1f4e48f349713fa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178134798f9a1f4e48f349713fa",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6STZZ03iC8zFadtLfEcmUa"
+  }
+}

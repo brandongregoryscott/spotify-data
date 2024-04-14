@@ -1,0 +1,33 @@
+{
+  "id": "5lzTGYt7O6fFb4gWFDxnP4",
+  "name": "Porest",
+  "uri": "spotify:artist:5lzTGYt7O6fFb4gWFDxnP4",
+  "followers": {
+    "href": null,
+    "total": 311
+  },
+  "genres": [
+    "plunderphonics"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bdd8aa63bcb51a23dab37268",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bdd8aa63bcb51a23dab37268",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bdd8aa63bcb51a23dab37268",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5lzTGYt7O6fFb4gWFDxnP4"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "10MibUpwezT0uzZWlLxCkd",
+  "name": "Cowbaby",
+  "uri": "spotify:artist:10MibUpwezT0uzZWlLxCkd",
+  "followers": {
+    "href": null,
+    "total": 446
+  },
+  "genres": [
+    "asheville indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb816c1983a68b9ea0336ba490",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174816c1983a68b9ea0336ba490",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178816c1983a68b9ea0336ba490",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/10MibUpwezT0uzZWlLxCkd"
+  }
+}

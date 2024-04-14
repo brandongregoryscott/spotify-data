@@ -1,0 +1,33 @@
+{
+  "id": "7myn2XESu4XZKQ6sXp0NGI",
+  "name": "Rizzy Reiz",
+  "uri": "spotify:artist:7myn2XESu4XZKQ6sXp0NGI",
+  "followers": {
+    "href": null,
+    "total": 153
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb96229949ff86abc0436d0f31",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517496229949ff86abc0436d0f31",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17896229949ff86abc0436d0f31",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7myn2XESu4XZKQ6sXp0NGI"
+  }
+}

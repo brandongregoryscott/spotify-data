@@ -1,0 +1,33 @@
+{
+  "id": "141QtBBGBkHUfnVxf2U7h5",
+  "name": "H8CALL",
+  "uri": "spotify:artist:141QtBBGBkHUfnVxf2U7h5",
+  "followers": {
+    "href": null,
+    "total": 109
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e7df251f78bbf4b2313d934e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e7df251f78bbf4b2313d934e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e7df251f78bbf4b2313d934e",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/141QtBBGBkHUfnVxf2U7h5"
+  }
+}

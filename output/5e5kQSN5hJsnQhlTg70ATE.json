@@ -1,0 +1,33 @@
+{
+  "id": "5e5kQSN5hJsnQhlTg70ATE",
+  "name": "higma",
+  "uri": "spotify:artist:5e5kQSN5hJsnQhlTg70ATE",
+  "followers": {
+    "href": null,
+    "total": 1996
+  },
+  "genres": [
+    "vocaloid rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb496800cdfae3aebc0c1ff549",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174496800cdfae3aebc0c1ff549",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178496800cdfae3aebc0c1ff549",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5e5kQSN5hJsnQhlTg70ATE"
+  }
+}

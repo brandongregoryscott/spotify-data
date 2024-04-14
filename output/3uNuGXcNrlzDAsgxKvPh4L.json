@@ -1,0 +1,33 @@
+{
+  "id": "3uNuGXcNrlzDAsgxKvPh4L",
+  "name": "611",
+  "uri": "spotify:artist:3uNuGXcNrlzDAsgxKvPh4L",
+  "followers": {
+    "href": null,
+    "total": 108
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb778b72b653aa84024eb1c9ef",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174778b72b653aa84024eb1c9ef",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178778b72b653aa84024eb1c9ef",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3uNuGXcNrlzDAsgxKvPh4L"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2yHzkL2Cb1qMhEtFeeyr68",
+  "name": "Melati ESP",
+  "uri": "spotify:artist:2yHzkL2Cb1qMhEtFeeyr68",
+  "followers": {
+    "href": null,
+    "total": 604
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3e0e28726c67dc4b2e174fa6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051743e0e28726c67dc4b2e174fa6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1783e0e28726c67dc4b2e174fa6",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2yHzkL2Cb1qMhEtFeeyr68"
+  }
+}

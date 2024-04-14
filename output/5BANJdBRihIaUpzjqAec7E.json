@@ -1,0 +1,33 @@
+{
+  "id": "5BANJdBRihIaUpzjqAec7E",
+  "name": "Ohashi Trio",
+  "uri": "spotify:artist:5BANJdBRihIaUpzjqAec7E",
+  "followers": {
+    "href": null,
+    "total": 162852
+  },
+  "genres": [
+    "j-acoustic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb410eb6b9d7d364784c5e13c9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174410eb6b9d7d364784c5e13c9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178410eb6b9d7d364784c5e13c9",
+      "width": 160
+    }
+  ],
+  "popularity": 45,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+  }
+}

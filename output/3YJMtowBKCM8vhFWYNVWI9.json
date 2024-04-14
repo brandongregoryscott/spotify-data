@@ -1,0 +1,33 @@
+{
+  "id": "3YJMtowBKCM8vhFWYNVWI9",
+  "name": "SHIFT_CONTROL",
+  "uri": "spotify:artist:3YJMtowBKCM8vhFWYNVWI9",
+  "followers": {
+    "href": null,
+    "total": 2156
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebea4ffa85ff9b402c2e84da9f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ea4ffa85ff9b402c2e84da9f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ea4ffa85ff9b402c2e84da9f",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3YJMtowBKCM8vhFWYNVWI9"
+  }
+}

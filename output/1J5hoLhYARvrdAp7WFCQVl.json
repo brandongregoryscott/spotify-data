@@ -1,0 +1,33 @@
+{
+  "id": "1J5hoLhYARvrdAp7WFCQVl",
+  "name": "Jenys",
+  "uri": "spotify:artist:1J5hoLhYARvrdAp7WFCQVl",
+  "followers": {
+    "href": null,
+    "total": 848
+  },
+  "genres": [
+    "hyperpop francais"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc956a6de97c1b96579816327",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c956a6de97c1b96579816327",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c956a6de97c1b96579816327",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1J5hoLhYARvrdAp7WFCQVl"
+  }
+}

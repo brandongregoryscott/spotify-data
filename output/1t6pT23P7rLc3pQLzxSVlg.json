@@ -1,0 +1,33 @@
+{
+  "id": "1t6pT23P7rLc3pQLzxSVlg",
+  "name": "peetrid",
+  "uri": "spotify:artist:1t6pT23P7rLc3pQLzxSVlg",
+  "followers": {
+    "href": null,
+    "total": 15
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbaa232816e3c18f77e6da8ba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174baa232816e3c18f77e6da8ba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178baa232816e3c18f77e6da8ba",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1t6pT23P7rLc3pQLzxSVlg"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "3q8bo1K12TtwbvsPiwJWDi",
+  "name": "Nangdo",
+  "uri": "spotify:artist:3q8bo1K12TtwbvsPiwJWDi",
+  "followers": {
+    "href": null,
+    "total": 809
+  },
+  "genres": [
+    "breaks",
+    "footwork"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fce760cb0edc2bfd1def1a9a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fce760cb0edc2bfd1def1a9a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fce760cb0edc2bfd1def1a9a",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3q8bo1K12TtwbvsPiwJWDi"
+  }
+}

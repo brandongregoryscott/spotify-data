@@ -1,0 +1,33 @@
+{
+  "id": "6SxHWm7hLgEKQxUPbRIumi",
+  "name": "hiMe",
+  "uri": "spotify:artist:6SxHWm7hLgEKQxUPbRIumi",
+  "followers": {
+    "href": null,
+    "total": 91
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e9a7909d7935e17152044b1b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023a515f0db7e541b534c6a865",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513a515f0db7e541b534c6a865",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6SxHWm7hLgEKQxUPbRIumi"
+  }
+}

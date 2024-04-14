@@ -1,0 +1,33 @@
+{
+  "id": "1vR69P8rpoxQ4NhCRCH4Uu",
+  "name": "Global",
+  "uri": "spotify:artist:1vR69P8rpoxQ4NhCRCH4Uu",
+  "followers": {
+    "href": null,
+    "total": 218
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb453a97c5e149eac4edecaa09",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174453a97c5e149eac4edecaa09",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178453a97c5e149eac4edecaa09",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1vR69P8rpoxQ4NhCRCH4Uu"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0X6zt519ci5OzJ3249cRUW",
+  "name": "Layer Music Project",
+  "uri": "spotify:artist:0X6zt519ci5OzJ3249cRUW",
+  "followers": {
+    "href": null,
+    "total": 169
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb75d8af2da7c064a835102e1d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517475d8af2da7c064a835102e1d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17875d8af2da7c064a835102e1d",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0X6zt519ci5OzJ3249cRUW"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4qC9o1bDfi0yjuxZVuvRcf",
+  "name": "QU1L",
+  "uri": "spotify:artist:4qC9o1bDfi0yjuxZVuvRcf",
+  "followers": {
+    "href": null,
+    "total": 130
+  },
+  "genres": [
+    "japanese hyperpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcfc83b7c3594b1094434b742",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cfc83b7c3594b1094434b742",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cfc83b7c3594b1094434b742",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4qC9o1bDfi0yjuxZVuvRcf"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1A0BdCEWxFjnSRPLAjXe7D",
+  "name": "the cibo",
+  "uri": "spotify:artist:1A0BdCEWxFjnSRPLAjXe7D",
+  "followers": {
+    "href": null,
+    "total": 1557
+  },
+  "genres": [
+    "japanese alternative rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c845208c60073f8ed525f946",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c845208c60073f8ed525f946",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c845208c60073f8ed525f946",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1A0BdCEWxFjnSRPLAjXe7D"
+  }
+}

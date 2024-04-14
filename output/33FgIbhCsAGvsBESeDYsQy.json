@@ -1,0 +1,33 @@
+{
+  "id": "33FgIbhCsAGvsBESeDYsQy",
+  "name": "Mya Gomez",
+  "uri": "spotify:artist:33FgIbhCsAGvsBESeDYsQy",
+  "followers": {
+    "href": null,
+    "total": 859
+  },
+  "genres": [
+    "mexican experimental"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cf04ae5a954c00e42876553f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cf04ae5a954c00e42876553f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cf04ae5a954c00e42876553f",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/33FgIbhCsAGvsBESeDYsQy"
+  }
+}

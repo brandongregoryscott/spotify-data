@@ -1,0 +1,33 @@
+{
+  "id": "3LDcP18IBVgf5QN0daai7s",
+  "name": "Dorian",
+  "uri": "spotify:artist:3LDcP18IBVgf5QN0daai7s",
+  "followers": {
+    "href": null,
+    "total": 2032
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ba28e509f97682858aef8b4c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ba28e509f97682858aef8b4c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ba28e509f97682858aef8b4c",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3LDcP18IBVgf5QN0daai7s"
+  }
+}

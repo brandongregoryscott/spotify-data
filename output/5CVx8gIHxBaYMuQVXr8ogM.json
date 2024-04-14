@@ -1,0 +1,33 @@
+{
+  "id": "5CVx8gIHxBaYMuQVXr8ogM",
+  "name": "Brian the Sun",
+  "uri": "spotify:artist:5CVx8gIHxBaYMuQVXr8ogM",
+  "followers": {
+    "href": null,
+    "total": 52845
+  },
+  "genres": [
+    "j-poprock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb59f80b1b0a7b787e85723b65",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517459f80b1b0a7b787e85723b65",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17859f80b1b0a7b787e85723b65",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5CVx8gIHxBaYMuQVXr8ogM"
+  }
+}

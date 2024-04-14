@@ -1,0 +1,33 @@
+{
+  "id": "0rMeUjj0HNMJLookFhKvAu",
+  "name": "DAT",
+  "uri": "spotify:artist:0rMeUjj0HNMJLookFhKvAu",
+  "followers": {
+    "href": null,
+    "total": 284
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb76f5497ee5af47e90898330b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517476f5497ee5af47e90898330b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17876f5497ee5af47e90898330b",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0rMeUjj0HNMJLookFhKvAu"
+  }
+}

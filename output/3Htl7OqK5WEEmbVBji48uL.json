@@ -1,0 +1,33 @@
+{
+  "id": "3Htl7OqK5WEEmbVBji48uL",
+  "name": "Expressionless",
+  "uri": "spotify:artist:3Htl7OqK5WEEmbVBji48uL",
+  "followers": {
+    "href": null,
+    "total": 250
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba2711139c988861fc26dc26f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a2711139c988861fc26dc26f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a2711139c988861fc26dc26f",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Htl7OqK5WEEmbVBji48uL"
+  }
+}

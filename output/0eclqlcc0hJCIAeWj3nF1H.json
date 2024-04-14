@@ -1,0 +1,35 @@
+{
+  "id": "0eclqlcc0hJCIAeWj3nF1H",
+  "name": "BES",
+  "uri": "spotify:artist:0eclqlcc0hJCIAeWj3nF1H",
+  "followers": {
+    "href": null,
+    "total": 10482
+  },
+  "genres": [
+    "j-rap",
+    "japanese boom bap",
+    "japanese underground rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb17e4fa53ca4abcd5ec10b492",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517417e4fa53ca4abcd5ec10b492",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17817e4fa53ca4abcd5ec10b492",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0eclqlcc0hJCIAeWj3nF1H"
+  }
+}

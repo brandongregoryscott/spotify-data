@@ -1,0 +1,33 @@
+{
+  "id": "5knSdCMSTor2L6zXV9ysRD",
+  "name": "KUROGURO",
+  "uri": "spotify:artist:5knSdCMSTor2L6zXV9ysRD",
+  "followers": {
+    "href": null,
+    "total": 231
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732e884e39d5565830590ee52f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022e884e39d5565830590ee52f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512e884e39d5565830590ee52f",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5knSdCMSTor2L6zXV9ysRD"
+  }
+}

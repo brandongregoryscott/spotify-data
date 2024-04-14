@@ -1,0 +1,34 @@
+{
+  "id": "3fZxtDP0pwRtBP2X5gxUUe",
+  "name": "Guzz",
+  "uri": "spotify:artist:3fZxtDP0pwRtBP2X5gxUUe",
+  "followers": {
+    "href": null,
+    "total": 1428
+  },
+  "genres": [
+    "chinese electronic",
+    "chinese experimental"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273eeb45c32f61e33ae75b3492a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02eeb45c32f61e33ae75b3492a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851eeb45c32f61e33ae75b3492a",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3fZxtDP0pwRtBP2X5gxUUe"
+  }
+}

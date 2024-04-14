@@ -1,0 +1,33 @@
+{
+  "id": "1GUa7BkC5lg2sYy2qsiYuC",
+  "name": "Mystear",
+  "uri": "spotify:artist:1GUa7BkC5lg2sYy2qsiYuC",
+  "followers": {
+    "href": null,
+    "total": 290
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a3502859e0d3a6c01d8e475e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a3502859e0d3a6c01d8e475e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a3502859e0d3a6c01d8e475e",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1GUa7BkC5lg2sYy2qsiYuC"
+  }
+}

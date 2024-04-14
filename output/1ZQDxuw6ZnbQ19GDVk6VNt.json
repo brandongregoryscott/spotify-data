@@ -1,0 +1,33 @@
+{
+  "id": "1ZQDxuw6ZnbQ19GDVk6VNt",
+  "name": "Sophia Corinne",
+  "uri": "spotify:artist:1ZQDxuw6ZnbQ19GDVk6VNt",
+  "followers": {
+    "href": null,
+    "total": 376
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb571cfb202d5ebaf774344ac0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174571cfb202d5ebaf774344ac0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178571cfb202d5ebaf774344ac0",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ZQDxuw6ZnbQ19GDVk6VNt"
+  }
+}

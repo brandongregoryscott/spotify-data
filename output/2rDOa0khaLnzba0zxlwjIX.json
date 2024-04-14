@@ -1,0 +1,33 @@
+{
+  "id": "2rDOa0khaLnzba0zxlwjIX",
+  "name": "mối",
+  "uri": "spotify:artist:2rDOa0khaLnzba0zxlwjIX",
+  "followers": {
+    "href": null,
+    "total": 8323
+  },
+  "genres": [
+    "indie viet"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebabcaa417bb0a1a039c63a01d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174abcaa417bb0a1a039c63a01d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178abcaa417bb0a1a039c63a01d",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2rDOa0khaLnzba0zxlwjIX"
+  }
+}

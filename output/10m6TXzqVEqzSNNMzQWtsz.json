@@ -1,0 +1,33 @@
+{
+  "id": "10m6TXzqVEqzSNNMzQWtsz",
+  "name": "COBRA",
+  "uri": "spotify:artist:10m6TXzqVEqzSNNMzQWtsz",
+  "followers": {
+    "href": null,
+    "total": 1710
+  },
+  "genres": [
+    "j-punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734d3e006f82416dd10ed93b2f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024d3e006f82416dd10ed93b2f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514d3e006f82416dd10ed93b2f",
+      "width": 64
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/10m6TXzqVEqzSNNMzQWtsz"
+  }
+}

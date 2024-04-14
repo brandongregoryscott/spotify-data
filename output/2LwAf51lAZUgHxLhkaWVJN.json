@@ -1,0 +1,33 @@
+{
+  "id": "2LwAf51lAZUgHxLhkaWVJN",
+  "name": "Hosome",
+  "uri": "spotify:artist:2LwAf51lAZUgHxLhkaWVJN",
+  "followers": {
+    "href": null,
+    "total": 180
+  },
+  "genres": [
+    "japanese math rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b25d68c93f462015361ce95a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b25d68c93f462015361ce95a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b25d68c93f462015361ce95a",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2LwAf51lAZUgHxLhkaWVJN"
+  }
+}

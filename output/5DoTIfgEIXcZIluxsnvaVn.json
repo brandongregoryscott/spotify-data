@@ -1,0 +1,36 @@
+{
+  "id": "5DoTIfgEIXcZIluxsnvaVn",
+  "name": "Peter Van Hoesen",
+  "uri": "spotify:artist:5DoTIfgEIXcZIluxsnvaVn",
+  "followers": {
+    "href": null,
+    "total": 14535
+  },
+  "genres": [
+    "belgian techno",
+    "dub techno",
+    "minimal dub",
+    "minimal techno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb53dd050293e41e11277abfcc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517453dd050293e41e11277abfcc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17853dd050293e41e11277abfcc",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5DoTIfgEIXcZIluxsnvaVn"
+  }
+}

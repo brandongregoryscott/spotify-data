@@ -1,0 +1,33 @@
+{
+  "id": "1T20xglqzXdTMykiOTUTjG",
+  "name": "メメタァ",
+  "uri": "spotify:artist:1T20xglqzXdTMykiOTUTjG",
+  "followers": {
+    "href": null,
+    "total": 3181
+  },
+  "genres": [
+    "modern j-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb668f44b5997cf1b602c9bbde",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174668f44b5997cf1b602c9bbde",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178668f44b5997cf1b602c9bbde",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1T20xglqzXdTMykiOTUTjG"
+  }
+}

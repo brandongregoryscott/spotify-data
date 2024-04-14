@@ -1,0 +1,33 @@
+{
+  "id": "6wA5ZfA0ohsPi1tEiCABph",
+  "name": "Marcanta",
+  "uri": "spotify:artist:6wA5ZfA0ohsPi1tEiCABph",
+  "followers": {
+    "href": null,
+    "total": 124
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27393405f8407b16df25597c6b9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0293405f8407b16df25597c6b9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485193405f8407b16df25597c6b9",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6wA5ZfA0ohsPi1tEiCABph"
+  }
+}

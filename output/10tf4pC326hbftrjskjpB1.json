@@ -1,0 +1,33 @@
+{
+  "id": "10tf4pC326hbftrjskjpB1",
+  "name": "I have no name",
+  "uri": "spotify:artist:10tf4pC326hbftrjskjpB1",
+  "followers": {
+    "href": null,
+    "total": 84
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273efb3c9399a73cce02d6abead",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02efb3c9399a73cce02d6abead",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851efb3c9399a73cce02d6abead",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/10tf4pC326hbftrjskjpB1"
+  }
+}

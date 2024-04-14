@@ -1,0 +1,37 @@
+{
+  "id": "2qUNVIgjpwhQ3gGpM1Nrok",
+  "name": "Bok Bok",
+  "uri": "spotify:artist:2qUNVIgjpwhQ3gGpM1Nrok",
+  "followers": {
+    "href": null,
+    "total": 10097
+  },
+  "genres": [
+    "deconstructed club",
+    "footwork",
+    "future garage",
+    "grimewave",
+    "vogue"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb733c618877e6f96262c720ff",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174733c618877e6f96262c720ff",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178733c618877e6f96262c720ff",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2qUNVIgjpwhQ3gGpM1Nrok"
+  }
+}

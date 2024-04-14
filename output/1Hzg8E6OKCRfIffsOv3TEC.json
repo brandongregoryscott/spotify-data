@@ -1,0 +1,33 @@
+{
+  "id": "1Hzg8E6OKCRfIffsOv3TEC",
+  "name": "Láu Cá",
+  "uri": "spotify:artist:1Hzg8E6OKCRfIffsOv3TEC",
+  "followers": {
+    "href": null,
+    "total": 365
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebde5047357294ab161eb74a2b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174de5047357294ab161eb74a2b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178de5047357294ab161eb74a2b",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Hzg8E6OKCRfIffsOv3TEC"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0wiJ19KvpWKVOTUd99lLQ2",
+  "name": "Malo",
+  "uri": "spotify:artist:0wiJ19KvpWKVOTUd99lLQ2",
+  "followers": {
+    "href": null,
+    "total": 466
+  },
+  "genres": [
+    "vocaloid"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273465c36a0bbfbdc997594435a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02465c36a0bbfbdc997594435a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851465c36a0bbfbdc997594435a",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0wiJ19KvpWKVOTUd99lLQ2"
+  }
+}

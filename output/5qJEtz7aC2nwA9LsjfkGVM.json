@@ -1,0 +1,33 @@
+{
+  "id": "5qJEtz7aC2nwA9LsjfkGVM",
+  "name": "Haku.",
+  "uri": "spotify:artist:5qJEtz7aC2nwA9LsjfkGVM",
+  "followers": {
+    "href": null,
+    "total": 9070
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb315d12dee5169a7c76a7bc9e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174315d12dee5169a7c76a7bc9e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178315d12dee5169a7c76a7bc9e",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM"
+  }
+}

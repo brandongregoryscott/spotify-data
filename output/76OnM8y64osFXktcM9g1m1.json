@@ -1,0 +1,33 @@
+{
+  "id": "76OnM8y64osFXktcM9g1m1",
+  "name": "Destrata",
+  "uri": "spotify:artist:76OnM8y64osFXktcM9g1m1",
+  "followers": {
+    "href": null,
+    "total": 434
+  },
+  "genres": [
+    "uk bass"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb74c6555dbdb14927e093ea4b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517474c6555dbdb14927e093ea4b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17874c6555dbdb14927e093ea4b",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/76OnM8y64osFXktcM9g1m1"
+  }
+}

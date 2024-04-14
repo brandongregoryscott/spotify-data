@@ -1,0 +1,33 @@
+{
+  "id": "7BfTksJzGVSxVlIsEyBi21",
+  "name": "TOAST",
+  "uri": "spotify:artist:7BfTksJzGVSxVlIsEyBi21",
+  "followers": {
+    "href": null,
+    "total": 85
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d6046378db1103517e4cd379",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d6046378db1103517e4cd379",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d6046378db1103517e4cd379",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7BfTksJzGVSxVlIsEyBi21"
+  }
+}

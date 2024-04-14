@@ -1,0 +1,33 @@
+{
+  "id": "3ACscsgpWl3Lgu0A9keEIt",
+  "name": "Another Story",
+  "uri": "spotify:artist:3ACscsgpWl3Lgu0A9keEIt",
+  "followers": {
+    "href": null,
+    "total": 2379
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb59e8ca94528400c03835797f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517459e8ca94528400c03835797f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17859e8ca94528400c03835797f",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ACscsgpWl3Lgu0A9keEIt"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "0mdVUK3zymRXiPGQPWw8KX",
+  "name": "Opto",
+  "uri": "spotify:artist:0mdVUK3zymRXiPGQPWw8KX",
+  "followers": {
+    "href": null,
+    "total": 2766
+  },
+  "genres": [
+    "glitch",
+    "glitch ambient"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dfafa75bb59dbf6bcdd8522a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dfafa75bb59dbf6bcdd8522a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dfafa75bb59dbf6bcdd8522a",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0mdVUK3zymRXiPGQPWw8KX"
+  }
+}

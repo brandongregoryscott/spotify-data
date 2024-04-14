@@ -1,0 +1,33 @@
+{
+  "id": "1YLjJWSfMFvtCzfWzsR7dg",
+  "name": "Channelers",
+  "uri": "spotify:artist:1YLjJWSfMFvtCzfWzsR7dg",
+  "followers": {
+    "href": null,
+    "total": 737
+  },
+  "genres": [
+    "pastoral"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8cca8b470361677c1814e40c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051748cca8b470361677c1814e40c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1788cca8b470361677c1814e40c",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1YLjJWSfMFvtCzfWzsR7dg"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3MZWLBhUV8wTlHMJME3wp2",
+  "name": "ccontrary",
+  "uri": "spotify:artist:3MZWLBhUV8wTlHMJME3wp2",
+  "followers": {
+    "href": null,
+    "total": 469
+  },
+  "genres": [
+    "hypertrance"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb385a1e897e843fe58f6105ec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174385a1e897e843fe58f6105ec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178385a1e897e843fe58f6105ec",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3MZWLBhUV8wTlHMJME3wp2"
+  }
+}

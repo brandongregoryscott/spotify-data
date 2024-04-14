@@ -1,0 +1,36 @@
+{
+  "id": "7unNuvk3OEqGmegHTaxRA9",
+  "name": "JUDY AND MARY",
+  "uri": "spotify:artist:7unNuvk3OEqGmegHTaxRA9",
+  "followers": {
+    "href": null,
+    "total": 711253
+  },
+  "genres": [
+    "anime",
+    "classic j-pop",
+    "j-pop",
+    "j-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cf8805ce8411879bc7673fb6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cf8805ce8411879bc7673fb6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cf8805ce8411879bc7673fb6",
+      "width": 64
+    }
+  ],
+  "popularity": 52,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9"
+  }
+}

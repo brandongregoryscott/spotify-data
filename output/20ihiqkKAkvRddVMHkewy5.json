@@ -1,0 +1,35 @@
+{
+  "id": "20ihiqkKAkvRddVMHkewy5",
+  "name": "Kaito",
+  "uri": "spotify:artist:20ihiqkKAkvRddVMHkewy5",
+  "followers": {
+    "href": null,
+    "total": 5576
+  },
+  "genres": [
+    "j-ambient",
+    "japanese techno",
+    "pop ambient"
+  ],
+  "images": [
+    {
+      "height": 744,
+      "url": "https://i.scdn.co/image/2ca086e38ab1f537474b31683c00119d75768e9d",
+      "width": 498
+    },
+    {
+      "height": 299,
+      "url": "https://i.scdn.co/image/c7742c4e76c126478d936cabd5f7242efc98e9ff",
+      "width": 200
+    },
+    {
+      "height": 96,
+      "url": "https://i.scdn.co/image/b5af181d38d42be45b60844279e4e909bd359cb2",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/20ihiqkKAkvRddVMHkewy5"
+  }
+}

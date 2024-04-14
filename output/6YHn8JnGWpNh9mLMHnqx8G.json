@@ -1,0 +1,33 @@
+{
+  "id": "6YHn8JnGWpNh9mLMHnqx8G",
+  "name": "藍色アポロ",
+  "uri": "spotify:artist:6YHn8JnGWpNh9mLMHnqx8G",
+  "followers": {
+    "href": null,
+    "total": 1249
+  },
+  "genres": [
+    "modern j-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb132ec35cbbee0e8f3105a48f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174132ec35cbbee0e8f3105a48f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178132ec35cbbee0e8f3105a48f",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6YHn8JnGWpNh9mLMHnqx8G"
+  }
+}
