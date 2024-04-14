@@ -11,7 +11,7 @@ def main
   artist_ids = read_artists_json_file
   chunk = chunk_artist_ids_by_current_hour(artist_ids)
 
-  chunk.each_slice_with_index(50) do |artist_ids_chunk, index|
+  chunk.each_slice(50).with_index do |artist_ids_chunk, index|
     sleep(0.25) if (index % 2).zero?
 
     artists = RSpotify::Artist.find(artist_ids_chunk)
