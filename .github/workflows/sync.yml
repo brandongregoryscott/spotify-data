@@ -23,7 +23,7 @@ jobs:
       run: bundle install
 
     - name: Sync data
-      run: ruby scripts/main.rb
+      run: ruby scripts/sync.rb
 
     - name: Commit and push
       run: |-
