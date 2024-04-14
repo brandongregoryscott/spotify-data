@@ -1,0 +1,33 @@
+{
+  "id": "3i2fCdDfM5nA7uSbVN0UUI",
+  "name": "Win32",
+  "uri": "spotify:artist:3i2fCdDfM5nA7uSbVN0UUI",
+  "followers": {
+    "href": null,
+    "total": 3458
+  },
+  "genres": [
+    "wave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebab2e24d827eb2e9d4e6f14ed",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ab2e24d827eb2e9d4e6f14ed",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ab2e24d827eb2e9d4e6f14ed",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3i2fCdDfM5nA7uSbVN0UUI"
+  }
+}

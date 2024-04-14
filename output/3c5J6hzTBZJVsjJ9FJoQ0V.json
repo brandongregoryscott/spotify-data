@@ -1,0 +1,34 @@
+{
+  "id": "3c5J6hzTBZJVsjJ9FJoQ0V",
+  "name": "Mello Music Group",
+  "uri": "spotify:artist:3c5J6hzTBZJVsjJ9FJoQ0V",
+  "followers": {
+    "href": null,
+    "total": 22604
+  },
+  "genres": [
+    "alternative hip hop",
+    "underground rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf0272d7395ed9ca29fb4a682",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f0272d7395ed9ca29fb4a682",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f0272d7395ed9ca29fb4a682",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3c5J6hzTBZJVsjJ9FJoQ0V"
+  }
+}

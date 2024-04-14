@@ -1,0 +1,33 @@
+{
+  "id": "1PhCF06RD2VjQvBMqnyWsu",
+  "name": "Perfecto",
+  "uri": "spotify:artist:1PhCF06RD2VjQvBMqnyWsu",
+  "followers": {
+    "href": null,
+    "total": 118
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735257707dac5a062742b5cad6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025257707dac5a062742b5cad6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515257707dac5a062742b5cad6",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1PhCF06RD2VjQvBMqnyWsu"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "085pc2PYOi8bGKj0PNjekA",
+  "name": "will.i.am",
+  "uri": "spotify:artist:085pc2PYOi8bGKj0PNjekA",
+  "followers": {
+    "href": null,
+    "total": 4084656
+  },
+  "genres": [
+    "dance pop",
+    "pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc9ab8da6f7a3ce02f0b16fd8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c9ab8da6f7a3ce02f0b16fd8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c9ab8da6f7a3ce02f0b16fd8",
+      "width": 160
+    }
+  ],
+  "popularity": 73,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+  }
+}

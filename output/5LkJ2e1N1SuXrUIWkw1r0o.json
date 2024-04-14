@@ -1,0 +1,33 @@
+{
+  "id": "5LkJ2e1N1SuXrUIWkw1r0o",
+  "name": "L0LA",
+  "uri": "spotify:artist:5LkJ2e1N1SuXrUIWkw1r0o",
+  "followers": {
+    "href": null,
+    "total": 2193
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb05402f5142e96cdb419361a6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517405402f5142e96cdb419361a6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17805402f5142e96cdb419361a6",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5LkJ2e1N1SuXrUIWkw1r0o"
+  }
+}

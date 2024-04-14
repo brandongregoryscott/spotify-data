@@ -1,0 +1,34 @@
+{
+  "id": "5PA6iCCOkq14PpMWWlhJ5T",
+  "name": "Oh No",
+  "uri": "spotify:artist:5PA6iCCOkq14PpMWWlhJ5T",
+  "followers": {
+    "href": null,
+    "total": 59422
+  },
+  "genres": [
+    "alternative hip hop",
+    "instrumental hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebed6e66bfcc0e557dab3abbb7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ed6e66bfcc0e557dab3abbb7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ed6e66bfcc0e557dab3abbb7",
+      "width": 160
+    }
+  ],
+  "popularity": 45,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T"
+  }
+}

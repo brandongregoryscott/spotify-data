@@ -1,0 +1,33 @@
+{
+  "id": "13aJQVNKKfnyJNOt9F9qWx",
+  "name": "pumo",
+  "uri": "spotify:artist:13aJQVNKKfnyJNOt9F9qWx",
+  "followers": {
+    "href": null,
+    "total": 1726
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd0a10fb990fd0bc52ecd649b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d0a10fb990fd0bc52ecd649b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d0a10fb990fd0bc52ecd649b",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/13aJQVNKKfnyJNOt9F9qWx"
+  }
+}

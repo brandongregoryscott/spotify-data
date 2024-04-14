@@ -1,0 +1,33 @@
+{
+  "id": "11YvPCB5eOOo1xfOvCtobr",
+  "name": "Teddy Faley",
+  "uri": "spotify:artist:11YvPCB5eOOo1xfOvCtobr",
+  "followers": {
+    "href": null,
+    "total": 423
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb00a69c0b1f3dd480043aec14",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517400a69c0b1f3dd480043aec14",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17800a69c0b1f3dd480043aec14",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/11YvPCB5eOOo1xfOvCtobr"
+  }
+}

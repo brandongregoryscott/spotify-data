@@ -1,0 +1,33 @@
+{
+  "id": "1E3rzFDTfHIV06whRtoKmy",
+  "name": "Sleep Sinatra",
+  "uri": "spotify:artist:1E3rzFDTfHIV06whRtoKmy",
+  "followers": {
+    "href": null,
+    "total": 1258
+  },
+  "genres": [
+    "afrofuturism"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfab85228e1442d24efd8c3eb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fab85228e1442d24efd8c3eb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fab85228e1442d24efd8c3eb",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1E3rzFDTfHIV06whRtoKmy"
+  }
+}

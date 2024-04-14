@@ -1,0 +1,34 @@
+{
+  "id": "4isewEHTP7Az2QheDdBQ6J",
+  "name": "24hrs",
+  "uri": "spotify:artist:4isewEHTP7Az2QheDdBQ6J",
+  "followers": {
+    "href": null,
+    "total": 231057
+  },
+  "genres": [
+    "atl trap",
+    "trap soul"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfc0bc99bb7b638f1d1172d56",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fc0bc99bb7b638f1d1172d56",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fc0bc99bb7b638f1d1172d56",
+      "width": 160
+    }
+  ],
+  "popularity": 51,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "4cUkGQyhLFqKHBtL58HYVp",
+  "name": "Channel Tres",
+  "uri": "spotify:artist:4cUkGQyhLFqKHBtL58HYVp",
+  "followers": {
+    "href": null,
+    "total": 299206
+  },
+  "genres": [
+    "indie soul",
+    "la pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba9241b61b24391d1fc6ebb4b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a9241b61b24391d1fc6ebb4b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a9241b61b24391d1fc6ebb4b",
+      "width": 160
+    }
+  ],
+  "popularity": 62,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+  }
+}

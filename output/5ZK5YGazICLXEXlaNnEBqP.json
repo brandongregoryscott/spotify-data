@@ -1,0 +1,33 @@
+{
+  "id": "5ZK5YGazICLXEXlaNnEBqP",
+  "name": "theMIND",
+  "uri": "spotify:artist:5ZK5YGazICLXEXlaNnEBqP",
+  "followers": {
+    "href": null,
+    "total": 23593
+  },
+  "genres": [
+    "indie hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb44efb4a66cb1120da601e343",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517444efb4a66cb1120da601e343",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17844efb4a66cb1120da601e343",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ZK5YGazICLXEXlaNnEBqP"
+  }
+}

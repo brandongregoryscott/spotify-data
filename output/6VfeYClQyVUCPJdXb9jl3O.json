@@ -1,0 +1,33 @@
+{
+  "id": "6VfeYClQyVUCPJdXb9jl3O",
+  "name": "Evidence",
+  "uri": "spotify:artist:6VfeYClQyVUCPJdXb9jl3O",
+  "followers": {
+    "href": null,
+    "total": 96296
+  },
+  "genres": [
+    "alternative hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe24a1420c8b20d3450fa1094",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e24a1420c8b20d3450fa1094",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e24a1420c8b20d3450fa1094",
+      "width": 160
+    }
+  ],
+  "popularity": 45,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O"
+  }
+}

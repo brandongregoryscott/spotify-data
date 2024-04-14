@@ -1,0 +1,33 @@
+{
+  "id": "1oMOLlaY6FtCqrIX1hNXyP",
+  "name": "Herme$",
+  "uri": "spotify:artist:1oMOLlaY6FtCqrIX1hNXyP",
+  "followers": {
+    "href": null,
+    "total": 805
+  },
+  "genres": [
+    "sigilkore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3af0a336738a8f39d352a844",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051743af0a336738a8f39d352a844",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1783af0a336738a8f39d352a844",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1oMOLlaY6FtCqrIX1hNXyP"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2pyhOr8ReFqjd992b4xszo",
+  "name": "Lack",
+  "uri": "spotify:artist:2pyhOr8ReFqjd992b4xszo",
+  "followers": {
+    "href": null,
+    "total": 96
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb11ba610f65fb801c88881bd2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517411ba610f65fb801c88881bd2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17811ba610f65fb801c88881bd2",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2pyhOr8ReFqjd992b4xszo"
+  }
+}

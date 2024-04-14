@@ -1,0 +1,34 @@
+{
+  "id": "4WVDlzQCHAIWzBP5iZwuOJ",
+  "name": "Sybyr",
+  "uri": "spotify:artist:4WVDlzQCHAIWzBP5iZwuOJ",
+  "followers": {
+    "href": null,
+    "total": 76304
+  },
+  "genres": [
+    "cloud rap",
+    "dark trap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb19900a5eaaca73677f17231f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517419900a5eaaca73677f17231f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17819900a5eaaca73677f17231f",
+      "width": 160
+    }
+  ],
+  "popularity": 41,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4WVDlzQCHAIWzBP5iZwuOJ"
+  }
+}

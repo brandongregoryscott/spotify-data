@@ -1,0 +1,33 @@
+{
+  "id": "1suXRSUWQuSpeC5HyTtCC9",
+  "name": "ICE9",
+  "uri": "spotify:artist:1suXRSUWQuSpeC5HyTtCC9",
+  "followers": {
+    "href": null,
+    "total": 238
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdbcea863809f34d6d86abe10",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dbcea863809f34d6d86abe10",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dbcea863809f34d6d86abe10",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1suXRSUWQuSpeC5HyTtCC9"
+  }
+}

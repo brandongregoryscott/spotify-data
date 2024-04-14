@@ -1,0 +1,33 @@
+{
+  "id": "1YFQFG3F2i3OfyjoVku8qV",
+  "name": "jxsh",
+  "uri": "spotify:artist:1YFQFG3F2i3OfyjoVku8qV",
+  "followers": {
+    "href": null,
+    "total": 702
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb301377a3fdf12b377fc33f70",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174301377a3fdf12b377fc33f70",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178301377a3fdf12b377fc33f70",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1YFQFG3F2i3OfyjoVku8qV"
+  }
+}

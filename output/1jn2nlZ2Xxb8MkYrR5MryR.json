@@ -1,0 +1,33 @@
+{
+  "id": "1jn2nlZ2Xxb8MkYrR5MryR",
+  "name": "Naïve",
+  "uri": "spotify:artist:1jn2nlZ2Xxb8MkYrR5MryR",
+  "followers": {
+    "href": null,
+    "total": 2050
+  },
+  "genres": [
+    "emo rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb77395a56abbf5f8f0b2defcc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517477395a56abbf5f8f0b2defcc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17877395a56abbf5f8f0b2defcc",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1jn2nlZ2Xxb8MkYrR5MryR"
+  }
+}

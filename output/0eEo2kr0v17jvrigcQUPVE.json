@@ -1,0 +1,33 @@
+{
+  "id": "0eEo2kr0v17jvrigcQUPVE",
+  "name": "Jeff in Leather",
+  "uri": "spotify:artist:0eEo2kr0v17jvrigcQUPVE",
+  "followers": {
+    "href": null,
+    "total": 464
+  },
+  "genres": [
+    "omaha indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb93548dbd3c13f51cee14d818",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517493548dbd3c13f51cee14d818",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17893548dbd3c13f51cee14d818",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0eEo2kr0v17jvrigcQUPVE"
+  }
+}

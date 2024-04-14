@@ -1,0 +1,33 @@
+{
+  "id": "1Ymte00f3VIudjLN6xG65J",
+  "name": "No Friends",
+  "uri": "spotify:artist:1Ymte00f3VIudjLN6xG65J",
+  "followers": {
+    "href": null,
+    "total": 1934
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb82a0402e566aad24584d49ba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517482a0402e566aad24584d49ba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17882a0402e566aad24584d49ba",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Ymte00f3VIudjLN6xG65J"
+  }
+}

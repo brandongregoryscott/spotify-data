@@ -1,0 +1,35 @@
+{
+  "id": "1SAugjIcuwNPKS4urSB7A6",
+  "name": "Joe Budden",
+  "uri": "spotify:artist:1SAugjIcuwNPKS4urSB7A6",
+  "followers": {
+    "href": null,
+    "total": 467490
+  },
+  "genres": [
+    "battle rap",
+    "hardcore hip hop",
+    "new jersey rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb092dd28381b477e126a584a1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174092dd28381b477e126a584a1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178092dd28381b477e126a584a1",
+      "width": 160
+    }
+  ],
+  "popularity": 49,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1SAugjIcuwNPKS4urSB7A6"
+  }
+}

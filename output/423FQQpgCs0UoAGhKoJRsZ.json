@@ -1,0 +1,33 @@
+{
+  "id": "423FQQpgCs0UoAGhKoJRsZ",
+  "name": "Pootie",
+  "uri": "spotify:artist:423FQQpgCs0UoAGhKoJRsZ",
+  "followers": {
+    "href": null,
+    "total": 241
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba653bac33167714ac1898ec2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a653bac33167714ac1898ec2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a653bac33167714ac1898ec2",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/423FQQpgCs0UoAGhKoJRsZ"
+  }
+}

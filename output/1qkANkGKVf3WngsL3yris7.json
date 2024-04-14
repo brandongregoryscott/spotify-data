@@ -1,0 +1,34 @@
+{
+  "id": "1qkANkGKVf3WngsL3yris7",
+  "name": "Hullu Ruusu",
+  "uri": "spotify:artist:1qkANkGKVf3WngsL3yris7",
+  "followers": {
+    "href": null,
+    "total": 1392
+  },
+  "genres": [
+    "finnish indie",
+    "suomi rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27314c8c0f71f02ebbdeed5adcf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0214c8c0f71f02ebbdeed5adcf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485114c8c0f71f02ebbdeed5adcf",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1qkANkGKVf3WngsL3yris7"
+  }
+}

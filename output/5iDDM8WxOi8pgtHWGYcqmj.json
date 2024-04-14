@@ -1,0 +1,33 @@
+{
+  "id": "5iDDM8WxOi8pgtHWGYcqmj",
+  "name": "Gidi",
+  "uri": "spotify:artist:5iDDM8WxOi8pgtHWGYcqmj",
+  "followers": {
+    "href": null,
+    "total": 1351
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebae0b2ed6e785edeb061945a2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ae0b2ed6e785edeb061945a2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ae0b2ed6e785edeb061945a2",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5iDDM8WxOi8pgtHWGYcqmj"
+  }
+}

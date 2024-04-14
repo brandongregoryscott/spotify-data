@@ -1,0 +1,33 @@
+{
+  "id": "7jqOx7roPoSzHGnNWBFVqW",
+  "name": "Jfab",
+  "uri": "spotify:artist:7jqOx7roPoSzHGnNWBFVqW",
+  "followers": {
+    "href": null,
+    "total": 423
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba0da4f48776f5c26bcb7b443",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a0da4f48776f5c26bcb7b443",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a0da4f48776f5c26bcb7b443",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7jqOx7roPoSzHGnNWBFVqW"
+  }
+}

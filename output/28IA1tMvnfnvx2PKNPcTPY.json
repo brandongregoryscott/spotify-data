@@ -1,0 +1,33 @@
+{
+  "id": "28IA1tMvnfnvx2PKNPcTPY",
+  "name": "Chow",
+  "uri": "spotify:artist:28IA1tMvnfnvx2PKNPcTPY",
+  "followers": {
+    "href": null,
+    "total": 54
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd4f3e07a576c9280e6b72acd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d4f3e07a576c9280e6b72acd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d4f3e07a576c9280e6b72acd",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/28IA1tMvnfnvx2PKNPcTPY"
+  }
+}

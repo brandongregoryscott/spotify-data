@@ -1,0 +1,34 @@
+{
+  "id": "3L3hYQlhb5k9XCCrRWavNi",
+  "name": "Tony Velour",
+  "uri": "spotify:artist:3L3hYQlhb5k9XCCrRWavNi",
+  "followers": {
+    "href": null,
+    "total": 13040
+  },
+  "genres": [
+    "hyperpop",
+    "proto-hyperpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb38d9bad52e62f21673125aaf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517438d9bad52e62f21673125aaf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17838d9bad52e62f21673125aaf",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3L3hYQlhb5k9XCCrRWavNi"
+  }
+}

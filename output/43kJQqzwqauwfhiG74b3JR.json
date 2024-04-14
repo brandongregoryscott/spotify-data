@@ -1,0 +1,33 @@
+{
+  "id": "43kJQqzwqauwfhiG74b3JR",
+  "name": "tetohundred",
+  "uri": "spotify:artist:43kJQqzwqauwfhiG74b3JR",
+  "followers": {
+    "href": null,
+    "total": 126
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb36efa2e505536d969a51fe28",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517436efa2e505536d969a51fe28",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17836efa2e505536d969a51fe28",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/43kJQqzwqauwfhiG74b3JR"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2etWSM1cPeITq5E2bEK8PW",
+  "name": "Silk",
+  "uri": "spotify:artist:2etWSM1cPeITq5E2bEK8PW",
+  "followers": {
+    "href": null,
+    "total": 1009974
+  },
+  "genres": [
+    "contemporary r&b",
+    "new jack swing",
+    "r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb97145a22d145c914015e4020",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517497145a22d145c914015e4020",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17897145a22d145c914015e4020",
+      "width": 160
+    }
+  ],
+  "popularity": 48,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2etWSM1cPeITq5E2bEK8PW"
+  }
+}

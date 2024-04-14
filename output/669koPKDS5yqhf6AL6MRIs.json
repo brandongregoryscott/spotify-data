@@ -1,0 +1,33 @@
+{
+  "id": "669koPKDS5yqhf6AL6MRIs",
+  "name": "The World",
+  "uri": "spotify:artist:669koPKDS5yqhf6AL6MRIs",
+  "followers": {
+    "href": null,
+    "total": 453
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb71c0bf24d1e2959058c0f654",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517471c0bf24d1e2959058c0f654",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17871c0bf24d1e2959058c0f654",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/669koPKDS5yqhf6AL6MRIs"
+  }
+}

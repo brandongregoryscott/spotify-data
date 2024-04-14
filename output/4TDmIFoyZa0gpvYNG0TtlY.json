@@ -1,0 +1,33 @@
+{
+  "id": "4TDmIFoyZa0gpvYNG0TtlY",
+  "name": "Cabe",
+  "uri": "spotify:artist:4TDmIFoyZa0gpvYNG0TtlY",
+  "followers": {
+    "href": null,
+    "total": 259
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731ab3832a99d39210a0014fff",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021ab3832a99d39210a0014fff",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511ab3832a99d39210a0014fff",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4TDmIFoyZa0gpvYNG0TtlY"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2Au9zIICTEr0oeV1iQrJ6X",
+  "name": "HiTech",
+  "uri": "spotify:artist:2Au9zIICTEr0oeV1iQrJ6X",
+  "followers": {
+    "href": null,
+    "total": 4561
+  },
+  "genres": [
+    "ghettotech"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb21b0c81db1dadc59d8a599a3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517421b0c81db1dadc59d8a599a3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17821b0c81db1dadc59d8a599a3",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Au9zIICTEr0oeV1iQrJ6X"
+  }
+}

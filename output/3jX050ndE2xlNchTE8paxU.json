@@ -1,0 +1,33 @@
+{
+  "id": "3jX050ndE2xlNchTE8paxU",
+  "name": "HooksArthur",
+  "uri": "spotify:artist:3jX050ndE2xlNchTE8paxU",
+  "followers": {
+    "href": null,
+    "total": 360
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734aea138bca816392f4c6f246",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024aea138bca816392f4c6f246",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514aea138bca816392f4c6f246",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3jX050ndE2xlNchTE8paxU"
+  }
+}

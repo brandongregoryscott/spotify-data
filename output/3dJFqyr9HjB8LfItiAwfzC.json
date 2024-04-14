@@ -1,0 +1,33 @@
+{
+  "id": "3dJFqyr9HjB8LfItiAwfzC",
+  "name": "Cunabear",
+  "uri": "spotify:artist:3dJFqyr9HjB8LfItiAwfzC",
+  "followers": {
+    "href": null,
+    "total": 276
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd6cb6fe2861487bc9ca20c5c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d6cb6fe2861487bc9ca20c5c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d6cb6fe2861487bc9ca20c5c",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3dJFqyr9HjB8LfItiAwfzC"
+  }
+}

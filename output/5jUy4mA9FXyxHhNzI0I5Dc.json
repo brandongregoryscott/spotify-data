@@ -1,0 +1,33 @@
+{
+  "id": "5jUy4mA9FXyxHhNzI0I5Dc",
+  "name": "Jason Griff",
+  "uri": "spotify:artist:5jUy4mA9FXyxHhNzI0I5Dc",
+  "followers": {
+    "href": null,
+    "total": 288
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebffff6c0aae49969f392e545b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ffff6c0aae49969f392e545b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ffff6c0aae49969f392e545b",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5jUy4mA9FXyxHhNzI0I5Dc"
+  }
+}

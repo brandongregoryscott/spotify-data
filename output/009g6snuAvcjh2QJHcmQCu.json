@@ -1,0 +1,33 @@
+{
+  "id": "009g6snuAvcjh2QJHcmQCu",
+  "name": "aronsmith",
+  "uri": "spotify:artist:009g6snuAvcjh2QJHcmQCu",
+  "followers": {
+    "href": null,
+    "total": 63
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbbdee1c032d8306ea0b5badd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bbdee1c032d8306ea0b5badd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bbdee1c032d8306ea0b5badd",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/009g6snuAvcjh2QJHcmQCu"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3BVos0H6axo8QG9ObZHoM7",
+  "name": "Owho",
+  "uri": "spotify:artist:3BVos0H6axo8QG9ObZHoM7",
+  "followers": {
+    "href": null,
+    "total": 52
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb74400241b6035e2bec31732a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517474400241b6035e2bec31732a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17874400241b6035e2bec31732a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3BVos0H6axo8QG9ObZHoM7"
+  }
+}

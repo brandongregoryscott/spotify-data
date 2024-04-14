@@ -1,0 +1,33 @@
+{
+  "id": "1ur3xBQplZWIUpjqvVuotA",
+  "name": "zeeree",
+  "uri": "spotify:artist:1ur3xBQplZWIUpjqvVuotA",
+  "followers": {
+    "href": null,
+    "total": 120
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb66c438f7d9c031c8cae2a016",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517466c438f7d9c031c8cae2a016",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17866c438f7d9c031c8cae2a016",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ur3xBQplZWIUpjqvVuotA"
+  }
+}

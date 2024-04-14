@@ -1,0 +1,33 @@
+{
+  "id": "3H9feKCKkrlliART03HS91",
+  "name": "AGONY",
+  "uri": "spotify:artist:3H9feKCKkrlliART03HS91",
+  "followers": {
+    "href": null,
+    "total": 242
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebde763f502248bd1a32f48645",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174de763f502248bd1a32f48645",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178de763f502248bd1a32f48645",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3H9feKCKkrlliART03HS91"
+  }
+}

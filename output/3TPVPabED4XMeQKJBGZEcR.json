@@ -1,0 +1,33 @@
+{
+  "id": "3TPVPabED4XMeQKJBGZEcR",
+  "name": "Lord Byron",
+  "uri": "spotify:artist:3TPVPabED4XMeQKJBGZEcR",
+  "followers": {
+    "href": null,
+    "total": 2081
+  },
+  "genres": [
+    "dfw rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdfed0175eb00413a88a45694",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dfed0175eb00413a88a45694",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dfed0175eb00413a88a45694",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3TPVPabED4XMeQKJBGZEcR"
+  }
+}

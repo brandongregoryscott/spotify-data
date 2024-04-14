@@ -1,0 +1,33 @@
+{
+  "id": "1LEL09dOsPfqbhwnf4tImR",
+  "name": "Lil Quill",
+  "uri": "spotify:artist:1LEL09dOsPfqbhwnf4tImR",
+  "followers": {
+    "href": null,
+    "total": 3495
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb07c9d261d195694c974748ef",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517407c9d261d195694c974748ef",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17807c9d261d195694c974748ef",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1LEL09dOsPfqbhwnf4tImR"
+  }
+}

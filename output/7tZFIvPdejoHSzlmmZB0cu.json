@@ -1,0 +1,33 @@
+{
+  "id": "7tZFIvPdejoHSzlmmZB0cu",
+  "name": "Carlby",
+  "uri": "spotify:artist:7tZFIvPdejoHSzlmmZB0cu",
+  "followers": {
+    "href": null,
+    "total": 1198
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb880555f8092192f6b912dc44",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174880555f8092192f6b912dc44",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178880555f8092192f6b912dc44",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7tZFIvPdejoHSzlmmZB0cu"
+  }
+}

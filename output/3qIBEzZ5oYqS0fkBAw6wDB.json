@@ -1,0 +1,33 @@
+{
+  "id": "3qIBEzZ5oYqS0fkBAw6wDB",
+  "name": "Syskofrenia",
+  "uri": "spotify:artist:3qIBEzZ5oYqS0fkBAw6wDB",
+  "followers": {
+    "href": null,
+    "total": 2794
+  },
+  "genres": [
+    "finnish indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf10d8ec32e0748041021af64",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f10d8ec32e0748041021af64",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f10d8ec32e0748041021af64",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3qIBEzZ5oYqS0fkBAw6wDB"
+  }
+}

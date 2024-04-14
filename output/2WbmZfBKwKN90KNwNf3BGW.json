@@ -1,0 +1,33 @@
+{
+  "id": "2WbmZfBKwKN90KNwNf3BGW",
+  "name": "iMo",
+  "uri": "spotify:artist:2WbmZfBKwKN90KNwNf3BGW",
+  "followers": {
+    "href": null,
+    "total": 48
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb48ad8d229026cde321aa5fca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517448ad8d229026cde321aa5fca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17848ad8d229026cde321aa5fca",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2WbmZfBKwKN90KNwNf3BGW"
+  }
+}

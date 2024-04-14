@@ -1,0 +1,33 @@
+{
+  "id": "7x3mbyjfOZ9y599MHmyNOu",
+  "name": "Heems",
+  "uri": "spotify:artist:7x3mbyjfOZ9y599MHmyNOu",
+  "followers": {
+    "href": null,
+    "total": 22574
+  },
+  "genres": [
+    "escape room"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbe5240ebb477dc3a26b4afa3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174be5240ebb477dc3a26b4afa3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178be5240ebb477dc3a26b4afa3",
+      "width": 160
+    }
+  ],
+  "popularity": 39,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu"
+  }
+}

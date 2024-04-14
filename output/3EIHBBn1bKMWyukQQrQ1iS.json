@@ -1,0 +1,33 @@
+{
+  "id": "3EIHBBn1bKMWyukQQrQ1iS",
+  "name": "Greyhound",
+  "uri": "spotify:artist:3EIHBBn1bKMWyukQQrQ1iS",
+  "followers": {
+    "href": null,
+    "total": 140
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb71efd6147bc9118e8e142db",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b71efd6147bc9118e8e142db",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b71efd6147bc9118e8e142db",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3EIHBBn1bKMWyukQQrQ1iS"
+  }
+}

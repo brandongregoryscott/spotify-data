@@ -1,0 +1,33 @@
+{
+  "id": "3LVus8IbMtxb8idFCCSsLI",
+  "name": "Dc2trill",
+  "uri": "spotify:artist:3LVus8IbMtxb8idFCCSsLI",
+  "followers": {
+    "href": null,
+    "total": 18262
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf3f09f16d51e39c1f2eb07ee",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f3f09f16d51e39c1f2eb07ee",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f3f09f16d51e39c1f2eb07ee",
+      "width": 160
+    }
+  ],
+  "popularity": 55,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI"
+  }
+}

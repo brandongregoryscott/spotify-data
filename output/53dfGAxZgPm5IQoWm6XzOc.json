@@ -1,0 +1,33 @@
+{
+  "id": "53dfGAxZgPm5IQoWm6XzOc",
+  "name": "G4 Jag",
+  "uri": "spotify:artist:53dfGAxZgPm5IQoWm6XzOc",
+  "followers": {
+    "href": null,
+    "total": 2013
+  },
+  "genres": [
+    "boom bap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb2561adeca1512ea487147e1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b2561adeca1512ea487147e1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b2561adeca1512ea487147e1",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/53dfGAxZgPm5IQoWm6XzOc"
+  }
+}

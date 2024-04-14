@@ -1,0 +1,34 @@
+{
+  "id": "6CMeouhVoHSVr1tr90P33c",
+  "name": "Amuri",
+  "uri": "spotify:artist:6CMeouhVoHSVr1tr90P33c",
+  "followers": {
+    "href": null,
+    "total": 1304
+  },
+  "genres": [
+    "finnish indie",
+    "suomi rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735920cf88be2f31444ef56afb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025920cf88be2f31444ef56afb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515920cf88be2f31444ef56afb",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6CMeouhVoHSVr1tr90P33c"
+  }
+}

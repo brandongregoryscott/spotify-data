@@ -1,0 +1,36 @@
+{
+  "id": "6lHL3ubAMgSasKjNqKb8HF",
+  "name": "Mýa",
+  "uri": "spotify:artist:6lHL3ubAMgSasKjNqKb8HF",
+  "followers": {
+    "href": null,
+    "total": 1393566
+  },
+  "genres": [
+    "contemporary r&b",
+    "hip pop",
+    "r&b",
+    "urban contemporary"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfdc389563fdfb51527f4603d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fdc389563fdfb51527f4603d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fdc389563fdfb51527f4603d",
+      "width": 160
+    }
+  ],
+  "popularity": 62,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+  }
+}

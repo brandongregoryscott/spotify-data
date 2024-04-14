@@ -1,0 +1,33 @@
+{
+  "id": "2PU4qFehXQF7WnlFsJpBiJ",
+  "name": "Raury",
+  "uri": "spotify:artist:2PU4qFehXQF7WnlFsJpBiJ",
+  "followers": {
+    "href": null,
+    "total": 200574
+  },
+  "genres": [
+    "psychedelic hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb596908fc90d5639fc02a9dcd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174596908fc90d5639fc02a9dcd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178596908fc90d5639fc02a9dcd",
+      "width": 160
+    }
+  ],
+  "popularity": 48,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ"
+  }
+}

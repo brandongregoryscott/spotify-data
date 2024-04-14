@@ -1,0 +1,33 @@
+{
+  "id": "5eUhoxsPgFqAWSfOtwMNBF",
+  "name": "Contour",
+  "uri": "spotify:artist:5eUhoxsPgFqAWSfOtwMNBF",
+  "followers": {
+    "href": null,
+    "total": 8724
+  },
+  "genres": [
+    "south carolina indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb228efb55f0ba33b5b0391838",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174228efb55f0ba33b5b0391838",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178228efb55f0ba33b5b0391838",
+      "width": 160
+    }
+  ],
+  "popularity": 34,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5eUhoxsPgFqAWSfOtwMNBF"
+  }
+}

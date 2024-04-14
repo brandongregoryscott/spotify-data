@@ -1,0 +1,33 @@
+{
+  "id": "5wLADFwrz9AGUJotefFzPv",
+  "name": "SoLonely",
+  "uri": "spotify:artist:5wLADFwrz9AGUJotefFzPv",
+  "followers": {
+    "href": null,
+    "total": 26021
+  },
+  "genres": [
+    "emo rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb85505183f9a0fbe88abd30bc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517485505183f9a0fbe88abd30bc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17885505183f9a0fbe88abd30bc",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5wLADFwrz9AGUJotefFzPv"
+  }
+}

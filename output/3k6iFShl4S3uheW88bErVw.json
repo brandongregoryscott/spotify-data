@@ -1,0 +1,35 @@
+{
+  "id": "3k6iFShl4S3uheW88bErVw",
+  "name": "FBG Duck",
+  "uri": "spotify:artist:3k6iFShl4S3uheW88bErVw",
+  "followers": {
+    "href": null,
+    "total": 313455
+  },
+  "genres": [
+    "chicago drill",
+    "chicago rap",
+    "drill"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273636eda5e92c869e87e542701",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02636eda5e92c869e87e542701",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851636eda5e92c869e87e542701",
+      "width": 64
+    }
+  ],
+  "popularity": 43,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3k6iFShl4S3uheW88bErVw"
+  }
+}

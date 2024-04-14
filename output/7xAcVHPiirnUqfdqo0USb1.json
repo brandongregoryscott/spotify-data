@@ -1,0 +1,36 @@
+{
+  "id": "7xAcVHPiirnUqfdqo0USb1",
+  "name": "Fantasia",
+  "uri": "spotify:artist:7xAcVHPiirnUqfdqo0USb1",
+  "followers": {
+    "href": null,
+    "total": 2048347
+  },
+  "genres": [
+    "contemporary r&b",
+    "hip pop",
+    "r&b",
+    "urban contemporary"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb78bf731dde467f2f0c60ca6b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517478bf731dde467f2f0c60ca6b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17878bf731dde467f2f0c60ca6b",
+      "width": 160
+    }
+  ],
+  "popularity": 58,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6p70iKebfMSl8zbkiEwOtS",
+  "name": "Dinner Party",
+  "uri": "spotify:artist:6p70iKebfMSl8zbkiEwOtS",
+  "followers": {
+    "href": null,
+    "total": 14932
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb065cf1cf87ed131fa1fa8df",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b065cf1cf87ed131fa1fa8df",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b065cf1cf87ed131fa1fa8df",
+      "width": 160
+    }
+  ],
+  "popularity": 51,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS"
+  }
+}

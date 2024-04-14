@@ -1,0 +1,33 @@
+{
+  "id": "72xKqeAh9QfV1S7TAgYipb",
+  "name": "Alexandre Elias",
+  "uri": "spotify:artist:72xKqeAh9QfV1S7TAgYipb",
+  "followers": {
+    "href": null,
+    "total": 295
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdce6cbcca8e2e07f986fb597",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dce6cbcca8e2e07f986fb597",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dce6cbcca8e2e07f986fb597",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/72xKqeAh9QfV1S7TAgYipb"
+  }
+}

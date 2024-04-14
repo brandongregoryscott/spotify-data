@@ -1,0 +1,33 @@
+{
+  "id": "18qBO7YXbtIJxe4vucTVKZ",
+  "name": "City Light Mosaic",
+  "uri": "spotify:artist:18qBO7YXbtIJxe4vucTVKZ",
+  "followers": {
+    "href": null,
+    "total": 258
+  },
+  "genres": [
+    "dreampunk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd055b448263e62b513813762",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d055b448263e62b513813762",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d055b448263e62b513813762",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/18qBO7YXbtIJxe4vucTVKZ"
+  }
+}

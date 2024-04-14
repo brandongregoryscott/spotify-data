@@ -1,0 +1,33 @@
+{
+  "id": "2UYseCfawS1tzNhSW1jMxO",
+  "name": "Jumpy",
+  "uri": "spotify:artist:2UYseCfawS1tzNhSW1jMxO",
+  "followers": {
+    "href": null,
+    "total": 78
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27332390e776b5bc6b8f60f489b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0232390e776b5bc6b8f60f489b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485132390e776b5bc6b8f60f489b",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2UYseCfawS1tzNhSW1jMxO"
+  }
+}

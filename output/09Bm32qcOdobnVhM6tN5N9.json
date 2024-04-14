@@ -1,0 +1,33 @@
+{
+  "id": "09Bm32qcOdobnVhM6tN5N9",
+  "name": "Nick Royal",
+  "uri": "spotify:artist:09Bm32qcOdobnVhM6tN5N9",
+  "followers": {
+    "href": null,
+    "total": 210
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb403588b19604aca6442d2689",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174403588b19604aca6442d2689",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178403588b19604aca6442d2689",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/09Bm32qcOdobnVhM6tN5N9"
+  }
+}

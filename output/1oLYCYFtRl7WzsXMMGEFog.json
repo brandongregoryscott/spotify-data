@@ -1,0 +1,33 @@
+{
+  "id": "1oLYCYFtRl7WzsXMMGEFog",
+  "name": "Big Bill",
+  "uri": "spotify:artist:1oLYCYFtRl7WzsXMMGEFog",
+  "followers": {
+    "href": null,
+    "total": 331
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3f5ae94ad071bb9994317389",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051743f5ae94ad071bb9994317389",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1783f5ae94ad071bb9994317389",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1oLYCYFtRl7WzsXMMGEFog"
+  }
+}
