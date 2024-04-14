@@ -27,8 +27,8 @@ def authenticate
 
   secret_index = current_hour % 8
 
-  client_id = client_ids.at(secret_index)
-  client_secret = client_secrets.at(secret_index)
+  client_id = client_ids.at(secret_index) || client_ids.first
+  client_secret = client_secrets.at(secret_index) || client_secrets.first
 
   RSpotify.authenticate(client_id, client_secret)
 end

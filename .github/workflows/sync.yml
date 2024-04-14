@@ -3,7 +3,7 @@ name: Sync
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '43 * * * *'
+    - cron:  '05 * * * *'
 
 env:
   CLIENT_IDS: ${{secrets.CLIENT_IDS}}

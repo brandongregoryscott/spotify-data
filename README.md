@@ -1,4 +1,4 @@
-# arthistory
+# arthistory [![Sync](https://github.com/brandongregoryscott/arthistory/actions/workflows/sync.yml/badge.svg)](https://github.com/brandongregoryscott/arthistory/actions/workflows/sync.yml)
 
 A repository for tracking Spotify artist changes over time.
 
@@ -16,7 +16,7 @@ To run the script locally, you'll need [Ruby](https://www.ruby-lang.org/) instal
 
 ```sh
 bundle install
-CLIENT_ID=abc123 CLIENT_SECRET=xyz456 ruby src/main.rb
+CLIENT_IDS=abc123 CLIENT_SECRETS=xyz456 ruby src/main.rb
 ```
 
 ### Reference
