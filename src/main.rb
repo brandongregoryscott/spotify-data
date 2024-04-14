@@ -1,79 +1,68 @@
+# frozen_string_literal: true
+
 require 'bundler/setup'
 require 'json'
 require 'rspotify'
 require 'date'
 
-def main()
-    random = Random.new()
+def main
+  authenticate
 
-    clientIds = ENV["CLIENT_IDS"].split(',')
-    clientSecrets = ENV["CLIENT_SECRETS"].split(',')
+  artist_ids = read_artists_json_file
+  chunk = chunk_artist_ids_by_current_hour(artist_ids)
 
-    hour = Integer(DateTime.now.strftime('%H'))
+  chunk.each_slice_with_index(50) do |artist_ids_chunk, index|
+    sleep(0.25) if (index % 2).zero?
 
-    secretIndex = hour % 8
-    clientId = clientIds[secretIndex]
-    clientSecret = clientSecrets[secretIndex]
-
-    RSpotify.authenticate(clientId, clientSecret)
-
-    artist_ids_file = File.read('input/artists.json')
-    artist_ids = JSON.parse(artist_ids_file)
-    chunk_size = (artist_ids.length / 24).floor
-    chunk = artist_ids.each_slice(chunk_size).to_a()[hour]
-
-    new_artist_ids = []
-
-    chunk.each_slice(50) do |artist_ids_chunk|
-        sleep(0.5)
-
-        artists = RSpotify::Artist.find(artist_ids_chunk)
-        artists.each_with_index do |artist, index|
-            # Manually slow down the loop every 5th iteration since we're making an additional API call per artist we track
-            if index % 5 === 0
-                sleep(0.25)
-            end
-
-            save_artist_json_file(artist)
-
-            if random.rand(100) < 75
-                next
-            end
-
-            related_artists = artist.related_artists
-            related_artists.each do |related_artist|
-                save_artist_json_file(related_artist)
-
-                if !artist_ids.include?(related_artist.id)
-                    new_artist_ids.push(related_artist.id)
-                end
-            end
-        end
+    artists = RSpotify::Artist.find(artist_ids_chunk)
+    artists.each do |artist|
+      save_artist_json_file(artist)
     end
-
-    save_artists_json_file(artist_ids.concat(new_artist_ids))
+  end
 end
 
-def save_artists_json_file(artist_ids)
-    File.write("input/artists.json", JSON.pretty_generate(artist_ids))
+def authenticate
+  client_ids = ENV['CLIENT_IDS'].split(',')
+  client_secrets = ENV['CLIENT_SECRETS'].split(',')
+
+  secret_index = current_hour % 8
+
+  client_id = client_ids.at(secret_index)
+  client_secret = client_secrets.at(secret_index)
+
+  RSpotify.authenticate(client_id, client_secret)
+end
+
+def current_hour
+  Integer(DateTime.now.strftime('%H'))
+end
+
+def read_artists_json_file
+  artist_ids_file = File.read('input/artists.json')
+  JSON.parse(artist_ids_file)
+end
+
+def chunk_artist_ids_by_current_hour(artist_ids)
+  chunk_size = (artist_ids.length / 24).floor
+  artist_ids.each_slice(chunk_size).to_a.at(current_hour)
 end
 
 def save_artist_json_file(artist)
-    File.write("output/#{artist.id}.json", json_stringify_artist(artist))
+  File.write("output/#{artist.id}.json", json_stringify_artist(artist))
 end
 
-def json_stringify_artist(artist)
-    artist_object = {
-        'id' => artist.id,
-        'name' => artist.name,
-        'uri' => artist.uri,
-        'followers' => artist.followers,
-        'genres' => artist.genres,
-        'images' => artist.images,
-        'popularity' => artist.popularity,
-        'external_urls' => artist.external_urls,
-    }
-    return JSON.pretty_generate(artist_object)
+def json_stringify_artist(artist) # rubocop:disable Metrics/MethodLength
+  artist_object = {
+    'id' => artist.id,
+    'name' => artist.name,
+    'uri' => artist.uri,
+    'followers' => artist.followers,
+    'genres' => artist.genres,
+    'images' => artist.images,
+    'popularity' => artist.popularity,
+    'external_urls' => artist.external_urls
+  }
+  JSON.pretty_generate(artist_object)
 end
 
-main()
+main
