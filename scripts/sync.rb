@@ -11,6 +11,7 @@ def main
   artist_ids = read_artists_json_file
   chunk = chunk_artist_ids_by_current_hour(artist_ids)
 
+  puts "Chunk: #{JSON.pretty_generate(chunk)}"
   chunk.each_slice(50).with_index do |artist_ids_chunk, index|
     sleep(0.25) if (index % 2).zero?
 
@@ -49,7 +50,9 @@ def read_artists_json_file
 end
 
 def chunk_artist_ids_by_current_hour(artist_ids)
+  puts "artist_ids.length #{artist_ids.length}"
   chunk_size = (artist_ids.length / 24).floor
+  puts "chunk_size #{chunk_size}"
   artist_ids.each_slice(chunk_size).to_a.at(current_hour)
 end
 
