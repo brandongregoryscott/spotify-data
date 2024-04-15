@@ -5,6 +5,8 @@ require 'json'
 require 'rspotify'
 require 'date'
 
+MAX_RETRIES = 25
+
 def main
   authenticate
 
@@ -14,15 +16,19 @@ def main
   chunk.each_slice(50).with_index do |artist_ids_chunk, index|
     sleep(0.25) if (index % 2).zero?
 
-    begin
-      artists = RSpotify::Artist.find(artist_ids_chunk)
-      artists.each do |artist|
-        save_artist_json_file(artist)
-      end
-    rescue RestClient::TooManyRequests
-      puts '429 caught'
-    end
+    find_and_save_artists(artist_ids_chunk)
   end
+end
+
+def find_and_save_artists(artist_ids_chunk, attempt = 1)
+  artists = RSpotify::Artist.find(artist_ids_chunk)
+  artists.each do |artist|
+    save_artist_json_file(artist)
+  end
+rescue RestClient::TooManyRequests, RestClient::ServiceUnavailable
+  max_sleep_seconds = Float(2**attempts)
+  sleep rand(0..max_sleep_seconds)
+  find_and_save_artists(artist_ids_chunk, attempt + 1) if attempt < MAX_RETRIES
 end
 
 def authenticate
