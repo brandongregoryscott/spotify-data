@@ -38,7 +38,9 @@ def authenticate
 end
 
 def current_hour
-  Integer(DateTime.now.strftime('%H'))
+  hour = DateTime.now.strftime('%H')
+  hour = hour.sub('0', '') if hour.start_with? '0'
+  Integer(hour)
 end
 
 def read_artists_json_file
