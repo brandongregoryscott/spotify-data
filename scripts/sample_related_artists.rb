@@ -20,7 +20,9 @@ end
 
 def find_related_artists(artist_id, attempt = 1)
   related_artists = RSpotify::Artist.new({ 'id' => artist_id }).related_artists
-  related_artists.map(&:id)
+  related_artist_ids = related_artists.map(&:id)
+  puts JSON.pretty_generate(related_artist_ids)
+  related_artist_ids
 rescue RestClient::TooManyRequests, RestClient::ServiceUnavailable
   max_sleep_seconds = Float(2**attempt)
   sleep rand(0..max_sleep_seconds)
