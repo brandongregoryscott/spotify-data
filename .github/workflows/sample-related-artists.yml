@@ -1,0 +1,37 @@
+name: Sample related artists
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '* 2 * * *'
+
+env:
+  CLIENT_IDS: ${{secrets.CLIENT_IDS}}
+  CLIENT_SECRETS: ${{secrets.CLIENT_SECRETS}}
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.3'
+        bundler-cache: true
+
+    - name: Install gems
+      run: bundle install
+
+    - name: Sync data
+      run: ruby scripts/sample_related_artists.rb
+
+    - name: Commit and push
+      run: |-
+        git config user.name "Github Actions"
+        git config user.email "actions@users.noreply.github.com"
+        git add input/
+        timestamp=$(ruby -e "require 'date'; puts DateTime.now.iso8601")
+        git commit -m "${timestamp}" || exit 0
+        git push
