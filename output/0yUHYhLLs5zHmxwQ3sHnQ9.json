@@ -4,29 +4,15 @@
   "uri": "spotify:artist:0yUHYhLLs5zHmxwQ3sHnQ9",
   "followers": {
     "href": null,
-    "total": 6126
+    "total": 6124
   },
   "genres": [
     "phonk"
   ],
   "images": [
-    {
-      "height": 640,
-      "url": "https://i.scdn.co/image/ab67616d0000b273112685e98d110f32733a0347",
-      "width": 640
-    },
-    {
-      "height": 300,
-      "url": "https://i.scdn.co/image/ab67616d00001e02112685e98d110f32733a0347",
-      "width": 300
-    },
-    {
-      "height": 64,
-      "url": "https://i.scdn.co/image/ab67616d00004851112685e98d110f32733a0347",
-      "width": 64
-    }
+
   ],
-  "popularity": 18,
+  "popularity": 17,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/0yUHYhLLs5zHmxwQ3sHnQ9"
   }
