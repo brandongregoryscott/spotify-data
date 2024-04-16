@@ -4,10 +4,11 @@
   "uri": "spotify:artist:3luuQQRuSBuDNnrkYvatnk",
   "followers": {
     "href": null,
-    "total": 45962
+    "total": 45988
   },
   "genres": [
-    "fourth world"
+    "fourth world",
+    "indie jazz"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 160
     }
   ],
-  "popularity": 43,
+  "popularity": 42,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
   }
