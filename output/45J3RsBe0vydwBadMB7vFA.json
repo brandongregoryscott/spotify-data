@@ -1,0 +1,33 @@
+{
+  "id": "45J3RsBe0vydwBadMB7vFA",
+  "name": "OPEN",
+  "uri": "spotify:artist:45J3RsBe0vydwBadMB7vFA",
+  "followers": {
+    "href": null,
+    "total": 1021
+  },
+  "genres": [
+    "phonk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb799638d45c470042ed1d15fa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174799638d45c470042ed1d15fa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178799638d45c470042ed1d15fa",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/45J3RsBe0vydwBadMB7vFA"
+  }
+}

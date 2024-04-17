@@ -1,0 +1,33 @@
+{
+  "id": "0dCSPVQ30JS4cRaCTtbEmp",
+  "name": "Erik Lundin",
+  "uri": "spotify:artist:0dCSPVQ30JS4cRaCTtbEmp",
+  "followers": {
+    "href": null,
+    "total": 19138
+  },
+  "genres": [
+    "swedish hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb752684883a320189711b1d73",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174752684883a320189711b1d73",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178752684883a320189711b1d73",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp"
+  }
+}

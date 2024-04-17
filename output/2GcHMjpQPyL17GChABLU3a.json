@@ -1,0 +1,33 @@
+{
+  "id": "2GcHMjpQPyL17GChABLU3a",
+  "name": "Indigo Plateau",
+  "uri": "spotify:artist:2GcHMjpQPyL17GChABLU3a",
+  "followers": {
+    "href": null,
+    "total": 181
+  },
+  "genres": [
+    "slc indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb07399cfbd822a6ab52621d0c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517407399cfbd822a6ab52621d0c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17807399cfbd822a6ab52621d0c",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2GcHMjpQPyL17GChABLU3a"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7epIIT85VR8OEggqKO3RSt",
+  "name": "Natural Child",
+  "uri": "spotify:artist:7epIIT85VR8OEggqKO3RSt",
+  "followers": {
+    "href": null,
+    "total": 56017
+  },
+  "genres": [
+    "neo-psychedelic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb35edf8af7fcb6402073197b6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517435edf8af7fcb6402073197b6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17835edf8af7fcb6402073197b6",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7epIIT85VR8OEggqKO3RSt"
+  }
+}

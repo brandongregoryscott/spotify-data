@@ -1,0 +1,33 @@
+{
+  "id": "6MecNDGCbFpgjGnmoUwBfn",
+  "name": "Stoneside.",
+  "uri": "spotify:artist:6MecNDGCbFpgjGnmoUwBfn",
+  "followers": {
+    "href": null,
+    "total": 6914
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb11d54ef110a765ad23409d9f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517411d54ef110a765ad23409d9f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17811d54ef110a765ad23409d9f",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6MecNDGCbFpgjGnmoUwBfn"
+  }
+}

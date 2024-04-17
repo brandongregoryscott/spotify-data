@@ -1,0 +1,33 @@
+{
+  "id": "2XQw4AelKiaBCm3iiH4TaQ",
+  "name": "MAGICAL SPEC",
+  "uri": "spotify:artist:2XQw4AelKiaBCm3iiH4TaQ",
+  "followers": {
+    "href": null,
+    "total": 545
+  },
+  "genres": [
+    "alt-idol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d436e31f45bfc1b22b7482d6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d436e31f45bfc1b22b7482d6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d436e31f45bfc1b22b7482d6",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2XQw4AelKiaBCm3iiH4TaQ"
+  }
+}

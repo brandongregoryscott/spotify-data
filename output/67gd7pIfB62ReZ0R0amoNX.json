@@ -1,0 +1,33 @@
+{
+  "id": "67gd7pIfB62ReZ0R0amoNX",
+  "name": "ForeverAtLast",
+  "uri": "spotify:artist:67gd7pIfB62ReZ0R0amoNX",
+  "followers": {
+    "href": null,
+    "total": 2202
+  },
+  "genres": [
+    "indy indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb80dd5d7ed925a86c8d242a07",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517480dd5d7ed925a86c8d242a07",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17880dd5d7ed925a86c8d242a07",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/67gd7pIfB62ReZ0R0amoNX"
+  }
+}

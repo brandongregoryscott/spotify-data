@@ -1,0 +1,33 @@
+{
+  "id": "7oYkFph1CNSKnx7kYLgS3j",
+  "name": "Shrine",
+  "uri": "spotify:artist:7oYkFph1CNSKnx7kYLgS3j",
+  "followers": {
+    "href": null,
+    "total": 431
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc93658f533961d540c342c7f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c93658f533961d540c342c7f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c93658f533961d540c342c7f",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7oYkFph1CNSKnx7kYLgS3j"
+  }
+}

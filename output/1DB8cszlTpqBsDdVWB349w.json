@@ -1,0 +1,33 @@
+{
+  "id": "1DB8cszlTpqBsDdVWB349w",
+  "name": "Marco Benevento",
+  "uri": "spotify:artist:1DB8cszlTpqBsDdVWB349w",
+  "followers": {
+    "href": null,
+    "total": 18830
+  },
+  "genres": [
+    "jam band"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbe834322854f5074a8ac2c24",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174be834322854f5074a8ac2c24",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178be834322854f5074a8ac2c24",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1DB8cszlTpqBsDdVWB349w"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "5kYS7bPX5tm3jrsYqqNSZN",
+  "name": "ZONE",
+  "uri": "spotify:artist:5kYS7bPX5tm3jrsYqqNSZN",
+  "followers": {
+    "href": null,
+    "total": 78964
+  },
+  "genres": [
+    "j-idol",
+    "j-pop",
+    "j-poprock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f608db5853342f1de3e4d7ab",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f608db5853342f1de3e4d7ab",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f608db5853342f1de3e4d7ab",
+      "width": 64
+    }
+  ],
+  "popularity": 41,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5kYS7bPX5tm3jrsYqqNSZN"
+  }
+}

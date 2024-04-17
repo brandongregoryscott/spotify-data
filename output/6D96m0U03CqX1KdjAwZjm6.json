@@ -1,0 +1,34 @@
+{
+  "id": "6D96m0U03CqX1KdjAwZjm6",
+  "name": "Village",
+  "uri": "spotify:artist:6D96m0U03CqX1KdjAwZjm6",
+  "followers": {
+    "href": null,
+    "total": 15916
+  },
+  "genres": [
+    "neurostep",
+    "vapor twitch"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb87f2d73a333099fbc6dbddcb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517487f2d73a333099fbc6dbddcb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17887f2d73a333099fbc6dbddcb",
+      "width": 160
+    }
+  ],
+  "popularity": 41,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6D96m0U03CqX1KdjAwZjm6"
+  }
+}

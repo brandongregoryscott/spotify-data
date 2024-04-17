@@ -1,0 +1,33 @@
+{
+  "id": "5ZccVTHBLJtMdeXw23kmSA",
+  "name": "Four Tomorrow",
+  "uri": "spotify:artist:5ZccVTHBLJtMdeXw23kmSA",
+  "followers": {
+    "href": null,
+    "total": 223
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731b17488f6db9ea2c02a48350",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021b17488f6db9ea2c02a48350",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511b17488f6db9ea2c02a48350",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ZccVTHBLJtMdeXw23kmSA"
+  }
+}

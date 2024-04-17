@@ -1,0 +1,33 @@
+{
+  "id": "6ntFg3SNXDIEfnUXGnG7f5",
+  "name": "Amandla",
+  "uri": "spotify:artist:6ntFg3SNXDIEfnUXGnG7f5",
+  "followers": {
+    "href": null,
+    "total": 462
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27394fd55f7d8fec962d8c08ef1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0294fd55f7d8fec962d8c08ef1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485194fd55f7d8fec962d8c08ef1",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ntFg3SNXDIEfnUXGnG7f5"
+  }
+}

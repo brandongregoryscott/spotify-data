@@ -1,0 +1,33 @@
+{
+  "id": "2moICp1CuSgbmcbVF5nZqi",
+  "name": "SAV",
+  "uri": "spotify:artist:2moICp1CuSgbmcbVF5nZqi",
+  "followers": {
+    "href": null,
+    "total": 200
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb65f2e2aafed3c243ca58ef3d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517465f2e2aafed3c243ca58ef3d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17865f2e2aafed3c243ca58ef3d",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2moICp1CuSgbmcbVF5nZqi"
+  }
+}

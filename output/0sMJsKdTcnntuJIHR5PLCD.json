@@ -1,0 +1,33 @@
+{
+  "id": "0sMJsKdTcnntuJIHR5PLCD",
+  "name": "UP-BEAT",
+  "uri": "spotify:artist:0sMJsKdTcnntuJIHR5PLCD",
+  "followers": {
+    "href": null,
+    "total": 8918
+  },
+  "genres": [
+    "classic j-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273443dd1326c05f5339c0643a3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02443dd1326c05f5339c0643a3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851443dd1326c05f5339c0643a3",
+      "width": 64
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0sMJsKdTcnntuJIHR5PLCD"
+  }
+}

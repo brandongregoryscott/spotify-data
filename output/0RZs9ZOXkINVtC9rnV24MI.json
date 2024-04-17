@@ -1,0 +1,33 @@
+{
+  "id": "0RZs9ZOXkINVtC9rnV24MI",
+  "name": "Primer",
+  "uri": "spotify:artist:0RZs9ZOXkINVtC9rnV24MI",
+  "followers": {
+    "href": null,
+    "total": 2058
+  },
+  "genres": [
+    "detroit indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb980d230d237f8742a29f2191",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174980d230d237f8742a29f2191",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178980d230d237f8742a29f2191",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0RZs9ZOXkINVtC9rnV24MI"
+  }
+}

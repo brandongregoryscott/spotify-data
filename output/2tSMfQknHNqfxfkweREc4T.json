@@ -1,0 +1,33 @@
+{
+  "id": "2tSMfQknHNqfxfkweREc4T",
+  "name": "Layn",
+  "uri": "spotify:artist:2tSMfQknHNqfxfkweREc4T",
+  "followers": {
+    "href": null,
+    "total": 721
+  },
+  "genres": [
+    "alt-idol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb93e1519ffc3962b85dfa7e53",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517493e1519ffc3962b85dfa7e53",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17893e1519ffc3962b85dfa7e53",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2tSMfQknHNqfxfkweREc4T"
+  }
+}

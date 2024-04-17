@@ -1,0 +1,33 @@
+{
+  "id": "5hbQtwlpgGVT4feHGQwiRp",
+  "name": "Deletto",
+  "uri": "spotify:artist:5hbQtwlpgGVT4feHGQwiRp",
+  "followers": {
+    "href": null,
+    "total": 301
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd15b9d89583eee3dd7a1f937",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d15b9d89583eee3dd7a1f937",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d15b9d89583eee3dd7a1f937",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5hbQtwlpgGVT4feHGQwiRp"
+  }
+}

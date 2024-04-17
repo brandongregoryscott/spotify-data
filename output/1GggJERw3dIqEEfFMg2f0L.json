@@ -1,0 +1,33 @@
+{
+  "id": "1GggJERw3dIqEEfFMg2f0L",
+  "name": "The Insects",
+  "uri": "spotify:artist:1GggJERw3dIqEEfFMg2f0L",
+  "followers": {
+    "href": null,
+    "total": 3424
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fa380342747e4f93d4dd3b0b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fa380342747e4f93d4dd3b0b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fa380342747e4f93d4dd3b0b",
+      "width": 64
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1GggJERw3dIqEEfFMg2f0L"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0ncQh2zi1V4dWyYO1XdQKn",
+  "name": "katagiri",
+  "uri": "spotify:artist:0ncQh2zi1V4dWyYO1XdQKn",
+  "followers": {
+    "href": null,
+    "total": 493
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb080b6a216e56010b3f1730c4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174080b6a216e56010b3f1730c4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178080b6a216e56010b3f1730c4",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ncQh2zi1V4dWyYO1XdQKn"
+  }
+}
