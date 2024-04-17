@@ -36,7 +36,7 @@ def authenticate
 
   select_first_key = rand < 0.5
   client_id = select_first_key ? client_ids.first : client_ids.last
-  client_secret = select_first_key ? client_secrets.first : client_ids.last
+  client_secret = select_first_key ? client_secrets.first : client_secrets.last
 
   RSpotify.authenticate(client_id, client_secret)
 end
