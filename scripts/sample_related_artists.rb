@@ -52,3 +52,5 @@ end
 def save_artists_json_file(artist_ids)
   File.write('input/artists.json', JSON.pretty_generate(artist_ids))
 end
+
+main
