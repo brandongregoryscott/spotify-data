@@ -1,0 +1,33 @@
+{
+  "id": "2OlxKb0qAA5h5Mqp9RV7Vs",
+  "name": "SEDAMI",
+  "uri": "spotify:artist:2OlxKb0qAA5h5Mqp9RV7Vs",
+  "followers": {
+    "href": null,
+    "total": 512
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb249400635a82e42404f79660",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174249400635a82e42404f79660",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178249400635a82e42404f79660",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2OlxKb0qAA5h5Mqp9RV7Vs"
+  }
+}

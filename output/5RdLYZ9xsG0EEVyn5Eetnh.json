@@ -1,0 +1,34 @@
+{
+  "id": "5RdLYZ9xsG0EEVyn5Eetnh",
+  "name": "Pimeys",
+  "uri": "spotify:artist:5RdLYZ9xsG0EEVyn5Eetnh",
+  "followers": {
+    "href": null,
+    "total": 3476
+  },
+  "genres": [
+    "finnish indie",
+    "suomi rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebae7cf1d6ce85b931d943fee6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ae7cf1d6ce85b931d943fee6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ae7cf1d6ce85b931d943fee6",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5RdLYZ9xsG0EEVyn5Eetnh"
+  }
+}

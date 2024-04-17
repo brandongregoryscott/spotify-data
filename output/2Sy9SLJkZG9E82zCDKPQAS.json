@@ -1,0 +1,34 @@
+{
+  "id": "2Sy9SLJkZG9E82zCDKPQAS",
+  "name": "Vie",
+  "uri": "spotify:artist:2Sy9SLJkZG9E82zCDKPQAS",
+  "followers": {
+    "href": null,
+    "total": 3599
+  },
+  "genres": [
+    "pinoy metal",
+    "pinoy rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fbec24a8d18559c36d6d3654",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fbec24a8d18559c36d6d3654",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fbec24a8d18559c36d6d3654",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Sy9SLJkZG9E82zCDKPQAS"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "64EglJbWJQPpZsKM9liNOO",
+  "name": "The Fridays",
+  "uri": "spotify:artist:64EglJbWJQPpZsKM9liNOO",
+  "followers": {
+    "href": null,
+    "total": 323
+  },
+  "genres": [
+    "malaysian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb42dfad3438fcd085dc138549",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517442dfad3438fcd085dc138549",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17842dfad3438fcd085dc138549",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/64EglJbWJQPpZsKM9liNOO"
+  }
+}

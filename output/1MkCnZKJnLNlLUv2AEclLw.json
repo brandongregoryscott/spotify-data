@@ -1,0 +1,33 @@
+{
+  "id": "1MkCnZKJnLNlLUv2AEclLw",
+  "name": "Brooke Blair",
+  "uri": "spotify:artist:1MkCnZKJnLNlLUv2AEclLw",
+  "followers": {
+    "href": null,
+    "total": 792
+  },
+  "genres": [
+    "soundtrack"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c8e1c7197de8ab5d27a9a60c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c8e1c7197de8ab5d27a9a60c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c8e1c7197de8ab5d27a9a60c",
+      "width": 64
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1MkCnZKJnLNlLUv2AEclLw"
+  }
+}

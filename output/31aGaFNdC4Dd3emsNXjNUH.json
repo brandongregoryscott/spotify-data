@@ -1,0 +1,33 @@
+{
+  "id": "31aGaFNdC4Dd3emsNXjNUH",
+  "name": "Adrestia",
+  "uri": "spotify:artist:31aGaFNdC4Dd3emsNXjNUH",
+  "followers": {
+    "href": null,
+    "total": 1212
+  },
+  "genres": [
+    "neo-crust"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb365da696e00932afb25e630",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b365da696e00932afb25e630",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b365da696e00932afb25e630",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/31aGaFNdC4Dd3emsNXjNUH"
+  }
+}

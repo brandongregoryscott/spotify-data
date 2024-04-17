@@ -1,0 +1,33 @@
+{
+  "id": "5SXZ6X3xBqHw05uR9EuUut",
+  "name": "Stijn Hüwels",
+  "uri": "spotify:artist:5SXZ6X3xBqHw05uR9EuUut",
+  "followers": {
+    "href": null,
+    "total": 546
+  },
+  "genres": [
+    "belgian experimental"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfdf45fa2cad047cf84e69b7a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fdf45fa2cad047cf84e69b7a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fdf45fa2cad047cf84e69b7a",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5SXZ6X3xBqHw05uR9EuUut"
+  }
+}

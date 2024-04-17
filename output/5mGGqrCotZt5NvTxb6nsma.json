@@ -1,0 +1,34 @@
+{
+  "id": "5mGGqrCotZt5NvTxb6nsma",
+  "name": "Big Spring",
+  "uri": "spotify:artist:5mGGqrCotZt5NvTxb6nsma",
+  "followers": {
+    "href": null,
+    "total": 17036
+  },
+  "genres": [
+    "modern alternative rock",
+    "post-grunge"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb018fb16e15c5c4573b1c9f64",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174018fb16e15c5c4573b1c9f64",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178018fb16e15c5c4573b1c9f64",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5mGGqrCotZt5NvTxb6nsma"
+  }
+}

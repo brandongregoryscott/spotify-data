@@ -1,0 +1,35 @@
+{
+  "id": "0ThrQemMA2B8xxusTUl8IM",
+  "name": "Kandi",
+  "uri": "spotify:artist:0ThrQemMA2B8xxusTUl8IM",
+  "followers": {
+    "href": null,
+    "total": 204267
+  },
+  "genres": [
+    "contemporary r&b",
+    "hip pop",
+    "r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf6c4acab4c1cc0ac78c19339",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f6c4acab4c1cc0ac78c19339",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f6c4acab4c1cc0ac78c19339",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ThrQemMA2B8xxusTUl8IM"
+  }
+}

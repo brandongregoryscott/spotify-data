@@ -1,0 +1,33 @@
+{
+  "id": "4c5cp3LJ6G2zzDBpIfkVRt",
+  "name": "BOSHTX",
+  "uri": "spotify:artist:4c5cp3LJ6G2zzDBpIfkVRt",
+  "followers": {
+    "href": null,
+    "total": 888
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273662978827e973850bae0e236",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02662978827e973850bae0e236",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851662978827e973850bae0e236",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4c5cp3LJ6G2zzDBpIfkVRt"
+  }
+}

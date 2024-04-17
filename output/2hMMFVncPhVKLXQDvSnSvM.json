@@ -1,0 +1,34 @@
+{
+  "id": "2hMMFVncPhVKLXQDvSnSvM",
+  "name": "Vexxy",
+  "uri": "spotify:artist:2hMMFVncPhVKLXQDvSnSvM",
+  "followers": {
+    "href": null,
+    "total": 595
+  },
+  "genres": [
+    "neo grime",
+    "wave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd9e0be9404f7fb80d3e0be62",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d9e0be9404f7fb80d3e0be62",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d9e0be9404f7fb80d3e0be62",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2hMMFVncPhVKLXQDvSnSvM"
+  }
+}

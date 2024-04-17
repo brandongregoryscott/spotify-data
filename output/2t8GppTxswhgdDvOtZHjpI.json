@@ -1,0 +1,33 @@
+{
+  "id": "2t8GppTxswhgdDvOtZHjpI",
+  "name": "Fancy Vodka",
+  "uri": "spotify:artist:2t8GppTxswhgdDvOtZHjpI",
+  "followers": {
+    "href": null,
+    "total": 84
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273832a4eec6316d2f44be4d3d3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02832a4eec6316d2f44be4d3d3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851832a4eec6316d2f44be4d3d3",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2t8GppTxswhgdDvOtZHjpI"
+  }
+}

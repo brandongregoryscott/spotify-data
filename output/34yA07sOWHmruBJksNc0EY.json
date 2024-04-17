@@ -1,0 +1,33 @@
+{
+  "id": "34yA07sOWHmruBJksNc0EY",
+  "name": "onumi",
+  "uri": "spotify:artist:34yA07sOWHmruBJksNc0EY",
+  "followers": {
+    "href": null,
+    "total": 6274
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbc0899e5ce3e38b2b2a4e1c2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bc0899e5ce3e38b2b2a4e1c2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bc0899e5ce3e38b2b2a4e1c2",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/34yA07sOWHmruBJksNc0EY"
+  }
+}

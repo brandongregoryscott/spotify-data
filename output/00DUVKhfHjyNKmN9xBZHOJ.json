@@ -1,0 +1,33 @@
+{
+  "id": "00DUVKhfHjyNKmN9xBZHOJ",
+  "name": "LTHL",
+  "uri": "spotify:artist:00DUVKhfHjyNKmN9xBZHOJ",
+  "followers": {
+    "href": null,
+    "total": 662
+  },
+  "genres": [
+    "wave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfab6baeb815f972ad5c7adc4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fab6baeb815f972ad5c7adc4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fab6baeb815f972ad5c7adc4",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/00DUVKhfHjyNKmN9xBZHOJ"
+  }
+}

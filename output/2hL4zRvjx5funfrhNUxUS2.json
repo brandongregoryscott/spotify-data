@@ -1,0 +1,33 @@
+{
+  "id": "2hL4zRvjx5funfrhNUxUS2",
+  "name": "Peter Bibby",
+  "uri": "spotify:artist:2hL4zRvjx5funfrhNUxUS2",
+  "followers": {
+    "href": null,
+    "total": 8005
+  },
+  "genres": [
+    "australian garage punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb767bf310c3078dc4d2294cdd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174767bf310c3078dc4d2294cdd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178767bf310c3078dc4d2294cdd",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2hL4zRvjx5funfrhNUxUS2"
+  }
+}

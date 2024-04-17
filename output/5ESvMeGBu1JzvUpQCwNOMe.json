@@ -1,0 +1,33 @@
+{
+  "id": "5ESvMeGBu1JzvUpQCwNOMe",
+  "name": "js00",
+  "uri": "spotify:artist:5ESvMeGBu1JzvUpQCwNOMe",
+  "followers": {
+    "href": null,
+    "total": 61
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27374e87241638b3dcfb7da39e2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0274e87241638b3dcfb7da39e2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485174e87241638b3dcfb7da39e2",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ESvMeGBu1JzvUpQCwNOMe"
+  }
+}

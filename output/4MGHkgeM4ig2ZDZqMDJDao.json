@@ -1,0 +1,33 @@
+{
+  "id": "4MGHkgeM4ig2ZDZqMDJDao",
+  "name": "xtcstab",
+  "uri": "spotify:artist:4MGHkgeM4ig2ZDZqMDJDao",
+  "followers": {
+    "href": null,
+    "total": 192
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdde732d8034025c73bf080c1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dde732d8034025c73bf080c1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dde732d8034025c73bf080c1",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4MGHkgeM4ig2ZDZqMDJDao"
+  }
+}

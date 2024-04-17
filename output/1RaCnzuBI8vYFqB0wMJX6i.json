@@ -1,0 +1,33 @@
+{
+  "id": "1RaCnzuBI8vYFqB0wMJX6i",
+  "name": "Listok",
+  "uri": "spotify:artist:1RaCnzuBI8vYFqB0wMJX6i",
+  "followers": {
+    "href": null,
+    "total": 25
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f2964e51ff149c87be3a69b1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f2964e51ff149c87be3a69b1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f2964e51ff149c87be3a69b1",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1RaCnzuBI8vYFqB0wMJX6i"
+  }
+}

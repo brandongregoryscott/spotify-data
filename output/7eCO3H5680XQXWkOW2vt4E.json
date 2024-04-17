@@ -1,0 +1,33 @@
+{
+  "id": "7eCO3H5680XQXWkOW2vt4E",
+  "name": "no Filter",
+  "uri": "spotify:artist:7eCO3H5680XQXWkOW2vt4E",
+  "followers": {
+    "href": null,
+    "total": 372
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273382ebc33fb4e21620aa14495",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02382ebc33fb4e21620aa14495",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851382ebc33fb4e21620aa14495",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7eCO3H5680XQXWkOW2vt4E"
+  }
+}

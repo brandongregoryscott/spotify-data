@@ -1,0 +1,36 @@
+{
+  "id": "5BkXsfNLBm4G7L82WEBCfv",
+  "name": "Yona",
+  "uri": "spotify:artist:5BkXsfNLBm4G7L82WEBCfv",
+  "followers": {
+    "href": null,
+    "total": 14126
+  },
+  "genres": [
+    "finnish indie",
+    "finnish jazz",
+    "finnish pop",
+    "suomi rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb582f3d3ad11e4d36a4084438",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174582f3d3ad11e4d36a4084438",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178582f3d3ad11e4d36a4084438",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5BkXsfNLBm4G7L82WEBCfv"
+  }
+}

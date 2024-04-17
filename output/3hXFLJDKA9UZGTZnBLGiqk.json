@@ -1,0 +1,33 @@
+{
+  "id": "3hXFLJDKA9UZGTZnBLGiqk",
+  "name": "Embercore",
+  "uri": "spotify:artist:3hXFLJDKA9UZGTZnBLGiqk",
+  "followers": {
+    "href": null,
+    "total": 418
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f7d1270d1b18eba1c993f2fc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f7d1270d1b18eba1c993f2fc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f7d1270d1b18eba1c993f2fc",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3hXFLJDKA9UZGTZnBLGiqk"
+  }
+}

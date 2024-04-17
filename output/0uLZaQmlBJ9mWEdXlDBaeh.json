@@ -1,0 +1,33 @@
+{
+  "id": "0uLZaQmlBJ9mWEdXlDBaeh",
+  "name": "SKUPPIN",
+  "uri": "spotify:artist:0uLZaQmlBJ9mWEdXlDBaeh",
+  "followers": {
+    "href": null,
+    "total": 1686
+  },
+  "genres": [
+    "neue neue deutsche welle"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebea9553feb775f0a6f9d4a480",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ea9553feb775f0a6f9d4a480",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ea9553feb775f0a6f9d4a480",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0uLZaQmlBJ9mWEdXlDBaeh"
+  }
+}

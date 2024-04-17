@@ -1,0 +1,34 @@
+{
+  "id": "3I3Fz1DeUY0icXFvOjbXm7",
+  "name": "Methyl Ethel",
+  "uri": "spotify:artist:3I3Fz1DeUY0icXFvOjbXm7",
+  "followers": {
+    "href": null,
+    "total": 123823
+  },
+  "genres": [
+    "australian indie",
+    "australian indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbd5927434f8a64b9bb124cb0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bd5927434f8a64b9bb124cb0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bd5927434f8a64b9bb124cb0",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3I3Fz1DeUY0icXFvOjbXm7"
+  }
+}

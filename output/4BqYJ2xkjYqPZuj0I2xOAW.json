@@ -1,0 +1,33 @@
+{
+  "id": "4BqYJ2xkjYqPZuj0I2xOAW",
+  "name": "1Psion",
+  "uri": "spotify:artist:4BqYJ2xkjYqPZuj0I2xOAW",
+  "followers": {
+    "href": null,
+    "total": 1680
+  },
+  "genres": [
+    "scenecore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd65c97b4f4aedb1e3bce92e5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d65c97b4f4aedb1e3bce92e5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d65c97b4f4aedb1e3bce92e5",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4BqYJ2xkjYqPZuj0I2xOAW"
+  }
+}

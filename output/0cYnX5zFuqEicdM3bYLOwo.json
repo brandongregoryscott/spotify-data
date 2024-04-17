@@ -1,0 +1,33 @@
+{
+  "id": "0cYnX5zFuqEicdM3bYLOwo",
+  "name": "Tom Lyngcoln",
+  "uri": "spotify:artist:0cYnX5zFuqEicdM3bYLOwo",
+  "followers": {
+    "href": null,
+    "total": 318
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738c64ca11c0fb881e4a6c6dd4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028c64ca11c0fb881e4a6c6dd4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518c64ca11c0fb881e4a6c6dd4",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0cYnX5zFuqEicdM3bYLOwo"
+  }
+}

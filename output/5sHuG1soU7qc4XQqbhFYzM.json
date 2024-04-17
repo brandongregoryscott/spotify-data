@@ -1,0 +1,34 @@
+{
+  "id": "5sHuG1soU7qc4XQqbhFYzM",
+  "name": "Jato",
+  "uri": "spotify:artist:5sHuG1soU7qc4XQqbhFYzM",
+  "followers": {
+    "href": null,
+    "total": 493
+  },
+  "genres": [
+    "neo grime",
+    "wave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe5e010d40a3770a08c9ce8cf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e5e010d40a3770a08c9ce8cf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e5e010d40a3770a08c9ce8cf",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5sHuG1soU7qc4XQqbhFYzM"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5LUWT4N8psgsaPEZYqXewe",
+  "name": "CISCO",
+  "uri": "spotify:artist:5LUWT4N8psgsaPEZYqXewe",
+  "followers": {
+    "href": null,
+    "total": 86
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcfedb0e6f03cf9c53330ef1f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cfedb0e6f03cf9c53330ef1f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cfedb0e6f03cf9c53330ef1f",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5LUWT4N8psgsaPEZYqXewe"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4evRrow82RSUTDOq9Vl9tu",
+  "name": "herz.",
+  "uri": "spotify:artist:4evRrow82RSUTDOq9Vl9tu",
+  "followers": {
+    "href": null,
+    "total": 1502
+  },
+  "genres": [
+    "neue neue deutsche welle"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb881595c2399736e2caec72e0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174881595c2399736e2caec72e0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178881595c2399736e2caec72e0",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4evRrow82RSUTDOq9Vl9tu"
+  }
+}

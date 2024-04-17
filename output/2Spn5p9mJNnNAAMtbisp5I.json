@@ -1,0 +1,33 @@
+{
+  "id": "2Spn5p9mJNnNAAMtbisp5I",
+  "name": "Ill State",
+  "uri": "spotify:artist:2Spn5p9mJNnNAAMtbisp5I",
+  "followers": {
+    "href": null,
+    "total": 260
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bac2b9ca18e9ef32ca10de38",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bac2b9ca18e9ef32ca10de38",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bac2b9ca18e9ef32ca10de38",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Spn5p9mJNnNAAMtbisp5I"
+  }
+}

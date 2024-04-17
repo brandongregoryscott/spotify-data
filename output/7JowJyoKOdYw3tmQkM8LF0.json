@@ -1,0 +1,33 @@
+{
+  "id": "7JowJyoKOdYw3tmQkM8LF0",
+  "name": "Modulo 1000",
+  "uri": "spotify:artist:7JowJyoKOdYw3tmQkM8LF0",
+  "followers": {
+    "href": null,
+    "total": 1898
+  },
+  "genres": [
+    "psicodelia brasileira"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27363be1fecf94b0c298efbb5af",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0263be1fecf94b0c298efbb5af",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485163be1fecf94b0c298efbb5af",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7JowJyoKOdYw3tmQkM8LF0"
+  }
+}

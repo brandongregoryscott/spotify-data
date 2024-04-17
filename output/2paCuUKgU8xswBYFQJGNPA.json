@@ -1,0 +1,33 @@
+{
+  "id": "2paCuUKgU8xswBYFQJGNPA",
+  "name": "Gray Acres",
+  "uri": "spotify:artist:2paCuUKgU8xswBYFQJGNPA",
+  "followers": {
+    "href": null,
+    "total": 248
+  },
+  "genres": [
+    "drone ambient"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f403a65d3915f9164183e4c9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f403a65d3915f9164183e4c9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485142ffe6f70b5b81ba4a69b739",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2paCuUKgU8xswBYFQJGNPA"
+  }
+}

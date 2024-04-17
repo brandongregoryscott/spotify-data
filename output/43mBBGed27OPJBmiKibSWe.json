@@ -1,0 +1,33 @@
+{
+  "id": "43mBBGed27OPJBmiKibSWe",
+  "name": "Intrinsic Action",
+  "uri": "spotify:artist:43mBBGed27OPJBmiKibSWe",
+  "followers": {
+    "href": null,
+    "total": 258
+  },
+  "genres": [
+    "power electronics"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731bab9a9e6e965ef9a1640814",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021bab9a9e6e965ef9a1640814",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511bab9a9e6e965ef9a1640814",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/43mBBGed27OPJBmiKibSWe"
+  }
+}

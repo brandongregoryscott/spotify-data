@@ -1,0 +1,33 @@
+{
+  "id": "30iOgrPV86QMnMsPOJYHOJ",
+  "name": "Mauricio Redoles",
+  "uri": "spotify:artist:30iOgrPV86QMnMsPOJYHOJ",
+  "followers": {
+    "href": null,
+    "total": 31931
+  },
+  "genres": [
+    "chilean rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb02b27a3b085b3c67b9e276a1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517402b27a3b085b3c67b9e276a1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17802b27a3b085b3c67b9e276a1",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/30iOgrPV86QMnMsPOJYHOJ"
+  }
+}

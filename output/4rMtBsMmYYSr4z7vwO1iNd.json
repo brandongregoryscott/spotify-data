@@ -1,0 +1,33 @@
+{
+  "id": "4rMtBsMmYYSr4z7vwO1iNd",
+  "name": "Wishbone Wednesday",
+  "uri": "spotify:artist:4rMtBsMmYYSr4z7vwO1iNd",
+  "followers": {
+    "href": null,
+    "total": 752
+  },
+  "genres": [
+    "pinoy pop punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb216d9d2d017af42bf0f3d759",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174216d9d2d017af42bf0f3d759",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178216d9d2d017af42bf0f3d759",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4rMtBsMmYYSr4z7vwO1iNd"
+  }
+}

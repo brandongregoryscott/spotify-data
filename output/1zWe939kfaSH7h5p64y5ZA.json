@@ -1,0 +1,33 @@
+{
+  "id": "1zWe939kfaSH7h5p64y5ZA",
+  "name": "To Begin Anew",
+  "uri": "spotify:artist:1zWe939kfaSH7h5p64y5ZA",
+  "followers": {
+    "href": null,
+    "total": 594
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebccc981bfe9e4dd9098a0e7f2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ccc981bfe9e4dd9098a0e7f2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ccc981bfe9e4dd9098a0e7f2",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1zWe939kfaSH7h5p64y5ZA"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2hJ5WKq9RUpQyzNJZqlzPM",
+  "name": "SEE",
+  "uri": "spotify:artist:2hJ5WKq9RUpQyzNJZqlzPM",
+  "followers": {
+    "href": null,
+    "total": 920
+  },
+  "genres": [
+    "vocaloid rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb7bb8c403e105b549e89a4d7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b7bb8c403e105b549e89a4d7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b7bb8c403e105b549e89a4d7",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2hJ5WKq9RUpQyzNJZqlzPM"
+  }
+}

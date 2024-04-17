@@ -1,0 +1,33 @@
+{
+  "id": "7mjSNAQOuUcGOkkVpNioWo",
+  "name": "Hisser",
+  "uri": "spotify:artist:7mjSNAQOuUcGOkkVpNioWo",
+  "followers": {
+    "href": null,
+    "total": 755
+  },
+  "genres": [
+    "finnish electro"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27399104d91995913055b9b790e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0299104d91995913055b9b790e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485199104d91995913055b9b790e",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7mjSNAQOuUcGOkkVpNioWo"
+  }
+}

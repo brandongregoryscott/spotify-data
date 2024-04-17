@@ -1,0 +1,34 @@
+{
+  "id": "2bvztHh7wnuRLZAwLZwpBa",
+  "name": "Revus",
+  "uri": "spotify:artist:2bvztHh7wnuRLZAwLZwpBa",
+  "followers": {
+    "href": null,
+    "total": 12666
+  },
+  "genres": [
+    "nz gangsta rap",
+    "polynesian hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb74e9b0428df978d60a372ec1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517474e9b0428df978d60a372ec1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17874e9b0428df978d60a372ec1",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2bvztHh7wnuRLZAwLZwpBa"
+  }
+}

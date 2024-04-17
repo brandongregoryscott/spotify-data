@@ -1,0 +1,35 @@
+{
+  "id": "05YQdfjpG35u5fmVn7Y0sc",
+  "name": "Copywrite",
+  "uri": "spotify:artist:05YQdfjpG35u5fmVn7Y0sc",
+  "followers": {
+    "href": null,
+    "total": 16364
+  },
+  "genres": [
+    "abstract hip hop",
+    "ohio hip hop",
+    "underground rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27308c24be20c5c30cbe1d48d2c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0208c24be20c5c30cbe1d48d2c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485108c24be20c5c30cbe1d48d2c",
+      "width": 64
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05YQdfjpG35u5fmVn7Y0sc"
+  }
+}

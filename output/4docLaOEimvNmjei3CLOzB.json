@@ -1,0 +1,33 @@
+{
+  "id": "4docLaOEimvNmjei3CLOzB",
+  "name": "Dosser",
+  "uri": "spotify:artist:4docLaOEimvNmjei3CLOzB",
+  "followers": {
+    "href": null,
+    "total": 3715
+  },
+  "genres": [
+    "grungegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb69832a0c540f599d87a1dc43",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517469832a0c540f599d87a1dc43",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17869832a0c540f599d87a1dc43",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4docLaOEimvNmjei3CLOzB"
+  }
+}

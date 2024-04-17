@@ -1,0 +1,33 @@
+{
+  "id": "2dZ3f1hTxiEwpbjf2lRQhs",
+  "name": "Charlie Hill",
+  "uri": "spotify:artist:2dZ3f1hTxiEwpbjf2lRQhs",
+  "followers": {
+    "href": null,
+    "total": 190
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1044a724f114ef34e6ffd0a6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051741044a724f114ef34e6ffd0a6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1781044a724f114ef34e6ffd0a6",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2dZ3f1hTxiEwpbjf2lRQhs"
+  }
+}

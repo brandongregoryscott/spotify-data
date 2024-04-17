@@ -1,0 +1,33 @@
+{
+  "id": "1t9m1YUfnEk7fV6haZkaPJ",
+  "name": "Jeff Grace",
+  "uri": "spotify:artist:1t9m1YUfnEk7fV6haZkaPJ",
+  "followers": {
+    "href": null,
+    "total": 1728
+  },
+  "genres": [
+    "soundtrack"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dee5e0c4fbe25331711764f1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dee5e0c4fbe25331711764f1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dee5e0c4fbe25331711764f1",
+      "width": 64
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1t9m1YUfnEk7fV6haZkaPJ"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0FhKmu8JYGs5UfS9FbUz2s",
+  "name": "The Deals",
+  "uri": "spotify:artist:0FhKmu8JYGs5UfS9FbUz2s",
+  "followers": {
+    "href": null,
+    "total": 166
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb0c256a21d3dc83dbf1aee45",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b0c256a21d3dc83dbf1aee45",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b0c256a21d3dc83dbf1aee45",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0FhKmu8JYGs5UfS9FbUz2s"
+  }
+}

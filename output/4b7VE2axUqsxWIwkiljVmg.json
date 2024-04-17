@@ -1,0 +1,33 @@
+{
+  "id": "4b7VE2axUqsxWIwkiljVmg",
+  "name": "Ataxy",
+  "uri": "spotify:artist:4b7VE2axUqsxWIwkiljVmg",
+  "followers": {
+    "href": null,
+    "total": 211
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb72fff8b9ea56eab284a00eda",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517472fff8b9ea56eab284a00eda",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17872fff8b9ea56eab284a00eda",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4b7VE2axUqsxWIwkiljVmg"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0WYvA210NtwIrcDXzOwjGK",
+  "name": "ISOLATOR",
+  "uri": "spotify:artist:0WYvA210NtwIrcDXzOwjGK",
+  "followers": {
+    "href": null,
+    "total": 786
+  },
+  "genres": [
+    "kentucky metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb53c93cf8317dc637c2a3bfd7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517453c93cf8317dc637c2a3bfd7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17853c93cf8317dc637c2a3bfd7",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0WYvA210NtwIrcDXzOwjGK"
+  }
+}

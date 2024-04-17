@@ -1,0 +1,33 @@
+{
+  "id": "6gjDBh7u6FRvNq5FZY37zk",
+  "name": "Islands",
+  "uri": "spotify:artist:6gjDBh7u6FRvNq5FZY37zk",
+  "followers": {
+    "href": null,
+    "total": 425
+  },
+  "genres": [
+    "malaysian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb30939734c02eb88b13fa823a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517430939734c02eb88b13fa823a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17830939734c02eb88b13fa823a",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6gjDBh7u6FRvNq5FZY37zk"
+  }
+}

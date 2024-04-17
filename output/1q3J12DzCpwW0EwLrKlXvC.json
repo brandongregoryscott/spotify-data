@@ -1,0 +1,36 @@
+{
+  "id": "1q3J12DzCpwW0EwLrKlXvC",
+  "name": "Ave Sangria",
+  "uri": "spotify:artist:1q3J12DzCpwW0EwLrKlXvC",
+  "followers": {
+    "href": null,
+    "total": 37057
+  },
+  "genres": [
+    "brazilian indie",
+    "manguebeat",
+    "psicodelia brasileira",
+    "rock pernambucano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb19b8121268412955ab72302e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517419b8121268412955ab72302e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17819b8121268412955ab72302e",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1q3J12DzCpwW0EwLrKlXvC"
+  }
+}

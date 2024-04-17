@@ -1,0 +1,33 @@
+{
+  "id": "4OjXYxBc7OdWErvM66nUUs",
+  "name": "Ultra",
+  "uri": "spotify:artist:4OjXYxBc7OdWErvM66nUUs",
+  "followers": {
+    "href": null,
+    "total": 126
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273724a6b3c8575e1b1e7d766f0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02724a6b3c8575e1b1e7d766f0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851724a6b3c8575e1b1e7d766f0",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4OjXYxBc7OdWErvM66nUUs"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2wT2aFm5SwtNnUqOzZ8QtC",
+  "name": "Marina Bravo",
+  "uri": "spotify:artist:2wT2aFm5SwtNnUqOzZ8QtC",
+  "followers": {
+    "href": null,
+    "total": 109
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbef9d8caed175ccbc4baa61b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bef9d8caed175ccbc4baa61b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bef9d8caed175ccbc4baa61b",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2wT2aFm5SwtNnUqOzZ8QtC"
+  }
+}

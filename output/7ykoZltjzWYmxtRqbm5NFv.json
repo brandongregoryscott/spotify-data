@@ -1,0 +1,33 @@
+{
+  "id": "7ykoZltjzWYmxtRqbm5NFv",
+  "name": "Rino",
+  "uri": "spotify:artist:7ykoZltjzWYmxtRqbm5NFv",
+  "followers": {
+    "href": null,
+    "total": 1036
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731e9d2554e3e89ba1502fcaa5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021e9d2554e3e89ba1502fcaa5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511e9d2554e3e89ba1502fcaa5",
+      "width": 64
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ykoZltjzWYmxtRqbm5NFv"
+  }
+}

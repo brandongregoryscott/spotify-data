@@ -1,0 +1,33 @@
+{
+  "id": "7hIJZT3HNriAXmEFQgQhY0",
+  "name": "Letelefono",
+  "uri": "spotify:artist:7hIJZT3HNriAXmEFQgQhY0",
+  "followers": {
+    "href": null,
+    "total": 5674
+  },
+  "genres": [
+    "ecuadorian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba6a4062a62d1c231fb19dedf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a6a4062a62d1c231fb19dedf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a6a4062a62d1c231fb19dedf",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7hIJZT3HNriAXmEFQgQhY0"
+  }
+}

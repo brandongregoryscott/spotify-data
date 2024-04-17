@@ -1,0 +1,33 @@
+{
+  "id": "1CRdBDZeT3VrUYr0db3DY6",
+  "name": "para",
+  "uri": "spotify:artist:1CRdBDZeT3VrUYr0db3DY6",
+  "followers": {
+    "href": null,
+    "total": 63
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf34c143866e655798fc9a8d5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f34c143866e655798fc9a8d5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f34c143866e655798fc9a8d5",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1CRdBDZeT3VrUYr0db3DY6"
+  }
+}

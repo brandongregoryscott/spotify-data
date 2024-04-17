@@ -1,0 +1,33 @@
+{
+  "id": "6YT8OB3iuoB58qaSmP0bgt",
+  "name": "Fort Hope",
+  "uri": "spotify:artist:6YT8OB3iuoB58qaSmP0bgt",
+  "followers": {
+    "href": null,
+    "total": 12326
+  },
+  "genres": [
+    "british alternative rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb531956f283cfbd10dab86308",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174531956f283cfbd10dab86308",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178531956f283cfbd10dab86308",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6YT8OB3iuoB58qaSmP0bgt"
+  }
+}

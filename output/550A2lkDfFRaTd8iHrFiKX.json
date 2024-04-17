@@ -1,0 +1,33 @@
+{
+  "id": "550A2lkDfFRaTd8iHrFiKX",
+  "name": "Tadeo Martin",
+  "uri": "spotify:artist:550A2lkDfFRaTd8iHrFiKX",
+  "followers": {
+    "href": null,
+    "total": 254
+  },
+  "genres": [
+    "indie trujillano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb29e1a80fdd1773d6e51b420f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517429e1a80fdd1773d6e51b420f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17829e1a80fdd1773d6e51b420f",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/550A2lkDfFRaTd8iHrFiKX"
+  }
+}

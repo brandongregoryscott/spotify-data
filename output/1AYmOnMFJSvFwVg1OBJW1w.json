@@ -1,0 +1,33 @@
+{
+  "id": "1AYmOnMFJSvFwVg1OBJW1w",
+  "name": "vxgore",
+  "uri": "spotify:artist:1AYmOnMFJSvFwVg1OBJW1w",
+  "followers": {
+    "href": null,
+    "total": 609
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd383b6ada7037dec688c6b9d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d383b6ada7037dec688c6b9d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d383b6ada7037dec688c6b9d",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1AYmOnMFJSvFwVg1OBJW1w"
+  }
+}

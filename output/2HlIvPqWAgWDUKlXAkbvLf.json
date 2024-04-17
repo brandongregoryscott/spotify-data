@@ -1,0 +1,33 @@
+{
+  "id": "2HlIvPqWAgWDUKlXAkbvLf",
+  "name": "fourteendays",
+  "uri": "spotify:artist:2HlIvPqWAgWDUKlXAkbvLf",
+  "followers": {
+    "href": null,
+    "total": 272
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb60eb72d27c0b7b046fa4fc91",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517460eb72d27c0b7b046fa4fc91",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17860eb72d27c0b7b046fa4fc91",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2HlIvPqWAgWDUKlXAkbvLf"
+  }
+}

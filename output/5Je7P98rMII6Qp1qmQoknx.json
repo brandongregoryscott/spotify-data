@@ -1,0 +1,33 @@
+{
+  "id": "5Je7P98rMII6Qp1qmQoknx",
+  "name": "Buice",
+  "uri": "spotify:artist:5Je7P98rMII6Qp1qmQoknx",
+  "followers": {
+    "href": null,
+    "total": 812
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb82d2f2a6386277e19f9d20c0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517482d2f2a6386277e19f9d20c0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17882d2f2a6386277e19f9d20c0",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Je7P98rMII6Qp1qmQoknx"
+  }
+}

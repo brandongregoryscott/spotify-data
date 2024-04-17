@@ -1,0 +1,33 @@
+{
+  "id": "1nFIcq4d0x65BXqoChD97h",
+  "name": "LABRADOR",
+  "uri": "spotify:artist:1nFIcq4d0x65BXqoChD97h",
+  "followers": {
+    "href": null,
+    "total": 145
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb945cf920263e4ce6d59cb487",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174945cf920263e4ce6d59cb487",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178945cf920263e4ce6d59cb487",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1nFIcq4d0x65BXqoChD97h"
+  }
+}

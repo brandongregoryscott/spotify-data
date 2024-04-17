@@ -1,0 +1,35 @@
+{
+  "id": "5Y55TU0ItptdRFIKyKKQCB",
+  "name": "Bobby's Oar",
+  "uri": "spotify:artist:5Y55TU0ItptdRFIKyKKQCB",
+  "followers": {
+    "href": null,
+    "total": 2185
+  },
+  "genres": [
+    "acoustic punk",
+    "folk punk",
+    "seattle indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebccacb4dfcfe7733d07cd0f5c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ccacb4dfcfe7733d07cd0f5c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ccacb4dfcfe7733d07cd0f5c",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Y55TU0ItptdRFIKyKKQCB"
+  }
+}

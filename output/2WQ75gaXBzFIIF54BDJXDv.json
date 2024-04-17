@@ -1,0 +1,33 @@
+{
+  "id": "2WQ75gaXBzFIIF54BDJXDv",
+  "name": "Calm",
+  "uri": "spotify:artist:2WQ75gaXBzFIIF54BDJXDv",
+  "followers": {
+    "href": null,
+    "total": 7205
+  },
+  "genres": [
+    "japanese jazztronica"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731e937d9fd7c97df0416a2a78",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021e937d9fd7c97df0416a2a78",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511e937d9fd7c97df0416a2a78",
+      "width": 64
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2WQ75gaXBzFIIF54BDJXDv"
+  }
+}

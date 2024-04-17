@@ -1,0 +1,33 @@
+{
+  "id": "1sgjRSBP1ij45SrUmvuLJq",
+  "name": "Interlaker",
+  "uri": "spotify:artist:1sgjRSBP1ij45SrUmvuLJq",
+  "followers": {
+    "href": null,
+    "total": 669
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb80e58941904de96d14b38a56",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517480e58941904de96d14b38a56",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17880e58941904de96d14b38a56",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1sgjRSBP1ij45SrUmvuLJq"
+  }
+}

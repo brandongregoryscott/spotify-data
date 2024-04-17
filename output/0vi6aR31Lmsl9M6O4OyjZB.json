@@ -1,0 +1,33 @@
+{
+  "id": "0vi6aR31Lmsl9M6O4OyjZB",
+  "name": "RINN",
+  "uri": "spotify:artist:0vi6aR31Lmsl9M6O4OyjZB",
+  "followers": {
+    "href": null,
+    "total": 625
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf6c5851fcf576d034bb4e8ec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f6c5851fcf576d034bb4e8ec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f6c5851fcf576d034bb4e8ec",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0vi6aR31Lmsl9M6O4OyjZB"
+  }
+}

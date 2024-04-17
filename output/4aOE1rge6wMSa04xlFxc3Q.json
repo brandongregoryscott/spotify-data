@@ -1,0 +1,33 @@
+{
+  "id": "4aOE1rge6wMSa04xlFxc3Q",
+  "name": "Aparato Raro",
+  "uri": "spotify:artist:4aOE1rge6wMSa04xlFxc3Q",
+  "followers": {
+    "href": null,
+    "total": 5036
+  },
+  "genres": [
+    "chilean rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27388a1791b4d19aa744a383c6b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0288a1791b4d19aa744a383c6b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485188a1791b4d19aa744a383c6b",
+      "width": 64
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4aOE1rge6wMSa04xlFxc3Q"
+  }
+}

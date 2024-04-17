@@ -1,0 +1,33 @@
+{
+  "id": "3jQXBLOvPOOEqPMcHhks2w",
+  "name": "JoshuaSageArt",
+  "uri": "spotify:artist:3jQXBLOvPOOEqPMcHhks2w",
+  "followers": {
+    "href": null,
+    "total": 950
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb031b4445069ab8834f5bd95b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174031b4445069ab8834f5bd95b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178031b4445069ab8834f5bd95b",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3jQXBLOvPOOEqPMcHhks2w"
+  }
+}

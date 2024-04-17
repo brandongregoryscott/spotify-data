@@ -1,0 +1,34 @@
+{
+  "id": "1nwPEi1UZdJtCxBqATpsq3",
+  "name": "Ruby Fields",
+  "uri": "spotify:artist:1nwPEi1UZdJtCxBqATpsq3",
+  "followers": {
+    "href": null,
+    "total": 69129
+  },
+  "genres": [
+    "australian garage punk",
+    "australian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdd33a36d0c88ac3d73dcf02c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dd33a36d0c88ac3d73dcf02c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dd33a36d0c88ac3d73dcf02c",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1nwPEi1UZdJtCxBqATpsq3"
+  }
+}

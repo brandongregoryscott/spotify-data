@@ -1,0 +1,33 @@
+{
+  "id": "0enAGojcsXqLHUqj7tmnpl",
+  "name": "Les Rencards",
+  "uri": "spotify:artist:0enAGojcsXqLHUqj7tmnpl",
+  "followers": {
+    "href": null,
+    "total": 399
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732c6be37275ae7d1ff5bacca5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022c6be37275ae7d1ff5bacca5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512c6be37275ae7d1ff5bacca5",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0enAGojcsXqLHUqj7tmnpl"
+  }
+}
