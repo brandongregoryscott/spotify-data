@@ -10,7 +10,9 @@ def main
   authenticate
 
   artist_ids = read_artists_json_file
-  artist_ids.sample(50).each do |artist_id|
+  sampled_artist_ids = artist_ids.sample(50)
+  puts JSON.pretty_generate(sampled_artist_ids)
+  sampled_artist_ids.each do |artist_id|
     related_artist_ids = find_related_artists(artist_id)
     artist_ids.concat(related_artist_ids)
   end
@@ -20,6 +22,7 @@ end
 
 def find_related_artists(artist_id, attempt = 1)
   related_artists = RSpotify::Artist.new({ 'id' => artist_id }).related_artists
+  puts "Related artists for #{artist_ids}: #{related_artists.size}"
   related_artist_ids = related_artists.map(&:id)
   puts JSON.pretty_generate(related_artist_ids)
   related_artist_ids
