@@ -10,22 +10,24 @@ def main
   authenticate
 
   artist_ids = read_artists_json_file
-  artist_ids.sample(50).each do |artist_id|
-    related_artist_ids = find_related_artists(artist_id)
+  sampled_artist_ids = artist_ids.sample(50)
+  artists = RSpotify::Artist.find(sampled_artist_ids)
+  artists.each do |artist|
+    related_artist_ids = find_related_artists(artist)
     artist_ids.concat(related_artist_ids)
   end
 
   save_artists_json_file(artist_ids.uniq)
 end
 
-def find_related_artists(artist_id, attempt = 1)
-  related_artists = RSpotify::Artist.new({ 'id' => artist_id }).related_artists
+def find_related_artists(artist, attempt = 1)
+  related_artists = artist.related_artists
   related_artists.map(&:id)
 rescue RestClient::TooManyRequests, RestClient::ServiceUnavailable
   max_sleep_seconds = Float(2**attempt)
   sleep rand(0..max_sleep_seconds)
   authenticate
-  find_related_artists(artist_id, attempt + 1) if attempt < MAX_RETRIES
+  find_related_artists(artist, attempt + 1) if attempt < MAX_RETRIES
 end
 
 def authenticate
@@ -34,7 +36,7 @@ def authenticate
 
   select_first_key = rand < 0.5
   client_id = select_first_key ? client_ids.first : client_ids.last
-  client_secret = select_first_key ? client_secrets.first : client_ids.last
+  client_secret = select_first_key ? client_secrets.first : client_secrets.last
 
   RSpotify.authenticate(client_id, client_secret)
 end
@@ -47,3 +49,5 @@ end
 def save_artists_json_file(artist_ids)
   File.write('input/artists.json', JSON.pretty_generate(artist_ids))
 end
+
+main
