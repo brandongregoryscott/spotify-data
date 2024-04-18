@@ -1,0 +1,33 @@
+{
+  "id": "6355F2FNYPddvNc3sYcaOq",
+  "name": "Mr. Rose",
+  "uri": "spotify:artist:6355F2FNYPddvNc3sYcaOq",
+  "followers": {
+    "href": null,
+    "total": 76
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cd5abf17749e09584640516d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cd5abf17749e09584640516d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cd5abf17749e09584640516d",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6355F2FNYPddvNc3sYcaOq"
+  }
+}

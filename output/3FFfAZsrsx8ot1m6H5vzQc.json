@@ -1,0 +1,33 @@
+{
+  "id": "3FFfAZsrsx8ot1m6H5vzQc",
+  "name": "Zukenee",
+  "uri": "spotify:artist:3FFfAZsrsx8ot1m6H5vzQc",
+  "followers": {
+    "href": null,
+    "total": 820
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738345f3bcc1795727011fb4bf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028345f3bcc1795727011fb4bf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518345f3bcc1795727011fb4bf",
+      "width": 64
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc"
+  }
+}

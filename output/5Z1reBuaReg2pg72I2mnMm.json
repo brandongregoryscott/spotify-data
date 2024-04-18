@@ -1,0 +1,40 @@
+{
+  "id": "5Z1reBuaReg2pg72I2mnMm",
+  "name": "Dave Hollister",
+  "uri": "spotify:artist:5Z1reBuaReg2pg72I2mnMm",
+  "followers": {
+    "href": null,
+    "total": 459280
+  },
+  "genres": [
+    "contemporary r&b",
+    "new jack swing",
+    "r&b"
+  ],
+  "images": [
+    {
+      "height": 689,
+      "url": "https://i.scdn.co/image/666fd526b51f4b656282305716b759840ac852f4",
+      "width": 1000
+    },
+    {
+      "height": 441,
+      "url": "https://i.scdn.co/image/c5a60a55f7e40610c01373e684bafd1258bf132c",
+      "width": 640
+    },
+    {
+      "height": 138,
+      "url": "https://i.scdn.co/image/c00786e8eab8eb6a6623d5ab394ffad08994dfd7",
+      "width": 200
+    },
+    {
+      "height": 44,
+      "url": "https://i.scdn.co/image/af920d4641fe0a3b32f734c51bb6066ef92c2a36",
+      "width": 64
+    }
+  ],
+  "popularity": 39,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Z1reBuaReg2pg72I2mnMm"
+  }
+}

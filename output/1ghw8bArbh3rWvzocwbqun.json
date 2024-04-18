@@ -1,0 +1,33 @@
+{
+  "id": "1ghw8bArbh3rWvzocwbqun",
+  "name": "Lur:",
+  "uri": "spotify:artist:1ghw8bArbh3rWvzocwbqun",
+  "followers": {
+    "href": null,
+    "total": 1326
+  },
+  "genres": [
+    "chinese post-punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb20379927ab9f4bac6fbe6aee",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517420379927ab9f4bac6fbe6aee",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17820379927ab9f4bac6fbe6aee",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ghw8bArbh3rWvzocwbqun"
+  }
+}

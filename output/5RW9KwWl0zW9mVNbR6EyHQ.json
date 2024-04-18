@@ -1,0 +1,33 @@
+{
+  "id": "5RW9KwWl0zW9mVNbR6EyHQ",
+  "name": "R8",
+  "uri": "spotify:artist:5RW9KwWl0zW9mVNbR6EyHQ",
+  "followers": {
+    "href": null,
+    "total": 133
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc26563986809724ef9f02b59",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c26563986809724ef9f02b59",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c26563986809724ef9f02b59",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5RW9KwWl0zW9mVNbR6EyHQ"
+  }
+}

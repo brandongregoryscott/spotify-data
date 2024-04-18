@@ -1,0 +1,33 @@
+{
+  "id": "4G0WRtZBIg6hq08XTqGIcg",
+  "name": "шампур",
+  "uri": "spotify:artist:4G0WRtZBIg6hq08XTqGIcg",
+  "followers": {
+    "href": null,
+    "total": 188
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273daad72df3acde500bd6b8d4d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02daad72df3acde500bd6b8d4d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851daad72df3acde500bd6b8d4d",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4G0WRtZBIg6hq08XTqGIcg"
+  }
+}

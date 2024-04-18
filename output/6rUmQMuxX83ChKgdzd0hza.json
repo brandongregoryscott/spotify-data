@@ -1,0 +1,33 @@
+{
+  "id": "6rUmQMuxX83ChKgdzd0hza",
+  "name": "Jon Fay",
+  "uri": "spotify:artist:6rUmQMuxX83ChKgdzd0hza",
+  "followers": {
+    "href": null,
+    "total": 699
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273266ea4f5455c01eb53ce1b15",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02266ea4f5455c01eb53ce1b15",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851266ea4f5455c01eb53ce1b15",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6rUmQMuxX83ChKgdzd0hza"
+  }
+}

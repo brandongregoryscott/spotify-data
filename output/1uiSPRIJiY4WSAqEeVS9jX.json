@@ -1,0 +1,33 @@
+{
+  "id": "1uiSPRIJiY4WSAqEeVS9jX",
+  "name": "Gash",
+  "uri": "spotify:artist:1uiSPRIJiY4WSAqEeVS9jX",
+  "followers": {
+    "href": null,
+    "total": 493
+  },
+  "genres": [
+    "eau claire indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf4ba6a0df4e136dde90cb346",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f4ba6a0df4e136dde90cb346",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f4ba6a0df4e136dde90cb346",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1uiSPRIJiY4WSAqEeVS9jX"
+  }
+}

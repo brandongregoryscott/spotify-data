@@ -1,0 +1,33 @@
+{
+  "id": "1zfUT9C1g3fB6h2T94I9D3",
+  "name": "Rokkai",
+  "uri": "spotify:artist:1zfUT9C1g3fB6h2T94I9D3",
+  "followers": {
+    "href": null,
+    "total": 409
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc42d3c0d3e71bdb8f4386e55",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c42d3c0d3e71bdb8f4386e55",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c42d3c0d3e71bdb8f4386e55",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1zfUT9C1g3fB6h2T94I9D3"
+  }
+}

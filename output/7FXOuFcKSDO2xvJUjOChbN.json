@@ -1,0 +1,33 @@
+{
+  "id": "7FXOuFcKSDO2xvJUjOChbN",
+  "name": "imdeemo",
+  "uri": "spotify:artist:7FXOuFcKSDO2xvJUjOChbN",
+  "followers": {
+    "href": null,
+    "total": 364
+  },
+  "genres": [
+    "sigilkore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273262de5c04339c6e88921787c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02262de5c04339c6e88921787c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851262de5c04339c6e88921787c",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7FXOuFcKSDO2xvJUjOChbN"
+  }
+}

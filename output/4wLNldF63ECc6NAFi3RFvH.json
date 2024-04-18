@@ -1,0 +1,33 @@
+{
+  "id": "4wLNldF63ECc6NAFi3RFvH",
+  "name": "Gibraltar",
+  "uri": "spotify:artist:4wLNldF63ECc6NAFi3RFvH",
+  "followers": {
+    "href": null,
+    "total": 646
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27339efdb2e87e101354e46a6b6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0239efdb2e87e101354e46a6b6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485139efdb2e87e101354e46a6b6",
+      "width": 64
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4wLNldF63ECc6NAFi3RFvH"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3EkGNKaBVm7VfjyWUAL5PT",
+  "name": "nWolex",
+  "uri": "spotify:artist:3EkGNKaBVm7VfjyWUAL5PT",
+  "followers": {
+    "href": null,
+    "total": 627
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb86b1010bb4be4c0545e82cff",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517486b1010bb4be4c0545e82cff",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17886b1010bb4be4c0545e82cff",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3EkGNKaBVm7VfjyWUAL5PT"
+  }
+}

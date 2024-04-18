@@ -1,0 +1,34 @@
+{
+  "id": "30eE9RmXxzCcZKTf4N2O0e",
+  "name": "Jensen Interceptor",
+  "uri": "spotify:artist:30eE9RmXxzCcZKTf4N2O0e",
+  "followers": {
+    "href": null,
+    "total": 21731
+  },
+  "genres": [
+    "australian techno",
+    "destroy techno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb09f8f17d31cc148bc5d5d088",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517409f8f17d31cc148bc5d5d088",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17809f8f17d31cc148bc5d5d088",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/30eE9RmXxzCcZKTf4N2O0e"
+  }
+}

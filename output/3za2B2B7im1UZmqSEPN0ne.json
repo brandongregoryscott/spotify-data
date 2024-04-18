@@ -1,0 +1,33 @@
+{
+  "id": "3za2B2B7im1UZmqSEPN0ne",
+  "name": "Dog Years",
+  "uri": "spotify:artist:3za2B2B7im1UZmqSEPN0ne",
+  "followers": {
+    "href": null,
+    "total": 262
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebec550505d1ba0895ae4dbdf1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ec550505d1ba0895ae4dbdf1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ec550505d1ba0895ae4dbdf1",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3za2B2B7im1UZmqSEPN0ne"
+  }
+}

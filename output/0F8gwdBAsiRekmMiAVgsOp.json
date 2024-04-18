@@ -1,0 +1,33 @@
+{
+  "id": "0F8gwdBAsiRekmMiAVgsOp",
+  "name": "El Trainn",
+  "uri": "spotify:artist:0F8gwdBAsiRekmMiAVgsOp",
+  "followers": {
+    "href": null,
+    "total": 5023
+  },
+  "genres": [
+    "houston rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273872567a9b71116f68423effb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02872567a9b71116f68423effb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851872567a9b71116f68423effb",
+      "width": 64
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0F8gwdBAsiRekmMiAVgsOp"
+  }
+}

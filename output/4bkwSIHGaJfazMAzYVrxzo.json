@@ -1,0 +1,33 @@
+{
+  "id": "4bkwSIHGaJfazMAzYVrxzo",
+  "name": "Pat Muresan",
+  "uri": "spotify:artist:4bkwSIHGaJfazMAzYVrxzo",
+  "followers": {
+    "href": null,
+    "total": 623
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb96071417769d7b07955eb1a1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517496071417769d7b07955eb1a1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17896071417769d7b07955eb1a1",
+      "width": 160
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4bkwSIHGaJfazMAzYVrxzo"
+  }
+}

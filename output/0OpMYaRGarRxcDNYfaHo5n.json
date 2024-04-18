@@ -1,0 +1,33 @@
+{
+  "id": "0OpMYaRGarRxcDNYfaHo5n",
+  "name": "Re:",
+  "uri": "spotify:artist:0OpMYaRGarRxcDNYfaHo5n",
+  "followers": {
+    "href": null,
+    "total": 687
+  },
+  "genres": [
+    "canadian experimental"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273356ef8e049ab895953e12d5f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02356ef8e049ab895953e12d5f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851356ef8e049ab895953e12d5f",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0OpMYaRGarRxcDNYfaHo5n"
+  }
+}

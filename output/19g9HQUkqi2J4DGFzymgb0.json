@@ -1,0 +1,33 @@
+{
+  "id": "19g9HQUkqi2J4DGFzymgb0",
+  "name": "MoreThanSilence",
+  "uri": "spotify:artist:19g9HQUkqi2J4DGFzymgb0",
+  "followers": {
+    "href": null,
+    "total": 93
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8f03e30f2c2463fbc3c764fd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051748f03e30f2c2463fbc3c764fd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1788f03e30f2c2463fbc3c764fd",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/19g9HQUkqi2J4DGFzymgb0"
+  }
+}

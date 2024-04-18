@@ -1,0 +1,33 @@
+{
+  "id": "4WTymWdiozAHK5MmRrXKbL",
+  "name": "personplacething",
+  "uri": "spotify:artist:4WTymWdiozAHK5MmRrXKbL",
+  "followers": {
+    "href": null,
+    "total": 1225
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebac140123fa9dd89f7d474b84",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ac140123fa9dd89f7d474b84",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ac140123fa9dd89f7d474b84",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4WTymWdiozAHK5MmRrXKbL"
+  }
+}

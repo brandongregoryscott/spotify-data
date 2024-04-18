@@ -1,0 +1,33 @@
+{
+  "id": "1h6ogzeiIfZjngJRvKb0CV",
+  "name": "Louser",
+  "uri": "spotify:artist:1h6ogzeiIfZjngJRvKb0CV",
+  "followers": {
+    "href": null,
+    "total": 733
+  },
+  "genres": [
+    "modern ska punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb64013d997ba59953b0a5c065",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517464013d997ba59953b0a5c065",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17864013d997ba59953b0a5c065",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1h6ogzeiIfZjngJRvKb0CV"
+  }
+}

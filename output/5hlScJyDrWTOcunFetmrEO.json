@@ -1,0 +1,33 @@
+{
+  "id": "5hlScJyDrWTOcunFetmrEO",
+  "name": "丟萊卡",
+  "uri": "spotify:artist:5hlScJyDrWTOcunFetmrEO",
+  "followers": {
+    "href": null,
+    "total": 4939
+  },
+  "genres": [
+    "chinese indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27377efa6b59d560bc913d24298",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0277efa6b59d560bc913d24298",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485177efa6b59d560bc913d24298",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5hlScJyDrWTOcunFetmrEO"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "3agKdKHnxjtEBH9poKgYzn",
+  "name": "US:WE",
+  "uri": "spotify:artist:3agKdKHnxjtEBH9poKgYzn",
+  "followers": {
+    "href": null,
+    "total": 940
+  },
+  "genres": [
+    "taiwan post-rock",
+    "taiwan rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731c1264352145c46e52b903e6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021c1264352145c46e52b903e6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511c1264352145c46e52b903e6",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3agKdKHnxjtEBH9poKgYzn"
+  }
+}

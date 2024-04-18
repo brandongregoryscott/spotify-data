@@ -1,0 +1,33 @@
+{
+  "id": "1yx7HUETsdOE9oP6ISSVSX",
+  "name": "Ripship",
+  "uri": "spotify:artist:1yx7HUETsdOE9oP6ISSVSX",
+  "followers": {
+    "href": null,
+    "total": 406
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb41ab341e02afeb6ff35f682a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517441ab341e02afeb6ff35f682a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17841ab341e02afeb6ff35f682a",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1yx7HUETsdOE9oP6ISSVSX"
+  }
+}

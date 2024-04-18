@@ -1,0 +1,33 @@
+{
+  "id": "1NoGcpTKLJUn542KTKrS0A",
+  "name": "parallel21",
+  "uri": "spotify:artist:1NoGcpTKLJUn542KTKrS0A",
+  "followers": {
+    "href": null,
+    "total": 258
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf34dd6ae38aa3821fce496b9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f34dd6ae38aa3821fce496b9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f34dd6ae38aa3821fce496b9",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1NoGcpTKLJUn542KTKrS0A"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0Cf61dBT2Tl6zWH3xT1mIP",
+  "name": "SAAH",
+  "uri": "spotify:artist:0Cf61dBT2Tl6zWH3xT1mIP",
+  "followers": {
+    "href": null,
+    "total": 2567
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb3966640d3b2d4bf8c75beee",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b3966640d3b2d4bf8c75beee",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b3966640d3b2d4bf8c75beee",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Cf61dBT2Tl6zWH3xT1mIP"
+  }
+}

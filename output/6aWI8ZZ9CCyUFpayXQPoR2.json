@@ -1,0 +1,33 @@
+{
+  "id": "6aWI8ZZ9CCyUFpayXQPoR2",
+  "name": "日向文",
+  "uri": "spotify:artist:6aWI8ZZ9CCyUFpayXQPoR2",
+  "followers": {
+    "href": null,
+    "total": 4880
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcfd37e5ba0b538d3dc6cfab8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cfd37e5ba0b538d3dc6cfab8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cfd37e5ba0b538d3dc6cfab8",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6aWI8ZZ9CCyUFpayXQPoR2"
+  }
+}

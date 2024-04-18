@@ -1,0 +1,33 @@
+{
+  "id": "4kocfIZfGRrsL4OFYoGUpV",
+  "name": "Login Records",
+  "uri": "spotify:artist:4kocfIZfGRrsL4OFYoGUpV",
+  "followers": {
+    "href": null,
+    "total": 1417
+  },
+  "genres": [
+    "touhou"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738cb45279b0900c3c0a29331f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028cb45279b0900c3c0a29331f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518cb45279b0900c3c0a29331f",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4kocfIZfGRrsL4OFYoGUpV"
+  }
+}

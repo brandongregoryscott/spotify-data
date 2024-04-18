@@ -1,0 +1,33 @@
+{
+  "id": "0fK4AFH5LwvaNcHSRw9u4R",
+  "name": "Hail Gail",
+  "uri": "spotify:artist:0fK4AFH5LwvaNcHSRw9u4R",
+  "followers": {
+    "href": null,
+    "total": 230
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb86127391e6fd3b6573b347a1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517486127391e6fd3b6573b347a1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17886127391e6fd3b6573b347a1",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0fK4AFH5LwvaNcHSRw9u4R"
+  }
+}

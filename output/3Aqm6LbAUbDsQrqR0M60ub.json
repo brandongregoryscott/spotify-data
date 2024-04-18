@@ -1,0 +1,34 @@
+{
+  "id": "3Aqm6LbAUbDsQrqR0M60ub",
+  "name": "Marino",
+  "uri": "spotify:artist:3Aqm6LbAUbDsQrqR0M60ub",
+  "followers": {
+    "href": null,
+    "total": 1052
+  },
+  "genres": [
+    "mexican pop punk",
+    "punk rock mexicano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaaa2c41c3f214bdea313a78d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aaa2c41c3f214bdea313a78d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aaa2c41c3f214bdea313a78d",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Aqm6LbAUbDsQrqR0M60ub"
+  }
+}

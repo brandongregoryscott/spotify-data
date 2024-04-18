@@ -1,0 +1,33 @@
+{
+  "id": "54SsnRDMPGZdIZtrqCUxCe",
+  "name": "Greymane",
+  "uri": "spotify:artist:54SsnRDMPGZdIZtrqCUxCe",
+  "followers": {
+    "href": null,
+    "total": 830
+  },
+  "genres": [
+    "swedish trap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb762d93585977efb5fa5b1726",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174762d93585977efb5fa5b1726",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178762d93585977efb5fa5b1726",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/54SsnRDMPGZdIZtrqCUxCe"
+  }
+}

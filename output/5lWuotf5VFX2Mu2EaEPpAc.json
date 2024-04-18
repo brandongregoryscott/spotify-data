@@ -1,0 +1,34 @@
+{
+  "id": "5lWuotf5VFX2Mu2EaEPpAc",
+  "name": "Chain Rank",
+  "uri": "spotify:artist:5lWuotf5VFX2Mu2EaEPpAc",
+  "followers": {
+    "href": null,
+    "total": 1595
+  },
+  "genres": [
+    "boston hardcore",
+    "chain punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c91ba5054390af31cc7da9b5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c91ba5054390af31cc7da9b5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c91ba5054390af31cc7da9b5",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5lWuotf5VFX2Mu2EaEPpAc"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "5iRM7qYip6UNfQaPe2reCz",
+  "name": "Barney Artist",
+  "uri": "spotify:artist:5iRM7qYip6UNfQaPe2reCz",
+  "followers": {
+    "href": null,
+    "total": 50076
+  },
+  "genres": [
+    "indie soul",
+    "uk alternative hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb87e8b2ad1da39d7a4e6a248f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517487e8b2ad1da39d7a4e6a248f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17887e8b2ad1da39d7a4e6a248f",
+      "width": 160
+    }
+  ],
+  "popularity": 43,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5iRM7qYip6UNfQaPe2reCz"
+  }
+}

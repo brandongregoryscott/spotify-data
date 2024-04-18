@@ -1,0 +1,34 @@
+{
+  "id": "3cvT82FVElcs4E8MBwKgV8",
+  "name": "NUNO",
+  "uri": "spotify:artist:3cvT82FVElcs4E8MBwKgV8",
+  "followers": {
+    "href": null,
+    "total": 4956
+  },
+  "genres": [
+    "indie queretano",
+    "mexican pop punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb89930a45ab7cf51daca7b446",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517489930a45ab7cf51daca7b446",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17889930a45ab7cf51daca7b446",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8"
+  }
+}

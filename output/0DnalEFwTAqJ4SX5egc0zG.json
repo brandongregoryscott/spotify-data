@@ -1,0 +1,34 @@
+{
+  "id": "0DnalEFwTAqJ4SX5egc0zG",
+  "name": "mobilegirl",
+  "uri": "spotify:artist:0DnalEFwTAqJ4SX5egc0zG",
+  "followers": {
+    "href": null,
+    "total": 5241
+  },
+  "genres": [
+    "electra",
+    "grimewave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb83cce8f60b806dcaf2e9f7f3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517483cce8f60b806dcaf2e9f7f3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17883cce8f60b806dcaf2e9f7f3",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0DnalEFwTAqJ4SX5egc0zG"
+  }
+}

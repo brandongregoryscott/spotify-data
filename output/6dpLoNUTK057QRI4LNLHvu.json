@@ -1,0 +1,33 @@
+{
+  "id": "6dpLoNUTK057QRI4LNLHvu",
+  "name": "Saigg",
+  "uri": "spotify:artist:6dpLoNUTK057QRI4LNLHvu",
+  "followers": {
+    "href": null,
+    "total": 276
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736cdd0505318f56d5e9e57e54",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026cdd0505318f56d5e9e57e54",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516cdd0505318f56d5e9e57e54",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6dpLoNUTK057QRI4LNLHvu"
+  }
+}

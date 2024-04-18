@@ -1,0 +1,33 @@
+{
+  "id": "0A5hWmrfSIIExWIb1bsWlo",
+  "name": "Kid Liberty",
+  "uri": "spotify:artist:0A5hWmrfSIIExWIb1bsWlo",
+  "followers": {
+    "href": null,
+    "total": 9534
+  },
+  "genres": [
+    "easycore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb54db2b951bde8f23516c434a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517454db2b951bde8f23516c434a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17854db2b951bde8f23516c434a",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0A5hWmrfSIIExWIb1bsWlo"
+  }
+}

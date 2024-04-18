@@ -1,0 +1,33 @@
+{
+  "id": "201ZiXJkynWx3SAV9fJm4R",
+  "name": "KATA",
+  "uri": "spotify:artist:201ZiXJkynWx3SAV9fJm4R",
+  "followers": {
+    "href": null,
+    "total": 250
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8232c8afc4f949630fb7118a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051748232c8afc4f949630fb7118a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1788232c8afc4f949630fb7118a",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/201ZiXJkynWx3SAV9fJm4R"
+  }
+}

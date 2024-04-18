@@ -1,0 +1,33 @@
+{
+  "id": "1BEFfDquf0mT2aeXTYXS0e",
+  "name": "Concrete Control",
+  "uri": "spotify:artist:1BEFfDquf0mT2aeXTYXS0e",
+  "followers": {
+    "href": null,
+    "total": 292
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb04d61166054b39eafc4a0daa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517404d61166054b39eafc4a0daa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17804d61166054b39eafc4a0daa",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1BEFfDquf0mT2aeXTYXS0e"
+  }
+}
