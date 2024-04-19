@@ -1,0 +1,33 @@
+{
+  "id": "0oVlTNbzIp9xpBQMF4IFUs",
+  "name": "DPOS",
+  "uri": "spotify:artist:0oVlTNbzIp9xpBQMF4IFUs",
+  "followers": {
+    "href": null,
+    "total": 2226
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7e1b42e04e3c0ba82ada7875",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051747e1b42e04e3c0ba82ada7875",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1787e1b42e04e3c0ba82ada7875",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0oVlTNbzIp9xpBQMF4IFUs"
+  }
+}

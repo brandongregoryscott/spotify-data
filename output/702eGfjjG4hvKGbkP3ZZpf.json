@@ -1,0 +1,33 @@
+{
+  "id": "702eGfjjG4hvKGbkP3ZZpf",
+  "name": "The Dartmoors",
+  "uri": "spotify:artist:702eGfjjG4hvKGbkP3ZZpf",
+  "followers": {
+    "href": null,
+    "total": 704
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb73af46a49b440c800acefdc0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517473af46a49b440c800acefdc0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17873af46a49b440c800acefdc0",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/702eGfjjG4hvKGbkP3ZZpf"
+  }
+}

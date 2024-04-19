@@ -1,0 +1,33 @@
+{
+  "id": "0UaVP3EGBx7xPki5PfjVZG",
+  "name": "ben das",
+  "uri": "spotify:artist:0UaVP3EGBx7xPki5PfjVZG",
+  "followers": {
+    "href": null,
+    "total": 142
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebefcfb5df328db82ee6e3384d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174efcfb5df328db82ee6e3384d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178efcfb5df328db82ee6e3384d",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0UaVP3EGBx7xPki5PfjVZG"
+  }
+}

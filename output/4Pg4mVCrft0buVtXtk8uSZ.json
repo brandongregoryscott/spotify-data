@@ -1,0 +1,33 @@
+{
+  "id": "4Pg4mVCrft0buVtXtk8uSZ",
+  "name": "xel",
+  "uri": "spotify:artist:4Pg4mVCrft0buVtXtk8uSZ",
+  "followers": {
+    "href": null,
+    "total": 67
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb03f1171a2c165f6e6574a100",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517403f1171a2c165f6e6574a100",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17803f1171a2c165f6e6574a100",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Pg4mVCrft0buVtXtk8uSZ"
+  }
+}

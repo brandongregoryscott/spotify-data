@@ -1,0 +1,33 @@
+{
+  "id": "2kL4FtJjdvtsu00oH2HuoH",
+  "name": "Summrs local",
+  "uri": "spotify:artist:2kL4FtJjdvtsu00oH2HuoH",
+  "followers": {
+    "href": null,
+    "total": 28
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd84f3570207dc250b098f42e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d84f3570207dc250b098f42e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d84f3570207dc250b098f42e",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2kL4FtJjdvtsu00oH2HuoH"
+  }
+}

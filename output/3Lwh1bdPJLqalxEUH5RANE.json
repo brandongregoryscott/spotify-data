@@ -1,0 +1,33 @@
+{
+  "id": "3Lwh1bdPJLqalxEUH5RANE",
+  "name": "Joseph McFashion",
+  "uri": "spotify:artist:3Lwh1bdPJLqalxEUH5RANE",
+  "followers": {
+    "href": null,
+    "total": 16463
+  },
+  "genres": [
+    "detroit trap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb127537e017c90a43578256bc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174127537e017c90a43578256bc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178127537e017c90a43578256bc",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Lwh1bdPJLqalxEUH5RANE"
+  }
+}

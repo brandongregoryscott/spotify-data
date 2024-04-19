@@ -1,0 +1,33 @@
+{
+  "id": "5uuxFVRgOLR3lmiRDgNlQN",
+  "name": "Brendan Kush",
+  "uri": "spotify:artist:5uuxFVRgOLR3lmiRDgNlQN",
+  "followers": {
+    "href": null,
+    "total": 260
+  },
+  "genres": [
+    "hyperpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb32b85916673eaefcd7c62ff9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517432b85916673eaefcd7c62ff9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17832b85916673eaefcd7c62ff9",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5uuxFVRgOLR3lmiRDgNlQN"
+  }
+}

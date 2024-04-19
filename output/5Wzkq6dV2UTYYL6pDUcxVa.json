@@ -1,0 +1,33 @@
+{
+  "id": "5Wzkq6dV2UTYYL6pDUcxVa",
+  "name": "Jamie Grant",
+  "uri": "spotify:artist:5Wzkq6dV2UTYYL6pDUcxVa",
+  "followers": {
+    "href": null,
+    "total": 430
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdd9d12bfd676c132b2d32e6a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dd9d12bfd676c132b2d32e6a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dd9d12bfd676c132b2d32e6a",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Wzkq6dV2UTYYL6pDUcxVa"
+  }
+}

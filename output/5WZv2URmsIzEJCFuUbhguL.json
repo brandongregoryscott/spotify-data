@@ -1,0 +1,33 @@
+{
+  "id": "5WZv2URmsIzEJCFuUbhguL",
+  "name": "Barnes & Barnes",
+  "uri": "spotify:artist:5WZv2URmsIzEJCFuUbhguL",
+  "followers": {
+    "href": null,
+    "total": 3072
+  },
+  "genres": [
+    "novelty"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27364a85c91c4920f6ea0ddf697",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0264a85c91c4920f6ea0ddf697",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485164a85c91c4920f6ea0ddf697",
+      "width": 64
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5WZv2URmsIzEJCFuUbhguL"
+  }
+}

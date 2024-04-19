@@ -1,0 +1,33 @@
+{
+  "id": "0Wej8DbEZbjRc9kXgN5isZ",
+  "name": "OOcarpet",
+  "uri": "spotify:artist:0Wej8DbEZbjRc9kXgN5isZ",
+  "followers": {
+    "href": null,
+    "total": 981
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba7f94fd847f65c93d7ff18f4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a7f94fd847f65c93d7ff18f4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a7f94fd847f65c93d7ff18f4",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Wej8DbEZbjRc9kXgN5isZ"
+  }
+}

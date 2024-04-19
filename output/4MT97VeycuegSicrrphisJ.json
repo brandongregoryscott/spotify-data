@@ -1,0 +1,36 @@
+{
+  "id": "4MT97VeycuegSicrrphisJ",
+  "name": "Mint Condition",
+  "uri": "spotify:artist:4MT97VeycuegSicrrphisJ",
+  "followers": {
+    "href": null,
+    "total": 746149
+  },
+  "genres": [
+    "contemporary r&b",
+    "minneapolis sound",
+    "new jack swing",
+    "r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf51b09ac5f27c662c74d5268",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f51b09ac5f27c662c74d5268",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f51b09ac5f27c662c74d5268",
+      "width": 160
+    }
+  ],
+  "popularity": 50,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2B1vFfrtORGBQQdIKAckkw",
+  "name": "Tenka",
+  "uri": "spotify:artist:2B1vFfrtORGBQQdIKAckkw",
+  "followers": {
+    "href": null,
+    "total": 1667
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb52ef37889652f1c17e1b51de",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517452ef37889652f1c17e1b51de",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17852ef37889652f1c17e1b51de",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2B1vFfrtORGBQQdIKAckkw"
+  }
+}

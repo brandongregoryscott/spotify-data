@@ -1,0 +1,33 @@
+{
+  "id": "0Mh6SMzzbjKlZfSbVOuQ5C",
+  "name": "Pounds",
+  "uri": "spotify:artist:0Mh6SMzzbjKlZfSbVOuQ5C",
+  "followers": {
+    "href": null,
+    "total": 612
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27340474e80b7b424d4bb904861",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0240474e80b7b424d4bb904861",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485140474e80b7b424d4bb904861",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Mh6SMzzbjKlZfSbVOuQ5C"
+  }
+}

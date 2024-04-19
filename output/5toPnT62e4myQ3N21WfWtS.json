@@ -1,0 +1,34 @@
+{
+  "id": "5toPnT62e4myQ3N21WfWtS",
+  "name": "The Hypothesis",
+  "uri": "spotify:artist:5toPnT62e4myQ3N21WfWtS",
+  "followers": {
+    "href": null,
+    "total": 3679
+  },
+  "genres": [
+    "finnish death metal",
+    "finnish melodeath"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebba4131f66aba8eea6b9950db",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ba4131f66aba8eea6b9950db",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ba4131f66aba8eea6b9950db",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5toPnT62e4myQ3N21WfWtS"
+  }
+}

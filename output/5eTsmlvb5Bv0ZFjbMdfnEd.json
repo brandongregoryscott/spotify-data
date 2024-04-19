@@ -1,0 +1,33 @@
+{
+  "id": "5eTsmlvb5Bv0ZFjbMdfnEd",
+  "name": "bludkin",
+  "uri": "spotify:artist:5eTsmlvb5Bv0ZFjbMdfnEd",
+  "followers": {
+    "href": null,
+    "total": 93
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ec6933540013025cbbbcc68e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ec6933540013025cbbbcc68e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ec6933540013025cbbbcc68e",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5eTsmlvb5Bv0ZFjbMdfnEd"
+  }
+}

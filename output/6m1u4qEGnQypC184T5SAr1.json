@@ -1,0 +1,33 @@
+{
+  "id": "6m1u4qEGnQypC184T5SAr1",
+  "name": "ILLUMINA",
+  "uri": "spotify:artist:6m1u4qEGnQypC184T5SAr1",
+  "followers": {
+    "href": null,
+    "total": 173
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ee9db49c3fcb7c5747cc3dda",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ee9db49c3fcb7c5747cc3dda",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ee9db49c3fcb7c5747cc3dda",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6m1u4qEGnQypC184T5SAr1"
+  }
+}

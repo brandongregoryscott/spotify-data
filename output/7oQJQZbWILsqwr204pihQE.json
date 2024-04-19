@@ -1,0 +1,33 @@
+{
+  "id": "7oQJQZbWILsqwr204pihQE",
+  "name": "New Saint",
+  "uri": "spotify:artist:7oQJQZbWILsqwr204pihQE",
+  "followers": {
+    "href": null,
+    "total": 581
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba3d0a98dd786bd8d2ffe7c0c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a3d0a98dd786bd8d2ffe7c0c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a3d0a98dd786bd8d2ffe7c0c",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7oQJQZbWILsqwr204pihQE"
+  }
+}

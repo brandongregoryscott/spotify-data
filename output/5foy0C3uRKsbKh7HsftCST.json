@@ -1,0 +1,35 @@
+{
+  "id": "5foy0C3uRKsbKh7HsftCST",
+  "name": "Fallstar",
+  "uri": "spotify:artist:5foy0C3uRKsbKh7HsftCST",
+  "followers": {
+    "href": null,
+    "total": 8365
+  },
+  "genres": [
+    "christian hardcore",
+    "christian metal",
+    "christian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb09b6c94d61de9042f533a445",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517409b6c94d61de9042f533a445",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17809b6c94d61de9042f533a445",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5foy0C3uRKsbKh7HsftCST"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4L2n1xvdqgPgQjYxLHUAbG",
+  "name": "DJ Phil",
+  "uri": "spotify:artist:4L2n1xvdqgPgQjYxLHUAbG",
+  "followers": {
+    "href": null,
+    "total": 721
+  },
+  "genres": [
+    "footwork"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb81ef92faa63530eb09c10560",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517481ef92faa63530eb09c10560",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17881ef92faa63530eb09c10560",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4L2n1xvdqgPgQjYxLHUAbG"
+  }
+}

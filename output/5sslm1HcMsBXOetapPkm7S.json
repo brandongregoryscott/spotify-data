@@ -1,0 +1,33 @@
+{
+  "id": "5sslm1HcMsBXOetapPkm7S",
+  "name": "Brayan Rojitas",
+  "uri": "spotify:artist:5sslm1HcMsBXOetapPkm7S",
+  "followers": {
+    "href": null,
+    "total": 333
+  },
+  "genres": [
+    "future funk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb33e510226eb0b15ce28e3e7d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517433e510226eb0b15ce28e3e7d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17833e510226eb0b15ce28e3e7d",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5sslm1HcMsBXOetapPkm7S"
+  }
+}

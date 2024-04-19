@@ -1,0 +1,33 @@
+{
+  "id": "6nROk16MDNiZPAgvsuC3uF",
+  "name": "Maria Olsen",
+  "uri": "spotify:artist:6nROk16MDNiZPAgvsuC3uF",
+  "followers": {
+    "href": null,
+    "total": 263
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe21d3705071f4c504877d8f3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e21d3705071f4c504877d8f3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e21d3705071f4c504877d8f3",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6nROk16MDNiZPAgvsuC3uF"
+  }
+}

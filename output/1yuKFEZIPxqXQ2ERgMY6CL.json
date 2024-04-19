@@ -1,0 +1,33 @@
+{
+  "id": "1yuKFEZIPxqXQ2ERgMY6CL",
+  "name": "Idder",
+  "uri": "spotify:artist:1yuKFEZIPxqXQ2ERgMY6CL",
+  "followers": {
+    "href": null,
+    "total": 34
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27321411673fe07648911cdc372",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0221411673fe07648911cdc372",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485121411673fe07648911cdc372",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1yuKFEZIPxqXQ2ERgMY6CL"
+  }
+}

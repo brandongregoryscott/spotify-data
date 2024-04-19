@@ -1,0 +1,33 @@
+{
+  "id": "01OiCTlJ616vj9Z3dwBKAB",
+  "name": "Fit to Work",
+  "uri": "spotify:artist:01OiCTlJ616vj9Z3dwBKAB",
+  "followers": {
+    "href": null,
+    "total": 236
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfbf58c9caad4dd43786e0bdd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fbf58c9caad4dd43786e0bdd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fbf58c9caad4dd43786e0bdd",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01OiCTlJ616vj9Z3dwBKAB"
+  }
+}

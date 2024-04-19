@@ -1,0 +1,33 @@
+{
+  "id": "3DNuPdlD8aYL6F9WqYsIN1",
+  "name": "Bonjour Suzuki",
+  "uri": "spotify:artist:3DNuPdlD8aYL6F9WqYsIN1",
+  "followers": {
+    "href": null,
+    "total": 8669
+  },
+  "genres": [
+    "josei rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb700b3f4cc9d15056533b4070",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174700b3f4cc9d15056533b4070",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178700b3f4cc9d15056533b4070",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3DNuPdlD8aYL6F9WqYsIN1"
+  }
+}

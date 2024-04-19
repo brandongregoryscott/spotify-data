@@ -1,0 +1,33 @@
+{
+  "id": "2RegXWbcImnGXLeg4n0J3q",
+  "name": "Flørist",
+  "uri": "spotify:artist:2RegXWbcImnGXLeg4n0J3q",
+  "followers": {
+    "href": null,
+    "total": 1371
+  },
+  "genres": [
+    "canadian house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735904e8bcdb4ed70e5896ef12",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025904e8bcdb4ed70e5896ef12",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515904e8bcdb4ed70e5896ef12",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2RegXWbcImnGXLeg4n0J3q"
+  }
+}

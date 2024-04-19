@@ -1,0 +1,33 @@
+{
+  "id": "6bzVssrhwM9PFpRQRmDkBg",
+  "name": "Parellax",
+  "uri": "spotify:artist:6bzVssrhwM9PFpRQRmDkBg",
+  "followers": {
+    "href": null,
+    "total": 312
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba70102ae9133c3e08c51e529",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a70102ae9133c3e08c51e529",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a70102ae9133c3e08c51e529",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6bzVssrhwM9PFpRQRmDkBg"
+  }
+}

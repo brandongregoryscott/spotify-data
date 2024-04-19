@@ -1,0 +1,33 @@
+{
+  "id": "1fZETSSYKqKOPmzIYUqPMI",
+  "name": "No Sun Rises",
+  "uri": "spotify:artist:1fZETSSYKqKOPmzIYUqPMI",
+  "followers": {
+    "href": null,
+    "total": 1334
+  },
+  "genres": [
+    "neo-crust"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcd50a4c455c5fe74853268f4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cd50a4c455c5fe74853268f4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cd50a4c455c5fe74853268f4",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1fZETSSYKqKOPmzIYUqPMI"
+  }
+}

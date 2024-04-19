@@ -1,0 +1,33 @@
+{
+  "id": "2Gs7BD30qbRxsHQdxPbQvK",
+  "name": "Svpaj",
+  "uri": "spotify:artist:2Gs7BD30qbRxsHQdxPbQvK",
+  "followers": {
+    "href": null,
+    "total": 404
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb857680d608db3b1fecbc33c5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174857680d608db3b1fecbc33c5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178857680d608db3b1fecbc33c5",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Gs7BD30qbRxsHQdxPbQvK"
+  }
+}

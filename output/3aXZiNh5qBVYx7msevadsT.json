@@ -1,0 +1,33 @@
+{
+  "id": "3aXZiNh5qBVYx7msevadsT",
+  "name": "Brightburn",
+  "uri": "spotify:artist:3aXZiNh5qBVYx7msevadsT",
+  "followers": {
+    "href": null,
+    "total": 736
+  },
+  "genres": [
+    "texas metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd5b25a02531c4478a86e9d02",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d5b25a02531c4478a86e9d02",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d5b25a02531c4478a86e9d02",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3aXZiNh5qBVYx7msevadsT"
+  }
+}

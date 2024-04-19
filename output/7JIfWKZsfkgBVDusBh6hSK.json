@@ -1,0 +1,33 @@
+{
+  "id": "7JIfWKZsfkgBVDusBh6hSK",
+  "name": "Lil Ket",
+  "uri": "spotify:artist:7JIfWKZsfkgBVDusBh6hSK",
+  "followers": {
+    "href": null,
+    "total": 77
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebde38d1d6e207b64e31d2679d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174de38d1d6e207b64e31d2679d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178de38d1d6e207b64e31d2679d",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7JIfWKZsfkgBVDusBh6hSK"
+  }
+}

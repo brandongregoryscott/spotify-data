@@ -1,0 +1,37 @@
+{
+  "id": "3jO7X5KupvwmWTHGtHgcgo",
+  "name": "Charly García",
+  "uri": "spotify:artist:3jO7X5KupvwmWTHGtHgcgo",
+  "followers": {
+    "href": null,
+    "total": 1739466
+  },
+  "genres": [
+    "argentine rock",
+    "latin alternative",
+    "latin rock",
+    "post-punk argentina",
+    "rock en espanol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd25ab3ee01527706a3b47cc6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d25ab3ee01527706a3b47cc6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d25ab3ee01527706a3b47cc6",
+      "width": 160
+    }
+  ],
+  "popularity": 66,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1ect9T3ebMopsPCTbFc9uV",
+  "name": "Mene",
+  "uri": "spotify:artist:1ect9T3ebMopsPCTbFc9uV",
+  "followers": {
+    "href": null,
+    "total": 196
+  },
+  "genres": [
+    "argentine ambient"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd00276ee97a17dd42a061dfa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d00276ee97a17dd42a061dfa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d00276ee97a17dd42a061dfa",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ect9T3ebMopsPCTbFc9uV"
+  }
+}

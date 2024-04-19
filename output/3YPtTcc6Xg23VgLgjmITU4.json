@@ -1,0 +1,33 @@
+{
+  "id": "3YPtTcc6Xg23VgLgjmITU4",
+  "name": "Mayke",
+  "uri": "spotify:artist:3YPtTcc6Xg23VgLgjmITU4",
+  "followers": {
+    "href": null,
+    "total": 70
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb27e34e90727b85fc9f27a038",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517427e34e90727b85fc9f27a038",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17827e34e90727b85fc9f27a038",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3YPtTcc6Xg23VgLgjmITU4"
+  }
+}
