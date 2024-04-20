@@ -1,0 +1,37 @@
+{
+  "id": "5sD1ZLf2dGQ9gQ3YJl1eAd",
+  "name": "Blind Melon",
+  "uri": "spotify:artist:5sD1ZLf2dGQ9gQ3YJl1eAd",
+  "followers": {
+    "href": null,
+    "total": 1182554
+  },
+  "genres": [
+    "alternative metal",
+    "alternative rock",
+    "grunge",
+    "pop rock",
+    "rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdcc3fe6af94c5c178a36d006",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dcc3fe6af94c5c178a36d006",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dcc3fe6af94c5c178a36d006",
+      "width": 160
+    }
+  ],
+  "popularity": 61,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5Fhi1HUtZycIEMZQwV8SQM",
+  "name": "Hello Joyce",
+  "uri": "spotify:artist:5Fhi1HUtZycIEMZQwV8SQM",
+  "followers": {
+    "href": null,
+    "total": 445
+  },
+  "genres": [
+    "tampa indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb807ff7383299916c2b8e9aa1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174807ff7383299916c2b8e9aa1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178807ff7383299916c2b8e9aa1",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Fhi1HUtZycIEMZQwV8SQM"
+  }
+}

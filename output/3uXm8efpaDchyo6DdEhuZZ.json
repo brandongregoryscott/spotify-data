@@ -1,0 +1,34 @@
+{
+  "id": "3uXm8efpaDchyo6DdEhuZZ",
+  "name": "Pinstripe Sunny",
+  "uri": "spotify:artist:3uXm8efpaDchyo6DdEhuZZ",
+  "followers": {
+    "href": null,
+    "total": 4502
+  },
+  "genres": [
+    "bedroom pop",
+    "pittsburgh indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfef01fc6ee5640296a498b56",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fef01fc6ee5640296a498b56",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fef01fc6ee5640296a498b56",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3uXm8efpaDchyo6DdEhuZZ"
+  }
+}

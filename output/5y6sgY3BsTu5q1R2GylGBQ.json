@@ -1,0 +1,34 @@
+{
+  "id": "5y6sgY3BsTu5q1R2GylGBQ",
+  "name": "Spoiwo",
+  "uri": "spotify:artist:5y6sgY3BsTu5q1R2GylGBQ",
+  "followers": {
+    "href": null,
+    "total": 3602
+  },
+  "genres": [
+    "instrumental post-rock",
+    "polish post-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb336c2dbc2a3e4438ec3e4aaa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174336c2dbc2a3e4438ec3e4aaa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178336c2dbc2a3e4438ec3e4aaa",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5y6sgY3BsTu5q1R2GylGBQ"
+  }
+}

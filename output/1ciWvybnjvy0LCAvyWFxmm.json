@@ -1,0 +1,35 @@
+{
+  "id": "1ciWvybnjvy0LCAvyWFxmm",
+  "name": "Horde",
+  "uri": "spotify:artist:1ciWvybnjvy0LCAvyWFxmm",
+  "followers": {
+    "href": null,
+    "total": 7726
+  },
+  "genres": [
+    "autonomous black metal",
+    "christian metal",
+    "unblack metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d5adfb7e7400a753ccb9da4f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d5adfb7e7400a753ccb9da4f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d5adfb7e7400a753ccb9da4f",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ciWvybnjvy0LCAvyWFxmm"
+  }
+}

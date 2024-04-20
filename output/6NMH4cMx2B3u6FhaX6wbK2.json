@@ -1,0 +1,33 @@
+{
+  "id": "6NMH4cMx2B3u6FhaX6wbK2",
+  "name": "Human Zoo",
+  "uri": "spotify:artist:6NMH4cMx2B3u6FhaX6wbK2",
+  "followers": {
+    "href": null,
+    "total": 4659
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebac09ea541b0f18ae232fd43e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ac09ea541b0f18ae232fd43e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ac09ea541b0f18ae232fd43e",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6NMH4cMx2B3u6FhaX6wbK2"
+  }
+}

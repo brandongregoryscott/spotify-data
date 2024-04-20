@@ -1,0 +1,33 @@
+{
+  "id": "7w76Or8cUL4RSt81c9m1Kn",
+  "name": "Sweet Bike",
+  "uri": "spotify:artist:7w76Or8cUL4RSt81c9m1Kn",
+  "followers": {
+    "href": null,
+    "total": 284
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb71dc33e0af3c76f8e83a1f8d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517471dc33e0af3c76f8e83a1f8d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17871dc33e0af3c76f8e83a1f8d",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7w76Or8cUL4RSt81c9m1Kn"
+  }
+}

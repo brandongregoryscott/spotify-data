@@ -1,0 +1,33 @@
+{
+  "id": "7g4dQPsYwnF8CKVvGXBLeU",
+  "name": "wike",
+  "uri": "spotify:artist:7g4dQPsYwnF8CKVvGXBLeU",
+  "followers": {
+    "href": null,
+    "total": 1754
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb43a1aec4181591ad908cfd0d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517443a1aec4181591ad908cfd0d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17843a1aec4181591ad908cfd0d",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7g4dQPsYwnF8CKVvGXBLeU"
+  }
+}

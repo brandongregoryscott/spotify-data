@@ -1,0 +1,33 @@
+{
+  "id": "3MZufXik6BqZoJ1qKAKKRm",
+  "name": "AD",
+  "uri": "spotify:artist:3MZufXik6BqZoJ1qKAKKRm",
+  "followers": {
+    "href": null,
+    "total": 40
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdf675291b5f0575bb1094141",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174df675291b5f0575bb1094141",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178df675291b5f0575bb1094141",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3MZufXik6BqZoJ1qKAKKRm"
+  }
+}

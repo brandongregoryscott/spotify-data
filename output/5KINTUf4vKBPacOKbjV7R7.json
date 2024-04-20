@@ -1,0 +1,33 @@
+{
+  "id": "5KINTUf4vKBPacOKbjV7R7",
+  "name": "Owen Chow",
+  "uri": "spotify:artist:5KINTUf4vKBPacOKbjV7R7",
+  "followers": {
+    "href": null,
+    "total": 142
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb23c8c4e827302c61ff094b06",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517423c8c4e827302c61ff094b06",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17823c8c4e827302c61ff094b06",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5KINTUf4vKBPacOKbjV7R7"
+  }
+}

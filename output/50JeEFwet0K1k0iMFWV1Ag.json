@@ -1,0 +1,33 @@
+{
+  "id": "50JeEFwet0K1k0iMFWV1Ag",
+  "name": "AUTO",
+  "uri": "spotify:artist:50JeEFwet0K1k0iMFWV1Ag",
+  "followers": {
+    "href": null,
+    "total": 408
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730fc7128f0b39b0eda0f880e3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020fc7128f0b39b0eda0f880e3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510fc7128f0b39b0eda0f880e3",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/50JeEFwet0K1k0iMFWV1Ag"
+  }
+}

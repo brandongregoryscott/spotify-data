@@ -1,0 +1,33 @@
+{
+  "id": "1o6pBVzoojjZ63M2CVzBPq",
+  "name": "Ashford",
+  "uri": "spotify:artist:1o6pBVzoojjZ63M2CVzBPq",
+  "followers": {
+    "href": null,
+    "total": 323
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaca59096e3080a60f172ce99",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aca59096e3080a60f172ce99",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aca59096e3080a60f172ce99",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1o6pBVzoojjZ63M2CVzBPq"
+  }
+}

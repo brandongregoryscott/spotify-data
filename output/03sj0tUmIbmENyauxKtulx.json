@@ -1,0 +1,33 @@
+{
+  "id": "03sj0tUmIbmENyauxKtulx",
+  "name": "Arvnd",
+  "uri": "spotify:artist:03sj0tUmIbmENyauxKtulx",
+  "followers": {
+    "href": null,
+    "total": 2089
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0496e146a1bf9bd6cb906947",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051740496e146a1bf9bd6cb906947",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1780496e146a1bf9bd6cb906947",
+      "width": 160
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03sj0tUmIbmENyauxKtulx"
+  }
+}

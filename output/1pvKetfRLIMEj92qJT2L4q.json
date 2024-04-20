@@ -1,0 +1,33 @@
+{
+  "id": "1pvKetfRLIMEj92qJT2L4q",
+  "name": "Enhet För Fri Musik",
+  "uri": "spotify:artist:1pvKetfRLIMEj92qJT2L4q",
+  "followers": {
+    "href": null,
+    "total": 705
+  },
+  "genres": [
+    "swedish experimental"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27344f7950478c71cf57469a372",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0244f7950478c71cf57469a372",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485144f7950478c71cf57469a372",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1pvKetfRLIMEj92qJT2L4q"
+  }
+}

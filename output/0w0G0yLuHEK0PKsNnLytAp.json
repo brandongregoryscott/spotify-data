@@ -1,0 +1,34 @@
+{
+  "id": "0w0G0yLuHEK0PKsNnLytAp",
+  "name": "False Advertising",
+  "uri": "spotify:artist:0w0G0yLuHEK0PKsNnLytAp",
+  "followers": {
+    "href": null,
+    "total": 3850
+  },
+  "genres": [
+    "manchester indie",
+    "post-grunge"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb26c1548d0e7b8b59c6476bdd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517426c1548d0e7b8b59c6476bdd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17826c1548d0e7b8b59c6476bdd",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0w0G0yLuHEK0PKsNnLytAp"
+  }
+}

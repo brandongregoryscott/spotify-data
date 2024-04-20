@@ -1,0 +1,33 @@
+{
+  "id": "3yaEGmp27GlWgGGKx0i7jR",
+  "name": "Supersize me",
+  "uri": "spotify:artist:3yaEGmp27GlWgGGKx0i7jR",
+  "followers": {
+    "href": null,
+    "total": 456
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737eea304c5d51f758fe55242f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027eea304c5d51f758fe55242f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517eea304c5d51f758fe55242f",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3yaEGmp27GlWgGGKx0i7jR"
+  }
+}

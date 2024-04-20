@@ -1,0 +1,33 @@
+{
+  "id": "1TkEVQvtxz3vEY2wb5SA9a",
+  "name": "rings",
+  "uri": "spotify:artist:1TkEVQvtxz3vEY2wb5SA9a",
+  "followers": {
+    "href": null,
+    "total": 143
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732004d2bd59168c6428761de1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022004d2bd59168c6428761de1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512004d2bd59168c6428761de1",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1TkEVQvtxz3vEY2wb5SA9a"
+  }
+}

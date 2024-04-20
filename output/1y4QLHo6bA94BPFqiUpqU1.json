@@ -1,0 +1,33 @@
+{
+  "id": "1y4QLHo6bA94BPFqiUpqU1",
+  "name": "Segundos",
+  "uri": "spotify:artist:1y4QLHo6bA94BPFqiUpqU1",
+  "followers": {
+    "href": null,
+    "total": 181
+  },
+  "genres": [
+    "punk tico"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdb875779929babe88d063058",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174db875779929babe88d063058",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178db875779929babe88d063058",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1y4QLHo6bA94BPFqiUpqU1"
+  }
+}

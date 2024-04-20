@@ -1,0 +1,34 @@
+{
+  "id": "3vkcJL0rXaCK63ef9gMzbf",
+  "name": "L8ching",
+  "uri": "spotify:artist:3vkcJL0rXaCK63ef9gMzbf",
+  "followers": {
+    "href": null,
+    "total": 10228
+  },
+  "genres": [
+    "chinese r&b",
+    "taiwan pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb811f0dc267e37666ef3e8470",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174811f0dc267e37666ef3e8470",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178811f0dc267e37666ef3e8470",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf"
+  }
+}

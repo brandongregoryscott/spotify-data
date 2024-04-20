@@ -1,0 +1,33 @@
+{
+  "id": "4GTJifQjJr3uSqv4X8MOLp",
+  "name": "Neila",
+  "uri": "spotify:artist:4GTJifQjJr3uSqv4X8MOLp",
+  "followers": {
+    "href": null,
+    "total": 265
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb32e27bbd615c7723f6957166",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517432e27bbd615c7723f6957166",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17832e27bbd615c7723f6957166",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4GTJifQjJr3uSqv4X8MOLp"
+  }
+}

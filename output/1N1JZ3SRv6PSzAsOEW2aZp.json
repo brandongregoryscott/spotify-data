@@ -1,0 +1,33 @@
+{
+  "id": "1N1JZ3SRv6PSzAsOEW2aZp",
+  "name": "Bear Ghost",
+  "uri": "spotify:artist:1N1JZ3SRv6PSzAsOEW2aZp",
+  "followers": {
+    "href": null,
+    "total": 91784
+  },
+  "genres": [
+    "phoenix indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb46500647503e08aa74cb45aa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517446500647503e08aa74cb45aa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17846500647503e08aa74cb45aa",
+      "width": 160
+    }
+  ],
+  "popularity": 50,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1N1JZ3SRv6PSzAsOEW2aZp"
+  }
+}

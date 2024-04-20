@@ -1,0 +1,33 @@
+{
+  "id": "18vetuyfF5U3hdFX1TA0nI",
+  "name": "datfootdive",
+  "uri": "spotify:artist:18vetuyfF5U3hdFX1TA0nI",
+  "followers": {
+    "href": null,
+    "total": 44378
+  },
+  "genres": [
+    "weirdcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd845e6b4898d4e4398a77c62",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d845e6b4898d4e4398a77c62",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d845e6b4898d4e4398a77c62",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/18vetuyfF5U3hdFX1TA0nI"
+  }
+}

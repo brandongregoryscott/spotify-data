@@ -1,0 +1,33 @@
+{
+  "id": "4muNNJfdxGt5K8V7LSfHkU",
+  "name": "Picore",
+  "uri": "spotify:artist:4muNNJfdxGt5K8V7LSfHkU",
+  "followers": {
+    "href": null,
+    "total": 94
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb6ef1e1d99346abb79f927fd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b6ef1e1d99346abb79f927fd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b6ef1e1d99346abb79f927fd",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4muNNJfdxGt5K8V7LSfHkU"
+  }
+}

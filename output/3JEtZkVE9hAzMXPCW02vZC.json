@@ -1,0 +1,33 @@
+{
+  "id": "3JEtZkVE9hAzMXPCW02vZC",
+  "name": "Violation",
+  "uri": "spotify:artist:3JEtZkVE9hAzMXPCW02vZC",
+  "followers": {
+    "href": null,
+    "total": 4264
+  },
+  "genres": [
+    "alternative hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb70542f4e0f5dbbaaa74aee2d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517470542f4e0f5dbbaaa74aee2d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17870542f4e0f5dbbaaa74aee2d",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3JEtZkVE9hAzMXPCW02vZC"
+  }
+}

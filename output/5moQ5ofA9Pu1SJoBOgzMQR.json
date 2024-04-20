@@ -1,0 +1,33 @@
+{
+  "id": "5moQ5ofA9Pu1SJoBOgzMQR",
+  "name": "Mystery Meat",
+  "uri": "spotify:artist:5moQ5ofA9Pu1SJoBOgzMQR",
+  "followers": {
+    "href": null,
+    "total": 358
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf76b6e673d2fd50f1544da4b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f76b6e673d2fd50f1544da4b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f76b6e673d2fd50f1544da4b",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5moQ5ofA9Pu1SJoBOgzMQR"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0Y3yzbxbzBRjTAYdQmuIHw",
+  "name": "メレル",
+  "uri": "spotify:artist:0Y3yzbxbzBRjTAYdQmuIHw",
+  "followers": {
+    "href": null,
+    "total": 345
+  },
+  "genres": [
+    "vocaloid rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba61a07bed0a3b6a602a297f2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a61a07bed0a3b6a602a297f2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a61a07bed0a3b6a602a297f2",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Y3yzbxbzBRjTAYdQmuIHw"
+  }
+}

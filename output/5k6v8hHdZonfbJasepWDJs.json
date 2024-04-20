@@ -1,0 +1,33 @@
+{
+  "id": "5k6v8hHdZonfbJasepWDJs",
+  "name": "El Paramo",
+  "uri": "spotify:artist:5k6v8hHdZonfbJasepWDJs",
+  "followers": {
+    "href": null,
+    "total": 850
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e192923c9a072c673817fcd8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e192923c9a072c673817fcd8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e192923c9a072c673817fcd8",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5k6v8hHdZonfbJasepWDJs"
+  }
+}

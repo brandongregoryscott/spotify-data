@@ -1,0 +1,33 @@
+{
+  "id": "4EFjuq8kbNjAv9HyRiSY16",
+  "name": "Tok10",
+  "uri": "spotify:artist:4EFjuq8kbNjAv9HyRiSY16",
+  "followers": {
+    "href": null,
+    "total": 15282
+  },
+  "genres": [
+    "japanese pop rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb37c730b0d6e7a6c0f81ddd0b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517437c730b0d6e7a6c0f81ddd0b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17837c730b0d6e7a6c0f81ddd0b",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4EFjuq8kbNjAv9HyRiSY16"
+  }
+}

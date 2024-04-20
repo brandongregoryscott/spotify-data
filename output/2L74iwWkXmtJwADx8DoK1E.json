@@ -1,0 +1,34 @@
+{
+  "id": "2L74iwWkXmtJwADx8DoK1E",
+  "name": "Ex Confusion",
+  "uri": "spotify:artist:2L74iwWkXmtJwADx8DoK1E",
+  "followers": {
+    "href": null,
+    "total": 6197
+  },
+  "genres": [
+    "drift",
+    "warm drone"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebddef1d657042634e51dfdf9d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ddef1d657042634e51dfdf9d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ddef1d657042634e51dfdf9d",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E"
+  }
+}

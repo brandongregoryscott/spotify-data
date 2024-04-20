@@ -1,0 +1,33 @@
+{
+  "id": "1t9ThZJLdCzEIWJ7lKsYT0",
+  "name": "Hocori",
+  "uri": "spotify:artist:1t9ThZJLdCzEIWJ7lKsYT0",
+  "followers": {
+    "href": null,
+    "total": 79
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27356e63194fcd69e7d2cbe3539",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0256e63194fcd69e7d2cbe3539",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485156e63194fcd69e7d2cbe3539",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1t9ThZJLdCzEIWJ7lKsYT0"
+  }
+}

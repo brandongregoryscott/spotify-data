@@ -1,0 +1,33 @@
+{
+  "id": "2KYIjUgth68OceGs1Viwdi",
+  "name": "FreshAppleSlices",
+  "uri": "spotify:artist:2KYIjUgth68OceGs1Viwdi",
+  "followers": {
+    "href": null,
+    "total": 154
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb15acea1e5a28d23df8ccbcdf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517415acea1e5a28d23df8ccbcdf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17815acea1e5a28d23df8ccbcdf",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2KYIjUgth68OceGs1Viwdi"
+  }
+}

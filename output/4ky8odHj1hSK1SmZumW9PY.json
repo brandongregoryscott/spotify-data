@@ -1,0 +1,33 @@
+{
+  "id": "4ky8odHj1hSK1SmZumW9PY",
+  "name": "rosie",
+  "uri": "spotify:artist:4ky8odHj1hSK1SmZumW9PY",
+  "followers": {
+    "href": null,
+    "total": 745
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb88adb396d19fefc71c981d5a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517488adb396d19fefc71c981d5a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17888adb396d19fefc71c981d5a",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4ky8odHj1hSK1SmZumW9PY"
+  }
+}

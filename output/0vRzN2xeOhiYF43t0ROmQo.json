@@ -1,0 +1,33 @@
+{
+  "id": "0vRzN2xeOhiYF43t0ROmQo",
+  "name": "apolumni",
+  "uri": "spotify:artist:0vRzN2xeOhiYF43t0ROmQo",
+  "followers": {
+    "href": null,
+    "total": 371
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd125b42ccd0a131eb13bfd2e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d125b42ccd0a131eb13bfd2e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d125b42ccd0a131eb13bfd2e",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0vRzN2xeOhiYF43t0ROmQo"
+  }
+}

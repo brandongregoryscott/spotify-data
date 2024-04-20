@@ -1,0 +1,34 @@
+{
+  "id": "0MWK4acsELDgCc9djMvT3d",
+  "name": "CCS records.",
+  "uri": "spotify:artist:0MWK4acsELDgCc9djMvT3d",
+  "followers": {
+    "href": null,
+    "total": 10693
+  },
+  "genres": [
+    "j-rap",
+    "japanese r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc747262c7321f6e8bff3e37d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c747262c7321f6e8bff3e37d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c747262c7321f6e8bff3e37d",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0MWK4acsELDgCc9djMvT3d"
+  }
+}

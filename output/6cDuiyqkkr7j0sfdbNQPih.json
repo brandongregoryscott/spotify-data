@@ -1,0 +1,33 @@
+{
+  "id": "6cDuiyqkkr7j0sfdbNQPih",
+  "name": "Mount Shasta",
+  "uri": "spotify:artist:6cDuiyqkkr7j0sfdbNQPih",
+  "followers": {
+    "href": null,
+    "total": 520
+  },
+  "genres": [
+    "noise rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739b1f630cc2c7f51f53bec2f1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029b1f630cc2c7f51f53bec2f1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519b1f630cc2c7f51f53bec2f1",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6cDuiyqkkr7j0sfdbNQPih"
+  }
+}

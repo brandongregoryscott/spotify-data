@@ -1,0 +1,33 @@
+{
+  "id": "1wGOtV3m9EfiliisM2BBqM",
+  "name": "Deprecation",
+  "uri": "spotify:artist:1wGOtV3m9EfiliisM2BBqM",
+  "followers": {
+    "href": null,
+    "total": 2779
+  },
+  "genres": [
+    "slam death metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735334a771fe10787bd83b4d89",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025334a771fe10787bd83b4d89",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515334a771fe10787bd83b4d89",
+      "width": 64
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1wGOtV3m9EfiliisM2BBqM"
+  }
+}

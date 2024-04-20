@@ -1,0 +1,34 @@
+{
+  "id": "6RzdMi00bcAPKf4Y5isj9j",
+  "name": "15MUS",
+  "uri": "spotify:artist:6RzdMi00bcAPKf4Y5isj9j",
+  "followers": {
+    "href": null,
+    "total": 23415
+  },
+  "genres": [
+    "japanese chill rap",
+    "japanese pop rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba2e437dc76db7f9e772c15e8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a2e437dc76db7f9e772c15e8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a2e437dc76db7f9e772c15e8",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6RzdMi00bcAPKf4Y5isj9j"
+  }
+}

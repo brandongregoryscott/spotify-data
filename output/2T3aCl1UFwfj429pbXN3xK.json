@@ -1,0 +1,33 @@
+{
+  "id": "2T3aCl1UFwfj429pbXN3xK",
+  "name": "YUG1",
+  "uri": "spotify:artist:2T3aCl1UFwfj429pbXN3xK",
+  "followers": {
+    "href": null,
+    "total": 279
+  },
+  "genres": [
+    "phonk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb270885baf1252c6f52387a5c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174270885baf1252c6f52387a5c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178270885baf1252c6f52387a5c",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2T3aCl1UFwfj429pbXN3xK"
+  }
+}

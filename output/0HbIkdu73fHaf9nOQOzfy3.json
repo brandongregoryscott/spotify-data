@@ -1,0 +1,33 @@
+{
+  "id": "0HbIkdu73fHaf9nOQOzfy3",
+  "name": "Doma",
+  "uri": "spotify:artist:0HbIkdu73fHaf9nOQOzfy3",
+  "followers": {
+    "href": null,
+    "total": 155
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d38cb4b0c29e24d1f09fc74b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024e7f7660ede01d537c09165c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514e7f7660ede01d537c09165c",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0HbIkdu73fHaf9nOQOzfy3"
+  }
+}
