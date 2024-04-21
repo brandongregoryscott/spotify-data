@@ -1,0 +1,34 @@
+{
+  "id": "3DrIOrFjCFuhuUK7SQt8vL",
+  "name": "umbraid",
+  "uri": "spotify:artist:3DrIOrFjCFuhuUK7SQt8vL",
+  "followers": {
+    "href": null,
+    "total": 8380
+  },
+  "genres": [
+    "french techno",
+    "techno rave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf0fe4d285eaf0429effb56ef",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f0fe4d285eaf0429effb56ef",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f0fe4d285eaf0429effb56ef",
+      "width": 160
+    }
+  ],
+  "popularity": 34,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3DrIOrFjCFuhuUK7SQt8vL"
+  }
+}

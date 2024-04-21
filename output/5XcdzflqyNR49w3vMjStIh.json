@@ -1,0 +1,33 @@
+{
+  "id": "5XcdzflqyNR49w3vMjStIh",
+  "name": "HYPER!",
+  "uri": "spotify:artist:5XcdzflqyNR49w3vMjStIh",
+  "followers": {
+    "href": null,
+    "total": 579
+  },
+  "genres": [
+    "ghent indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd63858a968b929a60a8003b4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d63858a968b929a60a8003b4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d63858a968b929a60a8003b4",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5XcdzflqyNR49w3vMjStIh"
+  }
+}

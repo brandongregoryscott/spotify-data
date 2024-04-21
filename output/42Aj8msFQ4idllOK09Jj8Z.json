@@ -1,0 +1,33 @@
+{
+  "id": "42Aj8msFQ4idllOK09Jj8Z",
+  "name": "Color Green",
+  "uri": "spotify:artist:42Aj8msFQ4idllOK09Jj8Z",
+  "followers": {
+    "href": null,
+    "total": 4538
+  },
+  "genres": [
+    "modern psychedelic folk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb56322a25e3e05b6ec8384b4a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517456322a25e3e05b6ec8384b4a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17856322a25e3e05b6ec8384b4a",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/42Aj8msFQ4idllOK09Jj8Z"
+  }
+}

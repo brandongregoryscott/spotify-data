@@ -1,0 +1,33 @@
+{
+  "id": "10eoPC3r6Li3yPpqns8Vl1",
+  "name": "Hot Nerds",
+  "uri": "spotify:artist:10eoPC3r6Li3yPpqns8Vl1",
+  "followers": {
+    "href": null,
+    "total": 521
+  },
+  "genres": [
+    "synth punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738c242ae871b7a0f7f007cfd3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028c242ae871b7a0f7f007cfd3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518c242ae871b7a0f7f007cfd3",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/10eoPC3r6Li3yPpqns8Vl1"
+  }
+}

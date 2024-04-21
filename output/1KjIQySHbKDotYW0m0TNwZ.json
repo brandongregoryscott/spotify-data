@@ -1,0 +1,34 @@
+{
+  "id": "1KjIQySHbKDotYW0m0TNwZ",
+  "name": "Happy Three Friends",
+  "uri": "spotify:artist:1KjIQySHbKDotYW0m0TNwZ",
+  "followers": {
+    "href": null,
+    "total": 5590
+  },
+  "genres": [
+    "pinoy pop punk",
+    "pinoy rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb746818e194159f191b1787b1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174746818e194159f191b1787b1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178746818e194159f191b1787b1",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1KjIQySHbKDotYW0m0TNwZ"
+  }
+}

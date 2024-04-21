@@ -4,10 +4,11 @@
   "uri": "spotify:artist:1HrA6P0MFrYXCzkQbll7Be",
   "followers": {
     "href": null,
-    "total": 2737
+    "total": 2738
   },
   "genres": [
-    "icelandic black metal"
+    "icelandic black metal",
+    "voidgaze"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 64
     }
   ],
-  "popularity": 7,
+  "popularity": 6,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/1HrA6P0MFrYXCzkQbll7Be"
   }

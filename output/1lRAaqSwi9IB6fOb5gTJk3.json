@@ -1,0 +1,33 @@
+{
+  "id": "1lRAaqSwi9IB6fOb5gTJk3",
+  "name": "Diligent",
+  "uri": "spotify:artist:1lRAaqSwi9IB6fOb5gTJk3",
+  "followers": {
+    "href": null,
+    "total": 878
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba8089692198e5042e59fda2a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a8089692198e5042e59fda2a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a8089692198e5042e59fda2a",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1lRAaqSwi9IB6fOb5gTJk3"
+  }
+}

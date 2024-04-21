@@ -1,0 +1,33 @@
+{
+  "id": "07PoSY2wSNOxr0Bgby5IxJ",
+  "name": "WINEHOUSE",
+  "uri": "spotify:artist:07PoSY2wSNOxr0Bgby5IxJ",
+  "followers": {
+    "href": null,
+    "total": 9768
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba5d263e3137461d3ed57f173",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a5d263e3137461d3ed57f173",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a5d263e3137461d3ed57f173",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07PoSY2wSNOxr0Bgby5IxJ"
+  }
+}

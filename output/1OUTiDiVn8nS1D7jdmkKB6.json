@@ -1,0 +1,33 @@
+{
+  "id": "1OUTiDiVn8nS1D7jdmkKB6",
+  "name": "SortaHuman",
+  "uri": "spotify:artist:1OUTiDiVn8nS1D7jdmkKB6",
+  "followers": {
+    "href": null,
+    "total": 1465
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732107b7dfca4c575350286dda",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022107b7dfca4c575350286dda",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512107b7dfca4c575350286dda",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1OUTiDiVn8nS1D7jdmkKB6"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3JSuOYrDC0ZybyehT4ua0x",
+  "name": "Zeolite",
+  "uri": "spotify:artist:3JSuOYrDC0ZybyehT4ua0x",
+  "followers": {
+    "href": null,
+    "total": 3564
+  },
+  "genres": [
+    "australian metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebabb56117142733f031745bc8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174abb56117142733f031745bc8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178abb56117142733f031745bc8",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3JSuOYrDC0ZybyehT4ua0x"
+  }
+}

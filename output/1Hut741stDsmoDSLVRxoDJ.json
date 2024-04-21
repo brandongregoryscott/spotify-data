@@ -1,0 +1,33 @@
+{
+  "id": "1Hut741stDsmoDSLVRxoDJ",
+  "name": "PASTA FASTA",
+  "uri": "spotify:artist:1Hut741stDsmoDSLVRxoDJ",
+  "followers": {
+    "href": null,
+    "total": 130
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273601945e883d428c12c9775dc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02601945e883d428c12c9775dc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851601945e883d428c12c9775dc",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Hut741stDsmoDSLVRxoDJ"
+  }
+}

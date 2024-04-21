@@ -1,0 +1,33 @@
+{
+  "id": "05kckE3T5poPW8zbmmZBpL",
+  "name": "4TGANG",
+  "uri": "spotify:artist:05kckE3T5poPW8zbmmZBpL",
+  "followers": {
+    "href": null,
+    "total": 530
+  },
+  "genres": [
+    "ukg revival"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebec7f47174eb619ccccdfeef5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ec7f47174eb619ccccdfeef5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ec7f47174eb619ccccdfeef5",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05kckE3T5poPW8zbmmZBpL"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0PIdKkaIDZpX9suvDKhzAF",
+  "name": "Kyhiskessu",
+  "uri": "spotify:artist:0PIdKkaIDZpX9suvDKhzAF",
+  "followers": {
+    "href": null,
+    "total": 139
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc2f93657c79b807d8546e4bb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c2f93657c79b807d8546e4bb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c2f93657c79b807d8546e4bb",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0PIdKkaIDZpX9suvDKhzAF"
+  }
+}

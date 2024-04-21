@@ -1,0 +1,33 @@
+{
+  "id": "5bfwk9JvkGJHqZNUJsGLVA",
+  "name": "Los Guajes",
+  "uri": "spotify:artist:5bfwk9JvkGJHqZNUJsGLVA",
+  "followers": {
+    "href": null,
+    "total": 1681
+  },
+  "genres": [
+    "trash rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273760eb840f260489a4082c9fd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02760eb840f260489a4082c9fd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851760eb840f260489a4082c9fd",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5bfwk9JvkGJHqZNUJsGLVA"
+  }
+}

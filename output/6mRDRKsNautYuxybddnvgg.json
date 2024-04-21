@@ -1,0 +1,34 @@
+{
+  "id": "6mRDRKsNautYuxybddnvgg",
+  "name": "Earthside",
+  "uri": "spotify:artist:6mRDRKsNautYuxybddnvgg",
+  "followers": {
+    "href": null,
+    "total": 43587
+  },
+  "genres": [
+    "djent",
+    "progressive metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcfe2006f0b5ffb4046477425",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cfe2006f0b5ffb4046477425",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cfe2006f0b5ffb4046477425",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6mRDRKsNautYuxybddnvgg"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5mltCXhfvvyocdHGjo1QRV",
+  "name": "Rancios",
+  "uri": "spotify:artist:5mltCXhfvvyocdHGjo1QRV",
+  "followers": {
+    "href": null,
+    "total": 115
+  },
+  "genres": [
+    "punk chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4b6b136ed78dca511f304125",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744b6b136ed78dca511f304125",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784b6b136ed78dca511f304125",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5mltCXhfvvyocdHGjo1QRV"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4QrbQZTgjC2oZRlNTwtWCh",
+  "name": "The Jetz",
+  "uri": "spotify:artist:4QrbQZTgjC2oZRlNTwtWCh",
+  "followers": {
+    "href": null,
+    "total": 380
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fcdb9f67804f299fac96332a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fcdb9f67804f299fac96332a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fcdb9f67804f299fac96332a",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4QrbQZTgjC2oZRlNTwtWCh"
+  }
+}

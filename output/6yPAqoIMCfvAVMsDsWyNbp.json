@@ -1,0 +1,33 @@
+{
+  "id": "6yPAqoIMCfvAVMsDsWyNbp",
+  "name": "Heteromorphic Zoo",
+  "uri": "spotify:artist:6yPAqoIMCfvAVMsDsWyNbp",
+  "followers": {
+    "href": null,
+    "total": 101
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e903e16e75e825ae3b64ca25",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e903e16e75e825ae3b64ca25",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e903e16e75e825ae3b64ca25",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6yPAqoIMCfvAVMsDsWyNbp"
+  }
+}

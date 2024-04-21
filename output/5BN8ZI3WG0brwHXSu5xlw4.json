@@ -1,0 +1,33 @@
+{
+  "id": "5BN8ZI3WG0brwHXSu5xlw4",
+  "name": "Billy Sane",
+  "uri": "spotify:artist:5BN8ZI3WG0brwHXSu5xlw4",
+  "followers": {
+    "href": null,
+    "total": 2466
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc5655609cad9aef639a281a1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c5655609cad9aef639a281a1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c5655609cad9aef639a281a1",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5BN8ZI3WG0brwHXSu5xlw4"
+  }
+}

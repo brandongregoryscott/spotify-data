@@ -1,0 +1,36 @@
+{
+  "id": "4msm1QtpV7zMReePhbEQ6H",
+  "name": "Wheel",
+  "uri": "spotify:artist:4msm1QtpV7zMReePhbEQ6H",
+  "followers": {
+    "href": null,
+    "total": 48345
+  },
+  "genres": [
+    "finnish progressive rock",
+    "modern progressive rock",
+    "progressive alternative",
+    "progressive metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaaefb1fe7c4b9ce2df5c7736",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aaefb1fe7c4b9ce2df5c7736",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aaefb1fe7c4b9ce2df5c7736",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H"
+  }
+}

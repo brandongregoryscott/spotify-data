@@ -1,0 +1,34 @@
+{
+  "id": "5jE2KIlfq13weCPxZRiTlD",
+  "name": "Jasper Street Co.",
+  "uri": "spotify:artist:5jE2KIlfq13weCPxZRiTlD",
+  "followers": {
+    "href": null,
+    "total": 4998
+  },
+  "genres": [
+    "deep house",
+    "soulful house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b5efaacab07ee25216a04bb8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b5efaacab07ee25216a04bb8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b5efaacab07ee25216a04bb8",
+      "width": 64
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5jE2KIlfq13weCPxZRiTlD"
+  }
+}

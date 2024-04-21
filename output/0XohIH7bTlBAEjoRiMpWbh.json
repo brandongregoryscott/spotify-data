@@ -1,0 +1,33 @@
+{
+  "id": "0XohIH7bTlBAEjoRiMpWbh",
+  "name": "Mark Hardy",
+  "uri": "spotify:artist:0XohIH7bTlBAEjoRiMpWbh",
+  "followers": {
+    "href": null,
+    "total": 639
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb862e5cf698f7ae0018a428a6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174862e5cf698f7ae0018a428a6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178862e5cf698f7ae0018a428a6",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0XohIH7bTlBAEjoRiMpWbh"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3d65ZpDWiV572AVL36lP1q",
+  "name": "Edith Underground",
+  "uri": "spotify:artist:3d65ZpDWiV572AVL36lP1q",
+  "followers": {
+    "href": null,
+    "total": 1506
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb038d1b966a560bfccc73e322",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174038d1b966a560bfccc73e322",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178038d1b966a560bfccc73e322",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3d65ZpDWiV572AVL36lP1q"
+  }
+}

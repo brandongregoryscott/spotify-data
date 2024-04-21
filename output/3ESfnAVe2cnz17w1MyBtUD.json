@@ -1,0 +1,33 @@
+{
+  "id": "3ESfnAVe2cnz17w1MyBtUD",
+  "name": "フレスプ",
+  "uri": "spotify:artist:3ESfnAVe2cnz17w1MyBtUD",
+  "followers": {
+    "href": null,
+    "total": 129
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb032957ba2d54c8d85f310c77",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174032957ba2d54c8d85f310c77",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178032957ba2d54c8d85f310c77",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ESfnAVe2cnz17w1MyBtUD"
+  }
+}

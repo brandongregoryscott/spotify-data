@@ -1,0 +1,33 @@
+{
+  "id": "6MeCCf8MyDjbu37Czv91rE",
+  "name": "Chris T-T",
+  "uri": "spotify:artist:6MeCCf8MyDjbu37Czv91rE",
+  "followers": {
+    "href": null,
+    "total": 2076
+  },
+  "genres": [
+    "acoustic punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb35c0e81d4d86f253a46636bd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517435c0e81d4d86f253a46636bd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17835c0e81d4d86f253a46636bd",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6MeCCf8MyDjbu37Czv91rE"
+  }
+}

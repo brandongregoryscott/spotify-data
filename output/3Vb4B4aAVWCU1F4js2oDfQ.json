@@ -1,0 +1,33 @@
+{
+  "id": "3Vb4B4aAVWCU1F4js2oDfQ",
+  "name": "Aslin",
+  "uri": "spotify:artist:3Vb4B4aAVWCU1F4js2oDfQ",
+  "followers": {
+    "href": null,
+    "total": 297
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd92b4632a5e2838621042fb8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d92b4632a5e2838621042fb8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d92b4632a5e2838621042fb8",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Vb4B4aAVWCU1F4js2oDfQ"
+  }
+}

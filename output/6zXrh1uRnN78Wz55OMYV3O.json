@@ -1,0 +1,33 @@
+{
+  "id": "6zXrh1uRnN78Wz55OMYV3O",
+  "name": "insyt.",
+  "uri": "spotify:artist:6zXrh1uRnN78Wz55OMYV3O",
+  "followers": {
+    "href": null,
+    "total": 444
+  },
+  "genres": [
+    "chill abstract hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd9aa29c05505fc720e77dd6a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d9aa29c05505fc720e77dd6a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d9aa29c05505fc720e77dd6a",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6zXrh1uRnN78Wz55OMYV3O"
+  }
+}
