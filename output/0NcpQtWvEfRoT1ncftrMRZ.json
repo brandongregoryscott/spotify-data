@@ -4,10 +4,11 @@
   "uri": "spotify:artist:0NcpQtWvEfRoT1ncftrMRZ",
   "followers": {
     "href": null,
-    "total": 1770
+    "total": 1772
   },
   "genres": [
-    "finnish death metal"
+    "finnish death metal",
+    "finnish punk"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 64
     }
   ],
-  "popularity": 12,
+  "popularity": 11,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/0NcpQtWvEfRoT1ncftrMRZ"
   }
