@@ -4,13 +4,14 @@
   "uri": "spotify:artist:1scitKDOobvcQlJb8DdP4n",
   "followers": {
     "href": null,
-    "total": 6541
+    "total": 6540
   },
   "genres": [
     "drone",
     "experimental ambient",
     "glitch ambient",
-    "microsound"
+    "microsound",
+    "sound art"
   ],
   "images": [
     {
@@ -34,7 +35,7 @@
       "width": 64
     }
   ],
-  "popularity": 19,
+  "popularity": 18,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n"
   }
