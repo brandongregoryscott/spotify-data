@@ -4,10 +4,11 @@
   "uri": "spotify:artist:0A18cE9pDz57f0cj7q8wxt",
   "followers": {
     "href": null,
-    "total": 2594
+    "total": 2597
   },
   "genres": [
-    "experimental ambient"
+    "experimental ambient",
+    "tape music"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 160
     }
   ],
-  "popularity": 18,
+  "popularity": 17,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt"
   }

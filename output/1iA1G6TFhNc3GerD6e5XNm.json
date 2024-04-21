@@ -4,11 +4,12 @@
   "uri": "spotify:artist:1iA1G6TFhNc3GerD6e5XNm",
   "followers": {
     "href": null,
-    "total": 9905
+    "total": 9909
   },
   "genres": [
     "drone",
-    "noise"
+    "noise",
+    "tape music"
   ],
   "images": [
     {
@@ -32,7 +33,7 @@
       "width": 64
     }
   ],
-  "popularity": 13,
+  "popularity": 12,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/1iA1G6TFhNc3GerD6e5XNm"
   }
