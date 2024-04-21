@@ -4,11 +4,12 @@
   "uri": "spotify:artist:22becwc1PhY3lSxHM3YThr",
   "followers": {
     "href": null,
-    "total": 3553
+    "total": 3554
   },
   "genres": [
     "drift",
-    "drone ambient"
+    "drone ambient",
+    "tape music"
   ],
   "images": [
     {
@@ -27,7 +28,7 @@
       "width": 160
     }
   ],
-  "popularity": 37,
+  "popularity": 35,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr"
   }
