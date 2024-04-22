@@ -4,7 +4,7 @@
   "uri": "spotify:artist:6u5axd0rpDsWSmzhFfb2VB",
   "followers": {
     "href": null,
-    "total": 120164
+    "total": 120185
   },
   "genres": [
     "ambient",
@@ -13,7 +13,8 @@
     "fourth world",
     "hauntology",
     "intelligent dance music",
-    "sound art"
+    "sound art",
+    "tape music"
   ],
   "images": [
     {
@@ -37,7 +38,7 @@
       "width": 64
     }
   ],
-  "popularity": 42,
+  "popularity": 40,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
   }
