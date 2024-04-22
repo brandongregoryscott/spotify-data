@@ -4,11 +4,12 @@
   "uri": "spotify:artist:5RraBpQrZzJaNk22LfTBi0",
   "followers": {
     "href": null,
-    "total": 26959
+    "total": 26931
   },
   "genres": [
     "alternative hip hop",
-    "boom bap"
+    "boom bap",
+    "soul flow"
   ],
   "images": [
     {
@@ -27,7 +28,7 @@
       "width": 160
     }
   ],
-  "popularity": 30,
+  "popularity": 29,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
   }
