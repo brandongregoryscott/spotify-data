@@ -4,10 +4,11 @@
   "uri": "spotify:artist:4LNvQot1CDYC3kWGW144XC",
   "followers": {
     "href": null,
-    "total": 16470
+    "total": 16509
   },
   "genres": [
-    "german metalcore"
+    "german metalcore",
+    "metalcore"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 160
     }
   ],
-  "popularity": 37,
+  "popularity": 36,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC"
   }
