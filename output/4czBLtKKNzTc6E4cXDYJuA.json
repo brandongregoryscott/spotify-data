@@ -4,10 +4,11 @@
   "uri": "spotify:artist:4czBLtKKNzTc6E4cXDYJuA",
   "followers": {
     "href": null,
-    "total": 17561
+    "total": 17571
   },
   "genres": [
-    "classic city pop"
+    "classic city pop",
+    "japanese jazz"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 64
     }
   ],
-  "popularity": 29,
+  "popularity": 28,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA"
   }
