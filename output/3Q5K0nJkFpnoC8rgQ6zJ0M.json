@@ -1,0 +1,33 @@
+{
+  "id": "3Q5K0nJkFpnoC8rgQ6zJ0M",
+  "name": "Allan Hill",
+  "uri": "spotify:artist:3Q5K0nJkFpnoC8rgQ6zJ0M",
+  "followers": {
+    "href": null,
+    "total": 287
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3777b8bb3e6433f4bb48865c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051743777b8bb3e6433f4bb48865c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1783777b8bb3e6433f4bb48865c",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Q5K0nJkFpnoC8rgQ6zJ0M"
+  }
+}

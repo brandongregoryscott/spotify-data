@@ -1,0 +1,33 @@
+{
+  "id": "303FDUNKI2zyZZ5xroagcb",
+  "name": "aqualina",
+  "uri": "spotify:artist:303FDUNKI2zyZZ5xroagcb",
+  "followers": {
+    "href": null,
+    "total": 53
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b61e60b48970d8f347351477",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b61e60b48970d8f347351477",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b61e60b48970d8f347351477",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/303FDUNKI2zyZZ5xroagcb"
+  }
+}

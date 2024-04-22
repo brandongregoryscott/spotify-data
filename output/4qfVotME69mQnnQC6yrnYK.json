@@ -1,0 +1,33 @@
+{
+  "id": "4qfVotME69mQnnQC6yrnYK",
+  "name": "Simulation Defect",
+  "uri": "spotify:artist:4qfVotME69mQnnQC6yrnYK",
+  "followers": {
+    "href": null,
+    "total": 399
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb86250d4fd68ecd65303b4160",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517486250d4fd68ecd65303b4160",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17886250d4fd68ecd65303b4160",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4qfVotME69mQnnQC6yrnYK"
+  }
+}

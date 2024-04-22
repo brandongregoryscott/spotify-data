@@ -1,0 +1,33 @@
+{
+  "id": "7ls3CIjiumrnJ1pOfHKS6k",
+  "name": "Secret World",
+  "uri": "spotify:artist:7ls3CIjiumrnJ1pOfHKS6k",
+  "followers": {
+    "href": null,
+    "total": 360
+  },
+  "genres": [
+    "australian hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb597157465c192c82a421a1e1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174597157465c192c82a421a1e1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178597157465c192c82a421a1e1",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ls3CIjiumrnJ1pOfHKS6k"
+  }
+}

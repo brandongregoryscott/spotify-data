@@ -1,0 +1,34 @@
+{
+  "id": "4uDJetmKX6GhS4K91q1cbU",
+  "name": "Volruptus",
+  "uri": "spotify:artist:4uDJetmKX6GhS4K91q1cbU",
+  "followers": {
+    "href": null,
+    "total": 5756
+  },
+  "genres": [
+    "icelandic electronic",
+    "nu electro"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb494c2dbb8b29a6bdc0c57a95",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174494c2dbb8b29a6bdc0c57a95",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178494c2dbb8b29a6bdc0c57a95",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4uDJetmKX6GhS4K91q1cbU"
+  }
+}

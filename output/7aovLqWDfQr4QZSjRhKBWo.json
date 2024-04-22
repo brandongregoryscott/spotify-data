@@ -1,0 +1,33 @@
+{
+  "id": "7aovLqWDfQr4QZSjRhKBWo",
+  "name": "IMMORTAL",
+  "uri": "spotify:artist:7aovLqWDfQr4QZSjRhKBWo",
+  "followers": {
+    "href": null,
+    "total": 320
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb39e20a6c483a5824e52fe6e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b39e20a6c483a5824e52fe6e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b39e20a6c483a5824e52fe6e",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7aovLqWDfQr4QZSjRhKBWo"
+  }
+}

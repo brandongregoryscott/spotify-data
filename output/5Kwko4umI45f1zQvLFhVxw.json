@@ -1,0 +1,33 @@
+{
+  "id": "5Kwko4umI45f1zQvLFhVxw",
+  "name": "I've Never Been Here Before",
+  "uri": "spotify:artist:5Kwko4umI45f1zQvLFhVxw",
+  "followers": {
+    "href": null,
+    "total": 150
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebebbc559b1f2a32a277f2f1fe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ebbc559b1f2a32a277f2f1fe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ebbc559b1f2a32a277f2f1fe",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Kwko4umI45f1zQvLFhVxw"
+  }
+}

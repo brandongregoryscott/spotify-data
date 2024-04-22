@@ -1,0 +1,33 @@
+{
+  "id": "5qtupxXggsBwX1JEojKdhw",
+  "name": "Wren",
+  "uri": "spotify:artist:5qtupxXggsBwX1JEojKdhw",
+  "followers": {
+    "href": null,
+    "total": 1602
+  },
+  "genres": [
+    "uk post-metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273309fc9850c00432703fa5fc9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02309fc9850c00432703fa5fc9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851309fc9850c00432703fa5fc9",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5qtupxXggsBwX1JEojKdhw"
+  }
+}

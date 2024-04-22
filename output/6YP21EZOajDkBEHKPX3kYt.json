@@ -1,0 +1,33 @@
+{
+  "id": "6YP21EZOajDkBEHKPX3kYt",
+  "name": "Client_03",
+  "uri": "spotify:artist:6YP21EZOajDkBEHKPX3kYt",
+  "followers": {
+    "href": null,
+    "total": 7399
+  },
+  "genres": [
+    "breaks"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb96f7767829cf415e35c66206",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517496f7767829cf415e35c66206",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17896f7767829cf415e35c66206",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6YP21EZOajDkBEHKPX3kYt"
+  }
+}

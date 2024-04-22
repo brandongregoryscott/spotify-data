@@ -1,0 +1,33 @@
+{
+  "id": "6ayCVP5qRxiTlmqUtKUguW",
+  "name": "LJC",
+  "uri": "spotify:artist:6ayCVP5qRxiTlmqUtKUguW",
+  "followers": {
+    "href": null,
+    "total": 269
+  },
+  "genres": [
+    "neo grime"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb03bab474d84a8982a5d18ee7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517403bab474d84a8982a5d18ee7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17803bab474d84a8982a5d18ee7",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ayCVP5qRxiTlmqUtKUguW"
+  }
+}

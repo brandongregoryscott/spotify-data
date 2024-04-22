@@ -1,0 +1,33 @@
+{
+  "id": "1nQM2bBniIAQO7hBtIM9a5",
+  "name": "On Piano",
+  "uri": "spotify:artist:1nQM2bBniIAQO7hBtIM9a5",
+  "followers": {
+    "href": null,
+    "total": 4891
+  },
+  "genres": [
+    "pianissimo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb536cc2f7e87834d4d9e00a5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b536cc2f7e87834d4d9e00a5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b536cc2f7e87834d4d9e00a5",
+      "width": 160
+    }
+  ],
+  "popularity": 50,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1nQM2bBniIAQO7hBtIM9a5"
+  }
+}

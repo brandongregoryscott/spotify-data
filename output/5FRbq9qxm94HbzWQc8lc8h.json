@@ -1,0 +1,33 @@
+{
+  "id": "5FRbq9qxm94HbzWQc8lc8h",
+  "name": "Orquidea",
+  "uri": "spotify:artist:5FRbq9qxm94HbzWQc8lc8h",
+  "followers": {
+    "href": null,
+    "total": 245
+  },
+  "genres": [
+    "indie tico"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e5e4e92ef449308412ff4c30",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e5e4e92ef449308412ff4c30",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e5e4e92ef449308412ff4c30",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5FRbq9qxm94HbzWQc8lc8h"
+  }
+}

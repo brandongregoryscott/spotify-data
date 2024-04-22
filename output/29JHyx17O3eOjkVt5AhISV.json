@@ -1,0 +1,33 @@
+{
+  "id": "29JHyx17O3eOjkVt5AhISV",
+  "name": "Hyades",
+  "uri": "spotify:artist:29JHyx17O3eOjkVt5AhISV",
+  "followers": {
+    "href": null,
+    "total": 119
+  },
+  "genres": [
+    "neo grime"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27335373dcbec6c3d19e9ae9714",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0235373dcbec6c3d19e9ae9714",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485135373dcbec6c3d19e9ae9714",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/29JHyx17O3eOjkVt5AhISV"
+  }
+}

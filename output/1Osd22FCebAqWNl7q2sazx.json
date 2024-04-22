@@ -1,0 +1,33 @@
+{
+  "id": "1Osd22FCebAqWNl7q2sazx",
+  "name": "Layzi",
+  "uri": "spotify:artist:1Osd22FCebAqWNl7q2sazx",
+  "followers": {
+    "href": null,
+    "total": 5457
+  },
+  "genres": [
+    "chill dream pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc1f57bf899fd45badbf05907",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c1f57bf899fd45badbf05907",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c1f57bf899fd45badbf05907",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Osd22FCebAqWNl7q2sazx"
+  }
+}

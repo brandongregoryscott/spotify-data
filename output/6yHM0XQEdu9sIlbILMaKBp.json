@@ -1,0 +1,34 @@
+{
+  "id": "6yHM0XQEdu9sIlbILMaKBp",
+  "name": "Paul Cauthen",
+  "uri": "spotify:artist:6yHM0XQEdu9sIlbILMaKBp",
+  "followers": {
+    "href": null,
+    "total": 158477
+  },
+  "genres": [
+    "modern southern rock",
+    "new americana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfd54b66ab851d314c99244cf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fd54b66ab851d314c99244cf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fd54b66ab851d314c99244cf",
+      "width": 160
+    }
+  ],
+  "popularity": 50,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+  }
+}

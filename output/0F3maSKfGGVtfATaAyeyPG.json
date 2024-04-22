@@ -1,0 +1,33 @@
+{
+  "id": "0F3maSKfGGVtfATaAyeyPG",
+  "name": "Chris Grey",
+  "uri": "spotify:artist:0F3maSKfGGVtfATaAyeyPG",
+  "followers": {
+    "href": null,
+    "total": 69562
+  },
+  "genres": [
+    "dark r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebabcd251f9aef722f3aca6905",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174abcd251f9aef722f3aca6905",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178abcd251f9aef722f3aca6905",
+      "width": 160
+    }
+  ],
+  "popularity": 59,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG"
+  }
+}

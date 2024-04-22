@@ -1,0 +1,33 @@
+{
+  "id": "0nJspN71ElUdTyruV0ESlM",
+  "name": "Pianopassion",
+  "uri": "spotify:artist:0nJspN71ElUdTyruV0ESlM",
+  "followers": {
+    "href": null,
+    "total": 4567
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb31caf32b7611d2f37c84e09c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517431caf32b7611d2f37c84e09c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17831caf32b7611d2f37c84e09c",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0nJspN71ElUdTyruV0ESlM"
+  }
+}

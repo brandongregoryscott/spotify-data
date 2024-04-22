@@ -1,0 +1,33 @@
+{
+  "id": "0fVqst4UD6o7SKW6SsWPfU",
+  "name": "NXSTY",
+  "uri": "spotify:artist:0fVqst4UD6o7SKW6SsWPfU",
+  "followers": {
+    "href": null,
+    "total": 21418
+  },
+  "genres": [
+    "canadian electronic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb550f3a49283a2189df07acda",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174550f3a49283a2189df07acda",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178550f3a49283a2189df07acda",
+      "width": 160
+    }
+  ],
+  "popularity": 45,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+  }
+}

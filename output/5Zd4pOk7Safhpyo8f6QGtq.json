@@ -1,0 +1,33 @@
+{
+  "id": "5Zd4pOk7Safhpyo8f6QGtq",
+  "name": "Ceramic",
+  "uri": "spotify:artist:5Zd4pOk7Safhpyo8f6QGtq",
+  "followers": {
+    "href": null,
+    "total": 528
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe1e5ba12b4710a4f2dc20f42",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e1e5ba12b4710a4f2dc20f42",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e1e5ba12b4710a4f2dc20f42",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Zd4pOk7Safhpyo8f6QGtq"
+  }
+}

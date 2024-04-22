@@ -1,0 +1,33 @@
+{
+  "id": "06AJvANXmsNIEFFA00yhYf",
+  "name": "Louie Blue",
+  "uri": "spotify:artist:06AJvANXmsNIEFFA00yhYf",
+  "followers": {
+    "href": null,
+    "total": 3105
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb55ae79f8dacfdcd6fbb63138",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517455ae79f8dacfdcd6fbb63138",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17855ae79f8dacfdcd6fbb63138",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/06AJvANXmsNIEFFA00yhYf"
+  }
+}

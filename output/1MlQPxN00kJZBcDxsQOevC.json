@@ -1,0 +1,33 @@
+{
+  "id": "1MlQPxN00kJZBcDxsQOevC",
+  "name": "Gyarucore Squid",
+  "uri": "spotify:artist:1MlQPxN00kJZBcDxsQOevC",
+  "followers": {
+    "href": null,
+    "total": 16013
+  },
+  "genres": [
+    "sillycore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb25797d39831b0dc9215b0af3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517425797d39831b0dc9215b0af3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17825797d39831b0dc9215b0af3",
+      "width": 160
+    }
+  ],
+  "popularity": 37,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1MlQPxN00kJZBcDxsQOevC"
+  }
+}

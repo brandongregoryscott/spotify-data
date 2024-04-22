@@ -1,0 +1,35 @@
+{
+  "id": "7kWwQAe9JnYNMk4kuEe73S",
+  "name": "The Cactus Blossoms",
+  "uri": "spotify:artist:7kWwQAe9JnYNMk4kuEe73S",
+  "followers": {
+    "href": null,
+    "total": 58179
+  },
+  "genres": [
+    "alternative country",
+    "midwest americana",
+    "new americana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaeecf1a7746a4a64288c9f21",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aeecf1a7746a4a64288c9f21",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aeecf1a7746a4a64288c9f21",
+      "width": 160
+    }
+  ],
+  "popularity": 41,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+  }
+}

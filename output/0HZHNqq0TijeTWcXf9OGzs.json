@@ -1,0 +1,33 @@
+{
+  "id": "0HZHNqq0TijeTWcXf9OGzs",
+  "name": "Class",
+  "uri": "spotify:artist:0HZHNqq0TijeTWcXf9OGzs",
+  "followers": {
+    "href": null,
+    "total": 873
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27328d67deb29cd57d667020cce",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0228d67deb29cd57d667020cce",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485128d67deb29cd57d667020cce",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0HZHNqq0TijeTWcXf9OGzs"
+  }
+}

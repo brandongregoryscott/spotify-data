@@ -1,0 +1,33 @@
+{
+  "id": "6IOp54e0ZK9Ccnb8WUIeUa",
+  "name": "kroh",
+  "uri": "spotify:artist:6IOp54e0ZK9Ccnb8WUIeUa",
+  "followers": {
+    "href": null,
+    "total": 38698
+  },
+  "genres": [
+    "pixel"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb986039fb973f9418fc579d8f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174986039fb973f9418fc579d8f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178986039fb973f9418fc579d8f",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6IOp54e0ZK9Ccnb8WUIeUa"
+  }
+}

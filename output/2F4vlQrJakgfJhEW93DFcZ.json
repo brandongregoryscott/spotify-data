@@ -1,0 +1,33 @@
+{
+  "id": "2F4vlQrJakgfJhEW93DFcZ",
+  "name": "Mally Mall",
+  "uri": "spotify:artist:2F4vlQrJakgfJhEW93DFcZ",
+  "followers": {
+    "href": null,
+    "total": 11422
+  },
+  "genres": [
+    "slow game"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb412244c6d76939f1125cadcb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174412244c6d76939f1125cadcb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178412244c6d76939f1125cadcb",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2F4vlQrJakgfJhEW93DFcZ"
+  }
+}

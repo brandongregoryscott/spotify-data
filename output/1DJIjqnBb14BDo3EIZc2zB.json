@@ -1,0 +1,33 @@
+{
+  "id": "1DJIjqnBb14BDo3EIZc2zB",
+  "name": "Van Houten",
+  "uri": "spotify:artist:1DJIjqnBb14BDo3EIZc2zB",
+  "followers": {
+    "href": null,
+    "total": 2191
+  },
+  "genres": [
+    "leeds indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb4bcc6b3665ceb3e3c9b10e3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b4bcc6b3665ceb3e3c9b10e3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b4bcc6b3665ceb3e3c9b10e3",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1DJIjqnBb14BDo3EIZc2zB"
+  }
+}

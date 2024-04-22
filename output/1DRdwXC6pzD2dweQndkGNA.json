@@ -1,0 +1,33 @@
+{
+  "id": "1DRdwXC6pzD2dweQndkGNA",
+  "name": "Spiller",
+  "uri": "spotify:artist:1DRdwXC6pzD2dweQndkGNA",
+  "followers": {
+    "href": null,
+    "total": 986
+  },
+  "genres": [
+    "eugene indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebad4df88ac1a173fa42dd7ca0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ad4df88ac1a173fa42dd7ca0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ad4df88ac1a173fa42dd7ca0",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1DRdwXC6pzD2dweQndkGNA"
+  }
+}

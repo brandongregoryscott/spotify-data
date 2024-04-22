@@ -1,0 +1,33 @@
+{
+  "id": "1Q3kVknXA56rhIAJN7VX57",
+  "name": "Landmarks",
+  "uri": "spotify:artist:1Q3kVknXA56rhIAJN7VX57",
+  "followers": {
+    "href": null,
+    "total": 26
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebde561cc04657b95c7e026223",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174de561cc04657b95c7e026223",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178de561cc04657b95c7e026223",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Q3kVknXA56rhIAJN7VX57"
+  }
+}

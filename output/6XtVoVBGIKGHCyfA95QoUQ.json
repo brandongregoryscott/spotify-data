@@ -1,0 +1,33 @@
+{
+  "id": "6XtVoVBGIKGHCyfA95QoUQ",
+  "name": "Kurokuma",
+  "uri": "spotify:artist:6XtVoVBGIKGHCyfA95QoUQ",
+  "followers": {
+    "href": null,
+    "total": 2689
+  },
+  "genres": [
+    "uk doom metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb042ea5aeba89f3076ddf1593",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174042ea5aeba89f3076ddf1593",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178042ea5aeba89f3076ddf1593",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6XtVoVBGIKGHCyfA95QoUQ"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3LJuGxgcwzaCYJLZfk4t2R",
+  "name": "Blazed",
+  "uri": "spotify:artist:3LJuGxgcwzaCYJLZfk4t2R",
+  "followers": {
+    "href": null,
+    "total": 377
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf9cf1d5ea1650c05ab64be9b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f9cf1d5ea1650c05ab64be9b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f9cf1d5ea1650c05ab64be9b",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3LJuGxgcwzaCYJLZfk4t2R"
+  }
+}

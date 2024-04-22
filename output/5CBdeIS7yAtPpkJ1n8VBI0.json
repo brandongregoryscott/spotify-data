@@ -1,0 +1,33 @@
+{
+  "id": "5CBdeIS7yAtPpkJ1n8VBI0",
+  "name": "Threshold",
+  "uri": "spotify:artist:5CBdeIS7yAtPpkJ1n8VBI0",
+  "followers": {
+    "href": null,
+    "total": 504
+  },
+  "genres": [
+    "australian hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd22de07f4eb64476dfb610f9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d22de07f4eb64476dfb610f9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d22de07f4eb64476dfb610f9",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5CBdeIS7yAtPpkJ1n8VBI0"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4rywWHt2YjkxMchoPOQ8TK",
+  "name": "Get Wrong",
+  "uri": "spotify:artist:4rywWHt2YjkxMchoPOQ8TK",
+  "followers": {
+    "href": null,
+    "total": 289
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe9afcdf2b56bf11572fb916a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e9afcdf2b56bf11572fb916a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e9afcdf2b56bf11572fb916a",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4rywWHt2YjkxMchoPOQ8TK"
+  }
+}

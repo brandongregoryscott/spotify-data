@@ -1,0 +1,33 @@
+{
+  "id": "5kDIvw2Bipnfy8PRQV9sLu",
+  "name": "Glassworld",
+  "uri": "spotify:artist:5kDIvw2Bipnfy8PRQV9sLu",
+  "followers": {
+    "href": null,
+    "total": 571
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb26edef7febadd11cd9cbaa0c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517426edef7febadd11cd9cbaa0c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17826edef7febadd11cd9cbaa0c",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5kDIvw2Bipnfy8PRQV9sLu"
+  }
+}

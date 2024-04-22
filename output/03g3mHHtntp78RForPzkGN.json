@@ -1,0 +1,33 @@
+{
+  "id": "03g3mHHtntp78RForPzkGN",
+  "name": "Motel Portrait",
+  "uri": "spotify:artist:03g3mHHtntp78RForPzkGN",
+  "followers": {
+    "href": null,
+    "total": 302
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebca871ad50ebdc859e5c0d1a0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ca871ad50ebdc859e5c0d1a0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ca871ad50ebdc859e5c0d1a0",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03g3mHHtntp78RForPzkGN"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2llTGhog6PYF3KfYg5sTYe",
+  "name": "Proyecto Gomez Casa",
+  "uri": "spotify:artist:2llTGhog6PYF3KfYg5sTYe",
+  "followers": {
+    "href": null,
+    "total": 4733
+  },
+  "genres": [
+    "electronica argentina",
+    "pop electronico",
+    "r&b argentino"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcbfcb8b836896d54867309d4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cbfcb8b836896d54867309d4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cbfcb8b836896d54867309d4",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe"
+  }
+}

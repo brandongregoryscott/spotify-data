@@ -1,0 +1,37 @@
+{
+  "id": "422RLznpwUa5FsQgnTlgUH",
+  "name": "Great Good Fine Ok",
+  "uri": "spotify:artist:422RLznpwUa5FsQgnTlgUH",
+  "followers": {
+    "href": null,
+    "total": 124733
+  },
+  "genres": [
+    "hopebeat",
+    "indie poptimism",
+    "metropopolis",
+    "neo-synthpop",
+    "nyc pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb700b95ddfb7c70893194debd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174700b95ddfb7c70893194debd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178700b95ddfb7c70893194debd",
+      "width": 160
+    }
+  ],
+  "popularity": 45,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH"
+  }
+}

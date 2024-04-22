@@ -1,0 +1,34 @@
+{
+  "id": "142YBUGmLWCJigFLzgguf8",
+  "name": "Gang of Youths",
+  "uri": "spotify:artist:142YBUGmLWCJigFLzgguf8",
+  "followers": {
+    "href": null,
+    "total": 388732
+  },
+  "genres": [
+    "australian indie",
+    "modern rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb49cc52e8c14304c5ce368adf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517449cc52e8c14304c5ce368adf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17849cc52e8c14304c5ce368adf",
+      "width": 160
+    }
+  ],
+  "popularity": 54,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
+  }
+}
