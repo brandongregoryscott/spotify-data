@@ -4,11 +4,12 @@
   "uri": "spotify:artist:2XnnxQzxFZG8qEPjakokPM",
   "followers": {
     "href": null,
-    "total": 1027899
+    "total": 1026288
   },
   "genres": [
     "detroit hip hop",
-    "gangster rap"
+    "gangster rap",
+    "hardcore hip hop"
   ],
   "images": [
     {
@@ -32,7 +33,7 @@
       "width": 64
     }
   ],
-  "popularity": 56,
+  "popularity": 55,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
   }
