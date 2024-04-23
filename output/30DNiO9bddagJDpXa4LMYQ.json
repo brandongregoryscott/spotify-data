@@ -4,10 +4,11 @@
   "uri": "spotify:artist:30DNiO9bddagJDpXa4LMYQ",
   "followers": {
     "href": null,
-    "total": 4402
+    "total": 4420
   },
   "genres": [
-    "vocaloid"
+    "vocaloid",
+    "vocaloid rock"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 64
     }
   ],
-  "popularity": 24,
+  "popularity": 23,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/30DNiO9bddagJDpXa4LMYQ"
   }
