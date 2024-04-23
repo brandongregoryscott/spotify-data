@@ -4,10 +4,11 @@
   "uri": "spotify:artist:0JmQGPrO3rgHZoyL2WwgIh",
   "followers": {
     "href": null,
-    "total": 8315
+    "total": 8317
   },
   "genres": [
-    "dubstep"
+    "dubstep",
+    "gaming dubstep"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 160
     }
   ],
-  "popularity": 22,
+  "popularity": 21,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/0JmQGPrO3rgHZoyL2WwgIh"
   }
