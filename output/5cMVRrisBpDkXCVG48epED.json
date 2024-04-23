@@ -4,13 +4,14 @@
   "uri": "spotify:artist:5cMVRrisBpDkXCVG48epED",
   "followers": {
     "href": null,
-    "total": 193309
+    "total": 193311
   },
   "genres": [
     "chamber pop",
     "indie pop",
     "lilith",
-    "new americana"
+    "new americana",
+    "seattle indie"
   ],
   "images": [
     {
@@ -29,7 +30,7 @@
       "width": 160
     }
   ],
-  "popularity": 46,
+  "popularity": 45,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
   }
