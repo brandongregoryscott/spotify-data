@@ -1,0 +1,34 @@
+{
+  "id": "5sCKWuakYloVbUIhqo5ZCa",
+  "name": "DB Omerta",
+  "uri": "spotify:artist:5sCKWuakYloVbUIhqo5ZCa",
+  "followers": {
+    "href": null,
+    "total": 12172
+  },
+  "genres": [
+    "atl hip hop",
+    "atl trap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb47d389650f01ef94d4959826",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517447d389650f01ef94d4959826",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17847d389650f01ef94d4959826",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5sCKWuakYloVbUIhqo5ZCa"
+  }
+}

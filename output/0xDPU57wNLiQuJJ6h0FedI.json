@@ -1,0 +1,33 @@
+{
+  "id": "0xDPU57wNLiQuJJ6h0FedI",
+  "name": "Astrale",
+  "uri": "spotify:artist:0xDPU57wNLiQuJJ6h0FedI",
+  "followers": {
+    "href": null,
+    "total": 5419
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb29f2fdec5d5daedfe2a883b3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517429f2fdec5d5daedfe2a883b3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17829f2fdec5d5daedfe2a883b3",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0xDPU57wNLiQuJJ6h0FedI"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0nQdb3ikyqMhr9ryaXQVbK",
+  "name": "Pelko",
+  "uri": "spotify:artist:0nQdb3ikyqMhr9ryaXQVbK",
+  "followers": {
+    "href": null,
+    "total": 244
+  },
+  "genres": [
+    "finnish indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc0899eff50109568c9d76a9e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c0899eff50109568c9d76a9e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c0899eff50109568c9d76a9e",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0nQdb3ikyqMhr9ryaXQVbK"
+  }
+}

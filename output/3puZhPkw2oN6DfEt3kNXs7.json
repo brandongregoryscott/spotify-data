@@ -1,0 +1,33 @@
+{
+  "id": "3puZhPkw2oN6DfEt3kNXs7",
+  "name": "Das Beat",
+  "uri": "spotify:artist:3puZhPkw2oN6DfEt3kNXs7",
+  "followers": {
+    "href": null,
+    "total": 3331
+  },
+  "genres": [
+    "neue neue deutsche welle"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb558ffa1596312d675cd9a5cd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174558ffa1596312d675cd9a5cd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178558ffa1596312d675cd9a5cd",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3puZhPkw2oN6DfEt3kNXs7"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "06z4MA08VK4YIZkAg4iTxF",
+  "name": "Uawa",
+  "uri": "spotify:artist:06z4MA08VK4YIZkAg4iTxF",
+  "followers": {
+    "href": null,
+    "total": 132
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd3b3b9670e2b13d454c85c61",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d3b3b9670e2b13d454c85c61",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d3b3b9670e2b13d454c85c61",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/06z4MA08VK4YIZkAg4iTxF"
+  }
+}

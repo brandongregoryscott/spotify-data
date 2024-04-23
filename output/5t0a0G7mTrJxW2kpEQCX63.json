@@ -1,0 +1,34 @@
+{
+  "id": "5t0a0G7mTrJxW2kpEQCX63",
+  "name": "FrontSide",
+  "uri": "spotify:artist:5t0a0G7mTrJxW2kpEQCX63",
+  "followers": {
+    "href": null,
+    "total": 14427
+  },
+  "genres": [
+    "polish metal",
+    "polish punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cd32734014cb6c33c8b7c253",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cd32734014cb6c33c8b7c253",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cd32734014cb6c33c8b7c253",
+      "width": 64
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5t0a0G7mTrJxW2kpEQCX63"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "3FsXf3kWXQwx2MEsft1YRw",
+  "name": "Ehnahre",
+  "uri": "spotify:artist:3FsXf3kWXQwx2MEsft1YRw",
+  "followers": {
+    "href": null,
+    "total": 827
+  },
+  "genres": [
+    "boston metal",
+    "drone metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27318ea4f2db919cfc457c66ec3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0218ea4f2db919cfc457c66ec3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485118ea4f2db919cfc457c66ec3",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3FsXf3kWXQwx2MEsft1YRw"
+  }
+}

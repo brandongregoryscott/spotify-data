@@ -1,0 +1,33 @@
+{
+  "id": "1TGDMRqhE7pxc6vvjFYOdp",
+  "name": "Roku Music",
+  "uri": "spotify:artist:1TGDMRqhE7pxc6vvjFYOdp",
+  "followers": {
+    "href": null,
+    "total": 506
+  },
+  "genres": [
+    "australian shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27334014246541599337b8179e8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0234014246541599337b8179e8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485134014246541599337b8179e8",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1TGDMRqhE7pxc6vvjFYOdp"
+  }
+}

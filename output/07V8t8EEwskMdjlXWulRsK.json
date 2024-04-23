@@ -1,0 +1,33 @@
+{
+  "id": "07V8t8EEwskMdjlXWulRsK",
+  "name": "GAZZI",
+  "uri": "spotify:artist:07V8t8EEwskMdjlXWulRsK",
+  "followers": {
+    "href": null,
+    "total": 5722
+  },
+  "genres": [
+    "experimental club"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb06e2797735823a0e408efd6f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517406e2797735823a0e408efd6f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17806e2797735823a0e408efd6f",
+      "width": 160
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07V8t8EEwskMdjlXWulRsK"
+  }
+}

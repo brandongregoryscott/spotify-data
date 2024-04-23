@@ -1,0 +1,33 @@
+{
+  "id": "7BRg84LBtM3wAsoTKqvmqw",
+  "name": "Arrêt",
+  "uri": "spotify:artist:7BRg84LBtM3wAsoTKqvmqw",
+  "followers": {
+    "href": null,
+    "total": 180
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736219fb6349f5ec34abfa1ee4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026219fb6349f5ec34abfa1ee4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516219fb6349f5ec34abfa1ee4",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7BRg84LBtM3wAsoTKqvmqw"
+  }
+}

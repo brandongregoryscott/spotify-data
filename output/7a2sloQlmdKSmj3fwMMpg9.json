@@ -1,0 +1,34 @@
+{
+  "id": "7a2sloQlmdKSmj3fwMMpg9",
+  "name": "The Meteors",
+  "uri": "spotify:artist:7a2sloQlmdKSmj3fwMMpg9",
+  "followers": {
+    "href": null,
+    "total": 72541
+  },
+  "genres": [
+    "psychobilly",
+    "pub rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739554364082ecf1bcd6124e49",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029554364082ecf1bcd6124e49",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519554364082ecf1bcd6124e49",
+      "width": 64
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7a2sloQlmdKSmj3fwMMpg9"
+  }
+}

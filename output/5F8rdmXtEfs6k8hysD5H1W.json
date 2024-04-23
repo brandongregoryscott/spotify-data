@@ -1,0 +1,33 @@
+{
+  "id": "5F8rdmXtEfs6k8hysD5H1W",
+  "name": "Kibosh",
+  "uri": "spotify:artist:5F8rdmXtEfs6k8hysD5H1W",
+  "followers": {
+    "href": null,
+    "total": 165
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb76f2cf268ca991f4e65d9e16",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517476f2cf268ca991f4e65d9e16",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17876f2cf268ca991f4e65d9e16",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5F8rdmXtEfs6k8hysD5H1W"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2mUGKlvJrS87MDsEFAXIBE",
+  "name": "Relesser",
+  "uri": "spotify:artist:2mUGKlvJrS87MDsEFAXIBE",
+  "followers": {
+    "href": null,
+    "total": 747
+  },
+  "genres": [
+    "christian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb43810f5e035a117186adf98c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517443810f5e035a117186adf98c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17843810f5e035a117186adf98c",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2mUGKlvJrS87MDsEFAXIBE"
+  }
+}

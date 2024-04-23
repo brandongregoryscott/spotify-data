@@ -1,0 +1,33 @@
+{
+  "id": "2ECvH4RKMkR2Ut0EK5l2Ad",
+  "name": "The Blue Herons",
+  "uri": "spotify:artist:2ECvH4RKMkR2Ut0EK5l2Ad",
+  "followers": {
+    "href": null,
+    "total": 305
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebadbf797f2c0396f4a70c320f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174adbf797f2c0396f4a70c320f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178adbf797f2c0396f4a70c320f",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ECvH4RKMkR2Ut0EK5l2Ad"
+  }
+}

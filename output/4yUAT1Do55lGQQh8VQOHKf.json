@@ -1,0 +1,33 @@
+{
+  "id": "4yUAT1Do55lGQQh8VQOHKf",
+  "name": "Buddy Baker",
+  "uri": "spotify:artist:4yUAT1Do55lGQQh8VQOHKf",
+  "followers": {
+    "href": null,
+    "total": 759
+  },
+  "genres": [
+    "movie tunes"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273858e12d7c79cf58273fee66a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02858e12d7c79cf58273fee66a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851858e12d7c79cf58273fee66a",
+      "width": 64
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4yUAT1Do55lGQQh8VQOHKf"
+  }
+}

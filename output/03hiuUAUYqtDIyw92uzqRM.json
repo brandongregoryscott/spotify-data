@@ -1,0 +1,35 @@
+{
+  "id": "03hiuUAUYqtDIyw92uzqRM",
+  "name": "Flourishing",
+  "uri": "spotify:artist:03hiuUAUYqtDIyw92uzqRM",
+  "followers": {
+    "href": null,
+    "total": 1286
+  },
+  "genres": [
+    "new york death metal",
+    "nyc metal",
+    "technical death metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736bead8b1d92aaeca4443d62b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026bead8b1d92aaeca4443d62b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516bead8b1d92aaeca4443d62b",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03hiuUAUYqtDIyw92uzqRM"
+  }
+}

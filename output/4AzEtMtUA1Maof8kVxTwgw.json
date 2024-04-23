@@ -1,0 +1,33 @@
+{
+  "id": "4AzEtMtUA1Maof8kVxTwgw",
+  "name": "vinylcat",
+  "uri": "spotify:artist:4AzEtMtUA1Maof8kVxTwgw",
+  "followers": {
+    "href": null,
+    "total": 157
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4a4c2ba29d8763c8afd708fa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744a4c2ba29d8763c8afd708fa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784a4c2ba29d8763c8afd708fa",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4AzEtMtUA1Maof8kVxTwgw"
+  }
+}

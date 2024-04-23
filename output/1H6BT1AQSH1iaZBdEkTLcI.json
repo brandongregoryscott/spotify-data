@@ -1,0 +1,33 @@
+{
+  "id": "1H6BT1AQSH1iaZBdEkTLcI",
+  "name": "Guillotine",
+  "uri": "spotify:artist:1H6BT1AQSH1iaZBdEkTLcI",
+  "followers": {
+    "href": null,
+    "total": 447
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb07592b8c8c7abb9e1fcd588a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517407592b8c8c7abb9e1fcd588a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17807592b8c8c7abb9e1fcd588a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1H6BT1AQSH1iaZBdEkTLcI"
+  }
+}

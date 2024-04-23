@@ -1,0 +1,33 @@
+{
+  "id": "11nxtRTNA37ssodght3bJf",
+  "name": "Yuji",
+  "uri": "spotify:artist:11nxtRTNA37ssodght3bJf",
+  "followers": {
+    "href": null,
+    "total": 617
+  },
+  "genres": [
+    "aesthetic rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb120e418b9cb26bde6d37577f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174120e418b9cb26bde6d37577f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178120e418b9cb26bde6d37577f",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/11nxtRTNA37ssodght3bJf"
+  }
+}

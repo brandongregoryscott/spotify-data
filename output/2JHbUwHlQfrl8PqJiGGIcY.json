@@ -1,0 +1,33 @@
+{
+  "id": "2JHbUwHlQfrl8PqJiGGIcY",
+  "name": "NILS KEPPEL",
+  "uri": "spotify:artist:2JHbUwHlQfrl8PqJiGGIcY",
+  "followers": {
+    "href": null,
+    "total": 9158
+  },
+  "genres": [
+    "neue neue deutsche welle"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb73e4be11da7c1d92a1aada3c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517473e4be11da7c1d92a1aada3c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17873e4be11da7c1d92a1aada3c",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2JHbUwHlQfrl8PqJiGGIcY"
+  }
+}

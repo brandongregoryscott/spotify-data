@@ -1,0 +1,34 @@
+{
+  "id": "0AhnRzNnHI2Yhx9d00H5Cp",
+  "name": "Rendezvous Point",
+  "uri": "spotify:artist:0AhnRzNnHI2Yhx9d00H5Cp",
+  "followers": {
+    "href": null,
+    "total": 15837
+  },
+  "genres": [
+    "progressive metal",
+    "sci-fi metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb999db6feef146e2aa72cb198",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174999db6feef146e2aa72cb198",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178999db6feef146e2aa72cb198",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0AhnRzNnHI2Yhx9d00H5Cp"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5pD33SUgX5GQ8NvqZ6IdeE",
+  "name": "Darksoft",
+  "uri": "spotify:artist:5pD33SUgX5GQ8NvqZ6IdeE",
+  "followers": {
+    "href": null,
+    "total": 1033
+  },
+  "genres": [
+    "chill dream pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd8a7acc0fcab5502fedbcc2b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d8a7acc0fcab5502fedbcc2b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d8a7acc0fcab5502fedbcc2b",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5pD33SUgX5GQ8NvqZ6IdeE"
+  }
+}

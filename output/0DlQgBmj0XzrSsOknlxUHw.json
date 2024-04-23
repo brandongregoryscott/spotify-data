@@ -1,0 +1,33 @@
+{
+  "id": "0DlQgBmj0XzrSsOknlxUHw",
+  "name": "Room307",
+  "uri": "spotify:artist:0DlQgBmj0XzrSsOknlxUHw",
+  "followers": {
+    "href": null,
+    "total": 17823
+  },
+  "genres": [
+    "hong kong indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb90ff0a7f776cc0b212f04061",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517490ff0a7f776cc0b212f04061",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17890ff0a7f776cc0b212f04061",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0DlQgBmj0XzrSsOknlxUHw"
+  }
+}

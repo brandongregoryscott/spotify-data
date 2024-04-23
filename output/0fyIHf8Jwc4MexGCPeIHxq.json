@@ -1,0 +1,33 @@
+{
+  "id": "0fyIHf8Jwc4MexGCPeIHxq",
+  "name": "HÄN",
+  "uri": "spotify:artist:0fyIHf8Jwc4MexGCPeIHxq",
+  "followers": {
+    "href": null,
+    "total": 476
+  },
+  "genres": [
+    "suomi rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf1c023f7de44e6afa10a5b66",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f1c023f7de44e6afa10a5b66",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f1c023f7de44e6afa10a5b66",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0fyIHf8Jwc4MexGCPeIHxq"
+  }
+}

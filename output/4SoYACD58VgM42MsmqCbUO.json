@@ -1,0 +1,33 @@
+{
+  "id": "4SoYACD58VgM42MsmqCbUO",
+  "name": "UNION",
+  "uri": "spotify:artist:4SoYACD58VgM42MsmqCbUO",
+  "followers": {
+    "href": null,
+    "total": 170
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb94b11157bdf6ffb17f9bfc9e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517494b11157bdf6ffb17f9bfc9e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17894b11157bdf6ffb17f9bfc9e",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4SoYACD58VgM42MsmqCbUO"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "6ZIgPKHzpcswB8zh7sRIhx",
+  "name": "Divididos",
+  "uri": "spotify:artist:6ZIgPKHzpcswB8zh7sRIhx",
+  "followers": {
+    "href": null,
+    "total": 1004022
+  },
+  "genres": [
+    "argentine rock",
+    "rock en espanol",
+    "ska argentino"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba96c81176c455e3b8c9ca0f8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a96c81176c455e3b8c9ca0f8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a96c81176c455e3b8c9ca0f8",
+      "width": 160
+    }
+  ],
+  "popularity": 56,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+  }
+}

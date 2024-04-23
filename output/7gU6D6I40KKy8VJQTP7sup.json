@@ -1,0 +1,33 @@
+{
+  "id": "7gU6D6I40KKy8VJQTP7sup",
+  "name": "Over 9000",
+  "uri": "spotify:artist:7gU6D6I40KKy8VJQTP7sup",
+  "followers": {
+    "href": null,
+    "total": 353
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb1315394bb6dae9c1774e38a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b1315394bb6dae9c1774e38a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b1315394bb6dae9c1774e38a",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7gU6D6I40KKy8VJQTP7sup"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7oVbUbwdZ8HhRKXr78Almd",
+  "name": "Arc Yellow",
+  "uri": "spotify:artist:7oVbUbwdZ8HhRKXr78Almd",
+  "followers": {
+    "href": null,
+    "total": 1110
+  },
+  "genres": [
+    "indonesian punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc222d1b8f8554da369abc43a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c222d1b8f8554da369abc43a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c222d1b8f8554da369abc43a",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7oVbUbwdZ8HhRKXr78Almd"
+  }
+}

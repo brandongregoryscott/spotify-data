@@ -1,0 +1,33 @@
+{
+  "id": "3ijhTuCFKfoF9PuPwzNjKM",
+  "name": "El Álamo",
+  "uri": "spotify:artist:3ijhTuCFKfoF9PuPwzNjKM",
+  "followers": {
+    "href": null,
+    "total": 1581
+  },
+  "genres": [
+    "nueva ola peruana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ec44aa81eeb017cae1ac1a2f13de99c8612af100",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/19cb7bebfb85e25e37b1dbbcc8d8694eafad7310",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/a71baebb268a97bab77d205a79361a161e802b4a",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ijhTuCFKfoF9PuPwzNjKM"
+  }
+}

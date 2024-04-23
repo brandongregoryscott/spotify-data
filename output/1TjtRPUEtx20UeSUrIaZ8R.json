@@ -1,0 +1,33 @@
+{
+  "id": "1TjtRPUEtx20UeSUrIaZ8R",
+  "name": "Magic America",
+  "uri": "spotify:artist:1TjtRPUEtx20UeSUrIaZ8R",
+  "followers": {
+    "href": null,
+    "total": 82
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb353e49925eb26436c0bb5cf3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174353e49925eb26436c0bb5cf3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178353e49925eb26436c0bb5cf3",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1TjtRPUEtx20UeSUrIaZ8R"
+  }
+}

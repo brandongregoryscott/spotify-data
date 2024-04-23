@@ -1,0 +1,33 @@
+{
+  "id": "7JEbPIOHifPgh1fLP1H5tw",
+  "name": "remi",
+  "uri": "spotify:artist:7JEbPIOHifPgh1fLP1H5tw",
+  "followers": {
+    "href": null,
+    "total": 228
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f29c30dda90a46fe00c97ccd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f29c30dda90a46fe00c97ccd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f29c30dda90a46fe00c97ccd",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7JEbPIOHifPgh1fLP1H5tw"
+  }
+}

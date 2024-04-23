@@ -1,0 +1,34 @@
+{
+  "id": "5ILHTFZeVJHlBFC2MkbPe8",
+  "name": "Headons",
+  "uri": "spotify:artist:5ILHTFZeVJHlBFC2MkbPe8",
+  "followers": {
+    "href": null,
+    "total": 627
+  },
+  "genres": [
+    "swedish pop punk",
+    "swedish punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc58e6b36c0b6012f237b6c5c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c58e6b36c0b6012f237b6c5c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c58e6b36c0b6012f237b6c5c",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ILHTFZeVJHlBFC2MkbPe8"
+  }
+}

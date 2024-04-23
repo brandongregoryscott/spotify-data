@@ -1,0 +1,33 @@
+{
+  "id": "3csl1oCg9sosNNWnEPDXfY",
+  "name": "Dugan",
+  "uri": "spotify:artist:3csl1oCg9sosNNWnEPDXfY",
+  "followers": {
+    "href": null,
+    "total": 164
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27323824ff0425ef7898bdb4977",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0223824ff0425ef7898bdb4977",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485123824ff0425ef7898bdb4977",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3csl1oCg9sosNNWnEPDXfY"
+  }
+}
