@@ -4,10 +4,11 @@
   "uri": "spotify:artist:6HaHcRhCqse7t8iDOxjHoc",
   "followers": {
     "href": null,
-    "total": 4638
+    "total": 4642
   },
   "genres": [
-    "japanese jazz"
+    "japanese jazz",
+    "japanese jazz fusion"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 64
     }
   ],
-  "popularity": 17,
+  "popularity": 16,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/6HaHcRhCqse7t8iDOxjHoc"
   }
