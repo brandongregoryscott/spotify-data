@@ -4,10 +4,11 @@
   "uri": "spotify:artist:7tjVFCxJdwT4NdrTmjyjQ6",
   "followers": {
     "href": null,
-    "total": 479236
+    "total": 480219
   },
   "genres": [
-    "indie r&b"
+    "indie r&b",
+    "pop r&b"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 160
     }
   ],
-  "popularity": 70,
+  "popularity": 69,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
   }
