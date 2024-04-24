@@ -1,0 +1,33 @@
+{
+  "id": "1IU8Y8EUogFf85PtoaikIK",
+  "name": "June LaLonde",
+  "uri": "spotify:artist:1IU8Y8EUogFf85PtoaikIK",
+  "followers": {
+    "href": null,
+    "total": 516
+  },
+  "genres": [
+    "furry"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfea3edfe6364bc34fab87e42",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fea3edfe6364bc34fab87e42",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fea3edfe6364bc34fab87e42",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1IU8Y8EUogFf85PtoaikIK"
+  }
+}

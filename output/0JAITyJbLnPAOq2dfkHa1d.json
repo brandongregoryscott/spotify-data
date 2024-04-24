@@ -1,0 +1,33 @@
+{
+  "id": "0JAITyJbLnPAOq2dfkHa1d",
+  "name": "Community Garden",
+  "uri": "spotify:artist:0JAITyJbLnPAOq2dfkHa1d",
+  "followers": {
+    "href": null,
+    "total": 87
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd5ffe89c715f66f1ee35cb58",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d5ffe89c715f66f1ee35cb58",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d5ffe89c715f66f1ee35cb58",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0JAITyJbLnPAOq2dfkHa1d"
+  }
+}

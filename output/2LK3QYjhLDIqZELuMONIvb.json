@@ -1,0 +1,33 @@
+{
+  "id": "2LK3QYjhLDIqZELuMONIvb",
+  "name": "Sun Junkies",
+  "uri": "spotify:artist:2LK3QYjhLDIqZELuMONIvb",
+  "followers": {
+    "href": null,
+    "total": 1363
+  },
+  "genres": [
+    "canadian garage rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb78dd7b7225d77265345cfdea",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517478dd7b7225d77265345cfdea",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17878dd7b7225d77265345cfdea",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2LK3QYjhLDIqZELuMONIvb"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "40HnaCFtcK8jYLnQWovMre",
+  "name": "Alle",
+  "uri": "spotify:artist:40HnaCFtcK8jYLnQWovMre",
+  "followers": {
+    "href": null,
+    "total": 3554
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27305ec8c3cb03cd5520c00fe30",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0205ec8c3cb03cd5520c00fe30",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485105ec8c3cb03cd5520c00fe30",
+      "width": 64
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/40HnaCFtcK8jYLnQWovMre"
+  }
+}

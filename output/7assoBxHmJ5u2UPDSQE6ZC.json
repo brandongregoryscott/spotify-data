@@ -1,0 +1,33 @@
+{
+  "id": "7assoBxHmJ5u2UPDSQE6ZC",
+  "name": "Nicholas Pike",
+  "uri": "spotify:artist:7assoBxHmJ5u2UPDSQE6ZC",
+  "followers": {
+    "href": null,
+    "total": 291
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273af8cfe23b1ed8280923abc32",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02af8cfe23b1ed8280923abc32",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851af8cfe23b1ed8280923abc32",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7assoBxHmJ5u2UPDSQE6ZC"
+  }
+}

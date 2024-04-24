@@ -1,0 +1,33 @@
+{
+  "id": "1eBtR4FnovvBPHljlCrRB0",
+  "name": "Evan Fox",
+  "uri": "spotify:artist:1eBtR4FnovvBPHljlCrRB0",
+  "followers": {
+    "href": null,
+    "total": 164
+  },
+  "genres": [
+    "delaware indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba72ca5fe54197a6f3afd64f7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a72ca5fe54197a6f3afd64f7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a72ca5fe54197a6f3afd64f7",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1eBtR4FnovvBPHljlCrRB0"
+  }
+}

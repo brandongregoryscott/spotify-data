@@ -1,0 +1,33 @@
+{
+  "id": "4t8aOgkdxvNpVmnKGrlhmv",
+  "name": "Yelephants",
+  "uri": "spotify:artist:4t8aOgkdxvNpVmnKGrlhmv",
+  "followers": {
+    "href": null,
+    "total": 350
+  },
+  "genres": [
+    "new orleans indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734cefd51f7181d0d60019d3b1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024cefd51f7181d0d60019d3b1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514cefd51f7181d0d60019d3b1",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4t8aOgkdxvNpVmnKGrlhmv"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1EDMEXJdbRblEm3ssWEwl9",
+  "name": "Ruby Doom",
+  "uri": "spotify:artist:1EDMEXJdbRblEm3ssWEwl9",
+  "followers": {
+    "href": null,
+    "total": 190
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb02dbd1a8001d1c38fa0c2214",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517402dbd1a8001d1c38fa0c2214",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17802dbd1a8001d1c38fa0c2214",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1EDMEXJdbRblEm3ssWEwl9"
+  }
+}

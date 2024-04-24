@@ -1,0 +1,33 @@
+{
+  "id": "2kULfA7V6aNsNHFyZeH31c",
+  "name": "Super Powered Yaks",
+  "uri": "spotify:artist:2kULfA7V6aNsNHFyZeH31c",
+  "followers": {
+    "href": null,
+    "total": 591
+  },
+  "genres": [
+    "furry"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb164d9e6866e524721d7e933a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174164d9e6866e524721d7e933a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178164d9e6866e524721d7e933a",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2kULfA7V6aNsNHFyZeH31c"
+  }
+}

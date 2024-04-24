@@ -1,0 +1,33 @@
+{
+  "id": "1l6R5q9qne7N80V0W2LeFt",
+  "name": "Pasajero Frecuente",
+  "uri": "spotify:artist:1l6R5q9qne7N80V0W2LeFt",
+  "followers": {
+    "href": null,
+    "total": 116
+  },
+  "genres": [
+    "chilean indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5302fb3b0f871d58482b86a2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051745302fb3b0f871d58482b86a2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1785302fb3b0f871d58482b86a2",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1l6R5q9qne7N80V0W2LeFt"
+  }
+}

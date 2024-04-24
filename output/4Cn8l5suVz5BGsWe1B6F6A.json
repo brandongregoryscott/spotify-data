@@ -1,0 +1,33 @@
+{
+  "id": "4Cn8l5suVz5BGsWe1B6F6A",
+  "name": "Exhibit",
+  "uri": "spotify:artist:4Cn8l5suVz5BGsWe1B6F6A",
+  "followers": {
+    "href": null,
+    "total": 482
+  },
+  "genres": [
+    "italian emo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb10a8eb852903549791a5911d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517410a8eb852903549791a5911d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17810a8eb852903549791a5911d",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Cn8l5suVz5BGsWe1B6F6A"
+  }
+}

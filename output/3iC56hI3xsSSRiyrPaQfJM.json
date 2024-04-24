@@ -1,0 +1,33 @@
+{
+  "id": "3iC56hI3xsSSRiyrPaQfJM",
+  "name": "Lurch",
+  "uri": "spotify:artist:3iC56hI3xsSSRiyrPaQfJM",
+  "followers": {
+    "href": null,
+    "total": 234
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc4492d6602ce1d7a9573f67d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c4492d6602ce1d7a9573f67d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c4492d6602ce1d7a9573f67d",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3iC56hI3xsSSRiyrPaQfJM"
+  }
+}

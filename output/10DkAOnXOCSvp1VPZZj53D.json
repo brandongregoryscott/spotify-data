@@ -1,0 +1,33 @@
+{
+  "id": "10DkAOnXOCSvp1VPZZj53D",
+  "name": "Consequence",
+  "uri": "spotify:artist:10DkAOnXOCSvp1VPZZj53D",
+  "followers": {
+    "href": null,
+    "total": 136
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734aeaee5f7945ac789ccebfe2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024aeaee5f7945ac789ccebfe2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514aeaee5f7945ac789ccebfe2",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/10DkAOnXOCSvp1VPZZj53D"
+  }
+}

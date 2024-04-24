@@ -1,0 +1,34 @@
+{
+  "id": "3ihcza50ukOh0F8DDBNs85",
+  "name": "Sinawe",
+  "uri": "spotify:artist:3ihcza50ukOh0F8DDBNs85",
+  "followers": {
+    "href": null,
+    "total": 2483
+  },
+  "genres": [
+    "k-rock",
+    "korean metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730e665cbd1b90be2fda799716",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f6afc39e8b2b56a9ff1a596c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f6afc39e8b2b56a9ff1a596c",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ihcza50ukOh0F8DDBNs85"
+  }
+}

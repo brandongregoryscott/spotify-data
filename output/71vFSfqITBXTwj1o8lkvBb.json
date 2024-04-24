@@ -1,0 +1,33 @@
+{
+  "id": "71vFSfqITBXTwj1o8lkvBb",
+  "name": "The Wheelz",
+  "uri": "spotify:artist:71vFSfqITBXTwj1o8lkvBb",
+  "followers": {
+    "href": null,
+    "total": 2030
+  },
+  "genres": [
+    "street punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd41ed31a6143ef347c703a1b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d41ed31a6143ef347c703a1b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d41ed31a6143ef347c703a1b",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/71vFSfqITBXTwj1o8lkvBb"
+  }
+}

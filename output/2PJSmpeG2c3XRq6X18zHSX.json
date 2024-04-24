@@ -1,0 +1,33 @@
+{
+  "id": "2PJSmpeG2c3XRq6X18zHSX",
+  "name": "Racoo",
+  "uri": "spotify:artist:2PJSmpeG2c3XRq6X18zHSX",
+  "followers": {
+    "href": null,
+    "total": 174
+  },
+  "genres": [
+    "fremantle indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735cc55e9041b6f5175cf711f6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025cc55e9041b6f5175cf711f6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515cc55e9041b6f5175cf711f6",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2PJSmpeG2c3XRq6X18zHSX"
+  }
+}

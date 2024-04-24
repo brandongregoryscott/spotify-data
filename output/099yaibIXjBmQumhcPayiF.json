@@ -1,0 +1,33 @@
+{
+  "id": "099yaibIXjBmQumhcPayiF",
+  "name": "Cathanol",
+  "uri": "spotify:artist:099yaibIXjBmQumhcPayiF",
+  "followers": {
+    "href": null,
+    "total": 438
+  },
+  "genres": [
+    "furry"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb98f8c3021491780c43365643",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517498f8c3021491780c43365643",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17898f8c3021491780c43365643",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/099yaibIXjBmQumhcPayiF"
+  }
+}

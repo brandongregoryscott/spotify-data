@@ -1,0 +1,33 @@
+{
+  "id": "4kY7561u96mXGEzIwECjdd",
+  "name": "BAZAAR",
+  "uri": "spotify:artist:4kY7561u96mXGEzIwECjdd",
+  "followers": {
+    "href": null,
+    "total": 166
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb914a823a4c301d83117418e9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174914a823a4c301d83117418e9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178914a823a4c301d83117418e9",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4kY7561u96mXGEzIwECjdd"
+  }
+}

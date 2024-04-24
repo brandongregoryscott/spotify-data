@@ -1,0 +1,33 @@
+{
+  "id": "3POyMxPJ5nrUFsD8yBZU39",
+  "name": "Chaska",
+  "uri": "spotify:artist:3POyMxPJ5nrUFsD8yBZU39",
+  "followers": {
+    "href": null,
+    "total": 1979
+  },
+  "genres": [
+    "indie arequipeno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6bdeea8ca449b0900dd56cdb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051746bdeea8ca449b0900dd56cdb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1786bdeea8ca449b0900dd56cdb",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3POyMxPJ5nrUFsD8yBZU39"
+  }
+}

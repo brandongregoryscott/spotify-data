@@ -1,0 +1,33 @@
+{
+  "id": "1UooSVozuknyI3qIheF7LT",
+  "name": "Space Bacon",
+  "uri": "spotify:artist:1UooSVozuknyI3qIheF7LT",
+  "followers": {
+    "href": null,
+    "total": 4418
+  },
+  "genres": [
+    "jamtronica"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb04370df95ae8ad083d45de0f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517404370df95ae8ad083d45de0f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17804370df95ae8ad083d45de0f",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1UooSVozuknyI3qIheF7LT"
+  }
+}

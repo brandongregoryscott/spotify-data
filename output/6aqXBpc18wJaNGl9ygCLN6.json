@@ -1,0 +1,33 @@
+{
+  "id": "6aqXBpc18wJaNGl9ygCLN6",
+  "name": "Ahven",
+  "uri": "spotify:artist:6aqXBpc18wJaNGl9ygCLN6",
+  "followers": {
+    "href": null,
+    "total": 217
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb236c65974b23c8829090408",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b236c65974b23c8829090408",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b236c65974b23c8829090408",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6aqXBpc18wJaNGl9ygCLN6"
+  }
+}

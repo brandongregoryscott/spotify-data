@@ -1,0 +1,33 @@
+{
+  "id": "6C0JkmxU2cgkVzotHJgfW7",
+  "name": "Athlete",
+  "uri": "spotify:artist:6C0JkmxU2cgkVzotHJgfW7",
+  "followers": {
+    "href": null,
+    "total": 132313
+  },
+  "genres": [
+    "britpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb99ad3e28ad6b7e82e2cd9051",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517499ad3e28ad6b7e82e2cd9051",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17899ad3e28ad6b7e82e2cd9051",
+      "width": 160
+    }
+  ],
+  "popularity": 37,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6C0JkmxU2cgkVzotHJgfW7"
+  }
+}

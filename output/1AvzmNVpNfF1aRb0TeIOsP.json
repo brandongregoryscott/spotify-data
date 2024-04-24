@@ -1,0 +1,33 @@
+{
+  "id": "1AvzmNVpNfF1aRb0TeIOsP",
+  "name": "Eddz",
+  "uri": "spotify:artist:1AvzmNVpNfF1aRb0TeIOsP",
+  "followers": {
+    "href": null,
+    "total": 143
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba215f0beba7d73a9e1f3ddeb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a215f0beba7d73a9e1f3ddeb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a215f0beba7d73a9e1f3ddeb",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1AvzmNVpNfF1aRb0TeIOsP"
+  }
+}

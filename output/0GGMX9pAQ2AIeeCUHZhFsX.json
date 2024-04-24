@@ -1,0 +1,33 @@
+{
+  "id": "0GGMX9pAQ2AIeeCUHZhFsX",
+  "name": "blare",
+  "uri": "spotify:artist:0GGMX9pAQ2AIeeCUHZhFsX",
+  "followers": {
+    "href": null,
+    "total": 760
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebedc843b8e1518eea079800ce",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174edc843b8e1518eea079800ce",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178edc843b8e1518eea079800ce",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0GGMX9pAQ2AIeeCUHZhFsX"
+  }
+}

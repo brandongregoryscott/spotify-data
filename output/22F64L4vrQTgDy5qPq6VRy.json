@@ -1,0 +1,33 @@
+{
+  "id": "22F64L4vrQTgDy5qPq6VRy",
+  "name": "Yam",
+  "uri": "spotify:artist:22F64L4vrQTgDy5qPq6VRy",
+  "followers": {
+    "href": null,
+    "total": 592
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfb4e85066c63f764a0d6efce",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fb4e85066c63f764a0d6efce",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fb4e85066c63f764a0d6efce",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/22F64L4vrQTgDy5qPq6VRy"
+  }
+}

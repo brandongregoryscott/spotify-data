@@ -1,0 +1,33 @@
+{
+  "id": "3SMY2MGuaUOhuPpgRn6clw",
+  "name": "Margo Guryan",
+  "uri": "spotify:artist:3SMY2MGuaUOhuPpgRn6clw",
+  "followers": {
+    "href": null,
+    "total": 99078
+  },
+  "genres": [
+    "baroque pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbcd443a2d0bb219c7e49e0c9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bcd443a2d0bb219c7e49e0c9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bcd443a2d0bb219c7e49e0c9",
+      "width": 160
+    }
+  ],
+  "popularity": 46,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3SMY2MGuaUOhuPpgRn6clw"
+  }
+}

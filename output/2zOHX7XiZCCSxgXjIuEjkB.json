@@ -1,0 +1,33 @@
+{
+  "id": "2zOHX7XiZCCSxgXjIuEjkB",
+  "name": "La Situazione",
+  "uri": "spotify:artist:2zOHX7XiZCCSxgXjIuEjkB",
+  "followers": {
+    "href": null,
+    "total": 231
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb178555902b771577159cd2ed",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174178555902b771577159cd2ed",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178178555902b771577159cd2ed",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2zOHX7XiZCCSxgXjIuEjkB"
+  }
+}

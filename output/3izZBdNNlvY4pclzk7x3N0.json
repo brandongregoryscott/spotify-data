@@ -1,0 +1,33 @@
+{
+  "id": "3izZBdNNlvY4pclzk7x3N0",
+  "name": "Afloat",
+  "uri": "spotify:artist:3izZBdNNlvY4pclzk7x3N0",
+  "followers": {
+    "href": null,
+    "total": 498
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba6becf220d72c611ef2baf6d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a6becf220d72c611ef2baf6d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a6becf220d72c611ef2baf6d",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3izZBdNNlvY4pclzk7x3N0"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4VRxzd490j4cNhvQtjmDMc",
+  "name": "Won Pound",
+  "uri": "spotify:artist:4VRxzd490j4cNhvQtjmDMc",
+  "followers": {
+    "href": null,
+    "total": 342
+  },
+  "genres": [
+    "connecticut indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebadc674968438424f85750c82",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174adc674968438424f85750c82",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178adc674968438424f85750c82",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4VRxzd490j4cNhvQtjmDMc"
+  }
+}

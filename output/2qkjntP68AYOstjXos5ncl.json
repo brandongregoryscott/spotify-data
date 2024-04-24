@@ -1,0 +1,33 @@
+{
+  "id": "2qkjntP68AYOstjXos5ncl",
+  "name": "Arcadian",
+  "uri": "spotify:artist:2qkjntP68AYOstjXos5ncl",
+  "followers": {
+    "href": null,
+    "total": 296
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27391b24abd923db39ecc26bad6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0291b24abd923db39ecc26bad6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485191b24abd923db39ecc26bad6",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2qkjntP68AYOstjXos5ncl"
+  }
+}

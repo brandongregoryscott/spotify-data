@@ -1,0 +1,33 @@
+{
+  "id": "5Cya12X2sT1Xplvl385MKq",
+  "name": "Moody Beaches",
+  "uri": "spotify:artist:5Cya12X2sT1Xplvl385MKq",
+  "followers": {
+    "href": null,
+    "total": 1185
+  },
+  "genres": [
+    "melbourne indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdfab9c4796739dbed5a7fa9b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dfab9c4796739dbed5a7fa9b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dfab9c4796739dbed5a7fa9b",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Cya12X2sT1Xplvl385MKq"
+  }
+}

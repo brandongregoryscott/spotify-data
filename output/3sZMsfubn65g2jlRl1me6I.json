@@ -1,0 +1,33 @@
+{
+  "id": "3sZMsfubn65g2jlRl1me6I",
+  "name": "Matera",
+  "uri": "spotify:artist:3sZMsfubn65g2jlRl1me6I",
+  "followers": {
+    "href": null,
+    "total": 176
+  },
+  "genres": [
+    "dub metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27372c35f2fa74b6ed076c18d3a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0272c35f2fa74b6ed076c18d3a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485172c35f2fa74b6ed076c18d3a",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3sZMsfubn65g2jlRl1me6I"
+  }
+}

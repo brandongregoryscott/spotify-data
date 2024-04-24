@@ -1,0 +1,33 @@
+{
+  "id": "3AnRJXttxRO7191Fxwkaxz",
+  "name": "kevin",
+  "uri": "spotify:artist:3AnRJXttxRO7191Fxwkaxz",
+  "followers": {
+    "href": null,
+    "total": 4014
+  },
+  "genres": [
+    "german hyperpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8ae4ca4505629fd637236a57",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051748ae4ca4505629fd637236a57",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1788ae4ca4505629fd637236a57",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3AnRJXttxRO7191Fxwkaxz"
+  }
+}

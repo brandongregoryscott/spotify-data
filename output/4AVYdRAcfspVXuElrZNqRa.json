@@ -1,0 +1,33 @@
+{
+  "id": "4AVYdRAcfspVXuElrZNqRa",
+  "name": "The Third Sound",
+  "uri": "spotify:artist:4AVYdRAcfspVXuElrZNqRa",
+  "followers": {
+    "href": null,
+    "total": 4895
+  },
+  "genres": [
+    "psych gaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb813a24b081f1034e6d1eafe2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174813a24b081f1034e6d1eafe2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178813a24b081f1034e6d1eafe2",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4AVYdRAcfspVXuElrZNqRa"
+  }
+}

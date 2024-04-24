@@ -1,0 +1,33 @@
+{
+  "id": "5hd5BWJtSZZVnIUYdB7Ztq",
+  "name": "New Sprint",
+  "uri": "spotify:artist:5hd5BWJtSZZVnIUYdB7Ztq",
+  "followers": {
+    "href": null,
+    "total": 97
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736ac67ea588dd2abf9c2eb813",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026ac67ea588dd2abf9c2eb813",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516ac67ea588dd2abf9c2eb813",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5hd5BWJtSZZVnIUYdB7Ztq"
+  }
+}

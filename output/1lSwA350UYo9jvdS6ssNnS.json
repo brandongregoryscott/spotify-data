@@ -1,0 +1,33 @@
+{
+  "id": "1lSwA350UYo9jvdS6ssNnS",
+  "name": "Dorsette",
+  "uri": "spotify:artist:1lSwA350UYo9jvdS6ssNnS",
+  "followers": {
+    "href": null,
+    "total": 170
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb947cac0c4c0bd3006baacb9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b947cac0c4c0bd3006baacb9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b947cac0c4c0bd3006baacb9",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1lSwA350UYo9jvdS6ssNnS"
+  }
+}

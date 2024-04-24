@@ -1,0 +1,33 @@
+{
+  "id": "33LudCWex7idIiJvMU50Pn",
+  "name": "Fred Myrow",
+  "uri": "spotify:artist:33LudCWex7idIiJvMU50Pn",
+  "followers": {
+    "href": null,
+    "total": 402
+  },
+  "genres": [
+    "horror synth"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736ed714ee44eee009125cccee",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026ed714ee44eee009125cccee",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516ed714ee44eee009125cccee",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/33LudCWex7idIiJvMU50Pn"
+  }
+}

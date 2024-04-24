@@ -1,0 +1,34 @@
+{
+  "id": "1AgbLSiEBgohw6iWZ0FyZn",
+  "name": "KIMIDORI",
+  "uri": "spotify:artist:1AgbLSiEBgohw6iWZ0FyZn",
+  "followers": {
+    "href": null,
+    "total": 4684
+  },
+  "genres": [
+    "classic j-rock",
+    "japanese old school hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273af607883bbfbce7be4addec9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02af607883bbfbce7be4addec9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851af607883bbfbce7be4addec9",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1AgbLSiEBgohw6iWZ0FyZn"
+  }
+}

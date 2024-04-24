@@ -1,0 +1,33 @@
+{
+  "id": "3ufCbr1UR1H6Yp59xvJjsG",
+  "name": "Valencia",
+  "uri": "spotify:artist:3ufCbr1UR1H6Yp59xvJjsG",
+  "followers": {
+    "href": null,
+    "total": 338
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd27068133d33a6e24bb7425d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d27068133d33a6e24bb7425d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d27068133d33a6e24bb7425d",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ufCbr1UR1H6Yp59xvJjsG"
+  }
+}

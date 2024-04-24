@@ -1,0 +1,33 @@
+{
+  "id": "7HySxef0Jg7yvv02PMkjsn",
+  "name": "weyside",
+  "uri": "spotify:artist:7HySxef0Jg7yvv02PMkjsn",
+  "followers": {
+    "href": null,
+    "total": 445
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb631c105d068d0e0008be970d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174631c105d068d0e0008be970d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178631c105d068d0e0008be970d",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7HySxef0Jg7yvv02PMkjsn"
+  }
+}

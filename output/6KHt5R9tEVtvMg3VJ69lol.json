@@ -1,0 +1,33 @@
+{
+  "id": "6KHt5R9tEVtvMg3VJ69lol",
+  "name": "Telkin",
+  "uri": "spotify:artist:6KHt5R9tEVtvMg3VJ69lol",
+  "followers": {
+    "href": null,
+    "total": 470
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd564024555ffc8a7bbffce7d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d564024555ffc8a7bbffce7d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d564024555ffc8a7bbffce7d",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6KHt5R9tEVtvMg3VJ69lol"
+  }
+}

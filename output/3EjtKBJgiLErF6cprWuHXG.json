@@ -1,0 +1,33 @@
+{
+  "id": "3EjtKBJgiLErF6cprWuHXG",
+  "name": "Toni Zeno",
+  "uri": "spotify:artist:3EjtKBJgiLErF6cprWuHXG",
+  "followers": {
+    "href": null,
+    "total": 1354
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb58f5ceb5b33a871a025f3c77",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517458f5ceb5b33a871a025f3c77",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17858f5ceb5b33a871a025f3c77",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3EjtKBJgiLErF6cprWuHXG"
+  }
+}
