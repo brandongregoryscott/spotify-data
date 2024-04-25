@@ -1,0 +1,33 @@
+{
+  "id": "0cbmeyfZMaTb62qHTRh9qA",
+  "name": "Celebrity Stalker",
+  "uri": "spotify:artist:0cbmeyfZMaTb62qHTRh9qA",
+  "followers": {
+    "href": null,
+    "total": 95
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc5c5f234abc799e33241be09",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c5c5f234abc799e33241be09",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c5c5f234abc799e33241be09",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0cbmeyfZMaTb62qHTRh9qA"
+  }
+}

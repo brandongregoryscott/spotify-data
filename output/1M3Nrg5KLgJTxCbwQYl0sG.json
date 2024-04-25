@@ -1,0 +1,33 @@
+{
+  "id": "1M3Nrg5KLgJTxCbwQYl0sG",
+  "name": "Yooh",
+  "uri": "spotify:artist:1M3Nrg5KLgJTxCbwQYl0sG",
+  "followers": {
+    "href": null,
+    "total": 13159
+  },
+  "genres": [
+    "j-core"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273193f5402415c96fa9ccf2f86",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02193f5402415c96fa9ccf2f86",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851193f5402415c96fa9ccf2f86",
+      "width": 64
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1M3Nrg5KLgJTxCbwQYl0sG"
+  }
+}

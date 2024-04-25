@@ -1,0 +1,34 @@
+{
+  "id": "7tRjoxpYG6ROVXj0PS6lud",
+  "name": "Jook",
+  "uri": "spotify:artist:7tRjoxpYG6ROVXj0PS6lud",
+  "followers": {
+    "href": null,
+    "total": 1550
+  },
+  "genres": [
+    "deep dubstep",
+    "neo grime"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb27476520360998ecac68e372",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517427476520360998ecac68e372",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17827476520360998ecac68e372",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7tRjoxpYG6ROVXj0PS6lud"
+  }
+}

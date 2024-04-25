@@ -1,0 +1,33 @@
+{
+  "id": "3qp40ZBt3Jy8JfENFFEPKM",
+  "name": "Temporxry",
+  "uri": "spotify:artist:3qp40ZBt3Jy8JfENFFEPKM",
+  "followers": {
+    "href": null,
+    "total": 378
+  },
+  "genres": [
+    "sigilkore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb992675489412daab9d4a9268",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174992675489412daab9d4a9268",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178992675489412daab9d4a9268",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3qp40ZBt3Jy8JfENFFEPKM"
+  }
+}

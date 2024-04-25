@@ -1,0 +1,33 @@
+{
+  "id": "5jVbwcovVKmKf2qUgUFJMG",
+  "name": "Lilac Cadillac",
+  "uri": "spotify:artist:5jVbwcovVKmKf2qUgUFJMG",
+  "followers": {
+    "href": null,
+    "total": 245
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb153ba8e3f7a54ae503e6a43",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b153ba8e3f7a54ae503e6a43",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b153ba8e3f7a54ae503e6a43",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5jVbwcovVKmKf2qUgUFJMG"
+  }
+}

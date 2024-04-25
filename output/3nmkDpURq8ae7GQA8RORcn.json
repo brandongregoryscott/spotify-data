@@ -1,0 +1,33 @@
+{
+  "id": "3nmkDpURq8ae7GQA8RORcn",
+  "name": "ADAGIO",
+  "uri": "spotify:artist:3nmkDpURq8ae7GQA8RORcn",
+  "followers": {
+    "href": null,
+    "total": 168
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd2d6f99598638561924864a9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d2d6f99598638561924864a9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d2d6f99598638561924864a9",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3nmkDpURq8ae7GQA8RORcn"
+  }
+}

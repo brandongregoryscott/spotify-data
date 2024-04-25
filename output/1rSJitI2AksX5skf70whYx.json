@@ -1,0 +1,33 @@
+{
+  "id": "1rSJitI2AksX5skf70whYx",
+  "name": "May They Rest",
+  "uri": "spotify:artist:1rSJitI2AksX5skf70whYx",
+  "followers": {
+    "href": null,
+    "total": 384
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe4f27eac61a07cc5d4997d85",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e4f27eac61a07cc5d4997d85",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e4f27eac61a07cc5d4997d85",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1rSJitI2AksX5skf70whYx"
+  }
+}

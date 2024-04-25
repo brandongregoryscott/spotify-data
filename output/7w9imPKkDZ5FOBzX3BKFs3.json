@@ -1,0 +1,33 @@
+{
+  "id": "7w9imPKkDZ5FOBzX3BKFs3",
+  "name": "Brandish",
+  "uri": "spotify:artist:7w9imPKkDZ5FOBzX3BKFs3",
+  "followers": {
+    "href": null,
+    "total": 91
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe4a7a3c07677578a2f55445a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e4a7a3c07677578a2f55445a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e4a7a3c07677578a2f55445a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7w9imPKkDZ5FOBzX3BKFs3"
+  }
+}

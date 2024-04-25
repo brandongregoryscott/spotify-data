@@ -1,0 +1,33 @@
+{
+  "id": "1tiKDLhyhb2UORHVXvDQYY",
+  "name": "seishin",
+  "uri": "spotify:artist:1tiKDLhyhb2UORHVXvDQYY",
+  "followers": {
+    "href": null,
+    "total": 144
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb30c84f89f2470f22065ecbf1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517430c84f89f2470f22065ecbf1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17830c84f89f2470f22065ecbf1",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1tiKDLhyhb2UORHVXvDQYY"
+  }
+}

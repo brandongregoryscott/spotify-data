@@ -1,0 +1,33 @@
+{
+  "id": "79Nr6koBmlFopWJrh9M4UN",
+  "name": "RaRa",
+  "uri": "spotify:artist:79Nr6koBmlFopWJrh9M4UN",
+  "followers": {
+    "href": null,
+    "total": 12884
+  },
+  "genres": [
+    "atl trap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb46ef379dfd6badf8744666d5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517446ef379dfd6badf8744666d5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17846ef379dfd6badf8744666d5",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/79Nr6koBmlFopWJrh9M4UN"
+  }
+}

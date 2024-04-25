@@ -1,0 +1,33 @@
+{
+  "id": "0rKeosBUDez48KWae43ezA",
+  "name": "Aaron English",
+  "uri": "spotify:artist:0rKeosBUDez48KWae43ezA",
+  "followers": {
+    "href": null,
+    "total": 5125
+  },
+  "genres": [
+    "paracana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb350d5da70c5a56eacfd861b9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174350d5da70c5a56eacfd861b9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178350d5da70c5a56eacfd861b9",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0rKeosBUDez48KWae43ezA"
+  }
+}

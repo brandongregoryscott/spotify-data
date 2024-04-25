@@ -1,0 +1,33 @@
+{
+  "id": "5OUmokDCHCqKSX2rTGtG07",
+  "name": "Döuno",
+  "uri": "spotify:artist:5OUmokDCHCqKSX2rTGtG07",
+  "followers": {
+    "href": null,
+    "total": 203
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb08d4932743d431dcac654685",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517408d4932743d431dcac654685",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17808d4932743d431dcac654685",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5OUmokDCHCqKSX2rTGtG07"
+  }
+}

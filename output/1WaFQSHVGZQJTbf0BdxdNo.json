@@ -1,0 +1,33 @@
+{
+  "id": "1WaFQSHVGZQJTbf0BdxdNo",
+  "name": "Tommy Richman",
+  "uri": "spotify:artist:1WaFQSHVGZQJTbf0BdxdNo",
+  "followers": {
+    "href": null,
+    "total": 52582
+  },
+  "genres": [
+    "chill abstract hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbb330168f192dbdc28fcbd37",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bb330168f192dbdc28fcbd37",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bb330168f192dbdc28fcbd37",
+      "width": 160
+    }
+  ],
+  "popularity": 54,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+  }
+}

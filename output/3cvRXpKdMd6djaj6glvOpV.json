@@ -1,0 +1,33 @@
+{
+  "id": "3cvRXpKdMd6djaj6glvOpV",
+  "name": "Ahyra",
+  "uri": "spotify:artist:3cvRXpKdMd6djaj6glvOpV",
+  "followers": {
+    "href": null,
+    "total": 111
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcf1a8b722af72533016a2ecb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cf1a8b722af72533016a2ecb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cf1a8b722af72533016a2ecb",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3cvRXpKdMd6djaj6glvOpV"
+  }
+}

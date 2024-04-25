@@ -1,0 +1,35 @@
+{
+  "id": "0EYsqhRnTOHHV222MPpn4H",
+  "name": "Risto",
+  "uri": "spotify:artist:0EYsqhRnTOHHV222MPpn4H",
+  "followers": {
+    "href": null,
+    "total": 7354
+  },
+  "genres": [
+    "finnish indie",
+    "new weird finland",
+    "suomi rock"
+  ],
+  "images": [
+    {
+      "height": 399,
+      "url": "https://i.scdn.co/image/a333d8bc268bf2fefc4949a1af42d2fa080ff0f7",
+      "width": 597
+    },
+    {
+      "height": 134,
+      "url": "https://i.scdn.co/image/96798ee9567fd5b9cdbb45e41948488a0be9156c",
+      "width": 200
+    },
+    {
+      "height": 43,
+      "url": "https://i.scdn.co/image/3f92e6c2643f360ea7b755c883f6a97faec4ea29",
+      "width": 64
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0EYsqhRnTOHHV222MPpn4H"
+  }
+}

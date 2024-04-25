@@ -1,0 +1,33 @@
+{
+  "id": "5Y5lVF1TcoBirBgCX0feCP",
+  "name": "Guidelines",
+  "uri": "spotify:artist:5Y5lVF1TcoBirBgCX0feCP",
+  "followers": {
+    "href": null,
+    "total": 106
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd59ef293a94cf9e59c492161",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d59ef293a94cf9e59c492161",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d59ef293a94cf9e59c492161",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Y5lVF1TcoBirBgCX0feCP"
+  }
+}

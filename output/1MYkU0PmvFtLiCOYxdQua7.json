@@ -1,0 +1,34 @@
+{
+  "id": "1MYkU0PmvFtLiCOYxdQua7",
+  "name": "The Grouch",
+  "uri": "spotify:artist:1MYkU0PmvFtLiCOYxdQua7",
+  "followers": {
+    "href": null,
+    "total": 61044
+  },
+  "genres": [
+    "abstract hip hop",
+    "alternative hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfb71d1cc1f177a4d2f42b5fd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fb71d1cc1f177a4d2f42b5fd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fb71d1cc1f177a4d2f42b5fd",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1MYkU0PmvFtLiCOYxdQua7"
+  }
+}

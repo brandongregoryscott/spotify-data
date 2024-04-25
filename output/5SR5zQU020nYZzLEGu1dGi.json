@@ -1,0 +1,33 @@
+{
+  "id": "5SR5zQU020nYZzLEGu1dGi",
+  "name": "DAYFIVE",
+  "uri": "spotify:artist:5SR5zQU020nYZzLEGu1dGi",
+  "followers": {
+    "href": null,
+    "total": 44
+  },
+  "genres": [
+    "furry"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0a432ec0bb523684f43fc4e6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051740a432ec0bb523684f43fc4e6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1780a432ec0bb523684f43fc4e6",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5SR5zQU020nYZzLEGu1dGi"
+  }
+}

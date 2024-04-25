@@ -1,0 +1,33 @@
+{
+  "id": "2LzLmLOfTG4uS1Cgt6dcD3",
+  "name": "Darko the Super",
+  "uri": "spotify:artist:2LzLmLOfTG4uS1Cgt6dcD3",
+  "followers": {
+    "href": null,
+    "total": 510
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba500412eccc338dfdcef1684",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a500412eccc338dfdcef1684",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a500412eccc338dfdcef1684",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2LzLmLOfTG4uS1Cgt6dcD3"
+  }
+}

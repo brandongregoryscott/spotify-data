@@ -1,0 +1,33 @@
+{
+  "id": "4CTv9S6o6SeKtw2xks8BD2",
+  "name": "Louise Page",
+  "uri": "spotify:artist:4CTv9S6o6SeKtw2xks8BD2",
+  "followers": {
+    "href": null,
+    "total": 676
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb406e95e01f66197fde4634be",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174406e95e01f66197fde4634be",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178406e95e01f66197fde4634be",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4CTv9S6o6SeKtw2xks8BD2"
+  }
+}

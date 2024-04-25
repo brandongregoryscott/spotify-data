@@ -1,0 +1,39 @@
+{
+  "id": "0FeNnEJjLXirpSSA2Z9aWy",
+  "name": "Jeff Austin",
+  "uri": "spotify:artist:0FeNnEJjLXirpSSA2Z9aWy",
+  "followers": {
+    "href": null,
+    "total": 5995
+  },
+  "genres": [
+    "jam band",
+    "progressive bluegrass"
+  ],
+  "images": [
+    {
+      "height": 1500,
+      "url": "https://i.scdn.co/image/b87e4f36756a88a20c59395e60019ba9e065fd4a",
+      "width": 1000
+    },
+    {
+      "height": 960,
+      "url": "https://i.scdn.co/image/540908ade803b8dac828c28cf61aba727d2723b3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/16aa2027ca1c29658116af687dddc562146ae7d3",
+      "width": 200
+    },
+    {
+      "height": 96,
+      "url": "https://i.scdn.co/image/387c3e65dcd1b3cb83fb83c456064d026029ee4b",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0FeNnEJjLXirpSSA2Z9aWy"
+  }
+}

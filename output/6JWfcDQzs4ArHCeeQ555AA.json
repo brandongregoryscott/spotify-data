@@ -1,0 +1,33 @@
+{
+  "id": "6JWfcDQzs4ArHCeeQ555AA",
+  "name": "Family Vision",
+  "uri": "spotify:artist:6JWfcDQzs4ArHCeeQ555AA",
+  "followers": {
+    "href": null,
+    "total": 307
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd1c752fe8989589ff20f35ec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d1c752fe8989589ff20f35ec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d1c752fe8989589ff20f35ec",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6JWfcDQzs4ArHCeeQ555AA"
+  }
+}

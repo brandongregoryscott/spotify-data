@@ -1,0 +1,33 @@
+{
+  "id": "4j3y79kteDWs0jKGOvjVz8",
+  "name": "HighSe",
+  "uri": "spotify:artist:4j3y79kteDWs0jKGOvjVz8",
+  "followers": {
+    "href": null,
+    "total": 87
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273babc774f36838f42d5803873",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02babc774f36838f42d5803873",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851babc774f36838f42d5803873",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4j3y79kteDWs0jKGOvjVz8"
+  }
+}

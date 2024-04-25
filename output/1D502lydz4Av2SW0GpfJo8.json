@@ -1,0 +1,33 @@
+{
+  "id": "1D502lydz4Av2SW0GpfJo8",
+  "name": "Dante Leonart",
+  "uri": "spotify:artist:1D502lydz4Av2SW0GpfJo8",
+  "followers": {
+    "href": null,
+    "total": 39
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb03911089f19739340e03e2c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b03911089f19739340e03e2c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b03911089f19739340e03e2c",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1D502lydz4Av2SW0GpfJo8"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5yo8fZ858OMKhZ6eowrdN7",
+  "name": "Alchemist",
+  "uri": "spotify:artist:5yo8fZ858OMKhZ6eowrdN7",
+  "followers": {
+    "href": null,
+    "total": 5569
+  },
+  "genres": [
+    "australian metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730c0ddcaa81135b63a0c17902",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020c0ddcaa81135b63a0c17902",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510c0ddcaa81135b63a0c17902",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5yo8fZ858OMKhZ6eowrdN7"
+  }
+}

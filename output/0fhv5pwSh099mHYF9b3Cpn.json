@@ -1,0 +1,33 @@
+{
+  "id": "0fhv5pwSh099mHYF9b3Cpn",
+  "name": "Jimmy Whispers",
+  "uri": "spotify:artist:0fhv5pwSh099mHYF9b3Cpn",
+  "followers": {
+    "href": null,
+    "total": 3997
+  },
+  "genres": [
+    "chicago indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9ea8be3f80cdecfca9c63d15",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051749ea8be3f80cdecfca9c63d15",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1789ea8be3f80cdecfca9c63d15",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0fhv5pwSh099mHYF9b3Cpn"
+  }
+}

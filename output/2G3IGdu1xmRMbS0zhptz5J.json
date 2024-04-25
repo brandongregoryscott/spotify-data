@@ -1,0 +1,33 @@
+{
+  "id": "2G3IGdu1xmRMbS0zhptz5J",
+  "name": "Průvan",
+  "uri": "spotify:artist:2G3IGdu1xmRMbS0zhptz5J",
+  "followers": {
+    "href": null,
+    "total": 449
+  },
+  "genres": [
+    "uk bass"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dd11a526d6ea7037d2dec25f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dd11a526d6ea7037d2dec25f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dd11a526d6ea7037d2dec25f",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2G3IGdu1xmRMbS0zhptz5J"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "183ScHDHWOYg8bq2w9Fq3J",
+  "name": "El Hombre Garabato",
+  "uri": "spotify:artist:183ScHDHWOYg8bq2w9Fq3J",
+  "followers": {
+    "href": null,
+    "total": 627
+  },
+  "genres": [
+    "granada indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeb8d28dc2c5e1c8951de037d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eb8d28dc2c5e1c8951de037d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eb8d28dc2c5e1c8951de037d",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/183ScHDHWOYg8bq2w9Fq3J"
+  }
+}

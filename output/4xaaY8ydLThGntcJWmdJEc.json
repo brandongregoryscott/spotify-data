@@ -1,0 +1,33 @@
+{
+  "id": "4xaaY8ydLThGntcJWmdJEc",
+  "name": "poolfire",
+  "uri": "spotify:artist:4xaaY8ydLThGntcJWmdJEc",
+  "followers": {
+    "href": null,
+    "total": 2688
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba3a80e1757616ef11fe0a308",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a3a80e1757616ef11fe0a308",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a3a80e1757616ef11fe0a308",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4xaaY8ydLThGntcJWmdJEc"
+  }
+}

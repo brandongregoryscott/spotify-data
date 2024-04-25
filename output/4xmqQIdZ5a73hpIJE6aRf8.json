@@ -1,0 +1,33 @@
+{
+  "id": "4xmqQIdZ5a73hpIJE6aRf8",
+  "name": "m.o.zaza",
+  "uri": "spotify:artist:4xmqQIdZ5a73hpIJE6aRf8",
+  "followers": {
+    "href": null,
+    "total": 125
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb33d601401b330fe2f7b79faa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517433d601401b330fe2f7b79faa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17833d601401b330fe2f7b79faa",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4xmqQIdZ5a73hpIJE6aRf8"
+  }
+}

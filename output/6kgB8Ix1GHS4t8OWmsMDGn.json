@@ -1,0 +1,33 @@
+{
+  "id": "6kgB8Ix1GHS4t8OWmsMDGn",
+  "name": "Hello Mary",
+  "uri": "spotify:artist:6kgB8Ix1GHS4t8OWmsMDGn",
+  "followers": {
+    "href": null,
+    "total": 24711
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebffdd766e16815d688f3b6f4c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ffdd766e16815d688f3b6f4c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ffdd766e16815d688f3b6f4c",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6kgB8Ix1GHS4t8OWmsMDGn"
+  }
+}

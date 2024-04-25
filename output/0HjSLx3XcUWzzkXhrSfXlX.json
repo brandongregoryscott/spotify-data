@@ -1,0 +1,33 @@
+{
+  "id": "0HjSLx3XcUWzzkXhrSfXlX",
+  "name": "Fil Ardent",
+  "uri": "spotify:artist:0HjSLx3XcUWzzkXhrSfXlX",
+  "followers": {
+    "href": null,
+    "total": 131
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc213f25e08052f1bb4d64dee",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c213f25e08052f1bb4d64dee",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c213f25e08052f1bb4d64dee",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0HjSLx3XcUWzzkXhrSfXlX"
+  }
+}

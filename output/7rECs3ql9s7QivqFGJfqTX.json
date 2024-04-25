@@ -1,0 +1,33 @@
+{
+  "id": "7rECs3ql9s7QivqFGJfqTX",
+  "name": "throwcurve",
+  "uri": "spotify:artist:7rECs3ql9s7QivqFGJfqTX",
+  "followers": {
+    "href": null,
+    "total": 506
+  },
+  "genres": [
+    "japanese indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b334eb3a1f07de0df23585aa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b334eb3a1f07de0df23585aa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b334eb3a1f07de0df23585aa",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7rECs3ql9s7QivqFGJfqTX"
+  }
+}
