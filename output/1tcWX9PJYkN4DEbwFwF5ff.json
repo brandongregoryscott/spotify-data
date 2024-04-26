@@ -1,0 +1,33 @@
+{
+  "id": "1tcWX9PJYkN4DEbwFwF5ff",
+  "name": "Burnsie",
+  "uri": "spotify:artist:1tcWX9PJYkN4DEbwFwF5ff",
+  "followers": {
+    "href": null,
+    "total": 56
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb09cbf32918c7315900f3ff80",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517409cbf32918c7315900f3ff80",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17809cbf32918c7315900f3ff80",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1tcWX9PJYkN4DEbwFwF5ff"
+  }
+}

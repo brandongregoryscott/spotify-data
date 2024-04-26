@@ -1,0 +1,33 @@
+{
+  "id": "7cgeB3Ko3DkBo2daWSHjVp",
+  "name": "heybrowne",
+  "uri": "spotify:artist:7cgeB3Ko3DkBo2daWSHjVp",
+  "followers": {
+    "href": null,
+    "total": 49
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb1b316faeca224ae125b18f3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b1b316faeca224ae125b18f3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b1b316faeca224ae125b18f3",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7cgeB3Ko3DkBo2daWSHjVp"
+  }
+}

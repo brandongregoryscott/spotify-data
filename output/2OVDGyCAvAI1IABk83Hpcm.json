@@ -1,0 +1,33 @@
+{
+  "id": "2OVDGyCAvAI1IABk83Hpcm",
+  "name": "ANDA",
+  "uri": "spotify:artist:2OVDGyCAvAI1IABk83Hpcm",
+  "followers": {
+    "href": null,
+    "total": 390
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb44499fbd0cf38078e95df112",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517444499fbd0cf38078e95df112",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17844499fbd0cf38078e95df112",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2OVDGyCAvAI1IABk83Hpcm"
+  }
+}

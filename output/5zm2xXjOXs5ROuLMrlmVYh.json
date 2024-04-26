@@ -1,0 +1,33 @@
+{
+  "id": "5zm2xXjOXs5ROuLMrlmVYh",
+  "name": "Maracuja",
+  "uri": "spotify:artist:5zm2xXjOXs5ROuLMrlmVYh",
+  "followers": {
+    "href": null,
+    "total": 82
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb67de5882b9e9f78fb4bf368e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517467de5882b9e9f78fb4bf368e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17867de5882b9e9f78fb4bf368e",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5zm2xXjOXs5ROuLMrlmVYh"
+  }
+}

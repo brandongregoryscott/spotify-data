@@ -1,0 +1,33 @@
+{
+  "id": "6JDVFtEqAZ1HuCC9FTIKsZ",
+  "name": "Austero",
+  "uri": "spotify:artist:6JDVFtEqAZ1HuCC9FTIKsZ",
+  "followers": {
+    "href": null,
+    "total": 2654
+  },
+  "genres": [
+    "chihuahua indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb024829c1be1dd0518057240e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174024829c1be1dd0518057240e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178024829c1be1dd0518057240e",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6JDVFtEqAZ1HuCC9FTIKsZ"
+  }
+}

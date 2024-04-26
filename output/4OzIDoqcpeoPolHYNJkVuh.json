@@ -1,0 +1,34 @@
+{
+  "id": "4OzIDoqcpeoPolHYNJkVuh",
+  "name": "The Big Bad",
+  "uri": "spotify:artist:4OzIDoqcpeoPolHYNJkVuh",
+  "followers": {
+    "href": null,
+    "total": 1300
+  },
+  "genres": [
+    "horror punk",
+    "west virginia indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb380fcaa0a4f71ad25354a76",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b380fcaa0a4f71ad25354a76",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b380fcaa0a4f71ad25354a76",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4OzIDoqcpeoPolHYNJkVuh"
+  }
+}

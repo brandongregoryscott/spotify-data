@@ -1,0 +1,33 @@
+{
+  "id": "6CCDIPJQM72EU60y6bVz7p",
+  "name": "Leaving Off",
+  "uri": "spotify:artist:6CCDIPJQM72EU60y6bVz7p",
+  "followers": {
+    "href": null,
+    "total": 360
+  },
+  "genres": [
+    "dayton indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb78b77fa10d049ca5a08ac46b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517478b77fa10d049ca5a08ac46b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17878b77fa10d049ca5a08ac46b",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6CCDIPJQM72EU60y6bVz7p"
+  }
+}

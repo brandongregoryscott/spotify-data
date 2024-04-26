@@ -1,0 +1,33 @@
+{
+  "id": "68fTPUisRvCKHXUsSr54SX",
+  "name": "SPIHRA",
+  "uri": "spotify:artist:68fTPUisRvCKHXUsSr54SX",
+  "followers": {
+    "href": null,
+    "total": 32
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb21e5bc08ef1431e7b7698f66",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517421e5bc08ef1431e7b7698f66",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17821e5bc08ef1431e7b7698f66",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/68fTPUisRvCKHXUsSr54SX"
+  }
+}

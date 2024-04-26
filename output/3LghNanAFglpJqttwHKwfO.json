@@ -1,0 +1,33 @@
+{
+  "id": "3LghNanAFglpJqttwHKwfO",
+  "name": "the satellites",
+  "uri": "spotify:artist:3LghNanAFglpJqttwHKwfO",
+  "followers": {
+    "href": null,
+    "total": 881
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe51fa39eee3e718610669231",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e51fa39eee3e718610669231",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e51fa39eee3e718610669231",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3LghNanAFglpJqttwHKwfO"
+  }
+}

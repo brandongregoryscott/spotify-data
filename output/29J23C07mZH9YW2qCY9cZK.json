@@ -1,0 +1,33 @@
+{
+  "id": "29J23C07mZH9YW2qCY9cZK",
+  "name": "Abel",
+  "uri": "spotify:artist:29J23C07mZH9YW2qCY9cZK",
+  "followers": {
+    "href": null,
+    "total": 399
+  },
+  "genres": [
+    "columbus ohio indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb30379092c8f1fca4cd014dd8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517430379092c8f1fca4cd014dd8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17830379092c8f1fca4cd014dd8",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/29J23C07mZH9YW2qCY9cZK"
+  }
+}

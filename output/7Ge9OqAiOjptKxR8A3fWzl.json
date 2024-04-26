@@ -1,0 +1,33 @@
+{
+  "id": "7Ge9OqAiOjptKxR8A3fWzl",
+  "name": "Oobe",
+  "uri": "spotify:artist:7Ge9OqAiOjptKxR8A3fWzl",
+  "followers": {
+    "href": null,
+    "total": 856
+  },
+  "genres": [
+    "italian experimental"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f5959a9e3c261848f0d088a9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f5959a9e3c261848f0d088a9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f5959a9e3c261848f0d088a9",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7Ge9OqAiOjptKxR8A3fWzl"
+  }
+}

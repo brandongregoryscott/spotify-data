@@ -1,0 +1,33 @@
+{
+  "id": "7wE9GkkvDsdDGk2bZttO3E",
+  "name": "Hourglass",
+  "uri": "spotify:artist:7wE9GkkvDsdDGk2bZttO3E",
+  "followers": {
+    "href": null,
+    "total": 187
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738c00ff70ea299303dded1a46",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028c00ff70ea299303dded1a46",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fddf4f14ea23093c17b30733",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7wE9GkkvDsdDGk2bZttO3E"
+  }
+}

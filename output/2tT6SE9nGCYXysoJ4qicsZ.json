@@ -1,0 +1,33 @@
+{
+  "id": "2tT6SE9nGCYXysoJ4qicsZ",
+  "name": "BASECAMP",
+  "uri": "spotify:artist:2tT6SE9nGCYXysoJ4qicsZ",
+  "followers": {
+    "href": null,
+    "total": 27864
+  },
+  "genres": [
+    "vapor soul"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfe3995ddeb1f33a8741eb015",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fe3995ddeb1f33a8741eb015",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fe3995ddeb1f33a8741eb015",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2tT6SE9nGCYXysoJ4qicsZ"
+  }
+}

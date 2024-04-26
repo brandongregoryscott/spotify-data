@@ -1,0 +1,33 @@
+{
+  "id": "35whB0KFEQMww20AvwEAvY",
+  "name": "Filler",
+  "uri": "spotify:artist:35whB0KFEQMww20AvwEAvY",
+  "followers": {
+    "href": null,
+    "total": 346
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb89153cdb4dba580c71f6b6eb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517489153cdb4dba580c71f6b6eb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17889153cdb4dba580c71f6b6eb",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/35whB0KFEQMww20AvwEAvY"
+  }
+}

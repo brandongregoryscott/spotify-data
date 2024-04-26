@@ -1,0 +1,33 @@
+{
+  "id": "5YYn3EOeF8wTDb2ctUsHJ7",
+  "name": "The Beautiful Monument",
+  "uri": "spotify:artist:5YYn3EOeF8wTDb2ctUsHJ7",
+  "followers": {
+    "href": null,
+    "total": 12732
+  },
+  "genres": [
+    "australian post-hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb64e4369036eeee574324d32a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517464e4369036eeee574324d32a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17864e4369036eeee574324d32a",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5YYn3EOeF8wTDb2ctUsHJ7"
+  }
+}

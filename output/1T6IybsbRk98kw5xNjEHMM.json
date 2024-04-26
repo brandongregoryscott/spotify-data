@@ -1,0 +1,33 @@
+{
+  "id": "1T6IybsbRk98kw5xNjEHMM",
+  "name": "Super Heroines",
+  "uri": "spotify:artist:1T6IybsbRk98kw5xNjEHMM",
+  "followers": {
+    "href": null,
+    "total": 6667
+  },
+  "genres": [
+    "deathrock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ec4d6bd1b01c2d0f7933cbda",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ec4d6bd1b01c2d0f7933cbda",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ec4d6bd1b01c2d0f7933cbda",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1T6IybsbRk98kw5xNjEHMM"
+  }
+}

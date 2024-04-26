@@ -1,0 +1,33 @@
+{
+  "id": "5C8xxfvMhwwxeSz4LZm41N",
+  "name": "Cindy",
+  "uri": "spotify:artist:5C8xxfvMhwwxeSz4LZm41N",
+  "followers": {
+    "href": null,
+    "total": 2250
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe446caa749efcfe2fea29db6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e446caa749efcfe2fea29db6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e446caa749efcfe2fea29db6",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5C8xxfvMhwwxeSz4LZm41N"
+  }
+}

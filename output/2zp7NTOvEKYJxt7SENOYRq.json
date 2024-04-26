@@ -1,0 +1,33 @@
+{
+  "id": "2zp7NTOvEKYJxt7SENOYRq",
+  "name": "Rupe",
+  "uri": "spotify:artist:2zp7NTOvEKYJxt7SENOYRq",
+  "followers": {
+    "href": null,
+    "total": 353
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd3c4aa0ec7d52d53518325e0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d3c4aa0ec7d52d53518325e0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d3c4aa0ec7d52d53518325e0",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2zp7NTOvEKYJxt7SENOYRq"
+  }
+}

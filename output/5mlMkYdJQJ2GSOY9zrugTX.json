@@ -1,0 +1,33 @@
+{
+  "id": "5mlMkYdJQJ2GSOY9zrugTX",
+  "name": "Ausgang",
+  "uri": "spotify:artist:5mlMkYdJQJ2GSOY9zrugTX",
+  "followers": {
+    "href": null,
+    "total": 7648
+  },
+  "genres": [
+    "gothic rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273384db46460b41cc4d90a8471",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02384db46460b41cc4d90a8471",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851384db46460b41cc4d90a8471",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5mlMkYdJQJ2GSOY9zrugTX"
+  }
+}

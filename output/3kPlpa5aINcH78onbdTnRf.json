@@ -1,0 +1,33 @@
+{
+  "id": "3kPlpa5aINcH78onbdTnRf",
+  "name": "Los Retorcidos",
+  "uri": "spotify:artist:3kPlpa5aINcH78onbdTnRf",
+  "followers": {
+    "href": null,
+    "total": 503
+  },
+  "genres": [
+    "punk chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730b118941b6ce4620acdec29c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020b118941b6ce4620acdec29c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510b118941b6ce4620acdec29c",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3kPlpa5aINcH78onbdTnRf"
+  }
+}

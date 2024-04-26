@@ -1,0 +1,33 @@
+{
+  "id": "0RrrHsjS5xYfdmMf9GrPTQ",
+  "name": "Rie Nakahara",
+  "uri": "spotify:artist:0RrrHsjS5xYfdmMf9GrPTQ",
+  "followers": {
+    "href": null,
+    "total": 9305
+  },
+  "genres": [
+    "kayokyoku"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bedb78d0ddbaa3490e095536",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bedb78d0ddbaa3490e095536",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bedb78d0ddbaa3490e095536",
+      "width": 64
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0RrrHsjS5xYfdmMf9GrPTQ"
+  }
+}

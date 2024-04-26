@@ -1,0 +1,33 @@
+{
+  "id": "2Y2gruKUC2cAjhe0h2RpzV",
+  "name": "Groundislava",
+  "uri": "spotify:artist:2Y2gruKUC2cAjhe0h2RpzV",
+  "followers": {
+    "href": null,
+    "total": 33363
+  },
+  "genres": [
+    "wonky"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd964caaedfc35ebc53c5ac7e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d964caaedfc35ebc53c5ac7e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d964caaedfc35ebc53c5ac7e",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Y2gruKUC2cAjhe0h2RpzV"
+  }
+}

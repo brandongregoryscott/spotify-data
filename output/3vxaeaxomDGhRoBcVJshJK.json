@@ -1,0 +1,33 @@
+{
+  "id": "3vxaeaxomDGhRoBcVJshJK",
+  "name": "Darrow Chemical Company",
+  "uri": "spotify:artist:3vxaeaxomDGhRoBcVJshJK",
+  "followers": {
+    "href": null,
+    "total": 1799
+  },
+  "genres": [
+    "horror punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0ddbb72573d7cf8ca40ebb07",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051740ddbb72573d7cf8ca40ebb07",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1780ddbb72573d7cf8ca40ebb07",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3vxaeaxomDGhRoBcVJshJK"
+  }
+}

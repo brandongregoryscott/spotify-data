@@ -1,0 +1,33 @@
+{
+  "id": "2vCXDWyfBb5XqMGwj4ISBp",
+  "name": "Nana",
+  "uri": "spotify:artist:2vCXDWyfBb5XqMGwj4ISBp",
+  "followers": {
+    "href": null,
+    "total": 239
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb458cb71d81022ecfeda16dd1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174458cb71d81022ecfeda16dd1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178458cb71d81022ecfeda16dd1",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2vCXDWyfBb5XqMGwj4ISBp"
+  }
+}

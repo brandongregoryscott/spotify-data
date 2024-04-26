@@ -1,0 +1,33 @@
+{
+  "id": "6a9CeWFaZkTkcmZTlLDDH6",
+  "name": "Skin Ticket",
+  "uri": "spotify:artist:6a9CeWFaZkTkcmZTlLDDH6",
+  "followers": {
+    "href": null,
+    "total": 1227
+  },
+  "genres": [
+    "arizona punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb76ae136956073cba92084372",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517476ae136956073cba92084372",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17876ae136956073cba92084372",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6a9CeWFaZkTkcmZTlLDDH6"
+  }
+}

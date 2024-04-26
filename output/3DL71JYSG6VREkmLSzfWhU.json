@@ -1,0 +1,34 @@
+{
+  "id": "3DL71JYSG6VREkmLSzfWhU",
+  "name": "Efterklang",
+  "uri": "spotify:artist:3DL71JYSG6VREkmLSzfWhU",
+  "followers": {
+    "href": null,
+    "total": 84466
+  },
+  "genres": [
+    "danish alternative rock",
+    "danish indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb857ef2d1790fd1ed4257e40a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174857ef2d1790fd1ed4257e40a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178857ef2d1790fd1ed4257e40a",
+      "width": 160
+    }
+  ],
+  "popularity": 34,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU"
+  }
+}

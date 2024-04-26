@@ -1,0 +1,33 @@
+{
+  "id": "5l9GOQvJxRqGQfKicWI5O4",
+  "name": "Chicken Lover",
+  "uri": "spotify:artist:5l9GOQvJxRqGQfKicWI5O4",
+  "followers": {
+    "href": null,
+    "total": 175
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb410c3e9b5f4aeeb3934f40bf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174410c3e9b5f4aeeb3934f40bf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178410c3e9b5f4aeeb3934f40bf",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5l9GOQvJxRqGQfKicWI5O4"
+  }
+}

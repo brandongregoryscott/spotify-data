@@ -1,0 +1,33 @@
+{
+  "id": "01Ru0hfWYNVxQHtFkvYY7r",
+  "name": "Floating Action",
+  "uri": "spotify:artist:01Ru0hfWYNVxQHtFkvYY7r",
+  "followers": {
+    "href": null,
+    "total": 9713
+  },
+  "genres": [
+    "asheville indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb67d772cc9fd5847677ec8bcd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517467d772cc9fd5847677ec8bcd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17867d772cc9fd5847677ec8bcd",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01Ru0hfWYNVxQHtFkvYY7r"
+  }
+}

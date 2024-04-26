@@ -1,0 +1,33 @@
+{
+  "id": "6fdLort0Hr3u6aTavU46Fu",
+  "name": "Umbra",
+  "uri": "spotify:artist:6fdLort0Hr3u6aTavU46Fu",
+  "followers": {
+    "href": null,
+    "total": 586
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736d80b493515e315c418d70cb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026d80b493515e315c418d70cb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516d80b493515e315c418d70cb",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6fdLort0Hr3u6aTavU46Fu"
+  }
+}

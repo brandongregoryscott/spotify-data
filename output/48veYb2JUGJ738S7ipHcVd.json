@@ -1,0 +1,33 @@
+{
+  "id": "48veYb2JUGJ738S7ipHcVd",
+  "name": "Hydrone",
+  "uri": "spotify:artist:48veYb2JUGJ738S7ipHcVd",
+  "followers": {
+    "href": null,
+    "total": 456
+  },
+  "genres": [
+    "columbus ohio indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb95916177f984c53a380ef370",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517495916177f984c53a380ef370",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17895916177f984c53a380ef370",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/48veYb2JUGJ738S7ipHcVd"
+  }
+}

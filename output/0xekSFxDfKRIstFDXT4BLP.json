@@ -1,0 +1,34 @@
+{
+  "id": "0xekSFxDfKRIstFDXT4BLP",
+  "name": "Allvaret",
+  "uri": "spotify:artist:0xekSFxDfKRIstFDXT4BLP",
+  "followers": {
+    "href": null,
+    "total": 1593
+  },
+  "genres": [
+    "swedish pop punk",
+    "swedish punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27331d66f68e6f3a5ee997d5c5f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0231d66f68e6f3a5ee997d5c5f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485131d66f68e6f3a5ee997d5c5f",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0xekSFxDfKRIstFDXT4BLP"
+  }
+}

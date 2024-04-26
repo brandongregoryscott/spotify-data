@@ -1,0 +1,33 @@
+{
+  "id": "5zMIbFdwRDEN8z7q0SA2Qm",
+  "name": "Ashxs",
+  "uri": "spotify:artist:5zMIbFdwRDEN8z7q0SA2Qm",
+  "followers": {
+    "href": null,
+    "total": 2432
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf039861cd45b1a4dd9934ffc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f039861cd45b1a4dd9934ffc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f039861cd45b1a4dd9934ffc",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5zMIbFdwRDEN8z7q0SA2Qm"
+  }
+}

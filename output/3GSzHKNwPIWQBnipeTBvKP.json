@@ -1,0 +1,33 @@
+{
+  "id": "3GSzHKNwPIWQBnipeTBvKP",
+  "name": "一筆かもめ",
+  "uri": "spotify:artist:3GSzHKNwPIWQBnipeTBvKP",
+  "followers": {
+    "href": null,
+    "total": 142
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27343ba78ea9f12db72c637a7ef",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0243ba78ea9f12db72c637a7ef",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485143ba78ea9f12db72c637a7ef",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3GSzHKNwPIWQBnipeTBvKP"
+  }
+}

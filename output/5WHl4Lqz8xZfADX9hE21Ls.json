@@ -1,0 +1,33 @@
+{
+  "id": "5WHl4Lqz8xZfADX9hE21Ls",
+  "name": "Magnify",
+  "uri": "spotify:artist:5WHl4Lqz8xZfADX9hE21Ls",
+  "followers": {
+    "href": null,
+    "total": 70
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f2a36c81bbf903c1a54f527d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f2a36c81bbf903c1a54f527d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f2a36c81bbf903c1a54f527d",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5WHl4Lqz8xZfADX9hE21Ls"
+  }
+}

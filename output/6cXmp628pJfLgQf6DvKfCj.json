@@ -1,0 +1,33 @@
+{
+  "id": "6cXmp628pJfLgQf6DvKfCj",
+  "name": "Left",
+  "uri": "spotify:artist:6cXmp628pJfLgQf6DvKfCj",
+  "followers": {
+    "href": null,
+    "total": 250
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27345b7efdf6c2e2d54544aa8f8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0245b7efdf6c2e2d54544aa8f8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485145b7efdf6c2e2d54544aa8f8",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6cXmp628pJfLgQf6DvKfCj"
+  }
+}

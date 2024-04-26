@@ -1,0 +1,33 @@
+{
+  "id": "2RLoouHxVtWm1qCG1vYfIS",
+  "name": "Octave Cat",
+  "uri": "spotify:artist:2RLoouHxVtWm1qCG1vYfIS",
+  "followers": {
+    "href": null,
+    "total": 9682
+  },
+  "genres": [
+    "jamtronica"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb63c9e48912ef9281396ec0c3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517463c9e48912ef9281396ec0c3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17863c9e48912ef9281396ec0c3",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2RLoouHxVtWm1qCG1vYfIS"
+  }
+}

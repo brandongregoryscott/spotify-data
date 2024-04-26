@@ -1,0 +1,33 @@
+{
+  "id": "1OtaTrYrgxKm4wmv2dOIRT",
+  "name": "Neverdie",
+  "uri": "spotify:artist:1OtaTrYrgxKm4wmv2dOIRT",
+  "followers": {
+    "href": null,
+    "total": 255
+  },
+  "genres": [
+    "gothic doom"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3bd61070fdd67dfa2acb8a65",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051743bd61070fdd67dfa2acb8a65",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1783bd61070fdd67dfa2acb8a65",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1OtaTrYrgxKm4wmv2dOIRT"
+  }
+}
