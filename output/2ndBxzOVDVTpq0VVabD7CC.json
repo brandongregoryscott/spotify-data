@@ -1,0 +1,33 @@
+{
+  "id": "2ndBxzOVDVTpq0VVabD7CC",
+  "name": "Ap2",
+  "uri": "spotify:artist:2ndBxzOVDVTpq0VVabD7CC",
+  "followers": {
+    "href": null,
+    "total": 1185
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734663c15e61238c743490a56b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024663c15e61238c743490a56b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514663c15e61238c743490a56b",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ndBxzOVDVTpq0VVabD7CC"
+  }
+}

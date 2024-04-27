@@ -1,0 +1,33 @@
+{
+  "id": "60JKQipJ7UxMa5VBPLkkUP",
+  "name": "Anne Eliza",
+  "uri": "spotify:artist:60JKQipJ7UxMa5VBPLkkUP",
+  "followers": {
+    "href": null,
+    "total": 164
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbc5deca8f9486ff6d8df96d6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bc5deca8f9486ff6d8df96d6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bc5deca8f9486ff6d8df96d6",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/60JKQipJ7UxMa5VBPLkkUP"
+  }
+}

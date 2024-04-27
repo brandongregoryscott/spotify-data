@@ -1,0 +1,33 @@
+{
+  "id": "2VhTHDobgfSTcFPphLCO4a",
+  "name": "Bill Jerpe",
+  "uri": "spotify:artist:2VhTHDobgfSTcFPphLCO4a",
+  "followers": {
+    "href": null,
+    "total": 625
+  },
+  "genres": [
+    "psychedelic folk rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb14147dd115a08a8a52c7ced4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517414147dd115a08a8a52c7ced4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17814147dd115a08a8a52c7ced4",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2VhTHDobgfSTcFPphLCO4a"
+  }
+}

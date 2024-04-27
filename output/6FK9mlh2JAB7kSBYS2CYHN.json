@@ -1,0 +1,33 @@
+{
+  "id": "6FK9mlh2JAB7kSBYS2CYHN",
+  "name": "Glassio",
+  "uri": "spotify:artist:6FK9mlh2JAB7kSBYS2CYHN",
+  "followers": {
+    "href": null,
+    "total": 8868
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba0dd895c29b5d61b878a50e9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a0dd895c29b5d61b878a50e9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a0dd895c29b5d61b878a50e9",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6FK9mlh2JAB7kSBYS2CYHN"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "10Fe3Y0zxnMGLEnEmug6jL",
+  "name": "Metrallo",
+  "uri": "spotify:artist:10Fe3Y0zxnMGLEnEmug6jL",
+  "followers": {
+    "href": null,
+    "total": 330
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb01848836847e0392ed1c2f99",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517401848836847e0392ed1c2f99",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17801848836847e0392ed1c2f99",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/10Fe3Y0zxnMGLEnEmug6jL"
+  }
+}

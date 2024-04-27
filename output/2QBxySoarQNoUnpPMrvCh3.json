@@ -1,0 +1,33 @@
+{
+  "id": "2QBxySoarQNoUnpPMrvCh3",
+  "name": "Sahil",
+  "uri": "spotify:artist:2QBxySoarQNoUnpPMrvCh3",
+  "followers": {
+    "href": null,
+    "total": 456
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf7690082a307d78c0d53729b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f7690082a307d78c0d53729b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f7690082a307d78c0d53729b",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2QBxySoarQNoUnpPMrvCh3"
+  }
+}

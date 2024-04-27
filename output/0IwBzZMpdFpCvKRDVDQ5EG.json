@@ -1,0 +1,33 @@
+{
+  "id": "0IwBzZMpdFpCvKRDVDQ5EG",
+  "name": "Kreatīvs",
+  "uri": "spotify:artist:0IwBzZMpdFpCvKRDVDQ5EG",
+  "followers": {
+    "href": null,
+    "total": 824
+  },
+  "genres": [
+    "latvian hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb68a229d02b3ac01362bc19f4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517468a229d02b3ac01362bc19f4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17868a229d02b3ac01362bc19f4",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0IwBzZMpdFpCvKRDVDQ5EG"
+  }
+}

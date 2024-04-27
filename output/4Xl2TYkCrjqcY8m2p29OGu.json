@@ -1,0 +1,33 @@
+{
+  "id": "4Xl2TYkCrjqcY8m2p29OGu",
+  "name": "luu",
+  "uri": "spotify:artist:4Xl2TYkCrjqcY8m2p29OGu",
+  "followers": {
+    "href": null,
+    "total": 1210
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb3d614088d79e8879c066bb6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b3d614088d79e8879c066bb6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b3d614088d79e8879c066bb6",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu"
+  }
+}

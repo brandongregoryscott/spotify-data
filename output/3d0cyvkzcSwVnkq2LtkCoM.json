@@ -1,0 +1,33 @@
+{
+  "id": "3d0cyvkzcSwVnkq2LtkCoM",
+  "name": "Athanator",
+  "uri": "spotify:artist:3d0cyvkzcSwVnkq2LtkCoM",
+  "followers": {
+    "href": null,
+    "total": 1368
+  },
+  "genres": [
+    "metal colombiano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27317d90175983f9b1f7521e134",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0217d90175983f9b1f7521e134",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485117d90175983f9b1f7521e134",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3d0cyvkzcSwVnkq2LtkCoM"
+  }
+}

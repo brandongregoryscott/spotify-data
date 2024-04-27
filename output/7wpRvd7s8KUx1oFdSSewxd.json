@@ -1,0 +1,33 @@
+{
+  "id": "7wpRvd7s8KUx1oFdSSewxd",
+  "name": "Secret Work",
+  "uri": "spotify:artist:7wpRvd7s8KUx1oFdSSewxd",
+  "followers": {
+    "href": null,
+    "total": 165
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bc45819dc09974411210a317",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021412e75ebee7f27bd836ff20",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511412e75ebee7f27bd836ff20",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7wpRvd7s8KUx1oFdSSewxd"
+  }
+}

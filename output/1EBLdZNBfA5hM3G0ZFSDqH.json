@@ -1,0 +1,33 @@
+{
+  "id": "1EBLdZNBfA5hM3G0ZFSDqH",
+  "name": "Rob Grande",
+  "uri": "spotify:artist:1EBLdZNBfA5hM3G0ZFSDqH",
+  "followers": {
+    "href": null,
+    "total": 49
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb187b66882abe234c2fa4f793",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174187b66882abe234c2fa4f793",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178187b66882abe234c2fa4f793",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1EBLdZNBfA5hM3G0ZFSDqH"
+  }
+}

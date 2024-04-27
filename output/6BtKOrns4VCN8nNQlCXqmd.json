@@ -1,0 +1,33 @@
+{
+  "id": "6BtKOrns4VCN8nNQlCXqmd",
+  "name": "Information",
+  "uri": "spotify:artist:6BtKOrns4VCN8nNQlCXqmd",
+  "followers": {
+    "href": null,
+    "total": 32
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734997d19cda6decd4c8808595",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024997d19cda6decd4c8808595",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514997d19cda6decd4c8808595",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6BtKOrns4VCN8nNQlCXqmd"
+  }
+}

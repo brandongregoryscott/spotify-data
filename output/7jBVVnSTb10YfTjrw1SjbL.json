@@ -1,0 +1,33 @@
+{
+  "id": "7jBVVnSTb10YfTjrw1SjbL",
+  "name": "Alex Frankel",
+  "uri": "spotify:artist:7jBVVnSTb10YfTjrw1SjbL",
+  "followers": {
+    "href": null,
+    "total": 3458
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb859b0a10f1160643cf6bf75b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174859b0a10f1160643cf6bf75b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178859b0a10f1160643cf6bf75b",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7jBVVnSTb10YfTjrw1SjbL"
+  }
+}

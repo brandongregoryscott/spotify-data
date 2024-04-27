@@ -1,0 +1,33 @@
+{
+  "id": "7ki0NEYjetAx5KbjEzpVB2",
+  "name": "Satchmode",
+  "uri": "spotify:artist:7ki0NEYjetAx5KbjEzpVB2",
+  "followers": {
+    "href": null,
+    "total": 7609
+  },
+  "genres": [
+    "indie poptimism"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc04194d35ce46199d2e05d8a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c04194d35ce46199d2e05d8a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c04194d35ce46199d2e05d8a",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ki0NEYjetAx5KbjEzpVB2"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "3HPaePOfHtTFMK9AZ2IEin",
+  "name": "Douglas McCombs",
+  "uri": "spotify:artist:3HPaePOfHtTFMK9AZ2IEin",
+  "followers": {
+    "href": null,
+    "total": 393
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 1000,
+      "url": "https://i.scdn.co/image/ab6772690000c46c6e3a91b1d99ef6a78c078b6e",
+      "width": 1000
+    },
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6772690000dd226e3a91b1d99ef6a78c078b6e",
+      "width": 640
+    },
+    {
+      "height": 200,
+      "url": "https://i.scdn.co/image/ab6772690000bac36e3a91b1d99ef6a78c078b6e",
+      "width": 200
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67726900008f746e3a91b1d99ef6a78c078b6e",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3HPaePOfHtTFMK9AZ2IEin"
+  }
+}

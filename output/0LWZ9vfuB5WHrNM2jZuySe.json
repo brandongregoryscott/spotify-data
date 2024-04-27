@@ -1,0 +1,33 @@
+{
+  "id": "0LWZ9vfuB5WHrNM2jZuySe",
+  "name": "No Guard",
+  "uri": "spotify:artist:0LWZ9vfuB5WHrNM2jZuySe",
+  "followers": {
+    "href": null,
+    "total": 634
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba06e860b86bd5e19b2351171",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a06e860b86bd5e19b2351171",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a06e860b86bd5e19b2351171",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0LWZ9vfuB5WHrNM2jZuySe"
+  }
+}

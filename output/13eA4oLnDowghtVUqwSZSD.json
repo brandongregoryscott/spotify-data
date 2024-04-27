@@ -1,0 +1,33 @@
+{
+  "id": "13eA4oLnDowghtVUqwSZSD",
+  "name": "Laura Karpman",
+  "uri": "spotify:artist:13eA4oLnDowghtVUqwSZSD",
+  "followers": {
+    "href": null,
+    "total": 5849
+  },
+  "genres": [
+    "soundtrack"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb89fd3963489b8d15d0c19245",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517489fd3963489b8d15d0c19245",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17889fd3963489b8d15d0c19245",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+  }
+}

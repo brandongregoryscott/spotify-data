@@ -1,0 +1,33 @@
+{
+  "id": "0IYIcvJcal2977YrbhwjHT",
+  "name": "Alvane",
+  "uri": "spotify:artist:0IYIcvJcal2977YrbhwjHT",
+  "followers": {
+    "href": null,
+    "total": 246
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb05865a94ea14cde1c2a760ba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517405865a94ea14cde1c2a760ba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17805865a94ea14cde1c2a760ba",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0IYIcvJcal2977YrbhwjHT"
+  }
+}

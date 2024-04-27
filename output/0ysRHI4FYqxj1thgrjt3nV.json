@@ -1,0 +1,33 @@
+{
+  "id": "0ysRHI4FYqxj1thgrjt3nV",
+  "name": "Super Fuzz",
+  "uri": "spotify:artist:0ysRHI4FYqxj1thgrjt3nV",
+  "followers": {
+    "href": null,
+    "total": 76
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb53f9d7e8b827f26c2953a9db",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517453f9d7e8b827f26c2953a9db",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17853f9d7e8b827f26c2953a9db",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ysRHI4FYqxj1thgrjt3nV"
+  }
+}
