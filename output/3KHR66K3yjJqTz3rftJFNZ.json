@@ -1,0 +1,33 @@
+{
+  "id": "3KHR66K3yjJqTz3rftJFNZ",
+  "name": "AINSEL",
+  "uri": "spotify:artist:3KHR66K3yjJqTz3rftJFNZ",
+  "followers": {
+    "href": null,
+    "total": 333
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb579a07b00e3d9510f51da438",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174579a07b00e3d9510f51da438",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178579a07b00e3d9510f51da438",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3KHR66K3yjJqTz3rftJFNZ"
+  }
+}

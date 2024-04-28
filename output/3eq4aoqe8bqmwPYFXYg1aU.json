@@ -1,0 +1,33 @@
+{
+  "id": "3eq4aoqe8bqmwPYFXYg1aU",
+  "name": "Manduka",
+  "uri": "spotify:artist:3eq4aoqe8bqmwPYFXYg1aU",
+  "followers": {
+    "href": null,
+    "total": 7786
+  },
+  "genres": [
+    "tropicalia"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273515c960b4f929837e94b8fd9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02515c960b4f929837e94b8fd9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851515c960b4f929837e94b8fd9",
+      "width": 64
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3eq4aoqe8bqmwPYFXYg1aU"
+  }
+}

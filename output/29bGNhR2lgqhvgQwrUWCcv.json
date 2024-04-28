@@ -1,0 +1,33 @@
+{
+  "id": "29bGNhR2lgqhvgQwrUWCcv",
+  "name": "Javier",
+  "uri": "spotify:artist:29bGNhR2lgqhvgQwrUWCcv",
+  "followers": {
+    "href": null,
+    "total": 1142
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273345bbd80759fa3f6a8eca7ed",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02345bbd80759fa3f6a8eca7ed",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851345bbd80759fa3f6a8eca7ed",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/29bGNhR2lgqhvgQwrUWCcv"
+  }
+}

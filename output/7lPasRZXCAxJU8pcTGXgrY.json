@@ -1,0 +1,34 @@
+{
+  "id": "7lPasRZXCAxJU8pcTGXgrY",
+  "name": "Ensamble Cruzao",
+  "uri": "spotify:artist:7lPasRZXCAxJU8pcTGXgrY",
+  "followers": {
+    "href": null,
+    "total": 1334
+  },
+  "genres": [
+    "musica andina colombiana",
+    "musica colombiana instrumental"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcae32ed236f85061e63f4048",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cae32ed236f85061e63f4048",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cae32ed236f85061e63f4048",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7lPasRZXCAxJU8pcTGXgrY"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "05sISz4dRW4gtjn4ugjxVx",
+  "name": "The Dreamscape",
+  "uri": "spotify:artist:05sISz4dRW4gtjn4ugjxVx",
+  "followers": {
+    "href": null,
+    "total": 467
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe64ea93b539e75beec161317",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e64ea93b539e75beec161317",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e64ea93b539e75beec161317",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05sISz4dRW4gtjn4ugjxVx"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2NdCLFQzTJkSGWjFQ7LNGw",
+  "name": "The Hayds",
+  "uri": "spotify:artist:2NdCLFQzTJkSGWjFQ7LNGw",
+  "followers": {
+    "href": null,
+    "total": 2598
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb21925ff04c4c92eef2a326fc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517421925ff04c4c92eef2a326fc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17821925ff04c4c92eef2a326fc",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2NdCLFQzTJkSGWjFQ7LNGw"
+  }
+}

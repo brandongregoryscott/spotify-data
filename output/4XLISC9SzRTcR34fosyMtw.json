@@ -1,0 +1,35 @@
+{
+  "id": "4XLISC9SzRTcR34fosyMtw",
+  "name": "STOR",
+  "uri": "spotify:artist:4XLISC9SzRTcR34fosyMtw",
+  "followers": {
+    "href": null,
+    "total": 24583
+  },
+  "genres": [
+    "swedish gangsta rap",
+    "swedish hip hop",
+    "swedish trap pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb51960e5d64fd7eac87b105d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b51960e5d64fd7eac87b105d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b51960e5d64fd7eac87b105d",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw"
+  }
+}

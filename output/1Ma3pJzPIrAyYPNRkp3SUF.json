@@ -1,0 +1,35 @@
+{
+  "id": "1Ma3pJzPIrAyYPNRkp3SUF",
+  "name": "Ross from Friends",
+  "uri": "spotify:artist:1Ma3pJzPIrAyYPNRkp3SUF",
+  "followers": {
+    "href": null,
+    "total": 175440
+  },
+  "genres": [
+    "electronica",
+    "future garage",
+    "lo-fi house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb837ddd3bcfc37cc7ad7d1174",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174837ddd3bcfc37cc7ad7d1174",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178837ddd3bcfc37cc7ad7d1174",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
+  }
+}

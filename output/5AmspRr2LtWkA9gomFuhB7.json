@@ -1,0 +1,33 @@
+{
+  "id": "5AmspRr2LtWkA9gomFuhB7",
+  "name": "Ida Alex",
+  "uri": "spotify:artist:5AmspRr2LtWkA9gomFuhB7",
+  "followers": {
+    "href": null,
+    "total": 223
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba314c566029eb34ca1e55a2d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a314c566029eb34ca1e55a2d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a314c566029eb34ca1e55a2d",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5AmspRr2LtWkA9gomFuhB7"
+  }
+}

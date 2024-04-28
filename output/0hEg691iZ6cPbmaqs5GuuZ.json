@@ -1,0 +1,33 @@
+{
+  "id": "0hEg691iZ6cPbmaqs5GuuZ",
+  "name": "laced",
+  "uri": "spotify:artist:0hEg691iZ6cPbmaqs5GuuZ",
+  "followers": {
+    "href": null,
+    "total": 189
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb699178f0d38ea1602867bed9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174699178f0d38ea1602867bed9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178699178f0d38ea1602867bed9",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0hEg691iZ6cPbmaqs5GuuZ"
+  }
+}

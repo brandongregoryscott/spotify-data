@@ -1,0 +1,33 @@
+{
+  "id": "013VVGunWnPMVpW1pPDUKb",
+  "name": "wet salt",
+  "uri": "spotify:artist:013VVGunWnPMVpW1pPDUKb",
+  "followers": {
+    "href": null,
+    "total": 129
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcad98e95373050a59f63ae0c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cad98e95373050a59f63ae0c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cad98e95373050a59f63ae0c",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/013VVGunWnPMVpW1pPDUKb"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "00NmnzOALbdHThmxKBYaYc",
+  "name": "ILL WILL",
+  "uri": "spotify:artist:00NmnzOALbdHThmxKBYaYc",
+  "followers": {
+    "href": null,
+    "total": 179
+  },
+  "genres": [
+    "battle rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc2fe8266c5ce7720d32474f4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c2fe8266c5ce7720d32474f4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c2fe8266c5ce7720d32474f4",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/00NmnzOALbdHThmxKBYaYc"
+  }
+}

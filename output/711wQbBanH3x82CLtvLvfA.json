@@ -1,0 +1,33 @@
+{
+  "id": "711wQbBanH3x82CLtvLvfA",
+  "name": "Smoky Mary",
+  "uri": "spotify:artist:711wQbBanH3x82CLtvLvfA",
+  "followers": {
+    "href": null,
+    "total": 95
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcc3a5e153d426a36bab3adcf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cc3a5e153d426a36bab3adcf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cc3a5e153d426a36bab3adcf",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/711wQbBanH3x82CLtvLvfA"
+  }
+}

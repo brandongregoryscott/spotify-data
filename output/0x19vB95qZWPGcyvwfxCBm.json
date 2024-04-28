@@ -1,0 +1,33 @@
+{
+  "id": "0x19vB95qZWPGcyvwfxCBm",
+  "name": "Againe",
+  "uri": "spotify:artist:0x19vB95qZWPGcyvwfxCBm",
+  "followers": {
+    "href": null,
+    "total": 629
+  },
+  "genres": [
+    "brazilian emo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27394f03ef6381c12dfc587198d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0294f03ef6381c12dfc587198d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485194f03ef6381c12dfc587198d",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0x19vB95qZWPGcyvwfxCBm"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5NnHZjAQDhWUb5ISZO7FSw",
+  "name": "Love You Later",
+  "uri": "spotify:artist:5NnHZjAQDhWUb5ISZO7FSw",
+  "followers": {
+    "href": null,
+    "total": 12734
+  },
+  "genres": [
+    "la pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb62d5c346ef5c70cb1dbefcc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b62d5c346ef5c70cb1dbefcc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b62d5c346ef5c70cb1dbefcc",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5NnHZjAQDhWUb5ISZO7FSw"
+  }
+}

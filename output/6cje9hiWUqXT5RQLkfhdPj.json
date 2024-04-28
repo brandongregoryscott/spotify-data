@@ -1,0 +1,33 @@
+{
+  "id": "6cje9hiWUqXT5RQLkfhdPj",
+  "name": "Altona",
+  "uri": "spotify:artist:6cje9hiWUqXT5RQLkfhdPj",
+  "followers": {
+    "href": null,
+    "total": 510
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd0feae312c03919faa81d658",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d0feae312c03919faa81d658",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d0feae312c03919faa81d658",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6cje9hiWUqXT5RQLkfhdPj"
+  }
+}

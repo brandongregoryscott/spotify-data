@@ -1,0 +1,33 @@
+{
+  "id": "3mlL9rGP4hjvDOBMknwaEn",
+  "name": "sean links",
+  "uri": "spotify:artist:3mlL9rGP4hjvDOBMknwaEn",
+  "followers": {
+    "href": null,
+    "total": 770
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d713b01fa5e3df81b3d2706a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d713b01fa5e3df81b3d2706a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d713b01fa5e3df81b3d2706a",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3mlL9rGP4hjvDOBMknwaEn"
+  }
+}

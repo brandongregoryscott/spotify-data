@@ -1,0 +1,33 @@
+{
+  "id": "5K8vFasyQ7BAeRmfvGHX7f",
+  "name": "Kouek",
+  "uri": "spotify:artist:5K8vFasyQ7BAeRmfvGHX7f",
+  "followers": {
+    "href": null,
+    "total": 560
+  },
+  "genres": [
+    "future funk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaa5b1951d5b72ec820c311c1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aa5b1951d5b72ec820c311c1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aa5b1951d5b72ec820c311c1",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5K8vFasyQ7BAeRmfvGHX7f"
+  }
+}

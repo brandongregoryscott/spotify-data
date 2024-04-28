@@ -1,0 +1,35 @@
+{
+  "id": "3RjPJRaqACpVw1Ds12ADcI",
+  "name": "Wide Awake",
+  "uri": "spotify:artist:3RjPJRaqACpVw1Ds12ADcI",
+  "followers": {
+    "href": null,
+    "total": 4440
+  },
+  "genres": [
+    "connecticut hardcore",
+    "hardcore",
+    "straight edge"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d38b05a3e7b698e3677da18b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d38b05a3e7b698e3677da18b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d38b05a3e7b698e3677da18b",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3RjPJRaqACpVw1Ds12ADcI"
+  }
+}

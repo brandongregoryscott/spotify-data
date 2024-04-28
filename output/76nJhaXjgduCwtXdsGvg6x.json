@@ -1,0 +1,33 @@
+{
+  "id": "76nJhaXjgduCwtXdsGvg6x",
+  "name": "300 South",
+  "uri": "spotify:artist:76nJhaXjgduCwtXdsGvg6x",
+  "followers": {
+    "href": null,
+    "total": 1277
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb047151d32f39d72d26e1079",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b047151d32f39d72d26e1079",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b047151d32f39d72d26e1079",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/76nJhaXjgduCwtXdsGvg6x"
+  }
+}

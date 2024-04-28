@@ -1,0 +1,33 @@
+{
+  "id": "47bwOR6s1vZymFYFCfgsrZ",
+  "name": "Talltale",
+  "uri": "spotify:artist:47bwOR6s1vZymFYFCfgsrZ",
+  "followers": {
+    "href": null,
+    "total": 2946
+  },
+  "genres": [
+    "modern alternative pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd2b7a9e42ac3486c4bcedae9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d2b7a9e42ac3486c4bcedae9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d2b7a9e42ac3486c4bcedae9",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/47bwOR6s1vZymFYFCfgsrZ"
+  }
+}

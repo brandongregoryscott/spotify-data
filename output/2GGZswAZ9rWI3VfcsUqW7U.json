@@ -1,0 +1,33 @@
+{
+  "id": "2GGZswAZ9rWI3VfcsUqW7U",
+  "name": "Happy Valley",
+  "uri": "spotify:artist:2GGZswAZ9rWI3VfcsUqW7U",
+  "followers": {
+    "href": null,
+    "total": 162
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb75cc7890fc4fedbe6ceaa77f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517475cc7890fc4fedbe6ceaa77f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17875cc7890fc4fedbe6ceaa77f",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2GGZswAZ9rWI3VfcsUqW7U"
+  }
+}

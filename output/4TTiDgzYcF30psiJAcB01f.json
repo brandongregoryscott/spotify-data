@@ -1,0 +1,34 @@
+{
+  "id": "4TTiDgzYcF30psiJAcB01f",
+  "name": "Protocol",
+  "uri": "spotify:artist:4TTiDgzYcF30psiJAcB01f",
+  "followers": {
+    "href": null,
+    "total": 3672
+  },
+  "genres": [
+    "chain punk",
+    "florida hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27343b95ea3ac60f03517d50bc9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0243b95ea3ac60f03517d50bc9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485143b95ea3ac60f03517d50bc9",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4TTiDgzYcF30psiJAcB01f"
+  }
+}
