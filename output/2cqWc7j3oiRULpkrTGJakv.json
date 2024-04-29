@@ -1,0 +1,33 @@
+{
+  "id": "2cqWc7j3oiRULpkrTGJakv",
+  "name": "xanxo",
+  "uri": "spotify:artist:2cqWc7j3oiRULpkrTGJakv",
+  "followers": {
+    "href": null,
+    "total": 101
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd42dd98372260f2051ea32d7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d42dd98372260f2051ea32d7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d42dd98372260f2051ea32d7",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2cqWc7j3oiRULpkrTGJakv"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5B5y0bD85xKFIlhMGCeqoy",
+  "name": "Nick Ryan",
+  "uri": "spotify:artist:5B5y0bD85xKFIlhMGCeqoy",
+  "followers": {
+    "href": null,
+    "total": 459
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb9b11781d772044c0b31279b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b9b11781d772044c0b31279b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b9b11781d772044c0b31279b",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5B5y0bD85xKFIlhMGCeqoy"
+  }
+}

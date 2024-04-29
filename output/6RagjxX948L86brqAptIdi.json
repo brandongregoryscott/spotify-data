@@ -1,0 +1,33 @@
+{
+  "id": "6RagjxX948L86brqAptIdi",
+  "name": "Pujem",
+  "uri": "spotify:artist:6RagjxX948L86brqAptIdi",
+  "followers": {
+    "href": null,
+    "total": 290
+  },
+  "genres": [
+    "chilean indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27398b7f644e33465c09d96c5df",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0298b7f644e33465c09d96c5df",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485198b7f644e33465c09d96c5df",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6RagjxX948L86brqAptIdi"
+  }
+}

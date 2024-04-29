@@ -1,0 +1,33 @@
+{
+  "id": "0aSQdFssHjHDdc4tevu5RC",
+  "name": "Lhinen",
+  "uri": "spotify:artist:0aSQdFssHjHDdc4tevu5RC",
+  "followers": {
+    "href": null,
+    "total": 72
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe10661a519064c2fab3e9baa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e10661a519064c2fab3e9baa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e10661a519064c2fab3e9baa",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0aSQdFssHjHDdc4tevu5RC"
+  }
+}

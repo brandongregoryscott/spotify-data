@@ -1,0 +1,33 @@
+{
+  "id": "5tOWIviwLM1EIqGAbF8VSU",
+  "name": "SebastiAn",
+  "uri": "spotify:artist:5tOWIviwLM1EIqGAbF8VSU",
+  "followers": {
+    "href": null,
+    "total": 130992
+  },
+  "genres": [
+    "filter house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfea5e67c21857e7c997d3efc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fea5e67c21857e7c997d3efc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fea5e67c21857e7c997d3efc",
+      "width": 160
+    }
+  ],
+  "popularity": 39,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
+  }
+}

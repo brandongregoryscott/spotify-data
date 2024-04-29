@@ -1,0 +1,34 @@
+{
+  "id": "6ignu1FESsoUapE3EnbCFL",
+  "name": "Ceres",
+  "uri": "spotify:artist:6ignu1FESsoUapE3EnbCFL",
+  "followers": {
+    "href": null,
+    "total": 10929
+  },
+  "genres": [
+    "aussie emo",
+    "australian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd118cc13eb4112077a206f68",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d118cc13eb4112077a206f68",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d118cc13eb4112077a206f68",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ignu1FESsoUapE3EnbCFL"
+  }
+}

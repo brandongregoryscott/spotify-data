@@ -1,0 +1,33 @@
+{
+  "id": "3oAG1lU6TsJo8dA2DmWYOr",
+  "name": "Henni",
+  "uri": "spotify:artist:3oAG1lU6TsJo8dA2DmWYOr",
+  "followers": {
+    "href": null,
+    "total": 85
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731bb4392e7ed5c67396a46cbd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021bb4392e7ed5c67396a46cbd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511bb4392e7ed5c67396a46cbd",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3oAG1lU6TsJo8dA2DmWYOr"
+  }
+}

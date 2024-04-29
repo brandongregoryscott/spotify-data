@@ -1,0 +1,33 @@
+{
+  "id": "6sHNo17NLgYOnJY48NmrNH",
+  "name": "sacha online",
+  "uri": "spotify:artist:6sHNo17NLgYOnJY48NmrNH",
+  "followers": {
+    "href": null,
+    "total": 1184
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb852534b5e4095dfd31a114f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b852534b5e4095dfd31a114f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b852534b5e4095dfd31a114f",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6sHNo17NLgYOnJY48NmrNH"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2VGSZTwqUfqpbVMmXSU4CI",
+  "name": "Liam Duncan",
+  "uri": "spotify:artist:2VGSZTwqUfqpbVMmXSU4CI",
+  "followers": {
+    "href": null,
+    "total": 428
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb66314735f2cf8c4e02d9f370",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517466314735f2cf8c4e02d9f370",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17866314735f2cf8c4e02d9f370",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2VGSZTwqUfqpbVMmXSU4CI"
+  }
+}

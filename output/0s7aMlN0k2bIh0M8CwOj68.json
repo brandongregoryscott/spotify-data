@@ -1,0 +1,33 @@
+{
+  "id": "0s7aMlN0k2bIh0M8CwOj68",
+  "name": "VMF",
+  "uri": "spotify:artist:0s7aMlN0k2bIh0M8CwOj68",
+  "followers": {
+    "href": null,
+    "total": 441
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb457399dccf867f2a012610ec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174457399dccf867f2a012610ec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178457399dccf867f2a012610ec",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0s7aMlN0k2bIh0M8CwOj68"
+  }
+}

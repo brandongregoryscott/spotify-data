@@ -1,0 +1,35 @@
+{
+  "id": "7wF5CNp1oam2lzbsoirTVy",
+  "name": "Young Canadians",
+  "uri": "spotify:artist:7wF5CNp1oam2lzbsoirTVy",
+  "followers": {
+    "href": null,
+    "total": 626
+  },
+  "genres": [
+    "canadian garage rock",
+    "vancouver indie",
+    "vancouver punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273aa8d9ecc9fd9ed1564f2c1c5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02aa8d9ecc9fd9ed1564f2c1c5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851aa8d9ecc9fd9ed1564f2c1c5",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7wF5CNp1oam2lzbsoirTVy"
+  }
+}

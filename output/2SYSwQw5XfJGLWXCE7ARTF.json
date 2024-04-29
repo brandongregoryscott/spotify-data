@@ -1,0 +1,33 @@
+{
+  "id": "2SYSwQw5XfJGLWXCE7ARTF",
+  "name": "Gllato",
+  "uri": "spotify:artist:2SYSwQw5XfJGLWXCE7ARTF",
+  "followers": {
+    "href": null,
+    "total": 385
+  },
+  "genres": [
+    "plugg en espanol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc9d130d8b4778d667509c886",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c9d130d8b4778d667509c886",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c9d130d8b4778d667509c886",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2SYSwQw5XfJGLWXCE7ARTF"
+  }
+}

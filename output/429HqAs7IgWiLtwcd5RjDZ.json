@@ -1,0 +1,33 @@
+{
+  "id": "429HqAs7IgWiLtwcd5RjDZ",
+  "name": "Crawlspace",
+  "uri": "spotify:artist:429HqAs7IgWiLtwcd5RjDZ",
+  "followers": {
+    "href": null,
+    "total": 243
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c9bc16dca9558d6c5c86ef4e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c9bc16dca9558d6c5c86ef4e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c9bc16dca9558d6c5c86ef4e",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/429HqAs7IgWiLtwcd5RjDZ"
+  }
+}

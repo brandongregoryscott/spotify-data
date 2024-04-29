@@ -1,0 +1,33 @@
+{
+  "id": "3coXUO5EiwR37nzX4xWjIV",
+  "name": "Busy P",
+  "uri": "spotify:artist:3coXUO5EiwR37nzX4xWjIV",
+  "followers": {
+    "href": null,
+    "total": 58504
+  },
+  "genres": [
+    "filter house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb97774c1f571f74b42987c4cf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517497774c1f571f74b42987c4cf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17897774c1f571f74b42987c4cf",
+      "width": 160
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV"
+  }
+}

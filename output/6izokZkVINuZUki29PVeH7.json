@@ -1,0 +1,33 @@
+{
+  "id": "6izokZkVINuZUki29PVeH7",
+  "name": "1MillionU$D",
+  "uri": "spotify:artist:6izokZkVINuZUki29PVeH7",
+  "followers": {
+    "href": null,
+    "total": 1536
+  },
+  "genres": [
+    "plugg en espanol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebffb8b3d2f806383a886eaaad",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ffb8b3d2f806383a886eaaad",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ffb8b3d2f806383a886eaaad",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6izokZkVINuZUki29PVeH7"
+  }
+}

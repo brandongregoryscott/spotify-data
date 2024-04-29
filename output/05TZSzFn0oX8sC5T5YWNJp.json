@@ -1,0 +1,33 @@
+{
+  "id": "05TZSzFn0oX8sC5T5YWNJp",
+  "name": "dresan",
+  "uri": "spotify:artist:05TZSzFn0oX8sC5T5YWNJp",
+  "followers": {
+    "href": null,
+    "total": 136
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb17c1f73b3b92389506b9867",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b17c1f73b3b92389506b9867",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b17c1f73b3b92389506b9867",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05TZSzFn0oX8sC5T5YWNJp"
+  }
+}

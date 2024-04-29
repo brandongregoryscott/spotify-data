@@ -1,0 +1,33 @@
+{
+  "id": "5I6ibYN9zhp6iqtJGuHjMt",
+  "name": "FrenchFaces",
+  "uri": "spotify:artist:5I6ibYN9zhp6iqtJGuHjMt",
+  "followers": {
+    "href": null,
+    "total": 4911
+  },
+  "genres": [
+    "uptempo hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb366209528ac33503f794f606",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174366209528ac33503f794f606",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178366209528ac33503f794f606",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5I6ibYN9zhp6iqtJGuHjMt"
+  }
+}

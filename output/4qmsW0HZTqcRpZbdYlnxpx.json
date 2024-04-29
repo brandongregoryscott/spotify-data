@@ -1,0 +1,33 @@
+{
+  "id": "4qmsW0HZTqcRpZbdYlnxpx",
+  "name": "Un, Dos, Tres, y Fuera",
+  "uri": "spotify:artist:4qmsW0HZTqcRpZbdYlnxpx",
+  "followers": {
+    "href": null,
+    "total": 550
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb8dd5628f84a14350297bbc2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b8dd5628f84a14350297bbc2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b8dd5628f84a14350297bbc2",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4qmsW0HZTqcRpZbdYlnxpx"
+  }
+}

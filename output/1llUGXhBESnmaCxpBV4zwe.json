@@ -1,0 +1,33 @@
+{
+  "id": "1llUGXhBESnmaCxpBV4zwe",
+  "name": "Nina Nastasia",
+  "uri": "spotify:artist:1llUGXhBESnmaCxpBV4zwe",
+  "followers": {
+    "href": null,
+    "total": 17475
+  },
+  "genres": [
+    "melancholia"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb54a7025bb687d062826510de",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517454a7025bb687d062826510de",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17854a7025bb687d062826510de",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1llUGXhBESnmaCxpBV4zwe"
+  }
+}

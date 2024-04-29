@@ -1,0 +1,33 @@
+{
+  "id": "0QdV73aETmrsjOE9frGkBn",
+  "name": "Komp",
+  "uri": "spotify:artist:0QdV73aETmrsjOE9frGkBn",
+  "followers": {
+    "href": null,
+    "total": 892
+  },
+  "genres": [
+    "detroit trap en espanol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb41efac91324dc8ee2c97e746",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517441efac91324dc8ee2c97e746",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17841efac91324dc8ee2c97e746",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0QdV73aETmrsjOE9frGkBn"
+  }
+}

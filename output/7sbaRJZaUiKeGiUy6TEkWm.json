@@ -1,0 +1,33 @@
+{
+  "id": "7sbaRJZaUiKeGiUy6TEkWm",
+  "name": "8a",
+  "uri": "spotify:artist:7sbaRJZaUiKeGiUy6TEkWm",
+  "followers": {
+    "href": null,
+    "total": 152
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc69a17213ae979440376c146",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c69a17213ae979440376c146",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c69a17213ae979440376c146",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7sbaRJZaUiKeGiUy6TEkWm"
+  }
+}
