@@ -1,0 +1,33 @@
+{
+  "id": "54VpvSOYejssgDSO6w6E1w",
+  "name": "Don Backy",
+  "uri": "spotify:artist:54VpvSOYejssgDSO6w6E1w",
+  "followers": {
+    "href": null,
+    "total": 24218
+  },
+  "genres": [
+    "classic italian pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273733ff16b32ae48152aff437e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02733ff16b32ae48152aff437e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851733ff16b32ae48152aff437e",
+      "width": 64
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/54VpvSOYejssgDSO6w6E1w"
+  }
+}

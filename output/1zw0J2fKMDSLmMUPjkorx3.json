@@ -1,0 +1,33 @@
+{
+  "id": "1zw0J2fKMDSLmMUPjkorx3",
+  "name": "Spick & Span",
+  "uri": "spotify:artist:1zw0J2fKMDSLmMUPjkorx3",
+  "followers": {
+    "href": null,
+    "total": 126
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273258356e65e9964c762b9a9fb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02258356e65e9964c762b9a9fb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851258356e65e9964c762b9a9fb",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1zw0J2fKMDSLmMUPjkorx3"
+  }
+}

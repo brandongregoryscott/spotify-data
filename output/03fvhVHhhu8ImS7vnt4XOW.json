@@ -1,0 +1,33 @@
+{
+  "id": "03fvhVHhhu8ImS7vnt4XOW",
+  "name": "seqlov",
+  "uri": "spotify:artist:03fvhVHhhu8ImS7vnt4XOW",
+  "followers": {
+    "href": null,
+    "total": 13
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27356e88221baf7d85dcc820dae",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0256e88221baf7d85dcc820dae",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485156e88221baf7d85dcc820dae",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03fvhVHhhu8ImS7vnt4XOW"
+  }
+}

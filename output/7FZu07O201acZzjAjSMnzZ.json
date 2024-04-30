@@ -1,0 +1,33 @@
+{
+  "id": "7FZu07O201acZzjAjSMnzZ",
+  "name": "Kurly!",
+  "uri": "spotify:artist:7FZu07O201acZzjAjSMnzZ",
+  "followers": {
+    "href": null,
+    "total": 1378
+  },
+  "genres": [
+    "aesthetic rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb686720fb5b11862a8ed4e8e0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174686720fb5b11862a8ed4e8e0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178686720fb5b11862a8ed4e8e0",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7FZu07O201acZzjAjSMnzZ"
+  }
+}

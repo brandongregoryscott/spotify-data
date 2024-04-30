@@ -1,0 +1,33 @@
+{
+  "id": "1ovNHIntzPk4hzzKQtrOof",
+  "name": "Haruna",
+  "uri": "spotify:artist:1ovNHIntzPk4hzzKQtrOof",
+  "followers": {
+    "href": null,
+    "total": 2313
+  },
+  "genres": [
+    "japanese alternative pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbe2bbd551366a1167073f09f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174be2bbd551366a1167073f09f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178be2bbd551366a1167073f09f",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ovNHIntzPk4hzzKQtrOof"
+  }
+}

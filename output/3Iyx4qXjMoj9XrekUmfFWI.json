@@ -1,0 +1,33 @@
+{
+  "id": "3Iyx4qXjMoj9XrekUmfFWI",
+  "name": "Get Bent",
+  "uri": "spotify:artist:3Iyx4qXjMoj9XrekUmfFWI",
+  "followers": {
+    "href": null,
+    "total": 380
+  },
+  "genres": [
+    "orgcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cd6925472ba66b50d1a266cc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cd6925472ba66b50d1a266cc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cd6925472ba66b50d1a266cc",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Iyx4qXjMoj9XrekUmfFWI"
+  }
+}

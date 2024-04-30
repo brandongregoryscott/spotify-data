@@ -1,0 +1,33 @@
+{
+  "id": "72IcIjVbjE8V3fUDPfkeV3",
+  "name": "DNE",
+  "uri": "spotify:artist:72IcIjVbjE8V3fUDPfkeV3",
+  "followers": {
+    "href": null,
+    "total": 382
+  },
+  "genres": [
+    "japanese drill"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba95646ab282e1139d92c0699",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a95646ab282e1139d92c0699",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a95646ab282e1139d92c0699",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/72IcIjVbjE8V3fUDPfkeV3"
+  }
+}

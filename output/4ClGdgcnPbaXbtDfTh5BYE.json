@@ -1,0 +1,33 @@
+{
+  "id": "4ClGdgcnPbaXbtDfTh5BYE",
+  "name": "starshoota",
+  "uri": "spotify:artist:4ClGdgcnPbaXbtDfTh5BYE",
+  "followers": {
+    "href": null,
+    "total": 455
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe7fc4834d82b19382942e591",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e7fc4834d82b19382942e591",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e7fc4834d82b19382942e591",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4ClGdgcnPbaXbtDfTh5BYE"
+  }
+}

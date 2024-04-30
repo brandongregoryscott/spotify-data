@@ -1,0 +1,33 @@
+{
+  "id": "2cNedtU1cHBJrWMU6FFodC",
+  "name": "rainy",
+  "uri": "spotify:artist:2cNedtU1cHBJrWMU6FFodC",
+  "followers": {
+    "href": null,
+    "total": 511
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb0aa533dd08bb2cf4244ef4f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b0aa533dd08bb2cf4244ef4f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b0aa533dd08bb2cf4244ef4f",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2cNedtU1cHBJrWMU6FFodC"
+  }
+}

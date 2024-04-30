@@ -1,0 +1,33 @@
+{
+  "id": "6xylEDWW8hnHYY2APA2kje",
+  "name": "mother",
+  "uri": "spotify:artist:6xylEDWW8hnHYY2APA2kje",
+  "followers": {
+    "href": null,
+    "total": 701
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb990f4d3f2f659d5261228859",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174990f4d3f2f659d5261228859",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178990f4d3f2f659d5261228859",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6xylEDWW8hnHYY2APA2kje"
+  }
+}

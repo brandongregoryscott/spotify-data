@@ -1,0 +1,34 @@
+{
+  "id": "4sDzUzlXuXR9WLVXSKet1c",
+  "name": "La Renken",
+  "uri": "spotify:artist:4sDzUzlXuXR9WLVXSKet1c",
+  "followers": {
+    "href": null,
+    "total": 7661
+  },
+  "genres": [
+    "peruvian rock",
+    "reggae peruano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba4a39ad5fc7607c8238dc867",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a4a39ad5fc7607c8238dc867",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a4a39ad5fc7607c8238dc867",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4sDzUzlXuXR9WLVXSKet1c"
+  }
+}

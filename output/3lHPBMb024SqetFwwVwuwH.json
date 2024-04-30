@@ -1,0 +1,36 @@
+{
+  "id": "3lHPBMb024SqetFwwVwuwH",
+  "name": "Tourniquet",
+  "uri": "spotify:artist:3lHPBMb024SqetFwwVwuwH",
+  "followers": {
+    "href": null,
+    "total": 30364
+  },
+  "genres": [
+    "christian metal",
+    "christian thrash metal",
+    "metal salvadoreno",
+    "old school thrash"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f584131702ebd2dd0649fe83",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f584131702ebd2dd0649fe83",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f584131702ebd2dd0649fe83",
+      "width": 64
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3lHPBMb024SqetFwwVwuwH"
+  }
+}

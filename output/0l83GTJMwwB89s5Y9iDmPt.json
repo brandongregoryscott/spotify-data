@@ -1,0 +1,33 @@
+{
+  "id": "0l83GTJMwwB89s5Y9iDmPt",
+  "name": "THAMES",
+  "uri": "spotify:artist:0l83GTJMwwB89s5Y9iDmPt",
+  "followers": {
+    "href": null,
+    "total": 956
+  },
+  "genres": [
+    "dutch post-punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb19e07eef95311bbf4ecee420",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517419e07eef95311bbf4ecee420",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17819e07eef95311bbf4ecee420",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0l83GTJMwwB89s5Y9iDmPt"
+  }
+}

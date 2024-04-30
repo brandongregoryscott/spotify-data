@@ -1,0 +1,33 @@
+{
+  "id": "62VYCXrlHGnWT5DZAHG41L",
+  "name": "John Wells",
+  "uri": "spotify:artist:62VYCXrlHGnWT5DZAHG41L",
+  "followers": {
+    "href": null,
+    "total": 3332
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5b8b3e11d812227993ab9b72",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051745b8b3e11d812227993ab9b72",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1785b8b3e11d812227993ab9b72",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/62VYCXrlHGnWT5DZAHG41L"
+  }
+}

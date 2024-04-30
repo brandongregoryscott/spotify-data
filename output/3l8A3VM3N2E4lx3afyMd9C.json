@@ -1,0 +1,33 @@
+{
+  "id": "3l8A3VM3N2E4lx3afyMd9C",
+  "name": "DJ Swagger",
+  "uri": "spotify:artist:3l8A3VM3N2E4lx3afyMd9C",
+  "followers": {
+    "href": null,
+    "total": 8693
+  },
+  "genres": [
+    "lo-fi house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb642da78e0d08bf5db06e5b18",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174642da78e0d08bf5db06e5b18",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178642da78e0d08bf5db06e5b18",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3l8A3VM3N2E4lx3afyMd9C"
+  }
+}

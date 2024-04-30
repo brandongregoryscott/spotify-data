@@ -1,0 +1,33 @@
+{
+  "id": "1D6tXJA1oytyecOREfZuSj",
+  "name": "Final Solution",
+  "uri": "spotify:artist:1D6tXJA1oytyecOREfZuSj",
+  "followers": {
+    "href": null,
+    "total": 1675
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb810510845e4fcfcea1d362ec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174810510845e4fcfcea1d362ec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178810510845e4fcfcea1d362ec",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1D6tXJA1oytyecOREfZuSj"
+  }
+}

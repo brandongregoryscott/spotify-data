@@ -1,0 +1,33 @@
+{
+  "id": "0x9DqBv9LcL4qwwfcapHvL",
+  "name": "Cross Bringer",
+  "uri": "spotify:artist:0x9DqBv9LcL4qwwfcapHvL",
+  "followers": {
+    "href": null,
+    "total": 812
+  },
+  "genres": [
+    "russian hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb44de8b4e0e2a6ee06e1456cc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517444de8b4e0e2a6ee06e1456cc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17844de8b4e0e2a6ee06e1456cc",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0x9DqBv9LcL4qwwfcapHvL"
+  }
+}

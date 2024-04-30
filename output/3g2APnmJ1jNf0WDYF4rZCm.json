@@ -1,0 +1,33 @@
+{
+  "id": "3g2APnmJ1jNf0WDYF4rZCm",
+  "name": "Bowl",
+  "uri": "spotify:artist:3g2APnmJ1jNf0WDYF4rZCm",
+  "followers": {
+    "href": null,
+    "total": 669
+  },
+  "genres": [
+    "dutch post-punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd33a09835696ec953ae7ad6d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d33a09835696ec953ae7ad6d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d33a09835696ec953ae7ad6d",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3g2APnmJ1jNf0WDYF4rZCm"
+  }
+}

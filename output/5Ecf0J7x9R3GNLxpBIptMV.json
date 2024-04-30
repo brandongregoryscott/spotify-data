@@ -1,0 +1,33 @@
+{
+  "id": "5Ecf0J7x9R3GNLxpBIptMV",
+  "name": "Asteriiaa",
+  "uri": "spotify:artist:5Ecf0J7x9R3GNLxpBIptMV",
+  "followers": {
+    "href": null,
+    "total": 1065
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf98c3da60675b8d1f4aa742e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f98c3da60675b8d1f4aa742e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f98c3da60675b8d1f4aa742e",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Ecf0J7x9R3GNLxpBIptMV"
+  }
+}

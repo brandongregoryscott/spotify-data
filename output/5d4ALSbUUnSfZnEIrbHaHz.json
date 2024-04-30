@@ -1,0 +1,33 @@
+{
+  "id": "5d4ALSbUUnSfZnEIrbHaHz",
+  "name": "TrineATX",
+  "uri": "spotify:artist:5d4ALSbUUnSfZnEIrbHaHz",
+  "followers": {
+    "href": null,
+    "total": 3792
+  },
+  "genres": [
+    "gymcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb17b33673494ff9be667a01a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b17b33673494ff9be667a01a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b17b33673494ff9be667a01a",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5d4ALSbUUnSfZnEIrbHaHz"
+  }
+}

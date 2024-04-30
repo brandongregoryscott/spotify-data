@@ -1,0 +1,33 @@
+{
+  "id": "19i5TFgRSM1vduUiqJ0dLF",
+  "name": "Nodachi",
+  "uri": "spotify:artist:19i5TFgRSM1vduUiqJ0dLF",
+  "followers": {
+    "href": null,
+    "total": 299
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27360cb72b6c1c4477ac0d9b1e7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0260cb72b6c1c4477ac0d9b1e7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485160cb72b6c1c4477ac0d9b1e7",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/19i5TFgRSM1vduUiqJ0dLF"
+  }
+}
