@@ -1,0 +1,33 @@
+{
+  "id": "2hYwABBJwxnnmVPo0xaKnA",
+  "name": "Capoblanco",
+  "uri": "spotify:artist:2hYwABBJwxnnmVPo0xaKnA",
+  "followers": {
+    "href": null,
+    "total": 50
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27341b08707da120e14a6eea908",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0241b08707da120e14a6eea908",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485141b08707da120e14a6eea908",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2hYwABBJwxnnmVPo0xaKnA"
+  }
+}

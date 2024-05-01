@@ -1,0 +1,33 @@
+{
+  "id": "5RwcAXGkLPmuI5p0SR7Ty7",
+  "name": "Brain Salad",
+  "uri": "spotify:artist:5RwcAXGkLPmuI5p0SR7Ty7",
+  "followers": {
+    "href": null,
+    "total": 105
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fb0cb3f8e2e7cf385db5d05b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fb0cb3f8e2e7cf385db5d05b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fb0cb3f8e2e7cf385db5d05b",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5RwcAXGkLPmuI5p0SR7Ty7"
+  }
+}

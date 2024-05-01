@@ -1,0 +1,33 @@
+{
+  "id": "1DBv81WeGZPWMbFVUiSDLf",
+  "name": "Ocala",
+  "uri": "spotify:artist:1DBv81WeGZPWMbFVUiSDLf",
+  "followers": {
+    "href": null,
+    "total": 2057
+  },
+  "genres": [
+    "latincore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27394bb56f2e36cbe1cc020634b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0294bb56f2e36cbe1cc020634b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485194bb56f2e36cbe1cc020634b",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1DBv81WeGZPWMbFVUiSDLf"
+  }
+}

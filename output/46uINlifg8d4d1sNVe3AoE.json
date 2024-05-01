@@ -1,0 +1,33 @@
+{
+  "id": "46uINlifg8d4d1sNVe3AoE",
+  "name": "Shy Layers",
+  "uri": "spotify:artist:46uINlifg8d4d1sNVe3AoE",
+  "followers": {
+    "href": null,
+    "total": 3338
+  },
+  "genres": [
+    "experimental electronic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb59cb49fac1b7aeeca1270a19",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517459cb49fac1b7aeeca1270a19",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17859cb49fac1b7aeeca1270a19",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/46uINlifg8d4d1sNVe3AoE"
+  }
+}

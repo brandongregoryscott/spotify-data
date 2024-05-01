@@ -1,0 +1,35 @@
+{
+  "id": "6dW5JxMjhrkIjiQQjGfHEF",
+  "name": "Napoleon",
+  "uri": "spotify:artist:6dW5JxMjhrkIjiQQjGfHEF",
+  "followers": {
+    "href": null,
+    "total": 29089
+  },
+  "genres": [
+    "melodic hardcore",
+    "progressive metalcore",
+    "uk metalcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebecb02a53aea2b372aed52f33",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ecb02a53aea2b372aed52f33",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ecb02a53aea2b372aed52f33",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6dW5JxMjhrkIjiQQjGfHEF"
+  }
+}

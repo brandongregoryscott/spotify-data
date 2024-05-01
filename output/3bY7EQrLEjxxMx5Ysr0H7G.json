@@ -1,0 +1,33 @@
+{
+  "id": "3bY7EQrLEjxxMx5Ysr0H7G",
+  "name": "KASKIT",
+  "uri": "spotify:artist:3bY7EQrLEjxxMx5Ysr0H7G",
+  "followers": {
+    "href": null,
+    "total": 187
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb7f2611e75582eda3515e5a0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b7f2611e75582eda3515e5a0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b7f2611e75582eda3515e5a0",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3bY7EQrLEjxxMx5Ysr0H7G"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2zKbqRqx22axcZA2mUw71Y",
+  "name": "Hotel Apache",
+  "uri": "spotify:artist:2zKbqRqx22axcZA2mUw71Y",
+  "followers": {
+    "href": null,
+    "total": 25569
+  },
+  "genres": [
+    "hopebeat"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6b5522451f006b6a0210731a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051746b5522451f006b6a0210731a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1786b5522451f006b6a0210731a",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2zKbqRqx22axcZA2mUw71Y"
+  }
+}

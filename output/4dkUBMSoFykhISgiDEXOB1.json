@@ -1,0 +1,34 @@
+{
+  "id": "4dkUBMSoFykhISgiDEXOB1",
+  "name": "Nostromo",
+  "uri": "spotify:artist:4dkUBMSoFykhISgiDEXOB1",
+  "followers": {
+    "href": null,
+    "total": 5812
+  },
+  "genres": [
+    "neo metal",
+    "swiss metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb02a48ee18278d96466680682",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517402a48ee18278d96466680682",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17802a48ee18278d96466680682",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4dkUBMSoFykhISgiDEXOB1"
+  }
+}

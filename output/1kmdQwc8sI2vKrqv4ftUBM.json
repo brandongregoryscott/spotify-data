@@ -1,0 +1,33 @@
+{
+  "id": "1kmdQwc8sI2vKrqv4ftUBM",
+  "name": "MELLOWSHiP",
+  "uri": "spotify:artist:1kmdQwc8sI2vKrqv4ftUBM",
+  "followers": {
+    "href": null,
+    "total": 640
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273495610b3fc21f272af66dea3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02495610b3fc21f272af66dea3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851495610b3fc21f272af66dea3",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1kmdQwc8sI2vKrqv4ftUBM"
+  }
+}

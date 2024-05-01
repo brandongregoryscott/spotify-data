@@ -1,0 +1,33 @@
+{
+  "id": "5YB02bWB3Et6pQXFpGl7Bv",
+  "name": "João Guerra",
+  "uri": "spotify:artist:5YB02bWB3Et6pQXFpGl7Bv",
+  "followers": {
+    "href": null,
+    "total": 110
+  },
+  "genres": [
+    "fantasy"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb322fff5352428f654dcf31b4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174322fff5352428f654dcf31b4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178322fff5352428f654dcf31b4",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5YB02bWB3Et6pQXFpGl7Bv"
+  }
+}

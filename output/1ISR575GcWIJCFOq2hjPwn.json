@@ -1,0 +1,33 @@
+{
+  "id": "1ISR575GcWIJCFOq2hjPwn",
+  "name": "skylin",
+  "uri": "spotify:artist:1ISR575GcWIJCFOq2hjPwn",
+  "followers": {
+    "href": null,
+    "total": 146
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbaac52aa974f6c8464e20736",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174baac52aa974f6c8464e20736",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178baac52aa974f6c8464e20736",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ISR575GcWIJCFOq2hjPwn"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4v6Xc9eHG6ka82J97u7QAL",
+  "name": "MASK",
+  "uri": "spotify:artist:4v6Xc9eHG6ka82J97u7QAL",
+  "followers": {
+    "href": null,
+    "total": 1517
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc85f3f9b969eade1d09e7a9b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c85f3f9b969eade1d09e7a9b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c85f3f9b969eade1d09e7a9b",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4v6Xc9eHG6ka82J97u7QAL"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6L4Y4drXJnTNjGsUZHv09p",
+  "name": "DOVVE",
+  "uri": "spotify:artist:6L4Y4drXJnTNjGsUZHv09p",
+  "followers": {
+    "href": null,
+    "total": 189
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb91e7ffdb88db31c41ee6fdf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b91e7ffdb88db31c41ee6fdf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b91e7ffdb88db31c41ee6fdf",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6L4Y4drXJnTNjGsUZHv09p"
+  }
+}

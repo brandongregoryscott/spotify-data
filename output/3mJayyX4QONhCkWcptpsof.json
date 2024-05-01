@@ -1,0 +1,33 @@
+{
+  "id": "3mJayyX4QONhCkWcptpsof",
+  "name": "Longfellow",
+  "uri": "spotify:artist:3mJayyX4QONhCkWcptpsof",
+  "followers": {
+    "href": null,
+    "total": 592
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732e6d810c9a0ad044df519d7d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022e6d810c9a0ad044df519d7d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512e6d810c9a0ad044df519d7d",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3mJayyX4QONhCkWcptpsof"
+  }
+}

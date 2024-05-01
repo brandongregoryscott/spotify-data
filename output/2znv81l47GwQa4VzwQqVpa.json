@@ -1,0 +1,33 @@
+{
+  "id": "2znv81l47GwQa4VzwQqVpa",
+  "name": "Pultixima",
+  "uri": "spotify:artist:2znv81l47GwQa4VzwQqVpa",
+  "followers": {
+    "href": null,
+    "total": 176
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb35f110f1238b6647aa2ee087",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517435f110f1238b6647aa2ee087",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17835f110f1238b6647aa2ee087",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2znv81l47GwQa4VzwQqVpa"
+  }
+}

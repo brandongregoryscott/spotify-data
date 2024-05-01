@@ -1,0 +1,33 @@
+{
+  "id": "3aKmPqBx1uIDdHexfQ81lf",
+  "name": "Alman Lenid",
+  "uri": "spotify:artist:3aKmPqBx1uIDdHexfQ81lf",
+  "followers": {
+    "href": null,
+    "total": 300
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba65118cce2df6530361f6aa4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a65118cce2df6530361f6aa4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a65118cce2df6530361f6aa4",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3aKmPqBx1uIDdHexfQ81lf"
+  }
+}

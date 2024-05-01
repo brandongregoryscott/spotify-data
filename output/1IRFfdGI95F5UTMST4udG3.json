@@ -1,0 +1,33 @@
+{
+  "id": "1IRFfdGI95F5UTMST4udG3",
+  "name": "Lee Wiley",
+  "uri": "spotify:artist:1IRFfdGI95F5UTMST4udG3",
+  "followers": {
+    "href": null,
+    "total": 8977
+  },
+  "genres": [
+    "torch song"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734eb66e5fc90ec7250910f4e6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024eb66e5fc90ec7250910f4e6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514eb66e5fc90ec7250910f4e6",
+      "width": 64
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3"
+  }
+}

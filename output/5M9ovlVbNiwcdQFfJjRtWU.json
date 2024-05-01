@@ -1,0 +1,33 @@
+{
+  "id": "5M9ovlVbNiwcdQFfJjRtWU",
+  "name": "deepaak",
+  "uri": "spotify:artist:5M9ovlVbNiwcdQFfJjRtWU",
+  "followers": {
+    "href": null,
+    "total": 254
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb352e466a4b8e696017b7f174",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174352e466a4b8e696017b7f174",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178352e466a4b8e696017b7f174",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5M9ovlVbNiwcdQFfJjRtWU"
+  }
+}

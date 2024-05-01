@@ -1,0 +1,33 @@
+{
+  "id": "6MOGzbXvzDRVjbRqi9qVQV",
+  "name": "The Promise",
+  "uri": "spotify:artist:6MOGzbXvzDRVjbRqi9qVQV",
+  "followers": {
+    "href": null,
+    "total": 765
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebadeafbb4080914967de25cd4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174adeafbb4080914967de25cd4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178adeafbb4080914967de25cd4",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6MOGzbXvzDRVjbRqi9qVQV"
+  }
+}

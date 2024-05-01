@@ -1,0 +1,33 @@
+{
+  "id": "6QffDdWdkrkfdqfyfuqceC",
+  "name": "Dorothy Dandridge",
+  "uri": "spotify:artist:6QffDdWdkrkfdqfyfuqceC",
+  "followers": {
+    "href": null,
+    "total": 8615
+  },
+  "genres": [
+    "harlem renaissance"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730abc531ecd77112d17556dd8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020abc531ecd77112d17556dd8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510abc531ecd77112d17556dd8",
+      "width": 64
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6QffDdWdkrkfdqfyfuqceC"
+  }
+}

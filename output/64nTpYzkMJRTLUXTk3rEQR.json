@@ -1,0 +1,33 @@
+{
+  "id": "64nTpYzkMJRTLUXTk3rEQR",
+  "name": "Vona",
+  "uri": "spotify:artist:64nTpYzkMJRTLUXTk3rEQR",
+  "followers": {
+    "href": null,
+    "total": 229
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273aafcf965f40154426802a139",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02aafcf965f40154426802a139",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851aafcf965f40154426802a139",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/64nTpYzkMJRTLUXTk3rEQR"
+  }
+}

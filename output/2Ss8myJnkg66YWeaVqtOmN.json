@@ -1,0 +1,33 @@
+{
+  "id": "2Ss8myJnkg66YWeaVqtOmN",
+  "name": "Sammy Copley",
+  "uri": "spotify:artist:2Ss8myJnkg66YWeaVqtOmN",
+  "followers": {
+    "href": null,
+    "total": 30138
+  },
+  "genres": [
+    "gen z singer-songwriter"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb53d8c14f24e340a93c629f65",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517453d8c14f24e340a93c629f65",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17853d8c14f24e340a93c629f65",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Ss8myJnkg66YWeaVqtOmN"
+  }
+}
