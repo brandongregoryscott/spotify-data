@@ -1,0 +1,33 @@
+{
+  "id": "716g3bCNTHWaNFJ1vmXt3j",
+  "name": "Push",
+  "uri": "spotify:artist:716g3bCNTHWaNFJ1vmXt3j",
+  "followers": {
+    "href": null,
+    "total": 143
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737234ce1e34fe2a70282fba96",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027234ce1e34fe2a70282fba96",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517234ce1e34fe2a70282fba96",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/716g3bCNTHWaNFJ1vmXt3j"
+  }
+}

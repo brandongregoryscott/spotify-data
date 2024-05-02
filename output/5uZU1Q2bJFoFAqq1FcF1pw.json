@@ -1,0 +1,35 @@
+{
+  "id": "5uZU1Q2bJFoFAqq1FcF1pw",
+  "name": "Hawaiian6",
+  "uri": "spotify:artist:5uZU1Q2bJFoFAqq1FcF1pw",
+  "followers": {
+    "href": null,
+    "total": 73201
+  },
+  "genres": [
+    "j-rock",
+    "japanese pop punk",
+    "japanese punk rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc5003b22aa5f7c026e489ddd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c5003b22aa5f7c026e489ddd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c5003b22aa5f7c026e489ddd",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5uZU1Q2bJFoFAqq1FcF1pw"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "31gYO24AA8eh6LmCV2m05B",
+  "name": "Alex & Daniel",
+  "uri": "spotify:artist:31gYO24AA8eh6LmCV2m05B",
+  "followers": {
+    "href": null,
+    "total": 10181
+  },
+  "genres": [
+    "chilean indie",
+    "chilean rock",
+    "pop electronico"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730c7689a60e14082fa7d60395",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020c7689a60e14082fa7d60395",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510c7689a60e14082fa7d60395",
+      "width": 64
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/31gYO24AA8eh6LmCV2m05B"
+  }
+}

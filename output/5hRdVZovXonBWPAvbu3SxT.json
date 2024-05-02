@@ -1,0 +1,33 @@
+{
+  "id": "5hRdVZovXonBWPAvbu3SxT",
+  "name": "Deviant",
+  "uri": "spotify:artist:5hRdVZovXonBWPAvbu3SxT",
+  "followers": {
+    "href": null,
+    "total": 299
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb20e1c8931b6b22b840fa9f5f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517420e1c8931b6b22b840fa9f5f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17820e1c8931b6b22b840fa9f5f",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5hRdVZovXonBWPAvbu3SxT"
+  }
+}

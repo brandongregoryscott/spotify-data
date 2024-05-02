@@ -1,0 +1,33 @@
+{
+  "id": "6Lu9nEkBDPyCWQpk2ohmwQ",
+  "name": "Cryypt",
+  "uri": "spotify:artist:6Lu9nEkBDPyCWQpk2ohmwQ",
+  "followers": {
+    "href": null,
+    "total": 45
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb48bf1546368af7573be167cd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517448bf1546368af7573be167cd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17848bf1546368af7573be167cd",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Lu9nEkBDPyCWQpk2ohmwQ"
+  }
+}

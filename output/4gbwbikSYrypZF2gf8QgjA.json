@@ -1,0 +1,33 @@
+{
+  "id": "4gbwbikSYrypZF2gf8QgjA",
+  "name": "ALKDO",
+  "uri": "spotify:artist:4gbwbikSYrypZF2gf8QgjA",
+  "followers": {
+    "href": null,
+    "total": 1127
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27399a1f5b13a9a7cad953caade",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0299a1f5b13a9a7cad953caade",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485199a1f5b13a9a7cad953caade",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4gbwbikSYrypZF2gf8QgjA"
+  }
+}

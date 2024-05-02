@@ -1,0 +1,33 @@
+{
+  "id": "3Kl53w0GkuEjNyr6mu4F3T",
+  "name": "memorytown",
+  "uri": "spotify:artist:3Kl53w0GkuEjNyr6mu4F3T",
+  "followers": {
+    "href": null,
+    "total": 211
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc5ba982a5f68555a5df1caf0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c5ba982a5f68555a5df1caf0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c5ba982a5f68555a5df1caf0",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Kl53w0GkuEjNyr6mu4F3T"
+  }
+}

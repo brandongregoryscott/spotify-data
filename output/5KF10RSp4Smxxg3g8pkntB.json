@@ -1,0 +1,33 @@
+{
+  "id": "5KF10RSp4Smxxg3g8pkntB",
+  "name": "Savant",
+  "uri": "spotify:artist:5KF10RSp4Smxxg3g8pkntB",
+  "followers": {
+    "href": null,
+    "total": 208
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb41460b11ec186f5f30f68571",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517441460b11ec186f5f30f68571",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17841460b11ec186f5f30f68571",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5KF10RSp4Smxxg3g8pkntB"
+  }
+}

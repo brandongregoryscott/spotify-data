@@ -1,0 +1,36 @@
+{
+  "id": "11PVIVQzvdHOrvVmNlkYNZ",
+  "name": "dustbox",
+  "uri": "spotify:artist:11PVIVQzvdHOrvVmNlkYNZ",
+  "followers": {
+    "href": null,
+    "total": 60721
+  },
+  "genres": [
+    "j-rock",
+    "japanese melodic punk",
+    "japanese pop punk",
+    "japanese punk rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd9eb1562e5c7a3513abf56e8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d9eb1562e5c7a3513abf56e8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d9eb1562e5c7a3513abf56e8",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ"
+  }
+}

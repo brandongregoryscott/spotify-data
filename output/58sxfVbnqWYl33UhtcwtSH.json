@@ -1,0 +1,33 @@
+{
+  "id": "58sxfVbnqWYl33UhtcwtSH",
+  "name": "El Cawa",
+  "uri": "spotify:artist:58sxfVbnqWYl33UhtcwtSH",
+  "followers": {
+    "href": null,
+    "total": 52
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c8d44c6f067618127ab853cc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c8d44c6f067618127ab853cc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c8d44c6f067618127ab853cc",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/58sxfVbnqWYl33UhtcwtSH"
+  }
+}

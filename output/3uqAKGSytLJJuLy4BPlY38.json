@@ -1,0 +1,33 @@
+{
+  "id": "3uqAKGSytLJJuLy4BPlY38",
+  "name": "BEX",
+  "uri": "spotify:artist:3uqAKGSytLJJuLy4BPlY38",
+  "followers": {
+    "href": null,
+    "total": 3069
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb4d7f08cd9f1f23b8f6d31b0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b4d7f08cd9f1f23b8f6d31b0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b4d7f08cd9f1f23b8f6d31b0",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38"
+  }
+}

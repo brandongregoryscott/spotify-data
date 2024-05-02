@@ -1,0 +1,33 @@
+{
+  "id": "7FTlFZTAaA7pPcV532TOmQ",
+  "name": "A-Why",
+  "uri": "spotify:artist:7FTlFZTAaA7pPcV532TOmQ",
+  "followers": {
+    "href": null,
+    "total": 1675
+  },
+  "genres": [
+    "aesthetic rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb713fe7cf24fbbb8c09c9b9bd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174713fe7cf24fbbb8c09c9b9bd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178713fe7cf24fbbb8c09c9b9bd",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7FTlFZTAaA7pPcV532TOmQ"
+  }
+}

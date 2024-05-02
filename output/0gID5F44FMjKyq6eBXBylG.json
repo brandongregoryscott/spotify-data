@@ -1,0 +1,33 @@
+{
+  "id": "0gID5F44FMjKyq6eBXBylG",
+  "name": "MaL",
+  "uri": "spotify:artist:0gID5F44FMjKyq6eBXBylG",
+  "followers": {
+    "href": null,
+    "total": 401
+  },
+  "genres": [
+    "japanese dub"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f48a8fc3c70764b176e80cf6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f48a8fc3c70764b176e80cf6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485187c6b85e3b2dd9741b036b0b",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0gID5F44FMjKyq6eBXBylG"
+  }
+}

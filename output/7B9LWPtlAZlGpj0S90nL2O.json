@@ -1,0 +1,33 @@
+{
+  "id": "7B9LWPtlAZlGpj0S90nL2O",
+  "name": "Defussion",
+  "uri": "spotify:artist:7B9LWPtlAZlGpj0S90nL2O",
+  "followers": {
+    "href": null,
+    "total": 506
+  },
+  "genres": [
+    "wave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb747c17e111dfc1e6073ace30",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174747c17e111dfc1e6073ace30",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178747c17e111dfc1e6073ace30",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7B9LWPtlAZlGpj0S90nL2O"
+  }
+}

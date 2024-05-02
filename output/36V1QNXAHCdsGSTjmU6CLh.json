@@ -1,0 +1,33 @@
+{
+  "id": "36V1QNXAHCdsGSTjmU6CLh",
+  "name": "tamon",
+  "uri": "spotify:artist:36V1QNXAHCdsGSTjmU6CLh",
+  "followers": {
+    "href": null,
+    "total": 1240
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e6329178394148aa8c717c1e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e6329178394148aa8c717c1e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e6329178394148aa8c717c1e",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/36V1QNXAHCdsGSTjmU6CLh"
+  }
+}
