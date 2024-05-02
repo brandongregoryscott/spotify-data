@@ -4,28 +4,14 @@
   "uri": "spotify:artist:0P4BC7A4qASZUacfuQJKmZ",
   "followers": {
     "href": null,
-    "total": 241
+    "total": 242
   },
   "genres": [
     "experimental indie",
     "glitch pop"
   ],
   "images": [
-    {
-      "height": 640,
-      "url": "https://i.scdn.co/image/ab67616d0000b2738084bbfd3443f965e975dfdd",
-      "width": 640
-    },
-    {
-      "height": 300,
-      "url": "https://i.scdn.co/image/ab67616d00001e028084bbfd3443f965e975dfdd",
-      "width": 300
-    },
-    {
-      "height": 64,
-      "url": "https://i.scdn.co/image/ab67616d000048518084bbfd3443f965e975dfdd",
-      "width": 64
-    }
+
   ],
   "popularity": 0,
   "external_urls": {
