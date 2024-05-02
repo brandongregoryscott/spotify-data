@@ -4,11 +4,12 @@
   "uri": "spotify:artist:666I9BuMMt2btdD9yAEGXC",
   "followers": {
     "href": null,
-    "total": 3794
+    "total": 3795
   },
   "genres": [
     "american grindcore",
-    "mathgrind"
+    "mathgrind",
+    "sasscore"
   ],
   "images": [
     {
@@ -27,7 +28,7 @@
       "width": 64
     }
   ],
-  "popularity": 13,
+  "popularity": 12,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/666I9BuMMt2btdD9yAEGXC"
   }
