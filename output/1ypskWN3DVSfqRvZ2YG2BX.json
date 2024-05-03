@@ -1,0 +1,33 @@
+{
+  "id": "1ypskWN3DVSfqRvZ2YG2BX",
+  "name": "Love",
+  "uri": "spotify:artist:1ypskWN3DVSfqRvZ2YG2BX",
+  "followers": {
+    "href": null,
+    "total": 68
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb02e05e3a2169159f04209db2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517402e05e3a2169159f04209db2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17802e05e3a2169159f04209db2",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ypskWN3DVSfqRvZ2YG2BX"
+  }
+}

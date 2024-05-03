@@ -1,0 +1,33 @@
+{
+  "id": "5aF4kqktG2JvcWanK1J86l",
+  "name": "Rex",
+  "uri": "spotify:artist:5aF4kqktG2JvcWanK1J86l",
+  "followers": {
+    "href": null,
+    "total": 1758
+  },
+  "genres": [
+    "slowcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6add02123ff7c4609ee728af",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051746add02123ff7c4609ee728af",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1786add02123ff7c4609ee728af",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5aF4kqktG2JvcWanK1J86l"
+  }
+}

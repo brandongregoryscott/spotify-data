@@ -1,0 +1,33 @@
+{
+  "id": "0uFdhhUxZMSGaeF4Ms6jLj",
+  "name": "dante 600",
+  "uri": "spotify:artist:0uFdhhUxZMSGaeF4Ms6jLj",
+  "followers": {
+    "href": null,
+    "total": 85
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebed600d2306109b51fa0d9a54",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ed600d2306109b51fa0d9a54",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ed600d2306109b51fa0d9a54",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0uFdhhUxZMSGaeF4Ms6jLj"
+  }
+}

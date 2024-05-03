@@ -1,0 +1,33 @@
+{
+  "id": "2kVgqhZLV3FxkiJfjN6Vdp",
+  "name": "Youth Portal",
+  "uri": "spotify:artist:2kVgqhZLV3FxkiJfjN6Vdp",
+  "followers": {
+    "href": null,
+    "total": 1430
+  },
+  "genres": [
+    "malaysian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb715457a6679298faf0945131",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174715457a6679298faf0945131",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178715457a6679298faf0945131",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2kVgqhZLV3FxkiJfjN6Vdp"
+  }
+}

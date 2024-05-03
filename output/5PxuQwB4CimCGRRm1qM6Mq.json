@@ -1,0 +1,33 @@
+{
+  "id": "5PxuQwB4CimCGRRm1qM6Mq",
+  "name": "Mike Twice",
+  "uri": "spotify:artist:5PxuQwB4CimCGRRm1qM6Mq",
+  "followers": {
+    "href": null,
+    "total": 46
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273304441082a5bedf037fdd12a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024a880026471a9c178b065091",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851304441082a5bedf037fdd12a",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5PxuQwB4CimCGRRm1qM6Mq"
+  }
+}

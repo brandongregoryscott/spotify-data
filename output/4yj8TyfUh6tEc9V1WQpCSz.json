@@ -1,0 +1,33 @@
+{
+  "id": "4yj8TyfUh6tEc9V1WQpCSz",
+  "name": "Mochuelo",
+  "uri": "spotify:artist:4yj8TyfUh6tEc9V1WQpCSz",
+  "followers": {
+    "href": null,
+    "total": 3753
+  },
+  "genres": [
+    "venezuelan rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d96fe0bd00644b613020c0c7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d96fe0bd00644b613020c0c7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d96fe0bd00644b613020c0c7",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4yj8TyfUh6tEc9V1WQpCSz"
+  }
+}

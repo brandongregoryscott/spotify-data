@@ -1,0 +1,33 @@
+{
+  "id": "5z1HMye0Aub2PtSeB2h1ui",
+  "name": "Svēte",
+  "uri": "spotify:artist:5z1HMye0Aub2PtSeB2h1ui",
+  "followers": {
+    "href": null,
+    "total": 353
+  },
+  "genres": [
+    "latvian hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdfc0f75e1e77309e01a0fc92",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dfc0f75e1e77309e01a0fc92",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dfc0f75e1e77309e01a0fc92",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5z1HMye0Aub2PtSeB2h1ui"
+  }
+}

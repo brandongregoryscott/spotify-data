@@ -1,0 +1,33 @@
+{
+  "id": "5e6uz2o8tdbGdvu5I87Hz8",
+  "name": "m:a.ture",
+  "uri": "spotify:artist:5e6uz2o8tdbGdvu5I87Hz8",
+  "followers": {
+    "href": null,
+    "total": 2073
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e00eb38192851871bffca7b1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e00eb38192851871bffca7b1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e00eb38192851871bffca7b1",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5e6uz2o8tdbGdvu5I87Hz8"
+  }
+}

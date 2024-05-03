@@ -1,0 +1,33 @@
+{
+  "id": "04Q7LPafu9s1o8A51sD4iU",
+  "name": "Disaster",
+  "uri": "spotify:artist:04Q7LPafu9s1o8A51sD4iU",
+  "followers": {
+    "href": null,
+    "total": 871
+  },
+  "genres": [
+    "crust punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737ed5b66f31f164c74861c95a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027ed5b66f31f164c74861c95a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517ed5b66f31f164c74861c95a",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/04Q7LPafu9s1o8A51sD4iU"
+  }
+}

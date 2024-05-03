@@ -1,0 +1,34 @@
+{
+  "id": "7DPxoBLEzgxzbhN0MAvyt6",
+  "name": "Lizz",
+  "uri": "spotify:artist:7DPxoBLEzgxzbhN0MAvyt6",
+  "followers": {
+    "href": null,
+    "total": 17767
+  },
+  "genres": [
+    "neoperreo",
+    "rap chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf03a63d848e0d537f95df17d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f03a63d848e0d537f95df17d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f03a63d848e0d537f95df17d",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2WWTxg1S77tA4FZpjv004Z",
+  "name": "DARKNESS",
+  "uri": "spotify:artist:2WWTxg1S77tA4FZpjv004Z",
+  "followers": {
+    "href": null,
+    "total": 3343
+  },
+  "genres": [
+    "metal colombiano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbc6339c230efa8f0ef29b185",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bc6339c230efa8f0ef29b185",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bc6339c230efa8f0ef29b185",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2WWTxg1S77tA4FZpjv004Z"
+  }
+}

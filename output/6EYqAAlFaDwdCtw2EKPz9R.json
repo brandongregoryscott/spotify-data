@@ -1,0 +1,33 @@
+{
+  "id": "6EYqAAlFaDwdCtw2EKPz9R",
+  "name": "Les Cruet",
+  "uri": "spotify:artist:6EYqAAlFaDwdCtw2EKPz9R",
+  "followers": {
+    "href": null,
+    "total": 437
+  },
+  "genres": [
+    "punk catala"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d17b99de8d6795b4c2ca2c9b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d17b99de8d6795b4c2ca2c9b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d17b99de8d6795b4c2ca2c9b",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6EYqAAlFaDwdCtw2EKPz9R"
+  }
+}

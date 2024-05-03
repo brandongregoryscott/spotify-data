@@ -1,0 +1,33 @@
+{
+  "id": "3tEvuet5uSoKTLU2HYPI6V",
+  "name": "Kidd Samu",
+  "uri": "spotify:artist:3tEvuet5uSoKTLU2HYPI6V",
+  "followers": {
+    "href": null,
+    "total": 10140
+  },
+  "genres": [
+    "trap argentino"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb39571547c9ad5df4fe7f7c10",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517439571547c9ad5df4fe7f7c10",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17839571547c9ad5df4fe7f7c10",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3tEvuet5uSoKTLU2HYPI6V"
+  }
+}

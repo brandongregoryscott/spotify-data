@@ -1,0 +1,33 @@
+{
+  "id": "2UI9kAvoeIveioAmihp9g9",
+  "name": "Sammy Curcuru",
+  "uri": "spotify:artist:2UI9kAvoeIveioAmihp9g9",
+  "followers": {
+    "href": null,
+    "total": 627
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb441fbdd883be6923d14dc2dc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174441fbdd883be6923d14dc2dc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178441fbdd883be6923d14dc2dc",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2UI9kAvoeIveioAmihp9g9"
+  }
+}

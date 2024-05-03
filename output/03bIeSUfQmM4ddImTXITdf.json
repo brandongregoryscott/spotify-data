@@ -1,0 +1,33 @@
+{
+  "id": "03bIeSUfQmM4ddImTXITdf",
+  "name": "Minus",
+  "uri": "spotify:artist:03bIeSUfQmM4ddImTXITdf",
+  "followers": {
+    "href": null,
+    "total": 1812
+  },
+  "genres": [
+    "california hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd3b3c13df8628f567993bc5e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d3b3c13df8628f567993bc5e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d3b3c13df8628f567993bc5e",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03bIeSUfQmM4ddImTXITdf"
+  }
+}

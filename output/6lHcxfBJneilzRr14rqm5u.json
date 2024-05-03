@@ -1,0 +1,33 @@
+{
+  "id": "6lHcxfBJneilzRr14rqm5u",
+  "name": "Bark Dog",
+  "uri": "spotify:artist:6lHcxfBJneilzRr14rqm5u",
+  "followers": {
+    "href": null,
+    "total": 291
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb990e3c8bb651e255ebcc1858",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174990e3c8bb651e255ebcc1858",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178990e3c8bb651e255ebcc1858",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6lHcxfBJneilzRr14rqm5u"
+  }
+}

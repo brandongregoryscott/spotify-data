@@ -1,0 +1,33 @@
+{
+  "id": "4fLtOYCGHuaFOGOn7SQYsE",
+  "name": "Yaris Paris",
+  "uri": "spotify:artist:4fLtOYCGHuaFOGOn7SQYsE",
+  "followers": {
+    "href": null,
+    "total": 391
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb599189eccda23b119df1fa76",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174599189eccda23b119df1fa76",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178599189eccda23b119df1fa76",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4fLtOYCGHuaFOGOn7SQYsE"
+  }
+}

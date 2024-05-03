@@ -1,0 +1,34 @@
+{
+  "id": "1pCQNO8IlLkYm9O070d7wO",
+  "name": "Polyphonic Size",
+  "uri": "spotify:artist:1pCQNO8IlLkYm9O070d7wO",
+  "followers": {
+    "href": null,
+    "total": 1922
+  },
+  "genres": [
+    "belgian new wave",
+    "minimal wave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732c918912274c06786d8114c2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022c918912274c06786d8114c2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512c918912274c06786d8114c2",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1pCQNO8IlLkYm9O070d7wO"
+  }
+}

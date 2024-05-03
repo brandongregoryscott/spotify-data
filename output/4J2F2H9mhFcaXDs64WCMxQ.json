@@ -1,0 +1,33 @@
+{
+  "id": "4J2F2H9mhFcaXDs64WCMxQ",
+  "name": "Jakke",
+  "uri": "spotify:artist:4J2F2H9mhFcaXDs64WCMxQ",
+  "followers": {
+    "href": null,
+    "total": 13080
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe1f7087808470ce73cbcc81f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e1f7087808470ce73cbcc81f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e1f7087808470ce73cbcc81f",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4J2F2H9mhFcaXDs64WCMxQ"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "5XoqrGYatsh3M7raH8AOnL",
+  "name": "Qwel",
+  "uri": "spotify:artist:5XoqrGYatsh3M7raH8AOnL",
+  "followers": {
+    "href": null,
+    "total": 6972
+  },
+  "genres": [
+    "abstract hip hop",
+    "chicago rap",
+    "underground rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f07d892ec1f906a888b0337c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f07d892ec1f906a888b0337c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f07d892ec1f906a888b0337c",
+      "width": 64
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5XoqrGYatsh3M7raH8AOnL"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6qpt9myuxc2axq686nhvvQ",
+  "name": "Hatchery",
+  "uri": "spotify:artist:6qpt9myuxc2axq686nhvvQ",
+  "followers": {
+    "href": null,
+    "total": 42
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf300ce0094a7a9bee30cdf11",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f300ce0094a7a9bee30cdf11",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f300ce0094a7a9bee30cdf11",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6qpt9myuxc2axq686nhvvQ"
+  }
+}

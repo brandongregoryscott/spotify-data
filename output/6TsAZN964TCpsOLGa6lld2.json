@@ -1,0 +1,33 @@
+{
+  "id": "6TsAZN964TCpsOLGa6lld2",
+  "name": "800Baby",
+  "uri": "spotify:artist:6TsAZN964TCpsOLGa6lld2",
+  "followers": {
+    "href": null,
+    "total": 163
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a81f23e9c543a84e3d425a35",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a81f23e9c543a84e3d425a35",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a81f23e9c543a84e3d425a35",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6TsAZN964TCpsOLGa6lld2"
+  }
+}

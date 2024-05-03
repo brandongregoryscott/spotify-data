@@ -1,0 +1,33 @@
+{
+  "id": "4wKwOP3iCsPypuI4ikavQv",
+  "name": "Lou Emery",
+  "uri": "spotify:artist:4wKwOP3iCsPypuI4ikavQv",
+  "followers": {
+    "href": null,
+    "total": 243
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd02e7e4d921889c61e2c87ca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d02e7e4d921889c61e2c87ca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d02e7e4d921889c61e2c87ca",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4wKwOP3iCsPypuI4ikavQv"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "4yJHrytMK7mqtKsXVGaBNg",
+  "name": "Fana Hues",
+  "uri": "spotify:artist:4yJHrytMK7mqtKsXVGaBNg",
+  "followers": {
+    "href": null,
+    "total": 59545
+  },
+  "genres": [
+    "alternative r&b",
+    "indie r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc840bffe9a9c81abbce9e1d0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c840bffe9a9c81abbce9e1d0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c840bffe9a9c81abbce9e1d0",
+      "width": 160
+    }
+  ],
+  "popularity": 55,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "4tltmBt91lKnbpa8JK455j",
+  "name": "The Offtrax",
+  "uri": "spotify:artist:4tltmBt91lKnbpa8JK455j",
+  "followers": {
+    "href": null,
+    "total": 810
+  },
+  "genres": [
+    "oc indie",
+    "socal indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb117a9617c36f4eee829f14a8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174117a9617c36f4eee829f14a8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178117a9617c36f4eee829f14a8",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4tltmBt91lKnbpa8JK455j"
+  }
+}

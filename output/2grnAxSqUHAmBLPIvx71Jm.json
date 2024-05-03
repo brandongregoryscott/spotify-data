@@ -1,0 +1,33 @@
+{
+  "id": "2grnAxSqUHAmBLPIvx71Jm",
+  "name": "Sun Square",
+  "uri": "spotify:artist:2grnAxSqUHAmBLPIvx71Jm",
+  "followers": {
+    "href": null,
+    "total": 123
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba16167c40477acd68a4651c4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a16167c40477acd68a4651c4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a16167c40477acd68a4651c4",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2grnAxSqUHAmBLPIvx71Jm"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1wfvo0eEj57N5GDZUrIsKw",
+  "name": "Zueltor",
+  "uri": "spotify:artist:1wfvo0eEj57N5GDZUrIsKw",
+  "followers": {
+    "href": null,
+    "total": 3
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27348dcb3ae3b591def308ac82d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0248dcb3ae3b591def308ac82d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485148dcb3ae3b591def308ac82d",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1wfvo0eEj57N5GDZUrIsKw"
+  }
+}

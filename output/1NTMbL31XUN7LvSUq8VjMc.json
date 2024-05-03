@@ -1,0 +1,33 @@
+{
+  "id": "1NTMbL31XUN7LvSUq8VjMc",
+  "name": "Huy",
+  "uri": "spotify:artist:1NTMbL31XUN7LvSUq8VjMc",
+  "followers": {
+    "href": null,
+    "total": 107
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb97bccbd03b65d76bf230005e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517497bccbd03b65d76bf230005e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17897bccbd03b65d76bf230005e",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1NTMbL31XUN7LvSUq8VjMc"
+  }
+}

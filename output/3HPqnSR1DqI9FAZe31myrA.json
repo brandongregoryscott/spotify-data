@@ -1,0 +1,33 @@
+{
+  "id": "3HPqnSR1DqI9FAZe31myrA",
+  "name": "Diego Melendez",
+  "uri": "spotify:artist:3HPqnSR1DqI9FAZe31myrA",
+  "followers": {
+    "href": null,
+    "total": 77
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfcca6c9fe0659560f13625b7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fcca6c9fe0659560f13625b7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fcca6c9fe0659560f13625b7",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3HPqnSR1DqI9FAZe31myrA"
+  }
+}

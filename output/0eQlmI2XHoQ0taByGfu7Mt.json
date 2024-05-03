@@ -1,0 +1,33 @@
+{
+  "id": "0eQlmI2XHoQ0taByGfu7Mt",
+  "name": "Pistola",
+  "uri": "spotify:artist:0eQlmI2XHoQ0taByGfu7Mt",
+  "followers": {
+    "href": null,
+    "total": 3636
+  },
+  "genres": [
+    "boston hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd18e7191d5c20ed02a895781",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d18e7191d5c20ed02a895781",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d18e7191d5c20ed02a895781",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0eQlmI2XHoQ0taByGfu7Mt"
+  }
+}

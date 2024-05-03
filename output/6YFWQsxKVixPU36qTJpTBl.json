@@ -1,0 +1,33 @@
+{
+  "id": "6YFWQsxKVixPU36qTJpTBl",
+  "name": "Prospekti",
+  "uri": "spotify:artist:6YFWQsxKVixPU36qTJpTBl",
+  "followers": {
+    "href": null,
+    "total": 289
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb98e954a93fdc4d23ef7fbb62",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517498e954a93fdc4d23ef7fbb62",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17898e954a93fdc4d23ef7fbb62",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6YFWQsxKVixPU36qTJpTBl"
+  }
+}

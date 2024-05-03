@@ -1,0 +1,33 @@
+{
+  "id": "1XVEzCnBjr8rU9DkcnJkHA",
+  "name": "Casi",
+  "uri": "spotify:artist:1XVEzCnBjr8rU9DkcnJkHA",
+  "followers": {
+    "href": null,
+    "total": 1200
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb11f18698d641e1230aa3a6e7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517411f18698d641e1230aa3a6e7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17811f18698d641e1230aa3a6e7",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1XVEzCnBjr8rU9DkcnJkHA"
+  }
+}

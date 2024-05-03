@@ -1,0 +1,33 @@
+{
+  "id": "1NtYiv70buGwaMspHuD49I",
+  "name": "Rob Cantor",
+  "uri": "spotify:artist:1NtYiv70buGwaMspHuD49I",
+  "followers": {
+    "href": null,
+    "total": 39282
+  },
+  "genres": [
+    "movie tunes"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfd60eb41c20b03c8c65f47b0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fd60eb41c20b03c8c65f47b0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fd60eb41c20b03c8c65f47b0",
+      "width": 160
+    }
+  ],
+  "popularity": 49,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I"
+  }
+}

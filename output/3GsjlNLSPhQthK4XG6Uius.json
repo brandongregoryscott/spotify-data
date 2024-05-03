@@ -1,0 +1,33 @@
+{
+  "id": "3GsjlNLSPhQthK4XG6Uius",
+  "name": "Inferious",
+  "uri": "spotify:artist:3GsjlNLSPhQthK4XG6Uius",
+  "followers": {
+    "href": null,
+    "total": 6995
+  },
+  "genres": [
+    "deathcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcdf24b85f6d901d829778eb8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cdf24b85f6d901d829778eb8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cdf24b85f6d901d829778eb8",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3GsjlNLSPhQthK4XG6Uius"
+  }
+}

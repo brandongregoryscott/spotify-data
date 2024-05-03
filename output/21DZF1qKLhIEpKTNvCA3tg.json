@@ -1,0 +1,33 @@
+{
+  "id": "21DZF1qKLhIEpKTNvCA3tg",
+  "name": "Charles Brown",
+  "uri": "spotify:artist:21DZF1qKLhIEpKTNvCA3tg",
+  "followers": {
+    "href": null,
+    "total": 1494
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb36038a827012fd6600096617",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517436038a827012fd6600096617",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17836038a827012fd6600096617",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/21DZF1qKLhIEpKTNvCA3tg"
+  }
+}

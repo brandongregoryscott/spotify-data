@@ -1,0 +1,33 @@
+{
+  "id": "0TXTWzC04aH0CfdERgoTvM",
+  "name": "Mindfield",
+  "uri": "spotify:artist:0TXTWzC04aH0CfdERgoTvM",
+  "followers": {
+    "href": null,
+    "total": 430
+  },
+  "genres": [
+    "faroese rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf60967d479d2da62d8609965",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f60967d479d2da62d8609965",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f60967d479d2da62d8609965",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0TXTWzC04aH0CfdERgoTvM"
+  }
+}

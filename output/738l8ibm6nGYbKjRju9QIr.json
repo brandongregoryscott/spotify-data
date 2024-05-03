@@ -1,0 +1,33 @@
+{
+  "id": "738l8ibm6nGYbKjRju9QIr",
+  "name": "POLEN",
+  "uri": "spotify:artist:738l8ibm6nGYbKjRju9QIr",
+  "followers": {
+    "href": null,
+    "total": 175
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb38d5fd16c92ad587967cbc48",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517438d5fd16c92ad587967cbc48",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17838d5fd16c92ad587967cbc48",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/738l8ibm6nGYbKjRju9QIr"
+  }
+}

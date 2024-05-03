@@ -1,0 +1,33 @@
+{
+  "id": "2Pkiu0KiwJUcrbaWiZ7WVv",
+  "name": "pennies",
+  "uri": "spotify:artist:2Pkiu0KiwJUcrbaWiZ7WVv",
+  "followers": {
+    "href": null,
+    "total": 103
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27362d6128e9973e7c9d145c61c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0262d6128e9973e7c9d145c61c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485162d6128e9973e7c9d145c61c",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Pkiu0KiwJUcrbaWiZ7WVv"
+  }
+}

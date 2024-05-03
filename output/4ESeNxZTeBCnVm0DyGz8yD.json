@@ -1,0 +1,33 @@
+{
+  "id": "4ESeNxZTeBCnVm0DyGz8yD",
+  "name": "Ze",
+  "uri": "spotify:artist:4ESeNxZTeBCnVm0DyGz8yD",
+  "followers": {
+    "href": null,
+    "total": 403
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba6703b193dbaeb86fb7e8894",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a6703b193dbaeb86fb7e8894",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a6703b193dbaeb86fb7e8894",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4ESeNxZTeBCnVm0DyGz8yD"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "5RcjjvmxKunsJZnUU3TsiP",
+  "name": "Qwazaar",
+  "uri": "spotify:artist:5RcjjvmxKunsJZnUU3TsiP",
+  "followers": {
+    "href": null,
+    "total": 1230
+  },
+  "genres": [
+    "chicago rap",
+    "underground rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27324d8e077b3ab9fb09f81427f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0224d8e077b3ab9fb09f81427f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485124d8e077b3ab9fb09f81427f",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5RcjjvmxKunsJZnUU3TsiP"
+  }
+}

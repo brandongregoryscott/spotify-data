@@ -1,0 +1,33 @@
+{
+  "id": "1lRrLZTuih2XlHvuRzYrMQ",
+  "name": "Saint Raven",
+  "uri": "spotify:artist:1lRrLZTuih2XlHvuRzYrMQ",
+  "followers": {
+    "href": null,
+    "total": 5525
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbe7f510794d30d5c00a5b681",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174be7f510794d30d5c00a5b681",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178be7f510794d30d5c00a5b681",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1lRrLZTuih2XlHvuRzYrMQ"
+  }
+}

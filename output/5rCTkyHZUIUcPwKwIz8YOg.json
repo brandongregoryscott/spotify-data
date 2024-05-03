@@ -1,0 +1,33 @@
+{
+  "id": "5rCTkyHZUIUcPwKwIz8YOg",
+  "name": "aron!",
+  "uri": "spotify:artist:5rCTkyHZUIUcPwKwIz8YOg",
+  "followers": {
+    "href": null,
+    "total": 170
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfe8ec2521de2a8749de31419",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fe8ec2521de2a8749de31419",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fe8ec2521de2a8749de31419",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2MMiWw6zFACcD3LhbZktKb",
+  "name": "Drive!Drive!",
+  "uri": "spotify:artist:2MMiWw6zFACcD3LhbZktKb",
+  "followers": {
+    "href": null,
+    "total": 4424
+  },
+  "genres": [
+    "hopebeat"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd5d8c8ce324381163dc5a1ac",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d5d8c8ce324381163dc5a1ac",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d5d8c8ce324381163dc5a1ac",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2MMiWw6zFACcD3LhbZktKb"
+  }
+}

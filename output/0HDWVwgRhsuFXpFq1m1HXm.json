@@ -1,0 +1,33 @@
+{
+  "id": "0HDWVwgRhsuFXpFq1m1HXm",
+  "name": "TWYN",
+  "uri": "spotify:artist:0HDWVwgRhsuFXpFq1m1HXm",
+  "followers": {
+    "href": null,
+    "total": 808
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebae3f5f87a6b44919314af1eb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ae3f5f87a6b44919314af1eb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ae3f5f87a6b44919314af1eb",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0HDWVwgRhsuFXpFq1m1HXm"
+  }
+}

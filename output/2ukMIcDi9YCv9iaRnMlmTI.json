@@ -1,0 +1,33 @@
+{
+  "id": "2ukMIcDi9YCv9iaRnMlmTI",
+  "name": "Hibiscus",
+  "uri": "spotify:artist:2ukMIcDi9YCv9iaRnMlmTI",
+  "followers": {
+    "href": null,
+    "total": 165
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba357d7d5e6e5d33a8ccda8da",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a357d7d5e6e5d33a8ccda8da",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a357d7d5e6e5d33a8ccda8da",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ukMIcDi9YCv9iaRnMlmTI"
+  }
+}

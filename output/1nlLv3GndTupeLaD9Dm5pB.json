@@ -1,0 +1,33 @@
+{
+  "id": "1nlLv3GndTupeLaD9Dm5pB",
+  "name": "The Long Game",
+  "uri": "spotify:artist:1nlLv3GndTupeLaD9Dm5pB",
+  "followers": {
+    "href": null,
+    "total": 754
+  },
+  "genres": [
+    "modern ska punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe587730d5d0a247f9600ff44",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e587730d5d0a247f9600ff44",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e587730d5d0a247f9600ff44",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1nlLv3GndTupeLaD9Dm5pB"
+  }
+}

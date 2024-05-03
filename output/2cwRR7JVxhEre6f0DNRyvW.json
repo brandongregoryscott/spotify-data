@@ -1,0 +1,33 @@
+{
+  "id": "2cwRR7JVxhEre6f0DNRyvW",
+  "name": "Elephant",
+  "uri": "spotify:artist:2cwRR7JVxhEre6f0DNRyvW",
+  "followers": {
+    "href": null,
+    "total": 8140
+  },
+  "genres": [
+    "dutch indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd998717e5ba2ec613a463fc4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d998717e5ba2ec613a463fc4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d998717e5ba2ec613a463fc4",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW"
+  }
+}

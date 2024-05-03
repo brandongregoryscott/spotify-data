@@ -1,0 +1,33 @@
+{
+  "id": "0GPUoZDMUtkkzPyW4OFWk2",
+  "name": "Descape",
+  "uri": "spotify:artist:0GPUoZDMUtkkzPyW4OFWk2",
+  "followers": {
+    "href": null,
+    "total": 2982
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdb3245482f2b5eac6550dcf3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174db3245482f2b5eac6550dcf3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178db3245482f2b5eac6550dcf3",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0GPUoZDMUtkkzPyW4OFWk2"
+  }
+}

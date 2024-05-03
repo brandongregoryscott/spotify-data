@@ -1,0 +1,34 @@
+{
+  "id": "7adHoaRxwNUBvnHqkYqbGj",
+  "name": "Shindigs",
+  "uri": "spotify:artist:7adHoaRxwNUBvnHqkYqbGj",
+  "followers": {
+    "href": null,
+    "total": 3384
+  },
+  "genres": [
+    "bedroom pop",
+    "san diego indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb03ee697cc2932c385e21a0f1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517403ee697cc2932c385e21a0f1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17803ee697cc2932c385e21a0f1",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7adHoaRxwNUBvnHqkYqbGj"
+  }
+}

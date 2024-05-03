@@ -1,0 +1,33 @@
+{
+  "id": "1vduY6soJhIw2azl0ecOtq",
+  "name": "Ojuur",
+  "uri": "spotify:artist:1vduY6soJhIw2azl0ecOtq",
+  "followers": {
+    "href": null,
+    "total": 49
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273138ede5f18faeee637363007",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02138ede5f18faeee637363007",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851138ede5f18faeee637363007",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1vduY6soJhIw2azl0ecOtq"
+  }
+}

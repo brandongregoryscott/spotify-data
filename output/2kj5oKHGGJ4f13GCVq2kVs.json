@@ -1,0 +1,33 @@
+{
+  "id": "2kj5oKHGGJ4f13GCVq2kVs",
+  "name": "John Tarantella",
+  "uri": "spotify:artist:2kj5oKHGGJ4f13GCVq2kVs",
+  "followers": {
+    "href": null,
+    "total": 451
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb99dbddf49f2ec57e302b35d5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517499dbddf49f2ec57e302b35d5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17899dbddf49f2ec57e302b35d5",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2kj5oKHGGJ4f13GCVq2kVs"
+  }
+}

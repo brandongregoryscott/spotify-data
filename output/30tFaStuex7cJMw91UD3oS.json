@@ -1,0 +1,33 @@
+{
+  "id": "30tFaStuex7cJMw91UD3oS",
+  "name": "The Silver Doors",
+  "uri": "spotify:artist:30tFaStuex7cJMw91UD3oS",
+  "followers": {
+    "href": null,
+    "total": 150
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebda01f43854a6142fd3ca19b3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174da01f43854a6142fd3ca19b3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178da01f43854a6142fd3ca19b3",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/30tFaStuex7cJMw91UD3oS"
+  }
+}

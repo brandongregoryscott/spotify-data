@@ -1,0 +1,33 @@
+{
+  "id": "5WSR0cXno6FEzEXDILWfGE",
+  "name": "HAAL",
+  "uri": "spotify:artist:5WSR0cXno6FEzEXDILWfGE",
+  "followers": {
+    "href": null,
+    "total": 604
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb28781d8b7280ec3995fa24fd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517428781d8b7280ec3995fa24fd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17828781d8b7280ec3995fa24fd",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5WSR0cXno6FEzEXDILWfGE"
+  }
+}

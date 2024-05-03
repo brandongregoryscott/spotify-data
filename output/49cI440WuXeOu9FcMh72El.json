@@ -1,0 +1,34 @@
+{
+  "id": "49cI440WuXeOu9FcMh72El",
+  "name": "asteria",
+  "uri": "spotify:artist:49cI440WuXeOu9FcMh72El",
+  "followers": {
+    "href": null,
+    "total": 3137
+  },
+  "genres": [
+    "krushclub",
+    "scenecore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737c73e821d1868f3edea6f226",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02eda869c778352156eafbc5c2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851eda869c778352156eafbc5c2",
+      "width": 64
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/49cI440WuXeOu9FcMh72El"
+  }
+}

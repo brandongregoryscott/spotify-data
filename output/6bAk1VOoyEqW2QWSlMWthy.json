@@ -1,0 +1,33 @@
+{
+  "id": "6bAk1VOoyEqW2QWSlMWthy",
+  "name": "VC-118A",
+  "uri": "spotify:artist:6bAk1VOoyEqW2QWSlMWthy",
+  "followers": {
+    "href": null,
+    "total": 4952
+  },
+  "genres": [
+    "ambient techno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1a88afcf996dc65ae5e917a2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051741a88afcf996dc65ae5e917a2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1781a88afcf996dc65ae5e917a2",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6bAk1VOoyEqW2QWSlMWthy"
+  }
+}

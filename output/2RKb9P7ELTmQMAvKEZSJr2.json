@@ -1,0 +1,33 @@
+{
+  "id": "2RKb9P7ELTmQMAvKEZSJr2",
+  "name": "Scuare",
+  "uri": "spotify:artist:2RKb9P7ELTmQMAvKEZSJr2",
+  "followers": {
+    "href": null,
+    "total": 12114
+  },
+  "genres": [
+    "lo-fi rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebff302e369cd6a870a9cc7c14",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ff302e369cd6a870a9cc7c14",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ff302e369cd6a870a9cc7c14",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2RKb9P7ELTmQMAvKEZSJr2"
+  }
+}

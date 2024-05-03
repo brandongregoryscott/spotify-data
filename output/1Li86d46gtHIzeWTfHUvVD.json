@@ -1,0 +1,33 @@
+{
+  "id": "1Li86d46gtHIzeWTfHUvVD",
+  "name": "star in my sky",
+  "uri": "spotify:artist:1Li86d46gtHIzeWTfHUvVD",
+  "followers": {
+    "href": null,
+    "total": 127
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb467208a4c67c7658b7f0e001",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174467208a4c67c7658b7f0e001",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178467208a4c67c7658b7f0e001",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Li86d46gtHIzeWTfHUvVD"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4Oj5eE3XxUZkyXxWA3rQkn",
+  "name": "Doctrine Doctrine",
+  "uri": "spotify:artist:4Oj5eE3XxUZkyXxWA3rQkn",
+  "followers": {
+    "href": null,
+    "total": 15215
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738783d15f53863212a8933fed",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028783d15f53863212a8933fed",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518783d15f53863212a8933fed",
+      "width": 64
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Oj5eE3XxUZkyXxWA3rQkn"
+  }
+}

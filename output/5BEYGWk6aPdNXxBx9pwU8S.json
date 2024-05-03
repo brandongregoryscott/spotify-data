@@ -1,0 +1,36 @@
+{
+  "id": "5BEYGWk6aPdNXxBx9pwU8S",
+  "name": "The Soup Dragons",
+  "uri": "spotify:artist:5BEYGWk6aPdNXxBx9pwU8S",
+  "followers": {
+    "href": null,
+    "total": 40643
+  },
+  "genres": [
+    "britpop",
+    "c86",
+    "madchester",
+    "scottish indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb997e1abb7fb7b0debffd371d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174997e1abb7fb7b0debffd371d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178997e1abb7fb7b0debffd371d",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5BEYGWk6aPdNXxBx9pwU8S"
+  }
+}

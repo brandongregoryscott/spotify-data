@@ -1,0 +1,33 @@
+{
+  "id": "0Zsqp2zENeIfJzM0JpvICp",
+  "name": "LUCA",
+  "uri": "spotify:artist:0Zsqp2zENeIfJzM0JpvICp",
+  "followers": {
+    "href": null,
+    "total": 1085
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaaff57ac0d1853ea8128d870",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aaff57ac0d1853ea8128d870",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aaff57ac0d1853ea8128d870",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Zsqp2zENeIfJzM0JpvICp"
+  }
+}

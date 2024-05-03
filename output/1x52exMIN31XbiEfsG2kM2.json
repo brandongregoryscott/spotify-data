@@ -1,0 +1,33 @@
+{
+  "id": "1x52exMIN31XbiEfsG2kM2",
+  "name": "The Klittens",
+  "uri": "spotify:artist:1x52exMIN31XbiEfsG2kM2",
+  "followers": {
+    "href": null,
+    "total": 1849
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc066eec0ad09543cb7066adb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c066eec0ad09543cb7066adb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c066eec0ad09543cb7066adb",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1x52exMIN31XbiEfsG2kM2"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0GurR59RdGTvoT80zOb5IY",
+  "name": "9-tie",
+  "uri": "spotify:artist:0GurR59RdGTvoT80zOb5IY",
+  "followers": {
+    "href": null,
+    "total": 4023
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27303a7cf859b0f06c9836d4b2b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0203a7cf859b0f06c9836d4b2b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485103a7cf859b0f06c9836d4b2b",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0GurR59RdGTvoT80zOb5IY"
+  }
+}

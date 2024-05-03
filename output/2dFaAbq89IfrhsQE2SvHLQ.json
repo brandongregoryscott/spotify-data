@@ -1,0 +1,33 @@
+{
+  "id": "2dFaAbq89IfrhsQE2SvHLQ",
+  "name": "Sansy",
+  "uri": "spotify:artist:2dFaAbq89IfrhsQE2SvHLQ",
+  "followers": {
+    "href": null,
+    "total": 248
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfdcddad70f0cd8e3391a3f5f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fdcddad70f0cd8e3391a3f5f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fdcddad70f0cd8e3391a3f5f",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2dFaAbq89IfrhsQE2SvHLQ"
+  }
+}

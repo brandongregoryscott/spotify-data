@@ -1,0 +1,33 @@
+{
+  "id": "0A51LEnyTnXX33IyuwM0Ts",
+  "name": "Rob Scallon",
+  "uri": "spotify:artist:0A51LEnyTnXX33IyuwM0Ts",
+  "followers": {
+    "href": null,
+    "total": 87363
+  },
+  "genres": [
+    "instrumental bluegrass"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb28044d7eb62da81bca708313",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517428044d7eb62da81bca708313",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17828044d7eb62da81bca708313",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0A51LEnyTnXX33IyuwM0Ts"
+  }
+}

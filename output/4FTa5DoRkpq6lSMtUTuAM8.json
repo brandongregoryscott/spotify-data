@@ -1,0 +1,33 @@
+{
+  "id": "4FTa5DoRkpq6lSMtUTuAM8",
+  "name": "heatloaf",
+  "uri": "spotify:artist:4FTa5DoRkpq6lSMtUTuAM8",
+  "followers": {
+    "href": null,
+    "total": 477
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb152eafb869a477a6e8efa4d1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174152eafb869a477a6e8efa4d1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178152eafb869a477a6e8efa4d1",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4FTa5DoRkpq6lSMtUTuAM8"
+  }
+}

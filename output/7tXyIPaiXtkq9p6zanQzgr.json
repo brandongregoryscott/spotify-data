@@ -1,0 +1,33 @@
+{
+  "id": "7tXyIPaiXtkq9p6zanQzgr",
+  "name": "fleufleu",
+  "uri": "spotify:artist:7tXyIPaiXtkq9p6zanQzgr",
+  "followers": {
+    "href": null,
+    "total": 829
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb785262ddc6558a0b92bfa8e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b785262ddc6558a0b92bfa8e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b785262ddc6558a0b92bfa8e",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7tXyIPaiXtkq9p6zanQzgr"
+  }
+}

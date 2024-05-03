@@ -1,0 +1,33 @@
+{
+  "id": "2NDL7T2HbmdI7YWRt6u408",
+  "name": "Avner",
+  "uri": "spotify:artist:2NDL7T2HbmdI7YWRt6u408",
+  "followers": {
+    "href": null,
+    "total": 665
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb279e922fcef9a96dc1c22cc9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174279e922fcef9a96dc1c22cc9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178279e922fcef9a96dc1c22cc9",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2NDL7T2HbmdI7YWRt6u408"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "6qlL2vDyJgnxuFH96lLA0A",
+  "name": "Västerbron",
+  "uri": "spotify:artist:6qlL2vDyJgnxuFH96lLA0A",
+  "followers": {
+    "href": null,
+    "total": 2881
+  },
+  "genres": [
+    "stockholm indie",
+    "swedish emo",
+    "swedish indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf36a64a34f6727d0ae4cec26",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f36a64a34f6727d0ae4cec26",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f36a64a34f6727d0ae4cec26",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6qlL2vDyJgnxuFH96lLA0A"
+  }
+}

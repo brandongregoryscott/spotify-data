@@ -1,0 +1,33 @@
+{
+  "id": "6IuUpA7uQbkfYhl3oG3ZDv",
+  "name": "Waltari",
+  "uri": "spotify:artist:6IuUpA7uQbkfYhl3oG3ZDv",
+  "followers": {
+    "href": null,
+    "total": 9815
+  },
+  "genres": [
+    "avant-garde metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb90c98e64aab49ecb9b631343",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517490c98e64aab49ecb9b631343",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17890c98e64aab49ecb9b631343",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6IuUpA7uQbkfYhl3oG3ZDv"
+  }
+}

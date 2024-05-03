@@ -1,0 +1,33 @@
+{
+  "id": "6vlGJfHoMd0pgQSs7kSKQs",
+  "name": "Rotten",
+  "uri": "spotify:artist:6vlGJfHoMd0pgQSs7kSKQs",
+  "followers": {
+    "href": null,
+    "total": 344
+  },
+  "genres": [
+    "mexican metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fb65d250832ce7b2d2fb6c0e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fb65d250832ce7b2d2fb6c0e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fb65d250832ce7b2d2fb6c0e",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6vlGJfHoMd0pgQSs7kSKQs"
+  }
+}

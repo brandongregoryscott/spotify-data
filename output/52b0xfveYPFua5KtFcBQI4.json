@@ -1,0 +1,33 @@
+{
+  "id": "52b0xfveYPFua5KtFcBQI4",
+  "name": "Mit3s",
+  "uri": "spotify:artist:52b0xfveYPFua5KtFcBQI4",
+  "followers": {
+    "href": null,
+    "total": 133
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb0259e3696f88ddd0f6d9fb7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b0259e3696f88ddd0f6d9fb7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b0259e3696f88ddd0f6d9fb7",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/52b0xfveYPFua5KtFcBQI4"
+  }
+}

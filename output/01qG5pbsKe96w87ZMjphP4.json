@@ -1,0 +1,33 @@
+{
+  "id": "01qG5pbsKe96w87ZMjphP4",
+  "name": "helloworld",
+  "uri": "spotify:artist:01qG5pbsKe96w87ZMjphP4",
+  "followers": {
+    "href": null,
+    "total": 7314
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb53ad9018472c7e70f4141614",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517453ad9018472c7e70f4141614",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17853ad9018472c7e70f4141614",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
+  }
+}

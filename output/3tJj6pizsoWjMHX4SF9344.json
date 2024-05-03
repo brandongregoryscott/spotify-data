@@ -1,0 +1,33 @@
+{
+  "id": "3tJj6pizsoWjMHX4SF9344",
+  "name": "Keathley",
+  "uri": "spotify:artist:3tJj6pizsoWjMHX4SF9344",
+  "followers": {
+    "href": null,
+    "total": 672
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb09cbcb581a3fd2ca7249d1d2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517409cbcb581a3fd2ca7249d1d2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17809cbcb581a3fd2ca7249d1d2",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3tJj6pizsoWjMHX4SF9344"
+  }
+}

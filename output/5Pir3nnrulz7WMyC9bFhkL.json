@@ -1,0 +1,33 @@
+{
+  "id": "5Pir3nnrulz7WMyC9bFhkL",
+  "name": "deary",
+  "uri": "spotify:artist:5Pir3nnrulz7WMyC9bFhkL",
+  "followers": {
+    "href": null,
+    "total": 2746
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf20c482c8274170f1f208c82",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f20c482c8274170f1f208c82",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f20c482c8274170f1f208c82",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL"
+  }
+}

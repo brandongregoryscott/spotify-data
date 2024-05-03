@@ -1,0 +1,33 @@
+{
+  "id": "75hrAj8QOphDyVtYK8qWkj",
+  "name": "Blue Lizard",
+  "uri": "spotify:artist:75hrAj8QOphDyVtYK8qWkj",
+  "followers": {
+    "href": null,
+    "total": 127
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb481b1b09caa818c6d10a0523",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174481b1b09caa818c6d10a0523",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178481b1b09caa818c6d10a0523",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/75hrAj8QOphDyVtYK8qWkj"
+  }
+}

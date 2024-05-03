@@ -1,0 +1,33 @@
+{
+  "id": "2aIlWzhu6bf22kYohuabVj",
+  "name": "Yueku",
+  "uri": "spotify:artist:2aIlWzhu6bf22kYohuabVj",
+  "followers": {
+    "href": null,
+    "total": 4022
+  },
+  "genres": [
+    "hopebeat"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba3f673992e5f21c4ec145011",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a3f673992e5f21c4ec145011",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a3f673992e5f21c4ec145011",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2aIlWzhu6bf22kYohuabVj"
+  }
+}

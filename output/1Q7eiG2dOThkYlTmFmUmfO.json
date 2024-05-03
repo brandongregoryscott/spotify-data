@@ -1,0 +1,33 @@
+{
+  "id": "1Q7eiG2dOThkYlTmFmUmfO",
+  "name": "Franq",
+  "uri": "spotify:artist:1Q7eiG2dOThkYlTmFmUmfO",
+  "followers": {
+    "href": null,
+    "total": 34
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc2c72cf00d25b49d175fde12",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c2c72cf00d25b49d175fde12",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c2c72cf00d25b49d175fde12",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Q7eiG2dOThkYlTmFmUmfO"
+  }
+}

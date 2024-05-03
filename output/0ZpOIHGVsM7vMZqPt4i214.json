@@ -1,0 +1,33 @@
+{
+  "id": "0ZpOIHGVsM7vMZqPt4i214",
+  "name": "Alan Parker",
+  "uri": "spotify:artist:0ZpOIHGVsM7vMZqPt4i214",
+  "followers": {
+    "href": null,
+    "total": 5522
+  },
+  "genres": [
+    "library music"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d90a05d7d6eb2ca73c7c6a44",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d90a05d7d6eb2ca73c7c6a44",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d90a05d7d6eb2ca73c7c6a44",
+      "width": 64
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214"
+  }
+}

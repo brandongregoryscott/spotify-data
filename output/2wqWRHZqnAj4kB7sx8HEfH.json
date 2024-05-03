@@ -1,0 +1,33 @@
+{
+  "id": "2wqWRHZqnAj4kB7sx8HEfH",
+  "name": "Jima",
+  "uri": "spotify:artist:2wqWRHZqnAj4kB7sx8HEfH",
+  "followers": {
+    "href": null,
+    "total": 89
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbf0b463225161b3187d576dc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bf0b463225161b3187d576dc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bf0b463225161b3187d576dc",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2wqWRHZqnAj4kB7sx8HEfH"
+  }
+}

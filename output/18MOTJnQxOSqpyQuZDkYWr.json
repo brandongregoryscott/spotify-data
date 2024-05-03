@@ -1,0 +1,34 @@
+{
+  "id": "18MOTJnQxOSqpyQuZDkYWr",
+  "name": "Sabor y Control",
+  "uri": "spotify:artist:18MOTJnQxOSqpyQuZDkYWr",
+  "followers": {
+    "href": null,
+    "total": 8650
+  },
+  "genres": [
+    "peruvian rock",
+    "salsa peruana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdb23a846f6f2d5cfaca0d0b8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174db23a846f6f2d5cfaca0d0b8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178db23a846f6f2d5cfaca0d0b8",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/18MOTJnQxOSqpyQuZDkYWr"
+  }
+}

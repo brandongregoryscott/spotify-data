@@ -1,0 +1,33 @@
+{
+  "id": "0C3GZPxzaQOG1q5039B2dR",
+  "name": "Took",
+  "uri": "spotify:artist:0C3GZPxzaQOG1q5039B2dR",
+  "followers": {
+    "href": null,
+    "total": 799
+  },
+  "genres": [
+    "bounce"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27350858f3e13ec0ebc2361ec4c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0250858f3e13ec0ebc2361ec4c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485150858f3e13ec0ebc2361ec4c",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0C3GZPxzaQOG1q5039B2dR"
+  }
+}

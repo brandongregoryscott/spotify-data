@@ -1,0 +1,33 @@
+{
+  "id": "4XPYAeF7lTEtDI9d6KCdrz",
+  "name": "pure white canvas",
+  "uri": "spotify:artist:4XPYAeF7lTEtDI9d6KCdrz",
+  "followers": {
+    "href": null,
+    "total": 1527
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27336dd167012a3db2f336b0e25",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0236dd167012a3db2f336b0e25",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485136dd167012a3db2f336b0e25",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4XPYAeF7lTEtDI9d6KCdrz"
+  }
+}

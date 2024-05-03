@@ -1,0 +1,33 @@
+{
+  "id": "5Qy8JQ7JvhSqgUh3XVVXXE",
+  "name": "Chef",
+  "uri": "spotify:artist:5Qy8JQ7JvhSqgUh3XVVXXE",
+  "followers": {
+    "href": null,
+    "total": 5419
+  },
+  "genres": [
+    "indie hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba249c8bacb3fd7270b0d8618",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a249c8bacb3fd7270b0d8618",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a249c8bacb3fd7270b0d8618",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Qy8JQ7JvhSqgUh3XVVXXE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "65rDIPdQD7ijLSOq32cMXo",
+  "name": "TK Kravitz",
+  "uri": "spotify:artist:65rDIPdQD7ijLSOq32cMXo",
+  "followers": {
+    "href": null,
+    "total": 241100
+  },
+  "genres": [
+    "pop r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb62faeaf24c28b568f764a588",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517462faeaf24c28b568f764a588",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17862faeaf24c28b568f764a588",
+      "width": 160
+    }
+  ],
+  "popularity": 45,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/65rDIPdQD7ijLSOq32cMXo"
+  }
+}

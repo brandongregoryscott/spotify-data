@@ -1,0 +1,33 @@
+{
+  "id": "6gUKKtMZoL7WaAjBqSLikz",
+  "name": "Snacky",
+  "uri": "spotify:artist:6gUKKtMZoL7WaAjBqSLikz",
+  "followers": {
+    "href": null,
+    "total": 85
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdb6408766924be55b0a53cd9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174db6408766924be55b0a53cd9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178db6408766924be55b0a53cd9",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6gUKKtMZoL7WaAjBqSLikz"
+  }
+}

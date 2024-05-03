@@ -1,0 +1,33 @@
+{
+  "id": "3xaBiE23wZralHGluFymmN",
+  "name": "Cait",
+  "uri": "spotify:artist:3xaBiE23wZralHGluFymmN",
+  "followers": {
+    "href": null,
+    "total": 2800
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb239d767e90995c1d695cd5aa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174239d767e90995c1d695cd5aa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178239d767e90995c1d695cd5aa",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3xaBiE23wZralHGluFymmN"
+  }
+}

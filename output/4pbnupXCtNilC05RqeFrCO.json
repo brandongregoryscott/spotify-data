@@ -1,0 +1,33 @@
+{
+  "id": "4pbnupXCtNilC05RqeFrCO",
+  "name": "Pato el pez",
+  "uri": "spotify:artist:4pbnupXCtNilC05RqeFrCO",
+  "followers": {
+    "href": null,
+    "total": 170
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcd44af205ea16f99744ba7e7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cd44af205ea16f99744ba7e7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cd44af205ea16f99744ba7e7",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4pbnupXCtNilC05RqeFrCO"
+  }
+}

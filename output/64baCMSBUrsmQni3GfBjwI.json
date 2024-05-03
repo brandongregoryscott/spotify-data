@@ -1,0 +1,33 @@
+{
+  "id": "64baCMSBUrsmQni3GfBjwI",
+  "name": "Tadleeh",
+  "uri": "spotify:artist:64baCMSBUrsmQni3GfBjwI",
+  "followers": {
+    "href": null,
+    "total": 571
+  },
+  "genres": [
+    "experimental club"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bc25c7f454e126fc44c2d6ff",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bc25c7f454e126fc44c2d6ff",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bc25c7f454e126fc44c2d6ff",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/64baCMSBUrsmQni3GfBjwI"
+  }
+}

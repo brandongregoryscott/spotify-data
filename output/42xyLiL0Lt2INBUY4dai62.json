@@ -1,0 +1,33 @@
+{
+  "id": "42xyLiL0Lt2INBUY4dai62",
+  "name": "A1EKS",
+  "uri": "spotify:artist:42xyLiL0Lt2INBUY4dai62",
+  "followers": {
+    "href": null,
+    "total": 110
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf894644ce4fbfa2136922600",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f894644ce4fbfa2136922600",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f894644ce4fbfa2136922600",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/42xyLiL0Lt2INBUY4dai62"
+  }
+}

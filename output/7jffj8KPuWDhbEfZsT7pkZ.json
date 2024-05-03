@@ -1,0 +1,33 @@
+{
+  "id": "7jffj8KPuWDhbEfZsT7pkZ",
+  "name": "ERAI",
+  "uri": "spotify:artist:7jffj8KPuWDhbEfZsT7pkZ",
+  "followers": {
+    "href": null,
+    "total": 682
+  },
+  "genres": [
+    "ukrainian metalcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb454bfea10b0c6b063fb463cd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174454bfea10b0c6b063fb463cd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178454bfea10b0c6b063fb463cd",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7jffj8KPuWDhbEfZsT7pkZ"
+  }
+}

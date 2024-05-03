@@ -1,0 +1,38 @@
+{
+  "id": "52NOZYgYNsmv3nS0me6cqO",
+  "name": "Answer Code Request",
+  "uri": "spotify:artist:52NOZYgYNsmv3nS0me6cqO",
+  "followers": {
+    "href": null,
+    "total": 20071
+  },
+  "genres": [
+    "dub techno",
+    "float house",
+    "microhouse",
+    "minimal dub",
+    "minimal techno",
+    "techno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdf1058a11b30cb8308241a10",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174df1058a11b30cb8308241a10",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178df1058a11b30cb8308241a10",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/52NOZYgYNsmv3nS0me6cqO"
+  }
+}

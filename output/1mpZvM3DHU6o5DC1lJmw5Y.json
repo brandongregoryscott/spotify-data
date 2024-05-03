@@ -1,0 +1,33 @@
+{
+  "id": "1mpZvM3DHU6o5DC1lJmw5Y",
+  "name": "Adam Johnson",
+  "uri": "spotify:artist:1mpZvM3DHU6o5DC1lJmw5Y",
+  "followers": {
+    "href": null,
+    "total": 2418
+  },
+  "genres": [
+    "deep idm"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734c2868e234b489f30416564e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024c2868e234b489f30416564e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514c2868e234b489f30416564e",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1mpZvM3DHU6o5DC1lJmw5Y"
+  }
+}

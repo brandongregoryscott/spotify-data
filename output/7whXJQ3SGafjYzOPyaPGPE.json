@@ -1,0 +1,33 @@
+{
+  "id": "7whXJQ3SGafjYzOPyaPGPE",
+  "name": "The Froggs",
+  "uri": "spotify:artist:7whXJQ3SGafjYzOPyaPGPE",
+  "followers": {
+    "href": null,
+    "total": 86
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f5355038a08f6f66a1345fa9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f5355038a08f6f66a1345fa9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f5355038a08f6f66a1345fa9",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7whXJQ3SGafjYzOPyaPGPE"
+  }
+}

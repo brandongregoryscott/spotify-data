@@ -1,0 +1,35 @@
+{
+  "id": "6fGIltjfZeNQ5jm6EjeDBz",
+  "name": "Kindling",
+  "uri": "spotify:artist:6fGIltjfZeNQ5jm6EjeDBz",
+  "followers": {
+    "href": null,
+    "total": 2504
+  },
+  "genres": [
+    "american shoegaze",
+    "dreamo",
+    "western mass indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb92cdafc623b031a61398c22b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517492cdafc623b031a61398c22b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17892cdafc623b031a61398c22b",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6fGIltjfZeNQ5jm6EjeDBz"
+  }
+}

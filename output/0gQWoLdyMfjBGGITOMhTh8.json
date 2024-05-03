@@ -1,0 +1,33 @@
+{
+  "id": "0gQWoLdyMfjBGGITOMhTh8",
+  "name": "Spott",
+  "uri": "spotify:artist:0gQWoLdyMfjBGGITOMhTh8",
+  "followers": {
+    "href": null,
+    "total": 1759
+  },
+  "genres": [
+    "furry"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeaa933ea58d9fe941d04c6bf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eaa933ea58d9fe941d04c6bf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eaa933ea58d9fe941d04c6bf",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0gQWoLdyMfjBGGITOMhTh8"
+  }
+}

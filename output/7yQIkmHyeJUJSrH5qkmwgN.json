@@ -1,0 +1,33 @@
+{
+  "id": "7yQIkmHyeJUJSrH5qkmwgN",
+  "name": "Jose Mauro",
+  "uri": "spotify:artist:7yQIkmHyeJUJSrH5qkmwgN",
+  "followers": {
+    "href": null,
+    "total": 4415
+  },
+  "genres": [
+    "psicodelia brasileira"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdfa5b7662caff7776359ee01",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dfa5b7662caff7776359ee01",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dfa5b7662caff7776359ee01",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7yQIkmHyeJUJSrH5qkmwgN"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5euzTwF4P5aZeSNa6oZgtP",
+  "name": "Kenji",
+  "uri": "spotify:artist:5euzTwF4P5aZeSNa6oZgtP",
+  "followers": {
+    "href": null,
+    "total": 147
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273df037b1ebcc2b66f004bc71a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02df037b1ebcc2b66f004bc71a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851df037b1ebcc2b66f004bc71a",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5euzTwF4P5aZeSNa6oZgtP"
+  }
+}

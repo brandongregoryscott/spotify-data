@@ -1,0 +1,33 @@
+{
+  "id": "03JgxdGCGTS3peSyPVvNTO",
+  "name": "Songchi",
+  "uri": "spotify:artist:03JgxdGCGTS3peSyPVvNTO",
+  "followers": {
+    "href": null,
+    "total": 135
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebab176a15a8fb4fea7bb05cb6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ab176a15a8fb4fea7bb05cb6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ab176a15a8fb4fea7bb05cb6",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03JgxdGCGTS3peSyPVvNTO"
+  }
+}

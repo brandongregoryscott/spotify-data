@@ -1,0 +1,33 @@
+{
+  "id": "3hFwcrF5ui3nObPO8xpu4T",
+  "name": "A la Carte",
+  "uri": "spotify:artist:3hFwcrF5ui3nObPO8xpu4T",
+  "followers": {
+    "href": null,
+    "total": 190
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebff1f41aa18438f0fbd747580",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ff1f41aa18438f0fbd747580",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ff1f41aa18438f0fbd747580",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3hFwcrF5ui3nObPO8xpu4T"
+  }
+}

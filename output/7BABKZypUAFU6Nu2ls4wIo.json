@@ -1,0 +1,33 @@
+{
+  "id": "7BABKZypUAFU6Nu2ls4wIo",
+  "name": "Conijitu",
+  "uri": "spotify:artist:7BABKZypUAFU6Nu2ls4wIo",
+  "followers": {
+    "href": null,
+    "total": 285
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb73941d5778e6aef2a150f811",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517473941d5778e6aef2a150f811",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17873941d5778e6aef2a150f811",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7BABKZypUAFU6Nu2ls4wIo"
+  }
+}

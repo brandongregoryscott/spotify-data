@@ -1,0 +1,33 @@
+{
+  "id": "7ktLoAt3mjAdZWFx7XfhBi",
+  "name": "Grace",
+  "uri": "spotify:artist:7ktLoAt3mjAdZWFx7XfhBi",
+  "followers": {
+    "href": null,
+    "total": 82
+  },
+  "genres": [
+    "neo grime"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb91adb93923d6ebf8bfad689c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517491adb93923d6ebf8bfad689c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17891adb93923d6ebf8bfad689c",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ktLoAt3mjAdZWFx7XfhBi"
+  }
+}

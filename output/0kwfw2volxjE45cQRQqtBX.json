@@ -4,10 +4,12 @@
   "uri": "spotify:artist:0kwfw2volxjE45cQRQqtBX",
   "followers": {
     "href": null,
-    "total": 1475
+    "total": 1479
   },
   "genres": [
-    "chinese electronic"
+    "chinese electronic",
+    "deconstructed club",
+    "grimewave"
   ],
   "images": [
     {
@@ -26,7 +28,7 @@
       "width": 160
     }
   ],
-  "popularity": 6,
+  "popularity": 5,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/0kwfw2volxjE45cQRQqtBX"
   }

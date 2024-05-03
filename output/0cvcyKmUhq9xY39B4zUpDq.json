@@ -1,0 +1,35 @@
+{
+  "id": "0cvcyKmUhq9xY39B4zUpDq",
+  "name": "Ballboy",
+  "uri": "spotify:artist:0cvcyKmUhq9xY39B4zUpDq",
+  "followers": {
+    "href": null,
+    "total": 3678
+  },
+  "genres": [
+    "c86",
+    "scottish indie",
+    "scottish rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebba433724c869a820cebd1fb7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ba433724c869a820cebd1fb7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ba433724c869a820cebd1fb7",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0cvcyKmUhq9xY39B4zUpDq"
+  }
+}

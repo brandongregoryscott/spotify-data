@@ -1,0 +1,33 @@
+{
+  "id": "7ChMEUHw1rxRvCXXFx2cEv",
+  "name": "k1k1",
+  "uri": "spotify:artist:7ChMEUHw1rxRvCXXFx2cEv",
+  "followers": {
+    "href": null,
+    "total": 168
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb413f2268a38c6dfa2f26a770",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174413f2268a38c6dfa2f26a770",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178413f2268a38c6dfa2f26a770",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ChMEUHw1rxRvCXXFx2cEv"
+  }
+}

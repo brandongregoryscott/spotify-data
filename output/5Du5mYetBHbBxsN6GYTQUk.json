@@ -1,0 +1,33 @@
+{
+  "id": "5Du5mYetBHbBxsN6GYTQUk",
+  "name": "Davis",
+  "uri": "spotify:artist:5Du5mYetBHbBxsN6GYTQUk",
+  "followers": {
+    "href": null,
+    "total": 140
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb07d1b46bdebe30d7d07ed24b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517407d1b46bdebe30d7d07ed24b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17807d1b46bdebe30d7d07ed24b",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Du5mYetBHbBxsN6GYTQUk"
+  }
+}

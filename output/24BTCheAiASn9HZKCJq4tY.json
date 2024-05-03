@@ -1,0 +1,33 @@
+{
+  "id": "24BTCheAiASn9HZKCJq4tY",
+  "name": "Claude Speeed",
+  "uri": "spotify:artist:24BTCheAiASn9HZKCJq4tY",
+  "followers": {
+    "href": null,
+    "total": 2206
+  },
+  "genres": [
+    "scottish electronic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe0941db44ad03978d3d61695",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e0941db44ad03978d3d61695",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e0941db44ad03978d3d61695",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/24BTCheAiASn9HZKCJq4tY"
+  }
+}

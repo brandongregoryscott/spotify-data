@@ -1,0 +1,33 @@
+{
+  "id": "4APkNd6GjmMxkLZKPWY9w3",
+  "name": "José Arbulú",
+  "uri": "spotify:artist:4APkNd6GjmMxkLZKPWY9w3",
+  "followers": {
+    "href": null,
+    "total": 1214
+  },
+  "genres": [
+    "peruvian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd4189527de1f1d4b228afe64",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d4189527de1f1d4b228afe64",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d4189527de1f1d4b228afe64",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4APkNd6GjmMxkLZKPWY9w3"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1FG5KcHLEURjguQBCbdJpu",
+  "name": "Sever Red",
+  "uri": "spotify:artist:1FG5KcHLEURjguQBCbdJpu",
+  "followers": {
+    "href": null,
+    "total": 999
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb48bc2595663f16a64fda2a98",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517448bc2595663f16a64fda2a98",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17848bc2595663f16a64fda2a98",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1FG5KcHLEURjguQBCbdJpu"
+  }
+}

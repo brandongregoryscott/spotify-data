@@ -1,0 +1,33 @@
+{
+  "id": "3BoSIdaJrqyZHcvOHjVbdK",
+  "name": "La Fiesta del Diablo",
+  "uri": "spotify:artist:3BoSIdaJrqyZHcvOHjVbdK",
+  "followers": {
+    "href": null,
+    "total": 413
+  },
+  "genres": [
+    "punk chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb809e125dad109579722efb60",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174809e125dad109579722efb60",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178809e125dad109579722efb60",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3BoSIdaJrqyZHcvOHjVbdK"
+  }
+}

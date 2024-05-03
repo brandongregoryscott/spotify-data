@@ -4,10 +4,11 @@
   "uri": "spotify:artist:39rxKoyNndxYhTWfBvyNOM",
   "followers": {
     "href": null,
-    "total": 1608
+    "total": 1611
   },
   "genres": [
-    "british experimental"
+    "british experimental",
+    "tape music"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 160
     }
   ],
-  "popularity": 5,
+  "popularity": 4,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/39rxKoyNndxYhTWfBvyNOM"
   }

@@ -1,0 +1,33 @@
+{
+  "id": "6tuSSaQuJ0O3mkyO4OKGWd",
+  "name": "kayg",
+  "uri": "spotify:artist:6tuSSaQuJ0O3mkyO4OKGWd",
+  "followers": {
+    "href": null,
+    "total": 98
+  },
+  "genres": [
+    "dariacore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb600c42dd57307a6b4a7aa976",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174600c42dd57307a6b4a7aa976",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178600c42dd57307a6b4a7aa976",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6tuSSaQuJ0O3mkyO4OKGWd"
+  }
+}

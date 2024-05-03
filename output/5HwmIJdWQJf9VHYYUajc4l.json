@@ -1,0 +1,33 @@
+{
+  "id": "5HwmIJdWQJf9VHYYUajc4l",
+  "name": "Seek me",
+  "uri": "spotify:artist:5HwmIJdWQJf9VHYYUajc4l",
+  "followers": {
+    "href": null,
+    "total": 491
+  },
+  "genres": [
+    "modern j-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe50c2136bf245fdd12310069",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e50c2136bf245fdd12310069",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e50c2136bf245fdd12310069",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5HwmIJdWQJf9VHYYUajc4l"
+  }
+}

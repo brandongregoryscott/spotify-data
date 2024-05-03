@@ -1,0 +1,33 @@
+{
+  "id": "41h8XhKMSHvGv3lbZSyDRV",
+  "name": "St. Mike",
+  "uri": "spotify:artist:41h8XhKMSHvGv3lbZSyDRV",
+  "followers": {
+    "href": null,
+    "total": 231
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27370afa6856c773186caaa9ac9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029f2bf7c325ef0317ec96ee7b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519f2bf7c325ef0317ec96ee7b",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/41h8XhKMSHvGv3lbZSyDRV"
+  }
+}

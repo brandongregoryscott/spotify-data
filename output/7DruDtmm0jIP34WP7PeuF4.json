@@ -1,0 +1,33 @@
+{
+  "id": "7DruDtmm0jIP34WP7PeuF4",
+  "name": "Clark D",
+  "uri": "spotify:artist:7DruDtmm0jIP34WP7PeuF4",
+  "followers": {
+    "href": null,
+    "total": 2350
+  },
+  "genres": [
+    "boston hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd145e647f3bf177fcfb24c37",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d145e647f3bf177fcfb24c37",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d145e647f3bf177fcfb24c37",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7DruDtmm0jIP34WP7PeuF4"
+  }
+}

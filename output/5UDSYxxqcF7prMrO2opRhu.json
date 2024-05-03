@@ -1,0 +1,35 @@
+{
+  "id": "5UDSYxxqcF7prMrO2opRhu",
+  "name": "Mustard Plug",
+  "uri": "spotify:artist:5UDSYxxqcF7prMrO2opRhu",
+  "followers": {
+    "href": null,
+    "total": 76926
+  },
+  "genres": [
+    "grand rapids indie",
+    "ska",
+    "ska punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba55f5540efa8be2e0ffac189",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a55f5540efa8be2e0ffac189",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a55f5540efa8be2e0ffac189",
+      "width": 160
+    }
+  ],
+  "popularity": 34,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
+  }
+}

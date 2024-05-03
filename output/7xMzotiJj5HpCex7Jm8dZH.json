@@ -4,29 +4,15 @@
   "uri": "spotify:artist:7xMzotiJj5HpCex7Jm8dZH",
   "followers": {
     "href": null,
-    "total": 2508
+    "total": 2510
   },
   "genres": [
 
   ],
   "images": [
-    {
-      "height": 640,
-      "url": "https://i.scdn.co/image/ab67616d0000b273f38b1c77011bbf435738df8a",
-      "width": 640
-    },
-    {
-      "height": 300,
-      "url": "https://i.scdn.co/image/ab67616d00001e02f38b1c77011bbf435738df8a",
-      "width": 300
-    },
-    {
-      "height": 64,
-      "url": "https://i.scdn.co/image/ab67616d00004851f38b1c77011bbf435738df8a",
-      "width": 64
-    }
+
   ],
-  "popularity": 7,
+  "popularity": 6,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/7xMzotiJj5HpCex7Jm8dZH"
   }

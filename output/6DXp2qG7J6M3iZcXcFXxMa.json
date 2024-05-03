@@ -1,0 +1,33 @@
+{
+  "id": "6DXp2qG7J6M3iZcXcFXxMa",
+  "name": "Dante X",
+  "uri": "spotify:artist:6DXp2qG7J6M3iZcXcFXxMa",
+  "followers": {
+    "href": null,
+    "total": 777
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb31261cf90d724cd37fdf0d1e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517431261cf90d724cd37fdf0d1e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17831261cf90d724cd37fdf0d1e",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6DXp2qG7J6M3iZcXcFXxMa"
+  }
+}

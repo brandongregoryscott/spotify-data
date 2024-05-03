@@ -1,0 +1,33 @@
+{
+  "id": "00BW3ylIGPZ0YlgenL8kLU",
+  "name": "Tethra64",
+  "uri": "spotify:artist:00BW3ylIGPZ0YlgenL8kLU",
+  "followers": {
+    "href": null,
+    "total": 322
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb0f8d2b64f7e4ecfd4e52696",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b0f8d2b64f7e4ecfd4e52696",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b0f8d2b64f7e4ecfd4e52696",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/00BW3ylIGPZ0YlgenL8kLU"
+  }
+}

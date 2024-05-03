@@ -1,0 +1,33 @@
+{
+  "id": "3Mcj7RYJq8pd9c7tOuEUCi",
+  "name": "just Bobby",
+  "uri": "spotify:artist:3Mcj7RYJq8pd9c7tOuEUCi",
+  "followers": {
+    "href": null,
+    "total": 13
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273defa0b5da05a7a3d22f56701",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02defa0b5da05a7a3d22f56701",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851defa0b5da05a7a3d22f56701",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Mcj7RYJq8pd9c7tOuEUCi"
+  }
+}

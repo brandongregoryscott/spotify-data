@@ -1,0 +1,33 @@
+{
+  "id": "1PqBLuAl3tnYxpG08RgD3U",
+  "name": "NTHN",
+  "uri": "spotify:artist:1PqBLuAl3tnYxpG08RgD3U",
+  "followers": {
+    "href": null,
+    "total": 772
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfb9add24d678d637d7998b1c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fb9add24d678d637d7998b1c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fb9add24d678d637d7998b1c",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1PqBLuAl3tnYxpG08RgD3U"
+  }
+}

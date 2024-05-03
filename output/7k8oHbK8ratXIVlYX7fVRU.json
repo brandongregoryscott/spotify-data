@@ -4,7 +4,7 @@
   "uri": "spotify:artist:7k8oHbK8ratXIVlYX7fVRU",
   "followers": {
     "href": null,
-    "total": 5588
+    "total": 5594
   },
   "genres": [
     "alternative country",
@@ -13,27 +13,22 @@
   ],
   "images": [
     {
-      "height": 667,
-      "url": "https://i.scdn.co/image/6ab4fb70fae15e080d2f7d0afa2cec1648f14fa2",
-      "width": 1000
-    },
-    {
-      "height": 427,
-      "url": "https://i.scdn.co/image/f7216a24769bd6d32e0ea0be691d8844977f63af",
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4814aa96d6f021bf8a3ff32f",
       "width": 640
     },
     {
-      "height": 133,
-      "url": "https://i.scdn.co/image/78eb42b32b5560f4b63fd39c075fa1d5b33f66c8",
-      "width": 200
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744814aa96d6f021bf8a3ff32f",
+      "width": 320
     },
     {
-      "height": 43,
-      "url": "https://i.scdn.co/image/bb9b927604e3cc298567a47537ab9a6941fc2489",
-      "width": 64
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784814aa96d6f021bf8a3ff32f",
+      "width": 160
     }
   ],
-  "popularity": 10,
+  "popularity": 9,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/7k8oHbK8ratXIVlYX7fVRU"
   }

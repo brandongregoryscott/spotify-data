@@ -4,10 +4,11 @@
   "uri": "spotify:artist:7Dmdyx28jGnHFZjjfdIBs4",
   "followers": {
     "href": null,
-    "total": 866
+    "total": 867
   },
   "genres": [
-    "beatlesque"
+    "beatlesque",
+    "trash rock"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 160
     }
   ],
-  "popularity": 2,
+  "popularity": 1,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/7Dmdyx28jGnHFZjjfdIBs4"
   }

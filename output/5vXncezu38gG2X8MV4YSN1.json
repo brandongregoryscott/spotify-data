@@ -1,0 +1,33 @@
+{
+  "id": "5vXncezu38gG2X8MV4YSN1",
+  "name": "Kaitai the Maid",
+  "uri": "spotify:artist:5vXncezu38gG2X8MV4YSN1",
+  "followers": {
+    "href": null,
+    "total": 2066
+  },
+  "genres": [
+    "maidcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730f17c49db0246327004abade",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020f17c49db0246327004abade",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510f17c49db0246327004abade",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5vXncezu38gG2X8MV4YSN1"
+  }
+}
