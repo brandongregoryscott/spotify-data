@@ -1,0 +1,33 @@
+{
+  "id": "20lBKPg2ob52GBkD7koIBy",
+  "name": "David Munster",
+  "uri": "spotify:artist:20lBKPg2ob52GBkD7koIBy",
+  "followers": {
+    "href": null,
+    "total": 601
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaa283a84a2dbf5b1023a159f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aa283a84a2dbf5b1023a159f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aa283a84a2dbf5b1023a159f",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/20lBKPg2ob52GBkD7koIBy"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "5LGLYHhrW7yPr4ubyBEJBq",
+  "name": "Wilmette",
+  "uri": "spotify:artist:5LGLYHhrW7yPr4ubyBEJBq",
+  "followers": {
+    "href": null,
+    "total": 11498
+  },
+  "genres": [
+    "anthem emo",
+    "chicago pop punk",
+    "easycore",
+    "pop punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb435e7069a87d3782366e295e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174435e7069a87d3782366e295e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178435e7069a87d3782366e295e",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5LGLYHhrW7yPr4ubyBEJBq"
+  }
+}

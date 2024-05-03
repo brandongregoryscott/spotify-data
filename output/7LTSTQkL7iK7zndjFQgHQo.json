@@ -1,0 +1,34 @@
+{
+  "id": "7LTSTQkL7iK7zndjFQgHQo",
+  "name": "O'Flynn",
+  "uri": "spotify:artist:7LTSTQkL7iK7zndjFQgHQo",
+  "followers": {
+    "href": null,
+    "total": 36146
+  },
+  "genres": [
+    "float house",
+    "future garage"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebca40b12922bece05e0636fa9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ca40b12922bece05e0636fa9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ca40b12922bece05e0636fa9",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+  }
+}

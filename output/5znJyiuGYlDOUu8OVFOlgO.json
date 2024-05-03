@@ -1,0 +1,33 @@
+{
+  "id": "5znJyiuGYlDOUu8OVFOlgO",
+  "name": "Altesia",
+  "uri": "spotify:artist:5znJyiuGYlDOUu8OVFOlgO",
+  "followers": {
+    "href": null,
+    "total": 2859
+  },
+  "genres": [
+    "prog metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb26de5b358e8667fd993a3aae",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517426de5b358e8667fd993a3aae",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17826de5b358e8667fd993a3aae",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5znJyiuGYlDOUu8OVFOlgO"
+  }
+}

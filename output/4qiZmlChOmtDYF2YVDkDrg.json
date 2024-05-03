@@ -1,0 +1,33 @@
+{
+  "id": "4qiZmlChOmtDYF2YVDkDrg",
+  "name": "Studio Apartment",
+  "uri": "spotify:artist:4qiZmlChOmtDYF2YVDkDrg",
+  "followers": {
+    "href": null,
+    "total": 11247
+  },
+  "genres": [
+    "japanese jazztronica"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba52c678770fff6ad79461804",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a52c678770fff6ad79461804",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a52c678770fff6ad79461804",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4qiZmlChOmtDYF2YVDkDrg"
+  }
+}

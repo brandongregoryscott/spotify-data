@@ -1,0 +1,33 @@
+{
+  "id": "03zm0jBmzUeabC0uRO8MZw",
+  "name": "Pin Group",
+  "uri": "spotify:artist:03zm0jBmzUeabC0uRO8MZw",
+  "followers": {
+    "href": null,
+    "total": 2026
+  },
+  "genres": [
+    "dunedin sound"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273115c5caafe79b38370efe18e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02115c5caafe79b38370efe18e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851115c5caafe79b38370efe18e",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03zm0jBmzUeabC0uRO8MZw"
+  }
+}

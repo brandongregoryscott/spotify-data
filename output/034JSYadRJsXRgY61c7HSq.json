@@ -1,0 +1,36 @@
+{
+  "id": "034JSYadRJsXRgY61c7HSq",
+  "name": "The Tuts",
+  "uri": "spotify:artist:034JSYadRJsXRgY61c7HSq",
+  "followers": {
+    "href": null,
+    "total": 9190
+  },
+  "genres": [
+    "indie punk",
+    "indie surf",
+    "riot grrrl",
+    "uk pop punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb825fa2683527ede811f68004",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174825fa2683527ede811f68004",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178825fa2683527ede811f68004",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/034JSYadRJsXRgY61c7HSq"
+  }
+}

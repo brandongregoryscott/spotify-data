@@ -1,0 +1,33 @@
+{
+  "id": "1vlzHG4ajowI0nTwHk8vHM",
+  "name": "Konecs",
+  "uri": "spotify:artist:1vlzHG4ajowI0nTwHk8vHM",
+  "followers": {
+    "href": null,
+    "total": 13695
+  },
+  "genres": [
+    "pacific islands pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb5944cd6942443ce3074364b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b5944cd6942443ce3074364b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b5944cd6942443ce3074364b",
+      "width": 160
+    }
+  ],
+  "popularity": 41,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1vlzHG4ajowI0nTwHk8vHM"
+  }
+}

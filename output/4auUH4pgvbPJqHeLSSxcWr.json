@@ -1,0 +1,33 @@
+{
+  "id": "4auUH4pgvbPJqHeLSSxcWr",
+  "name": "INSIGHT",
+  "uri": "spotify:artist:4auUH4pgvbPJqHeLSSxcWr",
+  "followers": {
+    "href": null,
+    "total": 810
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb51328bb7aff203055b1fcd9a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517451328bb7aff203055b1fcd9a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17851328bb7aff203055b1fcd9a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4auUH4pgvbPJqHeLSSxcWr"
+  }
+}

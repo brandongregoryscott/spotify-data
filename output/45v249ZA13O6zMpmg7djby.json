@@ -1,0 +1,36 @@
+{
+  "id": "45v249ZA13O6zMpmg7djby",
+  "name": "Deathmachine",
+  "uri": "spotify:artist:45v249ZA13O6zMpmg7djby",
+  "followers": {
+    "href": null,
+    "total": 5230
+  },
+  "genres": [
+    "darkstep",
+    "doomcore",
+    "industrial hardcore",
+    "speedcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb171b33c36193487e39403137",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174171b33c36193487e39403137",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178171b33c36193487e39403137",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/45v249ZA13O6zMpmg7djby"
+  }
+}

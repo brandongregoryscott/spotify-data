@@ -1,0 +1,33 @@
+{
+  "id": "0EGx5gbgeDBoMb3v8x4gt0",
+  "name": "Tommy Bravos",
+  "uri": "spotify:artist:0EGx5gbgeDBoMb3v8x4gt0",
+  "followers": {
+    "href": null,
+    "total": 1012
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcf5073d63bde687852abb9c6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cf5073d63bde687852abb9c6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cf5073d63bde687852abb9c6",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0EGx5gbgeDBoMb3v8x4gt0"
+  }
+}

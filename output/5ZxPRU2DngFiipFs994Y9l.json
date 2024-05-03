@@ -1,0 +1,34 @@
+{
+  "id": "5ZxPRU2DngFiipFs994Y9l",
+  "name": "Plakkaggio",
+  "uri": "spotify:artist:5ZxPRU2DngFiipFs994Y9l",
+  "followers": {
+    "href": null,
+    "total": 3240
+  },
+  "genres": [
+    "italian punk",
+    "punk rock italiano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd3f03efedef1a6e2b56c6a04",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d3f03efedef1a6e2b56c6a04",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d3f03efedef1a6e2b56c6a04",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ZxPRU2DngFiipFs994Y9l"
+  }
+}

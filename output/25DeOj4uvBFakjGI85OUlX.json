@@ -1,0 +1,33 @@
+{
+  "id": "25DeOj4uvBFakjGI85OUlX",
+  "name": "AJ Super",
+  "uri": "spotify:artist:25DeOj4uvBFakjGI85OUlX",
+  "followers": {
+    "href": null,
+    "total": 335
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb2b7f511f88c3c44fdf1a7d02",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051742b7f511f88c3c44fdf1a7d02",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1782b7f511f88c3c44fdf1a7d02",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/25DeOj4uvBFakjGI85OUlX"
+  }
+}

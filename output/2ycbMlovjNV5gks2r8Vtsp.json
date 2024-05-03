@@ -1,0 +1,33 @@
+{
+  "id": "2ycbMlovjNV5gks2r8Vtsp",
+  "name": "Margaux",
+  "uri": "spotify:artist:2ycbMlovjNV5gks2r8Vtsp",
+  "followers": {
+    "href": null,
+    "total": 8113
+  },
+  "genres": [
+    "weirdcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc06bd58392f4c8b2fe5db117",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c06bd58392f4c8b2fe5db117",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c06bd58392f4c8b2fe5db117",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ycbMlovjNV5gks2r8Vtsp"
+  }
+}

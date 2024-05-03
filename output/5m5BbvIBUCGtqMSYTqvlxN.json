@@ -1,0 +1,33 @@
+{
+  "id": "5m5BbvIBUCGtqMSYTqvlxN",
+  "name": "Clave",
+  "uri": "spotify:artist:5m5BbvIBUCGtqMSYTqvlxN",
+  "followers": {
+    "href": null,
+    "total": 1565
+  },
+  "genres": [
+    "hong kong indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbbf11b0da8d549a601c43cd6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bbf11b0da8d549a601c43cd6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bbf11b0da8d549a601c43cd6",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5m5BbvIBUCGtqMSYTqvlxN"
+  }
+}

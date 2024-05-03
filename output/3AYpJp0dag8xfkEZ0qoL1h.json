@@ -1,0 +1,33 @@
+{
+  "id": "3AYpJp0dag8xfkEZ0qoL1h",
+  "name": "Cal",
+  "uri": "spotify:artist:3AYpJp0dag8xfkEZ0qoL1h",
+  "followers": {
+    "href": null,
+    "total": 3117
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfcba7d2a90b1416635dc5cd9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fcba7d2a90b1416635dc5cd9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fcba7d2a90b1416635dc5cd9",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3AYpJp0dag8xfkEZ0qoL1h"
+  }
+}

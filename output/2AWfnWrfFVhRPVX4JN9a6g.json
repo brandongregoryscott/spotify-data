@@ -1,0 +1,33 @@
+{
+  "id": "2AWfnWrfFVhRPVX4JN9a6g",
+  "name": "Mamalarky",
+  "uri": "spotify:artist:2AWfnWrfFVhRPVX4JN9a6g",
+  "followers": {
+    "href": null,
+    "total": 11064
+  },
+  "genres": [
+    "experimental indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba6f02d3e54431ecf8f50ff98",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a6f02d3e54431ecf8f50ff98",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a6f02d3e54431ecf8f50ff98",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g"
+  }
+}

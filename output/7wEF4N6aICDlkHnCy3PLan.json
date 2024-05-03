@@ -1,0 +1,33 @@
+{
+  "id": "7wEF4N6aICDlkHnCy3PLan",
+  "name": "Melrose",
+  "uri": "spotify:artist:7wEF4N6aICDlkHnCy3PLan",
+  "followers": {
+    "href": null,
+    "total": 4419
+  },
+  "genres": [
+    "classic finnish rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebde40a55846b5a8591b404831",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174de40a55846b5a8591b404831",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178de40a55846b5a8591b404831",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7wEF4N6aICDlkHnCy3PLan"
+  }
+}

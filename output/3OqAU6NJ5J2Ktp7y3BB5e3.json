@@ -1,0 +1,33 @@
+{
+  "id": "3OqAU6NJ5J2Ktp7y3BB5e3",
+  "name": "Diso",
+  "uri": "spotify:artist:3OqAU6NJ5J2Ktp7y3BB5e3",
+  "followers": {
+    "href": null,
+    "total": 16096
+  },
+  "genres": [
+    "trap chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb808255a5bc751c9eb31d010b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174808255a5bc751c9eb31d010b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178808255a5bc751c9eb31d010b",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3OqAU6NJ5J2Ktp7y3BB5e3"
+  }
+}
