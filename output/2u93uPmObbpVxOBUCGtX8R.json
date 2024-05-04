@@ -4,13 +4,27 @@
   "uri": "spotify:artist:2u93uPmObbpVxOBUCGtX8R",
   "followers": {
     "href": null,
-    "total": 4214
+    "total": 4225
   },
   "genres": [
     "depressive black metal"
   ],
   "images": [
-
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27329116e09dbf44448f162c706",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0229116e09dbf44448f162c706",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485129116e09dbf44448f162c706",
+      "width": 64
+    }
   ],
   "popularity": 13,
   "external_urls": {
