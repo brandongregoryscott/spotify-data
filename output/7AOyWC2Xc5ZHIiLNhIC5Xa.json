@@ -1,0 +1,33 @@
+{
+  "id": "7AOyWC2Xc5ZHIiLNhIC5Xa",
+  "name": "Assemble",
+  "uri": "spotify:artist:7AOyWC2Xc5ZHIiLNhIC5Xa",
+  "followers": {
+    "href": null,
+    "total": 126
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb32344b2c86de53e760555ea7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517432344b2c86de53e760555ea7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17832344b2c86de53e760555ea7",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7AOyWC2Xc5ZHIiLNhIC5Xa"
+  }
+}

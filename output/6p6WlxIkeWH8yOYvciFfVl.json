@@ -1,0 +1,33 @@
+{
+  "id": "6p6WlxIkeWH8yOYvciFfVl",
+  "name": "Typhoon",
+  "uri": "spotify:artist:6p6WlxIkeWH8yOYvciFfVl",
+  "followers": {
+    "href": null,
+    "total": 53101
+  },
+  "genres": [
+    "portland indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb00c16be522d2d69e95d863da",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517400c16be522d2d69e95d863da",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17800c16be522d2d69e95d863da",
+      "width": 160
+    }
+  ],
+  "popularity": 34,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6p6WlxIkeWH8yOYvciFfVl"
+  }
+}

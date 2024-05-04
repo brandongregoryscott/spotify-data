@@ -1,0 +1,33 @@
+{
+  "id": "5C9aGzYVFlEsdIveK4I6eU",
+  "name": "SKUD",
+  "uri": "spotify:artist:5C9aGzYVFlEsdIveK4I6eU",
+  "followers": {
+    "href": null,
+    "total": 291
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb91ab5f769ebcafe7b58d1b12",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517491ab5f769ebcafe7b58d1b12",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17891ab5f769ebcafe7b58d1b12",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5C9aGzYVFlEsdIveK4I6eU"
+  }
+}

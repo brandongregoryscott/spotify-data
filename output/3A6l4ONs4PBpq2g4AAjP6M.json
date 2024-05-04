@@ -1,0 +1,35 @@
+{
+  "id": "3A6l4ONs4PBpq2g4AAjP6M",
+  "name": "High Hi",
+  "uri": "spotify:artist:3A6l4ONs4PBpq2g4AAjP6M",
+  "followers": {
+    "href": null,
+    "total": 6781
+  },
+  "genres": [
+    "belgian indie",
+    "belgian indie rock",
+    "belgian post-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebba4d9355549d47a0925b1744",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ba4d9355549d47a0925b1744",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ba4d9355549d47a0925b1744",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3A6l4ONs4PBpq2g4AAjP6M"
+  }
+}

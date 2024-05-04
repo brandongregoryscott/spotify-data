@@ -1,0 +1,33 @@
+{
+  "id": "1tl67Z3qyJYT9NilPduEgF",
+  "name": "Mr. Music",
+  "uri": "spotify:artist:1tl67Z3qyJYT9NilPduEgF",
+  "followers": {
+    "href": null,
+    "total": 976
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb59826a809de048c4633113c6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517459826a809de048c4633113c6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17859826a809de048c4633113c6",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1tl67Z3qyJYT9NilPduEgF"
+  }
+}

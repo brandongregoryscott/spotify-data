@@ -1,0 +1,33 @@
+{
+  "id": "3YZIHhGplh33ySNdNsQf2V",
+  "name": "John Tyler",
+  "uri": "spotify:artist:3YZIHhGplh33ySNdNsQf2V",
+  "followers": {
+    "href": null,
+    "total": 542
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb57053ad98a3f15a6057d5aa3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517457053ad98a3f15a6057d5aa3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17857053ad98a3f15a6057d5aa3",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3YZIHhGplh33ySNdNsQf2V"
+  }
+}

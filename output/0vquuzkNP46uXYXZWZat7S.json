@@ -1,0 +1,33 @@
+{
+  "id": "0vquuzkNP46uXYXZWZat7S",
+  "name": "Alex Schaaf",
+  "uri": "spotify:artist:0vquuzkNP46uXYXZWZat7S",
+  "followers": {
+    "href": null,
+    "total": 520
+  },
+  "genres": [
+    "minneapolis indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cb63797457734c855a914ca3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cb63797457734c855a914ca3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cb63797457734c855a914ca3",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0vquuzkNP46uXYXZWZat7S"
+  }
+}

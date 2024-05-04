@@ -1,0 +1,33 @@
+{
+  "id": "1VjVTTlv8EHQegO1muDFfC",
+  "name": "Jandy",
+  "uri": "spotify:artist:1VjVTTlv8EHQegO1muDFfC",
+  "followers": {
+    "href": null,
+    "total": 477
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb151609a563bd42a61bcf2135",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174151609a563bd42a61bcf2135",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178151609a563bd42a61bcf2135",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1VjVTTlv8EHQegO1muDFfC"
+  }
+}

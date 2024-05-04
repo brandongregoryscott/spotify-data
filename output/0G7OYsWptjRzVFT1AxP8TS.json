@@ -1,0 +1,35 @@
+{
+  "id": "0G7OYsWptjRzVFT1AxP8TS",
+  "name": "Levert",
+  "uri": "spotify:artist:0G7OYsWptjRzVFT1AxP8TS",
+  "followers": {
+    "href": null,
+    "total": 566170
+  },
+  "genres": [
+    "contemporary r&b",
+    "new jack swing",
+    "r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb97ae6e6b2bea2ae703d91b85",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517497ae6e6b2bea2ae703d91b85",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17897ae6e6b2bea2ae703d91b85",
+      "width": 160
+    }
+  ],
+  "popularity": 37,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS"
+  }
+}

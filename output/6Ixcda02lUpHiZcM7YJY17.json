@@ -1,0 +1,33 @@
+{
+  "id": "6Ixcda02lUpHiZcM7YJY17",
+  "name": "Zedis",
+  "uri": "spotify:artist:6Ixcda02lUpHiZcM7YJY17",
+  "followers": {
+    "href": null,
+    "total": 209
+  },
+  "genres": [
+    "musiikkia lapista"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd2ebc064b2fa3a4b2a92582c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d2ebc064b2fa3a4b2a92582c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d2ebc064b2fa3a4b2a92582c",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Ixcda02lUpHiZcM7YJY17"
+  }
+}

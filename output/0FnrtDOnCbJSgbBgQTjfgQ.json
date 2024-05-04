@@ -1,0 +1,33 @@
+{
+  "id": "0FnrtDOnCbJSgbBgQTjfgQ",
+  "name": "Atomic Cafe",
+  "uri": "spotify:artist:0FnrtDOnCbJSgbBgQTjfgQ",
+  "followers": {
+    "href": null,
+    "total": 3312
+  },
+  "genres": [
+    "minneapolis indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe24a5c5966645c02d54b4670",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e24a5c5966645c02d54b4670",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e24a5c5966645c02d54b4670",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0FnrtDOnCbJSgbBgQTjfgQ"
+  }
+}

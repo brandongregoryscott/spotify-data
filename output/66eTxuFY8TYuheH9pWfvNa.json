@@ -1,0 +1,33 @@
+{
+  "id": "66eTxuFY8TYuheH9pWfvNa",
+  "name": "Purple Queen",
+  "uri": "spotify:artist:66eTxuFY8TYuheH9pWfvNa",
+  "followers": {
+    "href": null,
+    "total": 201
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27337cd10ee4fb4a26fa5cc3903",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0237cd10ee4fb4a26fa5cc3903",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485137cd10ee4fb4a26fa5cc3903",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/66eTxuFY8TYuheH9pWfvNa"
+  }
+}

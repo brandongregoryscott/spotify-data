@@ -1,0 +1,33 @@
+{
+  "id": "57SgC2oZVT81J9jCSlQGoF",
+  "name": "Toy",
+  "uri": "spotify:artist:57SgC2oZVT81J9jCSlQGoF",
+  "followers": {
+    "href": null,
+    "total": 1179
+  },
+  "genres": [
+    "australian hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb8f472a7308bbdfb30baf486",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b8f472a7308bbdfb30baf486",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b8f472a7308bbdfb30baf486",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/57SgC2oZVT81J9jCSlQGoF"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4OJDx0xqkbBFVSQfAk80e8",
+  "name": "5But",
+  "uri": "spotify:artist:4OJDx0xqkbBFVSQfAk80e8",
+  "followers": {
+    "href": null,
+    "total": 918
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcb13f39c6f9f4c4d58a714aa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cb13f39c6f9f4c4d58a714aa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cb13f39c6f9f4c4d58a714aa",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4OJDx0xqkbBFVSQfAk80e8"
+  }
+}

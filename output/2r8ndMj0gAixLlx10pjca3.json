@@ -1,0 +1,33 @@
+{
+  "id": "2r8ndMj0gAixLlx10pjca3",
+  "name": "Port Harbour",
+  "uri": "spotify:artist:2r8ndMj0gAixLlx10pjca3",
+  "followers": {
+    "href": null,
+    "total": 341
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb70cedeef20adda2036fbb63d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517470cedeef20adda2036fbb63d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17870cedeef20adda2036fbb63d",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2r8ndMj0gAixLlx10pjca3"
+  }
+}

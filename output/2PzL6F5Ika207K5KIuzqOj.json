@@ -1,0 +1,33 @@
+{
+  "id": "2PzL6F5Ika207K5KIuzqOj",
+  "name": "cip",
+  "uri": "spotify:artist:2PzL6F5Ika207K5KIuzqOj",
+  "followers": {
+    "href": null,
+    "total": 168
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb35782eea90a6470f3025fbbb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517435782eea90a6470f3025fbbb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17835782eea90a6470f3025fbbb",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2PzL6F5Ika207K5KIuzqOj"
+  }
+}

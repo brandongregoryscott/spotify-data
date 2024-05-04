@@ -1,0 +1,33 @@
+{
+  "id": "5WKUZJPvN1SScyggtPFShK",
+  "name": "Nerd Connection",
+  "uri": "spotify:artist:5WKUZJPvN1SScyggtPFShK",
+  "followers": {
+    "href": null,
+    "total": 76455
+  },
+  "genres": [
+    "korean indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcd016d0a0783a321312e1733",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cd016d0a0783a321312e1733",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cd016d0a0783a321312e1733",
+      "width": 160
+    }
+  ],
+  "popularity": 41,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK"
+  }
+}

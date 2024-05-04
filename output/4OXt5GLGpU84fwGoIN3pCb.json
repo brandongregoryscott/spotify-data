@@ -1,0 +1,34 @@
+{
+  "id": "4OXt5GLGpU84fwGoIN3pCb",
+  "name": "Maronda",
+  "uri": "spotify:artist:4OXt5GLGpU84fwGoIN3pCb",
+  "followers": {
+    "href": null,
+    "total": 2028
+  },
+  "genres": [
+    "spanish indie pop",
+    "spanish noise pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb645ec20ec1ad88dcc9562704",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174645ec20ec1ad88dcc9562704",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178645ec20ec1ad88dcc9562704",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4OXt5GLGpU84fwGoIN3pCb"
+  }
+}

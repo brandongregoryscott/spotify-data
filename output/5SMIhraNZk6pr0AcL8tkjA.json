@@ -1,0 +1,33 @@
+{
+  "id": "5SMIhraNZk6pr0AcL8tkjA",
+  "name": "CI$K0",
+  "uri": "spotify:artist:5SMIhraNZk6pr0AcL8tkjA",
+  "followers": {
+    "href": null,
+    "total": 55
+  },
+  "genres": [
+    "trap ecuatoriano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb02266aefe96c596d28e151cc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517402266aefe96c596d28e151cc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17802266aefe96c596d28e151cc",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5SMIhraNZk6pr0AcL8tkjA"
+  }
+}

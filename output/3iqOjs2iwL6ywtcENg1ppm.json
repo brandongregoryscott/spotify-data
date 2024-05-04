@@ -1,0 +1,33 @@
+{
+  "id": "3iqOjs2iwL6ywtcENg1ppm",
+  "name": "Acid Dad",
+  "uri": "spotify:artist:3iqOjs2iwL6ywtcENg1ppm",
+  "followers": {
+    "href": null,
+    "total": 24152
+  },
+  "genres": [
+    "neo-psychedelic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe6f636dec55d24b4585decd6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e6f636dec55d24b4585decd6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e6f636dec55d24b4585decd6",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3iqOjs2iwL6ywtcENg1ppm"
+  }
+}

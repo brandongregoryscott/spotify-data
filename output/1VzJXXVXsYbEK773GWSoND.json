@@ -1,0 +1,33 @@
+{
+  "id": "1VzJXXVXsYbEK773GWSoND",
+  "name": "Martin Jones",
+  "uri": "spotify:artist:1VzJXXVXsYbEK773GWSoND",
+  "followers": {
+    "href": null,
+    "total": 4438
+  },
+  "genres": [
+    "british classical piano"
+  ],
+  "images": [
+    {
+      "height": 248,
+      "url": "https://i.scdn.co/image/54c4049a6258f1d526aa8b421ac31332add3db98",
+      "width": 247
+    },
+    {
+      "height": 201,
+      "url": "https://i.scdn.co/image/6df577134bc03387aa68317b5a947a6ff8fc13f6",
+      "width": 200
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ffd476c7ed41285f5008d2a8c92d7ddaabcaa691",
+      "width": 64
+    }
+  ],
+  "popularity": 47,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1VzJXXVXsYbEK773GWSoND"
+  }
+}

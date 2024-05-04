@@ -1,0 +1,33 @@
+{
+  "id": "5BeP8aqpT4BUEF3sh7ycDC",
+  "name": "Sciahri",
+  "uri": "spotify:artist:5BeP8aqpT4BUEF3sh7ycDC",
+  "followers": {
+    "href": null,
+    "total": 1790
+  },
+  "genres": [
+    "industrial techno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb8bed9a43d3ceb78ca554a99",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b8bed9a43d3ceb78ca554a99",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b8bed9a43d3ceb78ca554a99",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5BeP8aqpT4BUEF3sh7ycDC"
+  }
+}

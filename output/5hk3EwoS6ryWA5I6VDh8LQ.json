@@ -1,0 +1,33 @@
+{
+  "id": "5hk3EwoS6ryWA5I6VDh8LQ",
+  "name": "Den Fjerde Væg",
+  "uri": "spotify:artist:5hk3EwoS6ryWA5I6VDh8LQ",
+  "followers": {
+    "href": null,
+    "total": 1295
+  },
+  "genres": [
+    "danish indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd98efa15b784fba2b30e59c9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d98efa15b784fba2b30e59c9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d98efa15b784fba2b30e59c9",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5hk3EwoS6ryWA5I6VDh8LQ"
+  }
+}

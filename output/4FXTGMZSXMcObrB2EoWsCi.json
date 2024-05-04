@@ -1,0 +1,34 @@
+{
+  "id": "4FXTGMZSXMcObrB2EoWsCi",
+  "name": "Deadwood",
+  "uri": "spotify:artist:4FXTGMZSXMcObrB2EoWsCi",
+  "followers": {
+    "href": null,
+    "total": 2483
+  },
+  "genres": [
+    "quebec hardcore",
+    "quebec metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf8231ce644c16d74f6d5efa6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f8231ce644c16d74f6d5efa6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f8231ce644c16d74f6d5efa6",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4FXTGMZSXMcObrB2EoWsCi"
+  }
+}

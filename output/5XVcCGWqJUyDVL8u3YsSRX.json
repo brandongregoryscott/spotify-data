@@ -1,0 +1,33 @@
+{
+  "id": "5XVcCGWqJUyDVL8u3YsSRX",
+  "name": "Brahny",
+  "uri": "spotify:artist:5XVcCGWqJUyDVL8u3YsSRX",
+  "followers": {
+    "href": null,
+    "total": 28576
+  },
+  "genres": [
+    "canadian hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebefcd63234286e3d970f6a348",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174efcd63234286e3d970f6a348",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178efcd63234286e3d970f6a348",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5XVcCGWqJUyDVL8u3YsSRX"
+  }
+}

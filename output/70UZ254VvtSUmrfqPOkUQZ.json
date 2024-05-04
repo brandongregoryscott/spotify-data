@@ -1,0 +1,35 @@
+{
+  "id": "70UZ254VvtSUmrfqPOkUQZ",
+  "name": "Azure Ray",
+  "uri": "spotify:artist:70UZ254VvtSUmrfqPOkUQZ",
+  "followers": {
+    "href": null,
+    "total": 37085
+  },
+  "genres": [
+    "athens indie",
+    "dream pop",
+    "omaha indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc01bda71ce11ff34040cd4fb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c01bda71ce11ff34040cd4fb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c01bda71ce11ff34040cd4fb",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/70UZ254VvtSUmrfqPOkUQZ"
+  }
+}

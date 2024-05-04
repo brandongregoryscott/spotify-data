@@ -1,0 +1,33 @@
+{
+  "id": "2SY6OktZyMLdOnscX3DCyS",
+  "name": "JANNABI",
+  "uri": "spotify:artist:2SY6OktZyMLdOnscX3DCyS",
+  "followers": {
+    "href": null,
+    "total": 484116
+  },
+  "genres": [
+    "korean indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe5346373ce792a13045f3eed",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e5346373ce792a13045f3eed",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e5346373ce792a13045f3eed",
+      "width": 160
+    }
+  ],
+  "popularity": 50,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+  }
+}

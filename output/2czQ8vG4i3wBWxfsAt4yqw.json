@@ -1,0 +1,33 @@
+{
+  "id": "2czQ8vG4i3wBWxfsAt4yqw",
+  "name": "Elliot Root",
+  "uri": "spotify:artist:2czQ8vG4i3wBWxfsAt4yqw",
+  "followers": {
+    "href": null,
+    "total": 38123
+  },
+  "genres": [
+    "hopebeat"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb80db73d93eed12f03aaf72a0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517480db73d93eed12f03aaf72a0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17880db73d93eed12f03aaf72a0",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2czQ8vG4i3wBWxfsAt4yqw"
+  }
+}

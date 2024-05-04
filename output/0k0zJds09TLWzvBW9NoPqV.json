@@ -1,0 +1,36 @@
+{
+  "id": "0k0zJds09TLWzvBW9NoPqV",
+  "name": "Javier Malosetti",
+  "uri": "spotify:artist:0k0zJds09TLWzvBW9NoPqV",
+  "followers": {
+    "href": null,
+    "total": 28459
+  },
+  "genres": [
+    "argentine jazz",
+    "argentine rock",
+    "latin funk",
+    "rock nacional"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb652ea81a339945a4fa67d5eb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174652ea81a339945a4fa67d5eb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178652ea81a339945a4fa67d5eb",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV"
+  }
+}

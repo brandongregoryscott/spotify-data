@@ -1,0 +1,33 @@
+{
+  "id": "3dszargYpFZjGo6vpjHNQS",
+  "name": "Biv",
+  "uri": "spotify:artist:3dszargYpFZjGo6vpjHNQS",
+  "followers": {
+    "href": null,
+    "total": 14441
+  },
+  "genres": [
+    "dark trap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb29ef6ab9d4d503c9e1bde9be",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517429ef6ab9d4d503c9e1bde9be",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17829ef6ab9d4d503c9e1bde9be",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3dszargYpFZjGo6vpjHNQS"
+  }
+}

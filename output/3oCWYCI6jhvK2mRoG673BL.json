@@ -1,0 +1,33 @@
+{
+  "id": "3oCWYCI6jhvK2mRoG673BL",
+  "name": "Understatement",
+  "uri": "spotify:artist:3oCWYCI6jhvK2mRoG673BL",
+  "followers": {
+    "href": null,
+    "total": 479
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb79b706ebb7e40a587ee28ba7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517479b706ebb7e40a587ee28ba7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17879b706ebb7e40a587ee28ba7",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3oCWYCI6jhvK2mRoG673BL"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2pqnLObM7v2Up3O7kARVtP",
+  "name": "Arius",
+  "uri": "spotify:artist:2pqnLObM7v2Up3O7kARVtP",
+  "followers": {
+    "href": null,
+    "total": 461
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcdd2b388fb2f198ef5ecc796",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cdd2b388fb2f198ef5ecc796",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cdd2b388fb2f198ef5ecc796",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2pqnLObM7v2Up3O7kARVtP"
+  }
+}

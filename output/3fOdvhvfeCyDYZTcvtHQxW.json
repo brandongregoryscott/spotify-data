@@ -1,0 +1,33 @@
+{
+  "id": "3fOdvhvfeCyDYZTcvtHQxW",
+  "name": "OnFully",
+  "uri": "spotify:artist:3fOdvhvfeCyDYZTcvtHQxW",
+  "followers": {
+    "href": null,
+    "total": 3856
+  },
+  "genres": [
+    "detroit hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27304bbe52ca3ec25c086cff74b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0204bbe52ca3ec25c086cff74b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485104bbe52ca3ec25c086cff74b",
+      "width": 64
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3fOdvhvfeCyDYZTcvtHQxW"
+  }
+}

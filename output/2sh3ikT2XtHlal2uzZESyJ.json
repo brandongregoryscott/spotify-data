@@ -1,0 +1,33 @@
+{
+  "id": "2sh3ikT2XtHlal2uzZESyJ",
+  "name": "ЯРЧЕ СОЛНЦА",
+  "uri": "spotify:artist:2sh3ikT2XtHlal2uzZESyJ",
+  "followers": {
+    "href": null,
+    "total": 8784
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb39ee36c794d5e79335c73bd8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517439ee36c794d5e79335c73bd8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17839ee36c794d5e79335c73bd8",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2sh3ikT2XtHlal2uzZESyJ"
+  }
+}

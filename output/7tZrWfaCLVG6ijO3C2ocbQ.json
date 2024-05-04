@@ -1,0 +1,34 @@
+{
+  "id": "7tZrWfaCLVG6ijO3C2ocbQ",
+  "name": "Kokane",
+  "uri": "spotify:artist:7tZrWfaCLVG6ijO3C2ocbQ",
+  "followers": {
+    "href": null,
+    "total": 149270
+  },
+  "genres": [
+    "g funk",
+    "west coast rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb05a6e08471d5b423d3c17d72",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517405a6e08471d5b423d3c17d72",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17805a6e08471d5b423d3c17d72",
+      "width": 160
+    }
+  ],
+  "popularity": 41,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7tZrWfaCLVG6ijO3C2ocbQ"
+  }
+}

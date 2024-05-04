@@ -1,0 +1,33 @@
+{
+  "id": "2tgTYdvlphr56BT3eYXUOd",
+  "name": "POST BODRIO",
+  "uri": "spotify:artist:2tgTYdvlphr56BT3eYXUOd",
+  "followers": {
+    "href": null,
+    "total": 324
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb368c7f44e6aea3fa6797bc4d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174368c7f44e6aea3fa6797bc4d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178368c7f44e6aea3fa6797bc4d",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2tgTYdvlphr56BT3eYXUOd"
+  }
+}

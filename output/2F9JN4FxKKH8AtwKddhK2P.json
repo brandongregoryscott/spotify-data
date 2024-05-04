@@ -1,0 +1,33 @@
+{
+  "id": "2F9JN4FxKKH8AtwKddhK2P",
+  "name": "Meemo",
+  "uri": "spotify:artist:2F9JN4FxKKH8AtwKddhK2P",
+  "followers": {
+    "href": null,
+    "total": 1090
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734f93a8e879a12b603f7b2aaf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024f93a8e879a12b603f7b2aaf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514f93a8e879a12b603f7b2aaf",
+      "width": 64
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2F9JN4FxKKH8AtwKddhK2P"
+  }
+}

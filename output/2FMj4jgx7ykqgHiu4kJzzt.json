@@ -1,0 +1,33 @@
+{
+  "id": "2FMj4jgx7ykqgHiu4kJzzt",
+  "name": "objectsnwo",
+  "uri": "spotify:artist:2FMj4jgx7ykqgHiu4kJzzt",
+  "followers": {
+    "href": null,
+    "total": 84
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc47c91393a4b745e4a4ae1ad",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c47c91393a4b745e4a4ae1ad",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c47c91393a4b745e4a4ae1ad",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2FMj4jgx7ykqgHiu4kJzzt"
+  }
+}
