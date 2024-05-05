@@ -23,7 +23,7 @@ end
 def find_related_artists(artist, attempt = 1)
   related_artists = artist.related_artists
   related_artists.map(&:id)
-rescue RestClient::TooManyRequests, RestClient::ServiceUnavailable
+rescue RestClient::ExceptionWithResponse
   max_sleep_seconds = Float(2**attempt)
   sleep rand(0..max_sleep_seconds)
   authenticate
