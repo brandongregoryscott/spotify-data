@@ -1,0 +1,33 @@
+{
+  "id": "4XEs7pOSFkstIg07eLW0zY",
+  "name": "Ad Smithh",
+  "uri": "spotify:artist:4XEs7pOSFkstIg07eLW0zY",
+  "followers": {
+    "href": null,
+    "total": 48
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb282def451a538d5af00f1d46",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174282def451a538d5af00f1d46",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178282def451a538d5af00f1d46",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4XEs7pOSFkstIg07eLW0zY"
+  }
+}

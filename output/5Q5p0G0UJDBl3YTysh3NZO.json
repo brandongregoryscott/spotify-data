@@ -1,0 +1,33 @@
+{
+  "id": "5Q5p0G0UJDBl3YTysh3NZO",
+  "name": "Unattractive",
+  "uri": "spotify:artist:5Q5p0G0UJDBl3YTysh3NZO",
+  "followers": {
+    "href": null,
+    "total": 199
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd2a064d20bd942ff235eb9e3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d2a064d20bd942ff235eb9e3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d2a064d20bd942ff235eb9e3",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Q5p0G0UJDBl3YTysh3NZO"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0QFIsyLsKc6CmM9PX4Pgq6",
+  "name": "Dan James Griffin",
+  "uri": "spotify:artist:0QFIsyLsKc6CmM9PX4Pgq6",
+  "followers": {
+    "href": null,
+    "total": 3120
+  },
+  "genres": [
+    "shred"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1cf908f22b9aa6503a2c832a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051741cf908f22b9aa6503a2c832a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1781cf908f22b9aa6503a2c832a",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0QFIsyLsKc6CmM9PX4Pgq6"
+  }
+}

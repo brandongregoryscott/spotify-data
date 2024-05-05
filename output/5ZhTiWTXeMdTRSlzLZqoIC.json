@@ -1,0 +1,33 @@
+{
+  "id": "5ZhTiWTXeMdTRSlzLZqoIC",
+  "name": "Left On Red",
+  "uri": "spotify:artist:5ZhTiWTXeMdTRSlzLZqoIC",
+  "followers": {
+    "href": null,
+    "total": 290
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba85a782c8a180e8ae6f5636d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a85a782c8a180e8ae6f5636d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a85a782c8a180e8ae6f5636d",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ZhTiWTXeMdTRSlzLZqoIC"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3OvevnaMKTcWEKhxnYPIru",
+  "name": "Falqo",
+  "uri": "spotify:artist:3OvevnaMKTcWEKhxnYPIru",
+  "followers": {
+    "href": null,
+    "total": 3673
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdaf51076dbe78c4fac973864",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174daf51076dbe78c4fac973864",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178daf51076dbe78c4fac973864",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3OvevnaMKTcWEKhxnYPIru"
+  }
+}

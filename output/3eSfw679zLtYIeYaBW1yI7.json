@@ -1,0 +1,33 @@
+{
+  "id": "3eSfw679zLtYIeYaBW1yI7",
+  "name": "Double Dagger",
+  "uri": "spotify:artist:3eSfw679zLtYIeYaBW1yI7",
+  "followers": {
+    "href": null,
+    "total": 2191
+  },
+  "genres": [
+    "dance-punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733036e831136a21d67a7d7c6c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023036e831136a21d67a7d7c6c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513036e831136a21d67a7d7c6c",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3eSfw679zLtYIeYaBW1yI7"
+  }
+}

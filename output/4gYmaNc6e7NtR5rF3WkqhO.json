@@ -1,0 +1,33 @@
+{
+  "id": "4gYmaNc6e7NtR5rF3WkqhO",
+  "name": "Florença",
+  "uri": "spotify:artist:4gYmaNc6e7NtR5rF3WkqhO",
+  "followers": {
+    "href": null,
+    "total": 918
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcae4c1520d8fb229e50677ee",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cae4c1520d8fb229e50677ee",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cae4c1520d8fb229e50677ee",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4gYmaNc6e7NtR5rF3WkqhO"
+  }
+}

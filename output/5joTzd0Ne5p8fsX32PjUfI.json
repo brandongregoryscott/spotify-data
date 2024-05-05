@@ -1,0 +1,33 @@
+{
+  "id": "5joTzd0Ne5p8fsX32PjUfI",
+  "name": "MIETTIIN",
+  "uri": "spotify:artist:5joTzd0Ne5p8fsX32PjUfI",
+  "followers": {
+    "href": null,
+    "total": 680
+  },
+  "genres": [
+    "finnish punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dd8b1a5dbcdcba4a5627135a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dd8b1a5dbcdcba4a5627135a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dd8b1a5dbcdcba4a5627135a",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5joTzd0Ne5p8fsX32PjUfI"
+  }
+}

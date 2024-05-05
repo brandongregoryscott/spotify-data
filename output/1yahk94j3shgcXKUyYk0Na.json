@@ -1,0 +1,33 @@
+{
+  "id": "1yahk94j3shgcXKUyYk0Na",
+  "name": "Pedro",
+  "uri": "spotify:artist:1yahk94j3shgcXKUyYk0Na",
+  "followers": {
+    "href": null,
+    "total": 268
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb907dc810fc3377023e728387",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174907dc810fc3377023e728387",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178907dc810fc3377023e728387",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1yahk94j3shgcXKUyYk0Na"
+  }
+}

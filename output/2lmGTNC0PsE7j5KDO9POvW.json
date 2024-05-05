@@ -1,0 +1,33 @@
+{
+  "id": "2lmGTNC0PsE7j5KDO9POvW",
+  "name": "Moi Je",
+  "uri": "spotify:artist:2lmGTNC0PsE7j5KDO9POvW",
+  "followers": {
+    "href": null,
+    "total": 17031
+  },
+  "genres": [
+    "new french touch"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb535b5e63cb9acd16001d4ddb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174535b5e63cb9acd16001d4ddb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178535b5e63cb9acd16001d4ddb",
+      "width": 160
+    }
+  ],
+  "popularity": 39,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2lmGTNC0PsE7j5KDO9POvW"
+  }
+}

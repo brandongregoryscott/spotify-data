@@ -1,0 +1,33 @@
+{
+  "id": "2bIN86ZmfyWfkN9c3C3YXE",
+  "name": "The Alternate Routes",
+  "uri": "spotify:artist:2bIN86ZmfyWfkN9c3C3YXE",
+  "followers": {
+    "href": null,
+    "total": 11346
+  },
+  "genres": [
+    "acoustic pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb066a4a48ebc0319e59e3d376",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174066a4a48ebc0319e59e3d376",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178066a4a48ebc0319e59e3d376",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2bIN86ZmfyWfkN9c3C3YXE"
+  }
+}

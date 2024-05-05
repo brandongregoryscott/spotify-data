@@ -1,0 +1,33 @@
+{
+  "id": "1yxPtQ2quMyXKpHOQMvSQJ",
+  "name": "Hohde",
+  "uri": "spotify:artist:1yxPtQ2quMyXKpHOQMvSQJ",
+  "followers": {
+    "href": null,
+    "total": 23
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273901cae6895a3c06c4b0e7f17",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02901cae6895a3c06c4b0e7f17",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851901cae6895a3c06c4b0e7f17",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1yxPtQ2quMyXKpHOQMvSQJ"
+  }
+}

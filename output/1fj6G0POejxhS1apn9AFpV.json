@@ -1,0 +1,33 @@
+{
+  "id": "1fj6G0POejxhS1apn9AFpV",
+  "name": "Kimmo Ojala",
+  "uri": "spotify:artist:1fj6G0POejxhS1apn9AFpV",
+  "followers": {
+    "href": null,
+    "total": 36
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a052d576878bbe850816b276",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a052d576878bbe850816b276",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a052d576878bbe850816b276",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1fj6G0POejxhS1apn9AFpV"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6HOWP6H5KoPrJxOlt1USmM",
+  "name": "melon",
+  "uri": "spotify:artist:6HOWP6H5KoPrJxOlt1USmM",
+  "followers": {
+    "href": null,
+    "total": 30
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbc67dcb25815a45efd686d2a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bc67dcb25815a45efd686d2a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bc67dcb25815a45efd686d2a",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6HOWP6H5KoPrJxOlt1USmM"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1d99e8nZ0oRECK7rJNRcAL",
+  "name": "Leave",
+  "uri": "spotify:artist:1d99e8nZ0oRECK7rJNRcAL",
+  "followers": {
+    "href": null,
+    "total": 232
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730c2e0ba68bdd456de7db619d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020c2e0ba68bdd456de7db619d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510c2e0ba68bdd456de7db619d",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1d99e8nZ0oRECK7rJNRcAL"
+  }
+}

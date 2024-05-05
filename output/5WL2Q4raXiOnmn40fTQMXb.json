@@ -1,0 +1,33 @@
+{
+  "id": "5WL2Q4raXiOnmn40fTQMXb",
+  "name": "Carbonstone",
+  "uri": "spotify:artist:5WL2Q4raXiOnmn40fTQMXb",
+  "followers": {
+    "href": null,
+    "total": 1658
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbabcd7127629641f6b535993",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174babcd7127629641f6b535993",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178babcd7127629641f6b535993",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5WL2Q4raXiOnmn40fTQMXb"
+  }
+}

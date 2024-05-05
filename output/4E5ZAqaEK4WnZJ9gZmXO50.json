@@ -1,0 +1,34 @@
+{
+  "id": "4E5ZAqaEK4WnZJ9gZmXO50",
+  "name": "Marsa",
+  "uri": "spotify:artist:4E5ZAqaEK4WnZJ9gZmXO50",
+  "followers": {
+    "href": null,
+    "total": 8104
+  },
+  "genres": [
+    "nova mpb",
+    "nova musica pernambucana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27388da7ee08c3f5b0aae7b9aa8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0288da7ee08c3f5b0aae7b9aa8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485188da7ee08c3f5b0aae7b9aa8",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4E5ZAqaEK4WnZJ9gZmXO50"
+  }
+}

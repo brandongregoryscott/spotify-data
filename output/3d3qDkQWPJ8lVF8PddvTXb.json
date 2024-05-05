@@ -1,0 +1,33 @@
+{
+  "id": "3d3qDkQWPJ8lVF8PddvTXb",
+  "name": "LukaBo",
+  "uri": "spotify:artist:3d3qDkQWPJ8lVF8PddvTXb",
+  "followers": {
+    "href": null,
+    "total": 359
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc5be8afd1128c10c5bb7d1e2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c5be8afd1128c10c5bb7d1e2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c5be8afd1128c10c5bb7d1e2",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3d3qDkQWPJ8lVF8PddvTXb"
+  }
+}

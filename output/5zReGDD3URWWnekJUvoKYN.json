@@ -1,0 +1,33 @@
+{
+  "id": "5zReGDD3URWWnekJUvoKYN",
+  "name": "punkassdio",
+  "uri": "spotify:artist:5zReGDD3URWWnekJUvoKYN",
+  "followers": {
+    "href": null,
+    "total": 751
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba70f090395020a6e55dcf09d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a70f090395020a6e55dcf09d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a70f090395020a6e55dcf09d",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5zReGDD3URWWnekJUvoKYN"
+  }
+}

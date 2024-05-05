@@ -1,0 +1,36 @@
+{
+  "id": "1WrqUPWlHN5FXCRcQgrkas",
+  "name": "Lucius",
+  "uri": "spotify:artist:1WrqUPWlHN5FXCRcQgrkas",
+  "followers": {
+    "href": null,
+    "total": 176180
+  },
+  "genres": [
+    "indie folk",
+    "indie pop",
+    "new americana",
+    "shimmer pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb8a188d50e29b6694b0a1602",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b8a188d50e29b6694b0a1602",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b8a188d50e29b6694b0a1602",
+      "width": 160
+    }
+  ],
+  "popularity": 50,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0yN7wPhjaR5wxLnFxZPTLf",
+  "name": "Another Astronaut",
+  "uri": "spotify:artist:0yN7wPhjaR5wxLnFxZPTLf",
+  "followers": {
+    "href": null,
+    "total": 182
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcd3106f44a3c5f6eb2f472f8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cd3106f44a3c5f6eb2f472f8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cd3106f44a3c5f6eb2f472f8",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0yN7wPhjaR5wxLnFxZPTLf"
+  }
+}

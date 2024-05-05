@@ -1,0 +1,33 @@
+{
+  "id": "6Kt8FYTQPKYYnByilTmmcy",
+  "name": "The Cloaks",
+  "uri": "spotify:artist:6Kt8FYTQPKYYnByilTmmcy",
+  "followers": {
+    "href": null,
+    "total": 1356
+  },
+  "genres": [
+    "abstract hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb28c5b0df1d5d6a9ace6cb0ce",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517428c5b0df1d5d6a9ace6cb0ce",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17828c5b0df1d5d6a9ace6cb0ce",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Kt8FYTQPKYYnByilTmmcy"
+  }
+}

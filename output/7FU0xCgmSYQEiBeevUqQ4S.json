@@ -1,0 +1,33 @@
+{
+  "id": "7FU0xCgmSYQEiBeevUqQ4S",
+  "name": "Yoke Lore",
+  "uri": "spotify:artist:7FU0xCgmSYQEiBeevUqQ4S",
+  "followers": {
+    "href": null,
+    "total": 201926
+  },
+  "genres": [
+    "nyc pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb64d506775e6e1eec482d540",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b64d506775e6e1eec482d540",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b64d506775e6e1eec482d540",
+      "width": 160
+    }
+  ],
+  "popularity": 55,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+  }
+}
