@@ -1,0 +1,33 @@
+{
+  "id": "2Uen4jXK5ynqgCUsz4tiD0",
+  "name": "Bad Fix",
+  "uri": "spotify:artist:2Uen4jXK5ynqgCUsz4tiD0",
+  "followers": {
+    "href": null,
+    "total": 196
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273089e3dd183f4791702a167cf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02089e3dd183f4791702a167cf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851089e3dd183f4791702a167cf",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Uen4jXK5ynqgCUsz4tiD0"
+  }
+}

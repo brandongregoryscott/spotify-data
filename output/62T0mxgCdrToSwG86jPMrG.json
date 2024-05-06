@@ -1,0 +1,33 @@
+{
+  "id": "62T0mxgCdrToSwG86jPMrG",
+  "name": "A Night Out",
+  "uri": "spotify:artist:62T0mxgCdrToSwG86jPMrG",
+  "followers": {
+    "href": null,
+    "total": 55
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb85f2b4a7088324f3ae3d1aea",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517485f2b4a7088324f3ae3d1aea",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17885f2b4a7088324f3ae3d1aea",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/62T0mxgCdrToSwG86jPMrG"
+  }
+}

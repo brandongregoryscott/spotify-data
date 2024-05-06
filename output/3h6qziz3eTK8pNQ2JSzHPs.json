@@ -1,0 +1,35 @@
+{
+  "id": "3h6qziz3eTK8pNQ2JSzHPs",
+  "name": "Alexander Kowalski",
+  "uri": "spotify:artist:3h6qziz3eTK8pNQ2JSzHPs",
+  "followers": {
+    "href": null,
+    "total": 14009
+  },
+  "genres": [
+    "german techno",
+    "minimal techno",
+    "techno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba51e92a1f62cd0ce251309bf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a51e92a1f62cd0ce251309bf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a51e92a1f62cd0ce251309bf",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3h6qziz3eTK8pNQ2JSzHPs"
+  }
+}

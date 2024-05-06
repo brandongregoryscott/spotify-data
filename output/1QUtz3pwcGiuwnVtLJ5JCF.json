@@ -1,0 +1,33 @@
+{
+  "id": "1QUtz3pwcGiuwnVtLJ5JCF",
+  "name": "Headstrong",
+  "uri": "spotify:artist:1QUtz3pwcGiuwnVtLJ5JCF",
+  "followers": {
+    "href": null,
+    "total": 3644
+  },
+  "genres": [
+    "punk cover"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb718eb5e7059d1ad55e3de5d2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174718eb5e7059d1ad55e3de5d2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178718eb5e7059d1ad55e3de5d2",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1QUtz3pwcGiuwnVtLJ5JCF"
+  }
+}

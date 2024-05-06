@@ -1,0 +1,33 @@
+{
+  "id": "6CQw6qt1rxEUH5aNQnCzta",
+  "name": "ASAVA",
+  "uri": "spotify:artist:6CQw6qt1rxEUH5aNQnCzta",
+  "followers": {
+    "href": null,
+    "total": 1623
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd78f24f3385e28f294037038",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d78f24f3385e28f294037038",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d78f24f3385e28f294037038",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6CQw6qt1rxEUH5aNQnCzta"
+  }
+}

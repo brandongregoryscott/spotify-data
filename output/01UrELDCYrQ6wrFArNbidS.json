@@ -1,0 +1,33 @@
+{
+  "id": "01UrELDCYrQ6wrFArNbidS",
+  "name": "Pearls Before Swine",
+  "uri": "spotify:artist:01UrELDCYrQ6wrFArNbidS",
+  "followers": {
+    "href": null,
+    "total": 14313
+  },
+  "genres": [
+    "psychedelic folk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe9ee470b66dcd837868828d8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e9ee470b66dcd837868828d8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e9ee470b66dcd837868828d8",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01UrELDCYrQ6wrFArNbidS"
+  }
+}

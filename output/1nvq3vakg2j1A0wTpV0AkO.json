@@ -1,0 +1,33 @@
+{
+  "id": "1nvq3vakg2j1A0wTpV0AkO",
+  "name": "Fiver",
+  "uri": "spotify:artist:1nvq3vakg2j1A0wTpV0AkO",
+  "followers": {
+    "href": null,
+    "total": 2095
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb37bf7f0ad3ccc1d98dafbb97",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517437bf7f0ad3ccc1d98dafbb97",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17837bf7f0ad3ccc1d98dafbb97",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1nvq3vakg2j1A0wTpV0AkO"
+  }
+}

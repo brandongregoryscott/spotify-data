@@ -1,0 +1,35 @@
+{
+  "id": "7cHBgZyVbNG75ZCo8VzD4W",
+  "name": "Acoustic Syndicate",
+  "uri": "spotify:artist:7cHBgZyVbNG75ZCo8VzD4W",
+  "followers": {
+    "href": null,
+    "total": 5469
+  },
+  "genres": [
+    "banjo",
+    "jam band",
+    "progressive bluegrass"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb471a6e6eaad5bd962028a41e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174471a6e6eaad5bd962028a41e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178471a6e6eaad5bd962028a41e",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7cHBgZyVbNG75ZCo8VzD4W"
+  }
+}

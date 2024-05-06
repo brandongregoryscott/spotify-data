@@ -1,0 +1,33 @@
+{
+  "id": "6OzBUDEalAtPua0G3fVO3O",
+  "name": "Konflicto",
+  "uri": "spotify:artist:6OzBUDEalAtPua0G3fVO3O",
+  "followers": {
+    "href": null,
+    "total": 184
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcbcb6f35af2d9fe9e33aa193",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cbcb6f35af2d9fe9e33aa193",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cbcb6f35af2d9fe9e33aa193",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6OzBUDEalAtPua0G3fVO3O"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "5jlURkyUKDGhKJeL1NNyRp",
+  "name": "Essence",
+  "uri": "spotify:artist:5jlURkyUKDGhKJeL1NNyRp",
+  "followers": {
+    "href": null,
+    "total": 4643
+  },
+  "genres": [
+    "lo-fi beats",
+    "lo-fi chill"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb119f6e0f39a967b1d10732c1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174119f6e0f39a967b1d10732c1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178119f6e0f39a967b1d10732c1",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5jlURkyUKDGhKJeL1NNyRp"
+  }
+}

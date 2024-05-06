@@ -1,0 +1,33 @@
+{
+  "id": "5zERp0dgbDpIWXEY3LpBSN",
+  "name": "Girl Etc.",
+  "uri": "spotify:artist:5zERp0dgbDpIWXEY3LpBSN",
+  "followers": {
+    "href": null,
+    "total": 130
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeb502faf9c7640a75e913180",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eb502faf9c7640a75e913180",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eb502faf9c7640a75e913180",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5zERp0dgbDpIWXEY3LpBSN"
+  }
+}

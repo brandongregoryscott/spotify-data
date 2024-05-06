@@ -1,0 +1,33 @@
+{
+  "id": "5iFEiR0wzyDOLk3gWbUUys",
+  "name": "Privacy",
+  "uri": "spotify:artist:5iFEiR0wzyDOLk3gWbUUys",
+  "followers": {
+    "href": null,
+    "total": 1991
+  },
+  "genres": [
+    "nu electro"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731a9f8439ddbb55df939de263",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021a9f8439ddbb55df939de263",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511a9f8439ddbb55df939de263",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5iFEiR0wzyDOLk3gWbUUys"
+  }
+}

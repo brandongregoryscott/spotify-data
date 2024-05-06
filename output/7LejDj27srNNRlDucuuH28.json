@@ -1,0 +1,33 @@
+{
+  "id": "7LejDj27srNNRlDucuuH28",
+  "name": "Fixed Idea",
+  "uri": "spotify:artist:7LejDj27srNNRlDucuuH28",
+  "followers": {
+    "href": null,
+    "total": 545
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733c00d0583ab9bc54e6a65fd6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023c00d0583ab9bc54e6a65fd6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513c00d0583ab9bc54e6a65fd6",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7LejDj27srNNRlDucuuH28"
+  }
+}

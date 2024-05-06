@@ -1,0 +1,34 @@
+{
+  "id": "3WTnnSJxVVG4zX6rbjAMzG",
+  "name": "Per Barfot",
+  "uri": "spotify:artist:3WTnnSJxVVG4zX6rbjAMzG",
+  "followers": {
+    "href": null,
+    "total": 233
+  },
+  "genres": [
+    "ambient synth",
+    "modular synth"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb90dd662a6f8edcd10ba0119a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517490dd662a6f8edcd10ba0119a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17890dd662a6f8edcd10ba0119a",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3WTnnSJxVVG4zX6rbjAMzG"
+  }
+}

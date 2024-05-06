@@ -1,0 +1,34 @@
+{
+  "id": "3pDfyGgb3c1MjSfkJWEAnl",
+  "name": "Pact Infernal",
+  "uri": "spotify:artist:3pDfyGgb3c1MjSfkJWEAnl",
+  "followers": {
+    "href": null,
+    "total": 2376
+  },
+  "genres": [
+    "industrial noise",
+    "norwegian experimental"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27313d6a273330e8ba87ca0d5b8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0213d6a273330e8ba87ca0d5b8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485113d6a273330e8ba87ca0d5b8",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3pDfyGgb3c1MjSfkJWEAnl"
+  }
+}

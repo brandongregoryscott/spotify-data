@@ -1,0 +1,33 @@
+{
+  "id": "2H8EfATthjmKAIqWPWwgFW",
+  "name": "James Shinra",
+  "uri": "spotify:artist:2H8EfATthjmKAIqWPWwgFW",
+  "followers": {
+    "href": null,
+    "total": 7874
+  },
+  "genres": [
+    "braindance"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8df2078d74c2b28529f2be2f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051748df2078d74c2b28529f2be2f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1788df2078d74c2b28529f2be2f",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2H8EfATthjmKAIqWPWwgFW"
+  }
+}

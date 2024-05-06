@@ -1,0 +1,33 @@
+{
+  "id": "5j3O78U29f2SeYwdr3SG8z",
+  "name": "Talker",
+  "uri": "spotify:artist:5j3O78U29f2SeYwdr3SG8z",
+  "followers": {
+    "href": null,
+    "total": 874
+  },
+  "genres": [
+    "industrial techno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27315a8682a843bc2d5a6f58970",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0215a8682a843bc2d5a6f58970",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485115a8682a843bc2d5a6f58970",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5j3O78U29f2SeYwdr3SG8z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "14vw9s3wtYCDjRzjAEvrmX",
+  "name": "Moonbeau",
+  "uri": "spotify:artist:14vw9s3wtYCDjRzjAEvrmX",
+  "followers": {
+    "href": null,
+    "total": 2441
+  },
+  "genres": [
+    "cincinnati indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb14a7e6c0fd35e98ad4037bce",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517414a7e6c0fd35e98ad4037bce",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17814a7e6c0fd35e98ad4037bce",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/14vw9s3wtYCDjRzjAEvrmX"
+  }
+}

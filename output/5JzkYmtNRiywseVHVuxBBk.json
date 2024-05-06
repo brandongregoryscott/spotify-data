@@ -1,0 +1,33 @@
+{
+  "id": "5JzkYmtNRiywseVHVuxBBk",
+  "name": "IMASHI",
+  "uri": "spotify:artist:5JzkYmtNRiywseVHVuxBBk",
+  "followers": {
+    "href": null,
+    "total": 342
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb538b817768e8a4870159b2e1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174538b817768e8a4870159b2e1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178538b817768e8a4870159b2e1",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5JzkYmtNRiywseVHVuxBBk"
+  }
+}

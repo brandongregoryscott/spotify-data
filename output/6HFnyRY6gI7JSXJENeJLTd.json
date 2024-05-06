@@ -1,0 +1,33 @@
+{
+  "id": "6HFnyRY6gI7JSXJENeJLTd",
+  "name": "Moss Covered Technology",
+  "uri": "spotify:artist:6HFnyRY6gI7JSXJENeJLTd",
+  "followers": {
+    "href": null,
+    "total": 770
+  },
+  "genres": [
+    "drift"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb49b27ca0a04b8b10f4e4cdd9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517449b27ca0a04b8b10f4e4cdd9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17849b27ca0a04b8b10f4e4cdd9",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6HFnyRY6gI7JSXJENeJLTd"
+  }
+}

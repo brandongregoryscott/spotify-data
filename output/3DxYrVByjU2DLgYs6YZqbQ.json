@@ -1,0 +1,33 @@
+{
+  "id": "3DxYrVByjU2DLgYs6YZqbQ",
+  "name": "The Kindred",
+  "uri": "spotify:artist:3DxYrVByjU2DLgYs6YZqbQ",
+  "followers": {
+    "href": null,
+    "total": 2928
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3b34e3387b851bd19c18f67e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051743b34e3387b851bd19c18f67e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1783b34e3387b851bd19c18f67e",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3DxYrVByjU2DLgYs6YZqbQ"
+  }
+}

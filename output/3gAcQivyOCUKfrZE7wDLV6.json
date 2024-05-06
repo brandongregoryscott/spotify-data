@@ -1,0 +1,33 @@
+{
+  "id": "3gAcQivyOCUKfrZE7wDLV6",
+  "name": "Fizzikx",
+  "uri": "spotify:artist:3gAcQivyOCUKfrZE7wDLV6",
+  "followers": {
+    "href": null,
+    "total": 125
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273db5949ac02cf341a101b247f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02db5949ac02cf341a101b247f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851db5949ac02cf341a101b247f",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3gAcQivyOCUKfrZE7wDLV6"
+  }
+}

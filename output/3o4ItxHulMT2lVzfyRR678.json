@@ -1,0 +1,33 @@
+{
+  "id": "3o4ItxHulMT2lVzfyRR678",
+  "name": "Jon Riggs",
+  "uri": "spotify:artist:3o4ItxHulMT2lVzfyRR678",
+  "followers": {
+    "href": null,
+    "total": 87
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbdef16298c9b9c3e8163df0f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bdef16298c9b9c3e8163df0f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bdef16298c9b9c3e8163df0f",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3o4ItxHulMT2lVzfyRR678"
+  }
+}

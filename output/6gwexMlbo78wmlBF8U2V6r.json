@@ -1,0 +1,33 @@
+{
+  "id": "6gwexMlbo78wmlBF8U2V6r",
+  "name": "Jane Decker",
+  "uri": "spotify:artist:6gwexMlbo78wmlBF8U2V6r",
+  "followers": {
+    "href": null,
+    "total": 2153
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb85490978a47cb0da2299f1b4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517485490978a47cb0da2299f1b4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17885490978a47cb0da2299f1b4",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6gwexMlbo78wmlBF8U2V6r"
+  }
+}

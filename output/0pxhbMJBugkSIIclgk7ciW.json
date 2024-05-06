@@ -1,0 +1,33 @@
+{
+  "id": "0pxhbMJBugkSIIclgk7ciW",
+  "name": "Haggerty",
+  "uri": "spotify:artist:0pxhbMJBugkSIIclgk7ciW",
+  "followers": {
+    "href": null,
+    "total": 38
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734aad1f375136b4200009582e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024aad1f375136b4200009582e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514aad1f375136b4200009582e",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0pxhbMJBugkSIIclgk7ciW"
+  }
+}

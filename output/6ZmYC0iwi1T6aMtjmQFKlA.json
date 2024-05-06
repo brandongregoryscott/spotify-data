@@ -1,0 +1,33 @@
+{
+  "id": "6ZmYC0iwi1T6aMtjmQFKlA",
+  "name": "TimeLine",
+  "uri": "spotify:artist:6ZmYC0iwi1T6aMtjmQFKlA",
+  "followers": {
+    "href": null,
+    "total": 1141
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf39e21ecfa6fbd601eebdd34",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f39e21ecfa6fbd601eebdd34",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f39e21ecfa6fbd601eebdd34",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ZmYC0iwi1T6aMtjmQFKlA"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2A4ZByna3TWY1gzmLIHCvN",
+  "name": "THAT",
+  "uri": "spotify:artist:2A4ZByna3TWY1gzmLIHCvN",
+  "followers": {
+    "href": null,
+    "total": 242
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb04662cfb274b1ee3ea6a7d66",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517404662cfb274b1ee3ea6a7d66",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17804662cfb274b1ee3ea6a7d66",
+      "width": 160
+    }
+  ],
+  "popularity": 43,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2A4ZByna3TWY1gzmLIHCvN"
+  }
+}

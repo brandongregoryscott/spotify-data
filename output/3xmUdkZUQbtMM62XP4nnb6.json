@@ -1,0 +1,35 @@
+{
+  "id": "3xmUdkZUQbtMM62XP4nnb6",
+  "name": "Fred Neil",
+  "uri": "spotify:artist:3xmUdkZUQbtMM62XP4nnb6",
+  "followers": {
+    "href": null,
+    "total": 34639
+  },
+  "genres": [
+    "american folk revival",
+    "brill building pop",
+    "singer-songwriter"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e947f4b2de84a522265b52e6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e947f4b2de84a522265b52e6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e947f4b2de84a522265b52e6",
+      "width": 64
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3xmUdkZUQbtMM62XP4nnb6"
+  }
+}

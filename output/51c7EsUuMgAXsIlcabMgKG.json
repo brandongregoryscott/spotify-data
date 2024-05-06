@@ -1,0 +1,33 @@
+{
+  "id": "51c7EsUuMgAXsIlcabMgKG",
+  "name": "Frye",
+  "uri": "spotify:artist:51c7EsUuMgAXsIlcabMgKG",
+  "followers": {
+    "href": null,
+    "total": 1919
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb515a8a6baa7108abede4f6ce",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174515a8a6baa7108abede4f6ce",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178515a8a6baa7108abede4f6ce",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/51c7EsUuMgAXsIlcabMgKG"
+  }
+}

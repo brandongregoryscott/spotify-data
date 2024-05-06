@@ -1,0 +1,33 @@
+{
+  "id": "0WG6eWb5Zxb5F3ZnLlIFRP",
+  "name": "Existencia",
+  "uri": "spotify:artist:0WG6eWb5Zxb5F3ZnLlIFRP",
+  "followers": {
+    "href": null,
+    "total": 348
+  },
+  "genres": [
+    "latincore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb415f4e17ef5c1dcd54dd6ced",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174415f4e17ef5c1dcd54dd6ced",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178415f4e17ef5c1dcd54dd6ced",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0WG6eWb5Zxb5F3ZnLlIFRP"
+  }
+}

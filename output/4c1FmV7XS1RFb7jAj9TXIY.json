@@ -1,0 +1,33 @@
+{
+  "id": "4c1FmV7XS1RFb7jAj9TXIY",
+  "name": "Lake Drive",
+  "uri": "spotify:artist:4c1FmV7XS1RFb7jAj9TXIY",
+  "followers": {
+    "href": null,
+    "total": 554
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb09df49f3a88977660d708283",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517409df49f3a88977660d708283",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17809df49f3a88977660d708283",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4c1FmV7XS1RFb7jAj9TXIY"
+  }
+}

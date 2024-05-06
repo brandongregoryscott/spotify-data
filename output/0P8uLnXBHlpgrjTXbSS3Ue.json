@@ -1,0 +1,33 @@
+{
+  "id": "0P8uLnXBHlpgrjTXbSS3Ue",
+  "name": "[Redacted]",
+  "uri": "spotify:artist:0P8uLnXBHlpgrjTXbSS3Ue",
+  "followers": {
+    "href": null,
+    "total": 413
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb94e98f877526c8be9d91190b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517494e98f877526c8be9d91190b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17894e98f877526c8be9d91190b",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0P8uLnXBHlpgrjTXbSS3Ue"
+  }
+}

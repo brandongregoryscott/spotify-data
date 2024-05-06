@@ -1,0 +1,35 @@
+{
+  "id": "1u7kkVrr14iBvrpYnZILJR",
+  "name": "Sex Pistols",
+  "uri": "spotify:artist:1u7kkVrr14iBvrpYnZILJR",
+  "followers": {
+    "href": null,
+    "total": 1778646
+  },
+  "genres": [
+    "alternative rock",
+    "punk",
+    "rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd3fa01fd4baad1158dd2fd8b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d3fa01fd4baad1158dd2fd8b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d3fa01fd4baad1158dd2fd8b",
+      "width": 160
+    }
+  ],
+  "popularity": 51,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
+  }
+}

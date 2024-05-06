@@ -1,0 +1,33 @@
+{
+  "id": "1rbRlqPPuN1TnMKQn84W5K",
+  "name": "Austral",
+  "uri": "spotify:artist:1rbRlqPPuN1TnMKQn84W5K",
+  "followers": {
+    "href": null,
+    "total": 4888
+  },
+  "genres": [
+    "chilean metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb207a816f0ef11cb84b78a641",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174207a816f0ef11cb84b78a641",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178207a816f0ef11cb84b78a641",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1rbRlqPPuN1TnMKQn84W5K"
+  }
+}

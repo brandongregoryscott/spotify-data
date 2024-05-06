@@ -1,0 +1,33 @@
+{
+  "id": "5UU2og5wOx6wTAfgRoDc0z",
+  "name": "Sungaze",
+  "uri": "spotify:artist:5UU2og5wOx6wTAfgRoDc0z",
+  "followers": {
+    "href": null,
+    "total": 1990
+  },
+  "genres": [
+    "dreamgaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebac4abe25c382fe729af796bf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ac4abe25c382fe729af796bf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ac4abe25c382fe729af796bf",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5UU2og5wOx6wTAfgRoDc0z"
+  }
+}

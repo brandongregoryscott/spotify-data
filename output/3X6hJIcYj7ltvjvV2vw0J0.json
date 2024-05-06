@@ -1,0 +1,33 @@
+{
+  "id": "3X6hJIcYj7ltvjvV2vw0J0",
+  "name": "Superglue",
+  "uri": "spotify:artist:3X6hJIcYj7ltvjvV2vw0J0",
+  "followers": {
+    "href": null,
+    "total": 318
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba3f1fe8954bf3708ec0c588b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a3f1fe8954bf3708ec0c588b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a3f1fe8954bf3708ec0c588b",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3X6hJIcYj7ltvjvV2vw0J0"
+  }
+}

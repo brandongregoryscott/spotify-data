@@ -1,0 +1,33 @@
+{
+  "id": "0GhospJeF7BuTTP3Ig6J9s",
+  "name": "Gultņi",
+  "uri": "spotify:artist:0GhospJeF7BuTTP3Ig6J9s",
+  "followers": {
+    "href": null,
+    "total": 337
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb510fc64e3eb09e892a0348c2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174510fc64e3eb09e892a0348c2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178510fc64e3eb09e892a0348c2",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0GhospJeF7BuTTP3Ig6J9s"
+  }
+}

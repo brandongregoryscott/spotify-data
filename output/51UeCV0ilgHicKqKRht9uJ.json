@@ -1,0 +1,33 @@
+{
+  "id": "51UeCV0ilgHicKqKRht9uJ",
+  "name": "Dorso",
+  "uri": "spotify:artist:51UeCV0ilgHicKqKRht9uJ",
+  "followers": {
+    "href": null,
+    "total": 13568
+  },
+  "genres": [
+    "chilean metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe2be76ece85492c89ba31095",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e2be76ece85492c89ba31095",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e2be76ece85492c89ba31095",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/51UeCV0ilgHicKqKRht9uJ"
+  }
+}
