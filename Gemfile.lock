@@ -10,6 +10,9 @@ GEM
       faraday-net_http (>= 2.0, < 3.2)
     faraday-net_http (3.1.0)
       net-http
+    git (1.19.1)
+      addressable (~> 2.8)
+      rchardet (~> 1.8)
     hashie (5.0.0)
     http-cookie (1.0.5)
       domain_name (~> 0.5)
@@ -50,6 +53,7 @@ GEM
       base64 (>= 0.1.0)
       rack (>= 3.0.0, < 4)
     rainbow (3.1.1)
+    rchardet (1.8.0)
     regexp_parser (2.9.0)
     rest-client (2.0.2)
       http-cookie (>= 1.0.2, < 2.0)
@@ -91,6 +95,7 @@ PLATFORMS
   x86_64-darwin-21
 
 DEPENDENCIES
+  git (~> 1.19)
   rspotify
   rubocop
   ruby-lsp
