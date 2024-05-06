@@ -8,7 +8,7 @@ require 'date'
 def main
   repo = Git.open('.')
 
-  artist_id = '6lcwlkAjBPSKnFBZjjZFJs'
+  artist_id = ARGV.first
   input_path = "output/#{artist_id}.json"
   output_path = "output/history_#{artist_id}.json"
 
