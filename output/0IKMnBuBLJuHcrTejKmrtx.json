@@ -1,0 +1,33 @@
+{
+  "id": "0IKMnBuBLJuHcrTejKmrtx",
+  "name": "Fynch",
+  "uri": "spotify:artist:0IKMnBuBLJuHcrTejKmrtx",
+  "followers": {
+    "href": null,
+    "total": 986
+  },
+  "genres": [
+    "irish hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb190088b132229ef2f4c18af2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174190088b132229ef2f4c18af2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178190088b132229ef2f4c18af2",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0IKMnBuBLJuHcrTejKmrtx"
+  }
+}

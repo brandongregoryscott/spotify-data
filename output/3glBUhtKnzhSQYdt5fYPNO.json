@@ -1,0 +1,33 @@
+{
+  "id": "3glBUhtKnzhSQYdt5fYPNO",
+  "name": "osei",
+  "uri": "spotify:artist:3glBUhtKnzhSQYdt5fYPNO",
+  "followers": {
+    "href": null,
+    "total": 729
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb08ea9093960ef63d7cb326e5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517408ea9093960ef63d7cb326e5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17808ea9093960ef63d7cb326e5",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3glBUhtKnzhSQYdt5fYPNO"
+  }
+}

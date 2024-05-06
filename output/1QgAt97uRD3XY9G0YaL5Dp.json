@@ -1,0 +1,33 @@
+{
+  "id": "1QgAt97uRD3XY9G0YaL5Dp",
+  "name": "McKay",
+  "uri": "spotify:artist:1QgAt97uRD3XY9G0YaL5Dp",
+  "followers": {
+    "href": null,
+    "total": 769
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcf78004bf02ecbf593107009",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cf78004bf02ecbf593107009",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cf78004bf02ecbf593107009",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1QgAt97uRD3XY9G0YaL5Dp"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7zAa9GdmlQ0GZT5mUQR0OJ",
+  "name": "Hannah Stone",
+  "uri": "spotify:artist:7zAa9GdmlQ0GZT5mUQR0OJ",
+  "followers": {
+    "href": null,
+    "total": 524
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb38361402c5af8d453f99dcef",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517438361402c5af8d453f99dcef",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17838361402c5af8d453f99dcef",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7zAa9GdmlQ0GZT5mUQR0OJ"
+  }
+}

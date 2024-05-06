@@ -1,0 +1,36 @@
+{
+  "id": "0GYgVB8HTSyBEdmjCC6hu3",
+  "name": "Dolphin",
+  "uri": "spotify:artist:0GYgVB8HTSyBEdmjCC6hu3",
+  "followers": {
+    "href": null,
+    "total": 2905
+  },
+  "genres": [
+    "darkstep",
+    "doomcore",
+    "industrial hardcore",
+    "russian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd772e0fecb5f9f8b1bdcad5c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d772e0fecb5f9f8b1bdcad5c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d772e0fecb5f9f8b1bdcad5c",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0GYgVB8HTSyBEdmjCC6hu3"
+  }
+}

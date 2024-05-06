@@ -1,0 +1,34 @@
+{
+  "id": "3NF6UnD0jD8UYkhRVmpf9O",
+  "name": "Opiate",
+  "uri": "spotify:artist:3NF6UnD0jD8UYkhRVmpf9O",
+  "followers": {
+    "href": null,
+    "total": 3391
+  },
+  "genres": [
+    "danish experimental",
+    "indie electronica"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dfafa75bb59dbf6bcdd8522a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dfafa75bb59dbf6bcdd8522a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dfafa75bb59dbf6bcdd8522a",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3NF6UnD0jD8UYkhRVmpf9O"
+  }
+}

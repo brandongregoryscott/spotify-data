@@ -1,0 +1,33 @@
+{
+  "id": "5LhL7xtYHfcpJiuj8Aj9Gp",
+  "name": "Amerta",
+  "uri": "spotify:artist:5LhL7xtYHfcpJiuj8Aj9Gp",
+  "followers": {
+    "href": null,
+    "total": 3434
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb01f8fcc5759846ae6fdfa4b7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517401f8fcc5759846ae6fdfa4b7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17801f8fcc5759846ae6fdfa4b7",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5LhL7xtYHfcpJiuj8Aj9Gp"
+  }
+}

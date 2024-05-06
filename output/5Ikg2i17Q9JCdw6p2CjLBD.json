@@ -1,0 +1,33 @@
+{
+  "id": "5Ikg2i17Q9JCdw6p2CjLBD",
+  "name": "oilcolor",
+  "uri": "spotify:artist:5Ikg2i17Q9JCdw6p2CjLBD",
+  "followers": {
+    "href": null,
+    "total": 1001
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb646162e3fff7e2cf7220c11b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174646162e3fff7e2cf7220c11b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178646162e3fff7e2cf7220c11b",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Ikg2i17Q9JCdw6p2CjLBD"
+  }
+}

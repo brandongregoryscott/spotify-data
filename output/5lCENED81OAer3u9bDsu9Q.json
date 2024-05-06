@@ -1,0 +1,33 @@
+{
+  "id": "5lCENED81OAer3u9bDsu9Q",
+  "name": "Worldwide Wednesday",
+  "uri": "spotify:artist:5lCENED81OAer3u9bDsu9Q",
+  "followers": {
+    "href": null,
+    "total": 288
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb547ed8c4b7f0c1563de85099",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174547ed8c4b7f0c1563de85099",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178547ed8c4b7f0c1563de85099",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5lCENED81OAer3u9bDsu9Q"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4Q4A9IkD66GuC0iAw9zjR9",
+  "name": "Blueish",
+  "uri": "spotify:artist:4Q4A9IkD66GuC0iAw9zjR9",
+  "followers": {
+    "href": null,
+    "total": 249
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb44b6547d6ab1442224375ba9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517444b6547d6ab1442224375ba9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17844b6547d6ab1442224375ba9",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Q4A9IkD66GuC0iAw9zjR9"
+  }
+}

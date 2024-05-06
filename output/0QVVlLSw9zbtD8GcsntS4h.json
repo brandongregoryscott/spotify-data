@@ -1,0 +1,33 @@
+{
+  "id": "0QVVlLSw9zbtD8GcsntS4h",
+  "name": "Sledge",
+  "uri": "spotify:artist:0QVVlLSw9zbtD8GcsntS4h",
+  "followers": {
+    "href": null,
+    "total": 553
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf9148940fe5c02314e9639d0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f9148940fe5c02314e9639d0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f9148940fe5c02314e9639d0",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0QVVlLSw9zbtD8GcsntS4h"
+  }
+}

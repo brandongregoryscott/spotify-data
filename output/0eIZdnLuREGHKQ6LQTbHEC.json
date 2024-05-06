@@ -1,0 +1,33 @@
+{
+  "id": "0eIZdnLuREGHKQ6LQTbHEC",
+  "name": "Kauriinpää",
+  "uri": "spotify:artist:0eIZdnLuREGHKQ6LQTbHEC",
+  "followers": {
+    "href": null,
+    "total": 25
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb534165068eeb089a51a98f00",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174534165068eeb089a51a98f00",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178534165068eeb089a51a98f00",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0eIZdnLuREGHKQ6LQTbHEC"
+  }
+}

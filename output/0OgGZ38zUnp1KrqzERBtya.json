@@ -1,0 +1,33 @@
+{
+  "id": "0OgGZ38zUnp1KrqzERBtya",
+  "name": "The Local Art",
+  "uri": "spotify:artist:0OgGZ38zUnp1KrqzERBtya",
+  "followers": {
+    "href": null,
+    "total": 212
+  },
+  "genres": [
+    "japanese emo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27367154be1d1d0dcb167e0a22b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0267154be1d1d0dcb167e0a22b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485167154be1d1d0dcb167e0a22b",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0OgGZ38zUnp1KrqzERBtya"
+  }
+}

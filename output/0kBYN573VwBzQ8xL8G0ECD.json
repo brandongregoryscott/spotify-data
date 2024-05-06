@@ -1,0 +1,34 @@
+{
+  "id": "0kBYN573VwBzQ8xL8G0ECD",
+  "name": "22Cats",
+  "uri": "spotify:artist:0kBYN573VwBzQ8xL8G0ECD",
+  "followers": {
+    "href": null,
+    "total": 1555
+  },
+  "genres": [
+    "chinese indie rock",
+    "hong kong indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27340c31a3413bae97347714206",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0240c31a3413bae97347714206",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485140c31a3413bae97347714206",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0kBYN573VwBzQ8xL8G0ECD"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6bYrq1Uxd15cMGbmcZCLMM",
+  "name": "Undertekst",
+  "uri": "spotify:artist:6bYrq1Uxd15cMGbmcZCLMM",
+  "followers": {
+    "href": null,
+    "total": 4587
+  },
+  "genres": [
+    "aarhus indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc455afa73221e5fcc9ff626b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c455afa73221e5fcc9ff626b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c455afa73221e5fcc9ff626b",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6bYrq1Uxd15cMGbmcZCLMM"
+  }
+}

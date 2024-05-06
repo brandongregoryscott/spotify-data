@@ -1,0 +1,33 @@
+{
+  "id": "15wLIYAwoV0rBmroMp3VHz",
+  "name": "Obungus",
+  "uri": "spotify:artist:15wLIYAwoV0rBmroMp3VHz",
+  "followers": {
+    "href": null,
+    "total": 2116
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd0d6d71f2653c21ea06a6cb4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d0d6d71f2653c21ea06a6cb4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d0d6d71f2653c21ea06a6cb4",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/15wLIYAwoV0rBmroMp3VHz"
+  }
+}

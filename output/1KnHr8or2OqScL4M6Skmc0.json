@@ -1,0 +1,33 @@
+{
+  "id": "1KnHr8or2OqScL4M6Skmc0",
+  "name": "Lanza",
+  "uri": "spotify:artist:1KnHr8or2OqScL4M6Skmc0",
+  "followers": {
+    "href": null,
+    "total": 2532
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb77915494b85cfc5b464a4130",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517477915494b85cfc5b464a4130",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17877915494b85cfc5b464a4130",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1KnHr8or2OqScL4M6Skmc0"
+  }
+}

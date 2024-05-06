@@ -4,12 +4,13 @@
   "uri": "spotify:artist:1RUYZZ0nOP43qnDtey0cKd",
   "followers": {
     "href": null,
-    "total": 40764
+    "total": 40896
   },
   "genres": [
     "canadian indie",
     "diy emo",
-    "midwest emo"
+    "midwest emo",
+    "screamo"
   ],
   "images": [
     {
@@ -28,7 +29,7 @@
       "width": 64
     }
   ],
-  "popularity": 35,
+  "popularity": 36,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/1RUYZZ0nOP43qnDtey0cKd"
   }

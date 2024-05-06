@@ -1,0 +1,33 @@
+{
+  "id": "2kkYb86uYeuIEXnu6ibW4N",
+  "name": "Beforeyou",
+  "uri": "spotify:artist:2kkYb86uYeuIEXnu6ibW4N",
+  "followers": {
+    "href": null,
+    "total": 383
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfffa13616a3467b407e07ceb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fffa13616a3467b407e07ceb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fffa13616a3467b407e07ceb",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2kkYb86uYeuIEXnu6ibW4N"
+  }
+}

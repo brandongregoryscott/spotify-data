@@ -1,0 +1,33 @@
+{
+  "id": "3fNmLh7HRq2GZDkrasRCDS",
+  "name": "774ma.",
+  "uri": "spotify:artist:3fNmLh7HRq2GZDkrasRCDS",
+  "followers": {
+    "href": null,
+    "total": 71
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe067c4b47eed26b6355f52a2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e067c4b47eed26b6355f52a2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e067c4b47eed26b6355f52a2",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3fNmLh7HRq2GZDkrasRCDS"
+  }
+}

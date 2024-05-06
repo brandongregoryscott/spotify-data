@@ -1,0 +1,33 @@
+{
+  "id": "2IPA995TCr3QXODCbQ4Y5P",
+  "name": "Wonder World",
+  "uri": "spotify:artist:2IPA995TCr3QXODCbQ4Y5P",
+  "followers": {
+    "href": null,
+    "total": 281
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273daea93dfc445ae077e8e3b30",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02daea93dfc445ae077e8e3b30",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851daea93dfc445ae077e8e3b30",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2IPA995TCr3QXODCbQ4Y5P"
+  }
+}

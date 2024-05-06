@@ -1,0 +1,33 @@
+{
+  "id": "6fJbrwhIJOPFEqgJY7g9C5",
+  "name": "Engage",
+  "uri": "spotify:artist:6fJbrwhIJOPFEqgJY7g9C5",
+  "followers": {
+    "href": null,
+    "total": 555
+  },
+  "genres": [
+    "australian hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebba6b153cccef3f64da2cd484",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ba6b153cccef3f64da2cd484",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ba6b153cccef3f64da2cd484",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6fJbrwhIJOPFEqgJY7g9C5"
+  }
+}

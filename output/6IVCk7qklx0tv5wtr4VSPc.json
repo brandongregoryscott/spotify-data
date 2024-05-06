@@ -1,0 +1,33 @@
+{
+  "id": "6IVCk7qklx0tv5wtr4VSPc",
+  "name": "Gotch",
+  "uri": "spotify:artist:6IVCk7qklx0tv5wtr4VSPc",
+  "followers": {
+    "href": null,
+    "total": 16895
+  },
+  "genres": [
+    "city pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebad55e115b1216859a51e4d62",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ad55e115b1216859a51e4d62",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ad55e115b1216859a51e4d62",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc"
+  }
+}

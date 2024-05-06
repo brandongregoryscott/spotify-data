@@ -1,0 +1,33 @@
+{
+  "id": "5opWrInoajKzOgorpVBTJc",
+  "name": "Blikfang",
+  "uri": "spotify:artist:5opWrInoajKzOgorpVBTJc",
+  "followers": {
+    "href": null,
+    "total": 873
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb97854a187c25ab6853f10c25",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517497854a187c25ab6853f10c25",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17897854a187c25ab6853f10c25",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5opWrInoajKzOgorpVBTJc"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1j8oOyzUsTqSTXaZx6PQXA",
+  "name": "Simulacixn",
+  "uri": "spotify:artist:1j8oOyzUsTqSTXaZx6PQXA",
+  "followers": {
+    "href": null,
+    "total": 141
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebad2751011c105d0da354eb6f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ad2751011c105d0da354eb6f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ad2751011c105d0da354eb6f",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1j8oOyzUsTqSTXaZx6PQXA"
+  }
+}

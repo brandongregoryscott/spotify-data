@@ -1,0 +1,33 @@
+{
+  "id": "5iqtjaKco1oUuo6HNcLj2v",
+  "name": "Ulk",
+  "uri": "spotify:artist:5iqtjaKco1oUuo6HNcLj2v",
+  "followers": {
+    "href": null,
+    "total": 3005
+  },
+  "genres": [
+    "dungeon synth"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb93c1722867c2fd6f711b3a6f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517493c1722867c2fd6f711b3a6f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17893c1722867c2fd6f711b3a6f",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5iqtjaKco1oUuo6HNcLj2v"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2tKIzZnbrNVtgyxye3uoZc",
+  "name": "Blacktop",
+  "uri": "spotify:artist:2tKIzZnbrNVtgyxye3uoZc",
+  "followers": {
+    "href": null,
+    "total": 363
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb2e934fb08aa11760c9189931",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051742e934fb08aa11760c9189931",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1782e934fb08aa11760c9189931",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2tKIzZnbrNVtgyxye3uoZc"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "03TQLKoVEymSeEeIVFADG7",
+  "name": "benjaialgo",
+  "uri": "spotify:artist:03TQLKoVEymSeEeIVFADG7",
+  "followers": {
+    "href": null,
+    "total": 215
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb477e5044e5885e5f76b64faf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174477e5044e5885e5f76b64faf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178477e5044e5885e5f76b64faf",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03TQLKoVEymSeEeIVFADG7"
+  }
+}

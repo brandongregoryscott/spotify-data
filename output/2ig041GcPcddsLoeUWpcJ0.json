@@ -1,0 +1,34 @@
+{
+  "id": "2ig041GcPcddsLoeUWpcJ0",
+  "name": "Douglas Germano",
+  "uri": "spotify:artist:2ig041GcPcddsLoeUWpcJ0",
+  "followers": {
+    "href": null,
+    "total": 24514
+  },
+  "genres": [
+    "nova mpb",
+    "samba paulista"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdc2a720bfd3e4a18470e1c43",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dc2a720bfd3e4a18470e1c43",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dc2a720bfd3e4a18470e1c43",
+      "width": 160
+    }
+  ],
+  "popularity": 44,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ig041GcPcddsLoeUWpcJ0"
+  }
+}

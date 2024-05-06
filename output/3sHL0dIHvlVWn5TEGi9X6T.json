@@ -1,0 +1,33 @@
+{
+  "id": "3sHL0dIHvlVWn5TEGi9X6T",
+  "name": "Carán",
+  "uri": "spotify:artist:3sHL0dIHvlVWn5TEGi9X6T",
+  "followers": {
+    "href": null,
+    "total": 118
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc6879e5b73bc8d74f6f1a615",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c6879e5b73bc8d74f6f1a615",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c6879e5b73bc8d74f6f1a615",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3sHL0dIHvlVWn5TEGi9X6T"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3Z1ArowingijWbVesn0aON",
+  "name": "Pink Frog",
+  "uri": "spotify:artist:3Z1ArowingijWbVesn0aON",
+  "followers": {
+    "href": null,
+    "total": 15338
+  },
+  "genres": [
+    "vietnamese singer-songwriter"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb24c2b8db10441f141b6d9b36",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517424c2b8db10441f141b6d9b36",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17824c2b8db10441f141b6d9b36",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Z1ArowingijWbVesn0aON"
+  }
+}

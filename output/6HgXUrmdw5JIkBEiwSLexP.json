@@ -1,0 +1,33 @@
+{
+  "id": "6HgXUrmdw5JIkBEiwSLexP",
+  "name": "Polygon Matic",
+  "uri": "spotify:artist:6HgXUrmdw5JIkBEiwSLexP",
+  "followers": {
+    "href": null,
+    "total": 107
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba1fecbbb439b85cc37f82644",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a1fecbbb439b85cc37f82644",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a1fecbbb439b85cc37f82644",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6HgXUrmdw5JIkBEiwSLexP"
+  }
+}

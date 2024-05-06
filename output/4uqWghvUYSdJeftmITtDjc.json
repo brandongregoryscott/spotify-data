@@ -1,0 +1,33 @@
+{
+  "id": "4uqWghvUYSdJeftmITtDjc",
+  "name": "Sagitta",
+  "uri": "spotify:artist:4uqWghvUYSdJeftmITtDjc",
+  "followers": {
+    "href": null,
+    "total": 66
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b3a8f161a924b4f3580e9037",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b3a8f161a924b4f3580e9037",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b3a8f161a924b4f3580e9037",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4uqWghvUYSdJeftmITtDjc"
+  }
+}

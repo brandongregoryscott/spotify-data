@@ -1,0 +1,33 @@
+{
+  "id": "2tGi3flDueKAWtThOESXo5",
+  "name": "Stéphane Tétreault",
+  "uri": "spotify:artist:2tGi3flDueKAWtThOESXo5",
+  "followers": {
+    "href": null,
+    "total": 1380
+  },
+  "genres": [
+    "classical cello"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb21d4d9ae86846c347b9ea3a5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517421d4d9ae86846c347b9ea3a5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17821d4d9ae86846c347b9ea3a5",
+      "width": 160
+    }
+  ],
+  "popularity": 37,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2tGi3flDueKAWtThOESXo5"
+  }
+}

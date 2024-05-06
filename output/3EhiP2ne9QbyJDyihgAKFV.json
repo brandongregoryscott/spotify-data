@@ -1,0 +1,33 @@
+{
+  "id": "3EhiP2ne9QbyJDyihgAKFV",
+  "name": "Halisca",
+  "uri": "spotify:artist:3EhiP2ne9QbyJDyihgAKFV",
+  "followers": {
+    "href": null,
+    "total": 403
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9002b1a7df2511d320b5baeb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051749002b1a7df2511d320b5baeb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1789002b1a7df2511d320b5baeb",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3EhiP2ne9QbyJDyihgAKFV"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1FrkvnXBXoACJ7neycguPC",
+  "name": "Koro",
+  "uri": "spotify:artist:1FrkvnXBXoACJ7neycguPC",
+  "followers": {
+    "href": null,
+    "total": 219
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bc765853a82a23d3956082f0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bc765853a82a23d3956082f0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bc765853a82a23d3956082f0",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1FrkvnXBXoACJ7neycguPC"
+  }
+}

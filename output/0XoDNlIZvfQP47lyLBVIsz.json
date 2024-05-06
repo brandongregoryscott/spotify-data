@@ -1,0 +1,33 @@
+{
+  "id": "0XoDNlIZvfQP47lyLBVIsz",
+  "name": "Zo!",
+  "uri": "spotify:artist:0XoDNlIZvfQP47lyLBVIsz",
+  "followers": {
+    "href": null,
+    "total": 38060
+  },
+  "genres": [
+    "neo r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb99c71d76b4b47b62672a0d6b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517499c71d76b4b47b62672a0d6b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17899c71d76b4b47b62672a0d6b",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0XoDNlIZvfQP47lyLBVIsz"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0JyemzgGXetpI8hOXRjMEs",
+  "name": "SPLASH",
+  "uri": "spotify:artist:0JyemzgGXetpI8hOXRjMEs",
+  "followers": {
+    "href": null,
+    "total": 243
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27327b83ee2abb8ec835f1152f9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0227b83ee2abb8ec835f1152f9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485127b83ee2abb8ec835f1152f9",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0JyemzgGXetpI8hOXRjMEs"
+  }
+}

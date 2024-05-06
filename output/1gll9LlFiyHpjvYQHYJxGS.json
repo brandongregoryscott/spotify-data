@@ -1,0 +1,33 @@
+{
+  "id": "1gll9LlFiyHpjvYQHYJxGS",
+  "name": "m0thlab",
+  "uri": "spotify:artist:1gll9LlFiyHpjvYQHYJxGS",
+  "followers": {
+    "href": null,
+    "total": 51
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb12a8f000932906e69f75fef",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b12a8f000932906e69f75fef",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b12a8f000932906e69f75fef",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1gll9LlFiyHpjvYQHYJxGS"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3yPJMteGXOCdtnIZwxnUuW",
+  "name": "Californicks",
+  "uri": "spotify:artist:3yPJMteGXOCdtnIZwxnUuW",
+  "followers": {
+    "href": null,
+    "total": 1031
+  },
+  "genres": [
+    "rock abc paulista"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd00615dedb1ff601279873b9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d00615dedb1ff601279873b9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d00615dedb1ff601279873b9",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3yPJMteGXOCdtnIZwxnUuW"
+  }
+}

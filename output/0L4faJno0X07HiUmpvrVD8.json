@@ -1,0 +1,33 @@
+{
+  "id": "0L4faJno0X07HiUmpvrVD8",
+  "name": "Complex",
+  "uri": "spotify:artist:0L4faJno0X07HiUmpvrVD8",
+  "followers": {
+    "href": null,
+    "total": 448
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebad9cb1f9ab91b7f10239423b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ad9cb1f9ab91b7f10239423b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ad9cb1f9ab91b7f10239423b",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0L4faJno0X07HiUmpvrVD8"
+  }
+}

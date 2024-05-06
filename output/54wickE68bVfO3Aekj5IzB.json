@@ -1,0 +1,33 @@
+{
+  "id": "54wickE68bVfO3Aekj5IzB",
+  "name": "TQ",
+  "uri": "spotify:artist:54wickE68bVfO3Aekj5IzB",
+  "followers": {
+    "href": null,
+    "total": 733
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb85047d000caeb6022d9b9944",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517485047d000caeb6022d9b9944",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17885047d000caeb6022d9b9944",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/54wickE68bVfO3Aekj5IzB"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1v1x2TB3HXJOBqL92uxEFq",
+  "name": "Bunny's Whiskey",
+  "uri": "spotify:artist:1v1x2TB3HXJOBqL92uxEFq",
+  "followers": {
+    "href": null,
+    "total": 770
+  },
+  "genres": [
+    "rock viet"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb52281b05ab63c5f5bff07cd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b52281b05ab63c5f5bff07cd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b52281b05ab63c5f5bff07cd",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1v1x2TB3HXJOBqL92uxEFq"
+  }
+}

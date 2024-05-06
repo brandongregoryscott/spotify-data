@@ -1,0 +1,33 @@
+{
+  "id": "16TZB4GOR6xrudSqTvIfJA",
+  "name": "Krone",
+  "uri": "spotify:artist:16TZB4GOR6xrudSqTvIfJA",
+  "followers": {
+    "href": null,
+    "total": 470
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bacd3b587e4005718be6debe",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022c5637e930594fe319910ccd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bacd3b587e4005718be6debe",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/16TZB4GOR6xrudSqTvIfJA"
+  }
+}

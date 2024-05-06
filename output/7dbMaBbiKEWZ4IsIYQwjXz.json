@@ -1,0 +1,33 @@
+{
+  "id": "7dbMaBbiKEWZ4IsIYQwjXz",
+  "name": "amyu",
+  "uri": "spotify:artist:7dbMaBbiKEWZ4IsIYQwjXz",
+  "followers": {
+    "href": null,
+    "total": 523
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273006b3c1126f322832ff6fe0a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02006b3c1126f322832ff6fe0a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851006b3c1126f322832ff6fe0a",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7dbMaBbiKEWZ4IsIYQwjXz"
+  }
+}

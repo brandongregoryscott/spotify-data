@@ -1,0 +1,33 @@
+{
+  "id": "4V8kb7B6dxkhG25N3ObVSV",
+  "name": "Upstate",
+  "uri": "spotify:artist:4V8kb7B6dxkhG25N3ObVSV",
+  "followers": {
+    "href": null,
+    "total": 2446
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb765435ab86c7e8250c1e99eb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174765435ab86c7e8250c1e99eb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178765435ab86c7e8250c1e99eb",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4V8kb7B6dxkhG25N3ObVSV"
+  }
+}

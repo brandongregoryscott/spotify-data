@@ -1,0 +1,33 @@
+{
+  "id": "4sIuoDOzSlBqeiNJl631zX",
+  "name": "The 502s",
+  "uri": "spotify:artist:4sIuoDOzSlBqeiNJl631zX",
+  "followers": {
+    "href": null,
+    "total": 172816
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdba35a353bb7deabeb531747",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dba35a353bb7deabeb531747",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dba35a353bb7deabeb531747",
+      "width": 160
+    }
+  ],
+  "popularity": 57,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+  }
+}

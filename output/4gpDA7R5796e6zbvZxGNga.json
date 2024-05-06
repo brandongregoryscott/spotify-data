@@ -4,12 +4,13 @@
   "uri": "spotify:artist:4gpDA7R5796e6zbvZxGNga",
   "followers": {
     "href": null,
-    "total": 146012
+    "total": 146295
   },
   "genres": [
     "chicago rap",
     "dirty south rap",
-    "hip pop"
+    "hip pop",
+    "southern hip hop"
   ],
   "images": [
     {
@@ -33,7 +34,7 @@
       "width": 64
     }
   ],
-  "popularity": 48,
+  "popularity": 49,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga"
   }

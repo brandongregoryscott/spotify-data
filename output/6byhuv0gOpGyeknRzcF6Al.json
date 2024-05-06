@@ -1,0 +1,33 @@
+{
+  "id": "6byhuv0gOpGyeknRzcF6Al",
+  "name": "Triš",
+  "uri": "spotify:artist:6byhuv0gOpGyeknRzcF6Al",
+  "followers": {
+    "href": null,
+    "total": 265
+  },
+  "genres": [
+    "ukrainian techno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb7fc0eb024ac576a50e5e0b8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b7fc0eb024ac576a50e5e0b8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b7fc0eb024ac576a50e5e0b8",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6byhuv0gOpGyeknRzcF6Al"
+  }
+}

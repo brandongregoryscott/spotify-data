@@ -1,0 +1,33 @@
+{
+  "id": "0DAbkoDfINtT5hdgUarJw9",
+  "name": "Reticulatus",
+  "uri": "spotify:artist:0DAbkoDfINtT5hdgUarJw9",
+  "followers": {
+    "href": null,
+    "total": 75
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb62c7e94a018a8befa24276bd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517462c7e94a018a8befa24276bd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17862c7e94a018a8befa24276bd",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0DAbkoDfINtT5hdgUarJw9"
+  }
+}

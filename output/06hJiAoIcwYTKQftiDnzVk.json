@@ -1,0 +1,33 @@
+{
+  "id": "06hJiAoIcwYTKQftiDnzVk",
+  "name": "moredull",
+  "uri": "spotify:artist:06hJiAoIcwYTKQftiDnzVk",
+  "followers": {
+    "href": null,
+    "total": 23
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb313ac767261d20915cc8c5a2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174313ac767261d20915cc8c5a2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178313ac767261d20915cc8c5a2",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/06hJiAoIcwYTKQftiDnzVk"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3ak5fTKu5X8h4yhvf5ThmF",
+  "name": "Gabe Goodman",
+  "uri": "spotify:artist:3ak5fTKu5X8h4yhvf5ThmF",
+  "followers": {
+    "href": null,
+    "total": 2125
+  },
+  "genres": [
+    "modern indie folk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb071137ee92a8e5fbc679483b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174071137ee92a8e5fbc679483b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178071137ee92a8e5fbc679483b",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ak5fTKu5X8h4yhvf5ThmF"
+  }
+}

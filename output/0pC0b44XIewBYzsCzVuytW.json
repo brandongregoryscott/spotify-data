@@ -1,0 +1,34 @@
+{
+  "id": "0pC0b44XIewBYzsCzVuytW",
+  "name": "Luis Ake",
+  "uri": "spotify:artist:0pC0b44XIewBYzsCzVuytW",
+  "followers": {
+    "href": null,
+    "total": 9695
+  },
+  "genres": [
+    "neue neue deutsche welle",
+    "stuttgart indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf740a75c97858af9e19a5eb7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f740a75c97858af9e19a5eb7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f740a75c97858af9e19a5eb7",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0pC0b44XIewBYzsCzVuytW"
+  }
+}

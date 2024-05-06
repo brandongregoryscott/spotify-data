@@ -1,0 +1,33 @@
+{
+  "id": "7uxWVIU74bXWQIeQBcVgIv",
+  "name": "Big Shot",
+  "uri": "spotify:artist:7uxWVIU74bXWQIeQBcVgIv",
+  "followers": {
+    "href": null,
+    "total": 379
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb502a4c4c8f1fff772faba588",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174502a4c4c8f1fff772faba588",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178502a4c4c8f1fff772faba588",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7uxWVIU74bXWQIeQBcVgIv"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2VmUYfQQekqcQJPOSlmY18",
+  "name": "Varjokuva",
+  "uri": "spotify:artist:2VmUYfQQekqcQJPOSlmY18",
+  "followers": {
+    "href": null,
+    "total": 2240
+  },
+  "genres": [
+    "classic iskelma",
+    "iskelma"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273532e2d6a0d79e7c3fbffc90f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02532e2d6a0d79e7c3fbffc90f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851532e2d6a0d79e7c3fbffc90f",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2VmUYfQQekqcQJPOSlmY18"
+  }
+}

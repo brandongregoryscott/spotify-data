@@ -1,0 +1,33 @@
+{
+  "id": "7HFWt59k2Ee7iBcq4DAKbx",
+  "name": "TILDA",
+  "uri": "spotify:artist:7HFWt59k2Ee7iBcq4DAKbx",
+  "followers": {
+    "href": null,
+    "total": 212
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb76afc00ef4c1c80d3d499014",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517476afc00ef4c1c80d3d499014",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17876afc00ef4c1c80d3d499014",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7HFWt59k2Ee7iBcq4DAKbx"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7BgEEdUXzVc0TbAecdEmEt",
+  "name": "CHANGE UP",
+  "uri": "spotify:artist:7BgEEdUXzVc0TbAecdEmEt",
+  "followers": {
+    "href": null,
+    "total": 760
+  },
+  "genres": [
+    "japanese melodic punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273893eb643c50ca1c64082a4d4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02893eb643c50ca1c64082a4d4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851893eb643c50ca1c64082a4d4",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7BgEEdUXzVc0TbAecdEmEt"
+  }
+}

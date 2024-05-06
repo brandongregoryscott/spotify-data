@@ -1,0 +1,33 @@
+{
+  "id": "5AZOpcP9M5xGm0soOJwbhW",
+  "name": "Signal",
+  "uri": "spotify:artist:5AZOpcP9M5xGm0soOJwbhW",
+  "followers": {
+    "href": null,
+    "total": 400
+  },
+  "genres": [
+    "microsound"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736de4d9a1b287fe95bb8c6c5a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026de4d9a1b287fe95bb8c6c5a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516de4d9a1b287fe95bb8c6c5a",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5AZOpcP9M5xGm0soOJwbhW"
+  }
+}

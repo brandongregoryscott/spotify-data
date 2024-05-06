@@ -1,0 +1,33 @@
+{
+  "id": "2cs7AEIdmEDL1QtcFFcYN2",
+  "name": "Triosk",
+  "uri": "spotify:artist:2cs7AEIdmEDL1QtcFFcYN2",
+  "followers": {
+    "href": null,
+    "total": 4603
+  },
+  "genres": [
+    "dark jazz"
+  ],
+  "images": [
+    {
+      "height": 500,
+      "url": "https://i.scdn.co/image/45ba31bf613e5a956fdc912116e5d2368ed3276c",
+      "width": 500
+    },
+    {
+      "height": 200,
+      "url": "https://i.scdn.co/image/cf75549b0d82f340982166a486e766751748bcbb",
+      "width": 200
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/5e2c0b7d4814851bb9e7d42bfcbdffda66d15668",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2cs7AEIdmEDL1QtcFFcYN2"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1iVYjMDYOEjPNnf6iKjfWM",
+  "name": "ドーベルメン01",
+  "uri": "spotify:artist:1iVYjMDYOEjPNnf6iKjfWM",
+  "followers": {
+    "href": null,
+    "total": 11
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27361e332feb6923edb2eb25dda",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0261e332feb6923edb2eb25dda",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485161e332feb6923edb2eb25dda",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1iVYjMDYOEjPNnf6iKjfWM"
+  }
+}

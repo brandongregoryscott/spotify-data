@@ -1,0 +1,33 @@
+{
+  "id": "0GeQbpBpLzkbF2JkW1qonI",
+  "name": "BUFFOUT",
+  "uri": "spotify:artist:0GeQbpBpLzkbF2JkW1qonI",
+  "followers": {
+    "href": null,
+    "total": 304
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb576de8cf97e7c2060abe8f9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b576de8cf97e7c2060abe8f9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b576de8cf97e7c2060abe8f9",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0GeQbpBpLzkbF2JkW1qonI"
+  }
+}

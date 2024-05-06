@@ -1,0 +1,33 @@
+{
+  "id": "3SiNQO7firVxSkV4NRbmDU",
+  "name": "Monomi",
+  "uri": "spotify:artist:3SiNQO7firVxSkV4NRbmDU",
+  "followers": {
+    "href": null,
+    "total": 2831
+  },
+  "genres": [
+    "wave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb83e7a7acc81bb8fc3e6e933",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b83e7a7acc81bb8fc3e6e933",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b83e7a7acc81bb8fc3e6e933",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3SiNQO7firVxSkV4NRbmDU"
+  }
+}

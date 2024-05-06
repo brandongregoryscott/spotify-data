@@ -1,0 +1,34 @@
+{
+  "id": "7IL5hGayYCP22e908cdChk",
+  "name": "Fred Steiner",
+  "uri": "spotify:artist:7IL5hGayYCP22e908cdChk",
+  "followers": {
+    "href": null,
+    "total": 1359
+  },
+  "genres": [
+    "classic soundtrack",
+    "theme"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27349fdfbdf1bcbe3392e895f7b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0249fdfbdf1bcbe3392e895f7b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485149fdfbdf1bcbe3392e895f7b",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7IL5hGayYCP22e908cdChk"
+  }
+}

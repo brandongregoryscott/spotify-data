@@ -1,0 +1,33 @@
+{
+  "id": "3C463rGXXXCWI9NzlMFS6u",
+  "name": "Joe Fight",
+  "uri": "spotify:artist:3C463rGXXXCWI9NzlMFS6u",
+  "followers": {
+    "href": null,
+    "total": 3407
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb21a68ce209409b0e9a10a9f4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517421a68ce209409b0e9a10a9f4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17821a68ce209409b0e9a10a9f4",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3C463rGXXXCWI9NzlMFS6u"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "6ghUikzOOIxNs8vb5MmVDp",
+  "name": "Lento",
+  "uri": "spotify:artist:6ghUikzOOIxNs8vb5MmVDp",
+  "followers": {
+    "href": null,
+    "total": 3249
+  },
+  "genres": [
+    "atmospheric sludge",
+    "drone metal",
+    "italian stoner rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27317b053e349da2caf3a10f28f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0217b053e349da2caf3a10f28f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485117b053e349da2caf3a10f28f",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ghUikzOOIxNs8vb5MmVDp"
+  }
+}

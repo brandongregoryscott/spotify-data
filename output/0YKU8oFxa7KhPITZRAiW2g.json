@@ -1,0 +1,33 @@
+{
+  "id": "0YKU8oFxa7KhPITZRAiW2g",
+  "name": "Meriwether",
+  "uri": "spotify:artist:0YKU8oFxa7KhPITZRAiW2g",
+  "followers": {
+    "href": null,
+    "total": 3046
+  },
+  "genres": [
+    "baton rouge indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb757f6b2cadb98a52cb6aeec8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174757f6b2cadb98a52cb6aeec8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178757f6b2cadb98a52cb6aeec8",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0YKU8oFxa7KhPITZRAiW2g"
+  }
+}

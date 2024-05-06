@@ -1,0 +1,34 @@
+{
+  "id": "6Dd3NScHWwnW6obMFbl1BH",
+  "name": "Daya",
+  "uri": "spotify:artist:6Dd3NScHWwnW6obMFbl1BH",
+  "followers": {
+    "href": null,
+    "total": 1587157
+  },
+  "genres": [
+    "alt z",
+    "pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebec8fc3ab9894dc3f5afef6f6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ec8fc3ab9894dc3f5afef6f6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ec8fc3ab9894dc3f5afef6f6",
+      "width": 160
+    }
+  ],
+  "popularity": 68,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+  }
+}

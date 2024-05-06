@@ -1,0 +1,33 @@
+{
+  "id": "2pDVTFtVeiP4RB1yh7BVnm",
+  "name": "KARATEL",
+  "uri": "spotify:artist:2pDVTFtVeiP4RB1yh7BVnm",
+  "followers": {
+    "href": null,
+    "total": 177
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733393dd2ce4e99b7783e7285a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023393dd2ce4e99b7783e7285a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513393dd2ce4e99b7783e7285a",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2pDVTFtVeiP4RB1yh7BVnm"
+  }
+}

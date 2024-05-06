@@ -1,0 +1,33 @@
+{
+  "id": "5EmT8U3SucK9KYXbVEdu5K",
+  "name": "Disq",
+  "uri": "spotify:artist:5EmT8U3SucK9KYXbVEdu5K",
+  "followers": {
+    "href": null,
+    "total": 14383
+  },
+  "genres": [
+    "wisconsin indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7f292759cd4e91056dac7810",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051747f292759cd4e91056dac7810",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1787f292759cd4e91056dac7810",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5EmT8U3SucK9KYXbVEdu5K"
+  }
+}

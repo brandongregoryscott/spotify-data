@@ -1,0 +1,33 @@
+{
+  "id": "5GGqghH2mTxfEiAqlfKddZ",
+  "name": "Renéw",
+  "uri": "spotify:artist:5GGqghH2mTxfEiAqlfKddZ",
+  "followers": {
+    "href": null,
+    "total": 301
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb01ae2c2802ef851ba9a5c11b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517401ae2c2802ef851ba9a5c11b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17801ae2c2802ef851ba9a5c11b",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5GGqghH2mTxfEiAqlfKddZ"
+  }
+}

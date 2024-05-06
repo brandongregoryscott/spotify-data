@@ -1,0 +1,33 @@
+{
+  "id": "1AT64PJc0geIUwVRqYqkTu",
+  "name": "Axol",
+  "uri": "spotify:artist:1AT64PJc0geIUwVRqYqkTu",
+  "followers": {
+    "href": null,
+    "total": 16420
+  },
+  "genres": [
+    "gaming edm"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb533fd9df5e54034a25ad8689",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174533fd9df5e54034a25ad8689",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178533fd9df5e54034a25ad8689",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1AT64PJc0geIUwVRqYqkTu"
+  }
+}

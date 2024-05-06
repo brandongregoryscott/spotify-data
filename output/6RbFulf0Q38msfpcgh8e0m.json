@@ -1,0 +1,34 @@
+{
+  "id": "6RbFulf0Q38msfpcgh8e0m",
+  "name": "Ember Falls",
+  "uri": "spotify:artist:6RbFulf0Q38msfpcgh8e0m",
+  "followers": {
+    "href": null,
+    "total": 21289
+  },
+  "genres": [
+    "electronic djent",
+    "finnish metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba8406532e63d57825205e082",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a8406532e63d57825205e082",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a8406532e63d57825205e082",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6RbFulf0Q38msfpcgh8e0m"
+  }
+}

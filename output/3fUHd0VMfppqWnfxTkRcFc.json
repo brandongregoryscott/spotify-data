@@ -1,0 +1,33 @@
+{
+  "id": "3fUHd0VMfppqWnfxTkRcFc",
+  "name": "dansyafi",
+  "uri": "spotify:artist:3fUHd0VMfppqWnfxTkRcFc",
+  "followers": {
+    "href": null,
+    "total": 1769
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe3710ce2965e2e1ff6569964",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e3710ce2965e2e1ff6569964",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e3710ce2965e2e1ff6569964",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3fUHd0VMfppqWnfxTkRcFc"
+  }
+}

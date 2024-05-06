@@ -1,0 +1,37 @@
+{
+  "id": "2I6NcAZDOhHl3B50ykrSsi",
+  "name": "Cabruêra",
+  "uri": "spotify:artist:2I6NcAZDOhHl3B50ykrSsi",
+  "followers": {
+    "href": null,
+    "total": 23422
+  },
+  "genres": [
+    "brazilian indie",
+    "manguebeat",
+    "musica paraibana",
+    "nova mpb",
+    "rock paraibano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb407025a8b14ac06bd1dc167d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174407025a8b14ac06bd1dc167d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178407025a8b14ac06bd1dc167d",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2I6NcAZDOhHl3B50ykrSsi"
+  }
+}

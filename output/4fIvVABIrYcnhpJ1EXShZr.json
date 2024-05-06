@@ -1,0 +1,33 @@
+{
+  "id": "4fIvVABIrYcnhpJ1EXShZr",
+  "name": "Forrest",
+  "uri": "spotify:artist:4fIvVABIrYcnhpJ1EXShZr",
+  "followers": {
+    "href": null,
+    "total": 73
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb92662590778e119d494b8b48",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517492662590778e119d494b8b48",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17892662590778e119d494b8b48",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4fIvVABIrYcnhpJ1EXShZr"
+  }
+}

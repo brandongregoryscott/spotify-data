@@ -1,0 +1,33 @@
+{
+  "id": "7kOdO4mHgjrHDDqac3eWpx",
+  "name": "Zerkey",
+  "uri": "spotify:artist:7kOdO4mHgjrHDDqac3eWpx",
+  "followers": {
+    "href": null,
+    "total": 60
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc6df8df0e41d49484f252191",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c6df8df0e41d49484f252191",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c6df8df0e41d49484f252191",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7kOdO4mHgjrHDDqac3eWpx"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "712yi1MvD5smxYenUKngMV",
+  "name": "Gamfam",
+  "uri": "spotify:artist:712yi1MvD5smxYenUKngMV",
+  "followers": {
+    "href": null,
+    "total": 1172
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb99f42970fdf60b22a701fa3e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517499f42970fdf60b22a701fa3e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17899f42970fdf60b22a701fa3e",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/712yi1MvD5smxYenUKngMV"
+  }
+}

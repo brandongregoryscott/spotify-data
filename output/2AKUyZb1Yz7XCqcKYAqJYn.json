@@ -1,0 +1,33 @@
+{
+  "id": "2AKUyZb1Yz7XCqcKYAqJYn",
+  "name": "Grayed Blue",
+  "uri": "spotify:artist:2AKUyZb1Yz7XCqcKYAqJYn",
+  "followers": {
+    "href": null,
+    "total": 107
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdf04facbad8d9ccb5fad83db",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174df04facbad8d9ccb5fad83db",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178df04facbad8d9ccb5fad83db",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2AKUyZb1Yz7XCqcKYAqJYn"
+  }
+}
