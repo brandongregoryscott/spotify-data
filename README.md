@@ -29,8 +29,8 @@ To expand an artist's history, run the `expand_artist_history.rb` script with th
 
 ```sh
 ruby scripts/expand_artist_history.rb 6lcwlkAjBPSKnFBZjjZFJs
+```
 
 ### Reference
 
 This repository was inspired by a project for tracking Spotify changes that I didn't end up finishing. A few years later, [_Git scraping: track changes over time by scraping to a Git repository_](https://simonwillison.net/2020/Oct/9/git-scraping/) by Simon Willison showed up on HackerNews and inspired me to implement the core of my idea.
-```
