@@ -4,13 +4,27 @@
   "uri": "spotify:artist:7egnpufOChm8FPzIZ5sJaj",
   "followers": {
     "href": null,
-    "total": 3150
+    "total": 3155
   },
   "genres": [
     "visual kei"
   ],
   "images": [
-
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27388a4e45eb47357c420d20e83",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ded2bb82571df7039376a46a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485188a4e45eb47357c420d20e83",
+      "width": 64
+    }
   ],
   "popularity": 9,
   "external_urls": {
