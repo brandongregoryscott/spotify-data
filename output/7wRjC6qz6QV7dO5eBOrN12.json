@@ -10,9 +10,23 @@
     "vocaloid rock"
   ],
   "images": [
-
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732ae1d7ce2e7356196d3708c4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0262d3843768d783e56f940e07",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485162d3843768d783e56f940e07",
+      "width": 64
+    }
   ],
-  "popularity": 5,
+  "popularity": 4,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/7wRjC6qz6QV7dO5eBOrN12"
   }
