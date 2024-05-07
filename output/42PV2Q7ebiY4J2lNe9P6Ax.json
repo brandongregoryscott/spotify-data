@@ -1,0 +1,33 @@
+{
+  "id": "42PV2Q7ebiY4J2lNe9P6Ax",
+  "name": "Arpia",
+  "uri": "spotify:artist:42PV2Q7ebiY4J2lNe9P6Ax",
+  "followers": {
+    "href": null,
+    "total": 194
+  },
+  "genres": [
+    "finnish pop punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb77483d4e273a1dee30fd729a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517477483d4e273a1dee30fd729a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17877483d4e273a1dee30fd729a",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/42PV2Q7ebiY4J2lNe9P6Ax"
+  }
+}

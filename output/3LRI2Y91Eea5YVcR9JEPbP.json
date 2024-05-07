@@ -1,0 +1,33 @@
+{
+  "id": "3LRI2Y91Eea5YVcR9JEPbP",
+  "name": "justMusic",
+  "uri": "spotify:artist:3LRI2Y91Eea5YVcR9JEPbP",
+  "followers": {
+    "href": null,
+    "total": 1635
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27375cee98713c83279eb0182af",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0256a8241fa4a524cc2d70cf86",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485175cee98713c83279eb0182af",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3LRI2Y91Eea5YVcR9JEPbP"
+  }
+}

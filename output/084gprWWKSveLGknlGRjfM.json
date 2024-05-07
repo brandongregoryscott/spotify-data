@@ -1,0 +1,33 @@
+{
+  "id": "084gprWWKSveLGknlGRjfM",
+  "name": "Trio Esperança",
+  "uri": "spotify:artist:084gprWWKSveLGknlGRjfM",
+  "followers": {
+    "href": null,
+    "total": 22721
+  },
+  "genres": [
+    "jovem guarda"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a9171007d2eb999c9cac82aa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a9171007d2eb999c9cac82aa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a9171007d2eb999c9cac82aa",
+      "width": 64
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/084gprWWKSveLGknlGRjfM"
+  }
+}

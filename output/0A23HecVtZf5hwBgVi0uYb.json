@@ -1,0 +1,33 @@
+{
+  "id": "0A23HecVtZf5hwBgVi0uYb",
+  "name": "Allen Haley",
+  "uri": "spotify:artist:0A23HecVtZf5hwBgVi0uYb",
+  "followers": {
+    "href": null,
+    "total": 5903
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb743cebefa4dccfa6ea5988a2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174743cebefa4dccfa6ea5988a2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178743cebefa4dccfa6ea5988a2",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0A23HecVtZf5hwBgVi0uYb"
+  }
+}

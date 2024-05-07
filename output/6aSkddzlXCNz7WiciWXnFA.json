@@ -1,0 +1,34 @@
+{
+  "id": "6aSkddzlXCNz7WiciWXnFA",
+  "name": "Iron Claw",
+  "uri": "spotify:artist:6aSkddzlXCNz7WiciWXnFA",
+  "followers": {
+    "href": null,
+    "total": 9313
+  },
+  "genres": [
+    "proto-metal",
+    "psychedelic blues-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27349e4be1632c6073d54e05344",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0249e4be1632c6073d54e05344",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485149e4be1632c6073d54e05344",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6aSkddzlXCNz7WiciWXnFA"
+  }
+}

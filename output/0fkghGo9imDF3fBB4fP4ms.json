@@ -1,0 +1,33 @@
+{
+  "id": "0fkghGo9imDF3fBB4fP4ms",
+  "name": "Sorrel",
+  "uri": "spotify:artist:0fkghGo9imDF3fBB4fP4ms",
+  "followers": {
+    "href": null,
+    "total": 248
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb88a2c313ef3d7226baff26bf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517488a2c313ef3d7226baff26bf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17888a2c313ef3d7226baff26bf",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0fkghGo9imDF3fBB4fP4ms"
+  }
+}

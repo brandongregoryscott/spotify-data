@@ -1,0 +1,33 @@
+{
+  "id": "2OojB6LcS3UPcCaNPMMaVN",
+  "name": "DECREATE",
+  "uri": "spotify:artist:2OojB6LcS3UPcCaNPMMaVN",
+  "followers": {
+    "href": null,
+    "total": 558
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb92267f2ea7e4a9c43bde90a1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517492267f2ea7e4a9c43bde90a1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17892267f2ea7e4a9c43bde90a1",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2OojB6LcS3UPcCaNPMMaVN"
+  }
+}

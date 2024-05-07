@@ -1,0 +1,36 @@
+{
+  "id": "02kJSzxNuaWGqwubyUba0Z",
+  "name": "G-Eazy",
+  "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z",
+  "followers": {
+    "href": null,
+    "total": 5267142
+  },
+  "genres": [
+    "indie pop rap",
+    "oakland hip hop",
+    "pop rap",
+    "rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb796c0db7acaf3f1b71d1e3b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b796c0db7acaf3f1b71d1e3b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b796c0db7acaf3f1b71d1e3b",
+      "width": 160
+    }
+  ],
+  "popularity": 75,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+  }
+}

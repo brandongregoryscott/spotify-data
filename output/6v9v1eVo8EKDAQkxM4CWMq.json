@@ -1,0 +1,33 @@
+{
+  "id": "6v9v1eVo8EKDAQkxM4CWMq",
+  "name": "Pale Amber",
+  "uri": "spotify:artist:6v9v1eVo8EKDAQkxM4CWMq",
+  "followers": {
+    "href": null,
+    "total": 288
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba3c655b1a31ae225a4a2daca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a3c655b1a31ae225a4a2daca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a3c655b1a31ae225a4a2daca",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6v9v1eVo8EKDAQkxM4CWMq"
+  }
+}

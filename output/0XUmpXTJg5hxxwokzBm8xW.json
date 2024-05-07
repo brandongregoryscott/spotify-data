@@ -1,0 +1,35 @@
+{
+  "id": "0XUmpXTJg5hxxwokzBm8xW",
+  "name": "This Way To The Egress",
+  "uri": "spotify:artist:0XUmpXTJg5hxxwokzBm8xW",
+  "followers": {
+    "href": null,
+    "total": 10704
+  },
+  "genres": [
+    "dark cabaret",
+    "gypsy punk",
+    "steampunk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dda0ad7c727b1e5a3dddfd5a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dda0ad7c727b1e5a3dddfd5a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dda0ad7c727b1e5a3dddfd5a",
+      "width": 64
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0XUmpXTJg5hxxwokzBm8xW"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "24sBUpWpLgfDzwJq03Ph8S",
+  "name": "Jönzzonligan",
+  "uri": "spotify:artist:24sBUpWpLgfDzwJq03Ph8S",
+  "followers": {
+    "href": null,
+    "total": 633
+  },
+  "genres": [
+    "swedish punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba7fbba11a1e3990d2ccc3d13",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a7fbba11a1e3990d2ccc3d13",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a7fbba11a1e3990d2ccc3d13",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S"
+  }
+}

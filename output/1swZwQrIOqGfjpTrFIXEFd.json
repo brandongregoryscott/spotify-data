@@ -1,0 +1,33 @@
+{
+  "id": "1swZwQrIOqGfjpTrFIXEFd",
+  "name": "Untitld",
+  "uri": "spotify:artist:1swZwQrIOqGfjpTrFIXEFd",
+  "followers": {
+    "href": null,
+    "total": 2487
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebda530b08b36c687a4bb50772",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174da530b08b36c687a4bb50772",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178da530b08b36c687a4bb50772",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1swZwQrIOqGfjpTrFIXEFd"
+  }
+}

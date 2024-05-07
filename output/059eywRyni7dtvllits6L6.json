@@ -1,0 +1,33 @@
+{
+  "id": "059eywRyni7dtvllits6L6",
+  "name": "Aidan Swank",
+  "uri": "spotify:artist:059eywRyni7dtvllits6L6",
+  "followers": {
+    "href": null,
+    "total": 4455
+  },
+  "genres": [
+    "scenecore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe71e8ebae5e7375edffa6759",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e71e8ebae5e7375edffa6759",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e71e8ebae5e7375edffa6759",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/059eywRyni7dtvllits6L6"
+  }
+}

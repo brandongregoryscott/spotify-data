@@ -1,0 +1,35 @@
+{
+  "id": "6HnFUvKuOXAxQBT7GI99yZ",
+  "name": "Toni Tornado",
+  "uri": "spotify:artist:6HnFUvKuOXAxQBT7GI99yZ",
+  "followers": {
+    "href": null,
+    "total": 22580
+  },
+  "genres": [
+    "brazilian boogie",
+    "brazilian soul",
+    "samba"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735ada3fcb5d50eff94c17d6b2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025ada3fcb5d50eff94c17d6b2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515ada3fcb5d50eff94c17d6b2",
+      "width": 64
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6HnFUvKuOXAxQBT7GI99yZ"
+  }
+}

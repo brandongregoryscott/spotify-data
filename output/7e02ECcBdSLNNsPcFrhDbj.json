@@ -1,0 +1,33 @@
+{
+  "id": "7e02ECcBdSLNNsPcFrhDbj",
+  "name": "Ongelma",
+  "uri": "spotify:artist:7e02ECcBdSLNNsPcFrhDbj",
+  "followers": {
+    "href": null,
+    "total": 204
+  },
+  "genres": [
+    "finnish punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd58e2cdac5966e187eb325c3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d58e2cdac5966e187eb325c3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d58e2cdac5966e187eb325c3",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7e02ECcBdSLNNsPcFrhDbj"
+  }
+}

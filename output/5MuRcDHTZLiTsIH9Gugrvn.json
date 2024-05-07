@@ -1,0 +1,33 @@
+{
+  "id": "5MuRcDHTZLiTsIH9Gugrvn",
+  "name": "Suzushiro",
+  "uri": "spotify:artist:5MuRcDHTZLiTsIH9Gugrvn",
+  "followers": {
+    "href": null,
+    "total": 665
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d036baf624e9649da35dd368",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d036baf624e9649da35dd368",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d036baf624e9649da35dd368",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5MuRcDHTZLiTsIH9Gugrvn"
+  }
+}

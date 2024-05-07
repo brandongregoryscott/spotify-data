@@ -1,0 +1,33 @@
+{
+  "id": "14kq5clfbhAyTMW29Cb7JZ",
+  "name": "SINK",
+  "uri": "spotify:artist:14kq5clfbhAyTMW29Cb7JZ",
+  "followers": {
+    "href": null,
+    "total": 136
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738dcc5a4ec358234b0efe0a0c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028dcc5a4ec358234b0efe0a0c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518dcc5a4ec358234b0efe0a0c",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/14kq5clfbhAyTMW29Cb7JZ"
+  }
+}

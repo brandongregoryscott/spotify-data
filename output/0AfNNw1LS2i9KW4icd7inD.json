@@ -1,0 +1,34 @@
+{
+  "id": "0AfNNw1LS2i9KW4icd7inD",
+  "name": "Fred Falke",
+  "uri": "spotify:artist:0AfNNw1LS2i9KW4icd7inD",
+  "followers": {
+    "href": null,
+    "total": 38999
+  },
+  "genres": [
+    "filter house",
+    "nu disco"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb903baf326cf61a683b31cdee",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174903baf326cf61a683b31cdee",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178903baf326cf61a683b31cdee",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD"
+  }
+}

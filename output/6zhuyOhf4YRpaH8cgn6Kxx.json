@@ -1,0 +1,33 @@
+{
+  "id": "6zhuyOhf4YRpaH8cgn6Kxx",
+  "name": "Costello",
+  "uri": "spotify:artist:6zhuyOhf4YRpaH8cgn6Kxx",
+  "followers": {
+    "href": null,
+    "total": 573
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb314014e1f7ffe9862fada1e7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174314014e1f7ffe9862fada1e7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178314014e1f7ffe9862fada1e7",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6zhuyOhf4YRpaH8cgn6Kxx"
+  }
+}

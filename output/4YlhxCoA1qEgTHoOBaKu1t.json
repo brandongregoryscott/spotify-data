@@ -1,0 +1,33 @@
+{
+  "id": "4YlhxCoA1qEgTHoOBaKu1t",
+  "name": "Magic Bronson",
+  "uri": "spotify:artist:4YlhxCoA1qEgTHoOBaKu1t",
+  "followers": {
+    "href": null,
+    "total": 16774
+  },
+  "genres": [
+    "la indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfc497817f962753d8d4b5e18",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fc497817f962753d8d4b5e18",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fc497817f962753d8d4b5e18",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4YlhxCoA1qEgTHoOBaKu1t"
+  }
+}

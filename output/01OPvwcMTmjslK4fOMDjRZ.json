@@ -1,0 +1,33 @@
+{
+  "id": "01OPvwcMTmjslK4fOMDjRZ",
+  "name": "Big Baby",
+  "uri": "spotify:artist:01OPvwcMTmjslK4fOMDjRZ",
+  "followers": {
+    "href": null,
+    "total": 30
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27372d06b0fb0aa87c2206f5f15",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0272d06b0fb0aa87c2206f5f15",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485172d06b0fb0aa87c2206f5f15",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01OPvwcMTmjslK4fOMDjRZ"
+  }
+}

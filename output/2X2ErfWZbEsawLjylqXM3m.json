@@ -1,0 +1,33 @@
+{
+  "id": "2X2ErfWZbEsawLjylqXM3m",
+  "name": "Yndling",
+  "uri": "spotify:artist:2X2ErfWZbEsawLjylqXM3m",
+  "followers": {
+    "href": null,
+    "total": 4039
+  },
+  "genres": [
+    "chill dream pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb05365ea9371edf86055e5d01",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517405365ea9371edf86055e5d01",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17805365ea9371edf86055e5d01",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m"
+  }
+}

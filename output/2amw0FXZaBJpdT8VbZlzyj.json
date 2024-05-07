@@ -1,0 +1,33 @@
+{
+  "id": "2amw0FXZaBJpdT8VbZlzyj",
+  "name": "icy genesis",
+  "uri": "spotify:artist:2amw0FXZaBJpdT8VbZlzyj",
+  "followers": {
+    "href": null,
+    "total": 517
+  },
+  "genres": [
+    "hyperpop en espanol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd8bf1514fcfd5b4db424b583",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d8bf1514fcfd5b4db424b583",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d8bf1514fcfd5b4db424b583",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2amw0FXZaBJpdT8VbZlzyj"
+  }
+}

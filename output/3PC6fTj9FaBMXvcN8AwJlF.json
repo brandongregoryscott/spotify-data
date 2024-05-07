@@ -1,0 +1,33 @@
+{
+  "id": "3PC6fTj9FaBMXvcN8AwJlF",
+  "name": "Ouu",
+  "uri": "spotify:artist:3PC6fTj9FaBMXvcN8AwJlF",
+  "followers": {
+    "href": null,
+    "total": 646
+  },
+  "genres": [
+    "estonian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4627a9d1f0137bfa5da56e9d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744627a9d1f0137bfa5da56e9d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784627a9d1f0137bfa5da56e9d",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3PC6fTj9FaBMXvcN8AwJlF"
+  }
+}

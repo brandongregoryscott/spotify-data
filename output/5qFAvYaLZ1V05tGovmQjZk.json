@@ -1,0 +1,33 @@
+{
+  "id": "5qFAvYaLZ1V05tGovmQjZk",
+  "name": "Boysin",
+  "uri": "spotify:artist:5qFAvYaLZ1V05tGovmQjZk",
+  "followers": {
+    "href": null,
+    "total": 404
+  },
+  "genres": [
+    "jacksonville indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebad1bec7ab9f9b4ca0a5963df",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ad1bec7ab9f9b4ca0a5963df",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ad1bec7ab9f9b4ca0a5963df",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5qFAvYaLZ1V05tGovmQjZk"
+  }
+}

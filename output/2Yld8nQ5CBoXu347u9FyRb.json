@@ -1,0 +1,33 @@
+{
+  "id": "2Yld8nQ5CBoXu347u9FyRb",
+  "name": "John Secondino",
+  "uri": "spotify:artist:2Yld8nQ5CBoXu347u9FyRb",
+  "followers": {
+    "href": null,
+    "total": 137
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba0002b61b609b968acf9a060",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a0002b61b609b968acf9a060",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a0002b61b609b968acf9a060",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Yld8nQ5CBoXu347u9FyRb"
+  }
+}

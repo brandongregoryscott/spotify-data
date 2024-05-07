@@ -1,0 +1,33 @@
+{
+  "id": "5KKeM6RPO28tdTSnoX8mEH",
+  "name": "Domain Brown",
+  "uri": "spotify:artist:5KKeM6RPO28tdTSnoX8mEH",
+  "followers": {
+    "href": null,
+    "total": 168
+  },
+  "genres": [
+    "chill abstract hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb312ad035bb26661917e6312b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174312ad035bb26661917e6312b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178312ad035bb26661917e6312b",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5KKeM6RPO28tdTSnoX8mEH"
+  }
+}

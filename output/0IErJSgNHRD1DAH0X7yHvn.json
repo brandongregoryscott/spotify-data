@@ -1,0 +1,33 @@
+{
+  "id": "0IErJSgNHRD1DAH0X7yHvn",
+  "name": "david hugo",
+  "uri": "spotify:artist:0IErJSgNHRD1DAH0X7yHvn",
+  "followers": {
+    "href": null,
+    "total": 86020
+  },
+  "genres": [
+    "modern indie pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb304b4bf29655b458a242558b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174304b4bf29655b458a242558b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178304b4bf29655b458a242558b",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn"
+  }
+}

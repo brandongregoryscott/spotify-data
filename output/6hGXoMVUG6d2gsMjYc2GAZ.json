@@ -1,0 +1,33 @@
+{
+  "id": "6hGXoMVUG6d2gsMjYc2GAZ",
+  "name": "Expiration Date",
+  "uri": "spotify:artist:6hGXoMVUG6d2gsMjYc2GAZ",
+  "followers": {
+    "href": null,
+    "total": 111
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd9559b8df604403c41d44552",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d9559b8df604403c41d44552",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d9559b8df604403c41d44552",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6hGXoMVUG6d2gsMjYc2GAZ"
+  }
+}

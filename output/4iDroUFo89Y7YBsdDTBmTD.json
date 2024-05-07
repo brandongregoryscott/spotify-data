@@ -1,0 +1,33 @@
+{
+  "id": "4iDroUFo89Y7YBsdDTBmTD",
+  "name": "Sueco",
+  "uri": "spotify:artist:4iDroUFo89Y7YBsdDTBmTD",
+  "followers": {
+    "href": null,
+    "total": 575479
+  },
+  "genres": [
+    "cali rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb00a58a0078b48ab93edcd0ed",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517400a58a0078b48ab93edcd0ed",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17800a58a0078b48ab93edcd0ed",
+      "width": 160
+    }
+  ],
+  "popularity": 57,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+  }
+}

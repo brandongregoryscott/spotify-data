@@ -1,0 +1,33 @@
+{
+  "id": "0mPiFtQynz01cwuBYNA87Z",
+  "name": "Eric Johanson",
+  "uri": "spotify:artist:0mPiFtQynz01cwuBYNA87Z",
+  "followers": {
+    "href": null,
+    "total": 5409
+  },
+  "genres": [
+    "modern blues rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcff13656696b156155226194",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cff13656696b156155226194",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cff13656696b156155226194",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z"
+  }
+}

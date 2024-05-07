@@ -1,0 +1,33 @@
+{
+  "id": "007bEsAFQUlqhRwPXinNrk",
+  "name": "Los P2",
+  "uri": "spotify:artist:007bEsAFQUlqhRwPXinNrk",
+  "followers": {
+    "href": null,
+    "total": 2778
+  },
+  "genres": [
+    "latin ska"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cf7eb2e9bb1808e0c7ffcf8c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cf7eb2e9bb1808e0c7ffcf8c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cf7eb2e9bb1808e0c7ffcf8c",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/007bEsAFQUlqhRwPXinNrk"
+  }
+}

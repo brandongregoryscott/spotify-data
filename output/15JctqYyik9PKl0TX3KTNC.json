@@ -1,0 +1,33 @@
+{
+  "id": "15JctqYyik9PKl0TX3KTNC",
+  "name": "Sinopia",
+  "uri": "spotify:artist:15JctqYyik9PKl0TX3KTNC",
+  "followers": {
+    "href": null,
+    "total": 20
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27337af8abf2a0d665144655294",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0237af8abf2a0d665144655294",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485137af8abf2a0d665144655294",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/15JctqYyik9PKl0TX3KTNC"
+  }
+}

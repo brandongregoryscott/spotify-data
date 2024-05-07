@@ -1,0 +1,33 @@
+{
+  "id": "5xPjItbSoIqRQzIBdwPbdi",
+  "name": "Añube",
+  "uri": "spotify:artist:5xPjItbSoIqRQzIBdwPbdi",
+  "followers": {
+    "href": null,
+    "total": 2538
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaaa478dd4fd4f73dee16ceeb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aaa478dd4fd4f73dee16ceeb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aaa478dd4fd4f73dee16ceeb",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5xPjItbSoIqRQzIBdwPbdi"
+  }
+}

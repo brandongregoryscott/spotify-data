@@ -1,0 +1,33 @@
+{
+  "id": "5jzmHcHM6la5EEnffjdOrC",
+  "name": "ultrasaturated",
+  "uri": "spotify:artist:5jzmHcHM6la5EEnffjdOrC",
+  "followers": {
+    "href": null,
+    "total": 4305
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8a257aa0adb37fa0683f2549",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051748a257aa0adb37fa0683f2549",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1788a257aa0adb37fa0683f2549",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5jzmHcHM6la5EEnffjdOrC"
+  }
+}

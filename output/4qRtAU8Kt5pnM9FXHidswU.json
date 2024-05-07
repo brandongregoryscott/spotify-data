@@ -1,0 +1,33 @@
+{
+  "id": "4qRtAU8Kt5pnM9FXHidswU",
+  "name": "Wels",
+  "uri": "spotify:artist:4qRtAU8Kt5pnM9FXHidswU",
+  "followers": {
+    "href": null,
+    "total": 254
+  },
+  "genres": [
+    "furry"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb32e28d4519cbaf66ce087f36",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517432e28d4519cbaf66ce087f36",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17832e28d4519cbaf66ce087f36",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4qRtAU8Kt5pnM9FXHidswU"
+  }
+}

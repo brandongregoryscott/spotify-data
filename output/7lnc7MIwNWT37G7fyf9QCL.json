@@ -1,0 +1,33 @@
+{
+  "id": "7lnc7MIwNWT37G7fyf9QCL",
+  "name": "Corpus",
+  "uri": "spotify:artist:7lnc7MIwNWT37G7fyf9QCL",
+  "followers": {
+    "href": null,
+    "total": 273
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb48073bc3849fec5c527f88f8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517448073bc3849fec5c527f88f8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17848073bc3849fec5c527f88f8",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7lnc7MIwNWT37G7fyf9QCL"
+  }
+}

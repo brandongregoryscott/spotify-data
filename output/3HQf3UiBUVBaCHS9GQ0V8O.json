@@ -1,0 +1,33 @@
+{
+  "id": "3HQf3UiBUVBaCHS9GQ0V8O",
+  "name": "Betty Grey",
+  "uri": "spotify:artist:3HQf3UiBUVBaCHS9GQ0V8O",
+  "followers": {
+    "href": null,
+    "total": 368
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd75e3a296d255f86617158a9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d75e3a296d255f86617158a9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d75e3a296d255f86617158a9",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3HQf3UiBUVBaCHS9GQ0V8O"
+  }
+}

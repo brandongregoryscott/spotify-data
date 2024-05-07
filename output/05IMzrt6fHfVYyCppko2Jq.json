@@ -1,0 +1,33 @@
+{
+  "id": "05IMzrt6fHfVYyCppko2Jq",
+  "name": "Mortemart",
+  "uri": "spotify:artist:05IMzrt6fHfVYyCppko2Jq",
+  "followers": {
+    "href": null,
+    "total": 257
+  },
+  "genres": [
+    "psicodelia mexicana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb47b6d6aaea7440a611afd33c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517447b6d6aaea7440a611afd33c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17847b6d6aaea7440a611afd33c",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05IMzrt6fHfVYyCppko2Jq"
+  }
+}

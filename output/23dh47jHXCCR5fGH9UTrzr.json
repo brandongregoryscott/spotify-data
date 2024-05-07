@@ -1,0 +1,33 @@
+{
+  "id": "23dh47jHXCCR5fGH9UTrzr",
+  "name": "dampszn",
+  "uri": "spotify:artist:23dh47jHXCCR5fGH9UTrzr",
+  "followers": {
+    "href": null,
+    "total": 4096
+  },
+  "genres": [
+    "sad rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd60580b3422a08c113680922",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d60580b3422a08c113680922",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d60580b3422a08c113680922",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/23dh47jHXCCR5fGH9UTrzr"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0kfTp25hiUS7ZzscKnl64h",
+  "name": "BADCA7",
+  "uri": "spotify:artist:0kfTp25hiUS7ZzscKnl64h",
+  "followers": {
+    "href": null,
+    "total": 188
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb39323cdc5b604635e6d75eff",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517439323cdc5b604635e6d75eff",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17839323cdc5b604635e6d75eff",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0kfTp25hiUS7ZzscKnl64h"
+  }
+}

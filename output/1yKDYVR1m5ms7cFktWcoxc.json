@@ -1,0 +1,33 @@
+{
+  "id": "1yKDYVR1m5ms7cFktWcoxc",
+  "name": "purge!",
+  "uri": "spotify:artist:1yKDYVR1m5ms7cFktWcoxc",
+  "followers": {
+    "href": null,
+    "total": 3266
+  },
+  "genres": [
+    "aesthetic rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb901a1451a8b2d5f466acd90a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174901a1451a8b2d5f466acd90a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178901a1451a8b2d5f466acd90a",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1yKDYVR1m5ms7cFktWcoxc"
+  }
+}

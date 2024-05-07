@@ -1,0 +1,33 @@
+{
+  "id": "73eAAfRkS2Vi4hx68oTJJE",
+  "name": "John K",
+  "uri": "spotify:artist:73eAAfRkS2Vi4hx68oTJJE",
+  "followers": {
+    "href": null,
+    "total": 279651
+  },
+  "genres": [
+    "singer-songwriter pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebafd8cf4703e0faa00543bf58",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174afd8cf4703e0faa00543bf58",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178afd8cf4703e0faa00543bf58",
+      "width": 160
+    }
+  ],
+  "popularity": 52,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
+  }
+}

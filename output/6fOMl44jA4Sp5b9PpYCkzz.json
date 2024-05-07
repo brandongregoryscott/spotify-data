@@ -1,0 +1,34 @@
+{
+  "id": "6fOMl44jA4Sp5b9PpYCkzz",
+  "name": "NF",
+  "uri": "spotify:artist:6fOMl44jA4Sp5b9PpYCkzz",
+  "followers": {
+    "href": null,
+    "total": 9765794
+  },
+  "genres": [
+    "hip hop",
+    "pop rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1cf142a710a2f3d9b7a62da1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051741cf142a710a2f3d9b7a62da1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1781cf142a710a2f3d9b7a62da1",
+      "width": 160
+    }
+  ],
+  "popularity": 75,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+  }
+}

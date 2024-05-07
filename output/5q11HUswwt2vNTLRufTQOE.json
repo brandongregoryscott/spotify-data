@@ -1,0 +1,33 @@
+{
+  "id": "5q11HUswwt2vNTLRufTQOE",
+  "name": "ZETALAU",
+  "uri": "spotify:artist:5q11HUswwt2vNTLRufTQOE",
+  "followers": {
+    "href": null,
+    "total": 350
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb91b29083a19a5bf7b6c7a641",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517491b29083a19a5bf7b6c7a641",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17891b29083a19a5bf7b6c7a641",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5q11HUswwt2vNTLRufTQOE"
+  }
+}

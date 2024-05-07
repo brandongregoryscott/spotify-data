@@ -1,0 +1,33 @@
+{
+  "id": "1hYSAZUsXHo5io3lCKRIXs",
+  "name": "Vet Hut",
+  "uri": "spotify:artist:1hYSAZUsXHo5io3lCKRIXs",
+  "followers": {
+    "href": null,
+    "total": 515
+  },
+  "genres": [
+    "swedish punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb07bf6bdd4c3b2c1fc736253f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517407bf6bdd4c3b2c1fc736253f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17807bf6bdd4c3b2c1fc736253f",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1hYSAZUsXHo5io3lCKRIXs"
+  }
+}

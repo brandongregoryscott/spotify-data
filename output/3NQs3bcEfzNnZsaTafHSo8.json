@@ -1,0 +1,35 @@
+{
+  "id": "3NQs3bcEfzNnZsaTafHSo8",
+  "name": "Harmjoy",
+  "uri": "spotify:artist:3NQs3bcEfzNnZsaTafHSo8",
+  "followers": {
+    "href": null,
+    "total": 1457
+  },
+  "genres": [
+    "dark electro",
+    "futurepop",
+    "neo-synthpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb141baa5065984522979437a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b141baa5065984522979437a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b141baa5065984522979437a",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3NQs3bcEfzNnZsaTafHSo8"
+  }
+}

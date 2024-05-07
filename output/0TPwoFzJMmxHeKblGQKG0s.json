@@ -1,0 +1,33 @@
+{
+  "id": "0TPwoFzJMmxHeKblGQKG0s",
+  "name": "Sunset Images",
+  "uri": "spotify:artist:0TPwoFzJMmxHeKblGQKG0s",
+  "followers": {
+    "href": null,
+    "total": 1456
+  },
+  "genres": [
+    "mexican post-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb782545997483f5c2b5a40f10",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174782545997483f5c2b5a40f10",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178782545997483f5c2b5a40f10",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0TPwoFzJMmxHeKblGQKG0s"
+  }
+}

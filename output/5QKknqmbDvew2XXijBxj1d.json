@@ -1,0 +1,33 @@
+{
+  "id": "5QKknqmbDvew2XXijBxj1d",
+  "name": "Potential Threat",
+  "uri": "spotify:artist:5QKknqmbDvew2XXijBxj1d",
+  "followers": {
+    "href": null,
+    "total": 443
+  },
+  "genres": [
+    "anarcho-punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734ae3f97922047ce7e1843b0b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024ae3f97922047ce7e1843b0b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514ae3f97922047ce7e1843b0b",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5QKknqmbDvew2XXijBxj1d"
+  }
+}

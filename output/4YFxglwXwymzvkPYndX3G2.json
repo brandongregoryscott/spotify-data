@@ -1,0 +1,33 @@
+{
+  "id": "4YFxglwXwymzvkPYndX3G2",
+  "name": "asiris",
+  "uri": "spotify:artist:4YFxglwXwymzvkPYndX3G2",
+  "followers": {
+    "href": null,
+    "total": 31048
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba1d33bf3991abc80d2c5e8e8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a1d33bf3991abc80d2c5e8e8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a1d33bf3991abc80d2c5e8e8",
+      "width": 160
+    }
+  ],
+  "popularity": 43,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2"
+  }
+}

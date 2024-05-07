@@ -1,0 +1,33 @@
+{
+  "id": "04tXG5MKD4JC88nNTC4Jl1",
+  "name": "Rigz",
+  "uri": "spotify:artist:04tXG5MKD4JC88nNTC4Jl1",
+  "followers": {
+    "href": null,
+    "total": 427
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273aaff8d529bf0bb2cbc486dba",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02aaff8d529bf0bb2cbc486dba",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851aaff8d529bf0bb2cbc486dba",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/04tXG5MKD4JC88nNTC4Jl1"
+  }
+}

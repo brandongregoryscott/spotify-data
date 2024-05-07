@@ -1,0 +1,33 @@
+{
+  "id": "4mXhrlNtKUXeY2UGc9l8ba",
+  "name": "Chimera Chimera!",
+  "uri": "spotify:artist:4mXhrlNtKUXeY2UGc9l8ba",
+  "followers": {
+    "href": null,
+    "total": 144
+  },
+  "genres": [
+    "furry"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb326309199f80e32c5d4b276b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174326309199f80e32c5d4b276b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178326309199f80e32c5d4b276b",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4mXhrlNtKUXeY2UGc9l8ba"
+  }
+}

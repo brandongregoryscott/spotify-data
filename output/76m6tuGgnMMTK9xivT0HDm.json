@@ -1,0 +1,33 @@
+{
+  "id": "76m6tuGgnMMTK9xivT0HDm",
+  "name": "Midiman",
+  "uri": "spotify:artist:76m6tuGgnMMTK9xivT0HDm",
+  "followers": {
+    "href": null,
+    "total": 101
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebadd5ddfcd33039fc28b35af1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174add5ddfcd33039fc28b35af1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178add5ddfcd33039fc28b35af1",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/76m6tuGgnMMTK9xivT0HDm"
+  }
+}

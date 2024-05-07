@@ -1,0 +1,33 @@
+{
+  "id": "22UAZX6ZHzSglI5JL3LMVe",
+  "name": "Jenn's Apartment",
+  "uri": "spotify:artist:22UAZX6ZHzSglI5JL3LMVe",
+  "followers": {
+    "href": null,
+    "total": 192
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfce407fcc3bab43d74ff0b76",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fce407fcc3bab43d74ff0b76",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fce407fcc3bab43d74ff0b76",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/22UAZX6ZHzSglI5JL3LMVe"
+  }
+}

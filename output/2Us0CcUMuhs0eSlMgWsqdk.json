@@ -1,0 +1,33 @@
+{
+  "id": "2Us0CcUMuhs0eSlMgWsqdk",
+  "name": "below!",
+  "uri": "spotify:artist:2Us0CcUMuhs0eSlMgWsqdk",
+  "followers": {
+    "href": null,
+    "total": 2661
+  },
+  "genres": [
+    "aesthetic rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb79670f46132b4a8aad742e84",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517479670f46132b4a8aad742e84",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17879670f46132b4a8aad742e84",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Us0CcUMuhs0eSlMgWsqdk"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1txKSUrJrT5a49DD2LYzmK",
+  "name": "DAITA",
+  "uri": "spotify:artist:1txKSUrJrT5a49DD2LYzmK",
+  "followers": {
+    "href": null,
+    "total": 1628
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeeace7c2b7d68d106532c2cd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eeace7c2b7d68d106532c2cd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eeace7c2b7d68d106532c2cd",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1txKSUrJrT5a49DD2LYzmK"
+  }
+}

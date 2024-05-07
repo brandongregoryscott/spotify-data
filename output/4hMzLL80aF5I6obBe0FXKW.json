@@ -1,0 +1,33 @@
+{
+  "id": "4hMzLL80aF5I6obBe0FXKW",
+  "name": "fangs",
+  "uri": "spotify:artist:4hMzLL80aF5I6obBe0FXKW",
+  "followers": {
+    "href": null,
+    "total": 61
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba600e1a7755b3e1663e0c1f5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a600e1a7755b3e1663e0c1f5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a600e1a7755b3e1663e0c1f5",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4hMzLL80aF5I6obBe0FXKW"
+  }
+}

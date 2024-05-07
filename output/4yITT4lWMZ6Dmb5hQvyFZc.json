@@ -1,0 +1,34 @@
+{
+  "id": "4yITT4lWMZ6Dmb5hQvyFZc",
+  "name": "Doug Gomez",
+  "uri": "spotify:artist:4yITT4lWMZ6Dmb5hQvyFZc",
+  "followers": {
+    "href": null,
+    "total": 2600
+  },
+  "genres": [
+    "afro house",
+    "soulful house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb55c00b85071a8dfffab9561b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517455c00b85071a8dfffab9561b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17855c00b85071a8dfffab9561b",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4yITT4lWMZ6Dmb5hQvyFZc"
+  }
+}

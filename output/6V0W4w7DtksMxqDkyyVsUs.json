@@ -1,0 +1,33 @@
+{
+  "id": "6V0W4w7DtksMxqDkyyVsUs",
+  "name": "Asociados De La A",
+  "uri": "spotify:artist:6V0W4w7DtksMxqDkyyVsUs",
+  "followers": {
+    "href": null,
+    "total": 21375
+  },
+  "genres": [
+    "corridos tumbados"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9cbc966c7c3c6ce385a5fe17",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051749cbc966c7c3c6ce385a5fe17",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1789cbc966c7c3c6ce385a5fe17",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6V0W4w7DtksMxqDkyyVsUs"
+  }
+}

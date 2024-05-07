@@ -1,0 +1,33 @@
+{
+  "id": "7Mt1g4gPDcPy3WKqhValFU",
+  "name": "TrillBlizz",
+  "uri": "spotify:artist:7Mt1g4gPDcPy3WKqhValFU",
+  "followers": {
+    "href": null,
+    "total": 550
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb77874bc70fcdf0476b5043f3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517477874bc70fcdf0476b5043f3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17877874bc70fcdf0476b5043f3",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7Mt1g4gPDcPy3WKqhValFU"
+  }
+}

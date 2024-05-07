@@ -1,0 +1,33 @@
+{
+  "id": "2BSYI8osH1oc27jP10MYsZ",
+  "name": "FYPM",
+  "uri": "spotify:artist:2BSYI8osH1oc27jP10MYsZ",
+  "followers": {
+    "href": null,
+    "total": 311
+  },
+  "genres": [
+    "ohio hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b83cd12e91ad003f272b2c04",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b83cd12e91ad003f272b2c04",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b83cd12e91ad003f272b2c04",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2BSYI8osH1oc27jP10MYsZ"
+  }
+}

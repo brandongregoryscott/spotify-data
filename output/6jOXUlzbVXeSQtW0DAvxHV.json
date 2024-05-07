@@ -1,0 +1,33 @@
+{
+  "id": "6jOXUlzbVXeSQtW0DAvxHV",
+  "name": "Crash Exhibition",
+  "uri": "spotify:artist:6jOXUlzbVXeSQtW0DAvxHV",
+  "followers": {
+    "href": null,
+    "total": 323
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7f43e42a0118642d54504198",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051747f43e42a0118642d54504198",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1787f43e42a0118642d54504198",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6jOXUlzbVXeSQtW0DAvxHV"
+  }
+}

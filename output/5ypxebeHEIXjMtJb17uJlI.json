@@ -1,0 +1,35 @@
+{
+  "id": "5ypxebeHEIXjMtJb17uJlI",
+  "name": "Jet",
+  "uri": "spotify:artist:5ypxebeHEIXjMtJb17uJlI",
+  "followers": {
+    "href": null,
+    "total": 580430
+  },
+  "genres": [
+    "garage rock",
+    "modern rock",
+    "pop rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb34f6e44625dfcedb05c1be96",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517434f6e44625dfcedb05c1be96",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17834f6e44625dfcedb05c1be96",
+      "width": 160
+    }
+  ],
+  "popularity": 59,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2ybA7xujgu5CM8a1kCNAGL",
+  "name": "Chuck None",
+  "uri": "spotify:artist:2ybA7xujgu5CM8a1kCNAGL",
+  "followers": {
+    "href": null,
+    "total": 1290
+  },
+  "genres": [
+    "anime rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb207122c3dd4315ad24926bd0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174207122c3dd4315ad24926bd0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178207122c3dd4315ad24926bd0",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ybA7xujgu5CM8a1kCNAGL"
+  }
+}

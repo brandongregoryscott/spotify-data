@@ -1,0 +1,33 @@
+{
+  "id": "0I2t3qULAh1aWBrSyVtLRi",
+  "name": "Harria",
+  "uri": "spotify:artist:0I2t3qULAh1aWBrSyVtLRi",
+  "followers": {
+    "href": null,
+    "total": 315
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27327d197a1ceab3cedcd0255fe",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0227d197a1ceab3cedcd0255fe",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485127d197a1ceab3cedcd0255fe",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0I2t3qULAh1aWBrSyVtLRi"
+  }
+}

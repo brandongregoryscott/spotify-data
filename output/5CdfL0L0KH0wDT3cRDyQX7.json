@@ -1,0 +1,33 @@
+{
+  "id": "5CdfL0L0KH0wDT3cRDyQX7",
+  "name": "GLOSSER",
+  "uri": "spotify:artist:5CdfL0L0KH0wDT3cRDyQX7",
+  "followers": {
+    "href": null,
+    "total": 855
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb32f87f1218df9460aa052400",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517432f87f1218df9460aa052400",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17832f87f1218df9460aa052400",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5CdfL0L0KH0wDT3cRDyQX7"
+  }
+}

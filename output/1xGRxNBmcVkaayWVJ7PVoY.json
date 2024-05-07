@@ -1,0 +1,33 @@
+{
+  "id": "1xGRxNBmcVkaayWVJ7PVoY",
+  "name": "Run Run Run",
+  "uri": "spotify:artist:1xGRxNBmcVkaayWVJ7PVoY",
+  "followers": {
+    "href": null,
+    "total": 1243
+  },
+  "genres": [
+    "chinese post-punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f328478d7cae88fa6566c1f2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f328478d7cae88fa6566c1f2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f328478d7cae88fa6566c1f2",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1xGRxNBmcVkaayWVJ7PVoY"
+  }
+}

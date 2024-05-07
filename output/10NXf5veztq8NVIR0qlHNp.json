@@ -1,0 +1,33 @@
+{
+  "id": "10NXf5veztq8NVIR0qlHNp",
+  "name": "9 Realms",
+  "uri": "spotify:artist:10NXf5veztq8NVIR0qlHNp",
+  "followers": {
+    "href": null,
+    "total": 343
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb70b877ac858f458104d4e4c5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517470b877ac858f458104d4e4c5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17870b877ac858f458104d4e4c5",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/10NXf5veztq8NVIR0qlHNp"
+  }
+}

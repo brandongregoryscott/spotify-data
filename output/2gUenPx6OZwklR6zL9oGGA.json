@@ -1,0 +1,33 @@
+{
+  "id": "2gUenPx6OZwklR6zL9oGGA",
+  "name": "Minimo",
+  "uri": "spotify:artist:2gUenPx6OZwklR6zL9oGGA",
+  "followers": {
+    "href": null,
+    "total": 207
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb50288b0ed8235a1c4fcf4838",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517450288b0ed8235a1c4fcf4838",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17850288b0ed8235a1c4fcf4838",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2gUenPx6OZwklR6zL9oGGA"
+  }
+}

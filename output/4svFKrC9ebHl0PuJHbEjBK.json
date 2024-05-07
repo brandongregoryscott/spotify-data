@@ -1,0 +1,34 @@
+{
+  "id": "4svFKrC9ebHl0PuJHbEjBK",
+  "name": "Castor",
+  "uri": "spotify:artist:4svFKrC9ebHl0PuJHbEjBK",
+  "followers": {
+    "href": null,
+    "total": 1431
+  },
+  "genres": [
+    "indie emo",
+    "spacegrunge"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d4ec871c586f1e413e86cf72",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d4ec871c586f1e413e86cf72",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d4ec871c586f1e413e86cf72",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4svFKrC9ebHl0PuJHbEjBK"
+  }
+}

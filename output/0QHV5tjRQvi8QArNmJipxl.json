@@ -1,0 +1,33 @@
+{
+  "id": "0QHV5tjRQvi8QArNmJipxl",
+  "name": "toast yoda",
+  "uri": "spotify:artist:0QHV5tjRQvi8QArNmJipxl",
+  "followers": {
+    "href": null,
+    "total": 66
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbce7192db932791cdf83126d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bce7192db932791cdf83126d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bce7192db932791cdf83126d",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0QHV5tjRQvi8QArNmJipxl"
+  }
+}

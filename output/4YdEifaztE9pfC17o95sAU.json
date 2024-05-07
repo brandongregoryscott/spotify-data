@@ -1,0 +1,33 @@
+{
+  "id": "4YdEifaztE9pfC17o95sAU",
+  "name": "Fuchsia",
+  "uri": "spotify:artist:4YdEifaztE9pfC17o95sAU",
+  "followers": {
+    "href": null,
+    "total": 78
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb00726b35978d43cf64e7eb69",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517400726b35978d43cf64e7eb69",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17800726b35978d43cf64e7eb69",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4YdEifaztE9pfC17o95sAU"
+  }
+}

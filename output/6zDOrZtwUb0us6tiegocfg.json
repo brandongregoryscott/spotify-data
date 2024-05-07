@@ -1,0 +1,33 @@
+{
+  "id": "6zDOrZtwUb0us6tiegocfg",
+  "name": "Jack Arel",
+  "uri": "spotify:artist:6zDOrZtwUb0us6tiegocfg",
+  "followers": {
+    "href": null,
+    "total": 462
+  },
+  "genres": [
+    "library music"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738d609953fb01b49759a2e3ff",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028d609953fb01b49759a2e3ff",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518d609953fb01b49759a2e3ff",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6zDOrZtwUb0us6tiegocfg"
+  }
+}

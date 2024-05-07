@@ -1,0 +1,33 @@
+{
+  "id": "7G06fXEYWx72EYIDWPpg1V",
+  "name": "Jay Bennett",
+  "uri": "spotify:artist:7G06fXEYWx72EYIDWPpg1V",
+  "followers": {
+    "href": null,
+    "total": 1407
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcf39e61fdc833f901286af0c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cf39e61fdc833f901286af0c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cf39e61fdc833f901286af0c",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7G06fXEYWx72EYIDWPpg1V"
+  }
+}

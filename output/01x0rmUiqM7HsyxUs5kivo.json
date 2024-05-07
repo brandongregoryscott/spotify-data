@@ -1,0 +1,33 @@
+{
+  "id": "01x0rmUiqM7HsyxUs5kivo",
+  "name": "Telemat",
+  "uri": "spotify:artist:01x0rmUiqM7HsyxUs5kivo",
+  "followers": {
+    "href": null,
+    "total": 162
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd995d95fccee3fba903c057d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d995d95fccee3fba903c057d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d995d95fccee3fba903c057d",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01x0rmUiqM7HsyxUs5kivo"
+  }
+}

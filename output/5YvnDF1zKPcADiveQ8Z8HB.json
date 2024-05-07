@@ -1,0 +1,34 @@
+{
+  "id": "5YvnDF1zKPcADiveQ8Z8HB",
+  "name": "Taruk",
+  "uri": "spotify:artist:5YvnDF1zKPcADiveQ8Z8HB",
+  "followers": {
+    "href": null,
+    "total": 2019
+  },
+  "genres": [
+    "indonesian hardcore",
+    "indonesian thrash metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebff0b3079a5df5ef99cb35b58",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ff0b3079a5df5ef99cb35b58",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ff0b3079a5df5ef99cb35b58",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5YvnDF1zKPcADiveQ8Z8HB"
+  }
+}

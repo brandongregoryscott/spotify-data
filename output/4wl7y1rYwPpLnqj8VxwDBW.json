@@ -1,0 +1,33 @@
+{
+  "id": "4wl7y1rYwPpLnqj8VxwDBW",
+  "name": "SARRIA",
+  "uri": "spotify:artist:4wl7y1rYwPpLnqj8VxwDBW",
+  "followers": {
+    "href": null,
+    "total": 231
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb91fca85c47b0ee8f4ab45031",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517491fca85c47b0ee8f4ab45031",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17891fca85c47b0ee8f4ab45031",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4wl7y1rYwPpLnqj8VxwDBW"
+  }
+}

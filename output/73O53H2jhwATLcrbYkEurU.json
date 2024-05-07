@@ -1,0 +1,33 @@
+{
+  "id": "73O53H2jhwATLcrbYkEurU",
+  "name": "Alias Noone",
+  "uri": "spotify:artist:73O53H2jhwATLcrbYkEurU",
+  "followers": {
+    "href": null,
+    "total": 170
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbb24e40c8d453687d5d8e80d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bb24e40c8d453687d5d8e80d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bb24e40c8d453687d5d8e80d",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/73O53H2jhwATLcrbYkEurU"
+  }
+}

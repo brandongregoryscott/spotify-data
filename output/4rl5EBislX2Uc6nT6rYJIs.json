@@ -1,0 +1,34 @@
+{
+  "id": "4rl5EBislX2Uc6nT6rYJIs",
+  "name": "Leaf Hound",
+  "uri": "spotify:artist:4rl5EBislX2Uc6nT6rYJIs",
+  "followers": {
+    "href": null,
+    "total": 25529
+  },
+  "genres": [
+    "proto-metal",
+    "psychedelic blues-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27300d74b6e31c6f7c07ea0bdb5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0200d74b6e31c6f7c07ea0bdb5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485100d74b6e31c6f7c07ea0bdb5",
+      "width": 64
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4rl5EBislX2Uc6nT6rYJIs"
+  }
+}

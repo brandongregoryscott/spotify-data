@@ -1,0 +1,33 @@
+{
+  "id": "2NEjTfWJyEqiSP7P2dh9wZ",
+  "name": "al.",
+  "uri": "spotify:artist:2NEjTfWJyEqiSP7P2dh9wZ",
+  "followers": {
+    "href": null,
+    "total": 75
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb39bf18aa3ec0439baf4b6989",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517439bf18aa3ec0439baf4b6989",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17839bf18aa3ec0439baf4b6989",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2NEjTfWJyEqiSP7P2dh9wZ"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1CcGOQ4EZZ24EcFta51OVn",
+  "name": "Short Panic",
+  "uri": "spotify:artist:1CcGOQ4EZZ24EcFta51OVn",
+  "followers": {
+    "href": null,
+    "total": 364
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4ee79682167d192986362891",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744ee79682167d192986362891",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784ee79682167d192986362891",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1CcGOQ4EZZ24EcFta51OVn"
+  }
+}

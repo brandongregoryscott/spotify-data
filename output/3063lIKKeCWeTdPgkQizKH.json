@@ -1,0 +1,33 @@
+{
+  "id": "3063lIKKeCWeTdPgkQizKH",
+  "name": "Outside Source",
+  "uri": "spotify:artist:3063lIKKeCWeTdPgkQizKH",
+  "followers": {
+    "href": null,
+    "total": 159
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bd94028b0d8cd072e1290403",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029abdb87ee05948acc5697ff6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519abdb87ee05948acc5697ff6",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3063lIKKeCWeTdPgkQizKH"
+  }
+}

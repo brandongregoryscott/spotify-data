@@ -1,0 +1,33 @@
+{
+  "id": "2zuL2fhF4xRzyCikWcmlea",
+  "name": "Vide",
+  "uri": "spotify:artist:2zuL2fhF4xRzyCikWcmlea",
+  "followers": {
+    "href": null,
+    "total": 3994
+  },
+  "genres": [
+    "downtempo bass"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbe77d25f47e0f127449c9aea",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174be77d25f47e0f127449c9aea",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178be77d25f47e0f127449c9aea",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2zuL2fhF4xRzyCikWcmlea"
+  }
+}

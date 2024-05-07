@@ -1,0 +1,33 @@
+{
+  "id": "74qxethQLKEwyDx4uj6m89",
+  "name": "Big Trip",
+  "uri": "spotify:artist:74qxethQLKEwyDx4uj6m89",
+  "followers": {
+    "href": null,
+    "total": 314
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27384dfde7864c8a41ac5bd2c7a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021b64c25c78a62e6f97380ea7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511b64c25c78a62e6f97380ea7",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/74qxethQLKEwyDx4uj6m89"
+  }
+}

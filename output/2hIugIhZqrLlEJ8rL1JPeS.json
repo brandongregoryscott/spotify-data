@@ -1,0 +1,33 @@
+{
+  "id": "2hIugIhZqrLlEJ8rL1JPeS",
+  "name": "Elizra",
+  "uri": "spotify:artist:2hIugIhZqrLlEJ8rL1JPeS",
+  "followers": {
+    "href": null,
+    "total": 913
+  },
+  "genres": [
+    "dubstep"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb8979a20a1c7166369ccf5fb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b8979a20a1c7166369ccf5fb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b8979a20a1c7166369ccf5fb",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2hIugIhZqrLlEJ8rL1JPeS"
+  }
+}

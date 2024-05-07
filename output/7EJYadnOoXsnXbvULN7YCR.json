@@ -1,0 +1,33 @@
+{
+  "id": "7EJYadnOoXsnXbvULN7YCR",
+  "name": "Tom Frane",
+  "uri": "spotify:artist:7EJYadnOoXsnXbvULN7YCR",
+  "followers": {
+    "href": null,
+    "total": 54943
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebff791f9f6b751ce65544e121",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ff791f9f6b751ce65544e121",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ff791f9f6b751ce65544e121",
+      "width": 160
+    }
+  ],
+  "popularity": 50,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7EJYadnOoXsnXbvULN7YCR"
+  }
+}

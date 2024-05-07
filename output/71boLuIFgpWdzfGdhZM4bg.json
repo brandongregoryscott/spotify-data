@@ -1,0 +1,33 @@
+{
+  "id": "71boLuIFgpWdzfGdhZM4bg",
+  "name": "3NSTY",
+  "uri": "spotify:artist:71boLuIFgpWdzfGdhZM4bg",
+  "followers": {
+    "href": null,
+    "total": 1611
+  },
+  "genres": [
+    "aesthetic rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb12a0774b429f1fa64337684a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517412a0774b429f1fa64337684a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17812a0774b429f1fa64337684a",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/71boLuIFgpWdzfGdhZM4bg"
+  }
+}

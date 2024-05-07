@@ -1,0 +1,33 @@
+{
+  "id": "5KCYIBOiQgTLAtKUzF8Sug",
+  "name": "Sequencia",
+  "uri": "spotify:artist:5KCYIBOiQgTLAtKUzF8Sug",
+  "followers": {
+    "href": null,
+    "total": 640
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf72f8d8006ff7e7d7fccd7ce",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f72f8d8006ff7e7d7fccd7ce",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f72f8d8006ff7e7d7fccd7ce",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5KCYIBOiQgTLAtKUzF8Sug"
+  }
+}

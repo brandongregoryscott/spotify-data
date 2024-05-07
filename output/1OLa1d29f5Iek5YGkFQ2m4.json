@@ -1,0 +1,33 @@
+{
+  "id": "1OLa1d29f5Iek5YGkFQ2m4",
+  "name": "Ro Data",
+  "uri": "spotify:artist:1OLa1d29f5Iek5YGkFQ2m4",
+  "followers": {
+    "href": null,
+    "total": 71
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27302e8bd6854cebd709505bf5e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0202e8bd6854cebd709505bf5e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485102e8bd6854cebd709505bf5e",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1OLa1d29f5Iek5YGkFQ2m4"
+  }
+}

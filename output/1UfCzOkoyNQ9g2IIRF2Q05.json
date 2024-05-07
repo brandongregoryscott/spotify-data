@@ -1,0 +1,33 @@
+{
+  "id": "1UfCzOkoyNQ9g2IIRF2Q05",
+  "name": "Alloy",
+  "uri": "spotify:artist:1UfCzOkoyNQ9g2IIRF2Q05",
+  "followers": {
+    "href": null,
+    "total": 587
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f0b0e72d2f43a5a688ffdbfd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f0b0e72d2f43a5a688ffdbfd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f0b0e72d2f43a5a688ffdbfd",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1UfCzOkoyNQ9g2IIRF2Q05"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2VG0HSZo8PsA8JQwFchfIY",
+  "name": "Aaron Hale",
+  "uri": "spotify:artist:2VG0HSZo8PsA8JQwFchfIY",
+  "followers": {
+    "href": null,
+    "total": 444
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb49efc106c1c7bf5c48c1e697",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517449efc106c1c7bf5c48c1e697",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17849efc106c1c7bf5c48c1e697",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2VG0HSZo8PsA8JQwFchfIY"
+  }
+}

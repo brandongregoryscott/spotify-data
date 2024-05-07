@@ -1,0 +1,33 @@
+{
+  "id": "2J7XyU9LETHfmCwLyLBj3q",
+  "name": "Icare",
+  "uri": "spotify:artist:2J7XyU9LETHfmCwLyLBj3q",
+  "followers": {
+    "href": null,
+    "total": 612
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb86871757b7d1ca1de536e3a5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517486871757b7d1ca1de536e3a5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17886871757b7d1ca1de536e3a5",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2J7XyU9LETHfmCwLyLBj3q"
+  }
+}

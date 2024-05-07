@@ -1,0 +1,33 @@
+{
+  "id": "1NYDSnZVeaeGKKDfVShQx1",
+  "name": "DuPage",
+  "uri": "spotify:artist:1NYDSnZVeaeGKKDfVShQx1",
+  "followers": {
+    "href": null,
+    "total": 145
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ad1af4aeedc70a4d09522a0a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ad1af4aeedc70a4d09522a0a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ad1af4aeedc70a4d09522a0a",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1NYDSnZVeaeGKKDfVShQx1"
+  }
+}

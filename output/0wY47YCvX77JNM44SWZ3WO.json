@@ -1,0 +1,33 @@
+{
+  "id": "0wY47YCvX77JNM44SWZ3WO",
+  "name": "C3",
+  "uri": "spotify:artist:0wY47YCvX77JNM44SWZ3WO",
+  "followers": {
+    "href": null,
+    "total": 558
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735069028c9bca1c3fabed87e0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025069028c9bca1c3fabed87e0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515069028c9bca1c3fabed87e0",
+      "width": 64
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0wY47YCvX77JNM44SWZ3WO"
+  }
+}

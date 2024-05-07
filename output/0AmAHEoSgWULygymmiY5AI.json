@@ -1,0 +1,33 @@
+{
+  "id": "0AmAHEoSgWULygymmiY5AI",
+  "name": "alexx",
+  "uri": "spotify:artist:0AmAHEoSgWULygymmiY5AI",
+  "followers": {
+    "href": null,
+    "total": 307
+  },
+  "genres": [
+    "furry"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb178b76f8f92de91511208c6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b178b76f8f92de91511208c6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b178b76f8f92de91511208c6",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0AmAHEoSgWULygymmiY5AI"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5URa1kT7mD5vRSeSLvBgkk",
+  "name": "Nick Moses",
+  "uri": "spotify:artist:5URa1kT7mD5vRSeSLvBgkk",
+  "followers": {
+    "href": null,
+    "total": 78
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb4615ff551eb2bc04fe694bb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b4615ff551eb2bc04fe694bb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b4615ff551eb2bc04fe694bb",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5URa1kT7mD5vRSeSLvBgkk"
+  }
+}

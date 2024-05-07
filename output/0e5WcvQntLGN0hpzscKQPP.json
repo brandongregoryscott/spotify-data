@@ -1,0 +1,33 @@
+{
+  "id": "0e5WcvQntLGN0hpzscKQPP",
+  "name": "Yagothia",
+  "uri": "spotify:artist:0e5WcvQntLGN0hpzscKQPP",
+  "followers": {
+    "href": null,
+    "total": 412
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf6d9ff166d002b1d768101bd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f6d9ff166d002b1d768101bd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f6d9ff166d002b1d768101bd",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0e5WcvQntLGN0hpzscKQPP"
+  }
+}

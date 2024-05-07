@@ -1,0 +1,33 @@
+{
+  "id": "7yEnxWEednQthvm9C854uA",
+  "name": "Machine",
+  "uri": "spotify:artist:7yEnxWEednQthvm9C854uA",
+  "followers": {
+    "href": null,
+    "total": 5752
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb4166ce09a1526f78f85096e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b4166ce09a1526f78f85096e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b4166ce09a1526f78f85096e",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7yEnxWEednQthvm9C854uA"
+  }
+}

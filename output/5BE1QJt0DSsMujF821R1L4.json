@@ -1,0 +1,33 @@
+{
+  "id": "5BE1QJt0DSsMujF821R1L4",
+  "name": "Deamonds",
+  "uri": "spotify:artist:5BE1QJt0DSsMujF821R1L4",
+  "followers": {
+    "href": null,
+    "total": 185
+  },
+  "genres": [
+    "grimewave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba99d08a2a35273eab1a790f7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a99d08a2a35273eab1a790f7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a99d08a2a35273eab1a790f7",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5BE1QJt0DSsMujF821R1L4"
+  }
+}

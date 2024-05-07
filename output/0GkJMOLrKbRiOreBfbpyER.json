@@ -1,0 +1,33 @@
+{
+  "id": "0GkJMOLrKbRiOreBfbpyER",
+  "name": "LIBRO",
+  "uri": "spotify:artist:0GkJMOLrKbRiOreBfbpyER",
+  "followers": {
+    "href": null,
+    "total": 11722
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb13f232a5636dfc12fc356b58",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517413f232a5636dfc12fc356b58",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17813f232a5636dfc12fc356b58",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0GkJMOLrKbRiOreBfbpyER"
+  }
+}

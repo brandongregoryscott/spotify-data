@@ -1,0 +1,35 @@
+{
+  "id": "65KgWbEiWnhB4sPb5VYl7x",
+  "name": "Loewenhertz",
+  "uri": "spotify:artist:65KgWbEiWnhB4sPb5VYl7x",
+  "followers": {
+    "href": null,
+    "total": 1005
+  },
+  "genres": [
+    "dark electro",
+    "futurepop",
+    "neo-synthpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb814467a577327c5849f2862b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174814467a577327c5849f2862b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178814467a577327c5849f2862b",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/65KgWbEiWnhB4sPb5VYl7x"
+  }
+}

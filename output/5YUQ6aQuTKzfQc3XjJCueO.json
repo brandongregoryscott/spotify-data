@@ -1,0 +1,33 @@
+{
+  "id": "5YUQ6aQuTKzfQc3XjJCueO",
+  "name": "Projecteur",
+  "uri": "spotify:artist:5YUQ6aQuTKzfQc3XjJCueO",
+  "followers": {
+    "href": null,
+    "total": 467
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb60e7cbe59816840b33c94b7e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517460e7cbe59816840b33c94b7e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17860e7cbe59816840b33c94b7e",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5YUQ6aQuTKzfQc3XjJCueO"
+  }
+}

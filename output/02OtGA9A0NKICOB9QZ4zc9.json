@@ -1,0 +1,33 @@
+{
+  "id": "02OtGA9A0NKICOB9QZ4zc9",
+  "name": "Tina Sandwich",
+  "uri": "spotify:artist:02OtGA9A0NKICOB9QZ4zc9",
+  "followers": {
+    "href": null,
+    "total": 563
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb585b531f6743cffb2c22de00",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174585b531f6743cffb2c22de00",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178585b531f6743cffb2c22de00",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/02OtGA9A0NKICOB9QZ4zc9"
+  }
+}

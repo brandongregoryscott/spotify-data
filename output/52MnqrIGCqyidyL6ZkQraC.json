@@ -1,0 +1,33 @@
+{
+  "id": "52MnqrIGCqyidyL6ZkQraC",
+  "name": "Claudia",
+  "uri": "spotify:artist:52MnqrIGCqyidyL6ZkQraC",
+  "followers": {
+    "href": null,
+    "total": 9866
+  },
+  "genres": [
+    "mpb"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d6cbc290babc8af15763c666",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d6cbc290babc8af15763c666",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d6cbc290babc8af15763c666",
+      "width": 64
+    }
+  ],
+  "popularity": 45,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/52MnqrIGCqyidyL6ZkQraC"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3yldKMMHBmkF34OYjzMPS5",
+  "name": "McGuinn, Clark & Hillman",
+  "uri": "spotify:artist:3yldKMMHBmkF34OYjzMPS5",
+  "followers": {
+    "href": null,
+    "total": 7874
+  },
+  "genres": [
+    "country rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273069dd7aef76b49b0aaf532ec",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02069dd7aef76b49b0aaf532ec",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851069dd7aef76b49b0aaf532ec",
+      "width": 64
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3yldKMMHBmkF34OYjzMPS5"
+  }
+}

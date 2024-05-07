@@ -1,0 +1,38 @@
+{
+  "id": "5sTQcKTc2j6lNqlQHR4Gat",
+  "name": "The Stevens",
+  "uri": "spotify:artist:5sTQcKTc2j6lNqlQHR4Gat",
+  "followers": {
+    "href": null,
+    "total": 2348
+  },
+  "genres": [
+    "melbourne indie"
+  ],
+  "images": [
+    {
+      "height": 1000,
+      "url": "https://i.scdn.co/image/1a1523746a25dd0524fe30704f1f2efd0a08b952",
+      "width": 1000
+    },
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/52055d20c9d5379bd81862367c39261f1c731228",
+      "width": 640
+    },
+    {
+      "height": 200,
+      "url": "https://i.scdn.co/image/66f55570906e4af5506e5daeed76d5277f79e209",
+      "width": 200
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/140ca77ab59b7f7d728f6c8d9921c1c6d8b51f4d",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5sTQcKTc2j6lNqlQHR4Gat"
+  }
+}

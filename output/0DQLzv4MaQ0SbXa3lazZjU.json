@@ -1,0 +1,33 @@
+{
+  "id": "0DQLzv4MaQ0SbXa3lazZjU",
+  "name": "Filgueira",
+  "uri": "spotify:artist:0DQLzv4MaQ0SbXa3lazZjU",
+  "followers": {
+    "href": null,
+    "total": 642
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb15182f57a27ac19627d65dea",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517415182f57a27ac19627d65dea",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17815182f57a27ac19627d65dea",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0DQLzv4MaQ0SbXa3lazZjU"
+  }
+}
