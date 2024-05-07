@@ -1,0 +1,33 @@
+{
+  "id": "7tJvMYJNz5daW5yjBtYZtc",
+  "name": "The Boston Project",
+  "uri": "spotify:artist:7tJvMYJNz5daW5yjBtYZtc",
+  "followers": {
+    "href": null,
+    "total": 169
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba35fd9c206c63f5da3ed66cf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a35fd9c206c63f5da3ed66cf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a35fd9c206c63f5da3ed66cf",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7tJvMYJNz5daW5yjBtYZtc"
+  }
+}

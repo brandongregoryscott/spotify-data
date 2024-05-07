@@ -1,0 +1,33 @@
+{
+  "id": "4tj9z8cXt6li2QL03uXQGX",
+  "name": "Makinde LA",
+  "uri": "spotify:artist:4tj9z8cXt6li2QL03uXQGX",
+  "followers": {
+    "href": null,
+    "total": 301
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb64148ea84695fcc9202b5372",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517464148ea84695fcc9202b5372",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17864148ea84695fcc9202b5372",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4tj9z8cXt6li2QL03uXQGX"
+  }
+}

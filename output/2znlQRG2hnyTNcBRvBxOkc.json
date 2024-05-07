@@ -1,0 +1,33 @@
+{
+  "id": "2znlQRG2hnyTNcBRvBxOkc",
+  "name": "irune",
+  "uri": "spotify:artist:2znlQRG2hnyTNcBRvBxOkc",
+  "followers": {
+    "href": null,
+    "total": 3644
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb778af95c043cdd18c883c417",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174778af95c043cdd18c883c417",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178778af95c043cdd18c883c417",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2znlQRG2hnyTNcBRvBxOkc"
+  }
+}

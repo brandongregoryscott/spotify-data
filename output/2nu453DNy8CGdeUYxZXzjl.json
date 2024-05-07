@@ -1,0 +1,33 @@
+{
+  "id": "2nu453DNy8CGdeUYxZXzjl",
+  "name": "CH.0",
+  "uri": "spotify:artist:2nu453DNy8CGdeUYxZXzjl",
+  "followers": {
+    "href": null,
+    "total": 53
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27302cd2e4cc76032b66dff30b9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0202cd2e4cc76032b66dff30b9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485102cd2e4cc76032b66dff30b9",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2nu453DNy8CGdeUYxZXzjl"
+  }
+}

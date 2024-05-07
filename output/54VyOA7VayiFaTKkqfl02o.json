@@ -1,0 +1,33 @@
+{
+  "id": "54VyOA7VayiFaTKkqfl02o",
+  "name": "Soulface",
+  "uri": "spotify:artist:54VyOA7VayiFaTKkqfl02o",
+  "followers": {
+    "href": null,
+    "total": 252
+  },
+  "genres": [
+    "soulful house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb713e4260c756bf73c442fcae",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174713e4260c756bf73c442fcae",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178713e4260c756bf73c442fcae",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/54VyOA7VayiFaTKkqfl02o"
+  }
+}

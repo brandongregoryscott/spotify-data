@@ -1,0 +1,35 @@
+{
+  "id": "5PjxJWzEUvFHhfgcgC8HKV",
+  "name": "Denis Dufour",
+  "uri": "spotify:artist:5PjxJWzEUvFHhfgcgC8HKV",
+  "followers": {
+    "href": null,
+    "total": 493
+  },
+  "genres": [
+    "electroacoustic composition",
+    "french contemporary classical",
+    "musique concrete"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27301a646f2aa4456543c987ccb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0201a646f2aa4456543c987ccb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485101a646f2aa4456543c987ccb",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5PjxJWzEUvFHhfgcgC8HKV"
+  }
+}

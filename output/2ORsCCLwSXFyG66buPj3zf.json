@@ -1,0 +1,33 @@
+{
+  "id": "2ORsCCLwSXFyG66buPj3zf",
+  "name": "Waste",
+  "uri": "spotify:artist:2ORsCCLwSXFyG66buPj3zf",
+  "followers": {
+    "href": null,
+    "total": 601
+  },
+  "genres": [
+    "modern hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd996f55c6f1a2a859c019b6f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d996f55c6f1a2a859c019b6f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d996f55c6f1a2a859c019b6f",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ORsCCLwSXFyG66buPj3zf"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0x3ErfN621YVcsau5JntLj",
+  "name": "No Skies",
+  "uri": "spotify:artist:0x3ErfN621YVcsau5JntLj",
+  "followers": {
+    "href": null,
+    "total": 47
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27348149c2fe8a64cc89b862413",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0248149c2fe8a64cc89b862413",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485148149c2fe8a64cc89b862413",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0x3ErfN621YVcsau5JntLj"
+  }
+}

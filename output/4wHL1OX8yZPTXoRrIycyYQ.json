@@ -1,0 +1,33 @@
+{
+  "id": "4wHL1OX8yZPTXoRrIycyYQ",
+  "name": "Alejandroo",
+  "uri": "spotify:artist:4wHL1OX8yZPTXoRrIycyYQ",
+  "followers": {
+    "href": null,
+    "total": 24354
+  },
+  "genres": [
+    "sad sierreno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb921c805c4c520400cdae7bf9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174921c805c4c520400cdae7bf9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178921c805c4c520400cdae7bf9",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ"
+  }
+}

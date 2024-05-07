@@ -1,0 +1,33 @@
+{
+  "id": "1dVTq10i2EZfCkebuPg1Xj",
+  "name": "Akayai",
+  "uri": "spotify:artist:1dVTq10i2EZfCkebuPg1Xj",
+  "followers": {
+    "href": null,
+    "total": 313
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaefc08132cd19b9c2d24a7fc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aefc08132cd19b9c2d24a7fc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aefc08132cd19b9c2d24a7fc",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1dVTq10i2EZfCkebuPg1Xj"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5fzVEzkVDp03YaIkxEe3Nn",
+  "name": "JAM",
+  "uri": "spotify:artist:5fzVEzkVDp03YaIkxEe3Nn",
+  "followers": {
+    "href": null,
+    "total": 89
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe370a34e7aad87a665a8148f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e370a34e7aad87a665a8148f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e370a34e7aad87a665a8148f",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5fzVEzkVDp03YaIkxEe3Nn"
+  }
+}

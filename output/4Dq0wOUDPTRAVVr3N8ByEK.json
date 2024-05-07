@@ -1,0 +1,33 @@
+{
+  "id": "4Dq0wOUDPTRAVVr3N8ByEK",
+  "name": "Ctrl F1",
+  "uri": "spotify:artist:4Dq0wOUDPTRAVVr3N8ByEK",
+  "followers": {
+    "href": null,
+    "total": 101
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0eb5e2dc4e318b3ebf27649b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051740eb5e2dc4e318b3ebf27649b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1780eb5e2dc4e318b3ebf27649b",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Dq0wOUDPTRAVVr3N8ByEK"
+  }
+}

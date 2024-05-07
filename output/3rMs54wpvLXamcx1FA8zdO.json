@@ -1,0 +1,33 @@
+{
+  "id": "3rMs54wpvLXamcx1FA8zdO",
+  "name": "Thanatosu",
+  "uri": "spotify:artist:3rMs54wpvLXamcx1FA8zdO",
+  "followers": {
+    "href": null,
+    "total": 182
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730032478dfee54f167f7b2bc3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020032478dfee54f167f7b2bc3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510032478dfee54f167f7b2bc3",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3rMs54wpvLXamcx1FA8zdO"
+  }
+}

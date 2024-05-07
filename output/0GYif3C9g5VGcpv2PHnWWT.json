@@ -1,0 +1,33 @@
+{
+  "id": "0GYif3C9g5VGcpv2PHnWWT",
+  "name": "Special Features",
+  "uri": "spotify:artist:0GYif3C9g5VGcpv2PHnWWT",
+  "followers": {
+    "href": null,
+    "total": 565
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb51bf133004ba9569ad2d2b5b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517451bf133004ba9569ad2d2b5b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17851bf133004ba9569ad2d2b5b",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0GYif3C9g5VGcpv2PHnWWT"
+  }
+}

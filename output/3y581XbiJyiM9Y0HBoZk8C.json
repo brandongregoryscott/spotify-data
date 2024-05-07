@@ -1,0 +1,33 @@
+{
+  "id": "3y581XbiJyiM9Y0HBoZk8C",
+  "name": "ISADORA",
+  "uri": "spotify:artist:3y581XbiJyiM9Y0HBoZk8C",
+  "followers": {
+    "href": null,
+    "total": 1836
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebac7892cb36acb9714263b3a3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ac7892cb36acb9714263b3a3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ac7892cb36acb9714263b3a3",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3y581XbiJyiM9Y0HBoZk8C"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "05xqgrmJTVwWHpmmxtuqfs",
+  "name": "Early Adopted",
+  "uri": "spotify:artist:05xqgrmJTVwWHpmmxtuqfs",
+  "followers": {
+    "href": null,
+    "total": 2604
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbcd3aaa8e89355f05fabd923",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bcd3aaa8e89355f05fabd923",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bcd3aaa8e89355f05fabd923",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05xqgrmJTVwWHpmmxtuqfs"
+  }
+}

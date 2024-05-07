@@ -1,0 +1,33 @@
+{
+  "id": "7uzaNaDY7uPjwR2mTKf41a",
+  "name": "faery",
+  "uri": "spotify:artist:7uzaNaDY7uPjwR2mTKf41a",
+  "followers": {
+    "href": null,
+    "total": 2256
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebccadeb51d9f5bcd6790b28ce",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ccadeb51d9f5bcd6790b28ce",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ccadeb51d9f5bcd6790b28ce",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7uzaNaDY7uPjwR2mTKf41a"
+  }
+}

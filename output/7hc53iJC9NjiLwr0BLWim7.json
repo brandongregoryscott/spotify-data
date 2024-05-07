@@ -1,0 +1,34 @@
+{
+  "id": "7hc53iJC9NjiLwr0BLWim7",
+  "name": "Amantina",
+  "uri": "spotify:artist:7hc53iJC9NjiLwr0BLWim7",
+  "followers": {
+    "href": null,
+    "total": 5920
+  },
+  "genres": [
+    "colombian indie",
+    "ecuadorian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb205a9a826c9149c1c5b672ea",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174205a9a826c9149c1c5b672ea",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178205a9a826c9149c1c5b672ea",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7hc53iJC9NjiLwr0BLWim7"
+  }
+}

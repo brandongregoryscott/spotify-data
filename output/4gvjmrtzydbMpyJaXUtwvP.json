@@ -1,0 +1,33 @@
+{
+  "id": "4gvjmrtzydbMpyJaXUtwvP",
+  "name": "Addison Rae",
+  "uri": "spotify:artist:4gvjmrtzydbMpyJaXUtwvP",
+  "followers": {
+    "href": null,
+    "total": 293162
+  },
+  "genres": [
+    "social media pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb580924af9763c9f142053e2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b580924af9763c9f142053e2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b580924af9763c9f142053e2",
+      "width": 160
+    }
+  ],
+  "popularity": 52,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+  }
+}

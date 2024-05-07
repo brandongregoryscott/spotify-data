@@ -1,0 +1,33 @@
+{
+  "id": "37vi8sUkMSg3L9BTaMZRrv",
+  "name": "Isolation Berlin",
+  "uri": "spotify:artist:37vi8sUkMSg3L9BTaMZRrv",
+  "followers": {
+    "href": null,
+    "total": 34857
+  },
+  "genres": [
+    "german indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf21b3ca4247a49a97c83d0f2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f21b3ca4247a49a97c83d0f2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f21b3ca4247a49a97c83d0f2",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/37vi8sUkMSg3L9BTaMZRrv"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "51WhAVp4i7MVHpZcxdReHA",
+  "name": "Oac",
+  "uri": "spotify:artist:51WhAVp4i7MVHpZcxdReHA",
+  "followers": {
+    "href": null,
+    "total": 2261
+  },
+  "genres": [
+    "taiwan hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba6ea92db47a09c39fa539835",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a6ea92db47a09c39fa539835",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a6ea92db47a09c39fa539835",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/51WhAVp4i7MVHpZcxdReHA"
+  }
+}

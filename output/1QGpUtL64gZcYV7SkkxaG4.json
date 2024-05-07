@@ -1,0 +1,33 @@
+{
+  "id": "1QGpUtL64gZcYV7SkkxaG4",
+  "name": "MFC Chicken",
+  "uri": "spotify:artist:1QGpUtL64gZcYV7SkkxaG4",
+  "followers": {
+    "href": null,
+    "total": 4756
+  },
+  "genres": [
+    "trash rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27321041f48a0a2a3b9a3365ce4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0221041f48a0a2a3b9a3365ce4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485121041f48a0a2a3b9a3365ce4",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1QGpUtL64gZcYV7SkkxaG4"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "439XLPKBHywumJFS7DBHEr",
+  "name": "Still Life Replica",
+  "uri": "spotify:artist:439XLPKBHywumJFS7DBHEr",
+  "followers": {
+    "href": null,
+    "total": 61
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe559d66fbd2fb6e5a46f76ca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e559d66fbd2fb6e5a46f76ca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e559d66fbd2fb6e5a46f76ca",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/439XLPKBHywumJFS7DBHEr"
+  }
+}

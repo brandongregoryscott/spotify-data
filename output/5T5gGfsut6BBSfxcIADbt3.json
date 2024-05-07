@@ -1,0 +1,33 @@
+{
+  "id": "5T5gGfsut6BBSfxcIADbt3",
+  "name": "VdC.",
+  "uri": "spotify:artist:5T5gGfsut6BBSfxcIADbt3",
+  "followers": {
+    "href": null,
+    "total": 42
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb38acec27954f4c58bef08da4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517438acec27954f4c58bef08da4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17838acec27954f4c58bef08da4",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5T5gGfsut6BBSfxcIADbt3"
+  }
+}

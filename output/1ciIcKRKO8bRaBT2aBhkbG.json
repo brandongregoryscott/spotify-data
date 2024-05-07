@@ -1,0 +1,33 @@
+{
+  "id": "1ciIcKRKO8bRaBT2aBhkbG",
+  "name": "ok.",
+  "uri": "spotify:artist:1ciIcKRKO8bRaBT2aBhkbG",
+  "followers": {
+    "href": null,
+    "total": 45
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb2f5b92fd0c7ffc0487fa60a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b2f5b92fd0c7ffc0487fa60a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b2f5b92fd0c7ffc0487fa60a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ciIcKRKO8bRaBT2aBhkbG"
+  }
+}

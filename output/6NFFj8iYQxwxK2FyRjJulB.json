@@ -1,0 +1,33 @@
+{
+  "id": "6NFFj8iYQxwxK2FyRjJulB",
+  "name": "The Indexes",
+  "uri": "spotify:artist:6NFFj8iYQxwxK2FyRjJulB",
+  "followers": {
+    "href": null,
+    "total": 286
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3f3e3f977f5ab72e0f49a712",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051743f3e3f977f5ab72e0f49a712",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1783f3e3f977f5ab72e0f49a712",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6NFFj8iYQxwxK2FyRjJulB"
+  }
+}

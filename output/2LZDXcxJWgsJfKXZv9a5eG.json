@@ -1,0 +1,36 @@
+{
+  "id": "2LZDXcxJWgsJfKXZv9a5eG",
+  "name": "Cashmere Cat",
+  "uri": "spotify:artist:2LZDXcxJWgsJfKXZv9a5eG",
+  "followers": {
+    "href": null,
+    "total": 322564
+  },
+  "genres": [
+    "downtempo",
+    "electropop",
+    "shiver pop",
+    "vapor twitch"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb27fbd7df9e28455a9cab019e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517427fbd7df9e28455a9cab019e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17827fbd7df9e28455a9cab019e",
+      "width": 160
+    }
+  ],
+  "popularity": 50,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG"
+  }
+}

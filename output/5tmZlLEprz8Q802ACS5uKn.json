@@ -1,0 +1,33 @@
+{
+  "id": "5tmZlLEprz8Q802ACS5uKn",
+  "name": "Cold Tropics",
+  "uri": "spotify:artist:5tmZlLEprz8Q802ACS5uKn",
+  "followers": {
+    "href": null,
+    "total": 989
+  },
+  "genres": [
+    "indie rock colombiano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb25ce22905acced2bc3145bbe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517425ce22905acced2bc3145bbe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17825ce22905acced2bc3145bbe",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5tmZlLEprz8Q802ACS5uKn"
+  }
+}

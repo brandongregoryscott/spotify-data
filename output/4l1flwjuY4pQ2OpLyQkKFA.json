@@ -1,0 +1,33 @@
+{
+  "id": "4l1flwjuY4pQ2OpLyQkKFA",
+  "name": "The Users",
+  "uri": "spotify:artist:4l1flwjuY4pQ2OpLyQkKFA",
+  "followers": {
+    "href": null,
+    "total": 915
+  },
+  "genres": [
+    "deep punk rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd650fe1179480ed8e4738eb1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d650fe1179480ed8e4738eb1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d650fe1179480ed8e4738eb1",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4l1flwjuY4pQ2OpLyQkKFA"
+  }
+}

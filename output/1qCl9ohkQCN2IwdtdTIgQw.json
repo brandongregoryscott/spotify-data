@@ -1,0 +1,33 @@
+{
+  "id": "1qCl9ohkQCN2IwdtdTIgQw",
+  "name": "Rosey Jones",
+  "uri": "spotify:artist:1qCl9ohkQCN2IwdtdTIgQw",
+  "followers": {
+    "href": null,
+    "total": 257
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcce5f4561669cd8e0782c035",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cce5f4561669cd8e0782c035",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cce5f4561669cd8e0782c035",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1qCl9ohkQCN2IwdtdTIgQw"
+  }
+}

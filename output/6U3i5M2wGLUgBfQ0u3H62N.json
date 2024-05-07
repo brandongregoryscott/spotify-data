@@ -1,0 +1,33 @@
+{
+  "id": "6U3i5M2wGLUgBfQ0u3H62N",
+  "name": "Soulbridge",
+  "uri": "spotify:artist:6U3i5M2wGLUgBfQ0u3H62N",
+  "followers": {
+    "href": null,
+    "total": 909
+  },
+  "genres": [
+    "soulful house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736e61c636d1472a76e4556529",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026e61c636d1472a76e4556529",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516e61c636d1472a76e4556529",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6U3i5M2wGLUgBfQ0u3H62N"
+  }
+}

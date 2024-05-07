@@ -1,0 +1,35 @@
+{
+  "id": "5mUcc8OOP4RuzrupeGYwW5",
+  "name": "Joe Armon-Jones",
+  "uri": "spotify:artist:5mUcc8OOP4RuzrupeGYwW5",
+  "followers": {
+    "href": null,
+    "total": 48502
+  },
+  "genres": [
+    "indie jazz",
+    "indie soul",
+    "uk contemporary jazz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb3aacdcd42c330b055ecc9ee",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b3aacdcd42c330b055ecc9ee",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b3aacdcd42c330b055ecc9ee",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+  }
+}

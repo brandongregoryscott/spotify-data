@@ -1,0 +1,33 @@
+{
+  "id": "1Ujy7P4HcSHRDxMhyr2Zfo",
+  "name": "Mike Slott",
+  "uri": "spotify:artist:1Ujy7P4HcSHRDxMhyr2Zfo",
+  "followers": {
+    "href": null,
+    "total": 5259
+  },
+  "genres": [
+    "wonky"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb16ff6299e8f24707eb479408",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517416ff6299e8f24707eb479408",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17816ff6299e8f24707eb479408",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Ujy7P4HcSHRDxMhyr2Zfo"
+  }
+}

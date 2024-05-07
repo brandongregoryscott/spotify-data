@@ -1,0 +1,33 @@
+{
+  "id": "1hjVmBR8STjix0vBUe5YfN",
+  "name": "GEMS",
+  "uri": "spotify:artist:1hjVmBR8STjix0vBUe5YfN",
+  "followers": {
+    "href": null,
+    "total": 27074
+  },
+  "genres": [
+    "vapor pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebae581384c5b7155693f2849e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ae581384c5b7155693f2849e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ae581384c5b7155693f2849e",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1hjVmBR8STjix0vBUe5YfN"
+  }
+}

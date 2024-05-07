@@ -1,0 +1,33 @@
+{
+  "id": "0KPl7uL5EJIxLSzguvvsKt",
+  "name": "Marmota",
+  "uri": "spotify:artist:0KPl7uL5EJIxLSzguvvsKt",
+  "followers": {
+    "href": null,
+    "total": 5675
+  },
+  "genres": [
+    "rap ecuatoriano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739bf928f25bf1f7d71addd4ad",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029bf928f25bf1f7d71addd4ad",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519bf928f25bf1f7d71addd4ad",
+      "width": 64
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0KPl7uL5EJIxLSzguvvsKt"
+  }
+}

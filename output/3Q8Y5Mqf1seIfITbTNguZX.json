@@ -1,0 +1,33 @@
+{
+  "id": "3Q8Y5Mqf1seIfITbTNguZX",
+  "name": "Los Random",
+  "uri": "spotify:artist:3Q8Y5Mqf1seIfITbTNguZX",
+  "followers": {
+    "href": null,
+    "total": 663
+  },
+  "genres": [
+    "indie tucumano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27305a4c39a8c3d4a8be37eab96",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0205a4c39a8c3d4a8be37eab96",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485105a4c39a8c3d4a8be37eab96",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Q8Y5Mqf1seIfITbTNguZX"
+  }
+}

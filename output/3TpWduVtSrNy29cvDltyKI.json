@@ -1,0 +1,33 @@
+{
+  "id": "3TpWduVtSrNy29cvDltyKI",
+  "name": "Kane & James",
+  "uri": "spotify:artist:3TpWduVtSrNy29cvDltyKI",
+  "followers": {
+    "href": null,
+    "total": 98
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb75d588ce118cfcd669527863",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517475d588ce118cfcd669527863",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17875d588ce118cfcd669527863",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3TpWduVtSrNy29cvDltyKI"
+  }
+}

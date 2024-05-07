@@ -1,0 +1,33 @@
+{
+  "id": "1cjCAxJuuHy69bQkwQvu2M",
+  "name": "Brook Alley",
+  "uri": "spotify:artist:1cjCAxJuuHy69bQkwQvu2M",
+  "followers": {
+    "href": null,
+    "total": 62
+  },
+  "genres": [
+    "texas hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbaab82bb2d0aca8d83c66bf0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174baab82bb2d0aca8d83c66bf0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178baab82bb2d0aca8d83c66bf0",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1cjCAxJuuHy69bQkwQvu2M"
+  }
+}

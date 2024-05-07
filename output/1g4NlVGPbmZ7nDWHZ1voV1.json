@@ -1,0 +1,36 @@
+{
+  "id": "1g4NlVGPbmZ7nDWHZ1voV1",
+  "name": "Gridlink",
+  "uri": "spotify:artist:1g4NlVGPbmZ7nDWHZ1voV1",
+  "followers": {
+    "href": null,
+    "total": 8778
+  },
+  "genres": [
+    "american grindcore",
+    "grindcore",
+    "mathgrind",
+    "technical grindcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bee272397939459d6c886d3a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bee272397939459d6c886d3a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bee272397939459d6c886d3a",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1g4NlVGPbmZ7nDWHZ1voV1"
+  }
+}

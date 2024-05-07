@@ -1,0 +1,34 @@
+{
+  "id": "2laJ2jkfB2r3LVDrY7FrPw",
+  "name": "ECID",
+  "uri": "spotify:artist:2laJ2jkfB2r3LVDrY7FrPw",
+  "followers": {
+    "href": null,
+    "total": 5107
+  },
+  "genres": [
+    "abstract hip hop",
+    "underground rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf2add04579066aa85dc49ccc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f2add04579066aa85dc49ccc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f2add04579066aa85dc49ccc",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2laJ2jkfB2r3LVDrY7FrPw"
+  }
+}

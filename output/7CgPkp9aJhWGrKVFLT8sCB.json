@@ -1,0 +1,33 @@
+{
+  "id": "7CgPkp9aJhWGrKVFLT8sCB",
+  "name": "Roca Firme",
+  "uri": "spotify:artist:7CgPkp9aJhWGrKVFLT8sCB",
+  "followers": {
+    "href": null,
+    "total": 4392
+  },
+  "genres": [
+    "rock cristiano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc55ef790e375f1f646cbe150",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c55ef790e375f1f646cbe150",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c55ef790e375f1f646cbe150",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7CgPkp9aJhWGrKVFLT8sCB"
+  }
+}

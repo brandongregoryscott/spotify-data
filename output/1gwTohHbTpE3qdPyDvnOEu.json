@@ -1,0 +1,34 @@
+{
+  "id": "1gwTohHbTpE3qdPyDvnOEu",
+  "name": "The Holdup",
+  "uri": "spotify:artist:1gwTohHbTpE3qdPyDvnOEu",
+  "followers": {
+    "href": null,
+    "total": 57943
+  },
+  "genres": [
+    "reggae fusion",
+    "reggae rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb513763b1f8fec66426a5beea",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174513763b1f8fec66426a5beea",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178513763b1f8fec66426a5beea",
+      "width": 160
+    }
+  ],
+  "popularity": 44,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1gwTohHbTpE3qdPyDvnOEu"
+  }
+}

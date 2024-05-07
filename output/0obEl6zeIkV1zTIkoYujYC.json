@@ -1,0 +1,33 @@
+{
+  "id": "0obEl6zeIkV1zTIkoYujYC",
+  "name": "COCO M",
+  "uri": "spotify:artist:0obEl6zeIkV1zTIkoYujYC",
+  "followers": {
+    "href": null,
+    "total": 88
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb34082787004fc4302e2b7ba9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517434082787004fc4302e2b7ba9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17834082787004fc4302e2b7ba9",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0obEl6zeIkV1zTIkoYujYC"
+  }
+}

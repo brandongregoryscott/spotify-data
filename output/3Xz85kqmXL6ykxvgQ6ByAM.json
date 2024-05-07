@@ -1,0 +1,33 @@
+{
+  "id": "3Xz85kqmXL6ykxvgQ6ByAM",
+  "name": "Some Call Us Heroes",
+  "uri": "spotify:artist:3Xz85kqmXL6ykxvgQ6ByAM",
+  "followers": {
+    "href": null,
+    "total": 519
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb98ccdc402d8f368f49f3649d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517498ccdc402d8f368f49f3649d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17898ccdc402d8f368f49f3649d",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Xz85kqmXL6ykxvgQ6ByAM"
+  }
+}

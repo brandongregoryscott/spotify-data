@@ -1,0 +1,33 @@
+{
+  "id": "58oRcDOFn1MnyCBMgiWZmD",
+  "name": "Tim Presley",
+  "uri": "spotify:artist:58oRcDOFn1MnyCBMgiWZmD",
+  "followers": {
+    "href": null,
+    "total": 3818
+  },
+  "genres": [
+    "psychedelic pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb36130d7b8b56555c4daf7465",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517436130d7b8b56555c4daf7465",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17836130d7b8b56555c4daf7465",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/58oRcDOFn1MnyCBMgiWZmD"
+  }
+}

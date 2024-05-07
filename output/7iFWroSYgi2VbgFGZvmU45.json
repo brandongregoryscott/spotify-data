@@ -1,0 +1,33 @@
+{
+  "id": "7iFWroSYgi2VbgFGZvmU45",
+  "name": "The Kaisers",
+  "uri": "spotify:artist:7iFWroSYgi2VbgFGZvmU45",
+  "followers": {
+    "href": null,
+    "total": 2408
+  },
+  "genres": [
+    "trash rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27381d3e57e5080c3650214ff05",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0281d3e57e5080c3650214ff05",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485181d3e57e5080c3650214ff05",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7iFWroSYgi2VbgFGZvmU45"
+  }
+}

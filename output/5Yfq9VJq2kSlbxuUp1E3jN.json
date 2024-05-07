@@ -1,0 +1,33 @@
+{
+  "id": "5Yfq9VJq2kSlbxuUp1E3jN",
+  "name": "Mikey Silas",
+  "uri": "spotify:artist:5Yfq9VJq2kSlbxuUp1E3jN",
+  "followers": {
+    "href": null,
+    "total": 42
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeee0c33416bc26045abc423d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eee0c33416bc26045abc423d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eee0c33416bc26045abc423d",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Yfq9VJq2kSlbxuUp1E3jN"
+  }
+}

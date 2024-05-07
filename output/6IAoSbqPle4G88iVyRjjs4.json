@@ -1,0 +1,33 @@
+{
+  "id": "6IAoSbqPle4G88iVyRjjs4",
+  "name": "Kirin Day",
+  "uri": "spotify:artist:6IAoSbqPle4G88iVyRjjs4",
+  "followers": {
+    "href": null,
+    "total": 420
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdb2ed7df607b8cbde07f941c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174db2ed7df607b8cbde07f941c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178db2ed7df607b8cbde07f941c",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6IAoSbqPle4G88iVyRjjs4"
+  }
+}

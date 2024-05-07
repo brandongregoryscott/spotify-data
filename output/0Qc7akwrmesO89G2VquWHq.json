@@ -1,0 +1,33 @@
+{
+  "id": "0Qc7akwrmesO89G2VquWHq",
+  "name": "No Coincidence",
+  "uri": "spotify:artist:0Qc7akwrmesO89G2VquWHq",
+  "followers": {
+    "href": null,
+    "total": 250
+  },
+  "genres": [
+    "long island punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebec7612f666222a6d5e5476dd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ec7612f666222a6d5e5476dd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ec7612f666222a6d5e5476dd",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Qc7akwrmesO89G2VquWHq"
+  }
+}

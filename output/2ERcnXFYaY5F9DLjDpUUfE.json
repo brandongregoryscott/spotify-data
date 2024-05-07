@@ -1,0 +1,34 @@
+{
+  "id": "2ERcnXFYaY5F9DLjDpUUfE",
+  "name": "Datblygu",
+  "uri": "spotify:artist:2ERcnXFYaY5F9DLjDpUUfE",
+  "followers": {
+    "href": null,
+    "total": 2944
+  },
+  "genres": [
+    "welsh indie",
+    "welsh rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e4ace4a186e1b003d2828adb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e4ace4a186e1b003d2828adb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e4ace4a186e1b003d2828adb",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ERcnXFYaY5F9DLjDpUUfE"
+  }
+}

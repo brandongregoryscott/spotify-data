@@ -1,0 +1,34 @@
+{
+  "id": "5CiNuMeCD53LOJd4M2HDBz",
+  "name": "Distinto",
+  "uri": "spotify:artist:5CiNuMeCD53LOJd4M2HDBz",
+  "followers": {
+    "href": null,
+    "total": 27553
+  },
+  "genres": [
+    "corridos tumbados",
+    "sad sierreno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb523b69c3f242efd0287dad49",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174523b69c3f242efd0287dad49",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178523b69c3f242efd0287dad49",
+      "width": 160
+    }
+  ],
+  "popularity": 34,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5CiNuMeCD53LOJd4M2HDBz"
+  }
+}

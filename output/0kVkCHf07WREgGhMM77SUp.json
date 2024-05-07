@@ -1,0 +1,33 @@
+{
+  "id": "0kVkCHf07WREgGhMM77SUp",
+  "name": "simplemachine",
+  "uri": "spotify:artist:0kVkCHf07WREgGhMM77SUp",
+  "followers": {
+    "href": null,
+    "total": 114
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27308102234fda87c91c986538f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0208102234fda87c91c986538f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485108102234fda87c91c986538f",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0kVkCHf07WREgGhMM77SUp"
+  }
+}

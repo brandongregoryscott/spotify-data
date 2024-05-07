@@ -1,0 +1,33 @@
+{
+  "id": "7p3xvTVisjvZnUBSFV5LMS",
+  "name": "Yuls",
+  "uri": "spotify:artist:7p3xvTVisjvZnUBSFV5LMS",
+  "followers": {
+    "href": null,
+    "total": 899
+  },
+  "genres": [
+    "manso indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb2e72f7bc7277d4bf40636de",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b2e72f7bc7277d4bf40636de",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b2e72f7bc7277d4bf40636de",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7p3xvTVisjvZnUBSFV5LMS"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2RVIUmJkuEnSIrckPdNjrK",
+  "name": "485",
+  "uri": "spotify:artist:2RVIUmJkuEnSIrckPdNjrK",
+  "followers": {
+    "href": null,
+    "total": 8664
+  },
+  "genres": [
+    "drill"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f96300ab2141af7237c7c7ee",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f96300ab2141af7237c7c7ee",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f96300ab2141af7237c7c7ee",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2RVIUmJkuEnSIrckPdNjrK"
+  }
+}

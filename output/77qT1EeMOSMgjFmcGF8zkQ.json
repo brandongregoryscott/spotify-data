@@ -1,0 +1,33 @@
+{
+  "id": "77qT1EeMOSMgjFmcGF8zkQ",
+  "name": "Yakzyo",
+  "uri": "spotify:artist:77qT1EeMOSMgjFmcGF8zkQ",
+  "followers": {
+    "href": null,
+    "total": 104
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb95d1f9f24a0a3e26732bb1bc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517495d1f9f24a0a3e26732bb1bc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17895d1f9f24a0a3e26732bb1bc",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/77qT1EeMOSMgjFmcGF8zkQ"
+  }
+}

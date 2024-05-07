@@ -1,0 +1,33 @@
+{
+  "id": "3H35hbJajNwRxBykmwBcuj",
+  "name": "Diorama",
+  "uri": "spotify:artist:3H35hbJajNwRxBykmwBcuj",
+  "followers": {
+    "href": null,
+    "total": 185
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcca22e7b92076cd804405b20",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cca22e7b92076cd804405b20",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cca22e7b92076cd804405b20",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3H35hbJajNwRxBykmwBcuj"
+  }
+}

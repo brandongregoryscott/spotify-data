@@ -1,0 +1,33 @@
+{
+  "id": "3Y505tkzVcIKGbqXlMCx98",
+  "name": "An Ocean Of Light",
+  "uri": "spotify:artist:3Y505tkzVcIKGbqXlMCx98",
+  "followers": {
+    "href": null,
+    "total": 547
+  },
+  "genres": [
+    "mexican post-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebca0fb0c8d815f126dbc77bbc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ca0fb0c8d815f126dbc77bbc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ca0fb0c8d815f126dbc77bbc",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Y505tkzVcIKGbqXlMCx98"
+  }
+}

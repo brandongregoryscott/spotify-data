@@ -1,0 +1,33 @@
+{
+  "id": "4NFJfKlf2A6rkLag0MesjU",
+  "name": "Josh Richards",
+  "uri": "spotify:artist:4NFJfKlf2A6rkLag0MesjU",
+  "followers": {
+    "href": null,
+    "total": 121893
+  },
+  "genres": [
+    "social media pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a14921adfbffb3dc4bc0f0db",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a14921adfbffb3dc4bc0f0db",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a14921adfbffb3dc4bc0f0db",
+      "width": 64
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4NFJfKlf2A6rkLag0MesjU"
+  }
+}

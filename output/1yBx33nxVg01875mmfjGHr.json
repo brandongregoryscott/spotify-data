@@ -1,0 +1,33 @@
+{
+  "id": "1yBx33nxVg01875mmfjGHr",
+  "name": "Killtak",
+  "uri": "spotify:artist:1yBx33nxVg01875mmfjGHr",
+  "followers": {
+    "href": null,
+    "total": 3966
+  },
+  "genres": [
+    "necrotrap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf5a522449ba2f34fd3742c5c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f5a522449ba2f34fd3742c5c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f5a522449ba2f34fd3742c5c",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1yBx33nxVg01875mmfjGHr"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7MWQhu1TA9OE4Lps563bN4",
+  "name": "zachy",
+  "uri": "spotify:artist:7MWQhu1TA9OE4Lps563bN4",
+  "followers": {
+    "href": null,
+    "total": 15769
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb57bab773f6ff50e2ab5cf19",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b57bab773f6ff50e2ab5cf19",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b57bab773f6ff50e2ab5cf19",
+      "width": 160
+    }
+  ],
+  "popularity": 41,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4"
+  }
+}

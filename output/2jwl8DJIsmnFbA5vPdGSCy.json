@@ -1,0 +1,36 @@
+{
+  "id": "2jwl8DJIsmnFbA5vPdGSCy",
+  "name": "Bonaparte",
+  "uri": "spotify:artist:2jwl8DJIsmnFbA5vPdGSCy",
+  "followers": {
+    "href": null,
+    "total": 81468
+  },
+  "genres": [
+    "electronic rock",
+    "german alternative rock",
+    "german indie",
+    "swiss indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb58cbf6e7d0850604b0598556",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517458cbf6e7d0850604b0598556",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17858cbf6e7d0850604b0598556",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2jwl8DJIsmnFbA5vPdGSCy"
+  }
+}

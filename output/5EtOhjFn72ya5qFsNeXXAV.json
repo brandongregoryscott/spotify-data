@@ -1,0 +1,34 @@
+{
+  "id": "5EtOhjFn72ya5qFsNeXXAV",
+  "name": "Regional Carioca",
+  "uri": "spotify:artist:5EtOhjFn72ya5qFsNeXXAV",
+  "followers": {
+    "href": null,
+    "total": 283
+  },
+  "genres": [
+    "choro",
+    "choro contemporaneo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733e2e2a08e46f49ec385f286c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023e2e2a08e46f49ec385f286c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513e2e2a08e46f49ec385f286c",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5EtOhjFn72ya5qFsNeXXAV"
+  }
+}

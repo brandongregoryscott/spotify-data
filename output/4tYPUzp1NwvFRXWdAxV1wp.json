@@ -1,0 +1,33 @@
+{
+  "id": "4tYPUzp1NwvFRXWdAxV1wp",
+  "name": "Dazies",
+  "uri": "spotify:artist:4tYPUzp1NwvFRXWdAxV1wp",
+  "followers": {
+    "href": null,
+    "total": 551
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaa8b58080a85aecf8e41fd39",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aa8b58080a85aecf8e41fd39",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aa8b58080a85aecf8e41fd39",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4tYPUzp1NwvFRXWdAxV1wp"
+  }
+}

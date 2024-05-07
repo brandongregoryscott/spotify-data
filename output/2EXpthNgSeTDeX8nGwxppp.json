@@ -1,0 +1,33 @@
+{
+  "id": "2EXpthNgSeTDeX8nGwxppp",
+  "name": "Paris Paloma",
+  "uri": "spotify:artist:2EXpthNgSeTDeX8nGwxppp",
+  "followers": {
+    "href": null,
+    "total": 362972
+  },
+  "genres": [
+    "singer-songwriter pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8a8a0a91903aacb373d68ef6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051748a8a0a91903aacb373d68ef6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1788a8a0a91903aacb373d68ef6",
+      "width": 160
+    }
+  ],
+  "popularity": 61,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+  }
+}

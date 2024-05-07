@@ -1,0 +1,33 @@
+{
+  "id": "3BuxRmHMbdWFDtwTQ2lwe5",
+  "name": "La Zorra Zapata",
+  "uri": "spotify:artist:3BuxRmHMbdWFDtwTQ2lwe5",
+  "followers": {
+    "href": null,
+    "total": 2376
+  },
+  "genres": [
+    "peruvian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb536eb2a69fda81c1a978324e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174536eb2a69fda81c1a978324e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178536eb2a69fda81c1a978324e",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3BuxRmHMbdWFDtwTQ2lwe5"
+  }
+}
