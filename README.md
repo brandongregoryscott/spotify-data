@@ -10,8 +10,6 @@ Every day the [`Sync`](./.github/workflows/sync.yml) workflow will run a Ruby sc
 
 Artist ids can be found by copying & pasting a link to the artist's profile from the Spotify web or desktop applications, which will be in the format: `https://open.spotify.com/artist/:artistId`. This id can then be added to the array in the [`artists.json`](./input/artists.json) file.
 
-````
-
 ## Development
 
 To run the sync script locally, you'll need [Ruby](https://www.ruby-lang.org/) installed. You'll also need a [Spotify Web API key](https://developer.spotify.com/documentation/web-api/tutorials/getting-started).
@@ -19,7 +17,7 @@ To run the sync script locally, you'll need [Ruby](https://www.ruby-lang.org/) i
 ```sh
 bundle install
 CLIENT_IDS=abc123 CLIENT_SECRETS=xyz456 ruby scripts/sync.rb
-````
+```
 
 ## Expanding the git history
 
