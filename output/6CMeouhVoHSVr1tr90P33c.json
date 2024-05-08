@@ -4,25 +4,26 @@
   "uri": "spotify:artist:6CMeouhVoHSVr1tr90P33c",
   "followers": {
     "href": null,
-    "total": 1337
+    "total": 1339
   },
   "genres": [
-    "finnish indie"
+    "finnish indie",
+    "suomi rock"
   ],
   "images": [
     {
       "height": 640,
-      "url": "https://i.scdn.co/image/ab67616d0000b2735920cf88be2f31444ef56afb",
+      "url": "https://i.scdn.co/image/ab67616d0000b27316b39bad458ce6b0edc76b24",
       "width": 640
     },
     {
       "height": 300,
-      "url": "https://i.scdn.co/image/ab67616d00001e025920cf88be2f31444ef56afb",
+      "url": "https://i.scdn.co/image/ab67616d00001e0216b39bad458ce6b0edc76b24",
       "width": 300
     },
     {
       "height": 64,
-      "url": "https://i.scdn.co/image/ab67616d000048515920cf88be2f31444ef56afb",
+      "url": "https://i.scdn.co/image/ab67616d0000485116b39bad458ce6b0edc76b24",
       "width": 64
     }
   ],
