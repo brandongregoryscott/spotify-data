@@ -1,0 +1,33 @@
+{
+  "id": "00YrqcA1jmgdArw3G7MY8x",
+  "name": "Tage",
+  "uri": "spotify:artist:00YrqcA1jmgdArw3G7MY8x",
+  "followers": {
+    "href": null,
+    "total": 557
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd759ad9a51054768007d7001",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d759ad9a51054768007d7001",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d759ad9a51054768007d7001",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/00YrqcA1jmgdArw3G7MY8x"
+  }
+}

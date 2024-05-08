@@ -1,0 +1,33 @@
+{
+  "id": "35D9S4VoeV3sRm6BxvV9aY",
+  "name": "Toody",
+  "uri": "spotify:artist:35D9S4VoeV3sRm6BxvV9aY",
+  "followers": {
+    "href": null,
+    "total": 246
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27301664292b6c3cd3b7d98252b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0201664292b6c3cd3b7d98252b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485101664292b6c3cd3b7d98252b",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/35D9S4VoeV3sRm6BxvV9aY"
+  }
+}

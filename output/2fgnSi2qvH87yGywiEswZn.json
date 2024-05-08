@@ -1,0 +1,33 @@
+{
+  "id": "2fgnSi2qvH87yGywiEswZn",
+  "name": "N.E.N",
+  "uri": "spotify:artist:2fgnSi2qvH87yGywiEswZn",
+  "followers": {
+    "href": null,
+    "total": 167
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273eb006b2be911b16b903f381d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02eb006b2be911b16b903f381d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851eb006b2be911b16b903f381d",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2fgnSi2qvH87yGywiEswZn"
+  }
+}

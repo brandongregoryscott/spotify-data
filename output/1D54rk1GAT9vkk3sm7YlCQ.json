@@ -1,0 +1,33 @@
+{
+  "id": "1D54rk1GAT9vkk3sm7YlCQ",
+  "name": "Anorak",
+  "uri": "spotify:artist:1D54rk1GAT9vkk3sm7YlCQ",
+  "followers": {
+    "href": null,
+    "total": 60
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba5d0a7166c58b59341e30716",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a5d0a7166c58b59341e30716",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a5d0a7166c58b59341e30716",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1D54rk1GAT9vkk3sm7YlCQ"
+  }
+}

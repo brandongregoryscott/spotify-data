@@ -1,0 +1,33 @@
+{
+  "id": "1kjkpbC7g8UaPBF9ifLCsc",
+  "name": "Tom Adams",
+  "uri": "spotify:artist:1kjkpbC7g8UaPBF9ifLCsc",
+  "followers": {
+    "href": null,
+    "total": 371
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb13e04ae6f0a53b826d82856a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517413e04ae6f0a53b826d82856a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17813e04ae6f0a53b826d82856a",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1kjkpbC7g8UaPBF9ifLCsc"
+  }
+}

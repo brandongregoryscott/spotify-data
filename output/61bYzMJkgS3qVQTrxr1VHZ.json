@@ -1,0 +1,35 @@
+{
+  "id": "61bYzMJkgS3qVQTrxr1VHZ",
+  "name": "Черный Лукич",
+  "uri": "spotify:artist:61bYzMJkgS3qVQTrxr1VHZ",
+  "followers": {
+    "href": null,
+    "total": 10948
+  },
+  "genres": [
+    "russian folk rock",
+    "russian punk",
+    "russian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27309fb14f76854b69fbc8ef5da",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0209fb14f76854b69fbc8ef5da",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485109fb14f76854b69fbc8ef5da",
+      "width": 64
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/61bYzMJkgS3qVQTrxr1VHZ"
+  }
+}

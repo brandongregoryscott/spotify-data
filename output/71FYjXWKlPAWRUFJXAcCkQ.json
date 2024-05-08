@@ -1,0 +1,33 @@
+{
+  "id": "71FYjXWKlPAWRUFJXAcCkQ",
+  "name": "Asphalt",
+  "uri": "spotify:artist:71FYjXWKlPAWRUFJXAcCkQ",
+  "followers": {
+    "href": null,
+    "total": 417
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27382b9d4784c1836d4e4cee0af",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0282b9d4784c1836d4e4cee0af",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485182b9d4784c1836d4e4cee0af",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/71FYjXWKlPAWRUFJXAcCkQ"
+  }
+}

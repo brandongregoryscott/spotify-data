@@ -1,0 +1,33 @@
+{
+  "id": "3TOLmOMqoCNcqUw7ekQzLp",
+  "name": "Lavender Blush",
+  "uri": "spotify:artist:3TOLmOMqoCNcqUw7ekQzLp",
+  "followers": {
+    "href": null,
+    "total": 756
+  },
+  "genres": [
+    "american shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc9604eb7985b0eab14c99e03",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c9604eb7985b0eab14c99e03",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c9604eb7985b0eab14c99e03",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3TOLmOMqoCNcqUw7ekQzLp"
+  }
+}

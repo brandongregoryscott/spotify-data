@@ -1,0 +1,33 @@
+{
+  "id": "6X8VxKH2Msq7yvJDr9uVmE",
+  "name": "Англия",
+  "uri": "spotify:artist:6X8VxKH2Msq7yvJDr9uVmE",
+  "followers": {
+    "href": null,
+    "total": 17657
+  },
+  "genres": [
+    "russian post-punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27396bae115b097b38a87888c4c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0296bae115b097b38a87888c4c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485196bae115b097b38a87888c4c",
+      "width": 64
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6X8VxKH2Msq7yvJDr9uVmE"
+  }
+}

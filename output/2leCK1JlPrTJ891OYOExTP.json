@@ -1,0 +1,33 @@
+{
+  "id": "2leCK1JlPrTJ891OYOExTP",
+  "name": "Nikita Titov",
+  "uri": "spotify:artist:2leCK1JlPrTJ891OYOExTP",
+  "followers": {
+    "href": null,
+    "total": 334
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfbe634a2abb58b3bb4676d05",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fbe634a2abb58b3bb4676d05",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fbe634a2abb58b3bb4676d05",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2leCK1JlPrTJ891OYOExTP"
+  }
+}

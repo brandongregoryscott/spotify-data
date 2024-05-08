@@ -1,0 +1,33 @@
+{
+  "id": "10oCYNVAWe1XK0Ui8sgzgp",
+  "name": "Prof. Stranger",
+  "uri": "spotify:artist:10oCYNVAWe1XK0Ui8sgzgp",
+  "followers": {
+    "href": null,
+    "total": 1484
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf2edf7fad4e428653ec8f087",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f2edf7fad4e428653ec8f087",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f2edf7fad4e428653ec8f087",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp"
+  }
+}
