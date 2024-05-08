@@ -1,0 +1,34 @@
+{
+  "id": "1iQVsRr2JalWIOLQa4T7O6",
+  "name": "Odette",
+  "uri": "spotify:artist:1iQVsRr2JalWIOLQa4T7O6",
+  "followers": {
+    "href": null,
+    "total": 51062
+  },
+  "genres": [
+    "australian indie",
+    "australian pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb00f4c02f7be33d3470129013",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517400f4c02f7be33d3470129013",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17800f4c02f7be33d3470129013",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1iQVsRr2JalWIOLQa4T7O6"
+  }
+}

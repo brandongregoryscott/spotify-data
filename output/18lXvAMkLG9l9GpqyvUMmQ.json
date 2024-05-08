@@ -1,0 +1,33 @@
+{
+  "id": "18lXvAMkLG9l9GpqyvUMmQ",
+  "name": "Dark Ride",
+  "uri": "spotify:artist:18lXvAMkLG9l9GpqyvUMmQ",
+  "followers": {
+    "href": null,
+    "total": 1029
+  },
+  "genres": [
+    "horror punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb945dc2146c3b4798578dafaa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174945dc2146c3b4798578dafaa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178945dc2146c3b4798578dafaa",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/18lXvAMkLG9l9GpqyvUMmQ"
+  }
+}

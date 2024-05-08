@@ -1,0 +1,33 @@
+{
+  "id": "16ydzifiKEL37jnLY86ncv",
+  "name": "5ZYL",
+  "uri": "spotify:artist:16ydzifiKEL37jnLY86ncv",
+  "followers": {
+    "href": null,
+    "total": 525
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7d9617d9b305df0dbe04b823",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051747d9617d9b305df0dbe04b823",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1787d9617d9b305df0dbe04b823",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/16ydzifiKEL37jnLY86ncv"
+  }
+}

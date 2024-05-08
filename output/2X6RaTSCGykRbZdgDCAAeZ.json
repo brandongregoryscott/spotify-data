@@ -1,0 +1,33 @@
+{
+  "id": "2X6RaTSCGykRbZdgDCAAeZ",
+  "name": "Aramis",
+  "uri": "spotify:artist:2X6RaTSCGykRbZdgDCAAeZ",
+  "followers": {
+    "href": null,
+    "total": 1009
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb99a86197b6f2b3f4b5fa0e8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b99a86197b6f2b3f4b5fa0e8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b99a86197b6f2b3f4b5fa0e8",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2X6RaTSCGykRbZdgDCAAeZ"
+  }
+}

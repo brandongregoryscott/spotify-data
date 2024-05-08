@@ -1,0 +1,34 @@
+{
+  "id": "0klosoqeWJb81c06DtPKyR",
+  "name": "Hanreti",
+  "uri": "spotify:artist:0klosoqeWJb81c06DtPKyR",
+  "followers": {
+    "href": null,
+    "total": 1662
+  },
+  "genres": [
+    "swiss indie",
+    "swiss pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb639aa656e761cdc97ab54c22",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174639aa656e761cdc97ab54c22",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178639aa656e761cdc97ab54c22",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0klosoqeWJb81c06DtPKyR"
+  }
+}

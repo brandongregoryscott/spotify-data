@@ -1,0 +1,33 @@
+{
+  "id": "1TcJyyAFhS6i3HNtHXEosI",
+  "name": "Klimek",
+  "uri": "spotify:artist:1TcJyyAFhS6i3HNtHXEosI",
+  "followers": {
+    "href": null,
+    "total": 2232
+  },
+  "genres": [
+    "pop ambient"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738a2140a2b2376ae16993406c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028a2140a2b2376ae16993406c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518a2140a2b2376ae16993406c",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1TcJyyAFhS6i3HNtHXEosI"
+  }
+}

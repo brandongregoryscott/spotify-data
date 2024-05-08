@@ -1,0 +1,33 @@
+{
+  "id": "4RG3lvQn54ERQ8uHpN744K",
+  "name": "Linda Batista",
+  "uri": "spotify:artist:4RG3lvQn54ERQ8uHpN744K",
+  "followers": {
+    "href": null,
+    "total": 4635
+  },
+  "genres": [
+    "velha guarda"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27322df9a551c268a5b495e163a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0222df9a551c268a5b495e163a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485122df9a551c268a5b495e163a",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4RG3lvQn54ERQ8uHpN744K"
+  }
+}

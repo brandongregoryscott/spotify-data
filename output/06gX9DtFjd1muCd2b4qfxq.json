@@ -1,0 +1,33 @@
+{
+  "id": "06gX9DtFjd1muCd2b4qfxq",
+  "name": "MettaForm",
+  "uri": "spotify:artist:06gX9DtFjd1muCd2b4qfxq",
+  "followers": {
+    "href": null,
+    "total": 2028
+  },
+  "genres": [
+    "neo-classical"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb54e620aedefc640d4da8e933",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517454e620aedefc640d4da8e933",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17854e620aedefc640d4da8e933",
+      "width": 160
+    }
+  ],
+  "popularity": 43,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/06gX9DtFjd1muCd2b4qfxq"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5e9MMgw5pX2CckK66DmyPP",
+  "name": "Kullnes",
+  "uri": "spotify:artist:5e9MMgw5pX2CckK66DmyPP",
+  "followers": {
+    "href": null,
+    "total": 325
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc8ef03f663f915c02eb833ca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c8ef03f663f915c02eb833ca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c8ef03f663f915c02eb833ca",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5e9MMgw5pX2CckK66DmyPP"
+  }
+}

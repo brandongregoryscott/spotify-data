@@ -1,0 +1,33 @@
+{
+  "id": "2x583f2zJEjkiPd6IY4yfW",
+  "name": "The Anchor",
+  "uri": "spotify:artist:2x583f2zJEjkiPd6IY4yfW",
+  "followers": {
+    "href": null,
+    "total": 40464
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb906cd17ac9a6db1aa6ed63ab",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174906cd17ac9a6db1aa6ed63ab",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178906cd17ac9a6db1aa6ed63ab",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2x583f2zJEjkiPd6IY4yfW"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1guuKNfESGBmEdvgtR9X6H",
+  "name": "El Barco Jalapeño",
+  "uri": "spotify:artist:1guuKNfESGBmEdvgtR9X6H",
+  "followers": {
+    "href": null,
+    "total": 142
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeba100d6322388a10d53f1c7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eba100d6322388a10d53f1c7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eba100d6322388a10d53f1c7",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1guuKNfESGBmEdvgtR9X6H"
+  }
+}

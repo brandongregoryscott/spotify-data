@@ -1,0 +1,33 @@
+{
+  "id": "35EOgHRH89io9NfKvkSBkA",
+  "name": "Luckey",
+  "uri": "spotify:artist:35EOgHRH89io9NfKvkSBkA",
+  "followers": {
+    "href": null,
+    "total": 111
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd56f752045fc68d523a15cd2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d56f752045fc68d523a15cd2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d56f752045fc68d523a15cd2",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/35EOgHRH89io9NfKvkSBkA"
+  }
+}

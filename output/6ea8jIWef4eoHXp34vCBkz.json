@@ -1,0 +1,33 @@
+{
+  "id": "6ea8jIWef4eoHXp34vCBkz",
+  "name": "judith",
+  "uri": "spotify:artist:6ea8jIWef4eoHXp34vCBkz",
+  "followers": {
+    "href": null,
+    "total": 3120
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1e97847f34caaedb39e2d621",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051741e97847f34caaedb39e2d621",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1781e97847f34caaedb39e2d621",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ea8jIWef4eoHXp34vCBkz"
+  }
+}

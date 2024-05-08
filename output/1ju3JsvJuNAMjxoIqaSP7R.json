@@ -1,0 +1,33 @@
+{
+  "id": "1ju3JsvJuNAMjxoIqaSP7R",
+  "name": "SP4K",
+  "uri": "spotify:artist:1ju3JsvJuNAMjxoIqaSP7R",
+  "followers": {
+    "href": null,
+    "total": 4698
+  },
+  "genres": [
+    "russian electronic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeb71ebdc15a4a9f4b5e0d66e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eb71ebdc15a4a9f4b5e0d66e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eb71ebdc15a4a9f4b5e0d66e",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ju3JsvJuNAMjxoIqaSP7R"
+  }
+}

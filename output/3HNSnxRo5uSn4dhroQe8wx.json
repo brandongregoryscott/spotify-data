@@ -1,0 +1,33 @@
+{
+  "id": "3HNSnxRo5uSn4dhroQe8wx",
+  "name": "Joe Danova",
+  "uri": "spotify:artist:3HNSnxRo5uSn4dhroQe8wx",
+  "followers": {
+    "href": null,
+    "total": 380
+  },
+  "genres": [
+    "nueva ola peruana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f239a1c1c599c7dc09ae5015",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f239a1c1c599c7dc09ae5015",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f239a1c1c599c7dc09ae5015",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3HNSnxRo5uSn4dhroQe8wx"
+  }
+}

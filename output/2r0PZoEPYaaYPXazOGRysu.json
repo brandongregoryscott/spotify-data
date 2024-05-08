@@ -1,0 +1,33 @@
+{
+  "id": "2r0PZoEPYaaYPXazOGRysu",
+  "name": "New Canyons",
+  "uri": "spotify:artist:2r0PZoEPYaaYPXazOGRysu",
+  "followers": {
+    "href": null,
+    "total": 2427
+  },
+  "genres": [
+    "indie shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe6948ca0867dce3cc4eaab32",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e6948ca0867dce3cc4eaab32",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e6948ca0867dce3cc4eaab32",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2r0PZoEPYaaYPXazOGRysu"
+  }
+}

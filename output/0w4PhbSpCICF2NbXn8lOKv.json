@@ -1,0 +1,33 @@
+{
+  "id": "0w4PhbSpCICF2NbXn8lOKv",
+  "name": "ETHNO",
+  "uri": "spotify:artist:0w4PhbSpCICF2NbXn8lOKv",
+  "followers": {
+    "href": null,
+    "total": 967
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf57f659304a76468454a79b2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f57f659304a76468454a79b2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f57f659304a76468454a79b2",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0w4PhbSpCICF2NbXn8lOKv"
+  }
+}

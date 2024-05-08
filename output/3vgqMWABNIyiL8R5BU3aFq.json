@@ -1,0 +1,33 @@
+{
+  "id": "3vgqMWABNIyiL8R5BU3aFq",
+  "name": "Body Shop",
+  "uri": "spotify:artist:3vgqMWABNIyiL8R5BU3aFq",
+  "followers": {
+    "href": null,
+    "total": 251
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb77f0dcfce29332b3597d29b4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517477f0dcfce29332b3597d29b4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17877f0dcfce29332b3597d29b4",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3vgqMWABNIyiL8R5BU3aFq"
+  }
+}

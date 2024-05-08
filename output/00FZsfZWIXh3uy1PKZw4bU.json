@@ -1,0 +1,33 @@
+{
+  "id": "00FZsfZWIXh3uy1PKZw4bU",
+  "name": "Post Machinery Environment",
+  "uri": "spotify:artist:00FZsfZWIXh3uy1PKZw4bU",
+  "followers": {
+    "href": null,
+    "total": 45
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb251ff4eeb8bf5e1541d13b10",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174251ff4eeb8bf5e1541d13b10",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178251ff4eeb8bf5e1541d13b10",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/00FZsfZWIXh3uy1PKZw4bU"
+  }
+}

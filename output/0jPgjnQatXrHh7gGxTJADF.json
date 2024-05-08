@@ -1,0 +1,33 @@
+{
+  "id": "0jPgjnQatXrHh7gGxTJADF",
+  "name": "Apoplexia",
+  "uri": "spotify:artist:0jPgjnQatXrHh7gGxTJADF",
+  "followers": {
+    "href": null,
+    "total": 545
+  },
+  "genres": [
+    "vgm remix"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb34b838d524f3842d95d06652",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517434b838d524f3842d95d06652",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17834b838d524f3842d95d06652",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0jPgjnQatXrHh7gGxTJADF"
+  }
+}

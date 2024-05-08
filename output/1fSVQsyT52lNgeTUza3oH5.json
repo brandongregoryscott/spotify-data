@@ -1,0 +1,33 @@
+{
+  "id": "1fSVQsyT52lNgeTUza3oH5",
+  "name": "Jak Lizard",
+  "uri": "spotify:artist:1fSVQsyT52lNgeTUza3oH5",
+  "followers": {
+    "href": null,
+    "total": 5864
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb65ba67ef1782fe24ec4fb62e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517465ba67ef1782fe24ec4fb62e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17865ba67ef1782fe24ec4fb62e",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1fSVQsyT52lNgeTUza3oH5"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4ZWuJykVCXi3lCDqpxV5Fq",
+  "name": "treebones",
+  "uri": "spotify:artist:4ZWuJykVCXi3lCDqpxV5Fq",
+  "followers": {
+    "href": null,
+    "total": 82
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd964d54823506708e3ee73e9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d964d54823506708e3ee73e9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d964d54823506708e3ee73e9",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4ZWuJykVCXi3lCDqpxV5Fq"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7Aqhj2rKmCGA53XqCGqD4T",
+  "name": "Chrvns",
+  "uri": "spotify:artist:7Aqhj2rKmCGA53XqCGqD4T",
+  "followers": {
+    "href": null,
+    "total": 472
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb77bb8220a4371d795ca9d2fe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517477bb8220a4371d795ca9d2fe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17877bb8220a4371d795ca9d2fe",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7Aqhj2rKmCGA53XqCGqD4T"
+  }
+}

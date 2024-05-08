@@ -1,0 +1,33 @@
+{
+  "id": "05amfjThRIbqcovyQxrpsz",
+  "name": "Telo",
+  "uri": "spotify:artist:05amfjThRIbqcovyQxrpsz",
+  "followers": {
+    "href": null,
+    "total": 122
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb45f30c95250d1d4ecf953a9e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517445f30c95250d1d4ecf953a9e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17845f30c95250d1d4ecf953a9e",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05amfjThRIbqcovyQxrpsz"
+  }
+}

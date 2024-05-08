@@ -1,0 +1,33 @@
+{
+  "id": "5bTfPaPH9dYeuVzjSATKfY",
+  "name": "Argota",
+  "uri": "spotify:artist:5bTfPaPH9dYeuVzjSATKfY",
+  "followers": {
+    "href": null,
+    "total": 360
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebea55b18c3cb703bc5fe1662c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ea55b18c3cb703bc5fe1662c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ea55b18c3cb703bc5fe1662c",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5bTfPaPH9dYeuVzjSATKfY"
+  }
+}

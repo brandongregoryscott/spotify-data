@@ -1,0 +1,33 @@
+{
+  "id": "1YuXWXXpfpbv0gH5P0gaEr",
+  "name": "STATIC ANGEL",
+  "uri": "spotify:artist:1YuXWXXpfpbv0gH5P0gaEr",
+  "followers": {
+    "href": null,
+    "total": 1300
+  },
+  "genres": [
+    "hardwave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe811b204720d1ff2f3812f01",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e811b204720d1ff2f3812f01",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e811b204720d1ff2f3812f01",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1YuXWXXpfpbv0gH5P0gaEr"
+  }
+}

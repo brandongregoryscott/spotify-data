@@ -1,0 +1,33 @@
+{
+  "id": "4SkECySVoW3elK9YoBMnwt",
+  "name": "120SEVEN",
+  "uri": "spotify:artist:4SkECySVoW3elK9YoBMnwt",
+  "followers": {
+    "href": null,
+    "total": 844
+  },
+  "genres": [
+    "phonk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc963b33c171e61bd3ee713bd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c963b33c171e61bd3ee713bd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c963b33c171e61bd3ee713bd",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4SkECySVoW3elK9YoBMnwt"
+  }
+}

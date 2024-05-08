@@ -1,0 +1,33 @@
+{
+  "id": "5h7imo0yuTUX0h6OC7O6wb",
+  "name": "Frozen Factory",
+  "uri": "spotify:artist:5h7imo0yuTUX0h6OC7O6wb",
+  "followers": {
+    "href": null,
+    "total": 831
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb75347cb0c8d154ece266069e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517475347cb0c8d154ece266069e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17875347cb0c8d154ece266069e",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5h7imo0yuTUX0h6OC7O6wb"
+  }
+}

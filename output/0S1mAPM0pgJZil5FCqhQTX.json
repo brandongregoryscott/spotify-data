@@ -1,0 +1,35 @@
+{
+  "id": "0S1mAPM0pgJZil5FCqhQTX",
+  "name": "KUTE",
+  "uri": "spotify:artist:0S1mAPM0pgJZil5FCqhQTX",
+  "followers": {
+    "href": null,
+    "total": 166620
+  },
+  "genres": [
+    "aggressive phonk",
+    "drift phonk",
+    "gym phonk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba2646de8f15fd034aa7ecec1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a2646de8f15fd034aa7ecec1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a2646de8f15fd034aa7ecec1",
+      "width": 160
+    }
+  ],
+  "popularity": 58,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX"
+  }
+}

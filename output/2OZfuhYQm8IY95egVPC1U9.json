@@ -1,0 +1,33 @@
+{
+  "id": "2OZfuhYQm8IY95egVPC1U9",
+  "name": "The Shivas",
+  "uri": "spotify:artist:2OZfuhYQm8IY95egVPC1U9",
+  "followers": {
+    "href": null,
+    "total": 29284
+  },
+  "genres": [
+    "portland indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf83f281ab4cf8bf4762a8c13",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f83f281ab4cf8bf4762a8c13",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f83f281ab4cf8bf4762a8c13",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2OZfuhYQm8IY95egVPC1U9"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5dIR8dL2Ml7omnbTnpizeq",
+  "name": "LoDeck",
+  "uri": "spotify:artist:5dIR8dL2Ml7omnbTnpizeq",
+  "followers": {
+    "href": null,
+    "total": 1556
+  },
+  "genres": [
+    "abstract hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdab0da5b55fa4b12e3626ec6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dab0da5b55fa4b12e3626ec6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dab0da5b55fa4b12e3626ec6",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5dIR8dL2Ml7omnbTnpizeq"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6wkMcoraaDls2nK4zsOyJR",
+  "name": "2 Slices",
+  "uri": "spotify:artist:6wkMcoraaDls2nK4zsOyJR",
+  "followers": {
+    "href": null,
+    "total": 441
+  },
+  "genres": [
+    "south carolina indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebefff5a0e277dccdf8d5dbc64",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174efff5a0e277dccdf8d5dbc64",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178efff5a0e277dccdf8d5dbc64",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6wkMcoraaDls2nK4zsOyJR"
+  }
+}

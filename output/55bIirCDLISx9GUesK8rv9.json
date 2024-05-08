@@ -1,0 +1,33 @@
+{
+  "id": "55bIirCDLISx9GUesK8rv9",
+  "name": "Alexander Arpeggio",
+  "uri": "spotify:artist:55bIirCDLISx9GUesK8rv9",
+  "followers": {
+    "href": null,
+    "total": 248
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbcf0864a06ea76a4f188418c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bcf0864a06ea76a4f188418c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bcf0864a06ea76a4f188418c",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/55bIirCDLISx9GUesK8rv9"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5Ai9fmJWhJSz9L8lHGhvB7",
+  "name": "Sivle",
+  "uri": "spotify:artist:5Ai9fmJWhJSz9L8lHGhvB7",
+  "followers": {
+    "href": null,
+    "total": 75
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfef3982847ee2b1eaed9a417",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fef3982847ee2b1eaed9a417",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fef3982847ee2b1eaed9a417",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Ai9fmJWhJSz9L8lHGhvB7"
+  }
+}

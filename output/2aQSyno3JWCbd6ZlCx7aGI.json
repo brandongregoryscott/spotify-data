@@ -1,0 +1,33 @@
+{
+  "id": "2aQSyno3JWCbd6ZlCx7aGI",
+  "name": "Kadela",
+  "uri": "spotify:artist:2aQSyno3JWCbd6ZlCx7aGI",
+  "followers": {
+    "href": null,
+    "total": 1125
+  },
+  "genres": [
+    "psybass"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbd395e97a387da58a330fae3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bd395e97a387da58a330fae3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bd395e97a387da58a330fae3",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2aQSyno3JWCbd6ZlCx7aGI"
+  }
+}

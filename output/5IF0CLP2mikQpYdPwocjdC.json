@@ -1,0 +1,33 @@
+{
+  "id": "5IF0CLP2mikQpYdPwocjdC",
+  "name": "tonanton",
+  "uri": "spotify:artist:5IF0CLP2mikQpYdPwocjdC",
+  "followers": {
+    "href": null,
+    "total": 283
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb47c03bf2bf8e892fab1aaad0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517447c03bf2bf8e892fab1aaad0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17847c03bf2bf8e892fab1aaad0",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5IF0CLP2mikQpYdPwocjdC"
+  }
+}

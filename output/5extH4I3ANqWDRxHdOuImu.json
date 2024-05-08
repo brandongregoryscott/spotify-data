@@ -1,0 +1,34 @@
+{
+  "id": "5extH4I3ANqWDRxHdOuImu",
+  "name": "Kush K",
+  "uri": "spotify:artist:5extH4I3ANqWDRxHdOuImu",
+  "followers": {
+    "href": null,
+    "total": 1894
+  },
+  "genres": [
+    "swiss alternative rock",
+    "swiss indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcc1bec8ef6b46c67c3a1d1fa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cc1bec8ef6b46c67c3a1d1fa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cc1bec8ef6b46c67c3a1d1fa",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5extH4I3ANqWDRxHdOuImu"
+  }
+}

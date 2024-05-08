@@ -1,0 +1,33 @@
+{
+  "id": "14irVozeTn0DEdXOdaWxow",
+  "name": "Bongloard",
+  "uri": "spotify:artist:14irVozeTn0DEdXOdaWxow",
+  "followers": {
+    "href": null,
+    "total": 1552
+  },
+  "genres": [
+    "dutch indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb10cb557695932a54fa7cf6a5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517410cb557695932a54fa7cf6a5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17810cb557695932a54fa7cf6a5",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/14irVozeTn0DEdXOdaWxow"
+  }
+}

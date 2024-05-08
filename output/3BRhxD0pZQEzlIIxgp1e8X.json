@@ -1,0 +1,33 @@
+{
+  "id": "3BRhxD0pZQEzlIIxgp1e8X",
+  "name": "Naya",
+  "uri": "spotify:artist:3BRhxD0pZQEzlIIxgp1e8X",
+  "followers": {
+    "href": null,
+    "total": 123
+  },
+  "genres": [
+    "high vibe"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27361f423f68ad2f217caf1394b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0261f423f68ad2f217caf1394b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485122eb6cf22a6d10a7459c05d0",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3BRhxD0pZQEzlIIxgp1e8X"
+  }
+}

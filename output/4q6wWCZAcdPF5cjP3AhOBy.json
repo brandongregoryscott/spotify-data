@@ -1,0 +1,33 @@
+{
+  "id": "4q6wWCZAcdPF5cjP3AhOBy",
+  "name": "The Cottons",
+  "uri": "spotify:artist:4q6wWCZAcdPF5cjP3AhOBy",
+  "followers": {
+    "href": null,
+    "total": 1060
+  },
+  "genres": [
+    "indonesian indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf407fd33f5a305282608de8a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f407fd33f5a305282608de8a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f407fd33f5a305282608de8a",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4q6wWCZAcdPF5cjP3AhOBy"
+  }
+}

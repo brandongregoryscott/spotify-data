@@ -1,0 +1,33 @@
+{
+  "id": "5319zXLAACLfQq5wvJwtGm",
+  "name": "Hunt",
+  "uri": "spotify:artist:5319zXLAACLfQq5wvJwtGm",
+  "followers": {
+    "href": null,
+    "total": 118
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb90ba20e0ef0e8cfec70bbbd9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517490ba20e0ef0e8cfec70bbbd9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17890ba20e0ef0e8cfec70bbbd9",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5319zXLAACLfQq5wvJwtGm"
+  }
+}

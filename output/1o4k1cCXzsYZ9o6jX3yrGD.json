@@ -1,0 +1,35 @@
+{
+  "id": "1o4k1cCXzsYZ9o6jX3yrGD",
+  "name": "Slow Gherkin",
+  "uri": "spotify:artist:1o4k1cCXzsYZ9o6jX3yrGD",
+  "followers": {
+    "href": null,
+    "total": 5101
+  },
+  "genres": [
+    "modern ska punk",
+    "ska",
+    "ska punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27397f6a93141b654dbc868320a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0297f6a93141b654dbc868320a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485197f6a93141b654dbc868320a",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1o4k1cCXzsYZ9o6jX3yrGD"
+  }
+}

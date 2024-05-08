@@ -1,0 +1,33 @@
+{
+  "id": "6VAUdHbOj9chWt4icIdujL",
+  "name": "Gouger",
+  "uri": "spotify:artist:6VAUdHbOj9chWt4icIdujL",
+  "followers": {
+    "href": null,
+    "total": 26
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb410a126cdede0ddf11dec3a6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174410a126cdede0ddf11dec3a6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178410a126cdede0ddf11dec3a6",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6VAUdHbOj9chWt4icIdujL"
+  }
+}

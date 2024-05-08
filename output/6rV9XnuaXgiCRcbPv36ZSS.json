@@ -1,0 +1,33 @@
+{
+  "id": "6rV9XnuaXgiCRcbPv36ZSS",
+  "name": "CrossChains",
+  "uri": "spotify:artist:6rV9XnuaXgiCRcbPv36ZSS",
+  "followers": {
+    "href": null,
+    "total": 866
+  },
+  "genres": [
+    "ukrainian metalcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf324ac75d48791a34a3aebaf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f324ac75d48791a34a3aebaf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f324ac75d48791a34a3aebaf",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6rV9XnuaXgiCRcbPv36ZSS"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "18pfB891JbZKKn0bCueMvY",
+  "name": "roman around",
+  "uri": "spotify:artist:18pfB891JbZKKn0bCueMvY",
+  "followers": {
+    "href": null,
+    "total": 573
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcca5b42826e833d6240aeb8a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cca5b42826e833d6240aeb8a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cca5b42826e833d6240aeb8a",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/18pfB891JbZKKn0bCueMvY"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2AuHk91R7ilahhcgmi5zWZ",
+  "name": "Mango Juice",
+  "uri": "spotify:artist:2AuHk91R7ilahhcgmi5zWZ",
+  "followers": {
+    "href": null,
+    "total": 186
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb75bed4e0f4bee169bca36f18",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517475bed4e0f4bee169bca36f18",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17875bed4e0f4bee169bca36f18",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2AuHk91R7ilahhcgmi5zWZ"
+  }
+}

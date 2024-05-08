@@ -1,0 +1,33 @@
+{
+  "id": "0FCMpEMLxu21STrF6zqAYN",
+  "name": "2DK",
+  "uri": "spotify:artist:0FCMpEMLxu21STrF6zqAYN",
+  "followers": {
+    "href": null,
+    "total": 762
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb50ee6ce968428d184b461d72",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517450ee6ce968428d184b461d72",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17850ee6ce968428d184b461d72",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0FCMpEMLxu21STrF6zqAYN"
+  }
+}

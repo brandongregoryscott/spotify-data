@@ -1,0 +1,33 @@
+{
+  "id": "6emJUc7aJr2MuomCRr2j1b",
+  "name": "Dejaboo",
+  "uri": "spotify:artist:6emJUc7aJr2MuomCRr2j1b",
+  "followers": {
+    "href": null,
+    "total": 132
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb75ae4567b5c5b34db4dee1aa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517475ae4567b5c5b34db4dee1aa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17875ae4567b5c5b34db4dee1aa",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6emJUc7aJr2MuomCRr2j1b"
+  }
+}

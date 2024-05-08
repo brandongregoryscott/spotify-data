@@ -1,0 +1,34 @@
+{
+  "id": "7Le7y4vmxbBdZs9kQwQKLy",
+  "name": ".foundation",
+  "uri": "spotify:artist:7Le7y4vmxbBdZs9kQwQKLy",
+  "followers": {
+    "href": null,
+    "total": 817
+  },
+  "genres": [
+    "dreampunk",
+    "drift"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebac994ba4e0ded7e8ef368a71",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ac994ba4e0ded7e8ef368a71",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ac994ba4e0ded7e8ef368a71",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7Le7y4vmxbBdZs9kQwQKLy"
+  }
+}

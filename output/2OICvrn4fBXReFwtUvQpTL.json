@@ -1,0 +1,33 @@
+{
+  "id": "2OICvrn4fBXReFwtUvQpTL",
+  "name": "Björn Magnusson",
+  "uri": "spotify:artist:2OICvrn4fBXReFwtUvQpTL",
+  "followers": {
+    "href": null,
+    "total": 245
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273405a946615aec1d7ca304de8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025c22d78ad57c920d13f62f85",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851405a946615aec1d7ca304de8",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2OICvrn4fBXReFwtUvQpTL"
+  }
+}

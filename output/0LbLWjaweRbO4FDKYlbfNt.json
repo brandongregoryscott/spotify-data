@@ -1,0 +1,33 @@
+{
+  "id": "0LbLWjaweRbO4FDKYlbfNt",
+  "name": "Kaiser Chiefs",
+  "uri": "spotify:artist:0LbLWjaweRbO4FDKYlbfNt",
+  "followers": {
+    "href": null,
+    "total": 1307523
+  },
+  "genres": [
+    "modern rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc5e79ef4ced0ccbd8eabd960",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c5e79ef4ced0ccbd8eabd960",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c5e79ef4ced0ccbd8eabd960",
+      "width": 160
+    }
+  ],
+  "popularity": 55,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "14u41pCBAjq2YTcu4GU2X3",
+  "name": "Thythy",
+  "uri": "spotify:artist:14u41pCBAjq2YTcu4GU2X3",
+  "followers": {
+    "href": null,
+    "total": 3137
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb44c7310dc05723fd79f01270",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517444c7310dc05723fd79f01270",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17844c7310dc05723fd79f01270",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/14u41pCBAjq2YTcu4GU2X3"
+  }
+}

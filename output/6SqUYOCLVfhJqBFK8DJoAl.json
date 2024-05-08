@@ -1,0 +1,33 @@
+{
+  "id": "6SqUYOCLVfhJqBFK8DJoAl",
+  "name": "Decromc",
+  "uri": "spotify:artist:6SqUYOCLVfhJqBFK8DJoAl",
+  "followers": {
+    "href": null,
+    "total": 37
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebef8e29ba338167b3006cc0ed",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ef8e29ba338167b3006cc0ed",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ef8e29ba338167b3006cc0ed",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6SqUYOCLVfhJqBFK8DJoAl"
+  }
+}

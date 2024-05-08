@@ -1,0 +1,33 @@
+{
+  "id": "5HdnwfQCS079f1iZ5XvfId",
+  "name": "Dogbite",
+  "uri": "spotify:artist:5HdnwfQCS079f1iZ5XvfId",
+  "followers": {
+    "href": null,
+    "total": 5627
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfb83dc138b45174f061c31fa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fb83dc138b45174f061c31fa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fb83dc138b45174f061c31fa",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5HdnwfQCS079f1iZ5XvfId"
+  }
+}

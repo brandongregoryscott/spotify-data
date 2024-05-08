@@ -1,0 +1,33 @@
+{
+  "id": "43s6uFZrdusv7ggmDSpO41",
+  "name": "TaTa",
+  "uri": "spotify:artist:43s6uFZrdusv7ggmDSpO41",
+  "followers": {
+    "href": null,
+    "total": 149576
+  },
+  "genres": [
+    "new york drill"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb37a465ddc4a787a925f81464",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517437a465ddc4a787a925f81464",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17837a465ddc4a787a925f81464",
+      "width": 160
+    }
+  ],
+  "popularity": 61,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "5SFiFXrRosRoIrT8EmIV3R",
+  "name": "CDC",
+  "uri": "spotify:artist:5SFiFXrRosRoIrT8EmIV3R",
+  "followers": {
+    "href": null,
+    "total": 10030
+  },
+  "genres": [
+    "beatdown",
+    "hardcore",
+    "pennsylvania hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273947e9dbdc28e89059a883c7a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02947e9dbdc28e89059a883c7a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851947e9dbdc28e89059a883c7a",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5SFiFXrRosRoIrT8EmIV3R"
+  }
+}

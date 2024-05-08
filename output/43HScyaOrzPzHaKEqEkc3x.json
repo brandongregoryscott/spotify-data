@@ -1,0 +1,33 @@
+{
+  "id": "43HScyaOrzPzHaKEqEkc3x",
+  "name": "Jiří Horák",
+  "uri": "spotify:artist:43HScyaOrzPzHaKEqEkc3x",
+  "followers": {
+    "href": null,
+    "total": 7311
+  },
+  "genres": [
+    "neo-classical"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb54db01facd6cb661134d3039",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517454db01facd6cb661134d3039",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17854db01facd6cb661134d3039",
+      "width": 160
+    }
+  ],
+  "popularity": 51,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x"
+  }
+}

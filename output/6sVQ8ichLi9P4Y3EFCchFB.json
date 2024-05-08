@@ -1,0 +1,34 @@
+{
+  "id": "6sVQ8ichLi9P4Y3EFCchFB",
+  "name": "lespecial",
+  "uri": "spotify:artist:6sVQ8ichLi9P4Y3EFCchFB",
+  "followers": {
+    "href": null,
+    "total": 18981
+  },
+  "genres": [
+    "connecticut indie",
+    "jam band"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc920146466862ffa2403417b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c920146466862ffa2403417b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c920146466862ffa2403417b",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6sVQ8ichLi9P4Y3EFCchFB"
+  }
+}

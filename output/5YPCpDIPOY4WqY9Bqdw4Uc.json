@@ -1,0 +1,33 @@
+{
+  "id": "5YPCpDIPOY4WqY9Bqdw4Uc",
+  "name": "Jimmy Brown",
+  "uri": "spotify:artist:5YPCpDIPOY4WqY9Bqdw4Uc",
+  "followers": {
+    "href": null,
+    "total": 158441
+  },
+  "genres": [
+    "bedroom r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcd31e9665c4c27702e58499a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cd31e9665c4c27702e58499a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cd31e9665c4c27702e58499a",
+      "width": 160
+    }
+  ],
+  "popularity": 48,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+  }
+}

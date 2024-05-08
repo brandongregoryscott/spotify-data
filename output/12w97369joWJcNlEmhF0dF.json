@@ -1,0 +1,33 @@
+{
+  "id": "12w97369joWJcNlEmhF0dF",
+  "name": "Victera",
+  "uri": "spotify:artist:12w97369joWJcNlEmhF0dF",
+  "followers": {
+    "href": null,
+    "total": 272
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb91b6e06ebaa70009b61ae36d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517491b6e06ebaa70009b61ae36d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17891b6e06ebaa70009b61ae36d",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/12w97369joWJcNlEmhF0dF"
+  }
+}

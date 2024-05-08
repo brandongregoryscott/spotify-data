@@ -1,0 +1,33 @@
+{
+  "id": "2VvuAM86NNzZg9KEN2n5SW",
+  "name": "Visitors",
+  "uri": "spotify:artist:2VvuAM86NNzZg9KEN2n5SW",
+  "followers": {
+    "href": null,
+    "total": 488
+  },
+  "genres": [
+    "swancore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739c6d1a394d30b8e88d0f2584",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029c6d1a394d30b8e88d0f2584",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519c6d1a394d30b8e88d0f2584",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2VvuAM86NNzZg9KEN2n5SW"
+  }
+}

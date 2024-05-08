@@ -1,0 +1,33 @@
+{
+  "id": "4qbplccUqX77UU5sARogUd",
+  "name": "VXDE",
+  "uri": "spotify:artist:4qbplccUqX77UU5sARogUd",
+  "followers": {
+    "href": null,
+    "total": 53
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb833e2701c4579db65214fe78",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174833e2701c4579db65214fe78",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178833e2701c4579db65214fe78",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4qbplccUqX77UU5sARogUd"
+  }
+}

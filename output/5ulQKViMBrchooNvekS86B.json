@@ -1,0 +1,33 @@
+{
+  "id": "5ulQKViMBrchooNvekS86B",
+  "name": "Eternal Melody",
+  "uri": "spotify:artist:5ulQKViMBrchooNvekS86B",
+  "followers": {
+    "href": null,
+    "total": 9815
+  },
+  "genres": [
+    "kawaii metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273224d34cbf957c34bdae1304f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02224d34cbf957c34bdae1304f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851224d34cbf957c34bdae1304f",
+      "width": 64
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ulQKViMBrchooNvekS86B"
+  }
+}

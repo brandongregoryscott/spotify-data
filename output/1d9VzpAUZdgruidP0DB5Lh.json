@@ -1,0 +1,33 @@
+{
+  "id": "1d9VzpAUZdgruidP0DB5Lh",
+  "name": "Akosmo",
+  "uri": "spotify:artist:1d9VzpAUZdgruidP0DB5Lh",
+  "followers": {
+    "href": null,
+    "total": 2761
+  },
+  "genres": [
+    "lo-fi vgm"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb16bb9a681e3ca3a834d1fb26",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517416bb9a681e3ca3a834d1fb26",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17816bb9a681e3ca3a834d1fb26",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1d9VzpAUZdgruidP0DB5Lh"
+  }
+}

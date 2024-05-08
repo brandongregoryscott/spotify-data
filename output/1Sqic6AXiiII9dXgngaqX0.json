@@ -1,0 +1,33 @@
+{
+  "id": "1Sqic6AXiiII9dXgngaqX0",
+  "name": "Tiger Beat",
+  "uri": "spotify:artist:1Sqic6AXiiII9dXgngaqX0",
+  "followers": {
+    "href": null,
+    "total": 19
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738c74e387d884995c24b87396",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028c74e387d884995c24b87396",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518c74e387d884995c24b87396",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Sqic6AXiiII9dXgngaqX0"
+  }
+}

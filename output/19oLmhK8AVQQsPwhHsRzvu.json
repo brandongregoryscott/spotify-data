@@ -1,0 +1,33 @@
+{
+  "id": "19oLmhK8AVQQsPwhHsRzvu",
+  "name": "Cybermilk",
+  "uri": "spotify:artist:19oLmhK8AVQQsPwhHsRzvu",
+  "followers": {
+    "href": null,
+    "total": 617
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdf09f45fa10085a7919a1d4e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174df09f45fa10085a7919a1d4e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178df09f45fa10085a7919a1d4e",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/19oLmhK8AVQQsPwhHsRzvu"
+  }
+}

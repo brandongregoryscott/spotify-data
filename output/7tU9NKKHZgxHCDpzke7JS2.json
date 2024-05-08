@@ -1,0 +1,35 @@
+{
+  "id": "7tU9NKKHZgxHCDpzke7JS2",
+  "name": "Hoods",
+  "uri": "spotify:artist:7tU9NKKHZgxHCDpzke7JS2",
+  "followers": {
+    "href": null,
+    "total": 22556
+  },
+  "genres": [
+    "beatdown",
+    "hardcore",
+    "straight edge"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bce5b48b4b0c4d5703ea87da",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bce5b48b4b0c4d5703ea87da",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bce5b48b4b0c4d5703ea87da",
+      "width": 64
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7tU9NKKHZgxHCDpzke7JS2"
+  }
+}

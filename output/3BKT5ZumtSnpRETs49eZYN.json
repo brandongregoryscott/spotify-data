@@ -1,0 +1,33 @@
+{
+  "id": "3BKT5ZumtSnpRETs49eZYN",
+  "name": "Ant Cooper",
+  "uri": "spotify:artist:3BKT5ZumtSnpRETs49eZYN",
+  "followers": {
+    "href": null,
+    "total": 49
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e2b3c1ccb17437c6a98ca95f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e2b3c1ccb17437c6a98ca95f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e2b3c1ccb17437c6a98ca95f",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3BKT5ZumtSnpRETs49eZYN"
+  }
+}

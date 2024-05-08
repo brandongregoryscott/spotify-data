@@ -1,0 +1,33 @@
+{
+  "id": "1DLebOwQpa2ciGvqzCbfKg",
+  "name": "Zach Myers",
+  "uri": "spotify:artist:1DLebOwQpa2ciGvqzCbfKg",
+  "followers": {
+    "href": null,
+    "total": 434
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734210009f29eb588ed03501cb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024210009f29eb588ed03501cb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514210009f29eb588ed03501cb",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1DLebOwQpa2ciGvqzCbfKg"
+  }
+}

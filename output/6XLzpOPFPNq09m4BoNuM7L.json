@@ -1,0 +1,33 @@
+{
+  "id": "6XLzpOPFPNq09m4BoNuM7L",
+  "name": "Walter Melon",
+  "uri": "spotify:artist:6XLzpOPFPNq09m4BoNuM7L",
+  "followers": {
+    "href": null,
+    "total": 53
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf441ca64354619a38d51858a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f441ca64354619a38d51858a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f441ca64354619a38d51858a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6XLzpOPFPNq09m4BoNuM7L"
+  }
+}

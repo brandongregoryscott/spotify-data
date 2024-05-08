@@ -1,0 +1,33 @@
+{
+  "id": "3ulcHuTU6eBcORZBJDhG6m",
+  "name": "Semantics",
+  "uri": "spotify:artist:3ulcHuTU6eBcORZBJDhG6m",
+  "followers": {
+    "href": null,
+    "total": 5744
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd7ad5f7315465c1258f43824",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d7ad5f7315465c1258f43824",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d7ad5f7315465c1258f43824",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ulcHuTU6eBcORZBJDhG6m"
+  }
+}

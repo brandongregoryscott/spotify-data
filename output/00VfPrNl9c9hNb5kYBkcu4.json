@@ -1,0 +1,33 @@
+{
+  "id": "00VfPrNl9c9hNb5kYBkcu4",
+  "name": "Near Avenue",
+  "uri": "spotify:artist:00VfPrNl9c9hNb5kYBkcu4",
+  "followers": {
+    "href": null,
+    "total": 2243
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba68e8ebc1a497028c1892dca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a68e8ebc1a497028c1892dca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a68e8ebc1a497028c1892dca",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/00VfPrNl9c9hNb5kYBkcu4"
+  }
+}

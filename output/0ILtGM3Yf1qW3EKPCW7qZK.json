@@ -1,0 +1,33 @@
+{
+  "id": "0ILtGM3Yf1qW3EKPCW7qZK",
+  "name": "imcreased",
+  "uri": "spotify:artist:0ILtGM3Yf1qW3EKPCW7qZK",
+  "followers": {
+    "href": null,
+    "total": 167
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb64600531c2389053623c9e29",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517464600531c2389053623c9e29",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17864600531c2389053623c9e29",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ILtGM3Yf1qW3EKPCW7qZK"
+  }
+}

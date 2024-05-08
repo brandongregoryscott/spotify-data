@@ -1,0 +1,33 @@
+{
+  "id": "2hTi3lg1aFI3NUIVpYulhA",
+  "name": "Dogshot",
+  "uri": "spotify:artist:2hTi3lg1aFI3NUIVpYulhA",
+  "followers": {
+    "href": null,
+    "total": 45
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27307c13b225bef57e78c7fe05f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0207c13b225bef57e78c7fe05f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485107c13b225bef57e78c7fe05f",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2hTi3lg1aFI3NUIVpYulhA"
+  }
+}

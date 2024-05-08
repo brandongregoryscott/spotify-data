@@ -1,0 +1,33 @@
+{
+  "id": "0P9ZIaZFsTjMvHn6p7JEtM",
+  "name": "saegeas",
+  "uri": "spotify:artist:0P9ZIaZFsTjMvHn6p7JEtM",
+  "followers": {
+    "href": null,
+    "total": 200
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf2472672dff21e4091054d26",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f2472672dff21e4091054d26",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f2472672dff21e4091054d26",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0P9ZIaZFsTjMvHn6p7JEtM"
+  }
+}

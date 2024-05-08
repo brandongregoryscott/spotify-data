@@ -1,0 +1,33 @@
+{
+  "id": "65dWP44iS1AM3DhsMyumfF",
+  "name": "The Witch",
+  "uri": "spotify:artist:65dWP44iS1AM3DhsMyumfF",
+  "followers": {
+    "href": null,
+    "total": 251
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb169fc53e95974b2615a69ce",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b169fc53e95974b2615a69ce",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b169fc53e95974b2615a69ce",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/65dWP44iS1AM3DhsMyumfF"
+  }
+}

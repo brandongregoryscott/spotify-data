@@ -1,0 +1,33 @@
+{
+  "id": "0GRWWUM06hf7ZTfni3cGD6",
+  "name": "Unbknt",
+  "uri": "spotify:artist:0GRWWUM06hf7ZTfni3cGD6",
+  "followers": {
+    "href": null,
+    "total": 100
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb77d84229b1d3bbe066fe5cff",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517477d84229b1d3bbe066fe5cff",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17877d84229b1d3bbe066fe5cff",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0GRWWUM06hf7ZTfni3cGD6"
+  }
+}

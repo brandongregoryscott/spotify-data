@@ -1,0 +1,33 @@
+{
+  "id": "3tavpzPlzpMolMASIasTAh",
+  "name": "Peter Grummich",
+  "uri": "spotify:artist:3tavpzPlzpMolMASIasTAh",
+  "followers": {
+    "href": null,
+    "total": 441
+  },
+  "genres": [
+    "pop ambient"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739a9004b356982b79c9ab674b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029a9004b356982b79c9ab674b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519a9004b356982b79c9ab674b",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3tavpzPlzpMolMASIasTAh"
+  }
+}

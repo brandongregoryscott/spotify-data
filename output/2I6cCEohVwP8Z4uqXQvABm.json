@@ -1,0 +1,33 @@
+{
+  "id": "2I6cCEohVwP8Z4uqXQvABm",
+  "name": "голос медведя",
+  "uri": "spotify:artist:2I6cCEohVwP8Z4uqXQvABm",
+  "followers": {
+    "href": null,
+    "total": 25
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe6fdcb26609705570e86b1d2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e6fdcb26609705570e86b1d2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e6fdcb26609705570e86b1d2",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2I6cCEohVwP8Z4uqXQvABm"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1h2X07OI84EAV3SJfGr4O6",
+  "name": "azalia",
+  "uri": "spotify:artist:1h2X07OI84EAV3SJfGr4O6",
+  "followers": {
+    "href": null,
+    "total": 70
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731537d7557a59c2f76f64dd9d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021537d7557a59c2f76f64dd9d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511537d7557a59c2f76f64dd9d",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1h2X07OI84EAV3SJfGr4O6"
+  }
+}

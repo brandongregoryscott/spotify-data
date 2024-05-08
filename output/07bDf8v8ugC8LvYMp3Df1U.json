@@ -1,0 +1,33 @@
+{
+  "id": "07bDf8v8ugC8LvYMp3Df1U",
+  "name": "Echo Map",
+  "uri": "spotify:artist:07bDf8v8ugC8LvYMp3Df1U",
+  "followers": {
+    "href": null,
+    "total": 3059
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb8965d186832b2d00a58e83d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b8965d186832b2d00a58e83d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b8965d186832b2d00a58e83d",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07bDf8v8ugC8LvYMp3Df1U"
+  }
+}
