@@ -1,0 +1,33 @@
+{
+  "id": "00KnVJ7mQBdRvjexTyrMOw",
+  "name": "The Motifs",
+  "uri": "spotify:artist:00KnVJ7mQBdRvjexTyrMOw",
+  "followers": {
+    "href": null,
+    "total": 301
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b795c745c666308d29fc3048",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b795c745c666308d29fc3048",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b795c745c666308d29fc3048",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/00KnVJ7mQBdRvjexTyrMOw"
+  }
+}

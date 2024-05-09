@@ -1,0 +1,33 @@
+{
+  "id": "6MsvtjbBqDoNljcBEqcPIl",
+  "name": "Kneco",
+  "uri": "spotify:artist:6MsvtjbBqDoNljcBEqcPIl",
+  "followers": {
+    "href": null,
+    "total": 238
+  },
+  "genres": [
+    "ghettotech"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27360c205f53eb205f40ff542ee",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0260c205f53eb205f40ff542ee",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485160c205f53eb205f40ff542ee",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6MsvtjbBqDoNljcBEqcPIl"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3JZEAQTnCJ4SbjjZM5G2L8",
+  "name": "Some Bad Days",
+  "uri": "spotify:artist:3JZEAQTnCJ4SbjjZM5G2L8",
+  "followers": {
+    "href": null,
+    "total": 207
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bc5bb3381db94bdadd8b7449",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bc5bb3381db94bdadd8b7449",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bc5bb3381db94bdadd8b7449",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3JZEAQTnCJ4SbjjZM5G2L8"
+  }
+}

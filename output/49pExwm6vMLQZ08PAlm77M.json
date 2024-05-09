@@ -1,0 +1,33 @@
+{
+  "id": "49pExwm6vMLQZ08PAlm77M",
+  "name": "Senso",
+  "uri": "spotify:artist:49pExwm6vMLQZ08PAlm77M",
+  "followers": {
+    "href": null,
+    "total": 574
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfc2a51168aa421f9f05e9910",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fc2a51168aa421f9f05e9910",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fc2a51168aa421f9f05e9910",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/49pExwm6vMLQZ08PAlm77M"
+  }
+}

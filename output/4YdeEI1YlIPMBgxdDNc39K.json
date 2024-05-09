@@ -1,0 +1,34 @@
+{
+  "id": "4YdeEI1YlIPMBgxdDNc39K",
+  "name": "Beamon",
+  "uri": "spotify:artist:4YdeEI1YlIPMBgxdDNc39K",
+  "followers": {
+    "href": null,
+    "total": 31896
+  },
+  "genres": [
+    "dark trap",
+    "emo rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf3a91fb73bdd3336c25e8b3a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f3a91fb73bdd3336c25e8b3a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f3a91fb73bdd3336c25e8b3a",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4YdeEI1YlIPMBgxdDNc39K"
+  }
+}

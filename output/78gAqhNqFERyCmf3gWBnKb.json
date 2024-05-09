@@ -1,0 +1,33 @@
+{
+  "id": "78gAqhNqFERyCmf3gWBnKb",
+  "name": "Troy Laurent",
+  "uri": "spotify:artist:78gAqhNqFERyCmf3gWBnKb",
+  "followers": {
+    "href": null,
+    "total": 151
+  },
+  "genres": [
+    "hyperpop en espanol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb897304af2099f709861babf0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174897304af2099f709861babf0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178897304af2099f709861babf0",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/78gAqhNqFERyCmf3gWBnKb"
+  }
+}

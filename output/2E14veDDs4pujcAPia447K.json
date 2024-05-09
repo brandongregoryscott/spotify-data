@@ -1,0 +1,33 @@
+{
+  "id": "2E14veDDs4pujcAPia447K",
+  "name": "rex_incc",
+  "uri": "spotify:artist:2E14veDDs4pujcAPia447K",
+  "followers": {
+    "href": null,
+    "total": 386
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbd337431c7fec9386acb427a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bd337431c7fec9386acb427a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bd337431c7fec9386acb427a",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2E14veDDs4pujcAPia447K"
+  }
+}

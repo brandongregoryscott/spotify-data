@@ -1,0 +1,33 @@
+{
+  "id": "2Yt9GbnJRUR3gopzAQEaOU",
+  "name": "Sugar",
+  "uri": "spotify:artist:2Yt9GbnJRUR3gopzAQEaOU",
+  "followers": {
+    "href": null,
+    "total": 2404
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733060b88111d251a9e8155b1c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023060b88111d251a9e8155b1c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513060b88111d251a9e8155b1c",
+      "width": 64
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Yt9GbnJRUR3gopzAQEaOU"
+  }
+}

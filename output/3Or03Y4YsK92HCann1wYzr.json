@@ -1,0 +1,33 @@
+{
+  "id": "3Or03Y4YsK92HCann1wYzr",
+  "name": "Young Famous",
+  "uri": "spotify:artist:3Or03Y4YsK92HCann1wYzr",
+  "followers": {
+    "href": null,
+    "total": 3444
+  },
+  "genres": [
+    "chicago drill"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27350520e618ff9f110ba29d13c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0250520e618ff9f110ba29d13c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485150520e618ff9f110ba29d13c",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Or03Y4YsK92HCann1wYzr"
+  }
+}

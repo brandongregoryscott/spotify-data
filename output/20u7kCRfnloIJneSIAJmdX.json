@@ -1,0 +1,33 @@
+{
+  "id": "20u7kCRfnloIJneSIAJmdX",
+  "name": "NOVA",
+  "uri": "spotify:artist:20u7kCRfnloIJneSIAJmdX",
+  "followers": {
+    "href": null,
+    "total": 31
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb20a087308246824dea51e934",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517420a087308246824dea51e934",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17820a087308246824dea51e934",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/20u7kCRfnloIJneSIAJmdX"
+  }
+}

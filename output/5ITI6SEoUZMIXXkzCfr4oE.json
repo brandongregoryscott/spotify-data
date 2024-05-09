@@ -1,0 +1,34 @@
+{
+  "id": "5ITI6SEoUZMIXXkzCfr4oE",
+  "name": "Aluna",
+  "uri": "spotify:artist:5ITI6SEoUZMIXXkzCfr4oE",
+  "followers": {
+    "href": null,
+    "total": 75473
+  },
+  "genres": [
+    "dance pop",
+    "uk dance"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfd31c630c1a72de7e89a2be7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fd31c630c1a72de7e89a2be7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fd31c630c1a72de7e89a2be7",
+      "width": 160
+    }
+  ],
+  "popularity": 59,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+  }
+}

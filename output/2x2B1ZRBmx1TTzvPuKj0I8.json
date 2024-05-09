@@ -1,0 +1,33 @@
+{
+  "id": "2x2B1ZRBmx1TTzvPuKj0I8",
+  "name": "Beeson",
+  "uri": "spotify:artist:2x2B1ZRBmx1TTzvPuKj0I8",
+  "followers": {
+    "href": null,
+    "total": 3638
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb8852dab4fef1a41119e8c8e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b8852dab4fef1a41119e8c8e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b8852dab4fef1a41119e8c8e",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2x2B1ZRBmx1TTzvPuKj0I8"
+  }
+}

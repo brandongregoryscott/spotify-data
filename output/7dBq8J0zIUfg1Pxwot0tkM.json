@@ -1,0 +1,33 @@
+{
+  "id": "7dBq8J0zIUfg1Pxwot0tkM",
+  "name": "EUS",
+  "uri": "spotify:artist:7dBq8J0zIUfg1Pxwot0tkM",
+  "followers": {
+    "href": null,
+    "total": 115
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb05797b37a6f2c831ae4229ba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517405797b37a6f2c831ae4229ba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17805797b37a6f2c831ae4229ba",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7dBq8J0zIUfg1Pxwot0tkM"
+  }
+}

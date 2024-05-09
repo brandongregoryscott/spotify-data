@@ -1,0 +1,33 @@
+{
+  "id": "58pD3pmsAGOlIjQG0yoKwt",
+  "name": "Nada",
+  "uri": "spotify:artist:58pD3pmsAGOlIjQG0yoKwt",
+  "followers": {
+    "href": null,
+    "total": 458
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732ed762e7067665120ed08394",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022ed762e7067665120ed08394",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512ed762e7067665120ed08394",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/58pD3pmsAGOlIjQG0yoKwt"
+  }
+}

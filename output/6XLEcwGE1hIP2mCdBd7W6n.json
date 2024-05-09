@@ -1,0 +1,33 @@
+{
+  "id": "6XLEcwGE1hIP2mCdBd7W6n",
+  "name": "Bware",
+  "uri": "spotify:artist:6XLEcwGE1hIP2mCdBd7W6n",
+  "followers": {
+    "href": null,
+    "total": 77
+  },
+  "genres": [
+    "indie canario"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb72e73c7532845d10b6228877",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517472e73c7532845d10b6228877",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17872e73c7532845d10b6228877",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6XLEcwGE1hIP2mCdBd7W6n"
+  }
+}

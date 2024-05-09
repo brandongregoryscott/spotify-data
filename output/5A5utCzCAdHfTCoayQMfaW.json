@@ -1,0 +1,33 @@
+{
+  "id": "5A5utCzCAdHfTCoayQMfaW",
+  "name": "Bröthers",
+  "uri": "spotify:artist:5A5utCzCAdHfTCoayQMfaW",
+  "followers": {
+    "href": null,
+    "total": 166
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb089f63ebd82b6efd0b88b287",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174089f63ebd82b6efd0b88b287",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178089f63ebd82b6efd0b88b287",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5A5utCzCAdHfTCoayQMfaW"
+  }
+}

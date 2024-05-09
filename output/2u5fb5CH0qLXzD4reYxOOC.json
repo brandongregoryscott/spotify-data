@@ -1,0 +1,33 @@
+{
+  "id": "2u5fb5CH0qLXzD4reYxOOC",
+  "name": "Business School",
+  "uri": "spotify:artist:2u5fb5CH0qLXzD4reYxOOC",
+  "followers": {
+    "href": null,
+    "total": 292
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb73a2b2556336219ce4e94967",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517473a2b2556336219ce4e94967",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17873a2b2556336219ce4e94967",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2u5fb5CH0qLXzD4reYxOOC"
+  }
+}

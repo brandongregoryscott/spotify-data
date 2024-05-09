@@ -1,0 +1,33 @@
+{
+  "id": "1wqyyR1wzTOTklFwNBcNOP",
+  "name": "I.L Will",
+  "uri": "spotify:artist:1wqyyR1wzTOTklFwNBcNOP",
+  "followers": {
+    "href": null,
+    "total": 2138
+  },
+  "genres": [
+    "drill"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27349ece5a86e3a3b2e8f3f3aa5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0249ece5a86e3a3b2e8f3f3aa5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485149ece5a86e3a3b2e8f3f3aa5",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1wqyyR1wzTOTklFwNBcNOP"
+  }
+}

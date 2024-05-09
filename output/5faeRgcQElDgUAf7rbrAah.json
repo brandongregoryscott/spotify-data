@@ -1,0 +1,33 @@
+{
+  "id": "5faeRgcQElDgUAf7rbrAah",
+  "name": "The Heck",
+  "uri": "spotify:artist:5faeRgcQElDgUAf7rbrAah",
+  "followers": {
+    "href": null,
+    "total": 341
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb412ce33baa37ce57bf856e5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b412ce33baa37ce57bf856e5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b412ce33baa37ce57bf856e5",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5faeRgcQElDgUAf7rbrAah"
+  }
+}

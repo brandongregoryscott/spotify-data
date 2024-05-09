@@ -1,0 +1,33 @@
+{
+  "id": "4dgw8NldRlwLX6JuqZCc6m",
+  "name": "The 3Eyed",
+  "uri": "spotify:artist:4dgw8NldRlwLX6JuqZCc6m",
+  "followers": {
+    "href": null,
+    "total": 384
+  },
+  "genres": [
+    "industrial hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb74aed20fe83c13299f4eb04b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517474aed20fe83c13299f4eb04b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17874aed20fe83c13299f4eb04b",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4dgw8NldRlwLX6JuqZCc6m"
+  }
+}

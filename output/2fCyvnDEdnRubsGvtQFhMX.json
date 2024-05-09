@@ -1,0 +1,35 @@
+{
+  "id": "2fCyvnDEdnRubsGvtQFhMX",
+  "name": "Zynic",
+  "uri": "spotify:artist:2fCyvnDEdnRubsGvtQFhMX",
+  "followers": {
+    "href": null,
+    "total": 7488
+  },
+  "genres": [
+    "dark electro",
+    "futurepop",
+    "neo-synthpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbae90b17e516f488071f63f8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bae90b17e516f488071f63f8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bae90b17e516f488071f63f8",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2fCyvnDEdnRubsGvtQFhMX"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2Kj1kESDk51ret8rltdZYK",
+  "name": "State Of The Union",
+  "uri": "spotify:artist:2Kj1kESDk51ret8rltdZYK",
+  "followers": {
+    "href": null,
+    "total": 8001
+  },
+  "genres": [
+    "futurepop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb138290a55cefd5f50ce9c676",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174138290a55cefd5f50ce9c676",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178138290a55cefd5f50ce9c676",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Kj1kESDk51ret8rltdZYK"
+  }
+}

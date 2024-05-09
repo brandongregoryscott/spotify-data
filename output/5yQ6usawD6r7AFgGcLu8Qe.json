@@ -1,0 +1,33 @@
+{
+  "id": "5yQ6usawD6r7AFgGcLu8Qe",
+  "name": "bearstape",
+  "uri": "spotify:artist:5yQ6usawD6r7AFgGcLu8Qe",
+  "followers": {
+    "href": null,
+    "total": 475
+  },
+  "genres": [
+    "kyushu indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27398415787d722660cc3c64443",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0298415787d722660cc3c64443",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485198415787d722660cc3c64443",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5yQ6usawD6r7AFgGcLu8Qe"
+  }
+}

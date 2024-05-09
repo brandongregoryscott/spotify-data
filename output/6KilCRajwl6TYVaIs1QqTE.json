@@ -1,0 +1,33 @@
+{
+  "id": "6KilCRajwl6TYVaIs1QqTE",
+  "name": "Cheap Bouquet",
+  "uri": "spotify:artist:6KilCRajwl6TYVaIs1QqTE",
+  "followers": {
+    "href": null,
+    "total": 137
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb46a63253d0ad55e991cf13b6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517446a63253d0ad55e991cf13b6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17846a63253d0ad55e991cf13b6",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6KilCRajwl6TYVaIs1QqTE"
+  }
+}

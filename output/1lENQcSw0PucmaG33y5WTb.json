@@ -1,0 +1,33 @@
+{
+  "id": "1lENQcSw0PucmaG33y5WTb",
+  "name": "Brendan Butler",
+  "uri": "spotify:artist:1lENQcSw0PucmaG33y5WTb",
+  "followers": {
+    "href": null,
+    "total": 24
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ee61556c61de8085c21ffe4c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ee61556c61de8085c21ffe4c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ee61556c61de8085c21ffe4c",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1lENQcSw0PucmaG33y5WTb"
+  }
+}

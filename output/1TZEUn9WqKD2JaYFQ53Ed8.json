@@ -1,0 +1,33 @@
+{
+  "id": "1TZEUn9WqKD2JaYFQ53Ed8",
+  "name": "zav11",
+  "uri": "spotify:artist:1TZEUn9WqKD2JaYFQ53Ed8",
+  "followers": {
+    "href": null,
+    "total": 259
+  },
+  "genres": [
+    "hyperpop en espanol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc1e13bce655372229f20a6f2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c1e13bce655372229f20a6f2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c1e13bce655372229f20a6f2",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1TZEUn9WqKD2JaYFQ53Ed8"
+  }
+}

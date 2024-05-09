@@ -1,0 +1,39 @@
+{
+  "id": "2KczmhlmHUuDVVtkXJjgAc",
+  "name": "The Klinik",
+  "uri": "spotify:artist:2KczmhlmHUuDVVtkXJjgAc",
+  "followers": {
+    "href": null,
+    "total": 12143
+  },
+  "genres": [
+    "aggrotech",
+    "ebm",
+    "electro-industrial",
+    "industrial",
+    "industrial rock",
+    "new beat",
+    "power noise"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273804cfec85c1a364737d003cc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02804cfec85c1a364737d003cc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851804cfec85c1a364737d003cc",
+      "width": 64
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2KczmhlmHUuDVVtkXJjgAc"
+  }
+}

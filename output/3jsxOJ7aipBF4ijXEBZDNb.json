@@ -1,0 +1,33 @@
+{
+  "id": "3jsxOJ7aipBF4ijXEBZDNb",
+  "name": "Sugs",
+  "uri": "spotify:artist:3jsxOJ7aipBF4ijXEBZDNb",
+  "followers": {
+    "href": null,
+    "total": 26885
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb837c3a9826f2248517c0c3db",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174837c3a9826f2248517c0c3db",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178837c3a9826f2248517c0c3db",
+      "width": 160
+    }
+  ],
+  "popularity": 45,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3jsxOJ7aipBF4ijXEBZDNb"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5RvW8CSJeeQSayoAKpKM1d",
+  "name": "Santo Miletto",
+  "uri": "spotify:artist:5RvW8CSJeeQSayoAKpKM1d",
+  "followers": {
+    "href": null,
+    "total": 817
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb83c8614ed645f1107c319b69",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517483c8614ed645f1107c319b69",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17883c8614ed645f1107c319b69",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5RvW8CSJeeQSayoAKpKM1d"
+  }
+}

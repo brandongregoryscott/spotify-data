@@ -1,0 +1,33 @@
+{
+  "id": "56rKEsiTIZPydsxYbQPHpR",
+  "name": "thePicassos",
+  "uri": "spotify:artist:56rKEsiTIZPydsxYbQPHpR",
+  "followers": {
+    "href": null,
+    "total": 264
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb583e37d9fb7db8860478ee7e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174583e37d9fb7db8860478ee7e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178583e37d9fb7db8860478ee7e",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/56rKEsiTIZPydsxYbQPHpR"
+  }
+}

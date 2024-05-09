@@ -1,0 +1,33 @@
+{
+  "id": "4rWywJgjoeVMO8LY87xYZo",
+  "name": "Teether",
+  "uri": "spotify:artist:4rWywJgjoeVMO8LY87xYZo",
+  "followers": {
+    "href": null,
+    "total": 1099
+  },
+  "genres": [
+    "melbourne hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf05b744190c6a53625322b0c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f05b744190c6a53625322b0c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f05b744190c6a53625322b0c",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4rWywJgjoeVMO8LY87xYZo"
+  }
+}

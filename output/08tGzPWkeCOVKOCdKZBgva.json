@@ -1,0 +1,33 @@
+{
+  "id": "08tGzPWkeCOVKOCdKZBgva",
+  "name": "Third Floor Underground",
+  "uri": "spotify:artist:08tGzPWkeCOVKOCdKZBgva",
+  "followers": {
+    "href": null,
+    "total": 87
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb175ccf715c813b46258d1449",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174175ccf715c813b46258d1449",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178175ccf715c813b46258d1449",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/08tGzPWkeCOVKOCdKZBgva"
+  }
+}

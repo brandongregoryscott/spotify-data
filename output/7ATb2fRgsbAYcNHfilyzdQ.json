@@ -1,0 +1,33 @@
+{
+  "id": "7ATb2fRgsbAYcNHfilyzdQ",
+  "name": "Submerge",
+  "uri": "spotify:artist:7ATb2fRgsbAYcNHfilyzdQ",
+  "followers": {
+    "href": null,
+    "total": 253
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb257a1c2e01e7ff94769dbf1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b257a1c2e01e7ff94769dbf1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b257a1c2e01e7ff94769dbf1",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ATb2fRgsbAYcNHfilyzdQ"
+  }
+}

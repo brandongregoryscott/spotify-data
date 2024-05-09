@@ -1,0 +1,33 @@
+{
+  "id": "2tBWWgGv7H5ymPtJrT1rNu",
+  "name": "Σtella",
+  "uri": "spotify:artist:2tBWWgGv7H5ymPtJrT1rNu",
+  "followers": {
+    "href": null,
+    "total": 46141
+  },
+  "genres": [
+    "greek indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba5527f66cb641c280c322191",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a5527f66cb641c280c322191",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a5527f66cb641c280c322191",
+      "width": 160
+    }
+  ],
+  "popularity": 54,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+  }
+}

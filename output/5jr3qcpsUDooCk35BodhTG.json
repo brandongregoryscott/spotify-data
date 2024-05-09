@@ -1,0 +1,33 @@
+{
+  "id": "5jr3qcpsUDooCk35BodhTG",
+  "name": "Bonjour Machines",
+  "uri": "spotify:artist:5jr3qcpsUDooCk35BodhTG",
+  "followers": {
+    "href": null,
+    "total": 259
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd5c5cd336d206ade918f8050",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d5c5cd336d206ade918f8050",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d5c5cd336d206ade918f8050",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5jr3qcpsUDooCk35BodhTG"
+  }
+}

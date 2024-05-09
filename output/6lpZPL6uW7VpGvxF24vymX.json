@@ -1,0 +1,33 @@
+{
+  "id": "6lpZPL6uW7VpGvxF24vymX",
+  "name": "loamnet online",
+  "uri": "spotify:artist:6lpZPL6uW7VpGvxF24vymX",
+  "followers": {
+    "href": null,
+    "total": 104
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc10fedebbe9ab0c0c1d17c7c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c10fedebbe9ab0c0c1d17c7c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c10fedebbe9ab0c0c1d17c7c",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6lpZPL6uW7VpGvxF24vymX"
+  }
+}

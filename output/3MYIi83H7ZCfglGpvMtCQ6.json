@@ -1,0 +1,33 @@
+{
+  "id": "3MYIi83H7ZCfglGpvMtCQ6",
+  "name": "Acy blu",
+  "uri": "spotify:artist:3MYIi83H7ZCfglGpvMtCQ6",
+  "followers": {
+    "href": null,
+    "total": 1240
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb74b080df1e218b7e1044e9b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b74b080df1e218b7e1044e9b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b74b080df1e218b7e1044e9b",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3MYIi83H7ZCfglGpvMtCQ6"
+  }
+}

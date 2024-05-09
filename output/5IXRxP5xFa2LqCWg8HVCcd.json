@@ -1,0 +1,33 @@
+{
+  "id": "5IXRxP5xFa2LqCWg8HVCcd",
+  "name": "Inner Groove",
+  "uri": "spotify:artist:5IXRxP5xFa2LqCWg8HVCcd",
+  "followers": {
+    "href": null,
+    "total": 994
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb58e2e8053b587c26d2062467",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517458e2e8053b587c26d2062467",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17858e2e8053b587c26d2062467",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5IXRxP5xFa2LqCWg8HVCcd"
+  }
+}

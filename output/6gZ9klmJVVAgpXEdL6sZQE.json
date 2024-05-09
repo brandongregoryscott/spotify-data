@@ -1,0 +1,33 @@
+{
+  "id": "6gZ9klmJVVAgpXEdL6sZQE",
+  "name": "koyori",
+  "uri": "spotify:artist:6gZ9klmJVVAgpXEdL6sZQE",
+  "followers": {
+    "href": null,
+    "total": 18123
+  },
+  "genres": [
+    "vocaloid"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f43789f00f610249c07ebc5b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f43789f00f610249c07ebc5b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f43789f00f610249c07ebc5b",
+      "width": 64
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6gZ9klmJVVAgpXEdL6sZQE"
+  }
+}

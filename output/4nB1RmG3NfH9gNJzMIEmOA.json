@@ -1,0 +1,34 @@
+{
+  "id": "4nB1RmG3NfH9gNJzMIEmOA",
+  "name": "Greg Pope",
+  "uri": "spotify:artist:4nB1RmG3NfH9gNJzMIEmOA",
+  "followers": {
+    "href": null,
+    "total": 976
+  },
+  "genres": [
+    "modern power pop",
+    "underground power pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcefcffbdb26f06838115e124",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cefcffbdb26f06838115e124",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cefcffbdb26f06838115e124",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4nB1RmG3NfH9gNJzMIEmOA"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3yXWDgqOrhVRojsiQmrzME",
+  "name": "Crosss",
+  "uri": "spotify:artist:3yXWDgqOrhVRojsiQmrzME",
+  "followers": {
+    "href": null,
+    "total": 696
+  },
+  "genres": [
+    "canadian psychedelic rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27321a94708f2dafaf71cda0155",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0221a94708f2dafaf71cda0155",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485121a94708f2dafaf71cda0155",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3yXWDgqOrhVRojsiQmrzME"
+  }
+}

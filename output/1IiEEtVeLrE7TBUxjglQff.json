@@ -1,0 +1,33 @@
+{
+  "id": "1IiEEtVeLrE7TBUxjglQff",
+  "name": "Chris56",
+  "uri": "spotify:artist:1IiEEtVeLrE7TBUxjglQff",
+  "followers": {
+    "href": null,
+    "total": 685
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb876cb9314865c638fc39e38a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174876cb9314865c638fc39e38a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178876cb9314865c638fc39e38a",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1IiEEtVeLrE7TBUxjglQff"
+  }
+}

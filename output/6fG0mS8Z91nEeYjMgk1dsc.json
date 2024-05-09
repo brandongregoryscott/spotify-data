@@ -1,0 +1,33 @@
+{
+  "id": "6fG0mS8Z91nEeYjMgk1dsc",
+  "name": "Second Planet",
+  "uri": "spotify:artist:6fG0mS8Z91nEeYjMgk1dsc",
+  "followers": {
+    "href": null,
+    "total": 92
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27395c7c4b0f15d347fa0e7a4ec",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0295c7c4b0f15d347fa0e7a4ec",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485195c7c4b0f15d347fa0e7a4ec",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6fG0mS8Z91nEeYjMgk1dsc"
+  }
+}

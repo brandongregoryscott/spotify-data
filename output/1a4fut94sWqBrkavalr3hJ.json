@@ -1,0 +1,33 @@
+{
+  "id": "1a4fut94sWqBrkavalr3hJ",
+  "name": "WASTY",
+  "uri": "spotify:artist:1a4fut94sWqBrkavalr3hJ",
+  "followers": {
+    "href": null,
+    "total": 17757
+  },
+  "genres": [
+    "scenecore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb054d93b03adc8cd5840a82bd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174054d93b03adc8cd5840a82bd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178054d93b03adc8cd5840a82bd",
+      "width": 160
+    }
+  ],
+  "popularity": 44,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1a4fut94sWqBrkavalr3hJ"
+  }
+}

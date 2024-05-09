@@ -1,0 +1,33 @@
+{
+  "id": "3PwWLwnob8iSQCXvUlbTbF",
+  "name": "yhojin",
+  "uri": "spotify:artist:3PwWLwnob8iSQCXvUlbTbF",
+  "followers": {
+    "href": null,
+    "total": 349
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb188140bdec628c8d3cfca28a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174188140bdec628c8d3cfca28a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178188140bdec628c8d3cfca28a",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3PwWLwnob8iSQCXvUlbTbF"
+  }
+}

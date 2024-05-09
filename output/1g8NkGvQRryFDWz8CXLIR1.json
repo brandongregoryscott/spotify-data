@@ -1,0 +1,33 @@
+{
+  "id": "1g8NkGvQRryFDWz8CXLIR1",
+  "name": "UpVampin",
+  "uri": "spotify:artist:1g8NkGvQRryFDWz8CXLIR1",
+  "followers": {
+    "href": null,
+    "total": 3316
+  },
+  "genres": [
+    "scenecore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcbadadca09c10298bcee5677",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cbadadca09c10298bcee5677",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cbadadca09c10298bcee5677",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1g8NkGvQRryFDWz8CXLIR1"
+  }
+}

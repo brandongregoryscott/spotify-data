@@ -1,0 +1,33 @@
+{
+  "id": "1Aq24GpezUYzKq4eRxSsxL",
+  "name": "Broco",
+  "uri": "spotify:artist:1Aq24GpezUYzKq4eRxSsxL",
+  "followers": {
+    "href": null,
+    "total": 523
+  },
+  "genres": [
+    "vlaamse rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf572f3a135e11dcd316cd424",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f572f3a135e11dcd316cd424",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f572f3a135e11dcd316cd424",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Aq24GpezUYzKq4eRxSsxL"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2uO7F2AlShzFVlgNQ8fpM7",
+  "name": "Robert Cobert",
+  "uri": "spotify:artist:2uO7F2AlShzFVlgNQ8fpM7",
+  "followers": {
+    "href": null,
+    "total": 285
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27368b1ee83206c1aa649fd2e16",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0268b1ee83206c1aa649fd2e16",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485168b1ee83206c1aa649fd2e16",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2uO7F2AlShzFVlgNQ8fpM7"
+  }
+}

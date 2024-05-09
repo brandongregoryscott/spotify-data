@@ -1,0 +1,33 @@
+{
+  "id": "04pUNl9LqvHElw2QDSGs1E",
+  "name": "Animal Roots",
+  "uri": "spotify:artist:04pUNl9LqvHElw2QDSGs1E",
+  "followers": {
+    "href": null,
+    "total": 95
+  },
+  "genres": [
+    "indie canario"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb411c3a12c20a76eb54cca6cb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174411c3a12c20a76eb54cca6cb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178411c3a12c20a76eb54cca6cb",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/04pUNl9LqvHElw2QDSGs1E"
+  }
+}

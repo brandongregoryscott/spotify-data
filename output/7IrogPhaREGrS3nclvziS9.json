@@ -1,0 +1,33 @@
+{
+  "id": "7IrogPhaREGrS3nclvziS9",
+  "name": "freespottie",
+  "uri": "spotify:artist:7IrogPhaREGrS3nclvziS9",
+  "followers": {
+    "href": null,
+    "total": 59
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbe74f2d07a00c8a9bffd8d2a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174be74f2d07a00c8a9bffd8d2a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178be74f2d07a00c8a9bffd8d2a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7IrogPhaREGrS3nclvziS9"
+  }
+}

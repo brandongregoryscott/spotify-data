@@ -1,0 +1,33 @@
+{
+  "id": "2Wrqf6iMXbmYtgJ8wfsdON",
+  "name": "sensitive sean",
+  "uri": "spotify:artist:2Wrqf6iMXbmYtgJ8wfsdON",
+  "followers": {
+    "href": null,
+    "total": 2239
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb78c841ca9c6e948d02ddabbe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517478c841ca9c6e948d02ddabbe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17878c841ca9c6e948d02ddabbe",
+      "width": 160
+    }
+  ],
+  "popularity": 43,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Wrqf6iMXbmYtgJ8wfsdON"
+  }
+}

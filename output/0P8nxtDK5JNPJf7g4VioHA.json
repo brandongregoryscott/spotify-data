@@ -1,0 +1,33 @@
+{
+  "id": "0P8nxtDK5JNPJf7g4VioHA",
+  "name": "Grem",
+  "uri": "spotify:artist:0P8nxtDK5JNPJf7g4VioHA",
+  "followers": {
+    "href": null,
+    "total": 50
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd07ce6c4c21657fc4d849631",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d07ce6c4c21657fc4d849631",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d07ce6c4c21657fc4d849631",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0P8nxtDK5JNPJf7g4VioHA"
+  }
+}

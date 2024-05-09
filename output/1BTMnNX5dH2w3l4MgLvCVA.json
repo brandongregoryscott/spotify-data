@@ -1,0 +1,33 @@
+{
+  "id": "1BTMnNX5dH2w3l4MgLvCVA",
+  "name": "Olesen Olesen",
+  "uri": "spotify:artist:1BTMnNX5dH2w3l4MgLvCVA",
+  "followers": {
+    "href": null,
+    "total": 713
+  },
+  "genres": [
+    "danish singer-songwriter"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cdd0937789f0958114d35ca0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cdd0937789f0958114d35ca0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cdd0937789f0958114d35ca0",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1BTMnNX5dH2w3l4MgLvCVA"
+  }
+}

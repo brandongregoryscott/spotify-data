@@ -1,0 +1,34 @@
+{
+  "id": "5yCrfMGL6rnzyd85FlFcWc",
+  "name": "The Garrys",
+  "uri": "spotify:artist:5yCrfMGL6rnzyd85FlFcWc",
+  "followers": {
+    "href": null,
+    "total": 2714
+  },
+  "genres": [
+    "canadian indie rock",
+    "indie surf"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebed9ca7c546a3980f1d9eee75",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ed9ca7c546a3980f1d9eee75",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ed9ca7c546a3980f1d9eee75",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5yCrfMGL6rnzyd85FlFcWc"
+  }
+}

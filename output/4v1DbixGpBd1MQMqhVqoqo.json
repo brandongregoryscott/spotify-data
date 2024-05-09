@@ -1,0 +1,34 @@
+{
+  "id": "4v1DbixGpBd1MQMqhVqoqo",
+  "name": "Mother Engine",
+  "uri": "spotify:artist:4v1DbixGpBd1MQMqhVqoqo",
+  "followers": {
+    "href": null,
+    "total": 9401
+  },
+  "genres": [
+    "german stoner rock",
+    "instrumental stoner rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730aec818bf11a3931db066be5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020aec818bf11a3931db066be5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510aec818bf11a3931db066be5",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4v1DbixGpBd1MQMqhVqoqo"
+  }
+}

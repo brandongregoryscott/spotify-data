@@ -1,0 +1,36 @@
+{
+  "id": "5yK5YSsWKH35QRTsHQHxEN",
+  "name": "Blaze",
+  "uri": "spotify:artist:5yK5YSsWKH35QRTsHQHxEN",
+  "followers": {
+    "href": null,
+    "total": 14448
+  },
+  "genres": [
+    "deep house",
+    "diva house",
+    "garage house",
+    "soulful house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ae0ab9280446b08454797f73",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ae0ab9280446b08454797f73",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ae0ab9280446b08454797f73",
+      "width": 64
+    }
+  ],
+  "popularity": 34,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
+  }
+}

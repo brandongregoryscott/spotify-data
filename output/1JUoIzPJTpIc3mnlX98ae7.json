@@ -1,0 +1,33 @@
+{
+  "id": "1JUoIzPJTpIc3mnlX98ae7",
+  "name": "King Chino",
+  "uri": "spotify:artist:1JUoIzPJTpIc3mnlX98ae7",
+  "followers": {
+    "href": null,
+    "total": 2895
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb789d32b3a8443dd39daa4d58",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174789d32b3a8443dd39daa4d58",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178789d32b3a8443dd39daa4d58",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1JUoIzPJTpIc3mnlX98ae7"
+  }
+}

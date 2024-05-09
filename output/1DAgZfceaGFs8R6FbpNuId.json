@@ -1,0 +1,34 @@
+{
+  "id": "1DAgZfceaGFs8R6FbpNuId",
+  "name": "Método",
+  "uri": "spotify:artist:1DAgZfceaGFs8R6FbpNuId",
+  "followers": {
+    "href": null,
+    "total": 559
+  },
+  "genres": [
+    "ecuadorian indie",
+    "rap ecuatoriano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd0ba658ef5a6414f00d0489e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d0ba658ef5a6414f00d0489e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d0ba658ef5a6414f00d0489e",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1DAgZfceaGFs8R6FbpNuId"
+  }
+}

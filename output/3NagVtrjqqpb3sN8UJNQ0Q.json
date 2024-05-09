@@ -1,0 +1,33 @@
+{
+  "id": "3NagVtrjqqpb3sN8UJNQ0Q",
+  "name": "Robin",
+  "uri": "spotify:artist:3NagVtrjqqpb3sN8UJNQ0Q",
+  "followers": {
+    "href": null,
+    "total": 38
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f4a0eb0d4f1da9a2e383ed8a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f4a0eb0d4f1da9a2e383ed8a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f4a0eb0d4f1da9a2e383ed8a",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3NagVtrjqqpb3sN8UJNQ0Q"
+  }
+}

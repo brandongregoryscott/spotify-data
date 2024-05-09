@@ -1,0 +1,33 @@
+{
+  "id": "4Rs9SGqGgto5ZNlfyfq0as",
+  "name": "AMAG",
+  "uri": "spotify:artist:4Rs9SGqGgto5ZNlfyfq0as",
+  "followers": {
+    "href": null,
+    "total": 24453
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb71b767ee7a77412969168524",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517471b767ee7a77412969168524",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17871b767ee7a77412969168524",
+      "width": 160
+    }
+  ],
+  "popularity": 50,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Rs9SGqGgto5ZNlfyfq0as"
+  }
+}

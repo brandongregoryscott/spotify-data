@@ -1,0 +1,33 @@
+{
+  "id": "2pGe7Cf3FxNVoYAQzj1s5i",
+  "name": "YDGO",
+  "uri": "spotify:artist:2pGe7Cf3FxNVoYAQzj1s5i",
+  "followers": {
+    "href": null,
+    "total": 515
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebce0acc36c7db2a8c22bce31e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ce0acc36c7db2a8c22bce31e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ce0acc36c7db2a8c22bce31e",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2pGe7Cf3FxNVoYAQzj1s5i"
+  }
+}

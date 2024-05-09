@@ -1,0 +1,33 @@
+{
+  "id": "1tNYrPauhDzUYekjHEAPGA",
+  "name": "33josiah",
+  "uri": "spotify:artist:1tNYrPauhDzUYekjHEAPGA",
+  "followers": {
+    "href": null,
+    "total": 140
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaa2bac404a427e30ef72786d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aa2bac404a427e30ef72786d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aa2bac404a427e30ef72786d",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1tNYrPauhDzUYekjHEAPGA"
+  }
+}

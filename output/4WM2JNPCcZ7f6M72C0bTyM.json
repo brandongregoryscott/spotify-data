@@ -1,0 +1,34 @@
+{
+  "id": "4WM2JNPCcZ7f6M72C0bTyM",
+  "name": "Empathy Test",
+  "uri": "spotify:artist:4WM2JNPCcZ7f6M72C0bTyM",
+  "followers": {
+    "href": null,
+    "total": 33021
+  },
+  "genres": [
+    "electropop",
+    "industrial pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb44909936b615ff997c5f5775",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517444909936b615ff997c5f5775",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17844909936b615ff997c5f5775",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4WM2JNPCcZ7f6M72C0bTyM"
+  }
+}

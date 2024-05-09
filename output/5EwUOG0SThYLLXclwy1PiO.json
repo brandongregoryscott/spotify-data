@@ -1,0 +1,33 @@
+{
+  "id": "5EwUOG0SThYLLXclwy1PiO",
+  "name": "Green Gardens",
+  "uri": "spotify:artist:5EwUOG0SThYLLXclwy1PiO",
+  "followers": {
+    "href": null,
+    "total": 1292
+  },
+  "genres": [
+    "leeds indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba744c75bde9cb06d1719e464",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a744c75bde9cb06d1719e464",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a744c75bde9cb06d1719e464",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5EwUOG0SThYLLXclwy1PiO"
+  }
+}

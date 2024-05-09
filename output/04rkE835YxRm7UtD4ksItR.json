@@ -1,0 +1,33 @@
+{
+  "id": "04rkE835YxRm7UtD4ksItR",
+  "name": "V1VA",
+  "uri": "spotify:artist:04rkE835YxRm7UtD4ksItR",
+  "followers": {
+    "href": null,
+    "total": 2322
+  },
+  "genres": [
+    "korean drill"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb32ef417fe23a5c6d64e0caf6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517432ef417fe23a5c6d64e0caf6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17832ef417fe23a5c6d64e0caf6",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/04rkE835YxRm7UtD4ksItR"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "23XQxtMaS7rIqpx3xHy63i",
+  "name": "La Chera",
+  "uri": "spotify:artist:23XQxtMaS7rIqpx3xHy63i",
+  "followers": {
+    "href": null,
+    "total": 228
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb64409e1a167c2093465a2d0a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517464409e1a167c2093465a2d0a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17864409e1a167c2093465a2d0a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/23XQxtMaS7rIqpx3xHy63i"
+  }
+}

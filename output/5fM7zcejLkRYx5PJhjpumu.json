@@ -1,0 +1,33 @@
+{
+  "id": "5fM7zcejLkRYx5PJhjpumu",
+  "name": "gone icon",
+  "uri": "spotify:artist:5fM7zcejLkRYx5PJhjpumu",
+  "followers": {
+    "href": null,
+    "total": 250
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb06d1dc7e0e6778749fbbec9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b06d1dc7e0e6778749fbbec9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b06d1dc7e0e6778749fbbec9",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5fM7zcejLkRYx5PJhjpumu"
+  }
+}

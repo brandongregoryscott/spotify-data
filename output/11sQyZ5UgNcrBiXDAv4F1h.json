@@ -1,0 +1,33 @@
+{
+  "id": "11sQyZ5UgNcrBiXDAv4F1h",
+  "name": "Jakob Olausson",
+  "uri": "spotify:artist:11sQyZ5UgNcrBiXDAv4F1h",
+  "followers": {
+    "href": null,
+    "total": 149
+  },
+  "genres": [
+    "experimental psych"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27384490445e974719b6ed49107",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0284490445e974719b6ed49107",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485184490445e974719b6ed49107",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/11sQyZ5UgNcrBiXDAv4F1h"
+  }
+}

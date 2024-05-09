@@ -1,0 +1,33 @@
+{
+  "id": "3YVrPaUuSbV8j9avfcDM1F",
+  "name": "akjohnson",
+  "uri": "spotify:artist:3YVrPaUuSbV8j9avfcDM1F",
+  "followers": {
+    "href": null,
+    "total": 70
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd34cf6542f28e830cf99b749",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d34cf6542f28e830cf99b749",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d34cf6542f28e830cf99b749",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3YVrPaUuSbV8j9avfcDM1F"
+  }
+}

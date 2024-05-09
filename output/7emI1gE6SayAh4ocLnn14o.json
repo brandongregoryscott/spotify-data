@@ -1,0 +1,33 @@
+{
+  "id": "7emI1gE6SayAh4ocLnn14o",
+  "name": "SMO",
+  "uri": "spotify:artist:7emI1gE6SayAh4ocLnn14o",
+  "followers": {
+    "href": null,
+    "total": 33
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273905a4d2bf542b80161ac8faf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02905a4d2bf542b80161ac8faf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851905a4d2bf542b80161ac8faf",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7emI1gE6SayAh4ocLnn14o"
+  }
+}

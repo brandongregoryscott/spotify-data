@@ -1,0 +1,33 @@
+{
+  "id": "5DDp01lMhreFnDgtHpmGUH",
+  "name": "Muiska",
+  "uri": "spotify:artist:5DDp01lMhreFnDgtHpmGUH",
+  "followers": {
+    "href": null,
+    "total": 161
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebacba7a9d352cc773eaddcad1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174acba7a9d352cc773eaddcad1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178acba7a9d352cc773eaddcad1",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5DDp01lMhreFnDgtHpmGUH"
+  }
+}

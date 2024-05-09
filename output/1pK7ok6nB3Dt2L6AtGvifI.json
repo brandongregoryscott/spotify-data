@@ -1,0 +1,33 @@
+{
+  "id": "1pK7ok6nB3Dt2L6AtGvifI",
+  "name": "CHURCHOUSE",
+  "uri": "spotify:artist:1pK7ok6nB3Dt2L6AtGvifI",
+  "followers": {
+    "href": null,
+    "total": 2424
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf7affd9aeb58295abe71fbfe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f7affd9aeb58295abe71fbfe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f7affd9aeb58295abe71fbfe",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1pK7ok6nB3Dt2L6AtGvifI"
+  }
+}

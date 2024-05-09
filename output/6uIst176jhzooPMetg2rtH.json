@@ -1,0 +1,33 @@
+{
+  "id": "6uIst176jhzooPMetg2rtH",
+  "name": "Louis Cole",
+  "uri": "spotify:artist:6uIst176jhzooPMetg2rtH",
+  "followers": {
+    "href": null,
+    "total": 152599
+  },
+  "genres": [
+    "la pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb14037d4859271d8368d3a7f0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517414037d4859271d8368d3a7f0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17814037d4859271d8368d3a7f0",
+      "width": 160
+    }
+  ],
+  "popularity": 44,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+  }
+}

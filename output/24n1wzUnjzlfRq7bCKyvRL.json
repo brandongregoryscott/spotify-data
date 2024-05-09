@@ -1,0 +1,34 @@
+{
+  "id": "24n1wzUnjzlfRq7bCKyvRL",
+  "name": "YISVS",
+  "uri": "spotify:artist:24n1wzUnjzlfRq7bCKyvRL",
+  "followers": {
+    "href": null,
+    "total": 4689
+  },
+  "genres": [
+    "plugg en espanol",
+    "trap chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb34af112ecebb0fb3dc5c318b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517434af112ecebb0fb3dc5c318b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17834af112ecebb0fb3dc5c318b",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/24n1wzUnjzlfRq7bCKyvRL"
+  }
+}

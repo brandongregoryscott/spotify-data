@@ -1,0 +1,33 @@
+{
+  "id": "2tBbnfGCJHppR2lHGhl9rz",
+  "name": "Morning Eagle",
+  "uri": "spotify:artist:2tBbnfGCJHppR2lHGhl9rz",
+  "followers": {
+    "href": null,
+    "total": 532
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc1b0403b76211ab84db39cec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c1b0403b76211ab84db39cec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c1b0403b76211ab84db39cec",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2tBbnfGCJHppR2lHGhl9rz"
+  }
+}

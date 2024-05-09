@@ -1,0 +1,33 @@
+{
+  "id": "67kwWnXnO1XT2PkNekoVFr",
+  "name": "John Smith",
+  "uri": "spotify:artist:67kwWnXnO1XT2PkNekoVFr",
+  "followers": {
+    "href": null,
+    "total": 419
+  },
+  "genres": [
+    "outer hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734143694c6a846caa5201567e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024143694c6a846caa5201567e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514143694c6a846caa5201567e",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/67kwWnXnO1XT2PkNekoVFr"
+  }
+}

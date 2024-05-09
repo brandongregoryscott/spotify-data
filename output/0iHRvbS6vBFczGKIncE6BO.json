@@ -1,0 +1,35 @@
+{
+  "id": "0iHRvbS6vBFczGKIncE6BO",
+  "name": "Domadora",
+  "uri": "spotify:artist:0iHRvbS6vBFczGKIncE6BO",
+  "followers": {
+    "href": null,
+    "total": 2087
+  },
+  "genres": [
+    "french stoner rock",
+    "heavy psych",
+    "psychedelic doom"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27363f32f2aba9e5d9fec59973b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0263f32f2aba9e5d9fec59973b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485163f32f2aba9e5d9fec59973b",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0iHRvbS6vBFczGKIncE6BO"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "54hHvaP9y5oUGIZu5qg1wE",
+  "name": "Dog Tired",
+  "uri": "spotify:artist:54hHvaP9y5oUGIZu5qg1wE",
+  "followers": {
+    "href": null,
+    "total": 1257
+  },
+  "genres": [
+    "edinburgh metal",
+    "scottish metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb441ef4e3373043e4771b0ccd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174441ef4e3373043e4771b0ccd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178441ef4e3373043e4771b0ccd",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/54hHvaP9y5oUGIZu5qg1wE"
+  }
+}

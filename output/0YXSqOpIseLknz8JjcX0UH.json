@@ -1,0 +1,33 @@
+{
+  "id": "0YXSqOpIseLknz8JjcX0UH",
+  "name": "Tetsuya Komuro",
+  "uri": "spotify:artist:0YXSqOpIseLknz8JjcX0UH",
+  "followers": {
+    "href": null,
+    "total": 38810
+  },
+  "genres": [
+    "j-pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb75b4c8e11a65b92191040edd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517475b4c8e11a65b92191040edd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17875b4c8e11a65b92191040edd",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH"
+  }
+}

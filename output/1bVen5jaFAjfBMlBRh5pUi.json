@@ -1,0 +1,33 @@
+{
+  "id": "1bVen5jaFAjfBMlBRh5pUi",
+  "name": "Trilly!",
+  "uri": "spotify:artist:1bVen5jaFAjfBMlBRh5pUi",
+  "followers": {
+    "href": null,
+    "total": 307
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf5a38b5f8ab06ff240fccb63",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f5a38b5f8ab06ff240fccb63",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f5a38b5f8ab06ff240fccb63",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1bVen5jaFAjfBMlBRh5pUi"
+  }
+}

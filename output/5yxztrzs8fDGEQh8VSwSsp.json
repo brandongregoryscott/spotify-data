@@ -1,0 +1,33 @@
+{
+  "id": "5yxztrzs8fDGEQh8VSwSsp",
+  "name": "Doona",
+  "uri": "spotify:artist:5yxztrzs8fDGEQh8VSwSsp",
+  "followers": {
+    "href": null,
+    "total": 497
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba0cdcd6e56ecba3d749ed649",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a0cdcd6e56ecba3d749ed649",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a0cdcd6e56ecba3d749ed649",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5yxztrzs8fDGEQh8VSwSsp"
+  }
+}

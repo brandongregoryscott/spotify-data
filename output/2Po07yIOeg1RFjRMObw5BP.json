@@ -1,0 +1,33 @@
+{
+  "id": "2Po07yIOeg1RFjRMObw5BP",
+  "name": "myyles",
+  "uri": "spotify:artist:2Po07yIOeg1RFjRMObw5BP",
+  "followers": {
+    "href": null,
+    "total": 31
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb93bb414ba13b66643f1923dc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517493bb414ba13b66643f1923dc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17893bb414ba13b66643f1923dc",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Po07yIOeg1RFjRMObw5BP"
+  }
+}

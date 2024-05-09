@@ -1,0 +1,33 @@
+{
+  "id": "5xXNSdXlFulKXyuOxHeIwW",
+  "name": "DaysEye",
+  "uri": "spotify:artist:5xXNSdXlFulKXyuOxHeIwW",
+  "followers": {
+    "href": null,
+    "total": 1346
+  },
+  "genres": [
+    "christian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738bac563e7166e2d69043b0f8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028bac563e7166e2d69043b0f8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518bac563e7166e2d69043b0f8",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5xXNSdXlFulKXyuOxHeIwW"
+  }
+}

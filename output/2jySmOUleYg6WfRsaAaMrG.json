@@ -1,0 +1,34 @@
+{
+  "id": "2jySmOUleYg6WfRsaAaMrG",
+  "name": "Red Dons",
+  "uri": "spotify:artist:2jySmOUleYg6WfRsaAaMrG",
+  "followers": {
+    "href": null,
+    "total": 4419
+  },
+  "genres": [
+    "garage punk",
+    "portland punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cc78e48c946d0f4af9b498e0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cc78e48c946d0f4af9b498e0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cc78e48c946d0f4af9b498e0",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2jySmOUleYg6WfRsaAaMrG"
+  }
+}

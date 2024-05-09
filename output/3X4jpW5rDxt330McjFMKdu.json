@@ -1,0 +1,34 @@
+{
+  "id": "3X4jpW5rDxt330McjFMKdu",
+  "name": "Pressure Point",
+  "uri": "spotify:artist:3X4jpW5rDxt330McjFMKdu",
+  "followers": {
+    "href": null,
+    "total": 3507
+  },
+  "genres": [
+    "american oi",
+    "oi"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d4d16ce495151e732dae586a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d4d16ce495151e732dae586a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851793d87a75e9654c5833e55b2",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3X4jpW5rDxt330McjFMKdu"
+  }
+}

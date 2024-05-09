@@ -1,0 +1,33 @@
+{
+  "id": "4BtH9SaYZDmjJVxFYiOypW",
+  "name": "pont",
+  "uri": "spotify:artist:4BtH9SaYZDmjJVxFYiOypW",
+  "followers": {
+    "href": null,
+    "total": 785
+  },
+  "genres": [
+    "kansai indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27301f1976b1bd5aacf92b80c2f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0201f1976b1bd5aacf92b80c2f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485101f1976b1bd5aacf92b80c2f",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4BtH9SaYZDmjJVxFYiOypW"
+  }
+}

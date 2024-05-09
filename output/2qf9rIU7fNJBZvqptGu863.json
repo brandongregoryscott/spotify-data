@@ -1,0 +1,33 @@
+{
+  "id": "2qf9rIU7fNJBZvqptGu863",
+  "name": "Slate",
+  "uri": "spotify:artist:2qf9rIU7fNJBZvqptGu863",
+  "followers": {
+    "href": null,
+    "total": 904
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebab02562d71b44b477073b193",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ab02562d71b44b477073b193",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ab02562d71b44b477073b193",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2qf9rIU7fNJBZvqptGu863"
+  }
+}
