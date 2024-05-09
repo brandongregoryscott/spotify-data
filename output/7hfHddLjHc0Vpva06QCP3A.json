@@ -1,0 +1,33 @@
+{
+  "id": "7hfHddLjHc0Vpva06QCP3A",
+  "name": "mitsu",
+  "uri": "spotify:artist:7hfHddLjHc0Vpva06QCP3A",
+  "followers": {
+    "href": null,
+    "total": 405
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb42a0435e4b3888d6dd5a1ebb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517442a0435e4b3888d6dd5a1ebb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17842a0435e4b3888d6dd5a1ebb",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7hfHddLjHc0Vpva06QCP3A"
+  }
+}

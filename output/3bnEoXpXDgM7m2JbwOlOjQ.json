@@ -1,0 +1,33 @@
+{
+  "id": "3bnEoXpXDgM7m2JbwOlOjQ",
+  "name": "Guggenheim-projektz",
+  "uri": "spotify:artist:3bnEoXpXDgM7m2JbwOlOjQ",
+  "followers": {
+    "href": null,
+    "total": 333
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27333749158e4e4bdd58021655d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0233749158e4e4bdd58021655d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485133749158e4e4bdd58021655d",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3bnEoXpXDgM7m2JbwOlOjQ"
+  }
+}

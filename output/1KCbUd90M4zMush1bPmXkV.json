@@ -1,0 +1,33 @@
+{
+  "id": "1KCbUd90M4zMush1bPmXkV",
+  "name": "Coquette",
+  "uri": "spotify:artist:1KCbUd90M4zMush1bPmXkV",
+  "followers": {
+    "href": null,
+    "total": 37
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733d3764b33075705efd3b689f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023d3764b33075705efd3b689f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513d3764b33075705efd3b689f",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1KCbUd90M4zMush1bPmXkV"
+  }
+}

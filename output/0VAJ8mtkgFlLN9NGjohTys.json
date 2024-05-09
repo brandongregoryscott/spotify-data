@@ -1,0 +1,33 @@
+{
+  "id": "0VAJ8mtkgFlLN9NGjohTys",
+  "name": "pants on fire",
+  "uri": "spotify:artist:0VAJ8mtkgFlLN9NGjohTys",
+  "followers": {
+    "href": null,
+    "total": 827
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb14bbf4aba67fb0c4490a77ad",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517414bbf4aba67fb0c4490a77ad",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17814bbf4aba67fb0c4490a77ad",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0VAJ8mtkgFlLN9NGjohTys"
+  }
+}

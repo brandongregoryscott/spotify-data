@@ -1,0 +1,33 @@
+{
+  "id": "7hctLbaXfDgw0Niii1CMfd",
+  "name": "Highself",
+  "uri": "spotify:artist:7hctLbaXfDgw0Niii1CMfd",
+  "followers": {
+    "href": null,
+    "total": 331
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb25adcd1e5f1f9b4f5084d00d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517425adcd1e5f1f9b4f5084d00d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17825adcd1e5f1f9b4f5084d00d",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7hctLbaXfDgw0Niii1CMfd"
+  }
+}

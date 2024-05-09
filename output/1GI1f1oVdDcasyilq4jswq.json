@@ -1,0 +1,33 @@
+{
+  "id": "1GI1f1oVdDcasyilq4jswq",
+  "name": "Stoker",
+  "uri": "spotify:artist:1GI1f1oVdDcasyilq4jswq",
+  "followers": {
+    "href": null,
+    "total": 83
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb69ead55711ac3d1fe25dec9b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517469ead55711ac3d1fe25dec9b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17869ead55711ac3d1fe25dec9b",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1GI1f1oVdDcasyilq4jswq"
+  }
+}

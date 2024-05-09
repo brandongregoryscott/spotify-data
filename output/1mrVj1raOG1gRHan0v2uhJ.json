@@ -1,0 +1,34 @@
+{
+  "id": "1mrVj1raOG1gRHan0v2uhJ",
+  "name": "Trillion",
+  "uri": "spotify:artist:1mrVj1raOG1gRHan0v2uhJ",
+  "followers": {
+    "href": null,
+    "total": 1292
+  },
+  "genres": [
+    "hungarian rock",
+    "magyar alternative"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fe6f367d795d95ccfdd26f27",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fe6f367d795d95ccfdd26f27",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fe6f367d795d95ccfdd26f27",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1mrVj1raOG1gRHan0v2uhJ"
+  }
+}

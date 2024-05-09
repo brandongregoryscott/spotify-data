@@ -1,0 +1,33 @@
+{
+  "id": "7wlKa51ZoYTkPksgG7cNom",
+  "name": "mikevince",
+  "uri": "spotify:artist:7wlKa51ZoYTkPksgG7cNom",
+  "followers": {
+    "href": null,
+    "total": 727
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb29531c0ac412d53be009c9fc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517429531c0ac412d53be009c9fc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17829531c0ac412d53be009c9fc",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7wlKa51ZoYTkPksgG7cNom"
+  }
+}

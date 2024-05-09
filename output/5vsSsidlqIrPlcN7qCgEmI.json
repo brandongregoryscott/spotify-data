@@ -1,0 +1,33 @@
+{
+  "id": "5vsSsidlqIrPlcN7qCgEmI",
+  "name": "Poppins",
+  "uri": "spotify:artist:5vsSsidlqIrPlcN7qCgEmI",
+  "followers": {
+    "href": null,
+    "total": 161
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736db4c64f4e9c4454468a6c94",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026db4c64f4e9c4454468a6c94",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516db4c64f4e9c4454468a6c94",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5vsSsidlqIrPlcN7qCgEmI"
+  }
+}

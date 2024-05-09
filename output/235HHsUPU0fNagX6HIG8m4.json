@@ -1,0 +1,33 @@
+{
+  "id": "235HHsUPU0fNagX6HIG8m4",
+  "name": "All Summer",
+  "uri": "spotify:artist:235HHsUPU0fNagX6HIG8m4",
+  "followers": {
+    "href": null,
+    "total": 124
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba6a9c923d5920c02d53e3fa8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a6a9c923d5920c02d53e3fa8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a6a9c923d5920c02d53e3fa8",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/235HHsUPU0fNagX6HIG8m4"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0S6OvHO7bkMFH5vCuORbxh",
+  "name": "Satu",
+  "uri": "spotify:artist:0S6OvHO7bkMFH5vCuORbxh",
+  "followers": {
+    "href": null,
+    "total": 178
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd6e243a863554791e2e7ad0a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d6e243a863554791e2e7ad0a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d6e243a863554791e2e7ad0a",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0S6OvHO7bkMFH5vCuORbxh"
+  }
+}

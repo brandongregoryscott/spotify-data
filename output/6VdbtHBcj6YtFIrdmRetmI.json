@@ -1,0 +1,33 @@
+{
+  "id": "6VdbtHBcj6YtFIrdmRetmI",
+  "name": "Sedona",
+  "uri": "spotify:artist:6VdbtHBcj6YtFIrdmRetmI",
+  "followers": {
+    "href": null,
+    "total": 279
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6a5b881e13db02e1b9b3c770",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051746a5b881e13db02e1b9b3c770",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1786a5b881e13db02e1b9b3c770",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6VdbtHBcj6YtFIrdmRetmI"
+  }
+}

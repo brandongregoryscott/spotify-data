@@ -1,0 +1,34 @@
+{
+  "id": "5mRwX0K1H5QmzEEGtvpHrG",
+  "name": "Steve Murphy",
+  "uri": "spotify:artist:5mRwX0K1H5QmzEEGtvpHrG",
+  "followers": {
+    "href": null,
+    "total": 1494
+  },
+  "genres": [
+    "float house",
+    "lo-fi house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730740e16f684e994401f3bd0a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020740e16f684e994401f3bd0a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510740e16f684e994401f3bd0a",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5mRwX0K1H5QmzEEGtvpHrG"
+  }
+}

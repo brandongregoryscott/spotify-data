@@ -1,0 +1,33 @@
+{
+  "id": "0IUDDFXPymRQz1HP87ciWw",
+  "name": "Amadeus Chaffe",
+  "uri": "spotify:artist:0IUDDFXPymRQz1HP87ciWw",
+  "followers": {
+    "href": null,
+    "total": 692
+  },
+  "genres": [
+    "furry"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf92e197b122ad6704523f737",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f92e197b122ad6704523f737",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f92e197b122ad6704523f737",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0IUDDFXPymRQz1HP87ciWw"
+  }
+}

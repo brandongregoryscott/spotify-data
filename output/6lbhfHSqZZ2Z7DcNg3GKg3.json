@@ -1,0 +1,33 @@
+{
+  "id": "6lbhfHSqZZ2Z7DcNg3GKg3",
+  "name": "Chrome Cage",
+  "uri": "spotify:artist:6lbhfHSqZZ2Z7DcNg3GKg3",
+  "followers": {
+    "href": null,
+    "total": 331
+  },
+  "genres": [
+    "australian hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb2185a1c70627242a18eeb59c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051742185a1c70627242a18eeb59c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1782185a1c70627242a18eeb59c",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6lbhfHSqZZ2Z7DcNg3GKg3"
+  }
+}

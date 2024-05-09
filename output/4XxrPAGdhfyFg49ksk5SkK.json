@@ -1,0 +1,33 @@
+{
+  "id": "4XxrPAGdhfyFg49ksk5SkK",
+  "name": "Dojamane",
+  "uri": "spotify:artist:4XxrPAGdhfyFg49ksk5SkK",
+  "followers": {
+    "href": null,
+    "total": 595
+  },
+  "genres": [
+    "phonk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebabaaddfd5b1a048b53a6800f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174abaaddfd5b1a048b53a6800f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178abaaddfd5b1a048b53a6800f",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4XxrPAGdhfyFg49ksk5SkK"
+  }
+}

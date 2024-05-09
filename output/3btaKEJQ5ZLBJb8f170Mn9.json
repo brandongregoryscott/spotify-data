@@ -1,0 +1,33 @@
+{
+  "id": "3btaKEJQ5ZLBJb8f170Mn9",
+  "name": "JORMA",
+  "uri": "spotify:artist:3btaKEJQ5ZLBJb8f170Mn9",
+  "followers": {
+    "href": null,
+    "total": 154
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf5efefb49344013f6be0b24e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f5efefb49344013f6be0b24e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f5efefb49344013f6be0b24e",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3btaKEJQ5ZLBJb8f170Mn9"
+  }
+}

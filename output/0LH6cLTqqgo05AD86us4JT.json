@@ -1,0 +1,33 @@
+{
+  "id": "0LH6cLTqqgo05AD86us4JT",
+  "name": "Rich Octopus",
+  "uri": "spotify:artist:0LH6cLTqqgo05AD86us4JT",
+  "followers": {
+    "href": null,
+    "total": 141
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebedb21de61c8012379273ef7c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174edb21de61c8012379273ef7c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178edb21de61c8012379273ef7c",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0LH6cLTqqgo05AD86us4JT"
+  }
+}

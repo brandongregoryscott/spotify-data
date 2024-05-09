@@ -1,0 +1,33 @@
+{
+  "id": "6RAAyXOA3CMin7fICmXO8K",
+  "name": "vase",
+  "uri": "spotify:artist:6RAAyXOA3CMin7fICmXO8K",
+  "followers": {
+    "href": null,
+    "total": 85
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e9b6a061e6de7815e69ebfca",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e9b6a061e6de7815e69ebfca",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e9b6a061e6de7815e69ebfca",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6RAAyXOA3CMin7fICmXO8K"
+  }
+}

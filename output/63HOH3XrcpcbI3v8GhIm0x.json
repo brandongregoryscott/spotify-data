@@ -1,0 +1,33 @@
+{
+  "id": "63HOH3XrcpcbI3v8GhIm0x",
+  "name": "Mr.Bouquet",
+  "uri": "spotify:artist:63HOH3XrcpcbI3v8GhIm0x",
+  "followers": {
+    "href": null,
+    "total": 395
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb01ac5dee928a229ce74eaf39",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517401ac5dee928a229ce74eaf39",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17801ac5dee928a229ce74eaf39",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/63HOH3XrcpcbI3v8GhIm0x"
+  }
+}

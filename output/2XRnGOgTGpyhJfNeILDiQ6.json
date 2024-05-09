@@ -1,0 +1,33 @@
+{
+  "id": "2XRnGOgTGpyhJfNeILDiQ6",
+  "name": "Penetrate",
+  "uri": "spotify:artist:2XRnGOgTGpyhJfNeILDiQ6",
+  "followers": {
+    "href": null,
+    "total": 225
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcf96c515da5735b2e1ba2d1b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cf96c515da5735b2e1ba2d1b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cf96c515da5735b2e1ba2d1b",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2XRnGOgTGpyhJfNeILDiQ6"
+  }
+}

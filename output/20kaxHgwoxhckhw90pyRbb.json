@@ -1,0 +1,33 @@
+{
+  "id": "20kaxHgwoxhckhw90pyRbb",
+  "name": "LINK",
+  "uri": "spotify:artist:20kaxHgwoxhckhw90pyRbb",
+  "followers": {
+    "href": null,
+    "total": 8347
+  },
+  "genres": [
+    "speed house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb15d06626a8c2afd7d54f4322",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517415d06626a8c2afd7d54f4322",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17815d06626a8c2afd7d54f4322",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/20kaxHgwoxhckhw90pyRbb"
+  }
+}

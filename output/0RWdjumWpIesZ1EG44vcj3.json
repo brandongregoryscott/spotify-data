@@ -1,0 +1,33 @@
+{
+  "id": "0RWdjumWpIesZ1EG44vcj3",
+  "name": "XY0815",
+  "uri": "spotify:artist:0RWdjumWpIesZ1EG44vcj3",
+  "followers": {
+    "href": null,
+    "total": 412
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f2ca7b3505ec469e5275ed6c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f2ca7b3505ec469e5275ed6c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f2ca7b3505ec469e5275ed6c",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0RWdjumWpIesZ1EG44vcj3"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3NypWvXJXDvJWf3gVg0LNL",
+  "name": "Interceptor",
+  "uri": "spotify:artist:3NypWvXJXDvJWf3gVg0LNL",
+  "followers": {
+    "href": null,
+    "total": 5277
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfa229c56a23f81eda7fd5c37",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fa229c56a23f81eda7fd5c37",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fa229c56a23f81eda7fd5c37",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3NypWvXJXDvJWf3gVg0LNL"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1AQkOwrwQg43nUandgPhAK",
+  "name": "Blu Boi",
+  "uri": "spotify:artist:1AQkOwrwQg43nUandgPhAK",
+  "followers": {
+    "href": null,
+    "total": 940
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb409bfec6d536db4f0588c24a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174409bfec6d536db4f0588c24a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178409bfec6d536db4f0588c24a",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1AQkOwrwQg43nUandgPhAK"
+  }
+}

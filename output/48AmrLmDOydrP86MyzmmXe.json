@@ -1,0 +1,33 @@
+{
+  "id": "48AmrLmDOydrP86MyzmmXe",
+  "name": "Filtragvng",
+  "uri": "spotify:artist:48AmrLmDOydrP86MyzmmXe",
+  "followers": {
+    "href": null,
+    "total": 5442
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d55a5bea29a761c3f56425bd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d55a5bea29a761c3f56425bd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d55a5bea29a761c3f56425bd",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/48AmrLmDOydrP86MyzmmXe"
+  }
+}

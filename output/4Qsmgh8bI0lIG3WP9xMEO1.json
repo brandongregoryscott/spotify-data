@@ -1,0 +1,33 @@
+{
+  "id": "4Qsmgh8bI0lIG3WP9xMEO1",
+  "name": "DIM",
+  "uri": "spotify:artist:4Qsmgh8bI0lIG3WP9xMEO1",
+  "followers": {
+    "href": null,
+    "total": 4593
+  },
+  "genres": [
+    "dungeon synth"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd8665e9b4881016f5e16ba40",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d8665e9b4881016f5e16ba40",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d8665e9b4881016f5e16ba40",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Qsmgh8bI0lIG3WP9xMEO1"
+  }
+}

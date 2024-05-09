@@ -1,0 +1,33 @@
+{
+  "id": "1jSFbCOAXXkFUk3UA2J8ln",
+  "name": "Hadren",
+  "uri": "spotify:artist:1jSFbCOAXXkFUk3UA2J8ln",
+  "followers": {
+    "href": null,
+    "total": 972
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4daa0209ffecbe5c437ec15a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744daa0209ffecbe5c437ec15a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784daa0209ffecbe5c437ec15a",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln"
+  }
+}

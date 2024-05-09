@@ -1,0 +1,33 @@
+{
+  "id": "01dy7lVrG7ovFwpGL3FlQ7",
+  "name": "Palm Sunday",
+  "uri": "spotify:artist:01dy7lVrG7ovFwpGL3FlQ7",
+  "followers": {
+    "href": null,
+    "total": 472
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe68826eb1eaa6ad9ff0ee6aa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e68826eb1eaa6ad9ff0ee6aa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e68826eb1eaa6ad9ff0ee6aa",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01dy7lVrG7ovFwpGL3FlQ7"
+  }
+}

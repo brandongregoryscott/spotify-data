@@ -1,0 +1,33 @@
+{
+  "id": "5JmTBzBVNlZ1TXTIkwAuwn",
+  "name": "Thunda",
+  "uri": "spotify:artist:5JmTBzBVNlZ1TXTIkwAuwn",
+  "followers": {
+    "href": null,
+    "total": 202
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf28da51ce2050f83ebd983b1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f28da51ce2050f83ebd983b1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f28da51ce2050f83ebd983b1",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5JmTBzBVNlZ1TXTIkwAuwn"
+  }
+}

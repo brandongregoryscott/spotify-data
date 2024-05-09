@@ -1,0 +1,34 @@
+{
+  "id": "5S8L0diSZfnelH2OH2VVIf",
+  "name": "14KT",
+  "uri": "spotify:artist:5S8L0diSZfnelH2OH2VVIf",
+  "followers": {
+    "href": null,
+    "total": 8192
+  },
+  "genres": [
+    "abstract beats",
+    "bass trip"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb32a265379bc638d7864d3b48",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517432a265379bc638d7864d3b48",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17832a265379bc638d7864d3b48",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5S8L0diSZfnelH2OH2VVIf"
+  }
+}

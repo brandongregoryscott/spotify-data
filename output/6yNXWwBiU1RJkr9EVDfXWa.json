@@ -1,0 +1,33 @@
+{
+  "id": "6yNXWwBiU1RJkr9EVDfXWa",
+  "name": "DGTP",
+  "uri": "spotify:artist:6yNXWwBiU1RJkr9EVDfXWa",
+  "followers": {
+    "href": null,
+    "total": 1068
+  },
+  "genres": [
+    "uptempo hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27393a7190710a4e700e234c39f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0293a7190710a4e700e234c39f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485193a7190710a4e700e234c39f",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6yNXWwBiU1RJkr9EVDfXWa"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "41AAFIM2CAJoek2AIVyGZw",
+  "name": "Loyal Customers",
+  "uri": "spotify:artist:41AAFIM2CAJoek2AIVyGZw",
+  "followers": {
+    "href": null,
+    "total": 171
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfec6774b303362f8e663abb8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fec6774b303362f8e663abb8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fec6774b303362f8e663abb8",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/41AAFIM2CAJoek2AIVyGZw"
+  }
+}

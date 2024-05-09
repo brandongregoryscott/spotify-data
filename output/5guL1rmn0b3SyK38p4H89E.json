@@ -1,0 +1,33 @@
+{
+  "id": "5guL1rmn0b3SyK38p4H89E",
+  "name": "Serrano",
+  "uri": "spotify:artist:5guL1rmn0b3SyK38p4H89E",
+  "followers": {
+    "href": null,
+    "total": 273
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd87ddbf91b0f96700c514dad",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d87ddbf91b0f96700c514dad",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d87ddbf91b0f96700c514dad",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5guL1rmn0b3SyK38p4H89E"
+  }
+}

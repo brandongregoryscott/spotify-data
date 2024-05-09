@@ -1,0 +1,33 @@
+{
+  "id": "2LxRHmgjaHUWWwZxcqRWJU",
+  "name": "Kesken",
+  "uri": "spotify:artist:2LxRHmgjaHUWWwZxcqRWJU",
+  "followers": {
+    "href": null,
+    "total": 451
+  },
+  "genres": [
+    "suomirap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebed602e9b46f37cda579fc04c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ed602e9b46f37cda579fc04c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ed602e9b46f37cda579fc04c",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2LxRHmgjaHUWWwZxcqRWJU"
+  }
+}

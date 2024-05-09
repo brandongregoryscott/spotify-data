@@ -1,0 +1,33 @@
+{
+  "id": "4eEkElKcmtKqYjWuZuJjSs",
+  "name": "Mida",
+  "uri": "spotify:artist:4eEkElKcmtKqYjWuZuJjSs",
+  "followers": {
+    "href": null,
+    "total": 781
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbdd1bb806955838bd7dd504f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bdd1bb806955838bd7dd504f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bdd1bb806955838bd7dd504f",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4eEkElKcmtKqYjWuZuJjSs"
+  }
+}

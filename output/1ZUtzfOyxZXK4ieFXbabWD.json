@@ -1,0 +1,33 @@
+{
+  "id": "1ZUtzfOyxZXK4ieFXbabWD",
+  "name": "Popstarslime",
+  "uri": "spotify:artist:1ZUtzfOyxZXK4ieFXbabWD",
+  "followers": {
+    "href": null,
+    "total": 439
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb04817a3ddbaa66b090277bd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b04817a3ddbaa66b090277bd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b04817a3ddbaa66b090277bd",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ZUtzfOyxZXK4ieFXbabWD"
+  }
+}

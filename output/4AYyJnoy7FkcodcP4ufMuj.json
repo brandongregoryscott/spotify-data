@@ -1,0 +1,33 @@
+{
+  "id": "4AYyJnoy7FkcodcP4ufMuj",
+  "name": "TANGy",
+  "uri": "spotify:artist:4AYyJnoy7FkcodcP4ufMuj",
+  "followers": {
+    "href": null,
+    "total": 386
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfa5bb57c24943a12914c38cf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fa5bb57c24943a12914c38cf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fa5bb57c24943a12914c38cf",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4AYyJnoy7FkcodcP4ufMuj"
+  }
+}

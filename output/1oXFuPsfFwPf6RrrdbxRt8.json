@@ -1,0 +1,33 @@
+{
+  "id": "1oXFuPsfFwPf6RrrdbxRt8",
+  "name": "Materia 420",
+  "uri": "spotify:artist:1oXFuPsfFwPf6RrrdbxRt8",
+  "followers": {
+    "href": null,
+    "total": 44
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3b86bda4600a1b3cf3d5ea87",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051743b86bda4600a1b3cf3d5ea87",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1783b86bda4600a1b3cf3d5ea87",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1oXFuPsfFwPf6RrrdbxRt8"
+  }
+}

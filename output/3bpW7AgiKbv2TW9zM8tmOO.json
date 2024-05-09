@@ -1,0 +1,33 @@
+{
+  "id": "3bpW7AgiKbv2TW9zM8tmOO",
+  "name": "Zorp",
+  "uri": "spotify:artist:3bpW7AgiKbv2TW9zM8tmOO",
+  "followers": {
+    "href": null,
+    "total": 155
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdef1a147827f639a5c0ac0bf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174def1a147827f639a5c0ac0bf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178def1a147827f639a5c0ac0bf",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3bpW7AgiKbv2TW9zM8tmOO"
+  }
+}

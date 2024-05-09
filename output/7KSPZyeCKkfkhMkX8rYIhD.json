@@ -1,0 +1,35 @@
+{
+  "id": "7KSPZyeCKkfkhMkX8rYIhD",
+  "name": "Grima",
+  "uri": "spotify:artist:7KSPZyeCKkfkhMkX8rYIhD",
+  "followers": {
+    "href": null,
+    "total": 29304
+  },
+  "genres": [
+    "atmospheric black metal",
+    "russian black metal",
+    "voidgaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe10b0384c676ee53a99a8014",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e10b0384c676ee53a99a8014",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e10b0384c676ee53a99a8014",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7KSPZyeCKkfkhMkX8rYIhD"
+  }
+}

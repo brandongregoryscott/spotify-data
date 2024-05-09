@@ -1,0 +1,33 @@
+{
+  "id": "5EUnnSIFldgDzlrPvvwTZF",
+  "name": "Marty Holoubek",
+  "uri": "spotify:artist:5EUnnSIFldgDzlrPvvwTZF",
+  "followers": {
+    "href": null,
+    "total": 1012
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcd06d6458331b98d6f2070b4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cd06d6458331b98d6f2070b4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cd06d6458331b98d6f2070b4",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5EUnnSIFldgDzlrPvvwTZF"
+  }
+}

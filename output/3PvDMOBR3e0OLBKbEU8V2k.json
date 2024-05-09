@@ -1,0 +1,33 @@
+{
+  "id": "3PvDMOBR3e0OLBKbEU8V2k",
+  "name": "FocusPocus",
+  "uri": "spotify:artist:3PvDMOBR3e0OLBKbEU8V2k",
+  "followers": {
+    "href": null,
+    "total": 91
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f5f32ecbfc2774df425f0b1e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f5f32ecbfc2774df425f0b1e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f5f32ecbfc2774df425f0b1e",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3PvDMOBR3e0OLBKbEU8V2k"
+  }
+}

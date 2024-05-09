@@ -1,0 +1,33 @@
+{
+  "id": "4sjzQ6LenQjUsRb6g0sHuq",
+  "name": "Joe Vann",
+  "uri": "spotify:artist:4sjzQ6LenQjUsRb6g0sHuq",
+  "followers": {
+    "href": null,
+    "total": 5884
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebedf252aa38cfb41b717d74b1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174edf252aa38cfb41b717d74b1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178edf252aa38cfb41b717d74b1",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4sjzQ6LenQjUsRb6g0sHuq"
+  }
+}

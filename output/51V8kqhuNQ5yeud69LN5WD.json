@@ -1,0 +1,33 @@
+{
+  "id": "51V8kqhuNQ5yeud69LN5WD",
+  "name": "Matt Cook",
+  "uri": "spotify:artist:51V8kqhuNQ5yeud69LN5WD",
+  "followers": {
+    "href": null,
+    "total": 1121
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc97383040bc5d009db68033b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c97383040bc5d009db68033b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c97383040bc5d009db68033b",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/51V8kqhuNQ5yeud69LN5WD"
+  }
+}

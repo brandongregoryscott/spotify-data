@@ -1,0 +1,33 @@
+{
+  "id": "0Zh9Iqiwo3sOqHrADqME6v",
+  "name": "Azul",
+  "uri": "spotify:artist:0Zh9Iqiwo3sOqHrADqME6v",
+  "followers": {
+    "href": null,
+    "total": 114
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb51846516bbfae123fbc83789",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517451846516bbfae123fbc83789",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17851846516bbfae123fbc83789",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Zh9Iqiwo3sOqHrADqME6v"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5sBBS3CQNPDzmuTJjYwnpa",
+  "name": "Cloudy June",
+  "uri": "spotify:artist:5sBBS3CQNPDzmuTJjYwnpa",
+  "followers": {
+    "href": null,
+    "total": 123376
+  },
+  "genres": [
+    "alt z"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb390d6e808cd875cc13fa9a73",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174390d6e808cd875cc13fa9a73",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178390d6e808cd875cc13fa9a73",
+      "width": 160
+    }
+  ],
+  "popularity": 50,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3Q5NSytL2WAhsLVmIqK6Vg",
+  "name": "Mr. Sisco",
+  "uri": "spotify:artist:3Q5NSytL2WAhsLVmIqK6Vg",
+  "followers": {
+    "href": null,
+    "total": 3120
+  },
+  "genres": [
+    "phonk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb23c881381f3cebe0b006c6f3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517423c881381f3cebe0b006c6f3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17823c881381f3cebe0b006c6f3",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Q5NSytL2WAhsLVmIqK6Vg"
+  }
+}

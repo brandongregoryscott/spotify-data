@@ -1,0 +1,33 @@
+{
+  "id": "3jtRXoltAeJ7DgcEsLIGqn",
+  "name": "XRIAN",
+  "uri": "spotify:artist:3jtRXoltAeJ7DgcEsLIGqn",
+  "followers": {
+    "href": null,
+    "total": 661
+  },
+  "genres": [
+    "ambient lo-fi"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb09115b241ae83d2fe0fa0f2c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517409115b241ae83d2fe0fa0f2c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17809115b241ae83d2fe0fa0f2c",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3jtRXoltAeJ7DgcEsLIGqn"
+  }
+}

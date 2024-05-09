@@ -1,0 +1,33 @@
+{
+  "id": "1Y1COXnQJwP5eLEO2GzQYd",
+  "name": "The Tim Version",
+  "uri": "spotify:artist:1Y1COXnQJwP5eLEO2GzQYd",
+  "followers": {
+    "href": null,
+    "total": 850
+  },
+  "genres": [
+    "orgcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27346428291c8d974d1776cb52f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0246428291c8d974d1776cb52f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485146428291c8d974d1776cb52f",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Y1COXnQJwP5eLEO2GzQYd"
+  }
+}

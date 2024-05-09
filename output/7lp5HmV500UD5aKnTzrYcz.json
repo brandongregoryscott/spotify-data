@@ -1,0 +1,33 @@
+{
+  "id": "7lp5HmV500UD5aKnTzrYcz",
+  "name": "Arimasen",
+  "uri": "spotify:artist:7lp5HmV500UD5aKnTzrYcz",
+  "followers": {
+    "href": null,
+    "total": 644
+  },
+  "genres": [
+    "ambient lo-fi"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb45946fda77615faab3608ccf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517445946fda77615faab3608ccf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17845946fda77615faab3608ccf",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7lp5HmV500UD5aKnTzrYcz"
+  }
+}

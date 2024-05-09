@@ -1,0 +1,34 @@
+{
+  "id": "3GWYD4cd7fCiemn9mT23Ar",
+  "name": "Nagyúr",
+  "uri": "spotify:artist:3GWYD4cd7fCiemn9mT23Ar",
+  "followers": {
+    "href": null,
+    "total": 722
+  },
+  "genres": [
+    "hungarian rock",
+    "magyar alternative"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcfb96e0dcfcd9dee8c7c044a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cfb96e0dcfcd9dee8c7c044a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cfb96e0dcfcd9dee8c7c044a",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3GWYD4cd7fCiemn9mT23Ar"
+  }
+}

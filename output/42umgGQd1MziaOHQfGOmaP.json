@@ -1,0 +1,33 @@
+{
+  "id": "42umgGQd1MziaOHQfGOmaP",
+  "name": "Friend of a Friend",
+  "uri": "spotify:artist:42umgGQd1MziaOHQfGOmaP",
+  "followers": {
+    "href": null,
+    "total": 7143
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb576bd2b7932304eb9ccf5590",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174576bd2b7932304eb9ccf5590",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178576bd2b7932304eb9ccf5590",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/42umgGQd1MziaOHQfGOmaP"
+  }
+}

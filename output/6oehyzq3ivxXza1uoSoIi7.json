@@ -1,0 +1,33 @@
+{
+  "id": "6oehyzq3ivxXza1uoSoIi7",
+  "name": "HYPERLIGHT",
+  "uri": "spotify:artist:6oehyzq3ivxXza1uoSoIi7",
+  "followers": {
+    "href": null,
+    "total": 230
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba9e7f45819a4039b56d0cd96",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a9e7f45819a4039b56d0cd96",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a9e7f45819a4039b56d0cd96",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6oehyzq3ivxXza1uoSoIi7"
+  }
+}

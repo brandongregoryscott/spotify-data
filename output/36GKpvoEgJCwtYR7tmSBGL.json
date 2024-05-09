@@ -1,0 +1,33 @@
+{
+  "id": "36GKpvoEgJCwtYR7tmSBGL",
+  "name": "Angelo Kras",
+  "uri": "spotify:artist:36GKpvoEgJCwtYR7tmSBGL",
+  "followers": {
+    "href": null,
+    "total": 775
+  },
+  "genres": [
+    "hyperpop italiano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb37f49f6c71fc4698f7d8c26",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b37f49f6c71fc4698f7d8c26",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b37f49f6c71fc4698f7d8c26",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/36GKpvoEgJCwtYR7tmSBGL"
+  }
+}

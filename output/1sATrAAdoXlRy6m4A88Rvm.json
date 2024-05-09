@@ -1,0 +1,33 @@
+{
+  "id": "1sATrAAdoXlRy6m4A88Rvm",
+  "name": "iB101",
+  "uri": "spotify:artist:1sATrAAdoXlRy6m4A88Rvm",
+  "followers": {
+    "href": null,
+    "total": 309
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb982c38852f60695370762528",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174982c38852f60695370762528",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178982c38852f60695370762528",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1sATrAAdoXlRy6m4A88Rvm"
+  }
+}

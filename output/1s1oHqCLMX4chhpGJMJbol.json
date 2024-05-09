@@ -1,0 +1,33 @@
+{
+  "id": "1s1oHqCLMX4chhpGJMJbol",
+  "name": "Ojosfinos",
+  "uri": "spotify:artist:1s1oHqCLMX4chhpGJMJbol",
+  "followers": {
+    "href": null,
+    "total": 1005
+  },
+  "genres": [
+    "latin tek"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb017f8e6a79247c7044ee1fbe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174017f8e6a79247c7044ee1fbe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178017f8e6a79247c7044ee1fbe",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1s1oHqCLMX4chhpGJMJbol"
+  }
+}

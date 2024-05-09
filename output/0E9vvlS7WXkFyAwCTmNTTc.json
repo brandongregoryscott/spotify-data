@@ -1,0 +1,33 @@
+{
+  "id": "0E9vvlS7WXkFyAwCTmNTTc",
+  "name": "CEM3340",
+  "uri": "spotify:artist:0E9vvlS7WXkFyAwCTmNTTc",
+  "followers": {
+    "href": null,
+    "total": 1591
+  },
+  "genres": [
+    "nu electro"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba799963e1367ca4980e118ec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a799963e1367ca4980e118ec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a799963e1367ca4980e118ec",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0E9vvlS7WXkFyAwCTmNTTc"
+  }
+}

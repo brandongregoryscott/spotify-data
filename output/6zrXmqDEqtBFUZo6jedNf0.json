@@ -1,0 +1,34 @@
+{
+  "id": "6zrXmqDEqtBFUZo6jedNf0",
+  "name": "Danny Wolf",
+  "uri": "spotify:artist:6zrXmqDEqtBFUZo6jedNf0",
+  "followers": {
+    "href": null,
+    "total": 12682
+  },
+  "genres": [
+    "atl trap",
+    "melodic rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd3809e98af2370be5c9c0f8c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d3809e98af2370be5c9c0f8c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d3809e98af2370be5c9c0f8c",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6zrXmqDEqtBFUZo6jedNf0"
+  }
+}

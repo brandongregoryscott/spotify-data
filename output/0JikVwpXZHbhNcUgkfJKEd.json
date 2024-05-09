@@ -1,0 +1,33 @@
+{
+  "id": "0JikVwpXZHbhNcUgkfJKEd",
+  "name": "Caffeine",
+  "uri": "spotify:artist:0JikVwpXZHbhNcUgkfJKEd",
+  "followers": {
+    "href": null,
+    "total": 168
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe661db6d21b08cec4401e2e5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e661db6d21b08cec4401e2e5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e661db6d21b08cec4401e2e5",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0JikVwpXZHbhNcUgkfJKEd"
+  }
+}

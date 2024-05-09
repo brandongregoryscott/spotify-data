@@ -1,0 +1,33 @@
+{
+  "id": "1O6xshwdx9y65sx6R221bY",
+  "name": "Classiq Music",
+  "uri": "spotify:artist:1O6xshwdx9y65sx6R221bY",
+  "followers": {
+    "href": null,
+    "total": 83
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27345a957fdea399dd43d2a8ddb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0245a957fdea399dd43d2a8ddb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485145a957fdea399dd43d2a8ddb",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1O6xshwdx9y65sx6R221bY"
+  }
+}

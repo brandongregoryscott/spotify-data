@@ -1,0 +1,33 @@
+{
+  "id": "6hAijFIIujBnaflQivGRsy",
+  "name": "The Frog",
+  "uri": "spotify:artist:6hAijFIIujBnaflQivGRsy",
+  "followers": {
+    "href": null,
+    "total": 173
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb22cd816cd0a8b1d403762ff4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517422cd816cd0a8b1d403762ff4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17822cd816cd0a8b1d403762ff4",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6hAijFIIujBnaflQivGRsy"
+  }
+}

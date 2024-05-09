@@ -1,0 +1,35 @@
+{
+  "id": "2k7En28V8aLSsxAxE4nQdF",
+  "name": "The Maharajas",
+  "uri": "spotify:artist:2k7En28V8aLSsxAxE4nQdF",
+  "followers": {
+    "href": null,
+    "total": 5704
+  },
+  "genres": [
+    "garage rock",
+    "punk 'n' roll",
+    "trash rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba404315ac3b8cfc466a83134",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a404315ac3b8cfc466a83134",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a404315ac3b8cfc466a83134",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2k7En28V8aLSsxAxE4nQdF"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4S38gbKfKkEbty2YAIDIlV",
+  "name": "EMELINE",
+  "uri": "spotify:artist:4S38gbKfKkEbty2YAIDIlV",
+  "followers": {
+    "href": null,
+    "total": 362839
+  },
+  "genres": [
+    "alt z"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf1683e3d6bcecc265c5158b5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f1683e3d6bcecc265c5158b5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f1683e3d6bcecc265c5158b5",
+      "width": 160
+    }
+  ],
+  "popularity": 57,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
+  }
+}

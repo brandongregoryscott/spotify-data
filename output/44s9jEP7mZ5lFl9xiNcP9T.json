@@ -1,0 +1,33 @@
+{
+  "id": "44s9jEP7mZ5lFl9xiNcP9T",
+  "name": "FIRSTLINE",
+  "uri": "spotify:artist:44s9jEP7mZ5lFl9xiNcP9T",
+  "followers": {
+    "href": null,
+    "total": 155
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb62fd74132de27cb0459e2f4b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517462fd74132de27cb0459e2f4b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17862fd74132de27cb0459e2f4b",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/44s9jEP7mZ5lFl9xiNcP9T"
+  }
+}

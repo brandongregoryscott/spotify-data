@@ -1,0 +1,33 @@
+{
+  "id": "1ll6x05321FQER7v0ddcR4",
+  "name": "Sinusoidal",
+  "uri": "spotify:artist:1ll6x05321FQER7v0ddcR4",
+  "followers": {
+    "href": null,
+    "total": 212
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd75f7fb0d262c939d6c9d683",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d75f7fb0d262c939d6c9d683",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d75f7fb0d262c939d6c9d683",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ll6x05321FQER7v0ddcR4"
+  }
+}

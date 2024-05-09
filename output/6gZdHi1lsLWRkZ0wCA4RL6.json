@@ -1,0 +1,33 @@
+{
+  "id": "6gZdHi1lsLWRkZ0wCA4RL6",
+  "name": "Barbero Exótico",
+  "uri": "spotify:artist:6gZdHi1lsLWRkZ0wCA4RL6",
+  "followers": {
+    "href": null,
+    "total": 26220
+  },
+  "genres": [
+    "mambo chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbe2ca3fcc25d58333f5f3c8a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174be2ca3fcc25d58333f5f3c8a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178be2ca3fcc25d58333f5f3c8a",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6gZdHi1lsLWRkZ0wCA4RL6"
+  }
+}

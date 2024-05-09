@@ -1,0 +1,33 @@
+{
+  "id": "55pNuIeUbDpoqb0nLdptEr",
+  "name": "Faarao Pirttikangas",
+  "uri": "spotify:artist:55pNuIeUbDpoqb0nLdptEr",
+  "followers": {
+    "href": null,
+    "total": 1001
+  },
+  "genres": [
+    "finnish blues"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27313611d4271a038e9d7a2ed6e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0213611d4271a038e9d7a2ed6e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485113611d4271a038e9d7a2ed6e",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/55pNuIeUbDpoqb0nLdptEr"
+  }
+}

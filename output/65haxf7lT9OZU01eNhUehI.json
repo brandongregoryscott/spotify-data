@@ -1,0 +1,33 @@
+{
+  "id": "65haxf7lT9OZU01eNhUehI",
+  "name": "Randstad",
+  "uri": "spotify:artist:65haxf7lT9OZU01eNhUehI",
+  "followers": {
+    "href": null,
+    "total": 458
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27374169e12211b1d72100a1a2e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0274169e12211b1d72100a1a2e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485174169e12211b1d72100a1a2e",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/65haxf7lT9OZU01eNhUehI"
+  }
+}

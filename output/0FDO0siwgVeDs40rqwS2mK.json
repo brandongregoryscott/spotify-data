@@ -1,0 +1,35 @@
+{
+  "id": "0FDO0siwgVeDs40rqwS2mK",
+  "name": "Kokoshca",
+  "uri": "spotify:artist:0FDO0siwgVeDs40rqwS2mK",
+  "followers": {
+    "href": null,
+    "total": 8958
+  },
+  "genres": [
+    "spanish indie pop",
+    "spanish noise pop",
+    "tontipop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbd39aef5c5e045e19b189f56",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bd39aef5c5e045e19b189f56",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bd39aef5c5e045e19b189f56",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK"
+  }
+}

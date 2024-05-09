@@ -1,0 +1,34 @@
+{
+  "id": "3aVceD1iZNjO7INFdXQaeZ",
+  "name": "King Doudou",
+  "uri": "spotify:artist:3aVceD1iZNjO7INFdXQaeZ",
+  "followers": {
+    "href": null,
+    "total": 5602
+  },
+  "genres": [
+    "neoperreo",
+    "rap lyonnais"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebda093c12fdbfcf86886c39ad",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174da093c12fdbfcf86886c39ad",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178da093c12fdbfcf86886c39ad",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ"
+  }
+}

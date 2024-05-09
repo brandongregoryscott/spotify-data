@@ -1,0 +1,33 @@
+{
+  "id": "7hHQZ23K6ZGwTd5b8or5sa",
+  "name": "Alsarath",
+  "uri": "spotify:artist:7hHQZ23K6ZGwTd5b8or5sa",
+  "followers": {
+    "href": null,
+    "total": 353
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e006f1bd32d83cc6d9b2965f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e006f1bd32d83cc6d9b2965f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e006f1bd32d83cc6d9b2965f",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7hHQZ23K6ZGwTd5b8or5sa"
+  }
+}

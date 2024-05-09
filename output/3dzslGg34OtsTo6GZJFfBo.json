@@ -1,0 +1,33 @@
+{
+  "id": "3dzslGg34OtsTo6GZJFfBo",
+  "name": "mamomo",
+  "uri": "spotify:artist:3dzslGg34OtsTo6GZJFfBo",
+  "followers": {
+    "href": null,
+    "total": 3609
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe03ca94801b413bae0f6e415",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e03ca94801b413bae0f6e415",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e03ca94801b413bae0f6e415",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3dzslGg34OtsTo6GZJFfBo"
+  }
+}

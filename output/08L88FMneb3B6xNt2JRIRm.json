@@ -1,0 +1,33 @@
+{
+  "id": "08L88FMneb3B6xNt2JRIRm",
+  "name": "Iven",
+  "uri": "spotify:artist:08L88FMneb3B6xNt2JRIRm",
+  "followers": {
+    "href": null,
+    "total": 227
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd24168adc0edee0cd3752fe6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d24168adc0edee0cd3752fe6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d24168adc0edee0cd3752fe6",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/08L88FMneb3B6xNt2JRIRm"
+  }
+}

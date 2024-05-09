@@ -1,0 +1,33 @@
+{
+  "id": "7aldgASM0QRSQNHTdfBV7W",
+  "name": "Maisi",
+  "uri": "spotify:artist:7aldgASM0QRSQNHTdfBV7W",
+  "followers": {
+    "href": null,
+    "total": 3066
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfd6fbd173a9c490e50d71f2e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fd6fbd173a9c490e50d71f2e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fd6fbd173a9c490e50d71f2e",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3ASfmUvEt4pae0FMEbJFcU",
+  "name": "Janne Laurila",
+  "uri": "spotify:artist:3ASfmUvEt4pae0FMEbJFcU",
+  "followers": {
+    "href": null,
+    "total": 195
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273db3383bf047e97f8d69a138c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02db3383bf047e97f8d69a138c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851db3383bf047e97f8d69a138c",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ASfmUvEt4pae0FMEbJFcU"
+  }
+}

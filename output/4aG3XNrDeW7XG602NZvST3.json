@@ -1,0 +1,33 @@
+{
+  "id": "4aG3XNrDeW7XG602NZvST3",
+  "name": "Mindcrawler",
+  "uri": "spotify:artist:4aG3XNrDeW7XG602NZvST3",
+  "followers": {
+    "href": null,
+    "total": 966
+  },
+  "genres": [
+    "german stoner rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb983ece17b8f7c72c42fefebc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174983ece17b8f7c72c42fefebc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178983ece17b8f7c72c42fefebc",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4aG3XNrDeW7XG602NZvST3"
+  }
+}

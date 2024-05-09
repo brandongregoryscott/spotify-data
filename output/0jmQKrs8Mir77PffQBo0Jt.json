@@ -1,0 +1,35 @@
+{
+  "id": "0jmQKrs8Mir77PffQBo0Jt",
+  "name": "Gazoline",
+  "uri": "spotify:artist:0jmQKrs8Mir77PffQBo0Jt",
+  "followers": {
+    "href": null,
+    "total": 1793
+  },
+  "genres": [
+    "early french punk",
+    "indie quebecois",
+    "quebec punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba3936f3725adddcb33cced6a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a3936f3725adddcb33cced6a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a3936f3725adddcb33cced6a",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0jmQKrs8Mir77PffQBo0Jt"
+  }
+}

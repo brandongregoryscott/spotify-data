@@ -1,0 +1,33 @@
+{
+  "id": "0Igzy0wlOGrmOWsVsWHtX3",
+  "name": "Aliment",
+  "uri": "spotify:artist:0Igzy0wlOGrmOWsVsWHtX3",
+  "followers": {
+    "href": null,
+    "total": 1660
+  },
+  "genres": [
+    "spanish indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba5cd51f1ade785146caf572f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a5cd51f1ade785146caf572f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a5cd51f1ade785146caf572f",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Igzy0wlOGrmOWsVsWHtX3"
+  }
+}

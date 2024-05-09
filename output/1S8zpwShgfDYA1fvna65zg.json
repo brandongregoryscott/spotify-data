@@ -1,0 +1,33 @@
+{
+  "id": "1S8zpwShgfDYA1fvna65zg",
+  "name": "HEURT",
+  "uri": "spotify:artist:1S8zpwShgfDYA1fvna65zg",
+  "followers": {
+    "href": null,
+    "total": 45
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27339931433c09db3fef9e958d9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0239931433c09db3fef9e958d9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485139931433c09db3fef9e958d9",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1S8zpwShgfDYA1fvna65zg"
+  }
+}

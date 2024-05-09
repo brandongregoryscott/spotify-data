@@ -1,0 +1,33 @@
+{
+  "id": "6ZiPLvxRMDLNV9x53M5UnZ",
+  "name": "Joakim Johansson",
+  "uri": "spotify:artist:6ZiPLvxRMDLNV9x53M5UnZ",
+  "followers": {
+    "href": null,
+    "total": 48
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb6e2af1549a988fec7d2469c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b6e2af1549a988fec7d2469c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b6e2af1549a988fec7d2469c",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ZiPLvxRMDLNV9x53M5UnZ"
+  }
+}

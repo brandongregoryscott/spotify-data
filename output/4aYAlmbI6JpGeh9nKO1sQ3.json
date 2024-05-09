@@ -1,0 +1,33 @@
+{
+  "id": "4aYAlmbI6JpGeh9nKO1sQ3",
+  "name": "NGHTHYP",
+  "uri": "spotify:artist:4aYAlmbI6JpGeh9nKO1sQ3",
+  "followers": {
+    "href": null,
+    "total": 245
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe5d322c52250da262487badd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e5d322c52250da262487badd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e5d322c52250da262487badd",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4aYAlmbI6JpGeh9nKO1sQ3"
+  }
+}

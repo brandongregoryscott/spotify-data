@@ -1,0 +1,33 @@
+{
+  "id": "5SAYvojx5xHsRISXBOZz0A",
+  "name": "Jack The Underdog",
+  "uri": "spotify:artist:5SAYvojx5xHsRISXBOZz0A",
+  "followers": {
+    "href": null,
+    "total": 7240
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba888a952ce2db618cc7a5bd9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a888a952ce2db618cc7a5bd9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a888a952ce2db618cc7a5bd9",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5SAYvojx5xHsRISXBOZz0A"
+  }
+}

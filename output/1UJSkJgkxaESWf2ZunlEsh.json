@@ -1,0 +1,33 @@
+{
+  "id": "1UJSkJgkxaESWf2ZunlEsh",
+  "name": "Nick Alexandr",
+  "uri": "spotify:artist:1UJSkJgkxaESWf2ZunlEsh",
+  "followers": {
+    "href": null,
+    "total": 14187
+  },
+  "genres": [
+    "dark r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdef55f6bf18a03fc140a44f9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174def55f6bf18a03fc140a44f9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178def55f6bf18a03fc140a44f9",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1UJSkJgkxaESWf2ZunlEsh"
+  }
+}

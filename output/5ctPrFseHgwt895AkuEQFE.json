@@ -1,0 +1,33 @@
+{
+  "id": "5ctPrFseHgwt895AkuEQFE",
+  "name": "Bla5er",
+  "uri": "spotify:artist:5ctPrFseHgwt895AkuEQFE",
+  "followers": {
+    "href": null,
+    "total": 371
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb992b4224f8ea5e325f23e17d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174992b4224f8ea5e325f23e17d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178992b4224f8ea5e325f23e17d",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ctPrFseHgwt895AkuEQFE"
+  }
+}

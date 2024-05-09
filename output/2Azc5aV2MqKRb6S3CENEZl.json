@@ -1,0 +1,33 @@
+{
+  "id": "2Azc5aV2MqKRb6S3CENEZl",
+  "name": "J Spaceman",
+  "uri": "spotify:artist:2Azc5aV2MqKRb6S3CENEZl",
+  "followers": {
+    "href": null,
+    "total": 813
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb848bb4f713b15c60b3dcfe65",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174848bb4f713b15c60b3dcfe65",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178848bb4f713b15c60b3dcfe65",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Azc5aV2MqKRb6S3CENEZl"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3bfahxMCLID17MMlD2DfGc",
+  "name": "King Fly",
+  "uri": "spotify:artist:3bfahxMCLID17MMlD2DfGc",
+  "followers": {
+    "href": null,
+    "total": 2252
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273638fde180749ec9c6175d35d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02638fde180749ec9c6175d35d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851638fde180749ec9c6175d35d",
+      "width": 64
+    }
+  ],
+  "popularity": 44,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3bfahxMCLID17MMlD2DfGc"
+  }
+}

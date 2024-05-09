@@ -1,0 +1,35 @@
+{
+  "id": "5WzOiybWm06XimLccSeGS8",
+  "name": "Cuff the Duke",
+  "uri": "spotify:artist:5WzOiybWm06XimLccSeGS8",
+  "followers": {
+    "href": null,
+    "total": 7702
+  },
+  "genres": [
+    "canadian indie",
+    "canadian singer-songwriter",
+    "ontario indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb031f1e4aec64d6cc2e47f9c6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174031f1e4aec64d6cc2e47f9c6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178031f1e4aec64d6cc2e47f9c6",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5WzOiybWm06XimLccSeGS8"
+  }
+}

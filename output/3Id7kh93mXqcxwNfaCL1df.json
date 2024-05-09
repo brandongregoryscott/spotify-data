@@ -1,0 +1,33 @@
+{
+  "id": "3Id7kh93mXqcxwNfaCL1df",
+  "name": "Durkey",
+  "uri": "spotify:artist:3Id7kh93mXqcxwNfaCL1df",
+  "followers": {
+    "href": null,
+    "total": 546
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbaba4c2457003c9ed4e7b765",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174baba4c2457003c9ed4e7b765",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178baba4c2457003c9ed4e7b765",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Id7kh93mXqcxwNfaCL1df"
+  }
+}

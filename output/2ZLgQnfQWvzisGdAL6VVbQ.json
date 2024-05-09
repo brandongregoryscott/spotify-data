@@ -1,0 +1,33 @@
+{
+  "id": "2ZLgQnfQWvzisGdAL6VVbQ",
+  "name": "Huanastone",
+  "uri": "spotify:artist:2ZLgQnfQWvzisGdAL6VVbQ",
+  "followers": {
+    "href": null,
+    "total": 1216
+  },
+  "genres": [
+    "swedish stoner rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd7240fb156a7d7806d78e601",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d7240fb156a7d7806d78e601",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d7240fb156a7d7806d78e601",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ZLgQnfQWvzisGdAL6VVbQ"
+  }
+}

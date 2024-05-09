@@ -1,0 +1,33 @@
+{
+  "id": "5PyOlGYOuL7wW43KUzSC9d",
+  "name": "Avatar",
+  "uri": "spotify:artist:5PyOlGYOuL7wW43KUzSC9d",
+  "followers": {
+    "href": null,
+    "total": 19
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273db49a39eb35198400cfa6d3b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02db49a39eb35198400cfa6d3b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851db49a39eb35198400cfa6d3b",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5PyOlGYOuL7wW43KUzSC9d"
+  }
+}

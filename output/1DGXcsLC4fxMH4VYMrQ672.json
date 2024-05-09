@@ -1,0 +1,33 @@
+{
+  "id": "1DGXcsLC4fxMH4VYMrQ672",
+  "name": "The Hammersmith Gorillas",
+  "uri": "spotify:artist:1DGXcsLC4fxMH4VYMrQ672",
+  "followers": {
+    "href": null,
+    "total": 390
+  },
+  "genres": [
+    "pub rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739bb8d227c7dc83d0b02451fa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029bb8d227c7dc83d0b02451fa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519bb8d227c7dc83d0b02451fa",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1DGXcsLC4fxMH4VYMrQ672"
+  }
+}

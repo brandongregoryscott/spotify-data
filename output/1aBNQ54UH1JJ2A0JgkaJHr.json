@@ -1,0 +1,33 @@
+{
+  "id": "1aBNQ54UH1JJ2A0JgkaJHr",
+  "name": "Elon Bass",
+  "uri": "spotify:artist:1aBNQ54UH1JJ2A0JgkaJHr",
+  "followers": {
+    "href": null,
+    "total": 910
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd83f1e7a65bc46cfb6b80f7d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d83f1e7a65bc46cfb6b80f7d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d83f1e7a65bc46cfb6b80f7d",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1aBNQ54UH1JJ2A0JgkaJHr"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "61FDEW4sEugGxTPD31EYEU",
+  "name": "Anchor Detail",
+  "uri": "spotify:artist:61FDEW4sEugGxTPD31EYEU",
+  "followers": {
+    "href": null,
+    "total": 101
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a74ea4dfd4e548bf8228e3cf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a74ea4dfd4e548bf8228e3cf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a74ea4dfd4e548bf8228e3cf",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/61FDEW4sEugGxTPD31EYEU"
+  }
+}

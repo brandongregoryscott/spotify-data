@@ -1,0 +1,33 @@
+{
+  "id": "78R9EEN8o7WpbCIJDEBAll",
+  "name": "Matt McDonald",
+  "uri": "spotify:artist:78R9EEN8o7WpbCIJDEBAll",
+  "followers": {
+    "href": null,
+    "total": 23
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb90ea7425c112797880ab99b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b90ea7425c112797880ab99b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b90ea7425c112797880ab99b",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/78R9EEN8o7WpbCIJDEBAll"
+  }
+}

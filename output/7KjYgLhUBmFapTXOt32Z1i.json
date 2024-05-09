@@ -1,0 +1,33 @@
+{
+  "id": "7KjYgLhUBmFapTXOt32Z1i",
+  "name": "Echo",
+  "uri": "spotify:artist:7KjYgLhUBmFapTXOt32Z1i",
+  "followers": {
+    "href": null,
+    "total": 3347
+  },
+  "genres": [
+    "texasgaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb55d18ae42a998208108a20da",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517455d18ae42a998208108a20da",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17855d18ae42a998208108a20da",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7KjYgLhUBmFapTXOt32Z1i"
+  }
+}

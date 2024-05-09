@@ -1,0 +1,33 @@
+{
+  "id": "0ACWr4m5uACNSSI8XdJIfZ",
+  "name": "Giver",
+  "uri": "spotify:artist:0ACWr4m5uACNSSI8XdJIfZ",
+  "followers": {
+    "href": null,
+    "total": 2936
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd29671642087486a2b0ed563",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d29671642087486a2b0ed563",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d29671642087486a2b0ed563",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ACWr4m5uACNSSI8XdJIfZ"
+  }
+}

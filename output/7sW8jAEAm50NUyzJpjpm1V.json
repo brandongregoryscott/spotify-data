@@ -1,0 +1,35 @@
+{
+  "id": "7sW8jAEAm50NUyzJpjpm1V",
+  "name": "Escarnium",
+  "uri": "spotify:artist:7sW8jAEAm50NUyzJpjpm1V",
+  "followers": {
+    "href": null,
+    "total": 4560
+  },
+  "genres": [
+    "brazilian death metal",
+    "metal baiano",
+    "swedish death metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b13293734a9a7a4b419294be",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b13293734a9a7a4b419294be",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b13293734a9a7a4b419294be",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7sW8jAEAm50NUyzJpjpm1V"
+  }
+}

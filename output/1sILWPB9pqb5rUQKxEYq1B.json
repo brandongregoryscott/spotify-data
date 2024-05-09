@@ -1,0 +1,33 @@
+{
+  "id": "1sILWPB9pqb5rUQKxEYq1B",
+  "name": "Hakan",
+  "uri": "spotify:artist:1sILWPB9pqb5rUQKxEYq1B",
+  "followers": {
+    "href": null,
+    "total": 350
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb003b772072900a9a428fab5c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174003b772072900a9a428fab5c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178003b772072900a9a428fab5c",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1sILWPB9pqb5rUQKxEYq1B"
+  }
+}

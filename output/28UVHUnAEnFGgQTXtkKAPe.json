@@ -1,0 +1,33 @@
+{
+  "id": "28UVHUnAEnFGgQTXtkKAPe",
+  "name": "Weevus",
+  "uri": "spotify:artist:28UVHUnAEnFGgQTXtkKAPe",
+  "followers": {
+    "href": null,
+    "total": 15
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d94d3f5b94e86684a47c47a7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d94d3f5b94e86684a47c47a7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d94d3f5b94e86684a47c47a7",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/28UVHUnAEnFGgQTXtkKAPe"
+  }
+}

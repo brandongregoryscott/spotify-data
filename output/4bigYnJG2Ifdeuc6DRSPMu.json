@@ -1,0 +1,33 @@
+{
+  "id": "4bigYnJG2Ifdeuc6DRSPMu",
+  "name": "María Tyrana",
+  "uri": "spotify:artist:4bigYnJG2Ifdeuc6DRSPMu",
+  "followers": {
+    "href": null,
+    "total": 542
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebed617e92ec9a084075bc12ae",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ed617e92ec9a084075bc12ae",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ed617e92ec9a084075bc12ae",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4bigYnJG2Ifdeuc6DRSPMu"
+  }
+}

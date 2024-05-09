@@ -1,0 +1,33 @@
+{
+  "id": "1GPmnrEPEzQrHmlCaQiJrW",
+  "name": "AILIS",
+  "uri": "spotify:artist:1GPmnrEPEzQrHmlCaQiJrW",
+  "followers": {
+    "href": null,
+    "total": 305
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736b5719a62a7e8060e8ab0b63",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026b5719a62a7e8060e8ab0b63",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516b5719a62a7e8060e8ab0b63",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1GPmnrEPEzQrHmlCaQiJrW"
+  }
+}

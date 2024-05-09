@@ -1,0 +1,33 @@
+{
+  "id": "6UQn7KLPcKzTR6u1Ca7Qpk",
+  "name": "favor",
+  "uri": "spotify:artist:6UQn7KLPcKzTR6u1Ca7Qpk",
+  "followers": {
+    "href": null,
+    "total": 522
+  },
+  "genres": [
+    "scenecore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb820b03208898f8267f44bde8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174820b03208898f8267f44bde8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178820b03208898f8267f44bde8",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6UQn7KLPcKzTR6u1Ca7Qpk"
+  }
+}

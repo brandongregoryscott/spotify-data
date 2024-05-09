@@ -1,0 +1,33 @@
+{
+  "id": "5EQv14NL4WtpQq7ftjkM8u",
+  "name": "Adam Richard",
+  "uri": "spotify:artist:5EQv14NL4WtpQq7ftjkM8u",
+  "followers": {
+    "href": null,
+    "total": 74
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4cd16002178a5c36b4c9b898",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744cd16002178a5c36b4c9b898",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784cd16002178a5c36b4c9b898",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5EQv14NL4WtpQq7ftjkM8u"
+  }
+}

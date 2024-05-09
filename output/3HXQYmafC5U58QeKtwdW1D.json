@@ -1,0 +1,34 @@
+{
+  "id": "3HXQYmafC5U58QeKtwdW1D",
+  "name": "Gerry Hemingway",
+  "uri": "spotify:artist:3HXQYmafC5U58QeKtwdW1D",
+  "followers": {
+    "href": null,
+    "total": 449
+  },
+  "genres": [
+    "modern free jazz",
+    "tzadik"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd3cbcb6cd4957381b25a4f47",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d3cbcb6cd4957381b25a4f47",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d3cbcb6cd4957381b25a4f47",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3HXQYmafC5U58QeKtwdW1D"
+  }
+}

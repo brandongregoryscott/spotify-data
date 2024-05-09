@@ -1,0 +1,33 @@
+{
+  "id": "24oDE0vaH0JH83VNAQ7pGL",
+  "name": "Nick Marks",
+  "uri": "spotify:artist:24oDE0vaH0JH83VNAQ7pGL",
+  "followers": {
+    "href": null,
+    "total": 4381
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe5fcf55beb07fbde2bb5929b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e5fcf55beb07fbde2bb5929b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e5fcf55beb07fbde2bb5929b",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/24oDE0vaH0JH83VNAQ7pGL"
+  }
+}

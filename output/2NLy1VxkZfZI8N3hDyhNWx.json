@@ -1,0 +1,33 @@
+{
+  "id": "2NLy1VxkZfZI8N3hDyhNWx",
+  "name": "Artificial Red",
+  "uri": "spotify:artist:2NLy1VxkZfZI8N3hDyhNWx",
+  "followers": {
+    "href": null,
+    "total": 568
+  },
+  "genres": [
+    "modern jungle"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732d71588e225d1c7411607055",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022d71588e225d1c7411607055",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512d71588e225d1c7411607055",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2NLy1VxkZfZI8N3hDyhNWx"
+  }
+}
