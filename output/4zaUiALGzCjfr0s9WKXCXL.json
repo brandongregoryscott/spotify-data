@@ -4,14 +4,15 @@
   "uri": "spotify:artist:4zaUiALGzCjfr0s9WKXCXL",
   "followers": {
     "href": null,
-    "total": 49170
+    "total": 49262
   },
   "genres": [
     "american shoegaze",
     "countrygaze",
     "lo-fi indie",
     "nu gaze",
-    "philly indie"
+    "philly indie",
+    "zoomergaze"
   ],
   "images": [
     {
@@ -30,7 +31,7 @@
       "width": 160
     }
   ],
-  "popularity": 47,
+  "popularity": 48,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL"
   }

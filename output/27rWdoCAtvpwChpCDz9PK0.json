@@ -4,14 +4,15 @@
   "uri": "spotify:artist:27rWdoCAtvpwChpCDz9PK0",
   "followers": {
     "href": null,
-    "total": 10661
+    "total": 10688
   },
   "genres": [
     "american shoegaze",
     "austindie",
     "dreamgaze",
     "nu gaze",
-    "shoegaze"
+    "shoegaze",
+    "texasgaze"
   ],
   "images": [
     {
@@ -30,7 +31,7 @@
       "width": 160
     }
   ],
-  "popularity": 24,
+  "popularity": 25,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/27rWdoCAtvpwChpCDz9PK0"
   }
