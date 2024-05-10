@@ -4,10 +4,11 @@
   "uri": "spotify:artist:7gk4ufsKf3WSrRX5XqHGqs",
   "followers": {
     "href": null,
-    "total": 1486
+    "total": 1488
   },
   "genres": [
-    "american shoegaze"
+    "american shoegaze",
+    "zoomergaze"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 160
     }
   ],
-  "popularity": 9,
+  "popularity": 10,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/7gk4ufsKf3WSrRX5XqHGqs"
   }

@@ -4,25 +4,26 @@
   "uri": "spotify:artist:3BGUNVzuoQ79pOjLxJsZZg",
   "followers": {
     "href": null,
-    "total": 7383
+    "total": 7394
   },
   "genres": [
-    "american shoegaze"
+    "american shoegaze",
+    "zoomergaze"
   ],
   "images": [
     {
       "height": 640,
-      "url": "https://i.scdn.co/image/ab6761610000e5eb3fc1ba2639d4ba501588e77d",
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb3ab66d89926d3d77dc6c19c",
       "width": 640
     },
     {
       "height": 320,
-      "url": "https://i.scdn.co/image/ab676161000051743fc1ba2639d4ba501588e77d",
+      "url": "https://i.scdn.co/image/ab67616100005174b3ab66d89926d3d77dc6c19c",
       "width": 320
     },
     {
       "height": 160,
-      "url": "https://i.scdn.co/image/ab6761610000f1783fc1ba2639d4ba501588e77d",
+      "url": "https://i.scdn.co/image/ab6761610000f178b3ab66d89926d3d77dc6c19c",
       "width": 160
     }
   ],
