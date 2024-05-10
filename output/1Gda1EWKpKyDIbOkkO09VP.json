@@ -1,0 +1,33 @@
+{
+  "id": "1Gda1EWKpKyDIbOkkO09VP",
+  "name": "Suckarie",
+  "uri": "spotify:artist:1Gda1EWKpKyDIbOkkO09VP",
+  "followers": {
+    "href": null,
+    "total": 178
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe0e06b13968e2a61bc28c2a5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e0e06b13968e2a61bc28c2a5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e0e06b13968e2a61bc28c2a5",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Gda1EWKpKyDIbOkkO09VP"
+  }
+}

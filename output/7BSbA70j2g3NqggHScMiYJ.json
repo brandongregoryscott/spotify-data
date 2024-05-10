@@ -1,0 +1,34 @@
+{
+  "id": "7BSbA70j2g3NqggHScMiYJ",
+  "name": "Storyboard",
+  "uri": "spotify:artist:7BSbA70j2g3NqggHScMiYJ",
+  "followers": {
+    "href": null,
+    "total": 2418
+  },
+  "genres": [
+    "dubstep",
+    "gaming dubstep"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb9e7334757dd26c882f993cb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b9e7334757dd26c882f993cb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b9e7334757dd26c882f993cb",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7BSbA70j2g3NqggHScMiYJ"
+  }
+}

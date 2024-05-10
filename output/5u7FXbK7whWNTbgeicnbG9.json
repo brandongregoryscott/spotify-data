@@ -1,0 +1,40 @@
+{
+  "id": "5u7FXbK7whWNTbgeicnbG9",
+  "name": "Jonah Jones",
+  "uri": "spotify:artist:5u7FXbK7whWNTbgeicnbG9",
+  "followers": {
+    "href": null,
+    "total": 2612
+  },
+  "genres": [
+    "jazz trumpet",
+    "modern swing",
+    "space age pop"
+  ],
+  "images": [
+    {
+      "height": 1032,
+      "url": "https://i.scdn.co/image/29e3eb1bb154bd3c197271afdcd48e7fb2aeab39",
+      "width": 1000
+    },
+    {
+      "height": 660,
+      "url": "https://i.scdn.co/image/d4c5898127cd080431aafd15827df999cbcea051",
+      "width": 640
+    },
+    {
+      "height": 206,
+      "url": "https://i.scdn.co/image/ded80d5885dad73757ea2a0d796577b74099be76",
+      "width": 200
+    },
+    {
+      "height": 66,
+      "url": "https://i.scdn.co/image/be69d8a1aec6cabab152eaa5a32c3f25cd53a59c",
+      "width": 64
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5u7FXbK7whWNTbgeicnbG9"
+  }
+}

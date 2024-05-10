@@ -1,0 +1,33 @@
+{
+  "id": "1HBPcS1ncCg4xApD6QN3MX",
+  "name": "小宵",
+  "uri": "spotify:artist:1HBPcS1ncCg4xApD6QN3MX",
+  "followers": {
+    "href": null,
+    "total": 489
+  },
+  "genres": [
+    "japanese vtuber"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e474aa05d7770a86406eb542",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e474aa05d7770a86406eb542",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e474aa05d7770a86406eb542",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1HBPcS1ncCg4xApD6QN3MX"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2cGERhEMgWAvvotqqB94J6",
+  "name": "Plain Jade",
+  "uri": "spotify:artist:2cGERhEMgWAvvotqqB94J6",
+  "followers": {
+    "href": null,
+    "total": 72
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaa3911e6d602d1b5795d78e1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aa3911e6d602d1b5795d78e1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aa3911e6d602d1b5795d78e1",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2cGERhEMgWAvvotqqB94J6"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0qlbiYo6FhZhKfK8epSoCk",
+  "name": "Beaumont",
+  "uri": "spotify:artist:0qlbiYo6FhZhKfK8epSoCk",
+  "followers": {
+    "href": null,
+    "total": 492
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a1c461d7cbca4d8a79ab6833",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a1c461d7cbca4d8a79ab6833",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a1c461d7cbca4d8a79ab6833",
+      "width": 64
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0qlbiYo6FhZhKfK8epSoCk"
+  }
+}

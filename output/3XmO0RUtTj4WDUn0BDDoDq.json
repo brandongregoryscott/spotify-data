@@ -1,0 +1,33 @@
+{
+  "id": "3XmO0RUtTj4WDUn0BDDoDq",
+  "name": "Savoir Faire",
+  "uri": "spotify:artist:3XmO0RUtTj4WDUn0BDDoDq",
+  "followers": {
+    "href": null,
+    "total": 793
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe14f9bad1aaca6351fe25606",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e14f9bad1aaca6351fe25606",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e14f9bad1aaca6351fe25606",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3XmO0RUtTj4WDUn0BDDoDq"
+  }
+}

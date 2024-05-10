@@ -1,0 +1,35 @@
+{
+  "id": "0E76QDtyHZgw7i5l7mdn5K",
+  "name": "Epic45",
+  "uri": "spotify:artist:0E76QDtyHZgw7i5l7mdn5K",
+  "followers": {
+    "href": null,
+    "total": 15313
+  },
+  "genres": [
+    "british post-rock",
+    "compositional ambient",
+    "post-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf6629f287d47806a22ab1d5f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f6629f287d47806a22ab1d5f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f6629f287d47806a22ab1d5f",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0E76QDtyHZgw7i5l7mdn5K"
+  }
+}

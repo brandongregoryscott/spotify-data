@@ -1,0 +1,33 @@
+{
+  "id": "5H9MaaK15IDsYf0UE64Kzh",
+  "name": "Grace Lee",
+  "uri": "spotify:artist:5H9MaaK15IDsYf0UE64Kzh",
+  "followers": {
+    "href": null,
+    "total": 1656
+  },
+  "genres": [
+    "detroit indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb287cc61e7489fafdf5a6d92e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174287cc61e7489fafdf5a6d92e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178287cc61e7489fafdf5a6d92e",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5H9MaaK15IDsYf0UE64Kzh"
+  }
+}

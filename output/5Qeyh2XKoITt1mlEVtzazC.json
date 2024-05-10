@@ -1,0 +1,34 @@
+{
+  "id": "5Qeyh2XKoITt1mlEVtzazC",
+  "name": "Daoko",
+  "uri": "spotify:artist:5Qeyh2XKoITt1mlEVtzazC",
+  "followers": {
+    "href": null,
+    "total": 464118
+  },
+  "genres": [
+    "j-pixie",
+    "japanese electropop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc5ab6bacb26346b3242f5702",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c5ab6bacb26346b3242f5702",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c5ab6bacb26346b3242f5702",
+      "width": 160
+    }
+  ],
+  "popularity": 50,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC"
+  }
+}

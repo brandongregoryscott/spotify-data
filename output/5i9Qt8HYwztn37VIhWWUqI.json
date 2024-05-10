@@ -1,0 +1,33 @@
+{
+  "id": "5i9Qt8HYwztn37VIhWWUqI",
+  "name": "Orso",
+  "uri": "spotify:artist:5i9Qt8HYwztn37VIhWWUqI",
+  "followers": {
+    "href": null,
+    "total": 174
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c4c5e0879c4a47344bdb874c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c4c5e0879c4a47344bdb874c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c4c5e0879c4a47344bdb874c",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5i9Qt8HYwztn37VIhWWUqI"
+  }
+}

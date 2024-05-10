@@ -1,0 +1,33 @@
+{
+  "id": "3sNIgFohzSxxUnJoddEohE",
+  "name": "Maria Makaaberi",
+  "uri": "spotify:artist:3sNIgFohzSxxUnJoddEohE",
+  "followers": {
+    "href": null,
+    "total": 609
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb24e19ba72f34450cea61c062",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517424e19ba72f34450cea61c062",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17824e19ba72f34450cea61c062",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3sNIgFohzSxxUnJoddEohE"
+  }
+}

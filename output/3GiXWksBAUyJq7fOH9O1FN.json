@@ -1,0 +1,33 @@
+{
+  "id": "3GiXWksBAUyJq7fOH9O1FN",
+  "name": "Mia Stegner",
+  "uri": "spotify:artist:3GiXWksBAUyJq7fOH9O1FN",
+  "followers": {
+    "href": null,
+    "total": 5990
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb56601ae97f8c19a19db695f5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517456601ae97f8c19a19db695f5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17856601ae97f8c19a19db695f5",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3GiXWksBAUyJq7fOH9O1FN"
+  }
+}

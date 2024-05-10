@@ -1,0 +1,33 @@
+{
+  "id": "0lOPmkwXmuXtoRBiv795jo",
+  "name": "Nguyễn Hồng Giang",
+  "uri": "spotify:artist:0lOPmkwXmuXtoRBiv795jo",
+  "followers": {
+    "href": null,
+    "total": 324
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf45e0e0cb4ff5facd49b2986",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f45e0e0cb4ff5facd49b2986",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f45e0e0cb4ff5facd49b2986",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0lOPmkwXmuXtoRBiv795jo"
+  }
+}

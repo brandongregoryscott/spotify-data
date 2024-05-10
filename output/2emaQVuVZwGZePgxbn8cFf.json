@@ -1,0 +1,33 @@
+{
+  "id": "2emaQVuVZwGZePgxbn8cFf",
+  "name": "Phazen",
+  "uri": "spotify:artist:2emaQVuVZwGZePgxbn8cFf",
+  "followers": {
+    "href": null,
+    "total": 939
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb211ff35b663b3b589f3ceb4b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174211ff35b663b3b589f3ceb4b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178211ff35b663b3b589f3ceb4b",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2emaQVuVZwGZePgxbn8cFf"
+  }
+}

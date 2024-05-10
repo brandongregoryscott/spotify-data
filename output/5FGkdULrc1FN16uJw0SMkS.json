@@ -1,0 +1,33 @@
+{
+  "id": "5FGkdULrc1FN16uJw0SMkS",
+  "name": "Nathan K.",
+  "uri": "spotify:artist:5FGkdULrc1FN16uJw0SMkS",
+  "followers": {
+    "href": null,
+    "total": 703
+  },
+  "genres": [
+    "michigan indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf0b70eac130b0aa6ca24d29b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f0b70eac130b0aa6ca24d29b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f0b70eac130b0aa6ca24d29b",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5FGkdULrc1FN16uJw0SMkS"
+  }
+}

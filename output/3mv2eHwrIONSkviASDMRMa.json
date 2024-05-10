@@ -1,0 +1,34 @@
+{
+  "id": "3mv2eHwrIONSkviASDMRMa",
+  "name": "Califone",
+  "uri": "spotify:artist:3mv2eHwrIONSkviASDMRMa",
+  "followers": {
+    "href": null,
+    "total": 18460
+  },
+  "genres": [
+    "alternative country",
+    "chicago indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6bb65c213e873b2126e57183",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051746bb65c213e873b2126e57183",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1786bb65c213e873b2126e57183",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3mv2eHwrIONSkviASDMRMa"
+  }
+}

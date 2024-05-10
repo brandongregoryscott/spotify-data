@@ -1,0 +1,33 @@
+{
+  "id": "6fUWbPembgOoqnQuil0M5m",
+  "name": "No",
+  "uri": "spotify:artist:6fUWbPembgOoqnQuil0M5m",
+  "followers": {
+    "href": null,
+    "total": 610
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb82351b83e93917fa5108721",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b82351b83e93917fa5108721",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b82351b83e93917fa5108721",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6fUWbPembgOoqnQuil0M5m"
+  }
+}

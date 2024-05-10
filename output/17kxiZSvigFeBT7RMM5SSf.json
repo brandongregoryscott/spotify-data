@@ -1,0 +1,33 @@
+{
+  "id": "17kxiZSvigFeBT7RMM5SSf",
+  "name": "instxnt",
+  "uri": "spotify:artist:17kxiZSvigFeBT7RMM5SSf",
+  "followers": {
+    "href": null,
+    "total": 124
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6d7675eb30f946f027141141",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051746d7675eb30f946f027141141",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1786d7675eb30f946f027141141",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/17kxiZSvigFeBT7RMM5SSf"
+  }
+}

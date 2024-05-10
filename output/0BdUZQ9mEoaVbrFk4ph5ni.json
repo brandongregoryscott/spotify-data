@@ -1,0 +1,33 @@
+{
+  "id": "0BdUZQ9mEoaVbrFk4ph5ni",
+  "name": "Inner Outlines",
+  "uri": "spotify:artist:0BdUZQ9mEoaVbrFk4ph5ni",
+  "followers": {
+    "href": null,
+    "total": 881
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb559b9635ef76489295f7dda",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b559b9635ef76489295f7dda",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b559b9635ef76489295f7dda",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0BdUZQ9mEoaVbrFk4ph5ni"
+  }
+}

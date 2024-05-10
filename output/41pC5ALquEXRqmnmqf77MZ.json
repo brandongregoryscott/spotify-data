@@ -1,0 +1,33 @@
+{
+  "id": "41pC5ALquEXRqmnmqf77MZ",
+  "name": "The Sardines",
+  "uri": "spotify:artist:41pC5ALquEXRqmnmqf77MZ",
+  "followers": {
+    "href": null,
+    "total": 1867
+  },
+  "genres": [
+    "utah indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb24490069b54a360fe8530543",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517424490069b54a360fe8530543",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17824490069b54a360fe8530543",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/41pC5ALquEXRqmnmqf77MZ"
+  }
+}

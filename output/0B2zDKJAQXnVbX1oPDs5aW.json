@@ -1,0 +1,33 @@
+{
+  "id": "0B2zDKJAQXnVbX1oPDs5aW",
+  "name": "Ultra P",
+  "uri": "spotify:artist:0B2zDKJAQXnVbX1oPDs5aW",
+  "followers": {
+    "href": null,
+    "total": 3125
+  },
+  "genres": [
+    "mexican indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb00ae4b16234ccd2190c71b25",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517400ae4b16234ccd2190c71b25",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17800ae4b16234ccd2190c71b25",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0B2zDKJAQXnVbX1oPDs5aW"
+  }
+}

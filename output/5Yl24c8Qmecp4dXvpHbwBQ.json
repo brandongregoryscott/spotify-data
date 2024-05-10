@@ -1,0 +1,33 @@
+{
+  "id": "5Yl24c8Qmecp4dXvpHbwBQ",
+  "name": "Worldcorp Enterprises",
+  "uri": "spotify:artist:5Yl24c8Qmecp4dXvpHbwBQ",
+  "followers": {
+    "href": null,
+    "total": 2049
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb2bdfb3a66e2169140c3138d6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051742bdfb3a66e2169140c3138d6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1782bdfb3a66e2169140c3138d6",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Yl24c8Qmecp4dXvpHbwBQ"
+  }
+}

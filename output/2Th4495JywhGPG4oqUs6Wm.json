@@ -1,0 +1,33 @@
+{
+  "id": "2Th4495JywhGPG4oqUs6Wm",
+  "name": "Turtle Johnny",
+  "uri": "spotify:artist:2Th4495JywhGPG4oqUs6Wm",
+  "followers": {
+    "href": null,
+    "total": 64
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb82559828b8f929ae686d9bcf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517482559828b8f929ae686d9bcf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17882559828b8f929ae686d9bcf",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Th4495JywhGPG4oqUs6Wm"
+  }
+}

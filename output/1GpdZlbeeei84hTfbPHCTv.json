@@ -1,0 +1,33 @@
+{
+  "id": "1GpdZlbeeei84hTfbPHCTv",
+  "name": "DVST",
+  "uri": "spotify:artist:1GpdZlbeeei84hTfbPHCTv",
+  "followers": {
+    "href": null,
+    "total": 1602
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7913640cacbd26f6200c40e8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051747913640cacbd26f6200c40e8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1787913640cacbd26f6200c40e8",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1GpdZlbeeei84hTfbPHCTv"
+  }
+}

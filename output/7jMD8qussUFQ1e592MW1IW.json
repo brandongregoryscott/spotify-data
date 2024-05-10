@@ -1,0 +1,33 @@
+{
+  "id": "7jMD8qussUFQ1e592MW1IW",
+  "name": "David Alexander",
+  "uri": "spotify:artist:7jMD8qussUFQ1e592MW1IW",
+  "followers": {
+    "href": null,
+    "total": 4106
+  },
+  "genres": [
+    "lo-fi chill"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6d1eb8f17ba8819f904aeea3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051746d1eb8f17ba8819f904aeea3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1786d1eb8f17ba8819f904aeea3",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7jMD8qussUFQ1e592MW1IW"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5Xff19jNboCsikTjKZwgDS",
+  "name": "The Oddballs",
+  "uri": "spotify:artist:5Xff19jNboCsikTjKZwgDS",
+  "followers": {
+    "href": null,
+    "total": 580
+  },
+  "genres": [
+    "trash rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730bfdd378fd6b2223b1f3768d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020bfdd378fd6b2223b1f3768d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510bfdd378fd6b2223b1f3768d",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Xff19jNboCsikTjKZwgDS"
+  }
+}

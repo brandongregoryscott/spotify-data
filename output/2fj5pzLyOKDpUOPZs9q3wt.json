@@ -1,0 +1,35 @@
+{
+  "id": "2fj5pzLyOKDpUOPZs9q3wt",
+  "name": "The Del McCoury Band",
+  "uri": "spotify:artist:2fj5pzLyOKDpUOPZs9q3wt",
+  "followers": {
+    "href": null,
+    "total": 51546
+  },
+  "genres": [
+    "bluegrass",
+    "jam band",
+    "progressive bluegrass"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5cf0698c07dea993f1ccca7b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051745cf0698c07dea993f1ccca7b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1785cf0698c07dea993f1ccca7b",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
+  }
+}

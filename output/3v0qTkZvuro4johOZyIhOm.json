@@ -1,0 +1,33 @@
+{
+  "id": "3v0qTkZvuro4johOZyIhOm",
+  "name": "9mice",
+  "uri": "spotify:artist:3v0qTkZvuro4johOZyIhOm",
+  "followers": {
+    "href": null,
+    "total": 58026
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebecadbffa4534070f3f5f83d4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ecadbffa4534070f3f5f83d4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ecadbffa4534070f3f5f83d4",
+      "width": 160
+    }
+  ],
+  "popularity": 49,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm"
+  }
+}

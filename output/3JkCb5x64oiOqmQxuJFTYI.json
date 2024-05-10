@@ -1,0 +1,33 @@
+{
+  "id": "3JkCb5x64oiOqmQxuJFTYI",
+  "name": "Kloon",
+  "uri": "spotify:artist:3JkCb5x64oiOqmQxuJFTYI",
+  "followers": {
+    "href": null,
+    "total": 733
+  },
+  "genres": [
+    "xtra raw"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb92a7073dda2f69ddd37ec49e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517492a7073dda2f69ddd37ec49e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17892a7073dda2f69ddd37ec49e",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3JkCb5x64oiOqmQxuJFTYI"
+  }
+}

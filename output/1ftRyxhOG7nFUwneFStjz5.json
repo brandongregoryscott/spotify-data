@@ -1,0 +1,33 @@
+{
+  "id": "1ftRyxhOG7nFUwneFStjz5",
+  "name": "Glass",
+  "uri": "spotify:artist:1ftRyxhOG7nFUwneFStjz5",
+  "followers": {
+    "href": null,
+    "total": 62
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba24693645b3aa3b7050828db",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a24693645b3aa3b7050828db",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a24693645b3aa3b7050828db",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ftRyxhOG7nFUwneFStjz5"
+  }
+}

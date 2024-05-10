@@ -1,0 +1,33 @@
+{
+  "id": "5i8xf9hZ3c5aXFO5WdrO6o",
+  "name": "Tangolo Mangos",
+  "uri": "spotify:artist:5i8xf9hZ3c5aXFO5WdrO6o",
+  "followers": {
+    "href": null,
+    "total": 7433
+  },
+  "genres": [
+    "musica baiana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebec12bcd59db67ab8f406b59e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ec12bcd59db67ab8f406b59e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ec12bcd59db67ab8f406b59e",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5i8xf9hZ3c5aXFO5WdrO6o"
+  }
+}

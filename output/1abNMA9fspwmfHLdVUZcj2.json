@@ -1,0 +1,33 @@
+{
+  "id": "1abNMA9fspwmfHLdVUZcj2",
+  "name": "Vapna",
+  "uri": "spotify:artist:1abNMA9fspwmfHLdVUZcj2",
+  "followers": {
+    "href": null,
+    "total": 191
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27399ae8e3bb343c9214cc37832",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0299ae8e3bb343c9214cc37832",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485199ae8e3bb343c9214cc37832",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1abNMA9fspwmfHLdVUZcj2"
+  }
+}

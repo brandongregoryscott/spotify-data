@@ -1,0 +1,33 @@
+{
+  "id": "196J51GC9C3HNNVA4sBsXX",
+  "name": "Plazúr",
+  "uri": "spotify:artist:196J51GC9C3HNNVA4sBsXX",
+  "followers": {
+    "href": null,
+    "total": 222
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfaa493fa57d29a1478792f91",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174faa493fa57d29a1478792f91",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178faa493fa57d29a1478792f91",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/196J51GC9C3HNNVA4sBsXX"
+  }
+}

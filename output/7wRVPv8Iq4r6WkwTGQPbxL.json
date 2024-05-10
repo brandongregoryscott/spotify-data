@@ -1,0 +1,33 @@
+{
+  "id": "7wRVPv8Iq4r6WkwTGQPbxL",
+  "name": "Space Needle",
+  "uri": "spotify:artist:7wRVPv8Iq4r6WkwTGQPbxL",
+  "followers": {
+    "href": null,
+    "total": 1736
+  },
+  "genres": [
+    "experimental rock"
+  ],
+  "images": [
+    {
+      "height": 360,
+      "url": "https://i.scdn.co/image/1a191fdca1a318922091f4b44d5960baab6709b0",
+      "width": 413
+    },
+    {
+      "height": 174,
+      "url": "https://i.scdn.co/image/ba4ead0840fdb8a23d76f177eb9ceab8c79ecea0",
+      "width": 200
+    },
+    {
+      "height": 56,
+      "url": "https://i.scdn.co/image/820a38bc9a3ffff14b9f9cf7fca494caf2acae81",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7wRVPv8Iq4r6WkwTGQPbxL"
+  }
+}

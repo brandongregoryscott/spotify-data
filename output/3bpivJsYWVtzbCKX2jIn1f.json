@@ -1,0 +1,33 @@
+{
+  "id": "3bpivJsYWVtzbCKX2jIn1f",
+  "name": "Not",
+  "uri": "spotify:artist:3bpivJsYWVtzbCKX2jIn1f",
+  "followers": {
+    "href": null,
+    "total": 100
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb56edd5b65dbc2c3555d95932",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517456edd5b65dbc2c3555d95932",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17856edd5b65dbc2c3555d95932",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3bpivJsYWVtzbCKX2jIn1f"
+  }
+}

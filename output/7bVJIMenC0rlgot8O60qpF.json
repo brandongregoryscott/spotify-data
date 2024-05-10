@@ -1,0 +1,33 @@
+{
+  "id": "7bVJIMenC0rlgot8O60qpF",
+  "name": "Park Bird",
+  "uri": "spotify:artist:7bVJIMenC0rlgot8O60qpF",
+  "followers": {
+    "href": null,
+    "total": 42283
+  },
+  "genres": [
+    "korean electropop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd071c3ae423bf48512129d3e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d071c3ae423bf48512129d3e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d071c3ae423bf48512129d3e",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7bVJIMenC0rlgot8O60qpF"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "018ELjQfBq9kOChkjDIzjt",
+  "name": "Mark Jones",
+  "uri": "spotify:artist:018ELjQfBq9kOChkjDIzjt",
+  "followers": {
+    "href": null,
+    "total": 488
+  },
+  "genres": [
+    "cosmic american"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a39527a6b4a3566722d75b62",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a39527a6b4a3566722d75b62",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a39527a6b4a3566722d75b62",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/018ELjQfBq9kOChkjDIzjt"
+  }
+}

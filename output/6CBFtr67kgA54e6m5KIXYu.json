@@ -1,0 +1,33 @@
+{
+  "id": "6CBFtr67kgA54e6m5KIXYu",
+  "name": "Jon Sudbury",
+  "uri": "spotify:artist:6CBFtr67kgA54e6m5KIXYu",
+  "followers": {
+    "href": null,
+    "total": 116
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe3ffcb88bcd7d28875befa54",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e3ffcb88bcd7d28875befa54",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e3ffcb88bcd7d28875befa54",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6CBFtr67kgA54e6m5KIXYu"
+  }
+}

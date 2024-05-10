@@ -1,0 +1,34 @@
+{
+  "id": "27ykGL8CGbRE5LOT3K9IUp",
+  "name": "akiko",
+  "uri": "spotify:artist:27ykGL8CGbRE5LOT3K9IUp",
+  "followers": {
+    "href": null,
+    "total": 8782
+  },
+  "genres": [
+    "japanese jazz",
+    "japanese vocal jazz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb98033fd864baf26c3d218b3d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517498033fd864baf26c3d218b3d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17898033fd864baf26c3d218b3d",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/27ykGL8CGbRE5LOT3K9IUp"
+  }
+}

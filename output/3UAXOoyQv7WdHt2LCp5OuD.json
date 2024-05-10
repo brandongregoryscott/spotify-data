@@ -1,0 +1,33 @@
+{
+  "id": "3UAXOoyQv7WdHt2LCp5OuD",
+  "name": "Abcd!",
+  "uri": "spotify:artist:3UAXOoyQv7WdHt2LCp5OuD",
+  "followers": {
+    "href": null,
+    "total": 1018
+  },
+  "genres": [
+    "pinoy indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb28aa28bf5201a2e49701bdbb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517428aa28bf5201a2e49701bdbb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17828aa28bf5201a2e49701bdbb",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3UAXOoyQv7WdHt2LCp5OuD"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5DxWcYbj4L7tIpshuSt0tm",
+  "name": "Ophidia",
+  "uri": "spotify:artist:5DxWcYbj4L7tIpshuSt0tm",
+  "followers": {
+    "href": null,
+    "total": 274
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb20aa5ac91e419caa59f3b148",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517420aa5ac91e419caa59f3b148",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17820aa5ac91e419caa59f3b148",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5DxWcYbj4L7tIpshuSt0tm"
+  }
+}

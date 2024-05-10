@@ -1,0 +1,33 @@
+{
+  "id": "4dLlGRUNH3feWTl4uCDBrP",
+  "name": "I Giocatori",
+  "uri": "spotify:artist:4dLlGRUNH3feWTl4uCDBrP",
+  "followers": {
+    "href": null,
+    "total": 831
+  },
+  "genres": [
+    "rawstyle"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebafc7d1efe80601982b339861",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174afc7d1efe80601982b339861",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178afc7d1efe80601982b339861",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4dLlGRUNH3feWTl4uCDBrP"
+  }
+}

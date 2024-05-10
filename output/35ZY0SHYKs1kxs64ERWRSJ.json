@@ -1,0 +1,33 @@
+{
+  "id": "35ZY0SHYKs1kxs64ERWRSJ",
+  "name": "Random Alias",
+  "uri": "spotify:artist:35ZY0SHYKs1kxs64ERWRSJ",
+  "followers": {
+    "href": null,
+    "total": 110
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb997663219ee539f3b4071f03",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174997663219ee539f3b4071f03",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178997663219ee539f3b4071f03",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/35ZY0SHYKs1kxs64ERWRSJ"
+  }
+}

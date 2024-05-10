@@ -1,0 +1,33 @@
+{
+  "id": "2gP9WNPrYl0S1xIBFAX1Pr",
+  "name": "One Hundred Dollars",
+  "uri": "spotify:artist:2gP9WNPrYl0S1xIBFAX1Pr",
+  "followers": {
+    "href": null,
+    "total": 956
+  },
+  "genres": [
+    "toronto indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a3110af9f6909ffd4c74bcab",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a3110af9f6909ffd4c74bcab",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a3110af9f6909ffd4c74bcab",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2gP9WNPrYl0S1xIBFAX1Pr"
+  }
+}

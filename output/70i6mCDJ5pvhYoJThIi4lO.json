@@ -1,0 +1,33 @@
+{
+  "id": "70i6mCDJ5pvhYoJThIi4lO",
+  "name": "Sam Jr.",
+  "uri": "spotify:artist:70i6mCDJ5pvhYoJThIi4lO",
+  "followers": {
+    "href": null,
+    "total": 805
+  },
+  "genres": [
+    "canadian shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb476e0a90386eac7c0c175769",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174476e0a90386eac7c0c175769",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178476e0a90386eac7c0c175769",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/70i6mCDJ5pvhYoJThIi4lO"
+  }
+}

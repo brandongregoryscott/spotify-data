@@ -1,0 +1,33 @@
+{
+  "id": "0r9f1NVm7idIteKZfm7ZWO",
+  "name": "Francisco Bernier",
+  "uri": "spotify:artist:0r9f1NVm7idIteKZfm7ZWO",
+  "followers": {
+    "href": null,
+    "total": 179
+  },
+  "genres": [
+    "classical guitar"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ae8ae3165f2521afed478aad",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ae8ae3165f2521afed478aad",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ae8ae3165f2521afed478aad",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0r9f1NVm7idIteKZfm7ZWO"
+  }
+}

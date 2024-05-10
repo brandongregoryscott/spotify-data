@@ -1,0 +1,34 @@
+{
+  "id": "7enlnzGsyt0x5BCigj8TGc",
+  "name": "Jon Webster",
+  "uri": "spotify:artist:7enlnzGsyt0x5BCigj8TGc",
+  "followers": {
+    "href": null,
+    "total": 4895
+  },
+  "genres": [
+    "christian indie folk",
+    "christian pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb907fea8d27c8b9941af23e70",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174907fea8d27c8b9941af23e70",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178907fea8d27c8b9941af23e70",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7enlnzGsyt0x5BCigj8TGc"
+  }
+}

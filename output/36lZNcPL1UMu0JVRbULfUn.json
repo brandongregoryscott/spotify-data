@@ -1,0 +1,34 @@
+{
+  "id": "36lZNcPL1UMu0JVRbULfUn",
+  "name": "Dave Nada",
+  "uri": "spotify:artist:36lZNcPL1UMu0JVRbULfUn",
+  "followers": {
+    "href": null,
+    "total": 1747
+  },
+  "genres": [
+    "bmore",
+    "moombahton"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf83059d367239e9f1641d7db",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f83059d367239e9f1641d7db",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f83059d367239e9f1641d7db",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/36lZNcPL1UMu0JVRbULfUn"
+  }
+}

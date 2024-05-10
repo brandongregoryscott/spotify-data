@@ -1,0 +1,33 @@
+{
+  "id": "3HFnkveFcZKHP6U6A52PjH",
+  "name": "Swim Team",
+  "uri": "spotify:artist:3HFnkveFcZKHP6U6A52PjH",
+  "followers": {
+    "href": null,
+    "total": 105
+  },
+  "genres": [
+    "ottawa indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd137e14b6a754ef788c4b0ce",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d137e14b6a754ef788c4b0ce",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d137e14b6a754ef788c4b0ce",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3HFnkveFcZKHP6U6A52PjH"
+  }
+}

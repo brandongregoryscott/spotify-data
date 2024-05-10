@@ -1,0 +1,33 @@
+{
+  "id": "6vXDLCuOFijogUAJC4sooO",
+  "name": "GUSTAVO",
+  "uri": "spotify:artist:6vXDLCuOFijogUAJC4sooO",
+  "followers": {
+    "href": null,
+    "total": 337
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebba8184546798c891e7551b57",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ba8184546798c891e7551b57",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ba8184546798c891e7551b57",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6vXDLCuOFijogUAJC4sooO"
+  }
+}

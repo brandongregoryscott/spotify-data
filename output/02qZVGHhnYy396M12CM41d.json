@@ -1,0 +1,33 @@
+{
+  "id": "02qZVGHhnYy396M12CM41d",
+  "name": "Cirque d'Ess",
+  "uri": "spotify:artist:02qZVGHhnYy396M12CM41d",
+  "followers": {
+    "href": null,
+    "total": 549
+  },
+  "genres": [
+    "modern darkwave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb73c7008f05f39c94b831b5aa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517473c7008f05f39c94b831b5aa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17873c7008f05f39c94b831b5aa",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/02qZVGHhnYy396M12CM41d"
+  }
+}

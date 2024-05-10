@@ -1,0 +1,33 @@
+{
+  "id": "1Q6QupIoT3GaUDP6BBkBgb",
+  "name": "Robert Cosmic",
+  "uri": "spotify:artist:1Q6QupIoT3GaUDP6BBkBgb",
+  "followers": {
+    "href": null,
+    "total": 670
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcb7735e5682d869de3724dd6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cb7735e5682d869de3724dd6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cb7735e5682d869de3724dd6",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Q6QupIoT3GaUDP6BBkBgb"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "30DQRBPVOsAb7S2rlAhgiu",
+  "name": "Crown of Horns",
+  "uri": "spotify:artist:30DQRBPVOsAb7S2rlAhgiu",
+  "followers": {
+    "href": null,
+    "total": 785
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb2c192ae8ec473c5fa8efa123",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051742c192ae8ec473c5fa8efa123",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1782c192ae8ec473c5fa8efa123",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/30DQRBPVOsAb7S2rlAhgiu"
+  }
+}

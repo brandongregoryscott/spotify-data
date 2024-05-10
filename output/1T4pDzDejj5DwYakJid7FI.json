@@ -1,0 +1,33 @@
+{
+  "id": "1T4pDzDejj5DwYakJid7FI",
+  "name": "Marc Teicholz",
+  "uri": "spotify:artist:1T4pDzDejj5DwYakJid7FI",
+  "followers": {
+    "href": null,
+    "total": 533
+  },
+  "genres": [
+    "classical guitar"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732820b6ffa34ed001cd1f269e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022820b6ffa34ed001cd1f269e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512820b6ffa34ed001cd1f269e",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1T4pDzDejj5DwYakJid7FI"
+  }
+}

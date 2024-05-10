@@ -1,0 +1,33 @@
+{
+  "id": "0yCuLsPIeokBFvfA7xbEpA",
+  "name": "Pele",
+  "uri": "spotify:artist:0yCuLsPIeokBFvfA7xbEpA",
+  "followers": {
+    "href": null,
+    "total": 3908
+  },
+  "genres": [
+    "american post-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb96bad5201b67d7b5fd4e7872",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517496bad5201b67d7b5fd4e7872",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17896bad5201b67d7b5fd4e7872",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0yCuLsPIeokBFvfA7xbEpA"
+  }
+}

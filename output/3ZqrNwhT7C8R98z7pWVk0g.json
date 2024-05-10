@@ -1,0 +1,33 @@
+{
+  "id": "3ZqrNwhT7C8R98z7pWVk0g",
+  "name": "PONY",
+  "uri": "spotify:artist:3ZqrNwhT7C8R98z7pWVk0g",
+  "followers": {
+    "href": null,
+    "total": 1234
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27358de723018f827f5d38c77b7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0258de723018f827f5d38c77b7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485158de723018f827f5d38c77b7",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ZqrNwhT7C8R98z7pWVk0g"
+  }
+}

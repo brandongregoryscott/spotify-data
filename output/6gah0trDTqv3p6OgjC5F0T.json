@@ -1,0 +1,33 @@
+{
+  "id": "6gah0trDTqv3p6OgjC5F0T",
+  "name": "Alexander Mark",
+  "uri": "spotify:artist:6gah0trDTqv3p6OgjC5F0T",
+  "followers": {
+    "href": null,
+    "total": 262
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb807d4cca8b85be84e8b8576f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174807d4cca8b85be84e8b8576f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178807d4cca8b85be84e8b8576f",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6gah0trDTqv3p6OgjC5F0T"
+  }
+}

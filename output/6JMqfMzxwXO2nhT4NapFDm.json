@@ -1,0 +1,33 @@
+{
+  "id": "6JMqfMzxwXO2nhT4NapFDm",
+  "name": "My Diligent Future",
+  "uri": "spotify:artist:6JMqfMzxwXO2nhT4NapFDm",
+  "followers": {
+    "href": null,
+    "total": 5349
+  },
+  "genres": [
+    "gymcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb36d5c04d903a8ac2746eb229",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517436d5c04d903a8ac2746eb229",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17836d5c04d903a8ac2746eb229",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6JMqfMzxwXO2nhT4NapFDm"
+  }
+}

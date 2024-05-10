@@ -1,0 +1,33 @@
+{
+  "id": "0aFEUIky0KBHeZMdTbaTwX",
+  "name": "Moving Atlas",
+  "uri": "spotify:artist:0aFEUIky0KBHeZMdTbaTwX",
+  "followers": {
+    "href": null,
+    "total": 2104
+  },
+  "genres": [
+    "progressive alternative"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273839463eb1648c932e9818a9e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02839463eb1648c932e9818a9e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851839463eb1648c932e9818a9e",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0aFEUIky0KBHeZMdTbaTwX"
+  }
+}

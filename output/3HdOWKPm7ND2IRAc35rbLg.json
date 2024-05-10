@@ -1,0 +1,33 @@
+{
+  "id": "3HdOWKPm7ND2IRAc35rbLg",
+  "name": "H6kutta",
+  "uri": "spotify:artist:3HdOWKPm7ND2IRAc35rbLg",
+  "followers": {
+    "href": null,
+    "total": 2257
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebde2643356c8605cafc6502cf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174de2643356c8605cafc6502cf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178de2643356c8605cafc6502cf",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3HdOWKPm7ND2IRAc35rbLg"
+  }
+}

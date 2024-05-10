@@ -1,0 +1,33 @@
+{
+  "id": "2zLGlkD94KbiR6OUNpdocB",
+  "name": "Braids",
+  "uri": "spotify:artist:2zLGlkD94KbiR6OUNpdocB",
+  "followers": {
+    "href": null,
+    "total": 121
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba66dff12d31b4a599768da82",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a66dff12d31b4a599768da82",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a66dff12d31b4a599768da82",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2zLGlkD94KbiR6OUNpdocB"
+  }
+}

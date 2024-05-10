@@ -1,0 +1,33 @@
+{
+  "id": "6AB1zmVVOjYFJfyK3GZdJ5",
+  "name": "neras",
+  "uri": "spotify:artist:6AB1zmVVOjYFJfyK3GZdJ5",
+  "followers": {
+    "href": null,
+    "total": 305
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc4c78a1a3af57ef11aaf84b9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c4c78a1a3af57ef11aaf84b9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c4c78a1a3af57ef11aaf84b9",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6AB1zmVVOjYFJfyK3GZdJ5"
+  }
+}

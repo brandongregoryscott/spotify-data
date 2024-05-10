@@ -1,0 +1,34 @@
+{
+  "id": "5wJfv2PLPtKMzqoLkGB6hi",
+  "name": "Aztra",
+  "uri": "spotify:artist:5wJfv2PLPtKMzqoLkGB6hi",
+  "followers": {
+    "href": null,
+    "total": 10315
+  },
+  "genres": [
+    "folk metal latinoamericano",
+    "metal ecuatoriano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb63d6d0dd9deb83b21c009e34",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517463d6d0dd9deb83b21c009e34",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17863d6d0dd9deb83b21c009e34",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5wJfv2PLPtKMzqoLkGB6hi"
+  }
+}

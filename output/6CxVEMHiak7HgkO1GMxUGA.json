@@ -1,0 +1,33 @@
+{
+  "id": "6CxVEMHiak7HgkO1GMxUGA",
+  "name": "3.3.3",
+  "uri": "spotify:artist:6CxVEMHiak7HgkO1GMxUGA",
+  "followers": {
+    "href": null,
+    "total": 114
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb23178ffe80e4dad6d4b44648",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517423178ffe80e4dad6d4b44648",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17823178ffe80e4dad6d4b44648",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6CxVEMHiak7HgkO1GMxUGA"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "256afd8ZUXQ5a503pagHOS",
+  "name": "breathless",
+  "uri": "spotify:artist:256afd8ZUXQ5a503pagHOS",
+  "followers": {
+    "href": null,
+    "total": 165
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebde4391533c05dcd2a7bb12aa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174de4391533c05dcd2a7bb12aa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178de4391533c05dcd2a7bb12aa",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/256afd8ZUXQ5a503pagHOS"
+  }
+}

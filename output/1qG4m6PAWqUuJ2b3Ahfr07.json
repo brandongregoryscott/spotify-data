@@ -1,0 +1,33 @@
+{
+  "id": "1qG4m6PAWqUuJ2b3Ahfr07",
+  "name": "Blue Mash",
+  "uri": "spotify:artist:1qG4m6PAWqUuJ2b3Ahfr07",
+  "followers": {
+    "href": null,
+    "total": 6680
+  },
+  "genres": [
+    "modern j-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb2ac6d903d53ca32e5459ae9b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051742ac6d903d53ca32e5459ae9b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1782ac6d903d53ca32e5459ae9b",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1qG4m6PAWqUuJ2b3Ahfr07"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7DXWx1zV0IQ2HCYLDzBxKw",
+  "name": "Andy Reed",
+  "uri": "spotify:artist:7DXWx1zV0IQ2HCYLDzBxKw",
+  "followers": {
+    "href": null,
+    "total": 302
+  },
+  "genres": [
+    "beatlesque"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbe38af0e02a292d6cc3acd69",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174be38af0e02a292d6cc3acd69",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178be38af0e02a292d6cc3acd69",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7DXWx1zV0IQ2HCYLDzBxKw"
+  }
+}

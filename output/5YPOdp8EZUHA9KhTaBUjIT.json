@@ -1,0 +1,33 @@
+{
+  "id": "5YPOdp8EZUHA9KhTaBUjIT",
+  "name": "Sammpagne",
+  "uri": "spotify:artist:5YPOdp8EZUHA9KhTaBUjIT",
+  "followers": {
+    "href": null,
+    "total": 41
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb41258b0d8d39946f68ab6f5f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517441258b0d8d39946f68ab6f5f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17841258b0d8d39946f68ab6f5f",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5YPOdp8EZUHA9KhTaBUjIT"
+  }
+}

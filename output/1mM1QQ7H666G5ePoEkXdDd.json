@@ -1,0 +1,33 @@
+{
+  "id": "1mM1QQ7H666G5ePoEkXdDd",
+  "name": "08",
+  "uri": "spotify:artist:1mM1QQ7H666G5ePoEkXdDd",
+  "followers": {
+    "href": null,
+    "total": 231
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb994ef2d5112a6dac857c5357",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174994ef2d5112a6dac857c5357",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178994ef2d5112a6dac857c5357",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1mM1QQ7H666G5ePoEkXdDd"
+  }
+}

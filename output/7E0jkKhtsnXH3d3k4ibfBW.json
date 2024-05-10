@@ -1,0 +1,33 @@
+{
+  "id": "7E0jkKhtsnXH3d3k4ibfBW",
+  "name": "Sucré",
+  "uri": "spotify:artist:7E0jkKhtsnXH3d3k4ibfBW",
+  "followers": {
+    "href": null,
+    "total": 13850
+  },
+  "genres": [
+    "metropopolis"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb43403413fa6491ac64710be1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517443403413fa6491ac64710be1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17843403413fa6491ac64710be1",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7E0jkKhtsnXH3d3k4ibfBW"
+  }
+}

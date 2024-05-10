@@ -1,0 +1,33 @@
+{
+  "id": "111TtJ6ZVFWJZJvK7oNt0d",
+  "name": "Podipto",
+  "uri": "spotify:artist:111TtJ6ZVFWJZJvK7oNt0d",
+  "followers": {
+    "href": null,
+    "total": 188
+  },
+  "genres": [
+    "cosmic american"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273db2ef746f57811a67a1d3af6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02db2ef746f57811a67a1d3af6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851db2ef746f57811a67a1d3af6",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/111TtJ6ZVFWJZJvK7oNt0d"
+  }
+}

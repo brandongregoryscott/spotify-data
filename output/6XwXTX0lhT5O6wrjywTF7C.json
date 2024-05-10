@@ -1,0 +1,33 @@
+{
+  "id": "6XwXTX0lhT5O6wrjywTF7C",
+  "name": "Nix",
+  "uri": "spotify:artist:6XwXTX0lhT5O6wrjywTF7C",
+  "followers": {
+    "href": null,
+    "total": 199
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc7f37c477212d21847cdddd5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c7f37c477212d21847cdddd5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c7f37c477212d21847cdddd5",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6XwXTX0lhT5O6wrjywTF7C"
+  }
+}

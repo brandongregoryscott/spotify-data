@@ -1,0 +1,33 @@
+{
+  "id": "4austkFDBkQqxEUpnYnveI",
+  "name": "demo sphere",
+  "uri": "spotify:artist:4austkFDBkQqxEUpnYnveI",
+  "followers": {
+    "href": null,
+    "total": 121
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebde5d4d34fe1227c4aa2d9aa7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174de5d4d34fe1227c4aa2d9aa7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178de5d4d34fe1227c4aa2d9aa7",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4austkFDBkQqxEUpnYnveI"
+  }
+}

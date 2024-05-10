@@ -1,0 +1,33 @@
+{
+  "id": "1Ktiv08TbBy195pQUH8Qld",
+  "name": "THAMA",
+  "uri": "spotify:artist:1Ktiv08TbBy195pQUH8Qld",
+  "followers": {
+    "href": null,
+    "total": 49219
+  },
+  "genres": [
+    "korean r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd9d041780ae3817ec414e7ce",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d9d041780ae3817ec414e7ce",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d9d041780ae3817ec414e7ce",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+  }
+}

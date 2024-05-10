@@ -1,0 +1,33 @@
+{
+  "id": "0vqILHF92UEDMJ5vjViLID",
+  "name": "Me Not You",
+  "uri": "spotify:artist:0vqILHF92UEDMJ5vjViLID",
+  "followers": {
+    "href": null,
+    "total": 5879
+  },
+  "genres": [
+    "nyc pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb998101dbc090d0b06df65d84",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174998101dbc090d0b06df65d84",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178998101dbc090d0b06df65d84",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0vqILHF92UEDMJ5vjViLID"
+  }
+}

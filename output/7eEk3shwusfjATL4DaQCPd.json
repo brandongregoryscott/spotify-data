@@ -1,0 +1,33 @@
+{
+  "id": "7eEk3shwusfjATL4DaQCPd",
+  "name": "Predznanie",
+  "uri": "spotify:artist:7eEk3shwusfjATL4DaQCPd",
+  "followers": {
+    "href": null,
+    "total": 725
+  },
+  "genres": [
+    "russian post-punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27322f14d9fd8ca5ff3cbfaa63e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0222f14d9fd8ca5ff3cbfaa63e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485122f14d9fd8ca5ff3cbfaa63e",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7eEk3shwusfjATL4DaQCPd"
+  }
+}

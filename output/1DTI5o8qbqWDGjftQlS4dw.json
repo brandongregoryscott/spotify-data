@@ -1,0 +1,33 @@
+{
+  "id": "1DTI5o8qbqWDGjftQlS4dw",
+  "name": "mAsis",
+  "uri": "spotify:artist:1DTI5o8qbqWDGjftQlS4dw",
+  "followers": {
+    "href": null,
+    "total": 5457
+  },
+  "genres": [
+    "vapor soul"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736e1fbb0f3a8bb37758a4e1c7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026e1fbb0f3a8bb37758a4e1c7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516e1fbb0f3a8bb37758a4e1c7",
+      "width": 64
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw"
+  }
+}

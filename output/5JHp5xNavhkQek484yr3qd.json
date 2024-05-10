@@ -1,0 +1,33 @@
+{
+  "id": "5JHp5xNavhkQek484yr3qd",
+  "name": "Rodney Chrome",
+  "uri": "spotify:artist:5JHp5xNavhkQek484yr3qd",
+  "followers": {
+    "href": null,
+    "total": 6706
+  },
+  "genres": [
+    "lgbtq+ hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4a3eeddf2775e09749b1124c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744a3eeddf2775e09749b1124c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784a3eeddf2775e09749b1124c",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5JHp5xNavhkQek484yr3qd"
+  }
+}

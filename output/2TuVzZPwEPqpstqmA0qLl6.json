@@ -1,0 +1,33 @@
+{
+  "id": "2TuVzZPwEPqpstqmA0qLl6",
+  "name": "O Terno",
+  "uri": "spotify:artist:2TuVzZPwEPqpstqmA0qLl6",
+  "followers": {
+    "href": null,
+    "total": 246590
+  },
+  "genres": [
+    "brazilian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb38fb1dfbcae1006ba225b4c3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517438fb1dfbcae1006ba225b4c3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17838fb1dfbcae1006ba225b4c3",
+      "width": 160
+    }
+  ],
+  "popularity": 47,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2TuVzZPwEPqpstqmA0qLl6"
+  }
+}

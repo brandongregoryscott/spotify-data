@@ -1,0 +1,33 @@
+{
+  "id": "4wm2p43N7iw80NkW0T5QmF",
+  "name": "Hardfunction",
+  "uri": "spotify:artist:4wm2p43N7iw80NkW0T5QmF",
+  "followers": {
+    "href": null,
+    "total": 1461
+  },
+  "genres": [
+    "rawstyle"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdbf8ed556500781780a07ad2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dbf8ed556500781780a07ad2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dbf8ed556500781780a07ad2",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4wm2p43N7iw80NkW0T5QmF"
+  }
+}

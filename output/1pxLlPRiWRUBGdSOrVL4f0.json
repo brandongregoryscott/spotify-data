@@ -1,0 +1,33 @@
+{
+  "id": "1pxLlPRiWRUBGdSOrVL4f0",
+  "name": "Kai Angel",
+  "uri": "spotify:artist:1pxLlPRiWRUBGdSOrVL4f0",
+  "followers": {
+    "href": null,
+    "total": 59361
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb38d962747db45262e079f67c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517438d962747db45262e079f67c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17838d962747db45262e079f67c",
+      "width": 160
+    }
+  ],
+  "popularity": 54,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0"
+  }
+}

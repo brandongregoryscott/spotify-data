@@ -1,0 +1,33 @@
+{
+  "id": "7I3oOVuOQyHigo3BkksZj9",
+  "name": "Ngọc",
+  "uri": "spotify:artist:7I3oOVuOQyHigo3BkksZj9",
+  "followers": {
+    "href": null,
+    "total": 2086
+  },
+  "genres": [
+    "rock viet"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd6f39ca2e8958c8c18aec5bf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d6f39ca2e8958c8c18aec5bf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d6f39ca2e8958c8c18aec5bf",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7I3oOVuOQyHigo3BkksZj9"
+  }
+}

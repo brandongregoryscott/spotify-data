@@ -1,0 +1,33 @@
+{
+  "id": "4rjXInANFMCQfAzadFAi4d",
+  "name": "softclouds",
+  "uri": "spotify:artist:4rjXInANFMCQfAzadFAi4d",
+  "followers": {
+    "href": null,
+    "total": 154
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27343f5c167097014944f868064",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0243f5c167097014944f868064",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485143f5c167097014944f868064",
+      "width": 64
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "0AgliE7kFHih5sFUhBABzT",
+  "name": "Kuritus",
+  "uri": "spotify:artist:0AgliE7kFHih5sFUhBABzT",
+  "followers": {
+    "href": null,
+    "total": 447
+  },
+  "genres": [
+    "finnish pop punk",
+    "finnish punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebebda60b21500d34c3f13c131",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ebda60b21500d34c3f13c131",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ebda60b21500d34c3f13c131",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0AgliE7kFHih5sFUhBABzT"
+  }
+}

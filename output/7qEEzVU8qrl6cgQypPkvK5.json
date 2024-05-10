@@ -1,0 +1,33 @@
+{
+  "id": "7qEEzVU8qrl6cgQypPkvK5",
+  "name": "Saica",
+  "uri": "spotify:artist:7qEEzVU8qrl6cgQypPkvK5",
+  "followers": {
+    "href": null,
+    "total": 2657
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27316265c5497f6047d761d5c86",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0216265c5497f6047d761d5c86",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485116265c5497f6047d761d5c86",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7qEEzVU8qrl6cgQypPkvK5"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1SDesCxCIoXpxHj4c4BR8t",
+  "name": "Ulvtharm",
+  "uri": "spotify:artist:1SDesCxCIoXpxHj4c4BR8t",
+  "followers": {
+    "href": null,
+    "total": 326
+  },
+  "genres": [
+    "power electronics"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb40ccee73c9f205776b9d2be7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517440ccee73c9f205776b9d2be7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17840ccee73c9f205776b9d2be7",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1SDesCxCIoXpxHj4c4BR8t"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5fufeukJSyypnoecFpREJJ",
+  "name": "Osqui",
+  "uri": "spotify:artist:5fufeukJSyypnoecFpREJJ",
+  "followers": {
+    "href": null,
+    "total": 789
+  },
+  "genres": [
+    "hyperpop en espanol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba6e8cd8e24f861ae56946a02",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a6e8cd8e24f861ae56946a02",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a6e8cd8e24f861ae56946a02",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5fufeukJSyypnoecFpREJJ"
+  }
+}

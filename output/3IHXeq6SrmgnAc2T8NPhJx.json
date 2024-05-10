@@ -1,0 +1,33 @@
+{
+  "id": "3IHXeq6SrmgnAc2T8NPhJx",
+  "name": "Reies",
+  "uri": "spotify:artist:3IHXeq6SrmgnAc2T8NPhJx",
+  "followers": {
+    "href": null,
+    "total": 703
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdf3accd3462a8bb87531b7e4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174df3accd3462a8bb87531b7e4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178df3accd3462a8bb87531b7e4",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3IHXeq6SrmgnAc2T8NPhJx"
+  }
+}

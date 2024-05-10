@@ -1,0 +1,33 @@
+{
+  "id": "779Q9oJXqbVHN4DbtTYa6O",
+  "name": "APRO",
+  "uri": "spotify:artist:779Q9oJXqbVHN4DbtTYa6O",
+  "followers": {
+    "href": null,
+    "total": 17862
+  },
+  "genres": [
+    "korean r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb312a34b8f77314f6babdd5bd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174312a34b8f77314f6babdd5bd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178312a34b8f77314f6babdd5bd",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/779Q9oJXqbVHN4DbtTYa6O"
+  }
+}

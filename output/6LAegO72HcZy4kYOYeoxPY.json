@@ -1,0 +1,33 @@
+{
+  "id": "6LAegO72HcZy4kYOYeoxPY",
+  "name": "group A",
+  "uri": "spotify:artist:6LAegO72HcZy4kYOYeoxPY",
+  "followers": {
+    "href": null,
+    "total": 1145
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273de2e58351a990f606a8a27de",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02de2e58351a990f606a8a27de",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851de2e58351a990f606a8a27de",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6LAegO72HcZy4kYOYeoxPY"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1i53mU09xeAvkaE4JhgNDB",
+  "name": "Felipe Fonseca",
+  "uri": "spotify:artist:1i53mU09xeAvkaE4JhgNDB",
+  "followers": {
+    "href": null,
+    "total": 2
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738de66975033243ad1c85b7d1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028de66975033243ad1c85b7d1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518de66975033243ad1c85b7d1",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1i53mU09xeAvkaE4JhgNDB"
+  }
+}

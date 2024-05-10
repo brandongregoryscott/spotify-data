@@ -1,0 +1,33 @@
+{
+  "id": "4FmVtCmD1ZW4IPmtFbjPR2",
+  "name": "Wolfbird",
+  "uri": "spotify:artist:4FmVtCmD1ZW4IPmtFbjPR2",
+  "followers": {
+    "href": null,
+    "total": 55
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734524cd9290b2074591ea3f24",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024524cd9290b2074591ea3f24",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514524cd9290b2074591ea3f24",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4FmVtCmD1ZW4IPmtFbjPR2"
+  }
+}

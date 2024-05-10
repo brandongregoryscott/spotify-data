@@ -1,0 +1,33 @@
+{
+  "id": "1KSyvdB3WcGsfDBj0sJUbo",
+  "name": "이미자",
+  "uri": "spotify:artist:1KSyvdB3WcGsfDBj0sJUbo",
+  "followers": {
+    "href": null,
+    "total": 818
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273507debfebe43dd06015f6321",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02507debfebe43dd06015f6321",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851507debfebe43dd06015f6321",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1KSyvdB3WcGsfDBj0sJUbo"
+  }
+}

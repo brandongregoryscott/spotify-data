@@ -1,0 +1,34 @@
+{
+  "id": "1l2ZXJG4sFFXyg9HWCWo4N",
+  "name": "Cleus",
+  "uri": "spotify:artist:1l2ZXJG4sFFXyg9HWCWo4N",
+  "followers": {
+    "href": null,
+    "total": 418
+  },
+  "genres": [
+    "post-punk mexicano",
+    "rock gotico"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cfb76cf8b46fe54cc0b121be",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cfb76cf8b46fe54cc0b121be",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cfb76cf8b46fe54cc0b121be",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1l2ZXJG4sFFXyg9HWCWo4N"
+  }
+}

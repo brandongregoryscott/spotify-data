@@ -1,0 +1,33 @@
+{
+  "id": "6NUQnrGypAr384XsKeOw3Q",
+  "name": "Recover",
+  "uri": "spotify:artist:6NUQnrGypAr384XsKeOw3Q",
+  "followers": {
+    "href": null,
+    "total": 3849
+  },
+  "genres": [
+    "austin rock"
+  ],
+  "images": [
+    {
+      "height": 900,
+      "url": "https://i.scdn.co/image/54024418098dd3f88fc1d40f09a8551062a13169",
+      "width": 600
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/f145fd11e957cbc4bf2ebdd3ffe5d413820b957c",
+      "width": 200
+    },
+    {
+      "height": 96,
+      "url": "https://i.scdn.co/image/943625553c24208d7b053439070f346db4b19669",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6NUQnrGypAr384XsKeOw3Q"
+  }
+}

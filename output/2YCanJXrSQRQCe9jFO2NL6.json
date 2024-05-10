@@ -1,0 +1,34 @@
+{
+  "id": "2YCanJXrSQRQCe9jFO2NL6",
+  "name": "El Triangulo",
+  "uri": "spotify:artist:2YCanJXrSQRQCe9jFO2NL6",
+  "followers": {
+    "href": null,
+    "total": 354
+  },
+  "genres": [
+    "argentine metal",
+    "grunge argentina"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb11397cd3d6577a201a33ffda",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517411397cd3d6577a201a33ffda",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17811397cd3d6577a201a33ffda",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2YCanJXrSQRQCe9jFO2NL6"
+  }
+}

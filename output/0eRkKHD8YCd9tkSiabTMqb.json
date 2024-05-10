@@ -1,0 +1,33 @@
+{
+  "id": "0eRkKHD8YCd9tkSiabTMqb",
+  "name": "PLUMA",
+  "uri": "spotify:artist:0eRkKHD8YCd9tkSiabTMqb",
+  "followers": {
+    "href": null,
+    "total": 12445
+  },
+  "genres": [
+    "pop rock brasileiro"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb51b23d981fc12acfd1aa5563",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517451b23d981fc12acfd1aa5563",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17851b23d981fc12acfd1aa5563",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0eRkKHD8YCd9tkSiabTMqb"
+  }
+}

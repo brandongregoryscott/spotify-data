@@ -1,0 +1,33 @@
+{
+  "id": "7qFNxNfrKpdnnDIaQkh4Ou",
+  "name": "Miss Sangria",
+  "uri": "spotify:artist:7qFNxNfrKpdnnDIaQkh4Ou",
+  "followers": {
+    "href": null,
+    "total": 192
+  },
+  "genres": [
+    "study beats"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273015b560dd9df14fc2607d93d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02015b560dd9df14fc2607d93d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851015b560dd9df14fc2607d93d",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7qFNxNfrKpdnnDIaQkh4Ou"
+  }
+}

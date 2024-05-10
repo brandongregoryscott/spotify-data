@@ -1,0 +1,33 @@
+{
+  "id": "2AyWRh1we1EnY1MhlDsNZP",
+  "name": "Las rosas rosas",
+  "uri": "spotify:artist:2AyWRh1we1EnY1MhlDsNZP",
+  "followers": {
+    "href": null,
+    "total": 34
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebca4571d6b46f872af25a5b12",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ca4571d6b46f872af25a5b12",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ca4571d6b46f872af25a5b12",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2AyWRh1we1EnY1MhlDsNZP"
+  }
+}

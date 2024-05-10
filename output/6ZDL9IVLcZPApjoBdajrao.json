@@ -1,0 +1,35 @@
+{
+  "id": "6ZDL9IVLcZPApjoBdajrao",
+  "name": "Summer Soul",
+  "uri": "spotify:artist:6ZDL9IVLcZPApjoBdajrao",
+  "followers": {
+    "href": null,
+    "total": 48649
+  },
+  "genres": [
+    "k-indie",
+    "korean electropop",
+    "korean r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb029b0e3cbe241935c6cc8f7e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174029b0e3cbe241935c6cc8f7e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178029b0e3cbe241935c6cc8f7e",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20dobUAxxreg2p8Rqn13aT",
+  "name": "JongYeon",
+  "uri": "spotify:artist:20dobUAxxreg2p8Rqn13aT",
+  "followers": {
+    "href": null,
+    "total": 641
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf1845e2188ca3dec81314adf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f1845e2188ca3dec81314adf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f1845e2188ca3dec81314adf",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/20dobUAxxreg2p8Rqn13aT"
+  }
+}

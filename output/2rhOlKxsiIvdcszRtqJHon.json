@@ -1,0 +1,33 @@
+{
+  "id": "2rhOlKxsiIvdcszRtqJHon",
+  "name": "Stonewall Static",
+  "uri": "spotify:artist:2rhOlKxsiIvdcszRtqJHon",
+  "followers": {
+    "href": null,
+    "total": 255
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd38ceba6c8050fbfb92a35c7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d38ceba6c8050fbfb92a35c7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d38ceba6c8050fbfb92a35c7",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2rhOlKxsiIvdcszRtqJHon"
+  }
+}
