@@ -1,0 +1,33 @@
+{
+  "id": "1dl7cSR3edNJ0oPaApQIb7",
+  "name": "Minamo",
+  "uri": "spotify:artist:1dl7cSR3edNJ0oPaApQIb7",
+  "followers": {
+    "href": null,
+    "total": 1891
+  },
+  "genres": [
+    "j-ambient"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ddc4e3075ff18052ad6858a1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ddc4e3075ff18052ad6858a1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ddc4e3075ff18052ad6858a1",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1dl7cSR3edNJ0oPaApQIb7"
+  }
+}

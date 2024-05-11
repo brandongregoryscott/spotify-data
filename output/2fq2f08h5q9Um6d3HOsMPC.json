@@ -1,0 +1,33 @@
+{
+  "id": "2fq2f08h5q9Um6d3HOsMPC",
+  "name": "Starsick System",
+  "uri": "spotify:artist:2fq2f08h5q9Um6d3HOsMPC",
+  "followers": {
+    "href": null,
+    "total": 546
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbbf1dd524d8998bf5a4c3707",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bbf1dd524d8998bf5a4c3707",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bbf1dd524d8998bf5a4c3707",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2fq2f08h5q9Um6d3HOsMPC"
+  }
+}

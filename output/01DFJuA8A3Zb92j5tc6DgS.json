@@ -1,0 +1,33 @@
+{
+  "id": "01DFJuA8A3Zb92j5tc6DgS",
+  "name": "Slať",
+  "uri": "spotify:artist:01DFJuA8A3Zb92j5tc6DgS",
+  "followers": {
+    "href": null,
+    "total": 204
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b21a1120a7a0d0aca8dc7b96",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b21a1120a7a0d0aca8dc7b96",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b21a1120a7a0d0aca8dc7b96",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01DFJuA8A3Zb92j5tc6DgS"
+  }
+}

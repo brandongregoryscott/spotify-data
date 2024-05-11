@@ -1,0 +1,34 @@
+{
+  "id": "47KsZ7WY3lQUXxhOpXkIG8",
+  "name": "Anonymus",
+  "uri": "spotify:artist:47KsZ7WY3lQUXxhOpXkIG8",
+  "followers": {
+    "href": null,
+    "total": 4764
+  },
+  "genres": [
+    "canadian metal",
+    "quebec metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb794f992343c570b6e61ce6e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b794f992343c570b6e61ce6e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b794f992343c570b6e61ce6e",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/47KsZ7WY3lQUXxhOpXkIG8"
+  }
+}

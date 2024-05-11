@@ -1,0 +1,33 @@
+{
+  "id": "571t1AKbmBJnGZY3NdNGCI",
+  "name": "Maifrén",
+  "uri": "spotify:artist:571t1AKbmBJnGZY3NdNGCI",
+  "followers": {
+    "href": null,
+    "total": 10339
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb44d716e2b20fbb4b98a1aabb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517444d716e2b20fbb4b98a1aabb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17844d716e2b20fbb4b98a1aabb",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/571t1AKbmBJnGZY3NdNGCI"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "7w7LQX530o4iG9Q5iwAgD7",
+  "name": "Danny Michel",
+  "uri": "spotify:artist:7w7LQX530o4iG9Q5iwAgD7",
+  "followers": {
+    "href": null,
+    "total": 9333
+  },
+  "genres": [
+    "canadian folk",
+    "canadian indie",
+    "canadian singer-songwriter"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb11501bc13966c90c0b1921a5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517411501bc13966c90c0b1921a5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17811501bc13966c90c0b1921a5",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7w7LQX530o4iG9Q5iwAgD7"
+  }
+}

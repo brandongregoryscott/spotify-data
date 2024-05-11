@@ -1,0 +1,34 @@
+{
+  "id": "7g0pNOr9kW5VPayHermOrS",
+  "name": "Ana Zhdanova",
+  "uri": "spotify:artist:7g0pNOr9kW5VPayHermOrS",
+  "followers": {
+    "href": null,
+    "total": 403
+  },
+  "genres": [
+    "belarusian indie",
+    "ukrainian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb010ddf02918e0dc117b8d0dc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174010ddf02918e0dc117b8d0dc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178010ddf02918e0dc117b8d0dc",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7g0pNOr9kW5VPayHermOrS"
+  }
+}

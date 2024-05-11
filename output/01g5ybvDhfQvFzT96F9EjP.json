@@ -1,0 +1,33 @@
+{
+  "id": "01g5ybvDhfQvFzT96F9EjP",
+  "name": "Chris Finn",
+  "uri": "spotify:artist:01g5ybvDhfQvFzT96F9EjP",
+  "followers": {
+    "href": null,
+    "total": 141
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba273846f9f6adb44a38d58db",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a273846f9f6adb44a38d58db",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a273846f9f6adb44a38d58db",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01g5ybvDhfQvFzT96F9EjP"
+  }
+}

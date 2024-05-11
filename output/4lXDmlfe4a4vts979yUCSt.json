@@ -1,0 +1,33 @@
+{
+  "id": "4lXDmlfe4a4vts979yUCSt",
+  "name": "Crystoria",
+  "uri": "spotify:artist:4lXDmlfe4a4vts979yUCSt",
+  "followers": {
+    "href": null,
+    "total": 403
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb10319d428df6866eb9b0878",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b10319d428df6866eb9b0878",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b10319d428df6866eb9b0878",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4lXDmlfe4a4vts979yUCSt"
+  }
+}

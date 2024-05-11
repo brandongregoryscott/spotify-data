@@ -1,0 +1,33 @@
+{
+  "id": "3tiUXX0lCEjI6X0DPFFubU",
+  "name": "Sugar Tradition",
+  "uri": "spotify:artist:3tiUXX0lCEjI6X0DPFFubU",
+  "followers": {
+    "href": null,
+    "total": 1273
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdd4c36303a8cb22e5b5ac89a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dd4c36303a8cb22e5b5ac89a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dd4c36303a8cb22e5b5ac89a",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3tiUXX0lCEjI6X0DPFFubU"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "77H0KMoYQFbmKuB9N5HWTm",
+  "name": "Ed Gumbrecht",
+  "uri": "spotify:artist:77H0KMoYQFbmKuB9N5HWTm",
+  "followers": {
+    "href": null,
+    "total": 11425
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcba1212cfbb1c2d86d28b37b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cba1212cfbb1c2d86d28b37b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cba1212cfbb1c2d86d28b37b",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/77H0KMoYQFbmKuB9N5HWTm"
+  }
+}

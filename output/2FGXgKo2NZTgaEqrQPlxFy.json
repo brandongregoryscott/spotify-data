@@ -1,0 +1,33 @@
+{
+  "id": "2FGXgKo2NZTgaEqrQPlxFy",
+  "name": "EB",
+  "uri": "spotify:artist:2FGXgKo2NZTgaEqrQPlxFy",
+  "followers": {
+    "href": null,
+    "total": 367
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe46246bb339d99860aae6d6b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e46246bb339d99860aae6d6b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e46246bb339d99860aae6d6b",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2FGXgKo2NZTgaEqrQPlxFy"
+  }
+}

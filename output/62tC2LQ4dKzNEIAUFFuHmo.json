@@ -1,0 +1,33 @@
+{
+  "id": "62tC2LQ4dKzNEIAUFFuHmo",
+  "name": "View",
+  "uri": "spotify:artist:62tC2LQ4dKzNEIAUFFuHmo",
+  "followers": {
+    "href": null,
+    "total": 5896
+  },
+  "genres": [
+    "finnish trap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb47ea608444b4fccc7c4059ec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517447ea608444b4fccc7c4059ec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17847ea608444b4fccc7c4059ec",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/62tC2LQ4dKzNEIAUFFuHmo"
+  }
+}

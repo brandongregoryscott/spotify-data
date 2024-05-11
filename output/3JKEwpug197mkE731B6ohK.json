@@ -1,0 +1,33 @@
+{
+  "id": "3JKEwpug197mkE731B6ohK",
+  "name": "Sněť",
+  "uri": "spotify:artist:3JKEwpug197mkE731B6ohK",
+  "followers": {
+    "href": null,
+    "total": 3352
+  },
+  "genres": [
+    "cavernous death metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733b819d2cbf8ba99cc6ea8c25",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023b819d2cbf8ba99cc6ea8c25",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513b819d2cbf8ba99cc6ea8c25",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3JKEwpug197mkE731B6ohK"
+  }
+}

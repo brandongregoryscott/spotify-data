@@ -1,0 +1,33 @@
+{
+  "id": "2Pdb8MfbnVMC8Z4OIyv6Nf",
+  "name": "Gonzo Dog",
+  "uri": "spotify:artist:2Pdb8MfbnVMC8Z4OIyv6Nf",
+  "followers": {
+    "href": null,
+    "total": 134
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb20fc92569c9f295fe67a5fa8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517420fc92569c9f295fe67a5fa8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17820fc92569c9f295fe67a5fa8",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Pdb8MfbnVMC8Z4OIyv6Nf"
+  }
+}

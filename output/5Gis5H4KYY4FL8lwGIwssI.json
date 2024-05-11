@@ -1,0 +1,33 @@
+{
+  "id": "5Gis5H4KYY4FL8lwGIwssI",
+  "name": "Beautiful",
+  "uri": "spotify:artist:5Gis5H4KYY4FL8lwGIwssI",
+  "followers": {
+    "href": null,
+    "total": 121
+  },
+  "genres": [
+    "russian hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb27924255e27411a97a5e0669",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517427924255e27411a97a5e0669",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17827924255e27411a97a5e0669",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Gis5H4KYY4FL8lwGIwssI"
+  }
+}

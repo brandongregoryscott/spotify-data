@@ -1,0 +1,33 @@
+{
+  "id": "0xYK8YeZp4m46eMtkGlXO3",
+  "name": "Terminator",
+  "uri": "spotify:artist:0xYK8YeZp4m46eMtkGlXO3",
+  "followers": {
+    "href": null,
+    "total": 152
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb70e423e36a7a0e4751b167e5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517470e423e36a7a0e4751b167e5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17870e423e36a7a0e4751b167e5",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0xYK8YeZp4m46eMtkGlXO3"
+  }
+}

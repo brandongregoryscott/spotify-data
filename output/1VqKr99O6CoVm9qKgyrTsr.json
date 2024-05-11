@@ -1,0 +1,33 @@
+{
+  "id": "1VqKr99O6CoVm9qKgyrTsr",
+  "name": "bittersweet",
+  "uri": "spotify:artist:1VqKr99O6CoVm9qKgyrTsr",
+  "followers": {
+    "href": null,
+    "total": 560
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a0bc513de966d5aabfe6137e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a0bc513de966d5aabfe6137e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a0bc513de966d5aabfe6137e",
+      "width": 64
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1VqKr99O6CoVm9qKgyrTsr"
+  }
+}

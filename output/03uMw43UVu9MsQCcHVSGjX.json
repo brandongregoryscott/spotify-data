@@ -1,0 +1,33 @@
+{
+  "id": "03uMw43UVu9MsQCcHVSGjX",
+  "name": "Alice Phoebe Lou",
+  "uri": "spotify:artist:03uMw43UVu9MsQCcHVSGjX",
+  "followers": {
+    "href": null,
+    "total": 362478
+  },
+  "genres": [
+    "south african alternative"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb07ccab8a1388ec962000216b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517407ccab8a1388ec962000216b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17807ccab8a1388ec962000216b",
+      "width": 160
+    }
+  ],
+  "popularity": 55,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+  }
+}

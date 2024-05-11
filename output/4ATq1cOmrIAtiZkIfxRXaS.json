@@ -1,0 +1,34 @@
+{
+  "id": "4ATq1cOmrIAtiZkIfxRXaS",
+  "name": "Zior",
+  "uri": "spotify:artist:4ATq1cOmrIAtiZkIfxRXaS",
+  "followers": {
+    "href": null,
+    "total": 7569
+  },
+  "genres": [
+    "proto-metal",
+    "psychedelic blues-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b51579fe9d9bee0695617042",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dc88669b4154728575e882f2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485106c3cdbf0a2b34b17b2a5f76",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4ATq1cOmrIAtiZkIfxRXaS"
+  }
+}

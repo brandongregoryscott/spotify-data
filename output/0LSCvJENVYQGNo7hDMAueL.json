@@ -1,0 +1,33 @@
+{
+  "id": "0LSCvJENVYQGNo7hDMAueL",
+  "name": "Dawzee",
+  "uri": "spotify:artist:0LSCvJENVYQGNo7hDMAueL",
+  "followers": {
+    "href": null,
+    "total": 1091
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb882b26951e09c1d6ea2f0ef",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b882b26951e09c1d6ea2f0ef",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b882b26951e09c1d6ea2f0ef",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0LSCvJENVYQGNo7hDMAueL"
+  }
+}

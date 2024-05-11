@@ -1,0 +1,33 @@
+{
+  "id": "1Kl40HiUzK9QI76ZSTSSaD",
+  "name": "alfie",
+  "uri": "spotify:artist:1Kl40HiUzK9QI76ZSTSSaD",
+  "followers": {
+    "href": null,
+    "total": 1369
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd11e34de198fc64b15446ad8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d11e34de198fc64b15446ad8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d11e34de198fc64b15446ad8",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Kl40HiUzK9QI76ZSTSSaD"
+  }
+}

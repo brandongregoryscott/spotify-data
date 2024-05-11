@@ -1,0 +1,33 @@
+{
+  "id": "07vquvD3jE2VQShcu6V4fL",
+  "name": "Avenue D",
+  "uri": "spotify:artist:07vquvD3jE2VQShcu6V4fL",
+  "followers": {
+    "href": null,
+    "total": 7835
+  },
+  "genres": [
+    "electroclash"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbf7bfde562f8a508f9e6bd6a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bf7bfde562f8a508f9e6bd6a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bf7bfde562f8a508f9e6bd6a",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07vquvD3jE2VQShcu6V4fL"
+  }
+}

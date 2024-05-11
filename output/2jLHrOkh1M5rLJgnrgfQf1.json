@@ -1,0 +1,33 @@
+{
+  "id": "2jLHrOkh1M5rLJgnrgfQf1",
+  "name": "The Volunteers",
+  "uri": "spotify:artist:2jLHrOkh1M5rLJgnrgfQf1",
+  "followers": {
+    "href": null,
+    "total": 51502
+  },
+  "genres": [
+    "k-indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb616e83d4ec58ac71c8b1cc4b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174616e83d4ec58ac71c8b1cc4b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178616e83d4ec58ac71c8b1cc4b",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1"
+  }
+}

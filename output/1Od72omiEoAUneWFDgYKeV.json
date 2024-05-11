@@ -1,0 +1,33 @@
+{
+  "id": "1Od72omiEoAUneWFDgYKeV",
+  "name": "Cvrrots",
+  "uri": "spotify:artist:1Od72omiEoAUneWFDgYKeV",
+  "followers": {
+    "href": null,
+    "total": 56
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb43e0fd601be847f7ba23b12f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517443e0fd601be847f7ba23b12f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17843e0fd601be847f7ba23b12f",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Od72omiEoAUneWFDgYKeV"
+  }
+}

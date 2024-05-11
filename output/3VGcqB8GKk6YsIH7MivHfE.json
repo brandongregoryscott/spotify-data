@@ -1,0 +1,33 @@
+{
+  "id": "3VGcqB8GKk6YsIH7MivHfE",
+  "name": "COOKIE.",
+  "uri": "spotify:artist:3VGcqB8GKk6YsIH7MivHfE",
+  "followers": {
+    "href": null,
+    "total": 637
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb72ea417d2d360a8378e9ce55",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517472ea417d2d360a8378e9ce55",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17872ea417d2d360a8378e9ce55",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3VGcqB8GKk6YsIH7MivHfE"
+  }
+}

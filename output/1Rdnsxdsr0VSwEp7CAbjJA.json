@@ -1,0 +1,35 @@
+{
+  "id": "1Rdnsxdsr0VSwEp7CAbjJA",
+  "name": "Roj",
+  "uri": "spotify:artist:1Rdnsxdsr0VSwEp7CAbjJA",
+  "followers": {
+    "href": null,
+    "total": 999
+  },
+  "genres": [
+    "british experimental",
+    "hauntology",
+    "uk experimental electronic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273966b446aeeb44e56219d2ed1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02966b446aeeb44e56219d2ed1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851966b446aeeb44e56219d2ed1",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Rdnsxdsr0VSwEp7CAbjJA"
+  }
+}

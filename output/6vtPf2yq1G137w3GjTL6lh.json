@@ -1,0 +1,33 @@
+{
+  "id": "6vtPf2yq1G137w3GjTL6lh",
+  "name": "Andrew Thelston",
+  "uri": "spotify:artist:6vtPf2yq1G137w3GjTL6lh",
+  "followers": {
+    "href": null,
+    "total": 160
+  },
+  "genres": [
+    "asheville indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe0fefaa7704c258b21061604",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e0fefaa7704c258b21061604",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e0fefaa7704c258b21061604",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6vtPf2yq1G137w3GjTL6lh"
+  }
+}

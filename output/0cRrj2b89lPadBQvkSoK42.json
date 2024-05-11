@@ -1,0 +1,35 @@
+{
+  "id": "0cRrj2b89lPadBQvkSoK42",
+  "name": "Märvel",
+  "uri": "spotify:artist:0cRrj2b89lPadBQvkSoK42",
+  "followers": {
+    "href": null,
+    "total": 7370
+  },
+  "genres": [
+    "punk 'n' roll",
+    "swedish garage rock",
+    "swedish hard rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb81d8b5a378b7c01d9fe1881e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517481d8b5a378b7c01d9fe1881e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17881d8b5a378b7c01d9fe1881e",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0cRrj2b89lPadBQvkSoK42"
+  }
+}

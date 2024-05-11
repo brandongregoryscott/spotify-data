@@ -1,0 +1,33 @@
+{
+  "id": "0v9tJAbLXGv3wsJSNTmiBo",
+  "name": "soLi",
+  "uri": "spotify:artist:0v9tJAbLXGv3wsJSNTmiBo",
+  "followers": {
+    "href": null,
+    "total": 593
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273303e2ab3208d7ce4cccbfa6b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02303e2ab3208d7ce4cccbfa6b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851303e2ab3208d7ce4cccbfa6b",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0v9tJAbLXGv3wsJSNTmiBo"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5fzvQyvPRnHuwfQRKAH5nx",
+  "name": "Funky",
+  "uri": "spotify:artist:5fzvQyvPRnHuwfQRKAH5nx",
+  "followers": {
+    "href": null,
+    "total": 3232
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba33b730e4dee494eb8947ce2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a33b730e4dee494eb8947ce2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a33b730e4dee494eb8947ce2",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5fzvQyvPRnHuwfQRKAH5nx"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5w3bEMJaOsBCKw8eudlZso",
+  "name": "Bonico",
+  "uri": "spotify:artist:5w3bEMJaOsBCKw8eudlZso",
+  "followers": {
+    "href": null,
+    "total": 160
+  },
+  "genres": [
+    "granada indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba547df25ff888738425d6a0c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a547df25ff888738425d6a0c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a547df25ff888738425d6a0c",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5w3bEMJaOsBCKw8eudlZso"
+  }
+}

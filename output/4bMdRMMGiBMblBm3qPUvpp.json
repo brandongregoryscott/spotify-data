@@ -1,0 +1,33 @@
+{
+  "id": "4bMdRMMGiBMblBm3qPUvpp",
+  "name": "SN Systema",
+  "uri": "spotify:artist:4bMdRMMGiBMblBm3qPUvpp",
+  "followers": {
+    "href": null,
+    "total": 122
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb52287cc85fd48c3616e91828",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517452287cc85fd48c3616e91828",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17852287cc85fd48c3616e91828",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4bMdRMMGiBMblBm3qPUvpp"
+  }
+}

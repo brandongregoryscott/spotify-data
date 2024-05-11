@@ -1,0 +1,34 @@
+{
+  "id": "72b1XZ6SmDRgHEOB7ypw9z",
+  "name": "dress",
+  "uri": "spotify:artist:72b1XZ6SmDRgHEOB7ypw9z",
+  "followers": {
+    "href": null,
+    "total": 21078
+  },
+  "genres": [
+    "k-indie",
+    "k-rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc338a07c5ea9a40ed0104dc2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c338a07c5ea9a40ed0104dc2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c338a07c5ea9a40ed0104dc2",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z"
+  }
+}

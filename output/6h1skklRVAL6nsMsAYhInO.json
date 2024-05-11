@@ -1,0 +1,33 @@
+{
+  "id": "6h1skklRVAL6nsMsAYhInO",
+  "name": "dreambirds",
+  "uri": "spotify:artist:6h1skklRVAL6nsMsAYhInO",
+  "followers": {
+    "href": null,
+    "total": 97
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d6776ceda07dbf05c037ecd7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d6776ceda07dbf05c037ecd7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d6776ceda07dbf05c037ecd7",
+      "width": 64
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6h1skklRVAL6nsMsAYhInO"
+  }
+}

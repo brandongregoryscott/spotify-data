@@ -1,0 +1,33 @@
+{
+  "id": "3LEyOY5ERmIn8nmHF99F9z",
+  "name": "Palpa",
+  "uri": "spotify:artist:3LEyOY5ERmIn8nmHF99F9z",
+  "followers": {
+    "href": null,
+    "total": 332
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb54499573a7d403e9dea07003",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517454499573a7d403e9dea07003",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17854499573a7d403e9dea07003",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3LEyOY5ERmIn8nmHF99F9z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "5mWJpnVKBIz6DkAWC6ORKe",
+  "name": "Mordant Music",
+  "uri": "spotify:artist:5mWJpnVKBIz6DkAWC6ORKe",
+  "followers": {
+    "href": null,
+    "total": 1378
+  },
+  "genres": [
+    "british experimental",
+    "hauntology",
+    "uk experimental electronic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27359ab92f64dca381f1d16635d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0259ab92f64dca381f1d16635d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485159ab92f64dca381f1d16635d",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5mWJpnVKBIz6DkAWC6ORKe"
+  }
+}

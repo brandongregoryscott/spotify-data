@@ -1,0 +1,33 @@
+{
+  "id": "3raljicybsp8Cy3Nc0Sfos",
+  "name": "Kyo",
+  "uri": "spotify:artist:3raljicybsp8Cy3Nc0Sfos",
+  "followers": {
+    "href": null,
+    "total": 482
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb44e2830f822220e937610c7d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517444e2830f822220e937610c7d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17844e2830f822220e937610c7d",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3raljicybsp8Cy3Nc0Sfos"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2hrWpLNoJcs1EnWSXvB6JI",
+  "name": "The Rubens",
+  "uri": "spotify:artist:2hrWpLNoJcs1EnWSXvB6JI",
+  "followers": {
+    "href": null,
+    "total": 198113
+  },
+  "genres": [
+    "australian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba4029315c9ddd9d867adfff5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a4029315c9ddd9d867adfff5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a4029315c9ddd9d867adfff5",
+      "width": 160
+    }
+  ],
+  "popularity": 46,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+  }
+}

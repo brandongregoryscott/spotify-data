@@ -1,0 +1,34 @@
+{
+  "id": "1rLB3UdzUQOIElxYOyc7cF",
+  "name": "Oscar Bianchi",
+  "uri": "spotify:artist:1rLB3UdzUQOIElxYOyc7cF",
+  "followers": {
+    "href": null,
+    "total": 197
+  },
+  "genres": [
+    "21st century classical",
+    "swiss contemporary classical"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeed9c5a998f6c83aca0dca77",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eed9c5a998f6c83aca0dca77",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eed9c5a998f6c83aca0dca77",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1rLB3UdzUQOIElxYOyc7cF"
+  }
+}

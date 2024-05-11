@@ -1,0 +1,33 @@
+{
+  "id": "1e1kAxKRlKjxThgKJnxeRm",
+  "name": "Los Turis",
+  "uri": "spotify:artist:1e1kAxKRlKjxThgKJnxeRm",
+  "followers": {
+    "href": null,
+    "total": 112
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e997561957ad392a75bd9dd8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e997561957ad392a75bd9dd8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e997561957ad392a75bd9dd8",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1e1kAxKRlKjxThgKJnxeRm"
+  }
+}

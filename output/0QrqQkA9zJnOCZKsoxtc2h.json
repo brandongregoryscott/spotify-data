@@ -1,0 +1,33 @@
+{
+  "id": "0QrqQkA9zJnOCZKsoxtc2h",
+  "name": "Michael White",
+  "uri": "spotify:artist:0QrqQkA9zJnOCZKsoxtc2h",
+  "followers": {
+    "href": null,
+    "total": 216
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf89e2c41e4deace8d7e4d222",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f89e2c41e4deace8d7e4d222",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f89e2c41e4deace8d7e4d222",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0QrqQkA9zJnOCZKsoxtc2h"
+  }
+}

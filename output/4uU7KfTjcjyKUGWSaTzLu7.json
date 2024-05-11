@@ -1,0 +1,36 @@
+{
+  "id": "4uU7KfTjcjyKUGWSaTzLu7",
+  "name": "015B",
+  "uri": "spotify:artist:4uU7KfTjcjyKUGWSaTzLu7",
+  "followers": {
+    "href": null,
+    "total": 45688
+  },
+  "genres": [
+    "classic k-pop",
+    "k-indie",
+    "korean electropop",
+    "korean pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb40c9683568731e5d577f7e5f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517440c9683568731e5d577f7e5f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17840c9683568731e5d577f7e5f",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
+  }
+}

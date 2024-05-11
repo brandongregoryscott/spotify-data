@@ -1,0 +1,33 @@
+{
+  "id": "0mSsn5oVE14lz86a432zsQ",
+  "name": "Happy Idiot",
+  "uri": "spotify:artist:0mSsn5oVE14lz86a432zsQ",
+  "followers": {
+    "href": null,
+    "total": 23
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb4a63d3799e4f65113be4e72",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b4a63d3799e4f65113be4e72",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b4a63d3799e4f65113be4e72",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0mSsn5oVE14lz86a432zsQ"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1mOyVtjMFPkiPOkY8oRY2P",
+  "name": "Alex Pachino",
+  "uri": "spotify:artist:1mOyVtjMFPkiPOkY8oRY2P",
+  "followers": {
+    "href": null,
+    "total": 216
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb31ae883cee4f028b196ce2f1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517431ae883cee4f028b196ce2f1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17831ae883cee4f028b196ce2f1",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1mOyVtjMFPkiPOkY8oRY2P"
+  }
+}

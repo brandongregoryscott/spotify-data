@@ -1,0 +1,34 @@
+{
+  "id": "4BHKv1X2ldBdklzqRfLDFj",
+  "name": "ÜNAM",
+  "uri": "spotify:artist:4BHKv1X2ldBdklzqRfLDFj",
+  "followers": {
+    "href": null,
+    "total": 4953
+  },
+  "genres": [
+    "ethnotronica",
+    "organic house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba3bbb6310d017d6474bfd519",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a3bbb6310d017d6474bfd519",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a3bbb6310d017d6474bfd519",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4BHKv1X2ldBdklzqRfLDFj"
+  }
+}

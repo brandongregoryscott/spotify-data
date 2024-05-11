@@ -1,0 +1,33 @@
+{
+  "id": "2VhzEeJwrbqToDJ32VheBW",
+  "name": "Luke Doucet",
+  "uri": "spotify:artist:2VhzEeJwrbqToDJ32VheBW",
+  "followers": {
+    "href": null,
+    "total": 1872
+  },
+  "genres": [
+    "canadian singer-songwriter"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7843b751dbcd8a98104e7ec8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051747843b751dbcd8a98104e7ec8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1787843b751dbcd8a98104e7ec8",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2VhzEeJwrbqToDJ32VheBW"
+  }
+}

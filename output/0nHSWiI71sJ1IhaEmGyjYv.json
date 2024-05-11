@@ -1,0 +1,33 @@
+{
+  "id": "0nHSWiI71sJ1IhaEmGyjYv",
+  "name": "Давай",
+  "uri": "spotify:artist:0nHSWiI71sJ1IhaEmGyjYv",
+  "followers": {
+    "href": null,
+    "total": 468
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb053a05ab8950ee52f1c7904e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174053a05ab8950ee52f1c7904e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178053a05ab8950ee52f1c7904e",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0nHSWiI71sJ1IhaEmGyjYv"
+  }
+}

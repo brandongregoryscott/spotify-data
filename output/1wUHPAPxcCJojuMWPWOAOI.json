@@ -1,0 +1,33 @@
+{
+  "id": "1wUHPAPxcCJojuMWPWOAOI",
+  "name": "Forevatired",
+  "uri": "spotify:artist:1wUHPAPxcCJojuMWPWOAOI",
+  "followers": {
+    "href": null,
+    "total": 712
+  },
+  "genres": [
+    "alte"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebceb051e561f6f31574a1e609",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ceb051e561f6f31574a1e609",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ceb051e561f6f31574a1e609",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1wUHPAPxcCJojuMWPWOAOI"
+  }
+}

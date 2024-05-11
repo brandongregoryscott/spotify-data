@@ -1,0 +1,33 @@
+{
+  "id": "6vrVGkC0yApJHtA66iXyTs",
+  "name": "ASKYA",
+  "uri": "spotify:artist:6vrVGkC0yApJHtA66iXyTs",
+  "followers": {
+    "href": null,
+    "total": 5365
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdd17093bfe63d6906d20ba88",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dd17093bfe63d6906d20ba88",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dd17093bfe63d6906d20ba88",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6vrVGkC0yApJHtA66iXyTs"
+  }
+}

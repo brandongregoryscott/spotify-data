@@ -1,0 +1,33 @@
+{
+  "id": "3kWWBxSP96ur6N15svooI4",
+  "name": "Walking Digit",
+  "uri": "spotify:artist:3kWWBxSP96ur6N15svooI4",
+  "followers": {
+    "href": null,
+    "total": 141
+  },
+  "genres": [
+    "chillsynth"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a073b4dc577bb14f2a046c4c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a073b4dc577bb14f2a046c4c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a073b4dc577bb14f2a046c4c",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3kWWBxSP96ur6N15svooI4"
+  }
+}

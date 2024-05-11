@@ -1,0 +1,33 @@
+{
+  "id": "06fhoehkHmkDql3uW94km8",
+  "name": "Toy Taha",
+  "uri": "spotify:artist:06fhoehkHmkDql3uW94km8",
+  "followers": {
+    "href": null,
+    "total": 1075
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb37290cb14099a90523b36edd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517437290cb14099a90523b36edd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17837290cb14099a90523b36edd",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/06fhoehkHmkDql3uW94km8"
+  }
+}

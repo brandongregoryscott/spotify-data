@@ -1,0 +1,35 @@
+{
+  "id": "1UvHiSGuGW2qenVe4TTvKA",
+  "name": "Syntec",
+  "uri": "spotify:artist:1UvHiSGuGW2qenVe4TTvKA",
+  "followers": {
+    "href": null,
+    "total": 1665
+  },
+  "genres": [
+    "dark electro",
+    "futurepop",
+    "neo-synthpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734ba1c497d56e8617cb30bc0d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024ba1c497d56e8617cb30bc0d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514ba1c497d56e8617cb30bc0d",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1UvHiSGuGW2qenVe4TTvKA"
+  }
+}

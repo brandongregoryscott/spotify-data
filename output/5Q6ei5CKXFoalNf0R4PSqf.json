@@ -1,0 +1,33 @@
+{
+  "id": "5Q6ei5CKXFoalNf0R4PSqf",
+  "name": "Dave Gutter",
+  "uri": "spotify:artist:5Q6ei5CKXFoalNf0R4PSqf",
+  "followers": {
+    "href": null,
+    "total": 402
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27312873ef63a1437b3f31e0691",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0212873ef63a1437b3f31e0691",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485124c8d56bb9146100f392f013",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Q6ei5CKXFoalNf0R4PSqf"
+  }
+}

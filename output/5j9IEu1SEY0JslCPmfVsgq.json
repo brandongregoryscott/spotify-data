@@ -1,0 +1,34 @@
+{
+  "id": "5j9IEu1SEY0JslCPmfVsgq",
+  "name": "Willie Watson",
+  "uri": "spotify:artist:5j9IEu1SEY0JslCPmfVsgq",
+  "followers": {
+    "href": null,
+    "total": 48234
+  },
+  "genres": [
+    "new americana",
+    "western americana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf8c2e436fd089f012c268005",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f8c2e436fd089f012c268005",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f8c2e436fd089f012c268005",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq"
+  }
+}

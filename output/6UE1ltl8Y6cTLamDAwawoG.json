@@ -1,0 +1,33 @@
+{
+  "id": "6UE1ltl8Y6cTLamDAwawoG",
+  "name": "Soulburner",
+  "uri": "spotify:artist:6UE1ltl8Y6cTLamDAwawoG",
+  "followers": {
+    "href": null,
+    "total": 961
+  },
+  "genres": [
+    "metal colombiano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b99c800addc4ca50e81fd053",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b99c800addc4ca50e81fd053",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b99c800addc4ca50e81fd053",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6UE1ltl8Y6cTLamDAwawoG"
+  }
+}

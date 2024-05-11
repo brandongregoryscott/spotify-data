@@ -1,0 +1,33 @@
+{
+  "id": "0hvUXR1u26c0jZktg5vVNA",
+  "name": "Undeclared",
+  "uri": "spotify:artist:0hvUXR1u26c0jZktg5vVNA",
+  "followers": {
+    "href": null,
+    "total": 43
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d6917c59c4a9fa02a823460d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d6917c59c4a9fa02a823460d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d6917c59c4a9fa02a823460d",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0hvUXR1u26c0jZktg5vVNA"
+  }
+}

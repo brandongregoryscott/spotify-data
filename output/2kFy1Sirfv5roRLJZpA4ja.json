@@ -1,0 +1,33 @@
+{
+  "id": "2kFy1Sirfv5roRLJZpA4ja",
+  "name": "208",
+  "uri": "spotify:artist:2kFy1Sirfv5roRLJZpA4ja",
+  "followers": {
+    "href": null,
+    "total": 329
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb49fc8ceb578eb4a82e9a7eed",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517449fc8ceb578eb4a82e9a7eed",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17849fc8ceb578eb4a82e9a7eed",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2kFy1Sirfv5roRLJZpA4ja"
+  }
+}

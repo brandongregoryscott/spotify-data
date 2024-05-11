@@ -1,0 +1,33 @@
+{
+  "id": "2Go970kUPBCZU8I1ooMbGm",
+  "name": "John Fisher",
+  "uri": "spotify:artist:2Go970kUPBCZU8I1ooMbGm",
+  "followers": {
+    "href": null,
+    "total": 5333
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd8e6fe1d8209dac92048439a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d8e6fe1d8209dac92048439a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d8e6fe1d8209dac92048439a",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Go970kUPBCZU8I1ooMbGm"
+  }
+}

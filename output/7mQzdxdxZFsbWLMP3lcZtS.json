@@ -1,0 +1,33 @@
+{
+  "id": "7mQzdxdxZFsbWLMP3lcZtS",
+  "name": "dndSection",
+  "uri": "spotify:artist:7mQzdxdxZFsbWLMP3lcZtS",
+  "followers": {
+    "href": null,
+    "total": 3182
+  },
+  "genres": [
+    "nigerian hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd9bf2800d70ae7b08c413b69",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d9bf2800d70ae7b08c413b69",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d9bf2800d70ae7b08c413b69",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7mQzdxdxZFsbWLMP3lcZtS"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "60DmhMArLjstnU480kFvnM",
+  "name": "yora",
+  "uri": "spotify:artist:60DmhMArLjstnU480kFvnM",
+  "followers": {
+    "href": null,
+    "total": 272
+  },
+  "genres": [
+    "hyperpop francais"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb56cff56e33b7909986c4cb9d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517456cff56e33b7909986c4cb9d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17856cff56e33b7909986c4cb9d",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/60DmhMArLjstnU480kFvnM"
+  }
+}

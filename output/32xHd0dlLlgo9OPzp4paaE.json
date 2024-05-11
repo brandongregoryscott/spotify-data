@@ -1,0 +1,33 @@
+{
+  "id": "32xHd0dlLlgo9OPzp4paaE",
+  "name": "Mire",
+  "uri": "spotify:artist:32xHd0dlLlgo9OPzp4paaE",
+  "followers": {
+    "href": null,
+    "total": 188
+  },
+  "genres": [
+    "progressive alternative"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273eac128d93e9c2c0155807798",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02eac128d93e9c2c0155807798",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851eac128d93e9c2c0155807798",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/32xHd0dlLlgo9OPzp4paaE"
+  }
+}

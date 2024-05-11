@@ -1,0 +1,33 @@
+{
+  "id": "41qVgPVQcSKO5c4FZp6nKu",
+  "name": "Animarea",
+  "uri": "spotify:artist:41qVgPVQcSKO5c4FZp6nKu",
+  "followers": {
+    "href": null,
+    "total": 96
+  },
+  "genres": [
+    "italian lounge"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb880a6a7c78d9290cad2eacfc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174880a6a7c78d9290cad2eacfc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178880a6a7c78d9290cad2eacfc",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/41qVgPVQcSKO5c4FZp6nKu"
+  }
+}

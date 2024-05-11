@@ -1,0 +1,34 @@
+{
+  "id": "04xEkodoWyFji8icX911jM",
+  "name": "Miso",
+  "uri": "spotify:artist:04xEkodoWyFji8icX911jM",
+  "followers": {
+    "href": null,
+    "total": 90944
+  },
+  "genres": [
+    "korean electropop",
+    "korean r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb79e093adb0a2727f49cbea59",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517479e093adb0a2727f49cbea59",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17879e093adb0a2727f49cbea59",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/04xEkodoWyFji8icX911jM"
+  }
+}

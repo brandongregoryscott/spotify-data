@@ -1,0 +1,33 @@
+{
+  "id": "5RIn8c7VWPEsaF4KkBciWF",
+  "name": "Ectxplasm",
+  "uri": "spotify:artist:5RIn8c7VWPEsaF4KkBciWF",
+  "followers": {
+    "href": null,
+    "total": 82
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeaec28c964c7a6389bf5a86f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eaec28c964c7a6389bf5a86f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eaec28c964c7a6389bf5a86f",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5RIn8c7VWPEsaF4KkBciWF"
+  }
+}

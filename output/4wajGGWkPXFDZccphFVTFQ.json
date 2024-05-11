@@ -1,0 +1,33 @@
+{
+  "id": "4wajGGWkPXFDZccphFVTFQ",
+  "name": "DADA",
+  "uri": "spotify:artist:4wajGGWkPXFDZccphFVTFQ",
+  "followers": {
+    "href": null,
+    "total": 650
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273deafa437994453a443fec35b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02deafa437994453a443fec35b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851149f36c342b07402b92bea66",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4wajGGWkPXFDZccphFVTFQ"
+  }
+}

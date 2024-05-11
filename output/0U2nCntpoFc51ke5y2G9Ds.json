@@ -1,0 +1,33 @@
+{
+  "id": "0U2nCntpoFc51ke5y2G9Ds",
+  "name": "Arcerion",
+  "uri": "spotify:artist:0U2nCntpoFc51ke5y2G9Ds",
+  "followers": {
+    "href": null,
+    "total": 396
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc0f11b99cfeee6c3ed6d31a2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c0f11b99cfeee6c3ed6d31a2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c0f11b99cfeee6c3ed6d31a2",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0U2nCntpoFc51ke5y2G9Ds"
+  }
+}

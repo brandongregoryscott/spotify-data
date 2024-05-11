@@ -1,0 +1,33 @@
+{
+  "id": "20WMGCJBXPWKxXcPjhNB6O",
+  "name": "LaFrancesssa",
+  "uri": "spotify:artist:20WMGCJBXPWKxXcPjhNB6O",
+  "followers": {
+    "href": null,
+    "total": 641
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb14c9e698862011466ada00bf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517414c9e698862011466ada00bf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17814c9e698862011466ada00bf",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/20WMGCJBXPWKxXcPjhNB6O"
+  }
+}

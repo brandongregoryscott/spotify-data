@@ -1,0 +1,33 @@
+{
+  "id": "3eTScnMMmVhieBzxnhLdpv",
+  "name": "Tábor",
+  "uri": "spotify:artist:3eTScnMMmVhieBzxnhLdpv",
+  "followers": {
+    "href": null,
+    "total": 510
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273765d70c8e3e87aa58baa71e2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02765d70c8e3e87aa58baa71e2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851765d70c8e3e87aa58baa71e2",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3eTScnMMmVhieBzxnhLdpv"
+  }
+}
