@@ -1,0 +1,10 @@
+{
+  "files.exclude": {
+    "**/.ruby-lsp": true
+  },
+  "search.exclude": {
+    "**/.ruby-lsp": true,
+    "input/": true,
+    "output/": true
+  }
+}
