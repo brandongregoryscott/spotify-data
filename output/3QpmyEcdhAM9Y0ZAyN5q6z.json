@@ -1,0 +1,33 @@
+{
+  "id": "3QpmyEcdhAM9Y0ZAyN5q6z",
+  "name": "ioni",
+  "uri": "spotify:artist:3QpmyEcdhAM9Y0ZAyN5q6z",
+  "followers": {
+    "href": null,
+    "total": 473
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb53a64c390f00cc462a3e81eb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517453a64c390f00cc462a3e81eb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17853a64c390f00cc462a3e81eb",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3QpmyEcdhAM9Y0ZAyN5q6z"
+  }
+}

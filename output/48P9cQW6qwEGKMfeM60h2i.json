@@ -1,0 +1,33 @@
+{
+  "id": "48P9cQW6qwEGKMfeM60h2i",
+  "name": "Allô Fantôme",
+  "uri": "spotify:artist:48P9cQW6qwEGKMfeM60h2i",
+  "followers": {
+    "href": null,
+    "total": 935
+  },
+  "genres": [
+    "indie quebecois"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebad4ea232bfd4a289c4bb5dfb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ad4ea232bfd4a289c4bb5dfb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ad4ea232bfd4a289c4bb5dfb",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3Ft65ZgxG86g1aYRHUi4pv",
+  "name": "VANM",
+  "uri": "spotify:artist:3Ft65ZgxG86g1aYRHUi4pv",
+  "followers": {
+    "href": null,
+    "total": 607
+  },
+  "genres": [
+    "tearout"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0be2cff9dee1129c6ff44d09",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051740be2cff9dee1129c6ff44d09",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1780be2cff9dee1129c6ff44d09",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Ft65ZgxG86g1aYRHUi4pv"
+  }
+}

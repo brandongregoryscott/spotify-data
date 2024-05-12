@@ -1,0 +1,34 @@
+{
+  "id": "1B8iLShl2xN1vvABYYj2F3",
+  "name": "Gorevent",
+  "uri": "spotify:artist:1B8iLShl2xN1vvABYYj2F3",
+  "followers": {
+    "href": null,
+    "total": 9456
+  },
+  "genres": [
+    "japanese death metal",
+    "slam death metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732a6f68fb631f34aba2ec2c3e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022a6f68fb631f34aba2ec2c3e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512a6f68fb631f34aba2ec2c3e",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1B8iLShl2xN1vvABYYj2F3"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3M6gmGM5KuPlCoKTCw9rQM",
+  "name": "INFLUENCE",
+  "uri": "spotify:artist:3M6gmGM5KuPlCoKTCw9rQM",
+  "followers": {
+    "href": null,
+    "total": 1822
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb16ece139e83875a2a2f117f8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517416ece139e83875a2a2f117f8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17816ece139e83875a2a2f117f8",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3M6gmGM5KuPlCoKTCw9rQM"
+  }
+}

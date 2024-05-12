@@ -1,0 +1,33 @@
+{
+  "id": "0NUONTZGR135ipULyT6hvh",
+  "name": "The Boy In Blue",
+  "uri": "spotify:artist:0NUONTZGR135ipULyT6hvh",
+  "followers": {
+    "href": null,
+    "total": 45
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba39633aad13aad0bfc14dec1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a39633aad13aad0bfc14dec1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a39633aad13aad0bfc14dec1",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0NUONTZGR135ipULyT6hvh"
+  }
+}

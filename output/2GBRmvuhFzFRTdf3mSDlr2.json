@@ -1,0 +1,33 @@
+{
+  "id": "2GBRmvuhFzFRTdf3mSDlr2",
+  "name": "Sam Bekt",
+  "uri": "spotify:artist:2GBRmvuhFzFRTdf3mSDlr2",
+  "followers": {
+    "href": null,
+    "total": 868
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdad67e282cf546d4a4da489a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dad67e282cf546d4a4da489a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dad67e282cf546d4a4da489a",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2GBRmvuhFzFRTdf3mSDlr2"
+  }
+}

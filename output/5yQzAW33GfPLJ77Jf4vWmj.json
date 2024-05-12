@@ -1,0 +1,33 @@
+{
+  "id": "5yQzAW33GfPLJ77Jf4vWmj",
+  "name": "John Marc",
+  "uri": "spotify:artist:5yQzAW33GfPLJ77Jf4vWmj",
+  "followers": {
+    "href": null,
+    "total": 1722
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4bb6448c1239503e4e180d6f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744bb6448c1239503e4e180d6f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784bb6448c1239503e4e180d6f",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5yQzAW33GfPLJ77Jf4vWmj"
+  }
+}

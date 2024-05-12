@@ -1,0 +1,34 @@
+{
+  "id": "5aINmhPWfAHvZ5qaMdBezq",
+  "name": "Amatria",
+  "uri": "spotify:artist:5aINmhPWfAHvZ5qaMdBezq",
+  "followers": {
+    "href": null,
+    "total": 22310
+  },
+  "genres": [
+    "spanish indie pop",
+    "spanish modern rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb80089f5bb106a116a735aec5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517480089f5bb106a116a735aec5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17880089f5bb106a116a735aec5",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5aINmhPWfAHvZ5qaMdBezq"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7GjhrD11gZWJzf5ewtGVsy",
+  "name": "3Punktas",
+  "uri": "spotify:artist:7GjhrD11gZWJzf5ewtGVsy",
+  "followers": {
+    "href": null,
+    "total": 325
+  },
+  "genres": [
+    "peruvian punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb42cfdceb8a1f2ed015e4d2e4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517442cfdceb8a1f2ed015e4d2e4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17842cfdceb8a1f2ed015e4d2e4",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7GjhrD11gZWJzf5ewtGVsy"
+  }
+}

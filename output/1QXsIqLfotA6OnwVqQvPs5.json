@@ -1,0 +1,33 @@
+{
+  "id": "1QXsIqLfotA6OnwVqQvPs5",
+  "name": "Pablo Vermell",
+  "uri": "spotify:artist:1QXsIqLfotA6OnwVqQvPs5",
+  "followers": {
+    "href": null,
+    "total": 2426
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb87566b195f3dbcd9b2c53e48",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517487566b195f3dbcd9b2c53e48",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17887566b195f3dbcd9b2c53e48",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5"
+  }
+}

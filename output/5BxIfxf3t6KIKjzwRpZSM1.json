@@ -1,0 +1,33 @@
+{
+  "id": "5BxIfxf3t6KIKjzwRpZSM1",
+  "name": "We'rewolf",
+  "uri": "spotify:artist:5BxIfxf3t6KIKjzwRpZSM1",
+  "followers": {
+    "href": null,
+    "total": 163
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb959bb12278d033d18965a785",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174959bb12278d033d18965a785",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178959bb12278d033d18965a785",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5BxIfxf3t6KIKjzwRpZSM1"
+  }
+}

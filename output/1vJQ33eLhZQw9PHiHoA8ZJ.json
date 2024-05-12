@@ -1,0 +1,34 @@
+{
+  "id": "1vJQ33eLhZQw9PHiHoA8ZJ",
+  "name": "ケプラ",
+  "uri": "spotify:artist:1vJQ33eLhZQw9PHiHoA8ZJ",
+  "followers": {
+    "href": null,
+    "total": 37125
+  },
+  "genres": [
+    "japanese viral pop",
+    "modern j-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb87b0235156df299c67fd66f2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517487b0235156df299c67fd66f2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17887b0235156df299c67fd66f2",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ"
+  }
+}

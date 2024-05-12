@@ -1,0 +1,33 @@
+{
+  "id": "3tiqYfeRIozfVNnniIB7ij",
+  "name": "VORANAH",
+  "uri": "spotify:artist:3tiqYfeRIozfVNnniIB7ij",
+  "followers": {
+    "href": null,
+    "total": 496
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb159467117a9c8eb6cc0a68ef",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174159467117a9c8eb6cc0a68ef",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178159467117a9c8eb6cc0a68ef",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3tiqYfeRIozfVNnniIB7ij"
+  }
+}

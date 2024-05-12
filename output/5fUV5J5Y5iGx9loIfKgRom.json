@@ -1,0 +1,33 @@
+{
+  "id": "5fUV5J5Y5iGx9loIfKgRom",
+  "name": "defsharp",
+  "uri": "spotify:artist:5fUV5J5Y5iGx9loIfKgRom",
+  "followers": {
+    "href": null,
+    "total": 7398
+  },
+  "genres": [
+    "dariacore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc54e44f96dc9e454f5e91c44",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c54e44f96dc9e454f5e91c44",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c54e44f96dc9e454f5e91c44",
+      "width": 160
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5fUV5J5Y5iGx9loIfKgRom"
+  }
+}

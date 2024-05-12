@@ -1,0 +1,33 @@
+{
+  "id": "5zSuGBjwJiHT13KovTfRsR",
+  "name": "KYAH",
+  "uri": "spotify:artist:5zSuGBjwJiHT13KovTfRsR",
+  "followers": {
+    "href": null,
+    "total": 313
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbdd9428d0e91e977cf07b5d3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bdd9428d0e91e977cf07b5d3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bdd9428d0e91e977cf07b5d3",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5zSuGBjwJiHT13KovTfRsR"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "6nDtQCSWqly8rUM8s0JZa5",
+  "name": "Moris",
+  "uri": "spotify:artist:6nDtQCSWqly8rUM8s0JZa5",
+  "followers": {
+    "href": null,
+    "total": 24567
+  },
+  "genres": [
+    "argentine rock",
+    "rock nacional"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaee974dff9f2b188a1e05901",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aee974dff9f2b188a1e05901",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aee974dff9f2b188a1e05901",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5"
+  }
+}

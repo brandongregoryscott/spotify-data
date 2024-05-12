@@ -1,0 +1,34 @@
+{
+  "id": "06q1JEvxIDhmuBnDj0V6qw",
+  "name": "We Are the Catalyst",
+  "uri": "spotify:artist:06q1JEvxIDhmuBnDj0V6qw",
+  "followers": {
+    "href": null,
+    "total": 13530
+  },
+  "genres": [
+    "pixie",
+    "slayer"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd91e53089d1729b760fd4de6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d91e53089d1729b760fd4de6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d91e53089d1729b760fd4de6",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/06q1JEvxIDhmuBnDj0V6qw"
+  }
+}

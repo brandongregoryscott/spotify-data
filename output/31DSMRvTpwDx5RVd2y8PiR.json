@@ -1,0 +1,33 @@
+{
+  "id": "31DSMRvTpwDx5RVd2y8PiR",
+  "name": "Zemomadeit",
+  "uri": "spotify:artist:31DSMRvTpwDx5RVd2y8PiR",
+  "followers": {
+    "href": null,
+    "total": 108
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb15a0dcb57a12f899977e02fd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517415a0dcb57a12f899977e02fd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17815a0dcb57a12f899977e02fd",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/31DSMRvTpwDx5RVd2y8PiR"
+  }
+}

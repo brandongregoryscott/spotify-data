@@ -1,0 +1,33 @@
+{
+  "id": "3aLb1KCqgn5FSbtm1uI8V1",
+  "name": "Current Comfort",
+  "uri": "spotify:artist:3aLb1KCqgn5FSbtm1uI8V1",
+  "followers": {
+    "href": null,
+    "total": 680
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb01bb8811a9f3f280a867e4b8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517401bb8811a9f3f280a867e4b8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17801bb8811a9f3f280a867e4b8",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3aLb1KCqgn5FSbtm1uI8V1"
+  }
+}

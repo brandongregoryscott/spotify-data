@@ -1,0 +1,33 @@
+{
+  "id": "6Sh1weD7E1QKgDwA325cBi",
+  "name": "Sneeze",
+  "uri": "spotify:artist:6Sh1weD7E1QKgDwA325cBi",
+  "followers": {
+    "href": null,
+    "total": 879
+  },
+  "genres": [
+    "indie punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730e33f29dcc1b54b6307f7233",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020e33f29dcc1b54b6307f7233",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510e33f29dcc1b54b6307f7233",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Sh1weD7E1QKgDwA325cBi"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3BwAAR1uCuMrml0o8WnjNu",
+  "name": "EB3N",
+  "uri": "spotify:artist:3BwAAR1uCuMrml0o8WnjNu",
+  "followers": {
+    "href": null,
+    "total": 3453
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb643c564a073fe16007772bce",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174643c564a073fe16007772bce",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178643c564a073fe16007772bce",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3BwAAR1uCuMrml0o8WnjNu"
+  }
+}

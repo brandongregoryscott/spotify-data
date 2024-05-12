@@ -1,0 +1,36 @@
+{
+  "id": "0mpVqJaKwg11LdSRrvI0PL",
+  "name": "Major Harris",
+  "uri": "spotify:artist:0mpVqJaKwg11LdSRrvI0PL",
+  "followers": {
+    "href": null,
+    "total": 73960
+  },
+  "genres": [
+    "classic soul",
+    "philly soul",
+    "quiet storm",
+    "southern soul"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ded490ac6502c1fef0401d1a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ded490ac6502c1fef0401d1a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ded490ac6502c1fef0401d1a",
+      "width": 64
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0mpVqJaKwg11LdSRrvI0PL"
+  }
+}

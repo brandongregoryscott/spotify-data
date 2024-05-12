@@ -1,0 +1,33 @@
+{
+  "id": "15S4rchXnFc8L2plJFAGXg",
+  "name": "Flow Tribe",
+  "uri": "spotify:artist:15S4rchXnFc8L2plJFAGXg",
+  "followers": {
+    "href": null,
+    "total": 4778
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb23d854dd65899b24404772d6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517423d854dd65899b24404772d6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17823d854dd65899b24404772d6",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/15S4rchXnFc8L2plJFAGXg"
+  }
+}

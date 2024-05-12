@@ -1,0 +1,33 @@
+{
+  "id": "2b02p4aw2sw9sap45pN3TX",
+  "name": "Nach000",
+  "uri": "spotify:artist:2b02p4aw2sw9sap45pN3TX",
+  "followers": {
+    "href": null,
+    "total": 118
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbb40e655f4e2552c52f0908f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bb40e655f4e2552c52f0908f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bb40e655f4e2552c52f0908f",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2b02p4aw2sw9sap45pN3TX"
+  }
+}

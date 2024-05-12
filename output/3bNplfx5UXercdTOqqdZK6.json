@@ -1,0 +1,33 @@
+{
+  "id": "3bNplfx5UXercdTOqqdZK6",
+  "name": "Colla",
+  "uri": "spotify:artist:3bNplfx5UXercdTOqqdZK6",
+  "followers": {
+    "href": null,
+    "total": 530
+  },
+  "genres": [
+    "indie veneto"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebffcf87d919d627aad1848917",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ffcf87d919d627aad1848917",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ffcf87d919d627aad1848917",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3bNplfx5UXercdTOqqdZK6"
+  }
+}

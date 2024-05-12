@@ -1,0 +1,33 @@
+{
+  "id": "3w9MZLuJdzU1COwPlfqEfg",
+  "name": "NPR",
+  "uri": "spotify:artist:3w9MZLuJdzU1COwPlfqEfg",
+  "followers": {
+    "href": null,
+    "total": 218
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27336bde9e5c4cbb533215a4a59",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0236bde9e5c4cbb533215a4a59",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512e6981e97adfad78bb134f28",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3w9MZLuJdzU1COwPlfqEfg"
+  }
+}

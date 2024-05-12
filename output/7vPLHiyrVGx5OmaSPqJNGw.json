@@ -1,0 +1,33 @@
+{
+  "id": "7vPLHiyrVGx5OmaSPqJNGw",
+  "name": "Tha Chill",
+  "uri": "spotify:artist:7vPLHiyrVGx5OmaSPqJNGw",
+  "followers": {
+    "href": null,
+    "total": 5617
+  },
+  "genres": [
+    "g funk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273da7267d5740b01822e2b320f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02da7267d5740b01822e2b320f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851da7267d5740b01822e2b320f",
+      "width": 64
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7vPLHiyrVGx5OmaSPqJNGw"
+  }
+}

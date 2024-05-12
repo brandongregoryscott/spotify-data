@@ -1,0 +1,33 @@
+{
+  "id": "5OIMHiAXjUaBM9V8VpPdup",
+  "name": "Stay Lost",
+  "uri": "spotify:artist:5OIMHiAXjUaBM9V8VpPdup",
+  "followers": {
+    "href": null,
+    "total": 888
+  },
+  "genres": [
+    "alabama metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf628648986152f4f5157ef30",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f628648986152f4f5157ef30",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f628648986152f4f5157ef30",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5OIMHiAXjUaBM9V8VpPdup"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1iN88Aaay0EANBTWOC0EWF",
+  "name": "FAH",
+  "uri": "spotify:artist:1iN88Aaay0EANBTWOC0EWF",
+  "followers": {
+    "href": null,
+    "total": 840
+  },
+  "genres": [
+    "acid idm"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dab5476ddc5e6af806b83006",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dab5476ddc5e6af806b83006",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dab5476ddc5e6af806b83006",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1iN88Aaay0EANBTWOC0EWF"
+  }
+}

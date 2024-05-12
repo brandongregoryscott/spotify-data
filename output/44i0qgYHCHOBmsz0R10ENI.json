@@ -1,0 +1,33 @@
+{
+  "id": "44i0qgYHCHOBmsz0R10ENI",
+  "name": "Squalloscope",
+  "uri": "spotify:artist:44i0qgYHCHOBmsz0R10ENI",
+  "followers": {
+    "href": null,
+    "total": 5840
+  },
+  "genres": [
+    "vienna indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe800fd425afdc15eea63e907",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e800fd425afdc15eea63e907",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e800fd425afdc15eea63e907",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/44i0qgYHCHOBmsz0R10ENI"
+  }
+}

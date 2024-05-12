@@ -1,0 +1,33 @@
+{
+  "id": "58bPSgeKpyyFlJ9LatULIO",
+  "name": "HARBOUR",
+  "uri": "spotify:artist:58bPSgeKpyyFlJ9LatULIO",
+  "followers": {
+    "href": null,
+    "total": 58136
+  },
+  "genres": [
+    "cincinnati indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb336dbae139c4ef82809b4249",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174336dbae139c4ef82809b4249",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178336dbae139c4ef82809b4249",
+      "width": 160
+    }
+  ],
+  "popularity": 46,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/58bPSgeKpyyFlJ9LatULIO"
+  }
+}

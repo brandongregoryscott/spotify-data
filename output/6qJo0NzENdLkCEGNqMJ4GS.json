@@ -1,0 +1,33 @@
+{
+  "id": "6qJo0NzENdLkCEGNqMJ4GS",
+  "name": "Archie Summers",
+  "uri": "spotify:artist:6qJo0NzENdLkCEGNqMJ4GS",
+  "followers": {
+    "href": null,
+    "total": 1812
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba83afd7a727b01a63065c32a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a83afd7a727b01a63065c32a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a83afd7a727b01a63065c32a",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6qJo0NzENdLkCEGNqMJ4GS"
+  }
+}

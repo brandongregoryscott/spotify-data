@@ -1,0 +1,33 @@
+{
+  "id": "1DnXPBzUhhsrR9bl12BXPF",
+  "name": "Croww",
+  "uri": "spotify:artist:1DnXPBzUhhsrR9bl12BXPF",
+  "followers": {
+    "href": null,
+    "total": 261
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735cf8e99ff76adfe3fe90ce61",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025cf8e99ff76adfe3fe90ce61",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515cf8e99ff76adfe3fe90ce61",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1DnXPBzUhhsrR9bl12BXPF"
+  }
+}

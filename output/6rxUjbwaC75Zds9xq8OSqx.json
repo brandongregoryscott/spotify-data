@@ -1,0 +1,33 @@
+{
+  "id": "6rxUjbwaC75Zds9xq8OSqx",
+  "name": "Barlow",
+  "uri": "spotify:artist:6rxUjbwaC75Zds9xq8OSqx",
+  "followers": {
+    "href": null,
+    "total": 98
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb48f0e748e5407634d2d4e081",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517448f0e748e5407634d2d4e081",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17848f0e748e5407634d2d4e081",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6rxUjbwaC75Zds9xq8OSqx"
+  }
+}

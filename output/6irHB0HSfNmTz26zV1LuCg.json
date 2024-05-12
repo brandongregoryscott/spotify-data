@@ -1,0 +1,33 @@
+{
+  "id": "6irHB0HSfNmTz26zV1LuCg",
+  "name": "PLUE",
+  "uri": "spotify:artist:6irHB0HSfNmTz26zV1LuCg",
+  "followers": {
+    "href": null,
+    "total": 10832
+  },
+  "genres": [
+    "modern j-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb85e7625bcf911709983e2aa6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517485e7625bcf911709983e2aa6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17885e7625bcf911709983e2aa6",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6irHB0HSfNmTz26zV1LuCg"
+  }
+}

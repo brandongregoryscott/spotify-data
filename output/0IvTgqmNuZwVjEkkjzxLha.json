@@ -1,0 +1,34 @@
+{
+  "id": "0IvTgqmNuZwVjEkkjzxLha",
+  "name": "Henry Wu",
+  "uri": "spotify:artist:0IvTgqmNuZwVjEkkjzxLha",
+  "followers": {
+    "href": null,
+    "total": 27521
+  },
+  "genres": [
+    "british jazz",
+    "indie jazz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd5ec7066a37ff0b4d3d2cb42",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d5ec7066a37ff0b4d3d2cb42",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d5ec7066a37ff0b4d3d2cb42",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0IvTgqmNuZwVjEkkjzxLha"
+  }
+}

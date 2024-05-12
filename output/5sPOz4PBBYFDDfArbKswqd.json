@@ -1,0 +1,33 @@
+{
+  "id": "5sPOz4PBBYFDDfArbKswqd",
+  "name": "Zonezero",
+  "uri": "spotify:artist:5sPOz4PBBYFDDfArbKswqd",
+  "followers": {
+    "href": null,
+    "total": 1137
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb991aa61f8288365390d5d318",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174991aa61f8288365390d5d318",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178991aa61f8288365390d5d318",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5sPOz4PBBYFDDfArbKswqd"
+  }
+}

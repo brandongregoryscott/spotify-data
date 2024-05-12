@@ -1,0 +1,33 @@
+{
+  "id": "6bEjEwvhZBbOL2SMMvIuCo",
+  "name": "Pretty Dumb",
+  "uri": "spotify:artist:6bEjEwvhZBbOL2SMMvIuCo",
+  "followers": {
+    "href": null,
+    "total": 199
+  },
+  "genres": [
+    "christchurch indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf49ccd8c89b6040c5cf758cc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f49ccd8c89b6040c5cf758cc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f49ccd8c89b6040c5cf758cc",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6bEjEwvhZBbOL2SMMvIuCo"
+  }
+}

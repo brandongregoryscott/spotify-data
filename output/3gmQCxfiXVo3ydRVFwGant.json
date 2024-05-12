@@ -1,0 +1,33 @@
+{
+  "id": "3gmQCxfiXVo3ydRVFwGant",
+  "name": "Pres",
+  "uri": "spotify:artist:3gmQCxfiXVo3ydRVFwGant",
+  "followers": {
+    "href": null,
+    "total": 699
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb330a0ae420fba4068855c047",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174330a0ae420fba4068855c047",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178330a0ae420fba4068855c047",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3gmQCxfiXVo3ydRVFwGant"
+  }
+}

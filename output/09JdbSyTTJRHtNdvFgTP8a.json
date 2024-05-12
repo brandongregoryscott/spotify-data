@@ -1,0 +1,33 @@
+{
+  "id": "09JdbSyTTJRHtNdvFgTP8a",
+  "name": "Shady Ray",
+  "uri": "spotify:artist:09JdbSyTTJRHtNdvFgTP8a",
+  "followers": {
+    "href": null,
+    "total": 1836
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebac3cca0695a928efb3211c5e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ac3cca0695a928efb3211c5e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ac3cca0695a928efb3211c5e",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/09JdbSyTTJRHtNdvFgTP8a"
+  }
+}

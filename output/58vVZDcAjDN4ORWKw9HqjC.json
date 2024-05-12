@@ -1,0 +1,33 @@
+{
+  "id": "58vVZDcAjDN4ORWKw9HqjC",
+  "name": "hicartel",
+  "uri": "spotify:artist:58vVZDcAjDN4ORWKw9HqjC",
+  "followers": {
+    "href": null,
+    "total": 333
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe70bda33b1129a57bda364b8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e70bda33b1129a57bda364b8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e70bda33b1129a57bda364b8",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/58vVZDcAjDN4ORWKw9HqjC"
+  }
+}

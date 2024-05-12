@@ -1,0 +1,33 @@
+{
+  "id": "2j7siZ6gCmksiDE5GAppVi",
+  "name": "REDENGY",
+  "uri": "spotify:artist:2j7siZ6gCmksiDE5GAppVi",
+  "followers": {
+    "href": null,
+    "total": 286
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb37e9b665cd8781e1ff11b4c4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517437e9b665cd8781e1ff11b4c4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17837e9b665cd8781e1ff11b4c4",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2j7siZ6gCmksiDE5GAppVi"
+  }
+}

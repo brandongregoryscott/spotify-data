@@ -1,0 +1,33 @@
+{
+  "id": "7EOPeTpk50JQCCcj4U8nlY",
+  "name": "Bodro",
+  "uri": "spotify:artist:7EOPeTpk50JQCCcj4U8nlY",
+  "followers": {
+    "href": null,
+    "total": 141
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd5f511a8d08a371189ba4a3f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d5f511a8d08a371189ba4a3f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d5f511a8d08a371189ba4a3f",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7EOPeTpk50JQCCcj4U8nlY"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4XZjxnQoKpCFkjm3cq0W1i",
+  "name": "Macksta C",
+  "uri": "spotify:artist:4XZjxnQoKpCFkjm3cq0W1i",
+  "followers": {
+    "href": null,
+    "total": 512
+  },
+  "genres": [
+    "hamburg hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb61b62c00a151130b207aedad",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517461b62c00a151130b207aedad",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17861b62c00a151130b207aedad",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4XZjxnQoKpCFkjm3cq0W1i"
+  }
+}

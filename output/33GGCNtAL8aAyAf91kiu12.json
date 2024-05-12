@@ -1,0 +1,33 @@
+{
+  "id": "33GGCNtAL8aAyAf91kiu12",
+  "name": "domomeid",
+  "uri": "spotify:artist:33GGCNtAL8aAyAf91kiu12",
+  "followers": {
+    "href": null,
+    "total": 385
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfa719393aa5341e032a960ec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fa719393aa5341e032a960ec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fa719393aa5341e032a960ec",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/33GGCNtAL8aAyAf91kiu12"
+  }
+}

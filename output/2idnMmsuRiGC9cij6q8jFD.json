@@ -1,0 +1,34 @@
+{
+  "id": "2idnMmsuRiGC9cij6q8jFD",
+  "name": "Nicola Arigliano",
+  "uri": "spotify:artist:2idnMmsuRiGC9cij6q8jFD",
+  "followers": {
+    "href": null,
+    "total": 14785
+  },
+  "genres": [
+    "classic italian pop",
+    "swing italiano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27361eb431b2f4fd493ca05473d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0261eb431b2f4fd493ca05473d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485161eb431b2f4fd493ca05473d",
+      "width": 64
+    }
+  ],
+  "popularity": 39,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2idnMmsuRiGC9cij6q8jFD"
+  }
+}

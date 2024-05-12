@@ -1,0 +1,33 @@
+{
+  "id": "4crZpyFIXx2nvOABqhj4LX",
+  "name": "Drew Elliott",
+  "uri": "spotify:artist:4crZpyFIXx2nvOABqhj4LX",
+  "followers": {
+    "href": null,
+    "total": 760
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdf4f6b2fc1b8dec15a327b45",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174df4f6b2fc1b8dec15a327b45",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178df4f6b2fc1b8dec15a327b45",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4crZpyFIXx2nvOABqhj4LX"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "70rgFd4q6V3vvShY1pArWc",
+  "name": "Framework",
+  "uri": "spotify:artist:70rgFd4q6V3vvShY1pArWc",
+  "followers": {
+    "href": null,
+    "total": 188
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb834999a57536a0fcb5b095e3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174834999a57536a0fcb5b095e3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178834999a57536a0fcb5b095e3",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/70rgFd4q6V3vvShY1pArWc"
+  }
+}

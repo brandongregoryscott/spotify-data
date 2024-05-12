@@ -1,0 +1,33 @@
+{
+  "id": "0EUlVh3LhlyZDVWaool2wD",
+  "name": "LEAV/E/ARTH",
+  "uri": "spotify:artist:0EUlVh3LhlyZDVWaool2wD",
+  "followers": {
+    "href": null,
+    "total": 3730
+  },
+  "genres": [
+    "pixie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb86864dc74c95a2326f072748",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517486864dc74c95a2326f072748",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17886864dc74c95a2326f072748",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0EUlVh3LhlyZDVWaool2wD"
+  }
+}

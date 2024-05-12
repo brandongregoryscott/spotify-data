@@ -1,0 +1,34 @@
+{
+  "id": "4Pv6qAkea25i2DlW1quQ8t",
+  "name": "Linda Martini",
+  "uri": "spotify:artist:4Pv6qAkea25i2DlW1quQ8t",
+  "followers": {
+    "href": null,
+    "total": 38791
+  },
+  "genres": [
+    "portuguese indie rock",
+    "portuguese rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb14cda4bf33824b18fbf2f6cb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517414cda4bf33824b18fbf2f6cb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17814cda4bf33824b18fbf2f6cb",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Pv6qAkea25i2DlW1quQ8t"
+  }
+}

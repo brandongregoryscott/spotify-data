@@ -1,0 +1,33 @@
+{
+  "id": "1nCPHuNCT3IKqSfIxq3rTG",
+  "name": "Brynje",
+  "uri": "spotify:artist:1nCPHuNCT3IKqSfIxq3rTG",
+  "followers": {
+    "href": null,
+    "total": 216
+  },
+  "genres": [
+    "danish experimental"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f92eacdfd4e772d9db26edfa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f92eacdfd4e772d9db26edfa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f92eacdfd4e772d9db26edfa",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1nCPHuNCT3IKqSfIxq3rTG"
+  }
+}

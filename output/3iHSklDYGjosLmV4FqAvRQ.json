@@ -1,0 +1,33 @@
+{
+  "id": "3iHSklDYGjosLmV4FqAvRQ",
+  "name": "20 000 Hz",
+  "uri": "spotify:artist:3iHSklDYGjosLmV4FqAvRQ",
+  "followers": {
+    "href": null,
+    "total": 150
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ba4ef2ae7a4a107eb210ea48",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ba4ef2ae7a4a107eb210ea48",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851173c0b581771cea6929b393e",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3iHSklDYGjosLmV4FqAvRQ"
+  }
+}

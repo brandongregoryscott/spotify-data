@@ -1,0 +1,33 @@
+{
+  "id": "04q7KeD8GMTsUEtIqO4N4Y",
+  "name": "DAVIES",
+  "uri": "spotify:artist:04q7KeD8GMTsUEtIqO4N4Y",
+  "followers": {
+    "href": null,
+    "total": 153
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb39f0825594bdea0fadbde5a1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517439f0825594bdea0fadbde5a1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17839f0825594bdea0fadbde5a1",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/04q7KeD8GMTsUEtIqO4N4Y"
+  }
+}

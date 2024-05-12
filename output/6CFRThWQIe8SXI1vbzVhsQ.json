@@ -1,0 +1,33 @@
+{
+  "id": "6CFRThWQIe8SXI1vbzVhsQ",
+  "name": "Three (3)",
+  "uri": "spotify:artist:6CFRThWQIe8SXI1vbzVhsQ",
+  "followers": {
+    "href": null,
+    "total": 2114
+  },
+  "genres": [
+    "emocore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27350d9b0f06dc3980178cf0cce",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0250d9b0f06dc3980178cf0cce",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485150d9b0f06dc3980178cf0cce",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6CFRThWQIe8SXI1vbzVhsQ"
+  }
+}

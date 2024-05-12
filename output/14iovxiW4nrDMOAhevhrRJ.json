@@ -1,0 +1,33 @@
+{
+  "id": "14iovxiW4nrDMOAhevhrRJ",
+  "name": "kandodo",
+  "uri": "spotify:artist:14iovxiW4nrDMOAhevhrRJ",
+  "followers": {
+    "href": null,
+    "total": 629
+  },
+  "genres": [
+    "drone rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27309b81e3e8a391208a7d22fc5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0209b81e3e8a391208a7d22fc5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485109b81e3e8a391208a7d22fc5",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/14iovxiW4nrDMOAhevhrRJ"
+  }
+}

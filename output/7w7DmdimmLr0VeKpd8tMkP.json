@@ -1,0 +1,33 @@
+{
+  "id": "7w7DmdimmLr0VeKpd8tMkP",
+  "name": "Finn Waldorf",
+  "uri": "spotify:artist:7w7DmdimmLr0VeKpd8tMkP",
+  "followers": {
+    "href": null,
+    "total": 255
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb68c046a734563b67e3340f2f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517468c046a734563b67e3340f2f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17868c046a734563b67e3340f2f",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7w7DmdimmLr0VeKpd8tMkP"
+  }
+}

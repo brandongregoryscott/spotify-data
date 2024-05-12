@@ -1,0 +1,33 @@
+{
+  "id": "5mFNbYIpsiHUkm7xFP7WBn",
+  "name": "gloss",
+  "uri": "spotify:artist:5mFNbYIpsiHUkm7xFP7WBn",
+  "followers": {
+    "href": null,
+    "total": 1907
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcf797dfe1e0970717ae25469",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cf797dfe1e0970717ae25469",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cf797dfe1e0970717ae25469",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5mFNbYIpsiHUkm7xFP7WBn"
+  }
+}

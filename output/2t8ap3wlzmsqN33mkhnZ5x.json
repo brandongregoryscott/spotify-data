@@ -1,0 +1,33 @@
+{
+  "id": "2t8ap3wlzmsqN33mkhnZ5x",
+  "name": "ENNE",
+  "uri": "spotify:artist:2t8ap3wlzmsqN33mkhnZ5x",
+  "followers": {
+    "href": null,
+    "total": 187
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebedc86f9f5141080df63f4b75",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174edc86f9f5141080df63f4b75",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178edc86f9f5141080df63f4b75",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2t8ap3wlzmsqN33mkhnZ5x"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6Q2TNUXyMrBZ9NGFkJfhZq",
+  "name": "5IVE5IVE",
+  "uri": "spotify:artist:6Q2TNUXyMrBZ9NGFkJfhZq",
+  "followers": {
+    "href": null,
+    "total": 78
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ae61584ecef65f315a4ed5ec",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ae61584ecef65f315a4ed5ec",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ae61584ecef65f315a4ed5ec",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Q2TNUXyMrBZ9NGFkJfhZq"
+  }
+}

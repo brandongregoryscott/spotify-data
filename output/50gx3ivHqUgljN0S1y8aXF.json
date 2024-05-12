@@ -1,0 +1,35 @@
+{
+  "id": "50gx3ivHqUgljN0S1y8aXF",
+  "name": "Kvist",
+  "uri": "spotify:artist:50gx3ivHqUgljN0S1y8aXF",
+  "followers": {
+    "href": null,
+    "total": 13386
+  },
+  "genres": [
+    "black metal",
+    "melodic black metal",
+    "norwegian metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735f150e97d1c6e5f5bc227d58",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025f150e97d1c6e5f5bc227d58",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515f150e97d1c6e5f5bc227d58",
+      "width": 64
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/50gx3ivHqUgljN0S1y8aXF"
+  }
+}

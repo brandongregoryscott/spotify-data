@@ -1,0 +1,33 @@
+{
+  "id": "3JI04lOJzMzEpaTZirGStJ",
+  "name": "Zero To Hero",
+  "uri": "spotify:artist:3JI04lOJzMzEpaTZirGStJ",
+  "followers": {
+    "href": null,
+    "total": 1171
+  },
+  "genres": [
+    "brazilian emo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb958c98d1b696613db2998c0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b958c98d1b696613db2998c0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b958c98d1b696613db2998c0",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3JI04lOJzMzEpaTZirGStJ"
+  }
+}

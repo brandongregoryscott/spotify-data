@@ -1,0 +1,33 @@
+{
+  "id": "0sUH2TgnAJ81xTZTaOeiLp",
+  "name": "A7mc",
+  "uri": "spotify:artist:0sUH2TgnAJ81xTZTaOeiLp",
+  "followers": {
+    "href": null,
+    "total": 264
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5f8098b30a5f1a78d260eedc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051745f8098b30a5f1a78d260eedc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1785f8098b30a5f1a78d260eedc",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0sUH2TgnAJ81xTZTaOeiLp"
+  }
+}

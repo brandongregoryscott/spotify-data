@@ -1,0 +1,33 @@
+{
+  "id": "6d4fitLNR82dlkyALodJWR",
+  "name": "ZOO",
+  "uri": "spotify:artist:6d4fitLNR82dlkyALodJWR",
+  "followers": {
+    "href": null,
+    "total": 329
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebecdccb959237bb112065ddc9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ecdccb959237bb112065ddc9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ecdccb959237bb112065ddc9",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6d4fitLNR82dlkyALodJWR"
+  }
+}

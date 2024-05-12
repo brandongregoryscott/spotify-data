@@ -1,0 +1,37 @@
+{
+  "id": "6Ghvu1VvMGScGpOUJBAHNH",
+  "name": "Deftones",
+  "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
+  "followers": {
+    "href": null,
+    "total": 5383697
+  },
+  "genres": [
+    "alternative metal",
+    "nu metal",
+    "rap metal",
+    "rock",
+    "sacramento indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4b2da0b72cab26ac518f1f0d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744b2da0b72cab26ac518f1f0d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784b2da0b72cab26ac518f1f0d",
+      "width": 160
+    }
+  ],
+  "popularity": 76,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+  }
+}

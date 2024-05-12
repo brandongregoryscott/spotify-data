@@ -1,0 +1,33 @@
+{
+  "id": "0EQ23xWjolNrKQN7pZ3Zat",
+  "name": "SHORE",
+  "uri": "spotify:artist:0EQ23xWjolNrKQN7pZ3Zat",
+  "followers": {
+    "href": null,
+    "total": 810
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdf2d0ae2088350b2eacf6cac",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174df2d0ae2088350b2eacf6cac",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178df2d0ae2088350b2eacf6cac",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0EQ23xWjolNrKQN7pZ3Zat"
+  }
+}

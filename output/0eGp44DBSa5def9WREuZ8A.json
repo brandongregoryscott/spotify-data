@@ -1,0 +1,33 @@
+{
+  "id": "0eGp44DBSa5def9WREuZ8A",
+  "name": "lb66",
+  "uri": "spotify:artist:0eGp44DBSa5def9WREuZ8A",
+  "followers": {
+    "href": null,
+    "total": 584
+  },
+  "genres": [
+    "emoplugg"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbf030f674b4cc1f4b1f760b0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bf030f674b4cc1f4b1f760b0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bf030f674b4cc1f4b1f760b0",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A"
+  }
+}

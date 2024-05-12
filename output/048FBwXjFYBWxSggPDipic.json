@@ -1,0 +1,35 @@
+{
+  "id": "048FBwXjFYBWxSggPDipic",
+  "name": "Maximo Park",
+  "uri": "spotify:artist:048FBwXjFYBWxSggPDipic",
+  "followers": {
+    "href": null,
+    "total": 240358
+  },
+  "genres": [
+    "britpop",
+    "newcastle indie",
+    "scottish rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb777745d59f34f907b56fbade",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174777745d59f34f907b56fbade",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178777745d59f34f907b56fbade",
+      "width": 160
+    }
+  ],
+  "popularity": 43,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic"
+  }
+}

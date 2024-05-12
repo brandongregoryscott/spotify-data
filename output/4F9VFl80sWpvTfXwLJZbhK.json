@@ -1,0 +1,35 @@
+{
+  "id": "4F9VFl80sWpvTfXwLJZbhK",
+  "name": "Luigi Tenco",
+  "uri": "spotify:artist:4F9VFl80sWpvTfXwLJZbhK",
+  "followers": {
+    "href": null,
+    "total": 124668
+  },
+  "genres": [
+    "canzone d'autore",
+    "classic italian pop",
+    "italian adult pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27376f405676cd44d423eba6eef",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0276f405676cd44d423eba6eef",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485176f405676cd44d423eba6eef",
+      "width": 64
+    }
+  ],
+  "popularity": 39,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4F9VFl80sWpvTfXwLJZbhK"
+  }
+}

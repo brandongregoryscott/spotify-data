@@ -1,0 +1,33 @@
+{
+  "id": "1zbZa82fOkxnWd44o2uV6c",
+  "name": "JHIN",
+  "uri": "spotify:artist:1zbZa82fOkxnWd44o2uV6c",
+  "followers": {
+    "href": null,
+    "total": 47715
+  },
+  "genres": [
+    "bedroom r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebff9c87c6e09d9038fbaf20cf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ff9c87c6e09d9038fbaf20cf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ff9c87c6e09d9038fbaf20cf",
+      "width": 160
+    }
+  ],
+  "popularity": 48,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1zbZa82fOkxnWd44o2uV6c"
+  }
+}

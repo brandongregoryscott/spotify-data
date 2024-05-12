@@ -1,0 +1,33 @@
+{
+  "id": "5cnv2wmWqSU2ode1U9p8BH",
+  "name": "Doohickey Cubicle",
+  "uri": "spotify:artist:5cnv2wmWqSU2ode1U9p8BH",
+  "followers": {
+    "href": null,
+    "total": 1135
+  },
+  "genres": [
+    "modern dream pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb54f256f8c66e71279e11f4fa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517454f256f8c66e71279e11f4fa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17854f256f8c66e71279e11f4fa",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5cnv2wmWqSU2ode1U9p8BH"
+  }
+}

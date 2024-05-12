@@ -1,0 +1,33 @@
+{
+  "id": "5yEpIWLbAFa4D8cQ0mSo0m",
+  "name": "TABARNAK",
+  "uri": "spotify:artist:5yEpIWLbAFa4D8cQ0mSo0m",
+  "followers": {
+    "href": null,
+    "total": 488
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb72b66d7278bf122179024ab0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517472b66d7278bf122179024ab0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17872b66d7278bf122179024ab0",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5yEpIWLbAFa4D8cQ0mSo0m"
+  }
+}

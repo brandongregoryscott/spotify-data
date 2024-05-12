@@ -1,0 +1,33 @@
+{
+  "id": "5BzVTJI7XaZZpy52VKAdnq",
+  "name": "GOOBERS",
+  "uri": "spotify:artist:5BzVTJI7XaZZpy52VKAdnq",
+  "followers": {
+    "href": null,
+    "total": 689
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdee9202b8f8e83caaa778b66",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dee9202b8f8e83caaa778b66",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dee9202b8f8e83caaa778b66",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5BzVTJI7XaZZpy52VKAdnq"
+  }
+}

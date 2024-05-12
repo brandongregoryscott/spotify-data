@@ -1,0 +1,34 @@
+{
+  "id": "3opT5QZSxZirDvtytHZHA8",
+  "name": "Factor",
+  "uri": "spotify:artist:3opT5QZSxZirDvtytHZHA8",
+  "followers": {
+    "href": null,
+    "total": 1016
+  },
+  "genres": [
+    "abstract hip hop",
+    "outer hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735699096afbf4231ef2fde6ef",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025699096afbf4231ef2fde6ef",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515699096afbf4231ef2fde6ef",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3opT5QZSxZirDvtytHZHA8"
+  }
+}

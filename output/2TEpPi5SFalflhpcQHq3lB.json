@@ -1,0 +1,37 @@
+{
+  "id": "2TEpPi5SFalflhpcQHq3lB",
+  "name": "Ian Noe",
+  "uri": "spotify:artist:2TEpPi5SFalflhpcQHq3lB",
+  "followers": {
+    "href": null,
+    "total": 62618
+  },
+  "genres": [
+    "kentucky indie",
+    "kentucky roots",
+    "new americana",
+    "roots americana",
+    "southern americana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe3309c4e348bff4908004d08",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e3309c4e348bff4908004d08",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e3309c4e348bff4908004d08",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+  }
+}

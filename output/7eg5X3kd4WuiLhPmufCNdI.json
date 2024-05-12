@@ -1,0 +1,33 @@
+{
+  "id": "7eg5X3kd4WuiLhPmufCNdI",
+  "name": "シシド",
+  "uri": "spotify:artist:7eg5X3kd4WuiLhPmufCNdI",
+  "followers": {
+    "href": null,
+    "total": 457
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d2453ec20c7d3440a9db06df",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d2453ec20c7d3440a9db06df",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d2453ec20c7d3440a9db06df",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7eg5X3kd4WuiLhPmufCNdI"
+  }
+}

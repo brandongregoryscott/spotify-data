@@ -1,0 +1,33 @@
+{
+  "id": "5sohWjO8MKMnNryrCpLXKN",
+  "name": "DjMondo",
+  "uri": "spotify:artist:5sohWjO8MKMnNryrCpLXKN",
+  "followers": {
+    "href": null,
+    "total": 3937
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb299e5d4fa843e7cf6fad4fd5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174299e5d4fa843e7cf6fad4fd5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178299e5d4fa843e7cf6fad4fd5",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5sohWjO8MKMnNryrCpLXKN"
+  }
+}

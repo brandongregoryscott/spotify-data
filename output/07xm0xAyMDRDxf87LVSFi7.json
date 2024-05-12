@@ -1,0 +1,33 @@
+{
+  "id": "07xm0xAyMDRDxf87LVSFi7",
+  "name": "Eyezin",
+  "uri": "spotify:artist:07xm0xAyMDRDxf87LVSFi7",
+  "followers": {
+    "href": null,
+    "total": 112
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf029292e251cd3d78c939afe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f029292e251cd3d78c939afe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f029292e251cd3d78c939afe",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07xm0xAyMDRDxf87LVSFi7"
+  }
+}

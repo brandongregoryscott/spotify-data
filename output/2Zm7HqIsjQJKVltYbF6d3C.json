@@ -1,0 +1,33 @@
+{
+  "id": "2Zm7HqIsjQJKVltYbF6d3C",
+  "name": "Uso y Abuso",
+  "uri": "spotify:artist:2Zm7HqIsjQJKVltYbF6d3C",
+  "followers": {
+    "href": null,
+    "total": 205
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb97ccdd6ad953670c3471db3a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517497ccdd6ad953670c3471db3a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17897ccdd6ad953670c3471db3a",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Zm7HqIsjQJKVltYbF6d3C"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "53GvdQAxNF9vwFQRlFaPxp",
+  "name": "MNLTH",
+  "uri": "spotify:artist:53GvdQAxNF9vwFQRlFaPxp",
+  "followers": {
+    "href": null,
+    "total": 2579
+  },
+  "genres": [
+    "braindance"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273286489eaec17f4d531b1df49",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02286489eaec17f4d531b1df49",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851286489eaec17f4d531b1df49",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/53GvdQAxNF9vwFQRlFaPxp"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3zIu9H0mGPATD4xsfcq4ac",
+  "name": "Kirkland",
+  "uri": "spotify:artist:3zIu9H0mGPATD4xsfcq4ac",
+  "followers": {
+    "href": null,
+    "total": 18
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bf3fef549b4887f7756d72d1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bf3fef549b4887f7756d72d1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bf3fef549b4887f7756d72d1",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3zIu9H0mGPATD4xsfcq4ac"
+  }
+}

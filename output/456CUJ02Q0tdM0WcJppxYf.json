@@ -1,0 +1,33 @@
+{
+  "id": "456CUJ02Q0tdM0WcJppxYf",
+  "name": "gatajazz",
+  "uri": "spotify:artist:456CUJ02Q0tdM0WcJppxYf",
+  "followers": {
+    "href": null,
+    "total": 580
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8b601169cd9f72088ef640c8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051748b601169cd9f72088ef640c8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1788b601169cd9f72088ef640c8",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/456CUJ02Q0tdM0WcJppxYf"
+  }
+}

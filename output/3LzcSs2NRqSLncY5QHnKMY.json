@@ -1,0 +1,33 @@
+{
+  "id": "3LzcSs2NRqSLncY5QHnKMY",
+  "name": "SUEP",
+  "uri": "spotify:artist:3LzcSs2NRqSLncY5QHnKMY",
+  "followers": {
+    "href": null,
+    "total": 952
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdb1fa0a7353649a077aa1974",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174db1fa0a7353649a077aa1974",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178db1fa0a7353649a077aa1974",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3LzcSs2NRqSLncY5QHnKMY"
+  }
+}

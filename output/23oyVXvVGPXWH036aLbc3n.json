@@ -1,0 +1,33 @@
+{
+  "id": "23oyVXvVGPXWH036aLbc3n",
+  "name": "Gippler",
+  "uri": "spotify:artist:23oyVXvVGPXWH036aLbc3n",
+  "followers": {
+    "href": null,
+    "total": 327
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe6c94dacd2e285acfe6b5b91",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e6c94dacd2e285acfe6b5b91",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e6c94dacd2e285acfe6b5b91",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/23oyVXvVGPXWH036aLbc3n"
+  }
+}

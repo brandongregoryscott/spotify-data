@@ -1,0 +1,33 @@
+{
+  "id": "124brnNKXdM8FFxZuRhV30",
+  "name": "TAY",
+  "uri": "spotify:artist:124brnNKXdM8FFxZuRhV30",
+  "followers": {
+    "href": null,
+    "total": 602
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb30dbe6c13f88fed3418ac43f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517430dbe6c13f88fed3418ac43f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17830dbe6c13f88fed3418ac43f",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/124brnNKXdM8FFxZuRhV30"
+  }
+}

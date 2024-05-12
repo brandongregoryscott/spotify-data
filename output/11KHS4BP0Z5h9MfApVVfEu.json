@@ -1,0 +1,33 @@
+{
+  "id": "11KHS4BP0Z5h9MfApVVfEu",
+  "name": "rinsewell",
+  "uri": "spotify:artist:11KHS4BP0Z5h9MfApVVfEu",
+  "followers": {
+    "href": null,
+    "total": 14
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb459358f72cc6d7be0e17e853",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174459358f72cc6d7be0e17e853",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178459358f72cc6d7be0e17e853",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/11KHS4BP0Z5h9MfApVVfEu"
+  }
+}

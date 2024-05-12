@@ -1,0 +1,33 @@
+{
+  "id": "1DOCxB5xhVzLAMwdoCKxgV",
+  "name": "Emferio",
+  "uri": "spotify:artist:1DOCxB5xhVzLAMwdoCKxgV",
+  "followers": {
+    "href": null,
+    "total": 3302
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbd1ce2f2a1b89b16b1abf8e1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bd1ce2f2a1b89b16b1abf8e1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bd1ce2f2a1b89b16b1abf8e1",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1DOCxB5xhVzLAMwdoCKxgV"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4M88ibpaNEoIYQCKdujm3Y",
+  "name": "Ian DPM",
+  "uri": "spotify:artist:4M88ibpaNEoIYQCKdujm3Y",
+  "followers": {
+    "href": null,
+    "total": 327
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb856751c1f8af4747ede88566",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174856751c1f8af4747ede88566",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178856751c1f8af4747ede88566",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4M88ibpaNEoIYQCKdujm3Y"
+  }
+}

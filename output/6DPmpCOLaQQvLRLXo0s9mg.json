@@ -1,0 +1,34 @@
+{
+  "id": "6DPmpCOLaQQvLRLXo0s9mg",
+  "name": "Stepa",
+  "uri": "spotify:artist:6DPmpCOLaQQvLRLXo0s9mg",
+  "followers": {
+    "href": null,
+    "total": 1979
+  },
+  "genres": [
+    "alternative metalcore",
+    "rap metalcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27390f4e4f99de80ebc1088cfb4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0290f4e4f99de80ebc1088cfb4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485190f4e4f99de80ebc1088cfb4",
+      "width": 64
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6DPmpCOLaQQvLRLXo0s9mg"
+  }
+}

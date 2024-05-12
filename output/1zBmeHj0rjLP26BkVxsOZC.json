@@ -1,0 +1,33 @@
+{
+  "id": "1zBmeHj0rjLP26BkVxsOZC",
+  "name": "Novatore",
+  "uri": "spotify:artist:1zBmeHj0rjLP26BkVxsOZC",
+  "followers": {
+    "href": null,
+    "total": 2518
+  },
+  "genres": [
+    "underground boom bap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb28eaff3f305dd328ebf3d362",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517428eaff3f305dd328ebf3d362",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17828eaff3f305dd328ebf3d362",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1zBmeHj0rjLP26BkVxsOZC"
+  }
+}

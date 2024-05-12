@@ -1,0 +1,33 @@
+{
+  "id": "4Kidb9Cx4musZwRWzeFt4g",
+  "name": "Penny Lane",
+  "uri": "spotify:artist:4Kidb9Cx4musZwRWzeFt4g",
+  "followers": {
+    "href": null,
+    "total": 354
+  },
+  "genres": [
+    "modern j-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb530c29e7e75a4b1461b3e7b7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174530c29e7e75a4b1461b3e7b7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178530c29e7e75a4b1461b3e7b7",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Kidb9Cx4musZwRWzeFt4g"
+  }
+}

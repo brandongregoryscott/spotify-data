@@ -1,0 +1,33 @@
+{
+  "id": "06FdtuVuUNNHzGGAwGNfmT",
+  "name": "Chloe Berry",
+  "uri": "spotify:artist:06FdtuVuUNNHzGGAwGNfmT",
+  "followers": {
+    "href": null,
+    "total": 1765
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb69d0ba4b4e1b7415bbc18dc9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517469d0ba4b4e1b7415bbc18dc9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17869d0ba4b4e1b7415bbc18dc9",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/06FdtuVuUNNHzGGAwGNfmT"
+  }
+}

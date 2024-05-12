@@ -1,0 +1,33 @@
+{
+  "id": "41KI0vs9uijH2KBE1CEm5E",
+  "name": "Hotline.rs",
+  "uri": "spotify:artist:41KI0vs9uijH2KBE1CEm5E",
+  "followers": {
+    "href": null,
+    "total": 117
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb60ca002199404923d0061702",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517460ca002199404923d0061702",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17860ca002199404923d0061702",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/41KI0vs9uijH2KBE1CEm5E"
+  }
+}

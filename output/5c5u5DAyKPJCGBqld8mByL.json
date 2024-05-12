@@ -1,0 +1,33 @@
+{
+  "id": "5c5u5DAyKPJCGBqld8mByL",
+  "name": "AkaZakoria",
+  "uri": "spotify:artist:5c5u5DAyKPJCGBqld8mByL",
+  "followers": {
+    "href": null,
+    "total": 249
+  },
+  "genres": [
+    "necrotrap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27322881bb077112cd074440f53",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0222881bb077112cd074440f53",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485122881bb077112cd074440f53",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5c5u5DAyKPJCGBqld8mByL"
+  }
+}

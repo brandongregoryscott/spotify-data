@@ -1,0 +1,33 @@
+{
+  "id": "6XvmCYFV2xlaZJD37VSBaG",
+  "name": "PASO",
+  "uri": "spotify:artist:6XvmCYFV2xlaZJD37VSBaG",
+  "followers": {
+    "href": null,
+    "total": 353
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb44ebd7606356a2813e90e1bd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517444ebd7606356a2813e90e1bd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17844ebd7606356a2813e90e1bd",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6XvmCYFV2xlaZJD37VSBaG"
+  }
+}

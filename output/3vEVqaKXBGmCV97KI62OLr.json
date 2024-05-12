@@ -1,0 +1,33 @@
+{
+  "id": "3vEVqaKXBGmCV97KI62OLr",
+  "name": "pinecrest",
+  "uri": "spotify:artist:3vEVqaKXBGmCV97KI62OLr",
+  "followers": {
+    "href": null,
+    "total": 432
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734054209238cf64799df0a1a2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024054209238cf64799df0a1a2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514054209238cf64799df0a1a2",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3vEVqaKXBGmCV97KI62OLr"
+  }
+}

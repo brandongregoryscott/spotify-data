@@ -1,0 +1,33 @@
+{
+  "id": "16LSggfX2VWRe9vY5grMqo",
+  "name": "GODDS",
+  "uri": "spotify:artist:16LSggfX2VWRe9vY5grMqo",
+  "followers": {
+    "href": null,
+    "total": 25
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273444541e032049e83d4827c44",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02444541e032049e83d4827c44",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851444541e032049e83d4827c44",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/16LSggfX2VWRe9vY5grMqo"
+  }
+}

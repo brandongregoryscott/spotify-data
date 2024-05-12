@@ -1,0 +1,35 @@
+{
+  "id": "6SBgDfIRb6IE9TrA6w8Zg6",
+  "name": "Downset",
+  "uri": "spotify:artist:6SBgDfIRb6IE9TrA6w8Zg6",
+  "followers": {
+    "href": null,
+    "total": 59091
+  },
+  "genres": [
+    "funk metal",
+    "hardcore",
+    "rap metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdbf9975eb12ba64bccfa3e4e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dbf9975eb12ba64bccfa3e4e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dbf9975eb12ba64bccfa3e4e",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6"
+  }
+}

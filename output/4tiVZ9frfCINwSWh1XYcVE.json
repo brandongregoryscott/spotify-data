@@ -1,0 +1,33 @@
+{
+  "id": "4tiVZ9frfCINwSWh1XYcVE",
+  "name": "Blank Pages",
+  "uri": "spotify:artist:4tiVZ9frfCINwSWh1XYcVE",
+  "followers": {
+    "href": null,
+    "total": 458
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733a03ccd567ed9092bda9f1af",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023a03ccd567ed9092bda9f1af",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513a03ccd567ed9092bda9f1af",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4tiVZ9frfCINwSWh1XYcVE"
+  }
+}

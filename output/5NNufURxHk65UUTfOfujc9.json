@@ -1,0 +1,33 @@
+{
+  "id": "5NNufURxHk65UUTfOfujc9",
+  "name": "Ray Wills",
+  "uri": "spotify:artist:5NNufURxHk65UUTfOfujc9",
+  "followers": {
+    "href": null,
+    "total": 336
+  },
+  "genres": [
+    "reading indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcfa12c031649a056f9dd27db",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cfa12c031649a056f9dd27db",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cfa12c031649a056f9dd27db",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5NNufURxHk65UUTfOfujc9"
+  }
+}

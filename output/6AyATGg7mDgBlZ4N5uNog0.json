@@ -1,0 +1,33 @@
+{
+  "id": "6AyATGg7mDgBlZ4N5uNog0",
+  "name": "SYML",
+  "uri": "spotify:artist:6AyATGg7mDgBlZ4N5uNog0",
+  "followers": {
+    "href": null,
+    "total": 762444
+  },
+  "genres": [
+    "modern indie pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfd0ed3a35e1358b436664de6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fd0ed3a35e1358b436664de6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fd0ed3a35e1358b436664de6",
+      "width": 160
+    }
+  ],
+  "popularity": 68,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+  }
+}

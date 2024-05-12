@@ -1,0 +1,33 @@
+{
+  "id": "4P7RUvgKui3TaKLEkYskZE",
+  "name": "Dog Delarue",
+  "uri": "spotify:artist:4P7RUvgKui3TaKLEkYskZE",
+  "followers": {
+    "href": null,
+    "total": 468
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb661c97c2cc87729a287b94ac",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174661c97c2cc87729a287b94ac",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178661c97c2cc87729a287b94ac",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4P7RUvgKui3TaKLEkYskZE"
+  }
+}

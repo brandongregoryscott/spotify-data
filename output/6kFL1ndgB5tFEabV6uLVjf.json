@@ -1,0 +1,33 @@
+{
+  "id": "6kFL1ndgB5tFEabV6uLVjf",
+  "name": "Devoid",
+  "uri": "spotify:artist:6kFL1ndgB5tFEabV6uLVjf",
+  "followers": {
+    "href": null,
+    "total": 372
+  },
+  "genres": [
+    "magyar alternative"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733ca6e3f6c3155b91706d6485",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023ca6e3f6c3155b91706d6485",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513ca6e3f6c3155b91706d6485",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6kFL1ndgB5tFEabV6uLVjf"
+  }
+}

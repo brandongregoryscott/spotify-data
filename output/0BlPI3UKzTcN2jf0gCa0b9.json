@@ -1,0 +1,33 @@
+{
+  "id": "0BlPI3UKzTcN2jf0gCa0b9",
+  "name": "Lucy",
+  "uri": "spotify:artist:0BlPI3UKzTcN2jf0gCa0b9",
+  "followers": {
+    "href": null,
+    "total": 7254
+  },
+  "genres": [
+    "minimal dub"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe8e30f8e8310f37a02228a1a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e8e30f8e8310f37a02228a1a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e8e30f8e8310f37a02228a1a",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0BlPI3UKzTcN2jf0gCa0b9"
+  }
+}

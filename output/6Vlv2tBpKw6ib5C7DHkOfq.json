@@ -1,0 +1,35 @@
+{
+  "id": "6Vlv2tBpKw6ib5C7DHkOfq",
+  "name": "Angel Tumbado",
+  "uri": "spotify:artist:6Vlv2tBpKw6ib5C7DHkOfq",
+  "followers": {
+    "href": null,
+    "total": 163844
+  },
+  "genres": [
+    "corrido",
+    "corridos tumbados",
+    "sierreno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb92cb32bae8ee4d414217c6ca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517492cb32bae8ee4d414217c6ca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17892cb32bae8ee4d414217c6ca",
+      "width": 160
+    }
+  ],
+  "popularity": 43,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq"
+  }
+}

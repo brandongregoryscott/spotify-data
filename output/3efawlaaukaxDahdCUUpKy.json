@@ -1,0 +1,33 @@
+{
+  "id": "3efawlaaukaxDahdCUUpKy",
+  "name": "MULE",
+  "uri": "spotify:artist:3efawlaaukaxDahdCUUpKy",
+  "followers": {
+    "href": null,
+    "total": 446
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273644fa8c01a6290b20d64dc7f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02644fa8c01a6290b20d64dc7f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851644fa8c01a6290b20d64dc7f",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3efawlaaukaxDahdCUUpKy"
+  }
+}
