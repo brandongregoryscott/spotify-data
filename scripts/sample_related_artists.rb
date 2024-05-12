@@ -15,7 +15,7 @@ def main
 
   sampled_artist_ids = artist_ids.sample(sample_count)
   sampled_artist_ids.each_slice(50) do |artist_ids_chunk|
-    artists = RSpotify::artists.find(artist_ids_chunk)
+    artists = RSpotify::Artist.find(artist_ids_chunk)
 
     artists.each do |artist|
       related_artist_ids = find_related_artists(artist)
