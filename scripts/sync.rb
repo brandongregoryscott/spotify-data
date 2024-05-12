@@ -4,6 +4,7 @@ require 'bundler/setup'
 require 'json'
 require 'rspotify'
 require 'date'
+require 'rest-client'
 
 MAX_RETRIES = 25
 
@@ -25,7 +26,7 @@ def find_and_save_artists(artist_ids_chunk, attempt = 1)
   artists.each do |artist|
     save_artist_json_file(artist)
   end
-rescue RestClient::ExceptionWithResponse
+rescue RestClient::TooManyRequests, RestClient::ServiceUnavailable
   max_sleep_seconds = Float(2**attempt)
   sleep rand(0..max_sleep_seconds)
   find_and_save_artists(artist_ids_chunk, attempt + 1) if attempt < MAX_RETRIES

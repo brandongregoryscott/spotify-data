@@ -3,6 +3,7 @@
 require 'bundler/setup'
 require 'json'
 require 'rspotify'
+require 'rest-client'
 
 MAX_RETRIES = 50
 
@@ -10,20 +11,24 @@ def main
   authenticate
 
   artist_ids = read_artists_json_file
-  sampled_artist_ids = artist_ids.sample(50)
-  artists = RSpotify::Artist.find(sampled_artist_ids)
-  artists.each do |artist|
-    related_artist_ids = find_related_artists(artist)
-    artist_ids.concat(related_artist_ids)
-  end
+  sample_count = ARGV.first && !ARGV.first.empty? ? Integer(ARGV.first) : 50
 
-  save_artists_json_file(artist_ids.uniq)
+  sampled_artist_ids = artist_ids.sample(sample_count)
+  sampled_artist_ids.each_slice(50) do |artist_ids_chunk|
+    artists = RSpotify::Artist.find(artist_ids_chunk)
+
+    artists.each do |artist|
+      related_artist_ids = find_related_artists(artist)
+      artist_ids.concat(related_artist_ids)
+    end
+    save_artists_json_file(artist_ids.uniq)
+  end
 end
 
 def find_related_artists(artist, attempt = 1)
   related_artists = artist.related_artists
   related_artists.map(&:id)
-rescue RestClient::ExceptionWithResponse
+rescue RestClient::TooManyRequests, RestClient::ServiceUnavailable
   max_sleep_seconds = Float(2**attempt)
   sleep rand(0..max_sleep_seconds)
   authenticate

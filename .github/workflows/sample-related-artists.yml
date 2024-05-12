@@ -2,6 +2,11 @@ name: Sample related artists
 
 on:
   workflow_dispatch:
+    inputs:
+      sample_count:
+        description: 'Number of artists to sample'
+        default: '50'
+
   schedule:
     - cron:  '* 2 * * *'
 
@@ -25,7 +30,7 @@ jobs:
       run: bundle install
 
     - name: Sync data
-      run: ruby scripts/sample_related_artists.rb
+      run: ruby scripts/sample_related_artists.rb ${{github.event.inputs.sample_count}}
 
     - name: Commit and push
       run: |-
