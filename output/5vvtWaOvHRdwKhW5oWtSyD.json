@@ -1,0 +1,33 @@
+{
+  "id": "5vvtWaOvHRdwKhW5oWtSyD",
+  "name": "Digital Angel",
+  "uri": "spotify:artist:5vvtWaOvHRdwKhW5oWtSyD",
+  "followers": {
+    "href": null,
+    "total": 47
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb5cb2f778c37d39567f17834",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b5cb2f778c37d39567f17834",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b5cb2f778c37d39567f17834",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5vvtWaOvHRdwKhW5oWtSyD"
+  }
+}

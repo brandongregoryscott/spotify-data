@@ -1,0 +1,33 @@
+{
+  "id": "75PHQSU5SunQWJBQ1V2bb6",
+  "name": "Kayvo",
+  "uri": "spotify:artist:75PHQSU5SunQWJBQ1V2bb6",
+  "followers": {
+    "href": null,
+    "total": 4297
+  },
+  "genres": [
+    "dmv rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e00c1960830c97a8f2830e07",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e00c1960830c97a8f2830e07",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e00c1960830c97a8f2830e07",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/75PHQSU5SunQWJBQ1V2bb6"
+  }
+}

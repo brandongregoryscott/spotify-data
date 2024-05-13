@@ -1,0 +1,33 @@
+{
+  "id": "71tnaVVl10fbxBHN5Rcd4y",
+  "name": "Maara",
+  "uri": "spotify:artist:71tnaVVl10fbxBHN5Rcd4y",
+  "followers": {
+    "href": null,
+    "total": 7013
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732d1b50cf3c2bdaf8f690a8bc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022d1b50cf3c2bdaf8f690a8bc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512d1b50cf3c2bdaf8f690a8bc",
+      "width": 64
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/71tnaVVl10fbxBHN5Rcd4y"
+  }
+}

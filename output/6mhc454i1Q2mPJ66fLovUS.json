@@ -1,0 +1,35 @@
+{
+  "id": "6mhc454i1Q2mPJ66fLovUS",
+  "name": "Tropiezo",
+  "uri": "spotify:artist:6mhc454i1Q2mPJ66fLovUS",
+  "followers": {
+    "href": null,
+    "total": 1656
+  },
+  "genres": [
+    "puerto rican indie",
+    "puerto rican metal",
+    "puerto rican rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb71f2bab964ad15a9c4ad4ba1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517471f2bab964ad15a9c4ad4ba1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17871f2bab964ad15a9c4ad4ba1",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6mhc454i1Q2mPJ66fLovUS"
+  }
+}

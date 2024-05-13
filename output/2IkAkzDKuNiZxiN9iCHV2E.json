@@ -1,0 +1,33 @@
+{
+  "id": "2IkAkzDKuNiZxiN9iCHV2E",
+  "name": "soothe",
+  "uri": "spotify:artist:2IkAkzDKuNiZxiN9iCHV2E",
+  "followers": {
+    "href": null,
+    "total": 156
+  },
+  "genres": [
+    "australian shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfae1a738e71de2a0bd38d056",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fae1a738e71de2a0bd38d056",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fae1a738e71de2a0bd38d056",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2IkAkzDKuNiZxiN9iCHV2E"
+  }
+}

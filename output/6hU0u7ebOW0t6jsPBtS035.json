@@ -1,0 +1,33 @@
+{
+  "id": "6hU0u7ebOW0t6jsPBtS035",
+  "name": "aleggs",
+  "uri": "spotify:artist:6hU0u7ebOW0t6jsPBtS035",
+  "followers": {
+    "href": null,
+    "total": 144
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb20bad3a7ca568f9acfe79df8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517420bad3a7ca568f9acfe79df8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17820bad3a7ca568f9acfe79df8",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6hU0u7ebOW0t6jsPBtS035"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7KXPjNDl2wveAmMIEZHQhB",
+  "name": "La Texana",
+  "uri": "spotify:artist:7KXPjNDl2wveAmMIEZHQhB",
+  "followers": {
+    "href": null,
+    "total": 24001
+  },
+  "genres": [
+    "post-punk mexicano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebabf3e2e2c3e31f0d1c8b9ee3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174abf3e2e2c3e31f0d1c8b9ee3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178abf3e2e2c3e31f0d1c8b9ee3",
+      "width": 160
+    }
+  ],
+  "popularity": 39,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB"
+  }
+}

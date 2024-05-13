@@ -1,0 +1,34 @@
+{
+  "id": "2EwvEoMSkP2QHZfLoN7AVd",
+  "name": "Mr. Fastfinger",
+  "uri": "spotify:artist:2EwvEoMSkP2QHZfLoN7AVd",
+  "followers": {
+    "href": null,
+    "total": 7691
+  },
+  "genres": [
+    "instrumental rock",
+    "metal guitar"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfd1c09ac8642c3776b3aae0e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fd1c09ac8642c3776b3aae0e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fd1c09ac8642c3776b3aae0e",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2EwvEoMSkP2QHZfLoN7AVd"
+  }
+}

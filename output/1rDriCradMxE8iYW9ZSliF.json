@@ -1,0 +1,33 @@
+{
+  "id": "1rDriCradMxE8iYW9ZSliF",
+  "name": "MEO",
+  "uri": "spotify:artist:1rDriCradMxE8iYW9ZSliF",
+  "followers": {
+    "href": null,
+    "total": 122
+  },
+  "genres": [
+    "italian screamo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb38a4615fb03707982ccfc096",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517438a4615fb03707982ccfc096",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17838a4615fb03707982ccfc096",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1rDriCradMxE8iYW9ZSliF"
+  }
+}

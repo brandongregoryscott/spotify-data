@@ -1,0 +1,33 @@
+{
+  "id": "0CsHXTwppha2FCaxOve4bR",
+  "name": "Isaac",
+  "uri": "spotify:artist:0CsHXTwppha2FCaxOve4bR",
+  "followers": {
+    "href": null,
+    "total": 1244
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdfcbf5796d940e2bcb4dc070",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dfcbf5796d940e2bcb4dc070",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dfcbf5796d940e2bcb4dc070",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0CsHXTwppha2FCaxOve4bR"
+  }
+}

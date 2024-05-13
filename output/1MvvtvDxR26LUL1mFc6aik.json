@@ -1,0 +1,33 @@
+{
+  "id": "1MvvtvDxR26LUL1mFc6aik",
+  "name": "Optic Sink",
+  "uri": "spotify:artist:1MvvtvDxR26LUL1mFc6aik",
+  "followers": {
+    "href": null,
+    "total": 916
+  },
+  "genres": [
+    "tennessee experimental"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb39359ef92719013059bb3a70",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517439359ef92719013059bb3a70",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17839359ef92719013059bb3a70",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1MvvtvDxR26LUL1mFc6aik"
+  }
+}

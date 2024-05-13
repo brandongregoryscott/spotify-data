@@ -1,0 +1,34 @@
+{
+  "id": "4uFZsG1vXrPcvnZ4iSQyrx",
+  "name": "C418",
+  "uri": "spotify:artist:4uFZsG1vXrPcvnZ4iSQyrx",
+  "followers": {
+    "href": null,
+    "total": 895846
+  },
+  "genres": [
+    "pixel",
+    "video game music"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba9b8234e3071836212561d19",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a9b8234e3071836212561d19",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a9b8234e3071836212561d19",
+      "width": 160
+    }
+  ],
+  "popularity": 69,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1AAjJTBa95dYypxjsldn6U",
+  "name": "Poeta",
+  "uri": "spotify:artist:1AAjJTBa95dYypxjsldn6U",
+  "followers": {
+    "href": null,
+    "total": 1591
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb62e6fe5d9e7ca14826771091",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517462e6fe5d9e7ca14826771091",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17862e6fe5d9e7ca14826771091",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1AAjJTBa95dYypxjsldn6U"
+  }
+}

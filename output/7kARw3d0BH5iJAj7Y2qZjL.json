@@ -1,0 +1,33 @@
+{
+  "id": "7kARw3d0BH5iJAj7Y2qZjL",
+  "name": "Thy Behest",
+  "uri": "spotify:artist:7kARw3d0BH5iJAj7Y2qZjL",
+  "followers": {
+    "href": null,
+    "total": 205
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb39f8faabd2988694e7527b54",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517439f8faabd2988694e7527b54",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17839f8faabd2988694e7527b54",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7kARw3d0BH5iJAj7Y2qZjL"
+  }
+}

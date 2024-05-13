@@ -1,0 +1,34 @@
+{
+  "id": "2mB5OvMbiSh0Hm9Df3RFsr",
+  "name": "Blue Desert",
+  "uri": "spotify:artist:2mB5OvMbiSh0Hm9Df3RFsr",
+  "followers": {
+    "href": null,
+    "total": 331
+  },
+  "genres": [
+    "deep soft rock",
+    "swedish melodic rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba971fbd8821a1cfaf8c1a9b6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a971fbd8821a1cfaf8c1a9b6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a971fbd8821a1cfaf8c1a9b6",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2mB5OvMbiSh0Hm9Df3RFsr"
+  }
+}

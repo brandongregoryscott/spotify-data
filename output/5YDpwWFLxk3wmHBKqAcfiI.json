@@ -1,0 +1,34 @@
+{
+  "id": "5YDpwWFLxk3wmHBKqAcfiI",
+  "name": "Pedro Y Pablo",
+  "uri": "spotify:artist:5YDpwWFLxk3wmHBKqAcfiI",
+  "followers": {
+    "href": null,
+    "total": 31183
+  },
+  "genres": [
+    "argentine rock",
+    "rock nacional"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b4ec524f40683f6a3e0f7b42",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b4ec524f40683f6a3e0f7b42",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b4ec524f40683f6a3e0f7b42",
+      "width": 64
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5YDpwWFLxk3wmHBKqAcfiI"
+  }
+}

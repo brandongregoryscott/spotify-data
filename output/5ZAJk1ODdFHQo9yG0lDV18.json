@@ -1,0 +1,34 @@
+{
+  "id": "5ZAJk1ODdFHQo9yG0lDV18",
+  "name": "The Smoke",
+  "uri": "spotify:artist:5ZAJk1ODdFHQo9yG0lDV18",
+  "followers": {
+    "href": null,
+    "total": 19514
+  },
+  "genres": [
+    "classic garage rock",
+    "freakbeat"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27395e7249c897f9d5f3ba49184",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0295e7249c897f9d5f3ba49184",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485195e7249c897f9d5f3ba49184",
+      "width": 64
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ZAJk1ODdFHQo9yG0lDV18"
+  }
+}

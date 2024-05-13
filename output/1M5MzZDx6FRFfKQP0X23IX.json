@@ -1,0 +1,33 @@
+{
+  "id": "1M5MzZDx6FRFfKQP0X23IX",
+  "name": "Volume Five",
+  "uri": "spotify:artist:1M5MzZDx6FRFfKQP0X23IX",
+  "followers": {
+    "href": null,
+    "total": 4254
+  },
+  "genres": [
+    "bluegrass"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ec330cc7bfbec4cfe159b6b0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ec330cc7bfbec4cfe159b6b0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ec330cc7bfbec4cfe159b6b0",
+      "width": 64
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1M5MzZDx6FRFfKQP0X23IX"
+  }
+}

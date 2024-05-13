@@ -1,0 +1,34 @@
+{
+  "id": "481wKctLzcGZyQBWFzUqaT",
+  "name": "Gorgon",
+  "uri": "spotify:artist:481wKctLzcGZyQBWFzUqaT",
+  "followers": {
+    "href": null,
+    "total": 2834
+  },
+  "genres": [
+    "french death metal",
+    "symphonic death metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb74ebfe3cf18f9f64e81b8eda",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517474ebfe3cf18f9f64e81b8eda",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17874ebfe3cf18f9f64e81b8eda",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/481wKctLzcGZyQBWFzUqaT"
+  }
+}

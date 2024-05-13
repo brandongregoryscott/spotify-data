@@ -1,0 +1,33 @@
+{
+  "id": "05XSfDYDORoPmYwzeUzHbT",
+  "name": "Na Drua",
+  "uri": "spotify:artist:05XSfDYDORoPmYwzeUzHbT",
+  "followers": {
+    "href": null,
+    "total": 2939
+  },
+  "genres": [
+    "pacific islands pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27339429e015c8cc5e6a99ef53e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0239429e015c8cc5e6a99ef53e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485139429e015c8cc5e6a99ef53e",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05XSfDYDORoPmYwzeUzHbT"
+  }
+}

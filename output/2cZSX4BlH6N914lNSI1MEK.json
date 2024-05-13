@@ -1,0 +1,33 @@
+{
+  "id": "2cZSX4BlH6N914lNSI1MEK",
+  "name": "Thalamus",
+  "uri": "spotify:artist:2cZSX4BlH6N914lNSI1MEK",
+  "followers": {
+    "href": null,
+    "total": 437
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd954a15b22d3efc712e910ad",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d954a15b22d3efc712e910ad",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d954a15b22d3efc712e910ad",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2cZSX4BlH6N914lNSI1MEK"
+  }
+}

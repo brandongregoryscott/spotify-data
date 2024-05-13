@@ -1,0 +1,33 @@
+{
+  "id": "4BbnO7rZu7AN5Rf4JkwVPs",
+  "name": "Parkcrest",
+  "uri": "spotify:artist:4BbnO7rZu7AN5Rf4JkwVPs",
+  "followers": {
+    "href": null,
+    "total": 613
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e1ce88b3580c16527498b622",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e1ce88b3580c16527498b622",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e1ce88b3580c16527498b622",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4BbnO7rZu7AN5Rf4JkwVPs"
+  }
+}

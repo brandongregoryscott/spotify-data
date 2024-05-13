@@ -1,0 +1,33 @@
+{
+  "id": "6QDYAhNBC9NUBA2VGBcpuV",
+  "name": "Lavoro",
+  "uri": "spotify:artist:6QDYAhNBC9NUBA2VGBcpuV",
+  "followers": {
+    "href": null,
+    "total": 172
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb21077c0067b62e9258c3f61d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517421077c0067b62e9258c3f61d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17821077c0067b62e9258c3f61d",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6QDYAhNBC9NUBA2VGBcpuV"
+  }
+}

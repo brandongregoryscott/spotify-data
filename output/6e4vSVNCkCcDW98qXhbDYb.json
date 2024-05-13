@@ -1,0 +1,33 @@
+{
+  "id": "6e4vSVNCkCcDW98qXhbDYb",
+  "name": "Eli Utter",
+  "uri": "spotify:artist:6e4vSVNCkCcDW98qXhbDYb",
+  "followers": {
+    "href": null,
+    "total": 293
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf70b17ab28ab0af300127807",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f70b17ab28ab0af300127807",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f70b17ab28ab0af300127807",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6e4vSVNCkCcDW98qXhbDYb"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0QYWOfkuwfcclvjU4oywtY",
+  "name": "Yasawa Group",
+  "uri": "spotify:artist:0QYWOfkuwfcclvjU4oywtY",
+  "followers": {
+    "href": null,
+    "total": 1191
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb51315ad3f814670f4942fa9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b51315ad3f814670f4942fa9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b51315ad3f814670f4942fa9",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0QYWOfkuwfcclvjU4oywtY"
+  }
+}

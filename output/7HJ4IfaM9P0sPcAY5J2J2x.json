@@ -1,0 +1,33 @@
+{
+  "id": "7HJ4IfaM9P0sPcAY5J2J2x",
+  "name": "Etelä",
+  "uri": "spotify:artist:7HJ4IfaM9P0sPcAY5J2J2x",
+  "followers": {
+    "href": null,
+    "total": 56
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0e638e9124d1e54098f057c5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051740e638e9124d1e54098f057c5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1780e638e9124d1e54098f057c5",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7HJ4IfaM9P0sPcAY5J2J2x"
+  }
+}

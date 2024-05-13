@@ -1,0 +1,33 @@
+{
+  "id": "0ynkLxgOXBRbdOSFuQVOZx",
+  "name": "Андрусь",
+  "uri": "spotify:artist:0ynkLxgOXBRbdOSFuQVOZx",
+  "followers": {
+    "href": null,
+    "total": 100
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d22b5f307d21c28411b1bd0c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d22b5f307d21c28411b1bd0c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d22b5f307d21c28411b1bd0c",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ynkLxgOXBRbdOSFuQVOZx"
+  }
+}

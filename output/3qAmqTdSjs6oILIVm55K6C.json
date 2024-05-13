@@ -1,0 +1,33 @@
+{
+  "id": "3qAmqTdSjs6oILIVm55K6C",
+  "name": "FEZ",
+  "uri": "spotify:artist:3qAmqTdSjs6oILIVm55K6C",
+  "followers": {
+    "href": null,
+    "total": 782
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb11fa29532a308e3f7abea29b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517411fa29532a308e3f7abea29b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17811fa29532a308e3f7abea29b",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3qAmqTdSjs6oILIVm55K6C"
+  }
+}

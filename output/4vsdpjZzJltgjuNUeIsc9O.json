@@ -1,0 +1,33 @@
+{
+  "id": "4vsdpjZzJltgjuNUeIsc9O",
+  "name": "The Blue Book Project",
+  "uri": "spotify:artist:4vsdpjZzJltgjuNUeIsc9O",
+  "followers": {
+    "href": null,
+    "total": 520
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbb957cd224aa89ec6b3c9101",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bb957cd224aa89ec6b3c9101",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bb957cd224aa89ec6b3c9101",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4vsdpjZzJltgjuNUeIsc9O"
+  }
+}

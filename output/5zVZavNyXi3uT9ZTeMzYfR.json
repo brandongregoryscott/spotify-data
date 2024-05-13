@@ -1,0 +1,33 @@
+{
+  "id": "5zVZavNyXi3uT9ZTeMzYfR",
+  "name": "Alex Eugenio",
+  "uri": "spotify:artist:5zVZavNyXi3uT9ZTeMzYfR",
+  "followers": {
+    "href": null,
+    "total": 3622
+  },
+  "genres": [
+    "ecuadorian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba2a0391c352fc47543482661",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a2a0391c352fc47543482661",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a2a0391c352fc47543482661",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
+  }
+}

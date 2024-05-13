@@ -1,0 +1,33 @@
+{
+  "id": "0xZyWrTfmqLxQLFDiQ7lUb",
+  "name": "Pla Pla Pla",
+  "uri": "spotify:artist:0xZyWrTfmqLxQLFDiQ7lUb",
+  "followers": {
+    "href": null,
+    "total": 428
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb13ac650dfb73c35f3f9fb0e8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517413ac650dfb73c35f3f9fb0e8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17813ac650dfb73c35f3f9fb0e8",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0xZyWrTfmqLxQLFDiQ7lUb"
+  }
+}

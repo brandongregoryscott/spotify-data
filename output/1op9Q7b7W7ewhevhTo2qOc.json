@@ -1,0 +1,33 @@
+{
+  "id": "1op9Q7b7W7ewhevhTo2qOc",
+  "name": "Ginsuke",
+  "uri": "spotify:artist:1op9Q7b7W7ewhevhTo2qOc",
+  "followers": {
+    "href": null,
+    "total": 625
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cc54c30c7d9a6cbe25c701e9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cc54c30c7d9a6cbe25c701e9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cc54c30c7d9a6cbe25c701e9",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1op9Q7b7W7ewhevhTo2qOc"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1hBS01gjcHZLcZbFWMGfoU",
+  "name": "Greber",
+  "uri": "spotify:artist:1hBS01gjcHZLcZbFWMGfoU",
+  "followers": {
+    "href": null,
+    "total": 993
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf27b6594c5dce367626223c0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f27b6594c5dce367626223c0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f27b6594c5dce367626223c0",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1hBS01gjcHZLcZbFWMGfoU"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "2UNMW1OKE0X1cwJHWER67g",
+  "name": "Banda Conmoción",
+  "uri": "spotify:artist:2UNMW1OKE0X1cwJHWER67g",
+  "followers": {
+    "href": null,
+    "total": 72032
+  },
+  "genres": [
+    "banda de bronces",
+    "chicha",
+    "cumbia chilena"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba12e4f2a504cc0d821cd847d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a12e4f2a504cc0d821cd847d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a12e4f2a504cc0d821cd847d",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g"
+  }
+}

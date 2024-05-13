@@ -1,0 +1,33 @@
+{
+  "id": "4XH0SPVy9c92ubASNlXh1l",
+  "name": "etheri",
+  "uri": "spotify:artist:4XH0SPVy9c92ubASNlXh1l",
+  "followers": {
+    "href": null,
+    "total": 175
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb138261d7e0a4e9a5dd1609bb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174138261d7e0a4e9a5dd1609bb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178138261d7e0a4e9a5dd1609bb",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4XH0SPVy9c92ubASNlXh1l"
+  }
+}

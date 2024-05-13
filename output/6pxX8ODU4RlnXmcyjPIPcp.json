@@ -1,0 +1,34 @@
+{
+  "id": "6pxX8ODU4RlnXmcyjPIPcp",
+  "name": "Stars In Stereo",
+  "uri": "spotify:artist:6pxX8ODU4RlnXmcyjPIPcp",
+  "followers": {
+    "href": null,
+    "total": 10382
+  },
+  "genres": [
+    "gothic alternative",
+    "pop emo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736c0ccb649b5a875bd104cc34",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026c0ccb649b5a875bd104cc34",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516c0ccb649b5a875bd104cc34",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6pxX8ODU4RlnXmcyjPIPcp"
+  }
+}

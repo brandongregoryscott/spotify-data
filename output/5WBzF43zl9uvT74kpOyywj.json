@@ -1,0 +1,33 @@
+{
+  "id": "5WBzF43zl9uvT74kpOyywj",
+  "name": "audrey",
+  "uri": "spotify:artist:5WBzF43zl9uvT74kpOyywj",
+  "followers": {
+    "href": null,
+    "total": 5242
+  },
+  "genres": [
+    "modern indie pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe40fe0d295eb74c2dbe4f4e9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e40fe0d295eb74c2dbe4f4e9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e40fe0d295eb74c2dbe4f4e9",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5WBzF43zl9uvT74kpOyywj"
+  }
+}

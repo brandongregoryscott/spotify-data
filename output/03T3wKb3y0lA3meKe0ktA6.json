@@ -1,0 +1,33 @@
+{
+  "id": "03T3wKb3y0lA3meKe0ktA6",
+  "name": "David Portillo",
+  "uri": "spotify:artist:03T3wKb3y0lA3meKe0ktA6",
+  "followers": {
+    "href": null,
+    "total": 177
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27391c4e903c39aa973391d02bb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0291c4e903c39aa973391d02bb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485191c4e903c39aa973391d02bb",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03T3wKb3y0lA3meKe0ktA6"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2xvMW90GTdcJXTzUmBZG6J",
+  "name": "Grizz",
+  "uri": "spotify:artist:2xvMW90GTdcJXTzUmBZG6J",
+  "followers": {
+    "href": null,
+    "total": 7550
+  },
+  "genres": [
+    "cali rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb34b33a0d761be76f4906b08e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517434b33a0d761be76f4906b08e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17834b33a0d761be76f4906b08e",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2xvMW90GTdcJXTzUmBZG6J"
+  }
+}

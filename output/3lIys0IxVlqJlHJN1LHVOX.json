@@ -1,0 +1,33 @@
+{
+  "id": "3lIys0IxVlqJlHJN1LHVOX",
+  "name": "Josh Gray",
+  "uri": "spotify:artist:3lIys0IxVlqJlHJN1LHVOX",
+  "followers": {
+    "href": null,
+    "total": 5563
+  },
+  "genres": [
+    "irish pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3a89de75cbed3f86783bc845",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051743a89de75cbed3f86783bc845",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1783a89de75cbed3f86783bc845",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3lIys0IxVlqJlHJN1LHVOX"
+  }
+}

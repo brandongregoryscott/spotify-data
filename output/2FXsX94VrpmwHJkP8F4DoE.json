@@ -1,0 +1,33 @@
+{
+  "id": "2FXsX94VrpmwHJkP8F4DoE",
+  "name": "Ken Takano",
+  "uri": "spotify:artist:2FXsX94VrpmwHJkP8F4DoE",
+  "followers": {
+    "href": null,
+    "total": 1757
+  },
+  "genres": [
+    "japanese edm"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf99b4f8e1ed5c2e2aa42535a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f99b4f8e1ed5c2e2aa42535a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f99b4f8e1ed5c2e2aa42535a",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2FXsX94VrpmwHJkP8F4DoE"
+  }
+}

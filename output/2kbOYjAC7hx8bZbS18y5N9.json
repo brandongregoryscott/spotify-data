@@ -1,0 +1,33 @@
+{
+  "id": "2kbOYjAC7hx8bZbS18y5N9",
+  "name": "Genotype",
+  "uri": "spotify:artist:2kbOYjAC7hx8bZbS18y5N9",
+  "followers": {
+    "href": null,
+    "total": 242
+  },
+  "genres": [
+    "slayer"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27396c78a0b2373b620c7aaa298",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0296c78a0b2373b620c7aaa298",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485196c78a0b2373b620c7aaa298",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2kbOYjAC7hx8bZbS18y5N9"
+  }
+}

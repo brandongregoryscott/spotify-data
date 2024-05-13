@@ -1,0 +1,33 @@
+{
+  "id": "1Iqo2qaOeMI5xf6bF0I2jB",
+  "name": "Codename Colin",
+  "uri": "spotify:artist:1Iqo2qaOeMI5xf6bF0I2jB",
+  "followers": {
+    "href": null,
+    "total": 1837
+  },
+  "genres": [
+    "modern ska punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaa9670fc2e58e4b0268dedcd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aa9670fc2e58e4b0268dedcd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aa9670fc2e58e4b0268dedcd",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Iqo2qaOeMI5xf6bF0I2jB"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0q9oSteVaQ1lK7LvYMJCdq",
+  "name": "Tiberius",
+  "uri": "spotify:artist:0q9oSteVaQ1lK7LvYMJCdq",
+  "followers": {
+    "href": null,
+    "total": 851
+  },
+  "genres": [
+    "new england shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf1482170a59e9816c0fab8c3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f1482170a59e9816c0fab8c3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f1482170a59e9816c0fab8c3",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0q9oSteVaQ1lK7LvYMJCdq"
+  }
+}

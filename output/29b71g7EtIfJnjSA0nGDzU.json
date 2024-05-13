@@ -1,0 +1,33 @@
+{
+  "id": "29b71g7EtIfJnjSA0nGDzU",
+  "name": "Bonpit",
+  "uri": "spotify:artist:29b71g7EtIfJnjSA0nGDzU",
+  "followers": {
+    "href": null,
+    "total": 90
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb07bac7e6a620b53e983de5ed",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517407bac7e6a620b53e983de5ed",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17807bac7e6a620b53e983de5ed",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/29b71g7EtIfJnjSA0nGDzU"
+  }
+}

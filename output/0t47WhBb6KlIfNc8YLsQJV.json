@@ -1,0 +1,33 @@
+{
+  "id": "0t47WhBb6KlIfNc8YLsQJV",
+  "name": "Noti Rose",
+  "uri": "spotify:artist:0t47WhBb6KlIfNc8YLsQJV",
+  "followers": {
+    "href": null,
+    "total": 535
+  },
+  "genres": [
+    "hyperpop francais"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4ba60a9d669ca0386654f5e5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744ba60a9d669ca0386654f5e5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784ba60a9d669ca0386654f5e5",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0t47WhBb6KlIfNc8YLsQJV"
+  }
+}

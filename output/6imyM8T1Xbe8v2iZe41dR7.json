@@ -1,0 +1,37 @@
+{
+  "id": "6imyM8T1Xbe8v2iZe41dR7",
+  "name": "Haircut 100",
+  "uri": "spotify:artist:6imyM8T1Xbe8v2iZe41dR7",
+  "followers": {
+    "href": null,
+    "total": 80768
+  },
+  "genres": [
+    "brit funk",
+    "new romantic",
+    "new wave",
+    "new wave pop",
+    "sophisti-pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb257f67466ca2650734d2d3cc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174257f67466ca2650734d2d3cc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178257f67466ca2650734d2d3cc",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7"
+  }
+}

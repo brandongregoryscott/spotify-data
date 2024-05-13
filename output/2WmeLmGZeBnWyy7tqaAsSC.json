@@ -1,0 +1,33 @@
+{
+  "id": "2WmeLmGZeBnWyy7tqaAsSC",
+  "name": "Johnny",
+  "uri": "spotify:artist:2WmeLmGZeBnWyy7tqaAsSC",
+  "followers": {
+    "href": null,
+    "total": 508
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732cb6dd4853cbe81ee95dedd1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022cb6dd4853cbe81ee95dedd1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512cb6dd4853cbe81ee95dedd1",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2WmeLmGZeBnWyy7tqaAsSC"
+  }
+}

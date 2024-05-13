@@ -1,0 +1,33 @@
+{
+  "id": "5bUZA6A9fh1mx9APanxlbl",
+  "name": "John Jin Han",
+  "uri": "spotify:artist:5bUZA6A9fh1mx9APanxlbl",
+  "followers": {
+    "href": null,
+    "total": 13626
+  },
+  "genres": [
+    "christian lo-fi"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba81636f08baafe085794d449",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a81636f08baafe085794d449",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a81636f08baafe085794d449",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
+  }
+}

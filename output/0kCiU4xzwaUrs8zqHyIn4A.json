@@ -1,0 +1,33 @@
+{
+  "id": "0kCiU4xzwaUrs8zqHyIn4A",
+  "name": "Entendres",
+  "uri": "spotify:artist:0kCiU4xzwaUrs8zqHyIn4A",
+  "followers": {
+    "href": null,
+    "total": 80
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb357ce1b62e407e93725804cc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174357ce1b62e407e93725804cc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178357ce1b62e407e93725804cc",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0kCiU4xzwaUrs8zqHyIn4A"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "11teMrCZ2iEch5ufwIlKz5",
+  "name": "Abbacook",
+  "uri": "spotify:artist:11teMrCZ2iEch5ufwIlKz5",
+  "followers": {
+    "href": null,
+    "total": 1654
+  },
+  "genres": [
+    "ecuadorian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb861ddcdc36f077108ec8a92e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174861ddcdc36f077108ec8a92e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178861ddcdc36f077108ec8a92e",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/11teMrCZ2iEch5ufwIlKz5"
+  }
+}

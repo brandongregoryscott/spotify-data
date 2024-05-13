@@ -1,0 +1,33 @@
+{
+  "id": "25IXuAkHwKstioRUdP9Tcv",
+  "name": "Muncle",
+  "uri": "spotify:artist:25IXuAkHwKstioRUdP9Tcv",
+  "followers": {
+    "href": null,
+    "total": 393
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb68e6fce6855922efc6b8e12e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517468e6fce6855922efc6b8e12e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17868e6fce6855922efc6b8e12e",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/25IXuAkHwKstioRUdP9Tcv"
+  }
+}

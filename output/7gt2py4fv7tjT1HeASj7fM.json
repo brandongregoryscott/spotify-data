@@ -1,0 +1,33 @@
+{
+  "id": "7gt2py4fv7tjT1HeASj7fM",
+  "name": "Matlocano",
+  "uri": "spotify:artist:7gt2py4fv7tjT1HeASj7fM",
+  "followers": {
+    "href": null,
+    "total": 613
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbf20c30e48c0788291364ce3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bf20c30e48c0788291364ce3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bf20c30e48c0788291364ce3",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7gt2py4fv7tjT1HeASj7fM"
+  }
+}

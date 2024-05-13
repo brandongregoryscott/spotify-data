@@ -1,0 +1,33 @@
+{
+  "id": "00HjX9YkzlWnX9FUoQrRSr",
+  "name": "Fúnez",
+  "uri": "spotify:artist:00HjX9YkzlWnX9FUoQrRSr",
+  "followers": {
+    "href": null,
+    "total": 174
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc372fddbf4d483d92a74af57",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c372fddbf4d483d92a74af57",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c372fddbf4d483d92a74af57",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/00HjX9YkzlWnX9FUoQrRSr"
+  }
+}

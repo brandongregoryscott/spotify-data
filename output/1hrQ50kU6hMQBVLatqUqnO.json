@@ -1,0 +1,35 @@
+{
+  "id": "1hrQ50kU6hMQBVLatqUqnO",
+  "name": "Gentle Giant",
+  "uri": "spotify:artist:1hrQ50kU6hMQBVLatqUqnO",
+  "followers": {
+    "href": null,
+    "total": 224882
+  },
+  "genres": [
+    "progressive rock",
+    "symphonic rock",
+    "zolo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba66894a8af6541d3019e1d7a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a66894a8af6541d3019e1d7a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a66894a8af6541d3019e1d7a",
+      "width": 160
+    }
+  ],
+  "popularity": 37,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1hrQ50kU6hMQBVLatqUqnO"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "64yfCJi1EI4gRX344xAwNb",
+  "name": "Morgan",
+  "uri": "spotify:artist:64yfCJi1EI4gRX344xAwNb",
+  "followers": {
+    "href": null,
+    "total": 210
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27379cc5b481c2701e597e208eb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0279cc5b481c2701e597e208eb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485179cc5b481c2701e597e208eb",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/64yfCJi1EI4gRX344xAwNb"
+  }
+}

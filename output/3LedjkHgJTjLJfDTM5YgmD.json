@@ -1,0 +1,39 @@
+{
+  "id": "3LedjkHgJTjLJfDTM5YgmD",
+  "name": "Pacific Air",
+  "uri": "spotify:artist:3LedjkHgJTjLJfDTM5YgmD",
+  "followers": {
+    "href": null,
+    "total": 37570
+  },
+  "genres": [
+    "la indie",
+    "shimmer pop"
+  ],
+  "images": [
+    {
+      "height": 563,
+      "url": "https://i.scdn.co/image/afc0f220fb4baac59bdd77e9a40690da01e0efb5",
+      "width": 1000
+    },
+    {
+      "height": 360,
+      "url": "https://i.scdn.co/image/c1d61d986eebb767f7507a96bd6053f887475b31",
+      "width": 640
+    },
+    {
+      "height": 113,
+      "url": "https://i.scdn.co/image/63313f15c0af60a06ddd1238f98e6ff0fd1d5fc9",
+      "width": 200
+    },
+    {
+      "height": 36,
+      "url": "https://i.scdn.co/image/fa05ea886336f6124446b468a70fdda6051dfa3e",
+      "width": 64
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3LedjkHgJTjLJfDTM5YgmD"
+  }
+}

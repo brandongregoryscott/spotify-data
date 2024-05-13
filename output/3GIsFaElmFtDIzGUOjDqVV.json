@@ -1,0 +1,33 @@
+{
+  "id": "3GIsFaElmFtDIzGUOjDqVV",
+  "name": "Edison Gracia",
+  "uri": "spotify:artist:3GIsFaElmFtDIzGUOjDqVV",
+  "followers": {
+    "href": null,
+    "total": 443
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb88afbfc1fad5f03f14962763",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517488afbfc1fad5f03f14962763",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17888afbfc1fad5f03f14962763",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3GIsFaElmFtDIzGUOjDqVV"
+  }
+}

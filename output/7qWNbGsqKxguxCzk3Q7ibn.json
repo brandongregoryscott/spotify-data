@@ -1,0 +1,33 @@
+{
+  "id": "7qWNbGsqKxguxCzk3Q7ibn",
+  "name": "Ana Nieto",
+  "uri": "spotify:artist:7qWNbGsqKxguxCzk3Q7ibn",
+  "followers": {
+    "href": null,
+    "total": 1452
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb74fe82e232b0eaf2038acf7e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517474fe82e232b0eaf2038acf7e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17874fe82e232b0eaf2038acf7e",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7qWNbGsqKxguxCzk3Q7ibn"
+  }
+}

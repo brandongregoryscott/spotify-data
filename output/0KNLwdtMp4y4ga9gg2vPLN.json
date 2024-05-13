@@ -1,0 +1,33 @@
+{
+  "id": "0KNLwdtMp4y4ga9gg2vPLN",
+  "name": "The Seashells",
+  "uri": "spotify:artist:0KNLwdtMp4y4ga9gg2vPLN",
+  "followers": {
+    "href": null,
+    "total": 165
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27350fe7029029598d50571d8a5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0250fe7029029598d50571d8a5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485150fe7029029598d50571d8a5",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0KNLwdtMp4y4ga9gg2vPLN"
+  }
+}

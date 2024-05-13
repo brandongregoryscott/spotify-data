@@ -1,0 +1,33 @@
+{
+  "id": "0OYlBcKOnyzn3bfNwP045s",
+  "name": "Key Range",
+  "uri": "spotify:artist:0OYlBcKOnyzn3bfNwP045s",
+  "followers": {
+    "href": null,
+    "total": 301
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735685629581e70a992c4a63ef",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025685629581e70a992c4a63ef",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515685629581e70a992c4a63ef",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0OYlBcKOnyzn3bfNwP045s"
+  }
+}

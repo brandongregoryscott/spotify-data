@@ -1,0 +1,34 @@
+{
+  "id": "2hrCx105ESveVsAIRbohbp",
+  "name": "The Gorgeous",
+  "uri": "spotify:artist:2hrCx105ESveVsAIRbohbp",
+  "followers": {
+    "href": null,
+    "total": 1282
+  },
+  "genres": [
+    "canadian metal",
+    "canadian metalcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730bd97ad1b51cb2b94038bbdb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020bd97ad1b51cb2b94038bbdb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510bd97ad1b51cb2b94038bbdb",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2hrCx105ESveVsAIRbohbp"
+  }
+}

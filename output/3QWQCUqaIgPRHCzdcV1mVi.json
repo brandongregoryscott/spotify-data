@@ -1,0 +1,33 @@
+{
+  "id": "3QWQCUqaIgPRHCzdcV1mVi",
+  "name": "Nils Albin",
+  "uri": "spotify:artist:3QWQCUqaIgPRHCzdcV1mVi",
+  "followers": {
+    "href": null,
+    "total": 541
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4d86534e896f9065d363f44c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744d86534e896f9065d363f44c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784d86534e896f9065d363f44c",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3QWQCUqaIgPRHCzdcV1mVi"
+  }
+}

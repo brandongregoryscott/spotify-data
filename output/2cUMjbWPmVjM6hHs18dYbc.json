@@ -1,0 +1,33 @@
+{
+  "id": "2cUMjbWPmVjM6hHs18dYbc",
+  "name": "Theo Gramal",
+  "uri": "spotify:artist:2cUMjbWPmVjM6hHs18dYbc",
+  "followers": {
+    "href": null,
+    "total": 1362
+  },
+  "genres": [
+    "ethnotronica"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf1133884c4150faea6c2bd3c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f1133884c4150faea6c2bd3c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f1133884c4150faea6c2bd3c",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2cUMjbWPmVjM6hHs18dYbc"
+  }
+}

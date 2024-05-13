@@ -1,0 +1,33 @@
+{
+  "id": "1XhrYMtvNX9WPIKxAK8Q1o",
+  "name": "Brandon James",
+  "uri": "spotify:artist:1XhrYMtvNX9WPIKxAK8Q1o",
+  "followers": {
+    "href": null,
+    "total": 270
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb83a6a98e0ca2a444fe458388",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517483a6a98e0ca2a444fe458388",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17883a6a98e0ca2a444fe458388",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1XhrYMtvNX9WPIKxAK8Q1o"
+  }
+}

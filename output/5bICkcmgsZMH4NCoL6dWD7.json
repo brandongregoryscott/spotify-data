@@ -1,0 +1,33 @@
+{
+  "id": "5bICkcmgsZMH4NCoL6dWD7",
+  "name": "A Room With A View",
+  "uri": "spotify:artist:5bICkcmgsZMH4NCoL6dWD7",
+  "followers": {
+    "href": null,
+    "total": 871
+  },
+  "genres": [
+    "spanish indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735fc264c28d54b65f507fd736",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025fc264c28d54b65f507fd736",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515fc264c28d54b65f507fd736",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5bICkcmgsZMH4NCoL6dWD7"
+  }
+}

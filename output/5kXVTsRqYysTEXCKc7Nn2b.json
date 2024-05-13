@@ -1,0 +1,33 @@
+{
+  "id": "5kXVTsRqYysTEXCKc7Nn2b",
+  "name": "Miguel Sebastián",
+  "uri": "spotify:artist:5kXVTsRqYysTEXCKc7Nn2b",
+  "followers": {
+    "href": null,
+    "total": 245
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd404d30044a2a6ebfbd51b54",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d404d30044a2a6ebfbd51b54",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d404d30044a2a6ebfbd51b54",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5kXVTsRqYysTEXCKc7Nn2b"
+  }
+}

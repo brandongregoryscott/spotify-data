@@ -1,0 +1,34 @@
+{
+  "id": "4bmJFapr7wQD6xdjcqWjcL",
+  "name": "Danny Scrilla",
+  "uri": "spotify:artist:4bmJFapr7wQD6xdjcqWjcL",
+  "followers": {
+    "href": null,
+    "total": 3036
+  },
+  "genres": [
+    "classic dubstep",
+    "minimal dubstep"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb584dcab1deb35532b5d593c9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174584dcab1deb35532b5d593c9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178584dcab1deb35532b5d593c9",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4bmJFapr7wQD6xdjcqWjcL"
+  }
+}

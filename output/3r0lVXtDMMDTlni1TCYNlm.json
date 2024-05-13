@@ -1,0 +1,33 @@
+{
+  "id": "3r0lVXtDMMDTlni1TCYNlm",
+  "name": "DudeyLo",
+  "uri": "spotify:artist:3r0lVXtDMMDTlni1TCYNlm",
+  "followers": {
+    "href": null,
+    "total": 53922
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb87200af36353ef28fc437ebf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517487200af36353ef28fc437ebf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17887200af36353ef28fc437ebf",
+      "width": 160
+    }
+  ],
+  "popularity": 47,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3r0lVXtDMMDTlni1TCYNlm"
+  }
+}

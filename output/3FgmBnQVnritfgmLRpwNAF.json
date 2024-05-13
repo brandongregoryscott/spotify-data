@@ -1,0 +1,33 @@
+{
+  "id": "3FgmBnQVnritfgmLRpwNAF",
+  "name": "Knopha",
+  "uri": "spotify:artist:3FgmBnQVnritfgmLRpwNAF",
+  "followers": {
+    "href": null,
+    "total": 2033
+  },
+  "genres": [
+    "chinese electronic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb299bb8f6191d8de0205c2fc0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174299bb8f6191d8de0205c2fc0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178299bb8f6191d8de0205c2fc0",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3FgmBnQVnritfgmLRpwNAF"
+  }
+}

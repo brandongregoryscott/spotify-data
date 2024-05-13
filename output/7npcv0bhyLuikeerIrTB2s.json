@@ -1,0 +1,33 @@
+{
+  "id": "7npcv0bhyLuikeerIrTB2s",
+  "name": "REND",
+  "uri": "spotify:artist:7npcv0bhyLuikeerIrTB2s",
+  "followers": {
+    "href": null,
+    "total": 141
+  },
+  "genres": [
+    "australian hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc01d27b9a8aa843d90e8e3ee",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c01d27b9a8aa843d90e8e3ee",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c01d27b9a8aa843d90e8e3ee",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7npcv0bhyLuikeerIrTB2s"
+  }
+}

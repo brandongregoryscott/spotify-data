@@ -1,0 +1,33 @@
+{
+  "id": "4rYQsVuUcrRicKYLrPXwaX",
+  "name": "LMG",
+  "uri": "spotify:artist:4rYQsVuUcrRicKYLrPXwaX",
+  "followers": {
+    "href": null,
+    "total": 98
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfdfc15e60c56e7c85f4a1633",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fdfc15e60c56e7c85f4a1633",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fdfc15e60c56e7c85f4a1633",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4rYQsVuUcrRicKYLrPXwaX"
+  }
+}

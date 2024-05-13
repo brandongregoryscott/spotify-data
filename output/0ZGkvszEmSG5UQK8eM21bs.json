@@ -1,0 +1,33 @@
+{
+  "id": "0ZGkvszEmSG5UQK8eM21bs",
+  "name": "GUTTR",
+  "uri": "spotify:artist:0ZGkvszEmSG5UQK8eM21bs",
+  "followers": {
+    "href": null,
+    "total": 194
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf702829423c4983085aba392",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f702829423c4983085aba392",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f702829423c4983085aba392",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ZGkvszEmSG5UQK8eM21bs"
+  }
+}

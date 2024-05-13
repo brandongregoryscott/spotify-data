@@ -1,0 +1,33 @@
+{
+  "id": "2uvjBPtLvi2PDULWXfb1r5",
+  "name": "lordMixer",
+  "uri": "spotify:artist:2uvjBPtLvi2PDULWXfb1r5",
+  "followers": {
+    "href": null,
+    "total": 172
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebee92abfc8895cb00391cd341",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ee92abfc8895cb00391cd341",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ee92abfc8895cb00391cd341",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2uvjBPtLvi2PDULWXfb1r5"
+  }
+}

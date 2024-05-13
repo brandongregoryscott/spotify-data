@@ -1,0 +1,33 @@
+{
+  "id": "2MMCUWmp86dMo1chojpcIh",
+  "name": "HAINA",
+  "uri": "spotify:artist:2MMCUWmp86dMo1chojpcIh",
+  "followers": {
+    "href": null,
+    "total": 175
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731046b8e74da08e67ba6c9eda",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021046b8e74da08e67ba6c9eda",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511046b8e74da08e67ba6c9eda",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2MMCUWmp86dMo1chojpcIh"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2NFrAuh8RQdQoS7iYFbckw",
+  "name": "The Midnight",
+  "uri": "spotify:artist:2NFrAuh8RQdQoS7iYFbckw",
+  "followers": {
+    "href": null,
+    "total": 477954
+  },
+  "genres": [
+    "nightrun",
+    "popwave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb681c2ca7f2625b5f6182a735",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174681c2ca7f2625b5f6182a735",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178681c2ca7f2625b5f6182a735",
+      "width": 160
+    }
+  ],
+  "popularity": 55,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+  }
+}

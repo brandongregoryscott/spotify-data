@@ -1,0 +1,33 @@
+{
+  "id": "1rxMZxcNgJiXunlNSAq8pY",
+  "name": "S1orDie",
+  "uri": "spotify:artist:1rxMZxcNgJiXunlNSAq8pY",
+  "followers": {
+    "href": null,
+    "total": 172
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe5b8deb9d81b33150cc48ff4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e5b8deb9d81b33150cc48ff4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e5b8deb9d81b33150cc48ff4",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1rxMZxcNgJiXunlNSAq8pY"
+  }
+}

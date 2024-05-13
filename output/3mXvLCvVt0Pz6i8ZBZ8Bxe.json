@@ -1,0 +1,33 @@
+{
+  "id": "3mXvLCvVt0Pz6i8ZBZ8Bxe",
+  "name": "Pääesiintyjät",
+  "uri": "spotify:artist:3mXvLCvVt0Pz6i8ZBZ8Bxe",
+  "followers": {
+    "href": null,
+    "total": 1058
+  },
+  "genres": [
+    "finnish rockabilly"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba0378a2b3966380791601d33",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a0378a2b3966380791601d33",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a0378a2b3966380791601d33",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3mXvLCvVt0Pz6i8ZBZ8Bxe"
+  }
+}

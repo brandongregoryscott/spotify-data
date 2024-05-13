@@ -1,0 +1,33 @@
+{
+  "id": "10zmmBw4Q2rjA520wyJ5mA",
+  "name": "Nadia Schilling",
+  "uri": "spotify:artist:10zmmBw4Q2rjA520wyJ5mA",
+  "followers": {
+    "href": null,
+    "total": 1360
+  },
+  "genres": [
+    "portuguese indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb10d6b6e9853f84667b7bc777",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517410d6b6e9853f84667b7bc777",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17810d6b6e9853f84667b7bc777",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/10zmmBw4Q2rjA520wyJ5mA"
+  }
+}

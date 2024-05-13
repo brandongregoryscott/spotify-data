@@ -1,0 +1,34 @@
+{
+  "id": "59kMSenXIhQwX7AE20Danj",
+  "name": "3TM",
+  "uri": "spotify:artist:59kMSenXIhQwX7AE20Danj",
+  "followers": {
+    "href": null,
+    "total": 842
+  },
+  "genres": [
+    "finnish jazz",
+    "finnish modern jazz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738b1bbddc016fb39289dbd447",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028b1bbddc016fb39289dbd447",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518b1bbddc016fb39289dbd447",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/59kMSenXIhQwX7AE20Danj"
+  }
+}

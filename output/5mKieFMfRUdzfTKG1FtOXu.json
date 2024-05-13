@@ -1,0 +1,33 @@
+{
+  "id": "5mKieFMfRUdzfTKG1FtOXu",
+  "name": "Garage Sale",
+  "uri": "spotify:artist:5mKieFMfRUdzfTKG1FtOXu",
+  "followers": {
+    "href": null,
+    "total": 1568
+  },
+  "genres": [
+    "australian shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb565feeff8c3fcf541c77c069",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174565feeff8c3fcf541c77c069",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178565feeff8c3fcf541c77c069",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5mKieFMfRUdzfTKG1FtOXu"
+  }
+}

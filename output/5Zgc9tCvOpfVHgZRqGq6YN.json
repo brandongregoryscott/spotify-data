@@ -1,0 +1,33 @@
+{
+  "id": "5Zgc9tCvOpfVHgZRqGq6YN",
+  "name": "STD",
+  "uri": "spotify:artist:5Zgc9tCvOpfVHgZRqGq6YN",
+  "followers": {
+    "href": null,
+    "total": 169
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb44cd9879feda543024c95daf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517444cd9879feda543024c95daf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17844cd9879feda543024c95daf",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Zgc9tCvOpfVHgZRqGq6YN"
+  }
+}

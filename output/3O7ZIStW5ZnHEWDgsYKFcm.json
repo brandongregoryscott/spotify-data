@@ -1,0 +1,33 @@
+{
+  "id": "3O7ZIStW5ZnHEWDgsYKFcm",
+  "name": "Strange Relic",
+  "uri": "spotify:artist:3O7ZIStW5ZnHEWDgsYKFcm",
+  "followers": {
+    "href": null,
+    "total": 68
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb856622e5ff20d7dbfc53d3d2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174856622e5ff20d7dbfc53d3d2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178856622e5ff20d7dbfc53d3d2",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3O7ZIStW5ZnHEWDgsYKFcm"
+  }
+}

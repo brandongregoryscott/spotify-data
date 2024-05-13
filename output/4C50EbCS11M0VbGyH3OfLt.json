@@ -1,0 +1,36 @@
+{
+  "id": "4C50EbCS11M0VbGyH3OfLt",
+  "name": "Bahamas",
+  "uri": "spotify:artist:4C50EbCS11M0VbGyH3OfLt",
+  "followers": {
+    "href": null,
+    "total": 386070
+  },
+  "genres": [
+    "canadian indie",
+    "canadian singer-songwriter",
+    "indie folk",
+    "stomp and holler"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9b253d0247e6d9336bc16386",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051749b253d0247e6d9336bc16386",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1789b253d0247e6d9336bc16386",
+      "width": 160
+    }
+  ],
+  "popularity": 56,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+  }
+}

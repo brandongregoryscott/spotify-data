@@ -1,0 +1,33 @@
+{
+  "id": "17HyF3SKSdYAx8d6zNDfJn",
+  "name": "alles wird ganz schlimm",
+  "uri": "spotify:artist:17HyF3SKSdYAx8d6zNDfJn",
+  "followers": {
+    "href": null,
+    "total": 225
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb88b6e8a014b8b077b57673e2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517488b6e8a014b8b077b57673e2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17888b6e8a014b8b077b57673e2",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/17HyF3SKSdYAx8d6zNDfJn"
+  }
+}

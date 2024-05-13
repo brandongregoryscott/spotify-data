@@ -1,0 +1,33 @@
+{
+  "id": "6BXPKNLud1YZ1WtGLYpPxb",
+  "name": "//DLM",
+  "uri": "spotify:artist:6BXPKNLud1YZ1WtGLYpPxb",
+  "followers": {
+    "href": null,
+    "total": 228
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebad66c663bcb91e496b49c728",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ad66c663bcb91e496b49c728",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ad66c663bcb91e496b49c728",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6BXPKNLud1YZ1WtGLYpPxb"
+  }
+}

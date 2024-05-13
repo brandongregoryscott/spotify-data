@@ -1,0 +1,33 @@
+{
+  "id": "7e8XTlwnMmi6ugkr0fryfB",
+  "name": "Mint",
+  "uri": "spotify:artist:7e8XTlwnMmi6ugkr0fryfB",
+  "followers": {
+    "href": null,
+    "total": 1669
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb85393fce2b942c165a7e3c5a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517485393fce2b942c165a7e3c5a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17885393fce2b942c165a7e3c5a",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7e8XTlwnMmi6ugkr0fryfB"
+  }
+}

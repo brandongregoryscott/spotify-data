@@ -1,0 +1,33 @@
+{
+  "id": "0VsU6iPTvo3KmiaYJr03wb",
+  "name": "ELEL",
+  "uri": "spotify:artist:0VsU6iPTvo3KmiaYJr03wb",
+  "followers": {
+    "href": null,
+    "total": 5985
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdad7959572896608310a9bf1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dad7959572896608310a9bf1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dad7959572896608310a9bf1",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0VsU6iPTvo3KmiaYJr03wb"
+  }
+}

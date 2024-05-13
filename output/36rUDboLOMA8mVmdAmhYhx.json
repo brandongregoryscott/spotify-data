@@ -1,0 +1,33 @@
+{
+  "id": "36rUDboLOMA8mVmdAmhYhx",
+  "name": "josé rosero",
+  "uri": "spotify:artist:36rUDboLOMA8mVmdAmhYhx",
+  "followers": {
+    "href": null,
+    "total": 489
+  },
+  "genres": [
+    "ecuadorian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbe89d087041341884efed59f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174be89d087041341884efed59f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178be89d087041341884efed59f",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/36rUDboLOMA8mVmdAmhYhx"
+  }
+}

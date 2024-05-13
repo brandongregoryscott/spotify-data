@@ -1,0 +1,33 @@
+{
+  "id": "35hkM33EelCBJTIKZtyFxY",
+  "name": "Astrachan",
+  "uri": "spotify:artist:35hkM33EelCBJTIKZtyFxY",
+  "followers": {
+    "href": null,
+    "total": 1087
+  },
+  "genres": [
+    "modern indie folk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb840995f8af48824722333288",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174840995f8af48824722333288",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178840995f8af48824722333288",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/35hkM33EelCBJTIKZtyFxY"
+  }
+}

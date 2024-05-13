@@ -1,0 +1,33 @@
+{
+  "id": "2Sxk29xXHEO6v3YPddHqHz",
+  "name": "Solace Music",
+  "uri": "spotify:artist:2Sxk29xXHEO6v3YPddHqHz",
+  "followers": {
+    "href": null,
+    "total": 490
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebab9c98d93f2f4ae0298f519d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ab9c98d93f2f4ae0298f519d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ab9c98d93f2f4ae0298f519d",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Sxk29xXHEO6v3YPddHqHz"
+  }
+}

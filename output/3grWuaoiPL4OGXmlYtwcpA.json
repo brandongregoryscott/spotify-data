@@ -1,0 +1,33 @@
+{
+  "id": "3grWuaoiPL4OGXmlYtwcpA",
+  "name": "Benjamin P",
+  "uri": "spotify:artist:3grWuaoiPL4OGXmlYtwcpA",
+  "followers": {
+    "href": null,
+    "total": 31
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfae522b68ec08c7f6191dd06",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fae522b68ec08c7f6191dd06",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fae522b68ec08c7f6191dd06",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3grWuaoiPL4OGXmlYtwcpA"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "42QZ5QH8mtRjcIDbuFwUHz",
+  "name": "The Effens",
+  "uri": "spotify:artist:42QZ5QH8mtRjcIDbuFwUHz",
+  "followers": {
+    "href": null,
+    "total": 1076
+  },
+  "genres": [
+    "toronto indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebea7675e912c1fa5a64241524",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ea7675e912c1fa5a64241524",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ea7675e912c1fa5a64241524",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/42QZ5QH8mtRjcIDbuFwUHz"
+  }
+}

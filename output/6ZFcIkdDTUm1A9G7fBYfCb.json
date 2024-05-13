@@ -1,0 +1,33 @@
+{
+  "id": "6ZFcIkdDTUm1A9G7fBYfCb",
+  "name": "The Buckle Downs",
+  "uri": "spotify:artist:6ZFcIkdDTUm1A9G7fBYfCb",
+  "followers": {
+    "href": null,
+    "total": 217
+  },
+  "genres": [
+    "pittsburgh indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb42ced1a84bd0a75d848bccaa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517442ced1a84bd0a75d848bccaa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17842ced1a84bd0a75d848bccaa",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ZFcIkdDTUm1A9G7fBYfCb"
+  }
+}

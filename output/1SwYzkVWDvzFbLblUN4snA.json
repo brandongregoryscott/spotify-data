@@ -1,0 +1,34 @@
+{
+  "id": "1SwYzkVWDvzFbLblUN4snA",
+  "name": "Rocky Badd",
+  "uri": "spotify:artist:1SwYzkVWDvzFbLblUN4snA",
+  "followers": {
+    "href": null,
+    "total": 114557
+  },
+  "genres": [
+    "detroit trap",
+    "trap queen"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc07aa13a117d02bb9e769c99",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c07aa13a117d02bb9e769c99",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c07aa13a117d02bb9e769c99",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1SwYzkVWDvzFbLblUN4snA"
+  }
+}

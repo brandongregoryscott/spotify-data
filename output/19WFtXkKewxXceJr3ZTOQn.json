@@ -1,0 +1,33 @@
+{
+  "id": "19WFtXkKewxXceJr3ZTOQn",
+  "name": "first selection",
+  "uri": "spotify:artist:19WFtXkKewxXceJr3ZTOQn",
+  "followers": {
+    "href": null,
+    "total": 91
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d3330d3bb4430bb17d1a0fd0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d3330d3bb4430bb17d1a0fd0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d3330d3bb4430bb17d1a0fd0",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/19WFtXkKewxXceJr3ZTOQn"
+  }
+}

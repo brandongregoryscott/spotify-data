@@ -1,0 +1,33 @@
+{
+  "id": "5q7KcaajItZSuRrg4AHsnQ",
+  "name": "Wil Wagner",
+  "uri": "spotify:artist:5q7KcaajItZSuRrg4AHsnQ",
+  "followers": {
+    "href": null,
+    "total": 9920
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc1fef59a7413691fbf34e39a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c1fef59a7413691fbf34e39a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c1fef59a7413691fbf34e39a",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5q7KcaajItZSuRrg4AHsnQ"
+  }
+}

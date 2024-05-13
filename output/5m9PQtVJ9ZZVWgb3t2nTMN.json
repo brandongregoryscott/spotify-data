@@ -1,0 +1,33 @@
+{
+  "id": "5m9PQtVJ9ZZVWgb3t2nTMN",
+  "name": "ur pretty",
+  "uri": "spotify:artist:5m9PQtVJ9ZZVWgb3t2nTMN",
+  "followers": {
+    "href": null,
+    "total": 59171
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb00145d4bcf1756ae14202b06",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517400145d4bcf1756ae14202b06",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17800145d4bcf1756ae14202b06",
+      "width": 160
+    }
+  ],
+  "popularity": 39,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5m9PQtVJ9ZZVWgb3t2nTMN"
+  }
+}

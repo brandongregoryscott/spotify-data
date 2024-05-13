@@ -1,0 +1,33 @@
+{
+  "id": "51HnpJJT6a8hyCoV5GSxMT",
+  "name": "Toople",
+  "uri": "spotify:artist:51HnpJJT6a8hyCoV5GSxMT",
+  "followers": {
+    "href": null,
+    "total": 335
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f52e74d6b479311bcd8ba52e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f52e74d6b479311bcd8ba52e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f52e74d6b479311bcd8ba52e",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/51HnpJJT6a8hyCoV5GSxMT"
+  }
+}

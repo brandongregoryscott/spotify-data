@@ -1,0 +1,33 @@
+{
+  "id": "7yIXpmzY9JgSz34xyzkXw5",
+  "name": "Pepe Stay",
+  "uri": "spotify:artist:7yIXpmzY9JgSz34xyzkXw5",
+  "followers": {
+    "href": null,
+    "total": 65
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb6c6e2d89b55606de285d27e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b6c6e2d89b55606de285d27e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b6c6e2d89b55606de285d27e",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7yIXpmzY9JgSz34xyzkXw5"
+  }
+}

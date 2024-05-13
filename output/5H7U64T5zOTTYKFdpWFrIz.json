@@ -1,0 +1,33 @@
+{
+  "id": "5H7U64T5zOTTYKFdpWFrIz",
+  "name": "Catoni",
+  "uri": "spotify:artist:5H7U64T5zOTTYKFdpWFrIz",
+  "followers": {
+    "href": null,
+    "total": 2832
+  },
+  "genres": [
+    "blues latinoamericano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb52d716202a43b11518d6a486",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517452d716202a43b11518d6a486",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17852d716202a43b11518d6a486",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5H7U64T5zOTTYKFdpWFrIz"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3cHv5sziE7NPu4vjOwTSpl",
+  "name": "Omar Cassius",
+  "uri": "spotify:artist:3cHv5sziE7NPu4vjOwTSpl",
+  "followers": {
+    "href": null,
+    "total": 612
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb421b3d03c9d80bb5011fa17c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174421b3d03c9d80bb5011fa17c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178421b3d03c9d80bb5011fa17c",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3cHv5sziE7NPu4vjOwTSpl"
+  }
+}

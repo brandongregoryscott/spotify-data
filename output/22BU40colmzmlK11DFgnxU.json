@@ -1,0 +1,35 @@
+{
+  "id": "22BU40colmzmlK11DFgnxU",
+  "name": "Anchorlines",
+  "uri": "spotify:artist:22BU40colmzmlK11DFgnxU",
+  "followers": {
+    "href": null,
+    "total": 3050
+  },
+  "genres": [
+    "deep melodic metalcore",
+    "electronicore",
+    "post-post-hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732d0192ba6615d180b59a8451",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022d0192ba6615d180b59a8451",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512d0192ba6615d180b59a8451",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/22BU40colmzmlK11DFgnxU"
+  }
+}

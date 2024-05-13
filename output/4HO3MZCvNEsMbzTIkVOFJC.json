@@ -1,0 +1,33 @@
+{
+  "id": "4HO3MZCvNEsMbzTIkVOFJC",
+  "name": "Wapper",
+  "uri": "spotify:artist:4HO3MZCvNEsMbzTIkVOFJC",
+  "followers": {
+    "href": null,
+    "total": 180
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730003ea1037f2515b8b874e6d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020003ea1037f2515b8b874e6d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510003ea1037f2515b8b874e6d",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4HO3MZCvNEsMbzTIkVOFJC"
+  }
+}

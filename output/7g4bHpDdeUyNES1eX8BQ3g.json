@@ -1,0 +1,33 @@
+{
+  "id": "7g4bHpDdeUyNES1eX8BQ3g",
+  "name": "fab",
+  "uri": "spotify:artist:7g4bHpDdeUyNES1eX8BQ3g",
+  "followers": {
+    "href": null,
+    "total": 2168
+  },
+  "genres": [
+    "detroit trap brasileiro"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebea84059cbdecc130e26bb069",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ea84059cbdecc130e26bb069",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ea84059cbdecc130e26bb069",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7g4bHpDdeUyNES1eX8BQ3g"
+  }
+}

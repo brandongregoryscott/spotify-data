@@ -1,0 +1,34 @@
+{
+  "id": "6mCBPqNFGyt9lCKY4vPlEp",
+  "name": "Portugal",
+  "uri": "spotify:artist:6mCBPqNFGyt9lCKY4vPlEp",
+  "followers": {
+    "href": null,
+    "total": 7828
+  },
+  "genres": [
+    "chilean indie",
+    "chilean rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb6b74800bd5253059ce0b9cb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b6b74800bd5253059ce0b9cb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b6b74800bd5253059ce0b9cb",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6mCBPqNFGyt9lCKY4vPlEp"
+  }
+}

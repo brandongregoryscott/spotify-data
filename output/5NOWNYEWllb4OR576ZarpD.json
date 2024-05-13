@@ -1,0 +1,33 @@
+{
+  "id": "5NOWNYEWllb4OR576ZarpD",
+  "name": "C7",
+  "uri": "spotify:artist:5NOWNYEWllb4OR576ZarpD",
+  "followers": {
+    "href": null,
+    "total": 1959
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb496a7a95f2c9b34cbeed09df",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174496a7a95f2c9b34cbeed09df",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178496a7a95f2c9b34cbeed09df",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5NOWNYEWllb4OR576ZarpD"
+  }
+}

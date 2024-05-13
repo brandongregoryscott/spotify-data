@@ -1,0 +1,33 @@
+{
+  "id": "42nowukOoW0rp92KeC01Xi",
+  "name": "Outlaw1",
+  "uri": "spotify:artist:42nowukOoW0rp92KeC01Xi",
+  "followers": {
+    "href": null,
+    "total": 328
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273656918b062bee25f445d0cc5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02656918b062bee25f445d0cc5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851656918b062bee25f445d0cc5",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/42nowukOoW0rp92KeC01Xi"
+  }
+}

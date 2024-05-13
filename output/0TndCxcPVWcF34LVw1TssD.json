@@ -1,0 +1,33 @@
+{
+  "id": "0TndCxcPVWcF34LVw1TssD",
+  "name": "午前五時",
+  "uri": "spotify:artist:0TndCxcPVWcF34LVw1TssD",
+  "followers": {
+    "href": null,
+    "total": 164
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb05da80e1bc2a5c8b73f2bf97",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517405da80e1bc2a5c8b73f2bf97",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17805da80e1bc2a5c8b73f2bf97",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0TndCxcPVWcF34LVw1TssD"
+  }
+}

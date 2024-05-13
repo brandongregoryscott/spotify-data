@@ -1,0 +1,33 @@
+{
+  "id": "5jl6mC0dm7jYVUXboRI5H2",
+  "name": "Oracle",
+  "uri": "spotify:artist:5jl6mC0dm7jYVUXboRI5H2",
+  "followers": {
+    "href": null,
+    "total": 239
+  },
+  "genres": [
+    "belfast metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27325aa1d80725cec819e01472b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0225aa1d80725cec819e01472b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485125aa1d80725cec819e01472b",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5jl6mC0dm7jYVUXboRI5H2"
+  }
+}

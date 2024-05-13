@@ -1,0 +1,35 @@
+{
+  "id": "0KPHupxNcc9XMQ0SSn3LKo",
+  "name": "Dënver",
+  "uri": "spotify:artist:0KPHupxNcc9XMQ0SSn3LKo",
+  "followers": {
+    "href": null,
+    "total": 57063
+  },
+  "genres": [
+    "chilean indie",
+    "chilean rock",
+    "pop electronico"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb16b26ceda26b566d6c3a6266",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517416b26ceda26b566d6c3a6266",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17816b26ceda26b566d6c3a6266",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0KPHupxNcc9XMQ0SSn3LKo"
+  }
+}

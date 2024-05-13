@@ -1,0 +1,33 @@
+{
+  "id": "1NCPSuEn4tCtPesgOnqSQN",
+  "name": "Philly",
+  "uri": "spotify:artist:1NCPSuEn4tCtPesgOnqSQN",
+  "followers": {
+    "href": null,
+    "total": 111
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27325470c4f48134311d1681581",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0225470c4f48134311d1681581",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485125470c4f48134311d1681581",
+      "width": 64
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1NCPSuEn4tCtPesgOnqSQN"
+  }
+}

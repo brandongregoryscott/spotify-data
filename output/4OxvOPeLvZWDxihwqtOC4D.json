@@ -1,0 +1,33 @@
+{
+  "id": "4OxvOPeLvZWDxihwqtOC4D",
+  "name": "boyband",
+  "uri": "spotify:artist:4OxvOPeLvZWDxihwqtOC4D",
+  "followers": {
+    "href": null,
+    "total": 6391
+  },
+  "genres": [
+    "indie hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf9f9634e782275f6e3a49d95",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f9f9634e782275f6e3a49d95",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f9f9634e782275f6e3a49d95",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4OxvOPeLvZWDxihwqtOC4D"
+  }
+}

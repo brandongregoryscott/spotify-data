@@ -1,0 +1,33 @@
+{
+  "id": "5KK5MndcuwW2aSgwSsPJiz",
+  "name": "Retrieval",
+  "uri": "spotify:artist:5KK5MndcuwW2aSgwSsPJiz",
+  "followers": {
+    "href": null,
+    "total": 217
+  },
+  "genres": [
+    "african shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735512ed535e2e7f7ae00ae98c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025512ed535e2e7f7ae00ae98c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515512ed535e2e7f7ae00ae98c",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5KK5MndcuwW2aSgwSsPJiz"
+  }
+}

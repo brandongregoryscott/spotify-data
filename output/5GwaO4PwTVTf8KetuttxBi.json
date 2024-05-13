@@ -1,0 +1,33 @@
+{
+  "id": "5GwaO4PwTVTf8KetuttxBi",
+  "name": "Dag",
+  "uri": "spotify:artist:5GwaO4PwTVTf8KetuttxBi",
+  "followers": {
+    "href": null,
+    "total": 576
+  },
+  "genres": [
+    "australian indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebff98b281dbd2f6f9640ff92a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ff98b281dbd2f6f9640ff92a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ff98b281dbd2f6f9640ff92a",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5GwaO4PwTVTf8KetuttxBi"
+  }
+}

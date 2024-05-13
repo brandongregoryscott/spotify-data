@@ -1,0 +1,35 @@
+{
+  "id": "4Dghr6IbymdYuMDUEybhUR",
+  "name": "Gryphon",
+  "uri": "spotify:artist:4Dghr6IbymdYuMDUEybhUR",
+  "followers": {
+    "href": null,
+    "total": 33536
+  },
+  "genres": [
+    "flute rock",
+    "progressive rock",
+    "symphonic rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735a41e7a1b9f7f09ea3034732",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025a41e7a1b9f7f09ea3034732",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515a41e7a1b9f7f09ea3034732",
+      "width": 64
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Dghr6IbymdYuMDUEybhUR"
+  }
+}

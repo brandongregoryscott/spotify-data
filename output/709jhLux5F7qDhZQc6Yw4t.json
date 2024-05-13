@@ -1,0 +1,33 @@
+{
+  "id": "709jhLux5F7qDhZQc6Yw4t",
+  "name": "Belmondo",
+  "uri": "spotify:artist:709jhLux5F7qDhZQc6Yw4t",
+  "followers": {
+    "href": null,
+    "total": 639
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebae4023d03e7e2930b343bad0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ae4023d03e7e2930b343bad0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ae4023d03e7e2930b343bad0",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/709jhLux5F7qDhZQc6Yw4t"
+  }
+}

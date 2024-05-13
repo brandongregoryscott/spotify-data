@@ -1,0 +1,33 @@
+{
+  "id": "4NX7a8XlnO7P3ueyvOGkDN",
+  "name": "BOBI",
+  "uri": "spotify:artist:4NX7a8XlnO7P3ueyvOGkDN",
+  "followers": {
+    "href": null,
+    "total": 473
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb06fcf306ace93dab7e251bca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517406fcf306ace93dab7e251bca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17806fcf306ace93dab7e251bca",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4NX7a8XlnO7P3ueyvOGkDN"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1f2cZp7JhAJZcMgoC9wHjv",
+  "name": "Hostility",
+  "uri": "spotify:artist:1f2cZp7JhAJZcMgoC9wHjv",
+  "followers": {
+    "href": null,
+    "total": 96
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc200ea3b9b1a5564244bdd2d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c200ea3b9b1a5564244bdd2d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c200ea3b9b1a5564244bdd2d",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1f2cZp7JhAJZcMgoC9wHjv"
+  }
+}

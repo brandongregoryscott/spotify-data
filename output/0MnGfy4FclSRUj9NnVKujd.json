@@ -1,0 +1,33 @@
+{
+  "id": "0MnGfy4FclSRUj9NnVKujd",
+  "name": "Alex Cherney",
+  "uri": "spotify:artist:0MnGfy4FclSRUj9NnVKujd",
+  "followers": {
+    "href": null,
+    "total": 1316
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb251c97cefbf9a97ff52bd8df",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174251c97cefbf9a97ff52bd8df",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178251c97cefbf9a97ff52bd8df",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0MnGfy4FclSRUj9NnVKujd"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3yDUn2Y7Izcoit1cKUl8kE",
+  "name": "Young Other",
+  "uri": "spotify:artist:3yDUn2Y7Izcoit1cKUl8kE",
+  "followers": {
+    "href": null,
+    "total": 1013
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaeb3fc3ac594b118105425b9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aeb3fc3ac594b118105425b9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aeb3fc3ac594b118105425b9",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3yDUn2Y7Izcoit1cKUl8kE"
+  }
+}

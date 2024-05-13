@@ -1,0 +1,34 @@
+{
+  "id": "0rQNrF6amURGSFkECQhpfv",
+  "name": "Amandra",
+  "uri": "spotify:artist:0rQNrF6amURGSFkECQhpfv",
+  "followers": {
+    "href": null,
+    "total": 4079
+  },
+  "genres": [
+    "ambient techno",
+    "hypnotic techno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb67c4c16345fb270ab5209286",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517467c4c16345fb270ab5209286",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17867c4c16345fb270ab5209286",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0rQNrF6amURGSFkECQhpfv"
+  }
+}

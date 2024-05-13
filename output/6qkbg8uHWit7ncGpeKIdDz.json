@@ -1,0 +1,34 @@
+{
+  "id": "6qkbg8uHWit7ncGpeKIdDz",
+  "name": "Santiago Rebelde",
+  "uri": "spotify:artist:6qkbg8uHWit7ncGpeKIdDz",
+  "followers": {
+    "href": null,
+    "total": 4593
+  },
+  "genres": [
+    "punk chileno",
+    "ska chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dc3c129e5c00f62de024ec29",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dc3c129e5c00f62de024ec29",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dc3c129e5c00f62de024ec29",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6qkbg8uHWit7ncGpeKIdDz"
+  }
+}

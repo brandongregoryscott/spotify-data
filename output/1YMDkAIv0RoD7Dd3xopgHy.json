@@ -1,0 +1,33 @@
+{
+  "id": "1YMDkAIv0RoD7Dd3xopgHy",
+  "name": "In Tempest",
+  "uri": "spotify:artist:1YMDkAIv0RoD7Dd3xopgHy",
+  "followers": {
+    "href": null,
+    "total": 276
+  },
+  "genres": [
+    "aggro chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4d647a29de2f6f950d43178a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744d647a29de2f6f950d43178a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784d647a29de2f6f950d43178a",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1YMDkAIv0RoD7Dd3xopgHy"
+  }
+}

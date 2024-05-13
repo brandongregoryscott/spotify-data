@@ -1,0 +1,34 @@
+{
+  "id": "3iWXaK2ztxcwFVtCX3QsKV",
+  "name": "Twin Tones",
+  "uri": "spotify:artist:3iWXaK2ztxcwFVtCX3QsKV",
+  "followers": {
+    "href": null,
+    "total": 7687
+  },
+  "genres": [
+    "latin surf rock",
+    "mexican rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba5272d0ef35dda48e6d64a36",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a5272d0ef35dda48e6d64a36",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a5272d0ef35dda48e6d64a36",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3iWXaK2ztxcwFVtCX3QsKV"
+  }
+}

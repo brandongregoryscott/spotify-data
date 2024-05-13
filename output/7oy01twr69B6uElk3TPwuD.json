@@ -1,0 +1,33 @@
+{
+  "id": "7oy01twr69B6uElk3TPwuD",
+  "name": "Neat",
+  "uri": "spotify:artist:7oy01twr69B6uElk3TPwuD",
+  "followers": {
+    "href": null,
+    "total": 40
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27373302cafa1a76f83fe7a8efa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0273302cafa1a76f83fe7a8efa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485173302cafa1a76f83fe7a8efa",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7oy01twr69B6uElk3TPwuD"
+  }
+}

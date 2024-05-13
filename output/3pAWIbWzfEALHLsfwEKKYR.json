@@ -1,0 +1,33 @@
+{
+  "id": "3pAWIbWzfEALHLsfwEKKYR",
+  "name": "Blindside",
+  "uri": "spotify:artist:3pAWIbWzfEALHLsfwEKKYR",
+  "followers": {
+    "href": null,
+    "total": 349
+  },
+  "genres": [
+    "australian hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdeae2cdb73493aa510066098",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174deae2cdb73493aa510066098",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178deae2cdb73493aa510066098",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3pAWIbWzfEALHLsfwEKKYR"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6tPLRbaYWgZXppgsyKQ2M5",
+  "name": "Javier Calamaro",
+  "uri": "spotify:artist:6tPLRbaYWgZXppgsyKQ2M5",
+  "followers": {
+    "href": null,
+    "total": 97395
+  },
+  "genres": [
+    "argentine rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb78a06d349df5bdab56dc2313",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517478a06d349df5bdab56dc2313",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17878a06d349df5bdab56dc2313",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6tPLRbaYWgZXppgsyKQ2M5"
+  }
+}

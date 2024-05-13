@@ -1,0 +1,34 @@
+{
+  "id": "1PTEiCpkzNkLNgMi1LL8JR",
+  "name": "Laurence Guy",
+  "uri": "spotify:artist:1PTEiCpkzNkLNgMi1LL8JR",
+  "followers": {
+    "href": null,
+    "total": 57925
+  },
+  "genres": [
+    "float house",
+    "jazz house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdda7c73adb9ba55304a50937",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dda7c73adb9ba55304a50937",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dda7c73adb9ba55304a50937",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+  }
+}

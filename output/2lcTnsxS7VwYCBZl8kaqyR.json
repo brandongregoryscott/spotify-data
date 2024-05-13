@@ -1,0 +1,34 @@
+{
+  "id": "2lcTnsxS7VwYCBZl8kaqyR",
+  "name": "Saariselka",
+  "uri": "spotify:artist:2lcTnsxS7VwYCBZl8kaqyR",
+  "followers": {
+    "href": null,
+    "total": 1099
+  },
+  "genres": [
+    "experimental synth",
+    "pastoral"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb670ebebea3d56213381cf51",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b670ebebea3d56213381cf51",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b670ebebea3d56213381cf51",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2lcTnsxS7VwYCBZl8kaqyR"
+  }
+}

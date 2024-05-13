@@ -1,0 +1,33 @@
+{
+  "id": "2JoY5chli17CvhLnVgLlPr",
+  "name": "Aden",
+  "uri": "spotify:artist:2JoY5chli17CvhLnVgLlPr",
+  "followers": {
+    "href": null,
+    "total": 1014
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a6bfbdde281922d09784d14d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a6bfbdde281922d09784d14d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a6bfbdde281922d09784d14d",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2JoY5chli17CvhLnVgLlPr"
+  }
+}

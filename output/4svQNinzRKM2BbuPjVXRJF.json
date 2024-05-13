@@ -1,0 +1,34 @@
+{
+  "id": "4svQNinzRKM2BbuPjVXRJF",
+  "name": "Vision Video",
+  "uri": "spotify:artist:4svQNinzRKM2BbuPjVXRJF",
+  "followers": {
+    "href": null,
+    "total": 58365
+  },
+  "genres": [
+    "american post-punk",
+    "modern goth"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe89ce26eb4a8b14c94f87447",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e89ce26eb4a8b14c94f87447",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e89ce26eb4a8b14c94f87447",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4svQNinzRKM2BbuPjVXRJF"
+  }
+}

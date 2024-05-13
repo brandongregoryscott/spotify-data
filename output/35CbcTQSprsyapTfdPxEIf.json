@@ -1,0 +1,35 @@
+{
+  "id": "35CbcTQSprsyapTfdPxEIf",
+  "name": "The Barbarians",
+  "uri": "spotify:artist:35CbcTQSprsyapTfdPxEIf",
+  "followers": {
+    "href": null,
+    "total": 8811
+  },
+  "genres": [
+    "classic garage rock",
+    "deep classic garage rock",
+    "protopunk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27341a09551cd3a77b6bc5a7088",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0241a09551cd3a77b6bc5a7088",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485141a09551cd3a77b6bc5a7088",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/35CbcTQSprsyapTfdPxEIf"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2kmOxqEHDmHXnkOGSSwEu3",
+  "name": "Pretty Trash",
+  "uri": "spotify:artist:2kmOxqEHDmHXnkOGSSwEu3",
+  "followers": {
+    "href": null,
+    "total": 53
+  },
+  "genres": [
+    "trap boliviano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273560c7105d7c76a095a602d72",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02560c7105d7c76a095a602d72",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851560c7105d7c76a095a602d72",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2kmOxqEHDmHXnkOGSSwEu3"
+  }
+}

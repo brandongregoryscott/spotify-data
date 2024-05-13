@@ -1,0 +1,33 @@
+{
+  "id": "1TCrt66TQ2EWptUaKv3C0z",
+  "name": "Blackboxx",
+  "uri": "spotify:artist:1TCrt66TQ2EWptUaKv3C0z",
+  "followers": {
+    "href": null,
+    "total": 3650
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb79e7f07da29dc0c7efe10448",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517479e7f07da29dc0c7efe10448",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17879e7f07da29dc0c7efe10448",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1TCrt66TQ2EWptUaKv3C0z"
+  }
+}

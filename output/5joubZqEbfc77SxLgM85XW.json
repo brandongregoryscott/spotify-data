@@ -1,0 +1,33 @@
+{
+  "id": "5joubZqEbfc77SxLgM85XW",
+  "name": "Andy Wood",
+  "uri": "spotify:artist:5joubZqEbfc77SxLgM85XW",
+  "followers": {
+    "href": null,
+    "total": 5853
+  },
+  "genres": [
+    "shred"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27343ea488c763022f664b5c40b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0243ea488c763022f664b5c40b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485143ea488c763022f664b5c40b",
+      "width": 64
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5joubZqEbfc77SxLgM85XW"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "79rcJZTSZcSE7SzPdc4xGO",
+  "name": "ZEN P",
+  "uri": "spotify:artist:79rcJZTSZcSE7SzPdc4xGO",
+  "followers": {
+    "href": null,
+    "total": 4759
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfba1f42028255985546f1c9e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fba1f42028255985546f1c9e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fba1f42028255985546f1c9e",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/79rcJZTSZcSE7SzPdc4xGO"
+  }
+}

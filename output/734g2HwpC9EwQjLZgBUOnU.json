@@ -1,0 +1,33 @@
+{
+  "id": "734g2HwpC9EwQjLZgBUOnU",
+  "name": "GNAC",
+  "uri": "spotify:artist:734g2HwpC9EwQjLZgBUOnU",
+  "followers": {
+    "href": null,
+    "total": 406
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf902ff6847c3c2ccd24d9a7b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f902ff6847c3c2ccd24d9a7b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f902ff6847c3c2ccd24d9a7b",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/734g2HwpC9EwQjLZgBUOnU"
+  }
+}

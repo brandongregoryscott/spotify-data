@@ -1,0 +1,33 @@
+{
+  "id": "3mzLKZcg7ibddIdhm2rL3q",
+  "name": "Sweet 75",
+  "uri": "spotify:artist:3mzLKZcg7ibddIdhm2rL3q",
+  "followers": {
+    "href": null,
+    "total": 1582
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e39214565278de049e4f831e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e39214565278de049e4f831e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e39214565278de049e4f831e",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3mzLKZcg7ibddIdhm2rL3q"
+  }
+}

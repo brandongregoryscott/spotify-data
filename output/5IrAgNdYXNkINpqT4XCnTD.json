@@ -1,0 +1,36 @@
+{
+  "id": "5IrAgNdYXNkINpqT4XCnTD",
+  "name": "Limbonic Art",
+  "uri": "spotify:artist:5IrAgNdYXNkINpqT4XCnTD",
+  "followers": {
+    "href": null,
+    "total": 40308
+  },
+  "genres": [
+    "black metal",
+    "norwegian black metal",
+    "norwegian metal",
+    "symphonic black metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb497df9fe776c67cb33f7f352",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174497df9fe776c67cb33f7f352",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178497df9fe776c67cb33f7f352",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5IrAgNdYXNkINpqT4XCnTD"
+  }
+}

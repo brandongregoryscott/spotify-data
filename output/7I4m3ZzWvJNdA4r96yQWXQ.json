@@ -1,0 +1,33 @@
+{
+  "id": "7I4m3ZzWvJNdA4r96yQWXQ",
+  "name": "SHiPPO",
+  "uri": "spotify:artist:7I4m3ZzWvJNdA4r96yQWXQ",
+  "followers": {
+    "href": null,
+    "total": 103
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb63042e9a90641ddb71146bcb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517463042e9a90641ddb71146bcb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17863042e9a90641ddb71146bcb",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7I4m3ZzWvJNdA4r96yQWXQ"
+  }
+}

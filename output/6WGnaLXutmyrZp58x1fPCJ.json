@@ -1,0 +1,33 @@
+{
+  "id": "6WGnaLXutmyrZp58x1fPCJ",
+  "name": "Matriarkaatti",
+  "uri": "spotify:artist:6WGnaLXutmyrZp58x1fPCJ",
+  "followers": {
+    "href": null,
+    "total": 609
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb81152a0553be56e86b41c705",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517481152a0553be56e86b41c705",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17881152a0553be56e86b41c705",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6WGnaLXutmyrZp58x1fPCJ"
+  }
+}

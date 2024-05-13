@@ -1,0 +1,33 @@
+{
+  "id": "13eymWSy2WLXQuNrphM4ze",
+  "name": "Hammmy",
+  "uri": "spotify:artist:13eymWSy2WLXQuNrphM4ze",
+  "followers": {
+    "href": null,
+    "total": 243
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0d9959099811712832656c9a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051740d9959099811712832656c9a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1780d9959099811712832656c9a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/13eymWSy2WLXQuNrphM4ze"
+  }
+}
