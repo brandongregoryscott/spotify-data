@@ -1,0 +1,34 @@
+{
+  "id": "7Gr24jPhrhEIy0IFU9VMOe",
+  "name": "Artonoise",
+  "uri": "spotify:artist:7Gr24jPhrhEIy0IFU9VMOe",
+  "followers": {
+    "href": null,
+    "total": 3016
+  },
+  "genres": [
+    "hardwave",
+    "wave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd7c23606b61801659dd7a027",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d7c23606b61801659dd7a027",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d7c23606b61801659dd7a027",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7Gr24jPhrhEIy0IFU9VMOe"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0BFG1QbcRKPny71AbK7Xrf",
+  "name": "deepsix",
+  "uri": "spotify:artist:0BFG1QbcRKPny71AbK7Xrf",
+  "followers": {
+    "href": null,
+    "total": 1369
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb37e9a995dbde7845296679ea",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517437e9a995dbde7845296679ea",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17837e9a995dbde7845296679ea",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0BFG1QbcRKPny71AbK7Xrf"
+  }
+}

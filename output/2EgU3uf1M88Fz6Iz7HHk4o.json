@@ -1,0 +1,33 @@
+{
+  "id": "2EgU3uf1M88Fz6Iz7HHk4o",
+  "name": "Alice Bro",
+  "uri": "spotify:artist:2EgU3uf1M88Fz6Iz7HHk4o",
+  "followers": {
+    "href": null,
+    "total": 190
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27338afa921c9ba439161848c5c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0238afa921c9ba439161848c5c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485138afa921c9ba439161848c5c",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2EgU3uf1M88Fz6Iz7HHk4o"
+  }
+}

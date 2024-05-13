@@ -1,0 +1,33 @@
+{
+  "id": "06IqmaeYyii3Eo7KTISh7O",
+  "name": "Panssarijuna",
+  "uri": "spotify:artist:06IqmaeYyii3Eo7KTISh7O",
+  "followers": {
+    "href": null,
+    "total": 980
+  },
+  "genres": [
+    "finnish indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb24de7e343945ed6664003215",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517424de7e343945ed6664003215",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17824de7e343945ed6664003215",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/06IqmaeYyii3Eo7KTISh7O"
+  }
+}

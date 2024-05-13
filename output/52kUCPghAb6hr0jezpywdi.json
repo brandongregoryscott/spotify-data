@@ -1,0 +1,33 @@
+{
+  "id": "52kUCPghAb6hr0jezpywdi",
+  "name": "Skrface",
+  "uri": "spotify:artist:52kUCPghAb6hr0jezpywdi",
+  "followers": {
+    "href": null,
+    "total": 257
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba88200dd51e1e09e44d6a68e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a88200dd51e1e09e44d6a68e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a88200dd51e1e09e44d6a68e",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/52kUCPghAb6hr0jezpywdi"
+  }
+}

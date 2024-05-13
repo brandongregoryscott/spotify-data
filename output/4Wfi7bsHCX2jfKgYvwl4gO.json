@@ -1,0 +1,34 @@
+{
+  "id": "4Wfi7bsHCX2jfKgYvwl4gO",
+  "name": "Iglú",
+  "uri": "spotify:artist:4Wfi7bsHCX2jfKgYvwl4gO",
+  "followers": {
+    "href": null,
+    "total": 1892
+  },
+  "genres": [
+    "indie catala",
+    "musica catalana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb85344ee1f51638e2404cd7cf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517485344ee1f51638e2404cd7cf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17885344ee1f51638e2404cd7cf",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Wfi7bsHCX2jfKgYvwl4gO"
+  }
+}

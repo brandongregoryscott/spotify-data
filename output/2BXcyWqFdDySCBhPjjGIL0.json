@@ -1,0 +1,33 @@
+{
+  "id": "2BXcyWqFdDySCBhPjjGIL0",
+  "name": "Emily How",
+  "uri": "spotify:artist:2BXcyWqFdDySCBhPjjGIL0",
+  "followers": {
+    "href": null,
+    "total": 872
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb268c50099b966a62ac0cf58c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174268c50099b966a62ac0cf58c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178268c50099b966a62ac0cf58c",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2BXcyWqFdDySCBhPjjGIL0"
+  }
+}

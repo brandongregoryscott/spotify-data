@@ -1,0 +1,34 @@
+{
+  "id": "5rv6OYiDFLm0gQ8wbihOib",
+  "name": "Muddy Monk",
+  "uri": "spotify:artist:5rv6OYiDFLm0gQ8wbihOib",
+  "followers": {
+    "href": null,
+    "total": 54422
+  },
+  "genres": [
+    "french indie pop",
+    "french indietronica"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf7fb837af64d09aca0378ade",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f7fb837af64d09aca0378ade",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f7fb837af64d09aca0378ade",
+      "width": 160
+    }
+  ],
+  "popularity": 39,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5vRkO0ppbqtttKTD8ggtze",
+  "name": "LiKouri",
+  "uri": "spotify:artist:5vRkO0ppbqtttKTD8ggtze",
+  "followers": {
+    "href": null,
+    "total": 420
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb93ac8118e0cd155bea54946d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517493ac8118e0cd155bea54946d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17893ac8118e0cd155bea54946d",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5vRkO0ppbqtttKTD8ggtze"
+  }
+}

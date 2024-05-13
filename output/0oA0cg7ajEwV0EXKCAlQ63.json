@@ -1,0 +1,35 @@
+{
+  "id": "0oA0cg7ajEwV0EXKCAlQ63",
+  "name": "Pépite",
+  "uri": "spotify:artist:0oA0cg7ajEwV0EXKCAlQ63",
+  "followers": {
+    "href": null,
+    "total": 70845
+  },
+  "genres": [
+    "french indie pop",
+    "french indietronica",
+    "french psychedelic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb60bceba5d2a43a10544e6425",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517460bceba5d2a43a10544e6425",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17860bceba5d2a43a10544e6425",
+      "width": 160
+    }
+  ],
+  "popularity": 41,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63"
+  }
+}

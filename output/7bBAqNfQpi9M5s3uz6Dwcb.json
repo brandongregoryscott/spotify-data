@@ -1,0 +1,35 @@
+{
+  "id": "7bBAqNfQpi9M5s3uz6Dwcb",
+  "name": "Grand Blanc",
+  "uri": "spotify:artist:7bBAqNfQpi9M5s3uz6Dwcb",
+  "followers": {
+    "href": null,
+    "total": 36507
+  },
+  "genres": [
+    "french indie pop",
+    "french indietronica",
+    "french post-punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb37fbaba22eacfd53ed815e0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b37fbaba22eacfd53ed815e0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b37fbaba22eacfd53ed815e0",
+      "width": 160
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7bBAqNfQpi9M5s3uz6Dwcb"
+  }
+}

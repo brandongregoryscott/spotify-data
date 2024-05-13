@@ -1,0 +1,35 @@
+{
+  "id": "0Rpbml3Nb4VwUiQBniqewl",
+  "name": "Se.",
+  "uri": "spotify:artist:0Rpbml3Nb4VwUiQBniqewl",
+  "followers": {
+    "href": null,
+    "total": 830
+  },
+  "genres": [
+    "classic finnish rock",
+    "finnish new wave",
+    "finnish punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731d3356581b793cb3be209a4c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021d3356581b793cb3be209a4c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511d3356581b793cb3be209a4c",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Rpbml3Nb4VwUiQBniqewl"
+  }
+}

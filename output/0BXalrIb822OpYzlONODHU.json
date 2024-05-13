@@ -1,0 +1,33 @@
+{
+  "id": "0BXalrIb822OpYzlONODHU",
+  "name": "Dweller",
+  "uri": "spotify:artist:0BXalrIb822OpYzlONODHU",
+  "followers": {
+    "href": null,
+    "total": 545
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc49f7a783830979951f64028",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c49f7a783830979951f64028",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c49f7a783830979951f64028",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0BXalrIb822OpYzlONODHU"
+  }
+}

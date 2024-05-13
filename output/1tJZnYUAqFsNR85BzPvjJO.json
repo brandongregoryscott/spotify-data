@@ -1,0 +1,33 @@
+{
+  "id": "1tJZnYUAqFsNR85BzPvjJO",
+  "name": "DM",
+  "uri": "spotify:artist:1tJZnYUAqFsNR85BzPvjJO",
+  "followers": {
+    "href": null,
+    "total": 1902
+  },
+  "genres": [
+    "trap peruano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb798f4ac9e1bddb505bb051a2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174798f4ac9e1bddb505bb051a2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178798f4ac9e1bddb505bb051a2",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1tJZnYUAqFsNR85BzPvjJO"
+  }
+}

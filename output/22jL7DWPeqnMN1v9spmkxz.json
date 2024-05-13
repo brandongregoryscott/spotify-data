@@ -1,0 +1,33 @@
+{
+  "id": "22jL7DWPeqnMN1v9spmkxz",
+  "name": "Monochromatic Black",
+  "uri": "spotify:artist:22jL7DWPeqnMN1v9spmkxz",
+  "followers": {
+    "href": null,
+    "total": 14406
+  },
+  "genres": [
+    "nyc metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8b22f4ad3a8133a876a5e76f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051748b22f4ad3a8133a876a5e76f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1788b22f4ad3a8133a876a5e76f",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/22jL7DWPeqnMN1v9spmkxz"
+  }
+}

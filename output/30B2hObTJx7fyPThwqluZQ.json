@@ -1,0 +1,33 @@
+{
+  "id": "30B2hObTJx7fyPThwqluZQ",
+  "name": "Mile End",
+  "uri": "spotify:artist:30B2hObTJx7fyPThwqluZQ",
+  "followers": {
+    "href": null,
+    "total": 1711
+  },
+  "genres": [
+    "canadian hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebebaef9e33114a3e7d65bc7a3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ebaef9e33114a3e7d65bc7a3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ebaef9e33114a3e7d65bc7a3",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/30B2hObTJx7fyPThwqluZQ"
+  }
+}

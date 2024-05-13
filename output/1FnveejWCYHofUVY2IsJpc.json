@@ -1,0 +1,34 @@
+{
+  "id": "1FnveejWCYHofUVY2IsJpc",
+  "name": "Uønsket",
+  "uri": "spotify:artist:1FnveejWCYHofUVY2IsJpc",
+  "followers": {
+    "href": null,
+    "total": 5030
+  },
+  "genres": [
+    "autonomous black metal",
+    "depressive black metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfe9cd99e324b968ec99524a1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fe9cd99e324b968ec99524a1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fe9cd99e324b968ec99524a1",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1FnveejWCYHofUVY2IsJpc"
+  }
+}

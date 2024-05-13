@@ -1,0 +1,33 @@
+{
+  "id": "3ATA3QUlJLTcDhgAfCGZoN",
+  "name": "Skappository",
+  "uri": "spotify:artist:3ATA3QUlJLTcDhgAfCGZoN",
+  "followers": {
+    "href": null,
+    "total": 302
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0ba2aee09cdfe845b2c992e5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051740ba2aee09cdfe845b2c992e5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1780ba2aee09cdfe845b2c992e5",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ATA3QUlJLTcDhgAfCGZoN"
+  }
+}

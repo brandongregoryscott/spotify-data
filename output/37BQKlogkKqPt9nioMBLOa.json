@@ -1,0 +1,33 @@
+{
+  "id": "37BQKlogkKqPt9nioMBLOa",
+  "name": "AMAKA",
+  "uri": "spotify:artist:37BQKlogkKqPt9nioMBLOa",
+  "followers": {
+    "href": null,
+    "total": 5601
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebba9d1da68862bc48d1d29584",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ba9d1da68862bc48d1d29584",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ba9d1da68862bc48d1d29584",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa"
+  }
+}
