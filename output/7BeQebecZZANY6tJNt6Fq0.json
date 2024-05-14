@@ -1,0 +1,33 @@
+{
+  "id": "7BeQebecZZANY6tJNt6Fq0",
+  "name": "Laaar",
+  "uri": "spotify:artist:7BeQebecZZANY6tJNt6Fq0",
+  "followers": {
+    "href": null,
+    "total": 309
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba0e8d89c16b72b59e0b2a47e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a0e8d89c16b72b59e0b2a47e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a0e8d89c16b72b59e0b2a47e",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7BeQebecZZANY6tJNt6Fq0"
+  }
+}

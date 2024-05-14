@@ -1,0 +1,33 @@
+{
+  "id": "1B62oENW0VGjnBBUvwkYtX",
+  "name": "No Suits",
+  "uri": "spotify:artist:1B62oENW0VGjnBBUvwkYtX",
+  "followers": {
+    "href": null,
+    "total": 28740
+  },
+  "genres": [
+    "la pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfe80c90c82c0b07561baabd3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fe80c90c82c0b07561baabd3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fe80c90c82c0b07561baabd3",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
+  }
+}

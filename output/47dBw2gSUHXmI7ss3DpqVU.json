@@ -1,0 +1,33 @@
+{
+  "id": "47dBw2gSUHXmI7ss3DpqVU",
+  "name": "Whitworth",
+  "uri": "spotify:artist:47dBw2gSUHXmI7ss3DpqVU",
+  "followers": {
+    "href": null,
+    "total": 378
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebae1e9b26aa27a98b84af787f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ae1e9b26aa27a98b84af787f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ae1e9b26aa27a98b84af787f",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/47dBw2gSUHXmI7ss3DpqVU"
+  }
+}

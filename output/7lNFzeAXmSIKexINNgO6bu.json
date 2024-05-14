@@ -1,0 +1,34 @@
+{
+  "id": "7lNFzeAXmSIKexINNgO6bu",
+  "name": "YUZU",
+  "uri": "spotify:artist:7lNFzeAXmSIKexINNgO6bu",
+  "followers": {
+    "href": null,
+    "total": 1838427
+  },
+  "genres": [
+    "j-acoustic",
+    "j-pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe0d830e605eef611a58f83e1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e0d830e605eef611a58f83e1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e0d830e605eef611a58f83e1",
+      "width": 160
+    }
+  ],
+  "popularity": 52,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu"
+  }
+}

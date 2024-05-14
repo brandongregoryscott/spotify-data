@@ -1,0 +1,33 @@
+{
+  "id": "1EdSamhlngcUpFZjMkY9lm",
+  "name": "bleu.",
+  "uri": "spotify:artist:1EdSamhlngcUpFZjMkY9lm",
+  "followers": {
+    "href": null,
+    "total": 129
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb55c1047dd1956cbd969e691e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517455c1047dd1956cbd969e691e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17855c1047dd1956cbd969e691e",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1EdSamhlngcUpFZjMkY9lm"
+  }
+}

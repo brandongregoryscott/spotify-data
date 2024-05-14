@@ -1,0 +1,35 @@
+{
+  "id": "1gW6pz5n1aK249L0GvfQCC",
+  "name": "Grupo Marca Registrada",
+  "uri": "spotify:artist:1gW6pz5n1aK249L0GvfQCC",
+  "followers": {
+    "href": null,
+    "total": 4140420
+  },
+  "genres": [
+    "corrido",
+    "norteno",
+    "sad sierreno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb76ca4fe955321e180196709c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517476ca4fe955321e180196709c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17876ca4fe955321e180196709c",
+      "width": 160
+    }
+  ],
+  "popularity": 76,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+  }
+}

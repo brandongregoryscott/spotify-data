@@ -1,0 +1,33 @@
+{
+  "id": "6WerkWzVHMSZNcyHlsvHkZ",
+  "name": "Mad Splatter",
+  "uri": "spotify:artist:6WerkWzVHMSZNcyHlsvHkZ",
+  "followers": {
+    "href": null,
+    "total": 169
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb12245cd91c1a241396de7b13",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517412245cd91c1a241396de7b13",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17812245cd91c1a241396de7b13",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6WerkWzVHMSZNcyHlsvHkZ"
+  }
+}

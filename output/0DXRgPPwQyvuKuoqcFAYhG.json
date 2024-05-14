@@ -1,0 +1,33 @@
+{
+  "id": "0DXRgPPwQyvuKuoqcFAYhG",
+  "name": "Dday One",
+  "uri": "spotify:artist:0DXRgPPwQyvuKuoqcFAYhG",
+  "followers": {
+    "href": null,
+    "total": 11042
+  },
+  "genres": [
+    "jazz boom bap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbb28f6024a0b0a5464886eee",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bb28f6024a0b0a5464886eee",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bb28f6024a0b0a5464886eee",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0DXRgPPwQyvuKuoqcFAYhG"
+  }
+}

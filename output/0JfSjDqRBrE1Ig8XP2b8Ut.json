@@ -1,0 +1,33 @@
+{
+  "id": "0JfSjDqRBrE1Ig8XP2b8Ut",
+  "name": "Opri",
+  "uri": "spotify:artist:0JfSjDqRBrE1Ig8XP2b8Ut",
+  "followers": {
+    "href": null,
+    "total": 42
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb51ce57a46b5d7c52a5f3b914",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517451ce57a46b5d7c52a5f3b914",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17851ce57a46b5d7c52a5f3b914",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0JfSjDqRBrE1Ig8XP2b8Ut"
+  }
+}

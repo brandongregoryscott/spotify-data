@@ -1,0 +1,33 @@
+{
+  "id": "6qKtzHpEdt8jy1AlVAMINx",
+  "name": "Lukiek",
+  "uri": "spotify:artist:6qKtzHpEdt8jy1AlVAMINx",
+  "followers": {
+    "href": null,
+    "total": 3186
+  },
+  "genres": [
+    "euskal rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb93b68dc208c4c57d2c6cd03b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517493b68dc208c4c57d2c6cd03b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17893b68dc208c4c57d2c6cd03b",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6qKtzHpEdt8jy1AlVAMINx"
+  }
+}

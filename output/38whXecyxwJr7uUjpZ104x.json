@@ -1,0 +1,33 @@
+{
+  "id": "38whXecyxwJr7uUjpZ104x",
+  "name": "The Maguas",
+  "uri": "spotify:artist:38whXecyxwJr7uUjpZ104x",
+  "followers": {
+    "href": null,
+    "total": 22238
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe96aa571f85c1c755db16caa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e96aa571f85c1c755db16caa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e96aa571f85c1c755db16caa",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/38whXecyxwJr7uUjpZ104x"
+  }
+}

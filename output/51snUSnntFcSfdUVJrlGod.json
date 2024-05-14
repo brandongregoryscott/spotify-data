@@ -1,0 +1,33 @@
+{
+  "id": "51snUSnntFcSfdUVJrlGod",
+  "name": "Paulo Domínguez",
+  "uri": "spotify:artist:51snUSnntFcSfdUVJrlGod",
+  "followers": {
+    "href": null,
+    "total": 2680
+  },
+  "genres": [
+    "flamenco urbano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfc18b34fd5da8f4209a28e89",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fc18b34fd5da8f4209a28e89",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fc18b34fd5da8f4209a28e89",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/51snUSnntFcSfdUVJrlGod"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1aEq8wrzOvAxB7UCnxWkIo",
+  "name": "ttypes",
+  "uri": "spotify:artist:1aEq8wrzOvAxB7UCnxWkIo",
+  "followers": {
+    "href": null,
+    "total": 290
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8a3e508df041699e37260a89",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051748a3e508df041699e37260a89",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1788a3e508df041699e37260a89",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1aEq8wrzOvAxB7UCnxWkIo"
+  }
+}

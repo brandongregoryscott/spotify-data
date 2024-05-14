@@ -1,0 +1,33 @@
+{
+  "id": "54GB8DuD49YshGKz82Xjaa",
+  "name": "The Joeys",
+  "uri": "spotify:artist:54GB8DuD49YshGKz82Xjaa",
+  "followers": {
+    "href": null,
+    "total": 1256
+  },
+  "genres": [
+    "phoenix indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb21500949d05f2fd9844e93fa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517421500949d05f2fd9844e93fa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17821500949d05f2fd9844e93fa",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/54GB8DuD49YshGKz82Xjaa"
+  }
+}

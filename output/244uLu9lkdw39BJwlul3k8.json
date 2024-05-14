@@ -1,0 +1,35 @@
+{
+  "id": "244uLu9lkdw39BJwlul3k8",
+  "name": "Perturbator",
+  "uri": "spotify:artist:244uLu9lkdw39BJwlul3k8",
+  "followers": {
+    "href": null,
+    "total": 330214
+  },
+  "genres": [
+    "cyberpunk",
+    "darksynth",
+    "synthwave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdbcfd8406ecc71e967d07426",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dbcfd8406ecc71e967d07426",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dbcfd8406ecc71e967d07426",
+      "width": 160
+    }
+  ],
+  "popularity": 48,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8"
+  }
+}

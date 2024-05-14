@@ -1,0 +1,33 @@
+{
+  "id": "6Gr8Pr6IZBMDmpKcXPf9dj",
+  "name": "Core Fields",
+  "uri": "spotify:artist:6Gr8Pr6IZBMDmpKcXPf9dj",
+  "followers": {
+    "href": null,
+    "total": 69
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd2d609058d4f2bb7a2c733fb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d2d609058d4f2bb7a2c733fb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d2d609058d4f2bb7a2c733fb",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Gr8Pr6IZBMDmpKcXPf9dj"
+  }
+}

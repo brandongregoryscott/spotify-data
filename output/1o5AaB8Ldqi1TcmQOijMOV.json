@@ -1,0 +1,33 @@
+{
+  "id": "1o5AaB8Ldqi1TcmQOijMOV",
+  "name": "Why Bother?",
+  "uri": "spotify:artist:1o5AaB8Ldqi1TcmQOijMOV",
+  "followers": {
+    "href": null,
+    "total": 905
+  },
+  "genres": [
+    "egg punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273afe63171d7a4248c437562e2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02afe63171d7a4248c437562e2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851afe63171d7a4248c437562e2",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1o5AaB8Ldqi1TcmQOijMOV"
+  }
+}

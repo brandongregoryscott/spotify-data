@@ -1,0 +1,33 @@
+{
+  "id": "6uilszU9262frMAHnhcrBG",
+  "name": "eStrial",
+  "uri": "spotify:artist:6uilszU9262frMAHnhcrBG",
+  "followers": {
+    "href": null,
+    "total": 158
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e79c31c6372d0756bd71ff3c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e79c31c6372d0756bd71ff3c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e79c31c6372d0756bd71ff3c",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6uilszU9262frMAHnhcrBG"
+  }
+}

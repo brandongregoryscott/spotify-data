@@ -1,0 +1,33 @@
+{
+  "id": "2JJCqFN5tLwQ2hERG2KnaE",
+  "name": "Eagle",
+  "uri": "spotify:artist:2JJCqFN5tLwQ2hERG2KnaE",
+  "followers": {
+    "href": null,
+    "total": 17
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b1958e04c10df1fa9c35cdbb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b1958e04c10df1fa9c35cdbb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b1958e04c10df1fa9c35cdbb",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2JJCqFN5tLwQ2hERG2KnaE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4ADwE4ARpwi5QYZCTZYaLD",
+  "name": "Tommy Blve",
+  "uri": "spotify:artist:4ADwE4ARpwi5QYZCTZYaLD",
+  "followers": {
+    "href": null,
+    "total": 260
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb738cbcfd59a83d93f80aa49c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174738cbcfd59a83d93f80aa49c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178738cbcfd59a83d93f80aa49c",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4ADwE4ARpwi5QYZCTZYaLD"
+  }
+}

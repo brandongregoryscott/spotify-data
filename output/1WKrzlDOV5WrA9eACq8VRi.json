@@ -1,0 +1,33 @@
+{
+  "id": "1WKrzlDOV5WrA9eACq8VRi",
+  "name": "VIL",
+  "uri": "spotify:artist:1WKrzlDOV5WrA9eACq8VRi",
+  "followers": {
+    "href": null,
+    "total": 4526
+  },
+  "genres": [
+    "hardgroove"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273267946ae6c91b1c46f9d801e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02267946ae6c91b1c46f9d801e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851267946ae6c91b1c46f9d801e",
+      "width": 64
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1WKrzlDOV5WrA9eACq8VRi"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0wXrRTH7KLwJI20OxEbCY6",
+  "name": "Key",
+  "uri": "spotify:artist:0wXrRTH7KLwJI20OxEbCY6",
+  "followers": {
+    "href": null,
+    "total": 104
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb65a8e6a043d3d11ca9542eaf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517465a8e6a043d3d11ca9542eaf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17865a8e6a043d3d11ca9542eaf",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0wXrRTH7KLwJI20OxEbCY6"
+  }
+}

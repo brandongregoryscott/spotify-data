@@ -1,0 +1,33 @@
+{
+  "id": "79O9rCTFMq2EYtngZjxpB9",
+  "name": "Qinn",
+  "uri": "spotify:artist:79O9rCTFMq2EYtngZjxpB9",
+  "followers": {
+    "href": null,
+    "total": 809
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb51efc1f382f0384f16a4ab3b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517451efc1f382f0384f16a4ab3b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17851efc1f382f0384f16a4ab3b",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/79O9rCTFMq2EYtngZjxpB9"
+  }
+}

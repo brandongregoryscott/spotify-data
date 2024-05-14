@@ -1,0 +1,33 @@
+{
+  "id": "7ptF6sBmG9wPc0qEVP6awE",
+  "name": "hikii",
+  "uri": "spotify:artist:7ptF6sBmG9wPc0qEVP6awE",
+  "followers": {
+    "href": null,
+    "total": 170
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebae20b478407566dce822fc50",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ae20b478407566dce822fc50",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ae20b478407566dce822fc50",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ptF6sBmG9wPc0qEVP6awE"
+  }
+}

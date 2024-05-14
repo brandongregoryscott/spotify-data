@@ -1,0 +1,33 @@
+{
+  "id": "1ufLNrESf2WWkEb4ABYkL8",
+  "name": "angeyeah",
+  "uri": "spotify:artist:1ufLNrESf2WWkEb4ABYkL8",
+  "followers": {
+    "href": null,
+    "total": 435
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc83898b83dc6d1617f2111dc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c83898b83dc6d1617f2111dc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c83898b83dc6d1617f2111dc",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ufLNrESf2WWkEb4ABYkL8"
+  }
+}

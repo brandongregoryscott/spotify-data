@@ -1,0 +1,33 @@
+{
+  "id": "2MWdnh5OceGfgxBKynXom7",
+  "name": "doops",
+  "uri": "spotify:artist:2MWdnh5OceGfgxBKynXom7",
+  "followers": {
+    "href": null,
+    "total": 290
+  },
+  "genres": [
+    "reading indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb366df20e9736d120a5fb3441",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174366df20e9736d120a5fb3441",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178366df20e9736d120a5fb3441",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2MWdnh5OceGfgxBKynXom7"
+  }
+}

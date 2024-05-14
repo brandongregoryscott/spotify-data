@@ -1,0 +1,33 @@
+{
+  "id": "3oMaGUWDozILLrqgjTXifw",
+  "name": "Chic Raw",
+  "uri": "spotify:artist:3oMaGUWDozILLrqgjTXifw",
+  "followers": {
+    "href": null,
+    "total": 1906
+  },
+  "genres": [
+    "philly rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebface8768a113aea18d7984be",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174face8768a113aea18d7984be",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178face8768a113aea18d7984be",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3oMaGUWDozILLrqgjTXifw"
+  }
+}

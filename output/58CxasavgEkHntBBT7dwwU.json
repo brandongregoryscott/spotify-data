@@ -1,0 +1,33 @@
+{
+  "id": "58CxasavgEkHntBBT7dwwU",
+  "name": "X14N",
+  "uri": "spotify:artist:58CxasavgEkHntBBT7dwwU",
+  "followers": {
+    "href": null,
+    "total": 44
+  },
+  "genres": [
+    "extratone"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273892f492ab19ad85aede0a359",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02892f492ab19ad85aede0a359",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851892f492ab19ad85aede0a359",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/58CxasavgEkHntBBT7dwwU"
+  }
+}

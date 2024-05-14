@@ -1,0 +1,33 @@
+{
+  "id": "08la9DM1K0VMpSbQTb8gFQ",
+  "name": "Cnopes",
+  "uri": "spotify:artist:08la9DM1K0VMpSbQTb8gFQ",
+  "followers": {
+    "href": null,
+    "total": 4003
+  },
+  "genres": [
+    "experimental bass"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaef6a1bf84e224b6385bf0e0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aef6a1bf84e224b6385bf0e0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aef6a1bf84e224b6385bf0e0",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/08la9DM1K0VMpSbQTb8gFQ"
+  }
+}

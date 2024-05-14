@@ -1,0 +1,33 @@
+{
+  "id": "5S2B2ftvKw03xrAB0SgpWI",
+  "name": "Pastoratet",
+  "uri": "spotify:artist:5S2B2ftvKw03xrAB0SgpWI",
+  "followers": {
+    "href": null,
+    "total": 1462
+  },
+  "genres": [
+    "swedish punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdd6037ed4d7411ee0bed7dc4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dd6037ed4d7411ee0bed7dc4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dd6037ed4d7411ee0bed7dc4",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5S2B2ftvKw03xrAB0SgpWI"
+  }
+}

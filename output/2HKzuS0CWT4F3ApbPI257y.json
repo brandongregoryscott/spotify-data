@@ -1,0 +1,33 @@
+{
+  "id": "2HKzuS0CWT4F3ApbPI257y",
+  "name": "Wolfy",
+  "uri": "spotify:artist:2HKzuS0CWT4F3ApbPI257y",
+  "followers": {
+    "href": null,
+    "total": 1037
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb965ee62f49070c79a32e61b0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174965ee62f49070c79a32e61b0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178965ee62f49070c79a32e61b0",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2HKzuS0CWT4F3ApbPI257y"
+  }
+}

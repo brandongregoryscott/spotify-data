@@ -1,0 +1,33 @@
+{
+  "id": "6HqP7k8xMl2IYZZdVTDlWB",
+  "name": "$amaad",
+  "uri": "spotify:artist:6HqP7k8xMl2IYZZdVTDlWB",
+  "followers": {
+    "href": null,
+    "total": 3100
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb82e21e1985af1b19d5bad3f0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517482e21e1985af1b19d5bad3f0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17882e21e1985af1b19d5bad3f0",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6HqP7k8xMl2IYZZdVTDlWB"
+  }
+}

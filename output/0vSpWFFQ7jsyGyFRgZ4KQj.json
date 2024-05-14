@@ -1,0 +1,33 @@
+{
+  "id": "0vSpWFFQ7jsyGyFRgZ4KQj",
+  "name": "Méduse",
+  "uri": "spotify:artist:0vSpWFFQ7jsyGyFRgZ4KQj",
+  "followers": {
+    "href": null,
+    "total": 79
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731d33f4322ced8130b4922e33",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021d33f4322ced8130b4922e33",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511d33f4322ced8130b4922e33",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0vSpWFFQ7jsyGyFRgZ4KQj"
+  }
+}

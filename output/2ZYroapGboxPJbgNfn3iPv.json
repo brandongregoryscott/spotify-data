@@ -1,0 +1,33 @@
+{
+  "id": "2ZYroapGboxPJbgNfn3iPv",
+  "name": "Avellana",
+  "uri": "spotify:artist:2ZYroapGboxPJbgNfn3iPv",
+  "followers": {
+    "href": null,
+    "total": 203
+  },
+  "genres": [
+    "indie tico"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba2d8bca47848c7db351bd2d7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a2d8bca47848c7db351bd2d7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a2d8bca47848c7db351bd2d7",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ZYroapGboxPJbgNfn3iPv"
+  }
+}

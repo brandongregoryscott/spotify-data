@@ -1,0 +1,33 @@
+{
+  "id": "3v6wmNSaW4bynyMxQER4gt",
+  "name": "EAMOB",
+  "uri": "spotify:artist:3v6wmNSaW4bynyMxQER4gt",
+  "followers": {
+    "href": null,
+    "total": 81
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb600be29517edd43c9802e6df",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174600be29517edd43c9802e6df",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178600be29517edd43c9802e6df",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3v6wmNSaW4bynyMxQER4gt"
+  }
+}

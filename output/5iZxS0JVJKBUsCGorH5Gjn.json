@@ -1,0 +1,33 @@
+{
+  "id": "5iZxS0JVJKBUsCGorH5Gjn",
+  "name": "Frith",
+  "uri": "spotify:artist:5iZxS0JVJKBUsCGorH5Gjn",
+  "followers": {
+    "href": null,
+    "total": 86
+  },
+  "genres": [
+    "lo-fi rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ffc30e6befad67771a0ae8bb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ffc30e6befad67771a0ae8bb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ffc30e6befad67771a0ae8bb",
+      "width": 64
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5iZxS0JVJKBUsCGorH5Gjn"
+  }
+}

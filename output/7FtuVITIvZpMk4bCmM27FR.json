@@ -1,0 +1,33 @@
+{
+  "id": "7FtuVITIvZpMk4bCmM27FR",
+  "name": "S O F T",
+  "uri": "spotify:artist:7FtuVITIvZpMk4bCmM27FR",
+  "followers": {
+    "href": null,
+    "total": 236
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe401b27f7df1ba4c621cccf2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e401b27f7df1ba4c621cccf2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e401b27f7df1ba4c621cccf2",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7FtuVITIvZpMk4bCmM27FR"
+  }
+}

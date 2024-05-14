@@ -1,0 +1,33 @@
+{
+  "id": "2qKuVznHQ9blo9QEKAzsPB",
+  "name": "The Stifled",
+  "uri": "spotify:artist:2qKuVznHQ9blo9QEKAzsPB",
+  "followers": {
+    "href": null,
+    "total": 695
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbfee27733c2bacd5e9f9ce01",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bfee27733c2bacd5e9f9ce01",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bfee27733c2bacd5e9f9ce01",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2qKuVznHQ9blo9QEKAzsPB"
+  }
+}

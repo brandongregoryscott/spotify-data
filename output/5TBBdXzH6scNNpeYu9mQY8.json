@@ -1,0 +1,33 @@
+{
+  "id": "5TBBdXzH6scNNpeYu9mQY8",
+  "name": "Jetstream",
+  "uri": "spotify:artist:5TBBdXzH6scNNpeYu9mQY8",
+  "followers": {
+    "href": null,
+    "total": 975
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb36cdcbb0968b055cf1f53f2b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517436cdcbb0968b055cf1f53f2b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17836cdcbb0968b055cf1f53f2b",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5TBBdXzH6scNNpeYu9mQY8"
+  }
+}

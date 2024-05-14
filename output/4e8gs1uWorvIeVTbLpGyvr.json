@@ -1,0 +1,34 @@
+{
+  "id": "4e8gs1uWorvIeVTbLpGyvr",
+  "name": "Franz Jäger",
+  "uri": "spotify:artist:4e8gs1uWorvIeVTbLpGyvr",
+  "followers": {
+    "href": null,
+    "total": 1844
+  },
+  "genres": [
+    "hardgroove",
+    "swedish techno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb78de05a877559d22632c07d5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517478de05a877559d22632c07d5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17878de05a877559d22632c07d5",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4e8gs1uWorvIeVTbLpGyvr"
+  }
+}

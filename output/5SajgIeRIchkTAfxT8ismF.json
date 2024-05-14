@@ -1,0 +1,33 @@
+{
+  "id": "5SajgIeRIchkTAfxT8ismF",
+  "name": "Version 5",
+  "uri": "spotify:artist:5SajgIeRIchkTAfxT8ismF",
+  "followers": {
+    "href": null,
+    "total": 1004
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf1fe1cd5685e8146bf681e8f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f1fe1cd5685e8146bf681e8f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f1fe1cd5685e8146bf681e8f",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5SajgIeRIchkTAfxT8ismF"
+  }
+}

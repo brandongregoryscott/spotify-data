@@ -1,0 +1,33 @@
+{
+  "id": "4lXWv44VO0lNeiTy8ieFU2",
+  "name": "Jaws",
+  "uri": "spotify:artist:4lXWv44VO0lNeiTy8ieFU2",
+  "followers": {
+    "href": null,
+    "total": 98
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27343071c427e83e498faf14791",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0243071c427e83e498faf14791",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485143071c427e83e498faf14791",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4lXWv44VO0lNeiTy8ieFU2"
+  }
+}

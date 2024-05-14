@@ -1,0 +1,33 @@
+{
+  "id": "0x2dZoTljdt9Pfv26DMJv3",
+  "name": "Sakoya",
+  "uri": "spotify:artist:0x2dZoTljdt9Pfv26DMJv3",
+  "followers": {
+    "href": null,
+    "total": 4969
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7319ed16905d78b17e62aa6c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051747319ed16905d78b17e62aa6c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1787319ed16905d78b17e62aa6c",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0x2dZoTljdt9Pfv26DMJv3"
+  }
+}

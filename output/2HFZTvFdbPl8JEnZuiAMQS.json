@@ -1,0 +1,33 @@
+{
+  "id": "2HFZTvFdbPl8JEnZuiAMQS",
+  "name": "Pete Wiggs",
+  "uri": "spotify:artist:2HFZTvFdbPl8JEnZuiAMQS",
+  "followers": {
+    "href": null,
+    "total": 239
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738800ea5b71a7c49dff12e9da",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028800ea5b71a7c49dff12e9da",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518800ea5b71a7c49dff12e9da",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2HFZTvFdbPl8JEnZuiAMQS"
+  }
+}

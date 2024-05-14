@@ -1,0 +1,33 @@
+{
+  "id": "6D8qI6XrULe1dHglQM9wfb",
+  "name": "paperclip",
+  "uri": "spotify:artist:6D8qI6XrULe1dHglQM9wfb",
+  "followers": {
+    "href": null,
+    "total": 30
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27357cb93d69382de6cf9bbc73f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0257cb93d69382de6cf9bbc73f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485157cb93d69382de6cf9bbc73f",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6D8qI6XrULe1dHglQM9wfb"
+  }
+}

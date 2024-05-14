@@ -1,0 +1,33 @@
+{
+  "id": "5oriGWZ8Bx2zJDmCWAgb6H",
+  "name": "New Link",
+  "uri": "spotify:artist:5oriGWZ8Bx2zJDmCWAgb6H",
+  "followers": {
+    "href": null,
+    "total": 763
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb083bba898cc0bd96d6c397e6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174083bba898cc0bd96d6c397e6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178083bba898cc0bd96d6c397e6",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5oriGWZ8Bx2zJDmCWAgb6H"
+  }
+}

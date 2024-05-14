@@ -1,0 +1,38 @@
+{
+  "id": "0x0D2iUnMLaqFfbq0Dum9s",
+  "name": "Golden Grrrls",
+  "uri": "spotify:artist:0x0D2iUnMLaqFfbq0Dum9s",
+  "followers": {
+    "href": null,
+    "total": 635
+  },
+  "genres": [
+    "scottish indie"
+  ],
+  "images": [
+    {
+      "height": 667,
+      "url": "https://i.scdn.co/image/6d779bc83ccdae6ae5ebc66a5e768a847845efd8",
+      "width": 1000
+    },
+    {
+      "height": 427,
+      "url": "https://i.scdn.co/image/7fa1f5857048a744fa2f8c50405d7da373f7522a",
+      "width": 640
+    },
+    {
+      "height": 133,
+      "url": "https://i.scdn.co/image/99094d75683853cc32efdb5fc2d08c429356ce18",
+      "width": 200
+    },
+    {
+      "height": 43,
+      "url": "https://i.scdn.co/image/09a641ed9e1108ccfa49038a7a4d4e3d4b43d22a",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0x0D2iUnMLaqFfbq0Dum9s"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "08f9Tmx1cFFs1wlTjTzAh7",
+  "name": "Murray",
+  "uri": "spotify:artist:08f9Tmx1cFFs1wlTjTzAh7",
+  "followers": {
+    "href": null,
+    "total": 37
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb21f28a90162e4800e3fc535b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517421f28a90162e4800e3fc535b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17821f28a90162e4800e3fc535b",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/08f9Tmx1cFFs1wlTjTzAh7"
+  }
+}

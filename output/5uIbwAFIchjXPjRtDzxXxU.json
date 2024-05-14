@@ -1,0 +1,33 @@
+{
+  "id": "5uIbwAFIchjXPjRtDzxXxU",
+  "name": "Tons",
+  "uri": "spotify:artist:5uIbwAFIchjXPjRtDzxXxU",
+  "followers": {
+    "href": null,
+    "total": 3332
+  },
+  "genres": [
+    "italian stoner rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdb976fbb6732182a2ec048aa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174db976fbb6732182a2ec048aa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178db976fbb6732182a2ec048aa",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5uIbwAFIchjXPjRtDzxXxU"
+  }
+}

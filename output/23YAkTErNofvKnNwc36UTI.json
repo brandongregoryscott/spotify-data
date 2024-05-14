@@ -1,0 +1,33 @@
+{
+  "id": "23YAkTErNofvKnNwc36UTI",
+  "name": "Solid Core",
+  "uri": "spotify:artist:23YAkTErNofvKnNwc36UTI",
+  "followers": {
+    "href": null,
+    "total": 249
+  },
+  "genres": [
+    "thai punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27375be7a0e1967611ca4a3841a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0275be7a0e1967611ca4a3841a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485175be7a0e1967611ca4a3841a",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/23YAkTErNofvKnNwc36UTI"
+  }
+}

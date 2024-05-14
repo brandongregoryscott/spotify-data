@@ -1,0 +1,35 @@
+{
+  "id": "4JEj4gtpwF2dnnBZuNwpwT",
+  "name": "I-F",
+  "uri": "spotify:artist:4JEj4gtpwF2dnnBZuNwpwT",
+  "followers": {
+    "href": null,
+    "total": 11822
+  },
+  "genres": [
+    "electro",
+    "electroclash",
+    "nu electro"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27359c44ec14a66370110b20089",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0259c44ec14a66370110b20089",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485159c44ec14a66370110b20089",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4JEj4gtpwF2dnnBZuNwpwT"
+  }
+}

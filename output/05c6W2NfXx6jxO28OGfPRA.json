@@ -1,0 +1,35 @@
+{
+  "id": "05c6W2NfXx6jxO28OGfPRA",
+  "name": "Larry Sparks",
+  "uri": "spotify:artist:05c6W2NfXx6jxO28OGfPRA",
+  "followers": {
+    "href": null,
+    "total": 13579
+  },
+  "genres": [
+    "bluegrass",
+    "bluegrass gospel",
+    "instrumental bluegrass"
+  ],
+  "images": [
+    {
+      "height": 464,
+      "url": "https://i.scdn.co/image/93ca0bb08a368f6c9445d52ecf1702401ec06507",
+      "width": 450
+    },
+    {
+      "height": 206,
+      "url": "https://i.scdn.co/image/050bf5255da8be9833598fbef7250ab5baba1227",
+      "width": 200
+    },
+    {
+      "height": 66,
+      "url": "https://i.scdn.co/image/4b2ebcec74a2397e3e54c0e2b2e4db129cbbdc46",
+      "width": 64
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1JwJH0oJljui3AmpBrpZ7W",
+  "name": "Kraz",
+  "uri": "spotify:artist:1JwJH0oJljui3AmpBrpZ7W",
+  "followers": {
+    "href": null,
+    "total": 176
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb61dd2c538ce115ca959c5200",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517461dd2c538ce115ca959c5200",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17861dd2c538ce115ca959c5200",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1JwJH0oJljui3AmpBrpZ7W"
+  }
+}

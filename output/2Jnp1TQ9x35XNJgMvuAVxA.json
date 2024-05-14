@@ -1,0 +1,33 @@
+{
+  "id": "2Jnp1TQ9x35XNJgMvuAVxA",
+  "name": "LMDA",
+  "uri": "spotify:artist:2Jnp1TQ9x35XNJgMvuAVxA",
+  "followers": {
+    "href": null,
+    "total": 321
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc2529519c1a4ae0a963e5fd5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c2529519c1a4ae0a963e5fd5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c2529519c1a4ae0a963e5fd5",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Jnp1TQ9x35XNJgMvuAVxA"
+  }
+}

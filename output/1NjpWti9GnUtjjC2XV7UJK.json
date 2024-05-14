@@ -1,0 +1,35 @@
+{
+  "id": "1NjpWti9GnUtjjC2XV7UJK",
+  "name": "Tony Trischka",
+  "uri": "spotify:artist:1NjpWti9GnUtjjC2XV7UJK",
+  "followers": {
+    "href": null,
+    "total": 7782
+  },
+  "genres": [
+    "banjo",
+    "bluegrass",
+    "instrumental bluegrass"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb40281372c1253cfca1a307b9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517440281372c1253cfca1a307b9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17840281372c1253cfca1a307b9",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
+  }
+}

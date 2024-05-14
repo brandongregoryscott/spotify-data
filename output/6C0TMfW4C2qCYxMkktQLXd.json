@@ -1,0 +1,33 @@
+{
+  "id": "6C0TMfW4C2qCYxMkktQLXd",
+  "name": "Gorgeous",
+  "uri": "spotify:artist:6C0TMfW4C2qCYxMkktQLXd",
+  "followers": {
+    "href": null,
+    "total": 1869
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf7c8327598741e5cf558ce61",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f7c8327598741e5cf558ce61",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f7c8327598741e5cf558ce61",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6C0TMfW4C2qCYxMkktQLXd"
+  }
+}

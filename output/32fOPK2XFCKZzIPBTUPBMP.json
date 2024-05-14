@@ -1,0 +1,33 @@
+{
+  "id": "32fOPK2XFCKZzIPBTUPBMP",
+  "name": "AYF",
+  "uri": "spotify:artist:32fOPK2XFCKZzIPBTUPBMP",
+  "followers": {
+    "href": null,
+    "total": 166
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736f4b16f934bbdf135c8c33ce",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026f4b16f934bbdf135c8c33ce",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516f4b16f934bbdf135c8c33ce",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/32fOPK2XFCKZzIPBTUPBMP"
+  }
+}

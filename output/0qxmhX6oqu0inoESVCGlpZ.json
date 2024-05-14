@@ -1,0 +1,33 @@
+{
+  "id": "0qxmhX6oqu0inoESVCGlpZ",
+  "name": "Jærv",
+  "uri": "spotify:artist:0qxmhX6oqu0inoESVCGlpZ",
+  "followers": {
+    "href": null,
+    "total": 1393
+  },
+  "genres": [
+    "danish electropop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb181ab72f6fe0dbac6f03a003",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174181ab72f6fe0dbac6f03a003",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178181ab72f6fe0dbac6f03a003",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0qxmhX6oqu0inoESVCGlpZ"
+  }
+}

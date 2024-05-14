@@ -1,0 +1,33 @@
+{
+  "id": "3X6o8V3Hm7FIcPBfVMoNPt",
+  "name": "33col3",
+  "uri": "spotify:artist:3X6o8V3Hm7FIcPBfVMoNPt",
+  "followers": {
+    "href": null,
+    "total": 3297
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb56569b7ebdb9c452afe04db5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517456569b7ebdb9c452afe04db5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17856569b7ebdb9c452afe04db5",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3X6o8V3Hm7FIcPBfVMoNPt"
+  }
+}

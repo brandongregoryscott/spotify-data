@@ -1,0 +1,33 @@
+{
+  "id": "1bi8eIb6LeIgsBLhVjALeV",
+  "name": "Cheju",
+  "uri": "spotify:artist:1bi8eIb6LeIgsBLhVjALeV",
+  "followers": {
+    "href": null,
+    "total": 468
+  },
+  "genres": [
+    "ambient idm"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27365384236862956fca26f0af5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0265384236862956fca26f0af5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485165384236862956fca26f0af5",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1bi8eIb6LeIgsBLhVjALeV"
+  }
+}

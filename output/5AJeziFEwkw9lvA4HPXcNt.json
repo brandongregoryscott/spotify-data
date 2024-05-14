@@ -1,0 +1,33 @@
+{
+  "id": "5AJeziFEwkw9lvA4HPXcNt",
+  "name": "Mrkryl",
+  "uri": "spotify:artist:5AJeziFEwkw9lvA4HPXcNt",
+  "followers": {
+    "href": null,
+    "total": 3392
+  },
+  "genres": [
+    "wave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebacbfd09422d828c0ef075512",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174acbfd09422d828c0ef075512",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178acbfd09422d828c0ef075512",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5AJeziFEwkw9lvA4HPXcNt"
+  }
+}

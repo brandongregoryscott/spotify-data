@@ -1,0 +1,33 @@
+{
+  "id": "5bdrnLgZ9WGzolujObAe5K",
+  "name": "Bread Winner",
+  "uri": "spotify:artist:5bdrnLgZ9WGzolujObAe5K",
+  "followers": {
+    "href": null,
+    "total": 1081
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb94e7ff0790d84a72f8f3ed13",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517494e7ff0790d84a72f8f3ed13",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17894e7ff0790d84a72f8f3ed13",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5bdrnLgZ9WGzolujObAe5K"
+  }
+}

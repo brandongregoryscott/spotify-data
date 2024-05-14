@@ -1,0 +1,33 @@
+{
+  "id": "42fTI1VyX5axJX1ZlPi7dS",
+  "name": "Chris Lanzon",
+  "uri": "spotify:artist:42fTI1VyX5axJX1ZlPi7dS",
+  "followers": {
+    "href": null,
+    "total": 21717
+  },
+  "genres": [
+    "gen z singer-songwriter"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb497d998eba01108ba7059eb1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174497d998eba01108ba7059eb1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178497d998eba01108ba7059eb1",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/42fTI1VyX5axJX1ZlPi7dS"
+  }
+}

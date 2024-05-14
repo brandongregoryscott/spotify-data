@@ -1,0 +1,33 @@
+{
+  "id": "1kVg5h8vTlaeO6BG4Tpf5H",
+  "name": "3's and 7's",
+  "uri": "spotify:artist:1kVg5h8vTlaeO6BG4Tpf5H",
+  "followers": {
+    "href": null,
+    "total": 324
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb44686b5b97450e1cd125aebe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517444686b5b97450e1cd125aebe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17844686b5b97450e1cd125aebe",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1kVg5h8vTlaeO6BG4Tpf5H"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2QMngsbAfyIglYdFpefrQA",
+  "name": "Incite",
+  "uri": "spotify:artist:2QMngsbAfyIglYdFpefrQA",
+  "followers": {
+    "href": null,
+    "total": 11668
+  },
+  "genres": [
+    "groove metal",
+    "thrash-groove metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb20f458531522b71d39d46f7e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517420f458531522b71d39d46f7e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17820f458531522b71d39d46f7e",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2QMngsbAfyIglYdFpefrQA"
+  }
+}

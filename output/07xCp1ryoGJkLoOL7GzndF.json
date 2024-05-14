@@ -1,0 +1,33 @@
+{
+  "id": "07xCp1ryoGJkLoOL7GzndF",
+  "name": "shallow existence",
+  "uri": "spotify:artist:07xCp1ryoGJkLoOL7GzndF",
+  "followers": {
+    "href": null,
+    "total": 775
+  },
+  "genres": [
+    "depressive black metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe1815cf60a46d9bb2ed5096b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e1815cf60a46d9bb2ed5096b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e1815cf60a46d9bb2ed5096b",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07xCp1ryoGJkLoOL7GzndF"
+  }
+}

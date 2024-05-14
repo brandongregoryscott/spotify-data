@@ -1,0 +1,33 @@
+{
+  "id": "1dDC4KEC4gxBOCKCQXqPnb",
+  "name": "Kilo Vasquez",
+  "uri": "spotify:artist:1dDC4KEC4gxBOCKCQXqPnb",
+  "followers": {
+    "href": null,
+    "total": 379
+  },
+  "genres": [
+    "philly rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27388948d08fc3090c780318f95",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0288948d08fc3090c780318f95",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485188948d08fc3090c780318f95",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1dDC4KEC4gxBOCKCQXqPnb"
+  }
+}

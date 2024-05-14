@@ -1,0 +1,33 @@
+{
+  "id": "3PxHerHKR6wItgBd9saU1c",
+  "name": "Virga",
+  "uri": "spotify:artist:3PxHerHKR6wItgBd9saU1c",
+  "followers": {
+    "href": null,
+    "total": 233
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb2196bc2ef4b0f5d77b9440ab",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051742196bc2ef4b0f5d77b9440ab",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1782196bc2ef4b0f5d77b9440ab",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3PxHerHKR6wItgBd9saU1c"
+  }
+}

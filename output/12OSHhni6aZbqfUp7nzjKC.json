@@ -1,0 +1,33 @@
+{
+  "id": "12OSHhni6aZbqfUp7nzjKC",
+  "name": "SNOWKEL",
+  "uri": "spotify:artist:12OSHhni6aZbqfUp7nzjKC",
+  "followers": {
+    "href": null,
+    "total": 5574
+  },
+  "genres": [
+    "j-poprock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27373f6c4c8ae2d700f04f1dc0f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0273f6c4c8ae2d700f04f1dc0f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485173f6c4c8ae2d700f04f1dc0f",
+      "width": 64
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/12OSHhni6aZbqfUp7nzjKC"
+  }
+}

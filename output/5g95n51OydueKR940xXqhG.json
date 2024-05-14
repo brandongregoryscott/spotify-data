@@ -1,0 +1,33 @@
+{
+  "id": "5g95n51OydueKR940xXqhG",
+  "name": "7bizz",
+  "uri": "spotify:artist:5g95n51OydueKR940xXqhG",
+  "followers": {
+    "href": null,
+    "total": 92
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb68746a6c14639b5d22154e5b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517468746a6c14639b5d22154e5b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17868746a6c14639b5d22154e5b",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5g95n51OydueKR940xXqhG"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "0hSFeqPehe7FtCNWuQ6Bsy",
+  "name": "BUMP OF CHICKEN",
+  "uri": "spotify:artist:0hSFeqPehe7FtCNWuQ6Bsy",
+  "followers": {
+    "href": null,
+    "total": 1222576
+  },
+  "genres": [
+    "j-pop",
+    "j-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb655744df7ee146d4a077fb2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b655744df7ee146d4a077fb2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b655744df7ee146d4a077fb2",
+      "width": 160
+    }
+  ],
+  "popularity": 59,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+  }
+}

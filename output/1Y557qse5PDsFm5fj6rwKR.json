@@ -1,0 +1,33 @@
+{
+  "id": "1Y557qse5PDsFm5fj6rwKR",
+  "name": "The Numbers",
+  "uri": "spotify:artist:1Y557qse5PDsFm5fj6rwKR",
+  "followers": {
+    "href": null,
+    "total": 626
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734ef8177da901974c7981614c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024ef8177da901974c7981614c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514ef8177da901974c7981614c",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Y557qse5PDsFm5fj6rwKR"
+  }
+}

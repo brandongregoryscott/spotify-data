@@ -1,0 +1,33 @@
+{
+  "id": "0LSsPHTSYKNOX7EF1jT9O3",
+  "name": "Conation",
+  "uri": "spotify:artist:0LSsPHTSYKNOX7EF1jT9O3",
+  "followers": {
+    "href": null,
+    "total": 281
+  },
+  "genres": [
+    "newcastle nsw indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27381f563e2b5733e6da9696f9c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0281f563e2b5733e6da9696f9c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485181f563e2b5733e6da9696f9c",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0LSsPHTSYKNOX7EF1jT9O3"
+  }
+}

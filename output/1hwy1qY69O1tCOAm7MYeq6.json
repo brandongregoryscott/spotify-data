@@ -1,0 +1,33 @@
+{
+  "id": "1hwy1qY69O1tCOAm7MYeq6",
+  "name": "Monjola",
+  "uri": "spotify:artist:1hwy1qY69O1tCOAm7MYeq6",
+  "followers": {
+    "href": null,
+    "total": 10285
+  },
+  "genres": [
+    "irish pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb99e54e2b1a61bd471c97f06b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517499e54e2b1a61bd471c97f06b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17899e54e2b1a61bd471c97f06b",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6"
+  }
+}

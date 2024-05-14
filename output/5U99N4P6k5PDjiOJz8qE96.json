@@ -1,0 +1,33 @@
+{
+  "id": "5U99N4P6k5PDjiOJz8qE96",
+  "name": "Fubu",
+  "uri": "spotify:artist:5U99N4P6k5PDjiOJz8qE96",
+  "followers": {
+    "href": null,
+    "total": 1723
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba5db5e0e031979d84c449939",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a5db5e0e031979d84c449939",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a5db5e0e031979d84c449939",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5U99N4P6k5PDjiOJz8qE96"
+  }
+}

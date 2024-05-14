@@ -1,0 +1,33 @@
+{
+  "id": "48uLVFegFlrSyHwS7hU7qZ",
+  "name": "Knivad",
+  "uri": "spotify:artist:48uLVFegFlrSyHwS7hU7qZ",
+  "followers": {
+    "href": null,
+    "total": 340
+  },
+  "genres": [
+    "swedish grindcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb733e17404c56010fa0ec5c56",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174733e17404c56010fa0ec5c56",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178733e17404c56010fa0ec5c56",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/48uLVFegFlrSyHwS7hU7qZ"
+  }
+}

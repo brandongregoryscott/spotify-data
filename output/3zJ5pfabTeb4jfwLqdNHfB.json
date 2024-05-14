@@ -1,0 +1,35 @@
+{
+  "id": "3zJ5pfabTeb4jfwLqdNHfB",
+  "name": "Doughnuts",
+  "uri": "spotify:artist:3zJ5pfabTeb4jfwLqdNHfB",
+  "followers": {
+    "href": null,
+    "total": 1484
+  },
+  "genres": [
+    "swedish hardcore",
+    "umea hardcore",
+    "vegan straight edge"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27337001109d60ed7417b70b2ca",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0237001109d60ed7417b70b2ca",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485137001109d60ed7417b70b2ca",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3zJ5pfabTeb4jfwLqdNHfB"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "5MsYlytV6rgcW1BB261xBS",
+  "name": "Dope Smoker",
+  "uri": "spotify:artist:5MsYlytV6rgcW1BB261xBS",
+  "followers": {
+    "href": null,
+    "total": 15273
+  },
+  "genres": [
+    "psychedelic doom",
+    "stoner metal",
+    "stoner rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebadee66ad6ea150b3b2eeb911",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174adee66ad6ea150b3b2eeb911",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178adee66ad6ea150b3b2eeb911",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5MsYlytV6rgcW1BB261xBS"
+  }
+}

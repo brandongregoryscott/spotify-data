@@ -1,0 +1,33 @@
+{
+  "id": "1dYQUpzt4EkSArrp8Uoyya",
+  "name": "ARA-U",
+  "uri": "spotify:artist:1dYQUpzt4EkSArrp8Uoyya",
+  "followers": {
+    "href": null,
+    "total": 501
+  },
+  "genres": [
+    "nu electro"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27384658a35506d66a4a8b1f21d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0284658a35506d66a4a8b1f21d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485184658a35506d66a4a8b1f21d",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1dYQUpzt4EkSArrp8Uoyya"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "0U2mUJuJkthantMGmsJygP",
+  "name": "Jerry Butler",
+  "uri": "spotify:artist:0U2mUJuJkthantMGmsJygP",
+  "followers": {
+    "href": null,
+    "total": 166070
+  },
+  "genres": [
+    "chicago soul",
+    "classic soul",
+    "motown",
+    "philly soul",
+    "soul"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebae993c6650c349b13b1a4371",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ae993c6650c349b13b1a4371",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ae993c6650c349b13b1a4371",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0U2mUJuJkthantMGmsJygP"
+  }
+}

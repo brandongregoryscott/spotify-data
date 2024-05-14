@@ -1,0 +1,33 @@
+{
+  "id": "036NIlncRSOhMoENKhgxDi",
+  "name": "Ursus",
+  "uri": "spotify:artist:036NIlncRSOhMoENKhgxDi",
+  "followers": {
+    "href": null,
+    "total": 1754
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb21f1d4613f3604c7652311d4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517421f1d4613f3604c7652311d4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17821f1d4613f3604c7652311d4",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/036NIlncRSOhMoENKhgxDi"
+  }
+}

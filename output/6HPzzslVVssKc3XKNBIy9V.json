@@ -1,0 +1,33 @@
+{
+  "id": "6HPzzslVVssKc3XKNBIy9V",
+  "name": "Elkk",
+  "uri": "spotify:artist:6HPzzslVVssKc3XKNBIy9V",
+  "followers": {
+    "href": null,
+    "total": 465
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeca37c2e0b3eb23000c74b0b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eca37c2e0b3eb23000c74b0b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eca37c2e0b3eb23000c74b0b",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6HPzzslVVssKc3XKNBIy9V"
+  }
+}

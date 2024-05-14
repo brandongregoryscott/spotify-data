@@ -1,0 +1,33 @@
+{
+  "id": "012GVhn6cIHM1fB6vyl3R3",
+  "name": "Cassandra",
+  "uri": "spotify:artist:012GVhn6cIHM1fB6vyl3R3",
+  "followers": {
+    "href": null,
+    "total": 852
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb10e3a45a0dcb1bda0ebc6af2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517410e3a45a0dcb1bda0ebc6af2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17810e3a45a0dcb1bda0ebc6af2",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/012GVhn6cIHM1fB6vyl3R3"
+  }
+}

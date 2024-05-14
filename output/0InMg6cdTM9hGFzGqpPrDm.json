@@ -1,0 +1,33 @@
+{
+  "id": "0InMg6cdTM9hGFzGqpPrDm",
+  "name": "Kontra",
+  "uri": "spotify:artist:0InMg6cdTM9hGFzGqpPrDm",
+  "followers": {
+    "href": null,
+    "total": 3054
+  },
+  "genres": [
+    "classic finnish rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735fe73ed03be6922d2b3ea58d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025fe73ed03be6922d2b3ea58d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515fe73ed03be6922d2b3ea58d",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0InMg6cdTM9hGFzGqpPrDm"
+  }
+}

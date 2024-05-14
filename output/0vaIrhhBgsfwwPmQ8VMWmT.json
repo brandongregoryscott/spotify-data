@@ -1,0 +1,33 @@
+{
+  "id": "0vaIrhhBgsfwwPmQ8VMWmT",
+  "name": "Knetica",
+  "uri": "spotify:artist:0vaIrhhBgsfwwPmQ8VMWmT",
+  "followers": {
+    "href": null,
+    "total": 2784
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebec232feb961f16431cba8086",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ec232feb961f16431cba8086",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ec232feb961f16431cba8086",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0vaIrhhBgsfwwPmQ8VMWmT"
+  }
+}

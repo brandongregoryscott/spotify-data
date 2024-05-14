@@ -1,0 +1,34 @@
+{
+  "id": "7MxlASt6qqLfjpMqS1EiaU",
+  "name": "Seranation",
+  "uri": "spotify:artist:7MxlASt6qqLfjpMqS1EiaU",
+  "followers": {
+    "href": null,
+    "total": 9278
+  },
+  "genres": [
+    "east coast reggae",
+    "reggae rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf4cbe541c72f36fcaa1486a3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f4cbe541c72f36fcaa1486a3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f4cbe541c72f36fcaa1486a3",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7MxlASt6qqLfjpMqS1EiaU"
+  }
+}

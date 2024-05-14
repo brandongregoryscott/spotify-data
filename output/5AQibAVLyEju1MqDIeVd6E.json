@@ -1,0 +1,33 @@
+{
+  "id": "5AQibAVLyEju1MqDIeVd6E",
+  "name": "jonV",
+  "uri": "spotify:artist:5AQibAVLyEju1MqDIeVd6E",
+  "followers": {
+    "href": null,
+    "total": 13280
+  },
+  "genres": [
+    "speed plug brasileiro"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcbebaac9fcfb3a18c00a51a2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cbebaac9fcfb3a18c00a51a2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cbebaac9fcfb3a18c00a51a2",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5AQibAVLyEju1MqDIeVd6E"
+  }
+}

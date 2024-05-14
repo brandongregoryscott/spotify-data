@@ -1,0 +1,33 @@
+{
+  "id": "5id9F34Dm3rFwrqPKnfhsk",
+  "name": "Nothing Minor",
+  "uri": "spotify:artist:5id9F34Dm3rFwrqPKnfhsk",
+  "followers": {
+    "href": null,
+    "total": 35
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27367fb38d37f1c64659c8083b7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0267fb38d37f1c64659c8083b7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485167fb38d37f1c64659c8083b7",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5id9F34Dm3rFwrqPKnfhsk"
+  }
+}

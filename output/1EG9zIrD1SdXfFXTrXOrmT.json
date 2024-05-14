@@ -1,0 +1,34 @@
+{
+  "id": "1EG9zIrD1SdXfFXTrXOrmT",
+  "name": "Victim",
+  "uri": "spotify:artist:1EG9zIrD1SdXfFXTrXOrmT",
+  "followers": {
+    "href": null,
+    "total": 273
+  },
+  "genres": [
+    "deep punk rock",
+    "northern irish punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730d118d3e341f4e7569e3ea00",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020d118d3e341f4e7569e3ea00",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510d118d3e341f4e7569e3ea00",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1EG9zIrD1SdXfFXTrXOrmT"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5JTsN4b4Zlk6NeUmuoJQ3E",
+  "name": "ecosystem",
+  "uri": "spotify:artist:5JTsN4b4Zlk6NeUmuoJQ3E",
+  "followers": {
+    "href": null,
+    "total": 5381
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733528d87c16cb968e2864c76a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023528d87c16cb968e2864c76a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513528d87c16cb968e2864c76a",
+      "width": 64
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5JTsN4b4Zlk6NeUmuoJQ3E"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3pIig1qly4nRKkaMHstPLD",
+  "name": "Renfue",
+  "uri": "spotify:artist:3pIig1qly4nRKkaMHstPLD",
+  "followers": {
+    "href": null,
+    "total": 1743
+  },
+  "genres": [
+    "pop emo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736dab6e1be923545f7931b2e7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026dab6e1be923545f7931b2e7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516dab6e1be923545f7931b2e7",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3pIig1qly4nRKkaMHstPLD"
+  }
+}

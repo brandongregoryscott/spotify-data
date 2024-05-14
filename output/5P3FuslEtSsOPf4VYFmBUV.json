@@ -1,0 +1,33 @@
+{
+  "id": "5P3FuslEtSsOPf4VYFmBUV",
+  "name": "SARCOMA",
+  "uri": "spotify:artist:5P3FuslEtSsOPf4VYFmBUV",
+  "followers": {
+    "href": null,
+    "total": 42
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9cba5d1a8604f3434b52d03e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051749cba5d1a8604f3434b52d03e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1789cba5d1a8604f3434b52d03e",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5P3FuslEtSsOPf4VYFmBUV"
+  }
+}

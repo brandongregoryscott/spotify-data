@@ -1,0 +1,33 @@
+{
+  "id": "5EXtb3DmeaMQSZoiA1sFYC",
+  "name": "Skimmer",
+  "uri": "spotify:artist:5EXtb3DmeaMQSZoiA1sFYC",
+  "followers": {
+    "href": null,
+    "total": 372
+  },
+  "genres": [
+    "deep orgcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733ff85b168ab296f3c5ddffbf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023ff85b168ab296f3c5ddffbf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513ff85b168ab296f3c5ddffbf",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5EXtb3DmeaMQSZoiA1sFYC"
+  }
+}

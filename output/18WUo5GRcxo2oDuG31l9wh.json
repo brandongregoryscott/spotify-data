@@ -1,0 +1,33 @@
+{
+  "id": "18WUo5GRcxo2oDuG31l9wh",
+  "name": "SYTFO",
+  "uri": "spotify:artist:18WUo5GRcxo2oDuG31l9wh",
+  "followers": {
+    "href": null,
+    "total": 26
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdf7819dd63446f1bb0307207",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174df7819dd63446f1bb0307207",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178df7819dd63446f1bb0307207",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/18WUo5GRcxo2oDuG31l9wh"
+  }
+}

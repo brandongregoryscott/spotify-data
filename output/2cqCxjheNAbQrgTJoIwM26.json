@@ -1,0 +1,33 @@
+{
+  "id": "2cqCxjheNAbQrgTJoIwM26",
+  "name": "Dog Gamn",
+  "uri": "spotify:artist:2cqCxjheNAbQrgTJoIwM26",
+  "followers": {
+    "href": null,
+    "total": 597
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba3dc4dba5e8e0aed2ffd8742",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a3dc4dba5e8e0aed2ffd8742",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a3dc4dba5e8e0aed2ffd8742",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2cqCxjheNAbQrgTJoIwM26"
+  }
+}

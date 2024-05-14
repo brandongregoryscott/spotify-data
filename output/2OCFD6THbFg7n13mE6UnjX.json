@@ -1,0 +1,33 @@
+{
+  "id": "2OCFD6THbFg7n13mE6UnjX",
+  "name": "Johnny Champagne",
+  "uri": "spotify:artist:2OCFD6THbFg7n13mE6UnjX",
+  "followers": {
+    "href": null,
+    "total": 559
+  },
+  "genres": [
+    "indie hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb62bf0fb053031e95b42586f3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517462bf0fb053031e95b42586f3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17862bf0fb053031e95b42586f3",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2OCFD6THbFg7n13mE6UnjX"
+  }
+}

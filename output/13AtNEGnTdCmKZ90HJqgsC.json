@@ -1,0 +1,43 @@
+{
+  "id": "13AtNEGnTdCmKZ90HJqgsC",
+  "name": "Mean Jeans",
+  "uri": "spotify:artist:13AtNEGnTdCmKZ90HJqgsC",
+  "followers": {
+    "href": null,
+    "total": 15907
+  },
+  "genres": [
+    "garage pop",
+    "garage punk",
+    "indie punk",
+    "orgcore",
+    "portland punk",
+    "power-pop punk"
+  ],
+  "images": [
+    {
+      "height": 1000,
+      "url": "https://i.scdn.co/image/ab6772690000c46c00b05fd32ae9fb0f1d5b01a9",
+      "width": 1000
+    },
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6772690000dd2200b05fd32ae9fb0f1d5b01a9",
+      "width": 640
+    },
+    {
+      "height": 200,
+      "url": "https://i.scdn.co/image/ab6772690000bac300b05fd32ae9fb0f1d5b01a9",
+      "width": 200
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67726900008f7400b05fd32ae9fb0f1d5b01a9",
+      "width": 64
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/13AtNEGnTdCmKZ90HJqgsC"
+  }
+}

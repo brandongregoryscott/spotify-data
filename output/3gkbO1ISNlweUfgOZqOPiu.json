@@ -1,0 +1,33 @@
+{
+  "id": "3gkbO1ISNlweUfgOZqOPiu",
+  "name": "Illektrolab",
+  "uri": "spotify:artist:3gkbO1ISNlweUfgOZqOPiu",
+  "followers": {
+    "href": null,
+    "total": 2445
+  },
+  "genres": [
+    "nu electro"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb30988a083bc5c9a9f1711d36",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517430988a083bc5c9a9f1711d36",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17830988a083bc5c9a9f1711d36",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3gkbO1ISNlweUfgOZqOPiu"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3LJKHA00HmmaqWrXMsQTKV",
+  "name": "Rockaz",
+  "uri": "spotify:artist:3LJKHA00HmmaqWrXMsQTKV",
+  "followers": {
+    "href": null,
+    "total": 1468
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebafca9a8a52f6475375ec7502",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174afca9a8a52f6475375ec7502",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178afca9a8a52f6475375ec7502",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3LJKHA00HmmaqWrXMsQTKV"
+  }
+}

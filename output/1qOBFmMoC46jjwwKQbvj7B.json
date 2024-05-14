@@ -1,0 +1,33 @@
+{
+  "id": "1qOBFmMoC46jjwwKQbvj7B",
+  "name": "Rukula",
+  "uri": "spotify:artist:1qOBFmMoC46jjwwKQbvj7B",
+  "followers": {
+    "href": null,
+    "total": 853
+  },
+  "genres": [
+    "euskal rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27362c7be69c5188d0a39081704",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0262c7be69c5188d0a39081704",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485162c7be69c5188d0a39081704",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1qOBFmMoC46jjwwKQbvj7B"
+  }
+}

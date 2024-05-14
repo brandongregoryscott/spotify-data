@@ -1,0 +1,33 @@
+{
+  "id": "41SYQuLxha31k5NGMaPhdJ",
+  "name": "John Squalo",
+  "uri": "spotify:artist:41SYQuLxha31k5NGMaPhdJ",
+  "followers": {
+    "href": null,
+    "total": 201
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb44b9724ef92358c73fe42f6a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517444b9724ef92358c73fe42f6a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17844b9724ef92358c73fe42f6a",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/41SYQuLxha31k5NGMaPhdJ"
+  }
+}

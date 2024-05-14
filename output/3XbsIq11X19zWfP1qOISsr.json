@@ -1,0 +1,33 @@
+{
+  "id": "3XbsIq11X19zWfP1qOISsr",
+  "name": "Pat Rice",
+  "uri": "spotify:artist:3XbsIq11X19zWfP1qOISsr",
+  "followers": {
+    "href": null,
+    "total": 72
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebec982bac2ed72fdbfd030e9e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ec982bac2ed72fdbfd030e9e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ec982bac2ed72fdbfd030e9e",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3XbsIq11X19zWfP1qOISsr"
+  }
+}

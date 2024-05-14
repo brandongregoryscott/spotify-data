@@ -1,0 +1,33 @@
+{
+  "id": "7bQ6vAXSnVYlLPV0DJ1iYu",
+  "name": "Malik",
+  "uri": "spotify:artist:7bQ6vAXSnVYlLPV0DJ1iYu",
+  "followers": {
+    "href": null,
+    "total": 234
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb65efcd0207dfbbb2fca2e8dc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517465efcd0207dfbbb2fca2e8dc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17865efcd0207dfbbb2fca2e8dc",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7bQ6vAXSnVYlLPV0DJ1iYu"
+  }
+}

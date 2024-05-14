@@ -1,0 +1,34 @@
+{
+  "id": "5ffXgMSb7TTuOLvb56MxGx",
+  "name": "William Matheny",
+  "uri": "spotify:artist:5ffXgMSb7TTuOLvb56MxGx",
+  "followers": {
+    "href": null,
+    "total": 1374
+  },
+  "genres": [
+    "roots americana",
+    "west virginia indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb57c4d4504f4d1433ca9b561a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517457c4d4504f4d1433ca9b561a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17857c4d4504f4d1433ca9b561a",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ffXgMSb7TTuOLvb56MxGx"
+  }
+}

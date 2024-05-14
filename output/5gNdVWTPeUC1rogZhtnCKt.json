@@ -1,0 +1,33 @@
+{
+  "id": "5gNdVWTPeUC1rogZhtnCKt",
+  "name": "Simon Wells",
+  "uri": "spotify:artist:5gNdVWTPeUC1rogZhtnCKt",
+  "followers": {
+    "href": null,
+    "total": 31
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dad469a6bfa3b6cf9fafedef",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dad469a6bfa3b6cf9fafedef",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dad469a6bfa3b6cf9fafedef",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5gNdVWTPeUC1rogZhtnCKt"
+  }
+}

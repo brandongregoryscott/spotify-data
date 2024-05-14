@@ -1,0 +1,33 @@
+{
+  "id": "3k9WgzHiUobiS8ge4dQX9R",
+  "name": "Hotel Fiction",
+  "uri": "spotify:artist:3k9WgzHiUobiS8ge4dQX9R",
+  "followers": {
+    "href": null,
+    "total": 10562
+  },
+  "genres": [
+    "athens indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb74767786f57b4a86db2f3d96",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517474767786f57b4a86db2f3d96",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17874767786f57b4a86db2f3d96",
+      "width": 160
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0zZcSBiteXZuym6ObZ3ZmP",
+  "name": "sunbleached",
+  "uri": "spotify:artist:0zZcSBiteXZuym6ObZ3ZmP",
+  "followers": {
+    "href": null,
+    "total": 895
+  },
+  "genres": [
+    "australian shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb106b5c6240fe2be48cc8d903",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174106b5c6240fe2be48cc8d903",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178106b5c6240fe2be48cc8d903",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0zZcSBiteXZuym6ObZ3ZmP"
+  }
+}

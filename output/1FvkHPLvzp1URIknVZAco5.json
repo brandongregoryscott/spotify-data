@@ -1,0 +1,33 @@
+{
+  "id": "1FvkHPLvzp1URIknVZAco5",
+  "name": "Serious Machine",
+  "uri": "spotify:artist:1FvkHPLvzp1URIknVZAco5",
+  "followers": {
+    "href": null,
+    "total": 300
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb072659a9d7a4f2758b306bcf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174072659a9d7a4f2758b306bcf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178072659a9d7a4f2758b306bcf",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1FvkHPLvzp1URIknVZAco5"
+  }
+}

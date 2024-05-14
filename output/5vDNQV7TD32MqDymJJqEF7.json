@@ -1,0 +1,33 @@
+{
+  "id": "5vDNQV7TD32MqDymJJqEF7",
+  "name": "RTB2",
+  "uri": "spotify:artist:5vDNQV7TD32MqDymJJqEF7",
+  "followers": {
+    "href": null,
+    "total": 305
+  },
+  "genres": [
+    "denton tx indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fc2b10a8ad9255dfeea8c658",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fc2b10a8ad9255dfeea8c658",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fc2b10a8ad9255dfeea8c658",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5vDNQV7TD32MqDymJJqEF7"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4RGFmRCxeSSW9CdPfNvIR8",
+  "name": "Passersby",
+  "uri": "spotify:artist:4RGFmRCxeSSW9CdPfNvIR8",
+  "followers": {
+    "href": null,
+    "total": 326
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb4578f6ba64807302fb9e667",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b4578f6ba64807302fb9e667",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b4578f6ba64807302fb9e667",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4RGFmRCxeSSW9CdPfNvIR8"
+  }
+}

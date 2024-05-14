@@ -1,0 +1,33 @@
+{
+  "id": "7uwBbjRpFwAt6oDEPGJZ8d",
+  "name": "RV4",
+  "uri": "spotify:artist:7uwBbjRpFwAt6oDEPGJZ8d",
+  "followers": {
+    "href": null,
+    "total": 463
+  },
+  "genres": [
+    "czech hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e4c179023fd977d55ad75ba7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e4c179023fd977d55ad75ba7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e4c179023fd977d55ad75ba7",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7uwBbjRpFwAt6oDEPGJZ8d"
+  }
+}

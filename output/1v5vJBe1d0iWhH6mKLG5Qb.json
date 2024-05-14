@@ -1,0 +1,33 @@
+{
+  "id": "1v5vJBe1d0iWhH6mKLG5Qb",
+  "name": "Mr. Ray",
+  "uri": "spotify:artist:1v5vJBe1d0iWhH6mKLG5Qb",
+  "followers": {
+    "href": null,
+    "total": 627
+  },
+  "genres": [
+    "swiss alternative rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b82aa1f2b2168d5fc345922d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b82aa1f2b2168d5fc345922d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b82aa1f2b2168d5fc345922d",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1v5vJBe1d0iWhH6mKLG5Qb"
+  }
+}

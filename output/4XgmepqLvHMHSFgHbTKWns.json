@@ -1,0 +1,33 @@
+{
+  "id": "4XgmepqLvHMHSFgHbTKWns",
+  "name": "fearozzles",
+  "uri": "spotify:artist:4XgmepqLvHMHSFgHbTKWns",
+  "followers": {
+    "href": null,
+    "total": 1464
+  },
+  "genres": [
+    "furry"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb15ffd13282aed7331dfc4526",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517415ffd13282aed7331dfc4526",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17815ffd13282aed7331dfc4526",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns"
+  }
+}

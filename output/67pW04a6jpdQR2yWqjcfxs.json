@@ -1,0 +1,33 @@
+{
+  "id": "67pW04a6jpdQR2yWqjcfxs",
+  "name": "Bluestaeb",
+  "uri": "spotify:artist:67pW04a6jpdQR2yWqjcfxs",
+  "followers": {
+    "href": null,
+    "total": 36020
+  },
+  "genres": [
+    "chillhop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdb519279fde7216a382a97b9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174db519279fde7216a382a97b9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178db519279fde7216a382a97b9",
+      "width": 160
+    }
+  ],
+  "popularity": 48,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
+  }
+}

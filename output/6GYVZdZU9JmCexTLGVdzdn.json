@@ -1,0 +1,33 @@
+{
+  "id": "6GYVZdZU9JmCexTLGVdzdn",
+  "name": "The Wendys",
+  "uri": "spotify:artist:6GYVZdZU9JmCexTLGVdzdn",
+  "followers": {
+    "href": null,
+    "total": 231
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733cb05f0c99afa5270c6be0d2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023cb05f0c99afa5270c6be0d2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485196192a661df8fa66a514e2f1",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6GYVZdZU9JmCexTLGVdzdn"
+  }
+}

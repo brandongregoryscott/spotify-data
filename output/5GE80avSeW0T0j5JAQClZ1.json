@@ -1,0 +1,33 @@
+{
+  "id": "5GE80avSeW0T0j5JAQClZ1",
+  "name": "Aura Qualic",
+  "uri": "spotify:artist:5GE80avSeW0T0j5JAQClZ1",
+  "followers": {
+    "href": null,
+    "total": 1530
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb86cff1760cfd8ce5168cc9ba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517486cff1760cfd8ce5168cc9ba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17886cff1760cfd8ce5168cc9ba",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5GE80avSeW0T0j5JAQClZ1"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "21P5EVcGVJLoYKuVt1uoUP",
+  "name": "Axel Thorslund",
+  "uri": "spotify:artist:21P5EVcGVJLoYKuVt1uoUP",
+  "followers": {
+    "href": null,
+    "total": 404
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8f4943843a03a81069ca64da",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051748f4943843a03a81069ca64da",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1788f4943843a03a81069ca64da",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/21P5EVcGVJLoYKuVt1uoUP"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0AO7ZRkyKkMQ1rx9F42hLi",
+  "name": "Evita",
+  "uri": "spotify:artist:0AO7ZRkyKkMQ1rx9F42hLi",
+  "followers": {
+    "href": null,
+    "total": 13508
+  },
+  "genres": [
+    "la pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb03e34aa77f03bd9bf52b128",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b03e34aa77f03bd9bf52b128",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b03e34aa77f03bd9bf52b128",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0AO7ZRkyKkMQ1rx9F42hLi"
+  }
+}

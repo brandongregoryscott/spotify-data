@@ -1,0 +1,33 @@
+{
+  "id": "2qFXELaDHSOpMZDQxARZ0F",
+  "name": "Мулька",
+  "uri": "spotify:artist:2qFXELaDHSOpMZDQxARZ0F",
+  "followers": {
+    "href": null,
+    "total": 243
+  },
+  "genres": [
+    "ukrainian post-punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb35115651bbdc7dafdb1faeab",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517435115651bbdc7dafdb1faeab",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17835115651bbdc7dafdb1faeab",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2qFXELaDHSOpMZDQxARZ0F"
+  }
+}

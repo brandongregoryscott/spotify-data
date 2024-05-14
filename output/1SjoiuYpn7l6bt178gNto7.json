@@ -1,0 +1,33 @@
+{
+  "id": "1SjoiuYpn7l6bt178gNto7",
+  "name": "Leesta",
+  "uri": "spotify:artist:1SjoiuYpn7l6bt178gNto7",
+  "followers": {
+    "href": null,
+    "total": 1046
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfaac16ff48a1be6593034f7e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174faac16ff48a1be6593034f7e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178faac16ff48a1be6593034f7e",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1SjoiuYpn7l6bt178gNto7"
+  }
+}

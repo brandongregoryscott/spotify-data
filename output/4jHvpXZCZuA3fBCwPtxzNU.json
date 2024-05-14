@@ -1,0 +1,33 @@
+{
+  "id": "4jHvpXZCZuA3fBCwPtxzNU",
+  "name": "D'Jazzo",
+  "uri": "spotify:artist:4jHvpXZCZuA3fBCwPtxzNU",
+  "followers": {
+    "href": null,
+    "total": 543
+  },
+  "genres": [
+    "rap underground colombiano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebed9794fa6d65c255775946f8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ed9794fa6d65c255775946f8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ed9794fa6d65c255775946f8",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4jHvpXZCZuA3fBCwPtxzNU"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1oI4VX4OdqeoYlckEi9m4s",
+  "name": "Looseway",
+  "uri": "spotify:artist:1oI4VX4OdqeoYlckEi9m4s",
+  "followers": {
+    "href": null,
+    "total": 617
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb54f2487ea04f9cf7eee6a1c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b54f2487ea04f9cf7eee6a1c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b54f2487ea04f9cf7eee6a1c",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1oI4VX4OdqeoYlckEi9m4s"
+  }
+}

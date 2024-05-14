@@ -1,0 +1,33 @@
+{
+  "id": "7bHOL2PyHiQb2gqwMcmZ34",
+  "name": "aqnu",
+  "uri": "spotify:artist:7bHOL2PyHiQb2gqwMcmZ34",
+  "followers": {
+    "href": null,
+    "total": 146
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb91d74f139db79c0424abc30a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517491d74f139db79c0424abc30a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17891d74f139db79c0424abc30a",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7bHOL2PyHiQb2gqwMcmZ34"
+  }
+}

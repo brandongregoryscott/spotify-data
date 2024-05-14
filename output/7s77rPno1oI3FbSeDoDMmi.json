@@ -1,0 +1,33 @@
+{
+  "id": "7s77rPno1oI3FbSeDoDMmi",
+  "name": "Space Above",
+  "uri": "spotify:artist:7s77rPno1oI3FbSeDoDMmi",
+  "followers": {
+    "href": null,
+    "total": 1680
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb754f09268fc48ad281584727",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174754f09268fc48ad281584727",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178754f09268fc48ad281584727",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7s77rPno1oI3FbSeDoDMmi"
+  }
+}

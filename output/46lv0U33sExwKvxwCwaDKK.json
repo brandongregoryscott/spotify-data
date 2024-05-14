@@ -1,0 +1,33 @@
+{
+  "id": "46lv0U33sExwKvxwCwaDKK",
+  "name": "chameleon",
+  "uri": "spotify:artist:46lv0U33sExwKvxwCwaDKK",
+  "followers": {
+    "href": null,
+    "total": 1143
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0ad49219bb4f620308d0f05e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051740ad49219bb4f620308d0f05e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1780ad49219bb4f620308d0f05e",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK"
+  }
+}

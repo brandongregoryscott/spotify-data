@@ -1,0 +1,33 @@
+{
+  "id": "5SrhFOt282uZjwSYWo71ds",
+  "name": "Nik Dandelion",
+  "uri": "spotify:artist:5SrhFOt282uZjwSYWo71ds",
+  "followers": {
+    "href": null,
+    "total": 280
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb87c9324e6a168ccbb0e0009",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b87c9324e6a168ccbb0e0009",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b87c9324e6a168ccbb0e0009",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5SrhFOt282uZjwSYWo71ds"
+  }
+}

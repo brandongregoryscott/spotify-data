@@ -1,0 +1,33 @@
+{
+  "id": "7aiMJoQRNRAZskMEmAyTfw",
+  "name": "Dusty",
+  "uri": "spotify:artist:7aiMJoQRNRAZskMEmAyTfw",
+  "followers": {
+    "href": null,
+    "total": 769
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe4350ab9a6a1389b186d4eef",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e4350ab9a6a1389b186d4eef",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e4350ab9a6a1389b186d4eef",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7aiMJoQRNRAZskMEmAyTfw"
+  }
+}

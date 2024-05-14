@@ -1,0 +1,33 @@
+{
+  "id": "5MlRmI97WxCY37yLZYCPLs",
+  "name": "Against",
+  "uri": "spotify:artist:5MlRmI97WxCY37yLZYCPLs",
+  "followers": {
+    "href": null,
+    "total": 599
+  },
+  "genres": [
+    "australian hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738c98a51ea0b41fc10507596c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028c98a51ea0b41fc10507596c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518c98a51ea0b41fc10507596c",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5MlRmI97WxCY37yLZYCPLs"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0seIM4z37CkUcsuu7kpzF9",
+  "name": "Lucy Loone",
+  "uri": "spotify:artist:0seIM4z37CkUcsuu7kpzF9",
+  "followers": {
+    "href": null,
+    "total": 35312
+  },
+  "genres": [
+    "alt z"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc9d314e93103272af11bed7b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c9d314e93103272af11bed7b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c9d314e93103272af11bed7b",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0seIM4z37CkUcsuu7kpzF9"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5LKpML9qCGmFoIb9MFrbG6",
+  "name": "Kurwastyle Project",
+  "uri": "spotify:artist:5LKpML9qCGmFoIb9MFrbG6",
+  "followers": {
+    "href": null,
+    "total": 4867
+  },
+  "genres": [
+    "uptempo hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273709673e991456b41a2821a51",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02709673e991456b41a2821a51",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851709673e991456b41a2821a51",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5LKpML9qCGmFoIb9MFrbG6"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "78DkmypT85YhWVhEeyQdeN",
+  "name": "Punter",
+  "uri": "spotify:artist:78DkmypT85YhWVhEeyQdeN",
+  "followers": {
+    "href": null,
+    "total": 353
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735d7ee2b8507be7848f04572f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025d7ee2b8507be7848f04572f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515d7ee2b8507be7848f04572f",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/78DkmypT85YhWVhEeyQdeN"
+  }
+}

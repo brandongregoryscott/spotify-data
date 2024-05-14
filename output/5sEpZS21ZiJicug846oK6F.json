@@ -1,0 +1,33 @@
+{
+  "id": "5sEpZS21ZiJicug846oK6F",
+  "name": "Sedulus",
+  "uri": "spotify:artist:5sEpZS21ZiJicug846oK6F",
+  "followers": {
+    "href": null,
+    "total": 177
+  },
+  "genres": [
+    "uk stoner rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737b3dda9897a3dae3ceb1f82e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027b3dda9897a3dae3ceb1f82e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517b3dda9897a3dae3ceb1f82e",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5sEpZS21ZiJicug846oK6F"
+  }
+}

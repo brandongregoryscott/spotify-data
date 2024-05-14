@@ -1,0 +1,33 @@
+{
+  "id": "05hmz2wEOMhuJ4eZV1RYbj",
+  "name": "Fabian Acosta Music",
+  "uri": "spotify:artist:05hmz2wEOMhuJ4eZV1RYbj",
+  "followers": {
+    "href": null,
+    "total": 91
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe89f6697a1b4e7af3e77fbe1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e89f6697a1b4e7af3e77fbe1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e89f6697a1b4e7af3e77fbe1",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05hmz2wEOMhuJ4eZV1RYbj"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2AZK9tbrKzZESi5qbEko2C",
+  "name": "Anastasia Rydlevskaya",
+  "uri": "spotify:artist:2AZK9tbrKzZESi5qbEko2C",
+  "followers": {
+    "href": null,
+    "total": 825
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb328735a9c5c51bf53d0bb27b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174328735a9c5c51bf53d0bb27b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178328735a9c5c51bf53d0bb27b",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2AZK9tbrKzZESi5qbEko2C"
+  }
+}

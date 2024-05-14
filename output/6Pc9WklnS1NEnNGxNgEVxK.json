@@ -1,0 +1,33 @@
+{
+  "id": "6Pc9WklnS1NEnNGxNgEVxK",
+  "name": "Ursula",
+  "uri": "spotify:artist:6Pc9WklnS1NEnNGxNgEVxK",
+  "followers": {
+    "href": null,
+    "total": 457
+  },
+  "genres": [
+    "spanish experimental"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730116cec8b50ed4ab9bf9394d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020116cec8b50ed4ab9bf9394d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510116cec8b50ed4ab9bf9394d",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Pc9WklnS1NEnNGxNgEVxK"
+  }
+}

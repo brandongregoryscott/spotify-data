@@ -1,0 +1,33 @@
+{
+  "id": "6jg5R41m4jrzpROnjVa09r",
+  "name": "Touching",
+  "uri": "spotify:artist:6jg5R41m4jrzpROnjVa09r",
+  "followers": {
+    "href": null,
+    "total": 555
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb54ac28709d3f59a38ae8ec50",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517454ac28709d3f59a38ae8ec50",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17854ac28709d3f59a38ae8ec50",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6jg5R41m4jrzpROnjVa09r"
+  }
+}

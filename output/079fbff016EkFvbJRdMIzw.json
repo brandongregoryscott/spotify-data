@@ -1,0 +1,33 @@
+{
+  "id": "079fbff016EkFvbJRdMIzw",
+  "name": "Benson",
+  "uri": "spotify:artist:079fbff016EkFvbJRdMIzw",
+  "followers": {
+    "href": null,
+    "total": 32
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27339acc8ef96afa5492f38fffc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0239acc8ef96afa5492f38fffc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485139acc8ef96afa5492f38fffc",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/079fbff016EkFvbJRdMIzw"
+  }
+}

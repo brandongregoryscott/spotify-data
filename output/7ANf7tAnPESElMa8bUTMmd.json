@@ -1,0 +1,33 @@
+{
+  "id": "7ANf7tAnPESElMa8bUTMmd",
+  "name": "Ale Mendoza",
+  "uri": "spotify:artist:7ANf7tAnPESElMa8bUTMmd",
+  "followers": {
+    "href": null,
+    "total": 30986
+  },
+  "genres": [
+    "pop reggaeton"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb10a5119045dde5a6b0f61dce",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517410a5119045dde5a6b0f61dce",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17810a5119045dde5a6b0f61dce",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ANf7tAnPESElMa8bUTMmd"
+  }
+}

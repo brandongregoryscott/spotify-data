@@ -1,0 +1,33 @@
+{
+  "id": "1weRXyXXSBxar799mDmQ2v",
+  "name": "Artemis",
+  "uri": "spotify:artist:1weRXyXXSBxar799mDmQ2v",
+  "followers": {
+    "href": null,
+    "total": 959
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb2a9fd58af324133c72898de",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b2a9fd58af324133c72898de",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b2a9fd58af324133c72898de",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1weRXyXXSBxar799mDmQ2v"
+  }
+}

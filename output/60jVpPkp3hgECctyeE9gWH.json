@@ -1,0 +1,33 @@
+{
+  "id": "60jVpPkp3hgECctyeE9gWH",
+  "name": "Mars Today",
+  "uri": "spotify:artist:60jVpPkp3hgECctyeE9gWH",
+  "followers": {
+    "href": null,
+    "total": 9704
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfbfbed98ec028bed772a7496",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fbfbed98ec028bed772a7496",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fbfbed98ec028bed772a7496",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/60jVpPkp3hgECctyeE9gWH"
+  }
+}

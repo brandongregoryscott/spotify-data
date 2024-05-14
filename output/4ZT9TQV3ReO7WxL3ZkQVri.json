@@ -1,0 +1,33 @@
+{
+  "id": "4ZT9TQV3ReO7WxL3ZkQVri",
+  "name": "Bob Gaulke",
+  "uri": "spotify:artist:4ZT9TQV3ReO7WxL3ZkQVri",
+  "followers": {
+    "href": null,
+    "total": 87
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6e923cd3e1385dde4f0c537d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051746e923cd3e1385dde4f0c537d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1786e923cd3e1385dde4f0c537d",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4ZT9TQV3ReO7WxL3ZkQVri"
+  }
+}

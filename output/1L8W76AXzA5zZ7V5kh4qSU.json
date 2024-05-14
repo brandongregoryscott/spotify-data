@@ -1,0 +1,33 @@
+{
+  "id": "1L8W76AXzA5zZ7V5kh4qSU",
+  "name": "Paul Jesse",
+  "uri": "spotify:artist:1L8W76AXzA5zZ7V5kh4qSU",
+  "followers": {
+    "href": null,
+    "total": 231
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb18dbfabe4fbeee43d8926aa3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517418dbfabe4fbeee43d8926aa3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17818dbfabe4fbeee43d8926aa3",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1L8W76AXzA5zZ7V5kh4qSU"
+  }
+}

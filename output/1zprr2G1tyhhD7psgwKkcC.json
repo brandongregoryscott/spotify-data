@@ -1,0 +1,33 @@
+{
+  "id": "1zprr2G1tyhhD7psgwKkcC",
+  "name": "Emrat",
+  "uri": "spotify:artist:1zprr2G1tyhhD7psgwKkcC",
+  "followers": {
+    "href": null,
+    "total": 373
+  },
+  "genres": [
+    "ethnotronica"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb49f0b5f8a96ac89cfb4d235d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517449f0b5f8a96ac89cfb4d235d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17849f0b5f8a96ac89cfb4d235d",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1zprr2G1tyhhD7psgwKkcC"
+  }
+}

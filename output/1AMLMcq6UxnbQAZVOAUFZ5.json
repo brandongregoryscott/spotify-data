@@ -1,0 +1,33 @@
+{
+  "id": "1AMLMcq6UxnbQAZVOAUFZ5",
+  "name": "Hell & Back",
+  "uri": "spotify:artist:1AMLMcq6UxnbQAZVOAUFZ5",
+  "followers": {
+    "href": null,
+    "total": 1050
+  },
+  "genres": [
+    "stuttgart indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb25658dcd499598e76efad013",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517425658dcd499598e76efad013",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17825658dcd499598e76efad013",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1AMLMcq6UxnbQAZVOAUFZ5"
+  }
+}

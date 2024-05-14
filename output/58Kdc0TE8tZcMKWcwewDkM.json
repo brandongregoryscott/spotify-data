@@ -1,0 +1,35 @@
+{
+  "id": "58Kdc0TE8tZcMKWcwewDkM",
+  "name": "Bec Stevens",
+  "uri": "spotify:artist:58Kdc0TE8tZcMKWcwewDkM",
+  "followers": {
+    "href": null,
+    "total": 3899
+  },
+  "genres": [
+    "adelaide indie",
+    "melbourne indie",
+    "tassie indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb76140e167f4ebf9d0675c7aa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517476140e167f4ebf9d0675c7aa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17876140e167f4ebf9d0675c7aa",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/58Kdc0TE8tZcMKWcwewDkM"
+  }
+}

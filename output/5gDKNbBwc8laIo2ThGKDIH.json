@@ -1,0 +1,33 @@
+{
+  "id": "5gDKNbBwc8laIo2ThGKDIH",
+  "name": "The Momels",
+  "uri": "spotify:artist:5gDKNbBwc8laIo2ThGKDIH",
+  "followers": {
+    "href": null,
+    "total": 43
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733d3de0166389fcd89a62a6de",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023d3de0166389fcd89a62a6de",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513d3de0166389fcd89a62a6de",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5gDKNbBwc8laIo2ThGKDIH"
+  }
+}

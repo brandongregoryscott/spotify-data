@@ -1,0 +1,33 @@
+{
+  "id": "6oOdi33icoWfFtQnI6Y2M4",
+  "name": "Criminal",
+  "uri": "spotify:artist:6oOdi33icoWfFtQnI6Y2M4",
+  "followers": {
+    "href": null,
+    "total": 274
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb008e705cca82fd43263e20cc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174008e705cca82fd43263e20cc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178008e705cca82fd43263e20cc",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6oOdi33icoWfFtQnI6Y2M4"
+  }
+}

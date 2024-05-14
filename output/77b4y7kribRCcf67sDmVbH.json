@@ -1,0 +1,33 @@
+{
+  "id": "77b4y7kribRCcf67sDmVbH",
+  "name": "Thorsten Schepers",
+  "uri": "spotify:artist:77b4y7kribRCcf67sDmVbH",
+  "followers": {
+    "href": null,
+    "total": 9
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ac6df863296c061cc5c1d5e2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ac6df863296c061cc5c1d5e2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ac6df863296c061cc5c1d5e2",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/77b4y7kribRCcf67sDmVbH"
+  }
+}

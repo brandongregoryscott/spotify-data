@@ -1,0 +1,33 @@
+{
+  "id": "3FWtoIJX3Otd8MXp18JEiK",
+  "name": "Kaizers",
+  "uri": "spotify:artist:3FWtoIJX3Otd8MXp18JEiK",
+  "followers": {
+    "href": null,
+    "total": 547
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbbfd0ff5c2fd2e54bbbde406",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bbfd0ff5c2fd2e54bbbde406",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bbfd0ff5c2fd2e54bbbde406",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3FWtoIJX3Otd8MXp18JEiK"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7KvzBXGXq71C78oD80xJyK",
+  "name": "nxrman",
+  "uri": "spotify:artist:7KvzBXGXq71C78oD80xJyK",
+  "followers": {
+    "href": null,
+    "total": 277
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeeef468b264571e3ecb50307",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eeef468b264571e3ecb50307",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eeef468b264571e3ecb50307",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7KvzBXGXq71C78oD80xJyK"
+  }
+}

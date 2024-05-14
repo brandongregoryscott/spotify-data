@@ -1,0 +1,33 @@
+{
+  "id": "4fLF7NyMYLaMxUmZCSp5ex",
+  "name": "Johnny Yukon",
+  "uri": "spotify:artist:4fLF7NyMYLaMxUmZCSp5ex",
+  "followers": {
+    "href": null,
+    "total": 68847
+  },
+  "genres": [
+    "trap soul"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb882fe246fa903f9b358299f4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174882fe246fa903f9b358299f4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178882fe246fa903f9b358299f4",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
+  }
+}

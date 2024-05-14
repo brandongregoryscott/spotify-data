@@ -1,0 +1,33 @@
+{
+  "id": "0T4P9acZMCNgcnovSlpG5Q",
+  "name": "Far from None",
+  "uri": "spotify:artist:0T4P9acZMCNgcnovSlpG5Q",
+  "followers": {
+    "href": null,
+    "total": 44
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb672692ec815db7a4ef53c3ba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174672692ec815db7a4ef53c3ba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178672692ec815db7a4ef53c3ba",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0T4P9acZMCNgcnovSlpG5Q"
+  }
+}

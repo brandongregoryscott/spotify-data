@@ -1,0 +1,33 @@
+{
+  "id": "7rwRqaUuH6uWXk9tiS0JKW",
+  "name": "The Smashing Times",
+  "uri": "spotify:artist:7rwRqaUuH6uWXk9tiS0JKW",
+  "followers": {
+    "href": null,
+    "total": 841
+  },
+  "genres": [
+    "modern jangle pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb24226f230460c99fe7e149f1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517424226f230460c99fe7e149f1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17824226f230460c99fe7e149f1",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7rwRqaUuH6uWXk9tiS0JKW"
+  }
+}
