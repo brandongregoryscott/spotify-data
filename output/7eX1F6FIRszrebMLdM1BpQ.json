@@ -1,0 +1,34 @@
+{
+  "id": "7eX1F6FIRszrebMLdM1BpQ",
+  "name": "Avantgardet",
+  "uri": "spotify:artist:7eX1F6FIRszrebMLdM1BpQ",
+  "followers": {
+    "href": null,
+    "total": 5145
+  },
+  "genres": [
+    "kalmar indie",
+    "swedish indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb019befaad95790fd4bb72527",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174019befaad95790fd4bb72527",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178019befaad95790fd4bb72527",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ"
+  }
+}

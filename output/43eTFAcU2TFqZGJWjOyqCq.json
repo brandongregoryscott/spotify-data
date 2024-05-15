@@ -1,0 +1,33 @@
+{
+  "id": "43eTFAcU2TFqZGJWjOyqCq",
+  "name": "Daphne's Couch",
+  "uri": "spotify:artist:43eTFAcU2TFqZGJWjOyqCq",
+  "followers": {
+    "href": null,
+    "total": 2538
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcd3ef89b49e753021f92668b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cd3ef89b49e753021f92668b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cd3ef89b49e753021f92668b",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/43eTFAcU2TFqZGJWjOyqCq"
+  }
+}

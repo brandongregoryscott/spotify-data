@@ -1,0 +1,33 @@
+{
+  "id": "2gPEiENggVMQdIZ0CxoSGU",
+  "name": "Twisted Wizard",
+  "uri": "spotify:artist:2gPEiENggVMQdIZ0CxoSGU",
+  "followers": {
+    "href": null,
+    "total": 86
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb767c08e492ae55524a8b4916",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174767c08e492ae55524a8b4916",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178767c08e492ae55524a8b4916",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2gPEiENggVMQdIZ0CxoSGU"
+  }
+}

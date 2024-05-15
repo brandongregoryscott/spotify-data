@@ -1,0 +1,33 @@
+{
+  "id": "2Osj5g9VkHReOlZgfoEQao",
+  "name": "estraden",
+  "uri": "spotify:artist:2Osj5g9VkHReOlZgfoEQao",
+  "followers": {
+    "href": null,
+    "total": 33756
+  },
+  "genres": [
+    "swedish pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb37d6e6fe0b369a9515757733",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517437d6e6fe0b369a9515757733",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17837d6e6fe0b369a9515757733",
+      "width": 160
+    }
+  ],
+  "popularity": 52,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+  }
+}

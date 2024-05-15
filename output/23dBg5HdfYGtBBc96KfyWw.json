@@ -1,0 +1,34 @@
+{
+  "id": "23dBg5HdfYGtBBc96KfyWw",
+  "name": "Maxus",
+  "uri": "spotify:artist:23dBg5HdfYGtBBc96KfyWw",
+  "followers": {
+    "href": null,
+    "total": 2435
+  },
+  "genres": [
+    "deep soft rock",
+    "yacht rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c16e6c497daff3c2d048f052",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c16e6c497daff3c2d048f052",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c16e6c497daff3c2d048f052",
+      "width": 64
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/23dBg5HdfYGtBBc96KfyWw"
+  }
+}

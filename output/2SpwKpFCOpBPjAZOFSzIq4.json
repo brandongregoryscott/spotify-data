@@ -1,0 +1,33 @@
+{
+  "id": "2SpwKpFCOpBPjAZOFSzIq4",
+  "name": "Rose Haze",
+  "uri": "spotify:artist:2SpwKpFCOpBPjAZOFSzIq4",
+  "followers": {
+    "href": null,
+    "total": 557
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb68c6c0e423fdb23ac1e95b93",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517468c6c0e423fdb23ac1e95b93",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17868c6c0e423fdb23ac1e95b93",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2SpwKpFCOpBPjAZOFSzIq4"
+  }
+}

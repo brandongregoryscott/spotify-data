@@ -1,0 +1,33 @@
+{
+  "id": "2dHhOui1eGtGPURa079BMD",
+  "name": "Breaking Today",
+  "uri": "spotify:artist:2dHhOui1eGtGPURa079BMD",
+  "followers": {
+    "href": null,
+    "total": 78
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb461753cf571a364e0c4a21ad",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174461753cf571a364e0c4a21ad",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178461753cf571a364e0c4a21ad",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2dHhOui1eGtGPURa079BMD"
+  }
+}

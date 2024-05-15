@@ -1,0 +1,34 @@
+{
+  "id": "2uQCQ4BmANn12eOlOfkwqF",
+  "name": "Dead!",
+  "uri": "spotify:artist:2uQCQ4BmANn12eOlOfkwqF",
+  "followers": {
+    "href": null,
+    "total": 15954
+  },
+  "genres": [
+    "english indie rock",
+    "southampton indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebffed06a5268e20117ba7bef9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ffed06a5268e20117ba7bef9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ffed06a5268e20117ba7bef9",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2uQCQ4BmANn12eOlOfkwqF"
+  }
+}

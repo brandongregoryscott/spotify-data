@@ -1,0 +1,33 @@
+{
+  "id": "6FHpiparqe3BdjjfHyNXNJ",
+  "name": "Yonny",
+  "uri": "spotify:artist:6FHpiparqe3BdjjfHyNXNJ",
+  "followers": {
+    "href": null,
+    "total": 2808
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb28fdb18d65d97a1b70d05d19",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517428fdb18d65d97a1b70d05d19",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17828fdb18d65d97a1b70d05d19",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6FHpiparqe3BdjjfHyNXNJ"
+  }
+}

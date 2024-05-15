@@ -1,0 +1,33 @@
+{
+  "id": "73mPAqGn9r2CPr5kh28dX5",
+  "name": "AATA",
+  "uri": "spotify:artist:73mPAqGn9r2CPr5kh28dX5",
+  "followers": {
+    "href": null,
+    "total": 1290
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb84b3e28c7241fd09d249524",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b84b3e28c7241fd09d249524",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b84b3e28c7241fd09d249524",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/73mPAqGn9r2CPr5kh28dX5"
+  }
+}

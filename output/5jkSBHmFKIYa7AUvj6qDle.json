@@ -1,0 +1,33 @@
+{
+  "id": "5jkSBHmFKIYa7AUvj6qDle",
+  "name": "Awkward Thought",
+  "uri": "spotify:artist:5jkSBHmFKIYa7AUvj6qDle",
+  "followers": {
+    "href": null,
+    "total": 1047
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27350e7db47a559423447cb0b2b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0250e7db47a559423447cb0b2b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485150e7db47a559423447cb0b2b",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5jkSBHmFKIYa7AUvj6qDle"
+  }
+}

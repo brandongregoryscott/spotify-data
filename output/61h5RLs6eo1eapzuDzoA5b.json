@@ -1,0 +1,33 @@
+{
+  "id": "61h5RLs6eo1eapzuDzoA5b",
+  "name": "El David",
+  "uri": "spotify:artist:61h5RLs6eo1eapzuDzoA5b",
+  "followers": {
+    "href": null,
+    "total": 394146
+  },
+  "genres": [
+    "indie triste"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb68c79334a59bcc8042492133",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517468c79334a59bcc8042492133",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17868c79334a59bcc8042492133",
+      "width": 160
+    }
+  ],
+  "popularity": 54,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+  }
+}

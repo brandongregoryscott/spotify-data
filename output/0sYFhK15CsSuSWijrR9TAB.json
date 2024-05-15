@@ -1,0 +1,33 @@
+{
+  "id": "0sYFhK15CsSuSWijrR9TAB",
+  "name": "Vaelin",
+  "uri": "spotify:artist:0sYFhK15CsSuSWijrR9TAB",
+  "followers": {
+    "href": null,
+    "total": 289
+  },
+  "genres": [
+    "irish shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb54981af484e904cdd638cf15",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517454981af484e904cdd638cf15",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17854981af484e904cdd638cf15",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0sYFhK15CsSuSWijrR9TAB"
+  }
+}

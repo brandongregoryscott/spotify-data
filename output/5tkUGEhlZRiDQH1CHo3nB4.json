@@ -1,0 +1,33 @@
+{
+  "id": "5tkUGEhlZRiDQH1CHo3nB4",
+  "name": "Josh!",
+  "uri": "spotify:artist:5tkUGEhlZRiDQH1CHo3nB4",
+  "followers": {
+    "href": null,
+    "total": 3949
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb4d6378c2a6e1c31df0e04a8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b4d6378c2a6e1c31df0e04a8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b4d6378c2a6e1c31df0e04a8",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5tkUGEhlZRiDQH1CHo3nB4"
+  }
+}

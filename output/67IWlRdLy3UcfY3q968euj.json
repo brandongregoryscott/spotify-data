@@ -1,0 +1,33 @@
+{
+  "id": "67IWlRdLy3UcfY3q968euj",
+  "name": "GEMINI",
+  "uri": "spotify:artist:67IWlRdLy3UcfY3q968euj",
+  "followers": {
+    "href": null,
+    "total": 256306
+  },
+  "genres": [
+    "korean r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb380dba6991fdfa0b211bd166",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174380dba6991fdfa0b211bd166",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178380dba6991fdfa0b211bd166",
+      "width": 160
+    }
+  ],
+  "popularity": 52,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+  }
+}

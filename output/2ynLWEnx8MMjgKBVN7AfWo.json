@@ -1,0 +1,33 @@
+{
+  "id": "2ynLWEnx8MMjgKBVN7AfWo",
+  "name": "Pastel Faces",
+  "uri": "spotify:artist:2ynLWEnx8MMjgKBVN7AfWo",
+  "followers": {
+    "href": null,
+    "total": 1053
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb2ca60b9f7e8022afe5c2bd3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b2ca60b9f7e8022afe5c2bd3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b2ca60b9f7e8022afe5c2bd3",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ynLWEnx8MMjgKBVN7AfWo"
+  }
+}

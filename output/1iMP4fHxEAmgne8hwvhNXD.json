@@ -1,0 +1,34 @@
+{
+  "id": "1iMP4fHxEAmgne8hwvhNXD",
+  "name": "Electric Electric",
+  "uri": "spotify:artist:1iMP4fHxEAmgne8hwvhNXD",
+  "followers": {
+    "href": null,
+    "total": 2204
+  },
+  "genres": [
+    "french experimental rock",
+    "instrumental math rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b7f2b2ca974024402f08f32c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b7f2b2ca974024402f08f32c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b7f2b2ca974024402f08f32c",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1iMP4fHxEAmgne8hwvhNXD"
+  }
+}

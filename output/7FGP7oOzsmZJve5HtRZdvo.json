@@ -1,0 +1,33 @@
+{
+  "id": "7FGP7oOzsmZJve5HtRZdvo",
+  "name": "Nuria Saba",
+  "uri": "spotify:artist:7FGP7oOzsmZJve5HtRZdvo",
+  "followers": {
+    "href": null,
+    "total": 3342
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc51002af6bf5ee6f1a1f2f12",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c51002af6bf5ee6f1a1f2f12",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c51002af6bf5ee6f1a1f2f12",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7FGP7oOzsmZJve5HtRZdvo"
+  }
+}

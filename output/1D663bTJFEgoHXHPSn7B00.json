@@ -1,0 +1,33 @@
+{
+  "id": "1D663bTJFEgoHXHPSn7B00",
+  "name": "lulu",
+  "uri": "spotify:artist:1D663bTJFEgoHXHPSn7B00",
+  "followers": {
+    "href": null,
+    "total": 3742
+  },
+  "genres": [
+    "japanese r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb220c4ecb4d99fd2448aea808",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174220c4ecb4d99fd2448aea808",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178220c4ecb4d99fd2448aea808",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1D663bTJFEgoHXHPSn7B00"
+  }
+}

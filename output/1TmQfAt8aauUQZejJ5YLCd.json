@@ -1,0 +1,33 @@
+{
+  "id": "1TmQfAt8aauUQZejJ5YLCd",
+  "name": "Gerson Fernandes",
+  "uri": "spotify:artist:1TmQfAt8aauUQZejJ5YLCd",
+  "followers": {
+    "href": null,
+    "total": 40
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbe212d35c8943ac3deebff90",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174be212d35c8943ac3deebff90",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178be212d35c8943ac3deebff90",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1TmQfAt8aauUQZejJ5YLCd"
+  }
+}

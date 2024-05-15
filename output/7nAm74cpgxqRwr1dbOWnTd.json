@@ -1,0 +1,33 @@
+{
+  "id": "7nAm74cpgxqRwr1dbOWnTd",
+  "name": "Form of Rocket",
+  "uri": "spotify:artist:7nAm74cpgxqRwr1dbOWnTd",
+  "followers": {
+    "href": null,
+    "total": 830
+  },
+  "genres": [
+    "slc indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273164b8570dc7bea69044894f1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02164b8570dc7bea69044894f1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851164b8570dc7bea69044894f1",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7nAm74cpgxqRwr1dbOWnTd"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "6XZFFpva5iz8bDPqCWElen",
+  "name": "Māra",
+  "uri": "spotify:artist:6XZFFpva5iz8bDPqCWElen",
+  "followers": {
+    "href": null,
+    "total": 1903
+  },
+  "genres": [
+    "latvian metal",
+    "slayer"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27305e48c3e622e15e11d1d96fa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0205e48c3e622e15e11d1d96fa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485105e48c3e622e15e11d1d96fa",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6XZFFpva5iz8bDPqCWElen"
+  }
+}

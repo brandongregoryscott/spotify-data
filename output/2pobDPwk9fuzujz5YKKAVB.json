@@ -1,0 +1,34 @@
+{
+  "id": "2pobDPwk9fuzujz5YKKAVB",
+  "name": "Jada",
+  "uri": "spotify:artist:2pobDPwk9fuzujz5YKKAVB",
+  "followers": {
+    "href": null,
+    "total": 28321
+  },
+  "genres": [
+    "danish pop",
+    "scandipop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb22c5a8c6b39d54319b285205",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517422c5a8c6b39d54319b285205",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17822c5a8c6b39d54319b285205",
+      "width": 160
+    }
+  ],
+  "popularity": 39,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2pobDPwk9fuzujz5YKKAVB"
+  }
+}

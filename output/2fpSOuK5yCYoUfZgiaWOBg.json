@@ -1,0 +1,33 @@
+{
+  "id": "2fpSOuK5yCYoUfZgiaWOBg",
+  "name": "Avoid Paranoia",
+  "uri": "spotify:artist:2fpSOuK5yCYoUfZgiaWOBg",
+  "followers": {
+    "href": null,
+    "total": 640
+  },
+  "genres": [
+    "hyperpop en espanol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb2dbeb360b478138c2f1387fe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051742dbeb360b478138c2f1387fe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1782dbeb360b478138c2f1387fe",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2fpSOuK5yCYoUfZgiaWOBg"
+  }
+}

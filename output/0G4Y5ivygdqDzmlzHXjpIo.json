@@ -1,0 +1,33 @@
+{
+  "id": "0G4Y5ivygdqDzmlzHXjpIo",
+  "name": "Ellen Pub",
+  "uri": "spotify:artist:0G4Y5ivygdqDzmlzHXjpIo",
+  "followers": {
+    "href": null,
+    "total": 485
+  },
+  "genres": [
+    "indie rock peruano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb992328d2267820525e195184",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174992328d2267820525e195184",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178992328d2267820525e195184",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0G4Y5ivygdqDzmlzHXjpIo"
+  }
+}

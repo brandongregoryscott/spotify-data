@@ -1,0 +1,33 @@
+{
+  "id": "6hUIDnCrzRoxekFkOoy8Fi",
+  "name": "Treis",
+  "uri": "spotify:artist:6hUIDnCrzRoxekFkOoy8Fi",
+  "followers": {
+    "href": null,
+    "total": 1366
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfa70a68d967935faee347ec3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fa70a68d967935faee347ec3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fa70a68d967935faee347ec3",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6hUIDnCrzRoxekFkOoy8Fi"
+  }
+}

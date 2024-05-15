@@ -1,0 +1,33 @@
+{
+  "id": "1d00sWNjeLqoCaUaIzCeOW",
+  "name": "Tyhjä",
+  "uri": "spotify:artist:1d00sWNjeLqoCaUaIzCeOW",
+  "followers": {
+    "href": null,
+    "total": 383
+  },
+  "genres": [
+    "finnish black metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbafaa3dd6f8c1c1ccae8aa0c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bafaa3dd6f8c1c1ccae8aa0c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bafaa3dd6f8c1c1ccae8aa0c",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1d00sWNjeLqoCaUaIzCeOW"
+  }
+}

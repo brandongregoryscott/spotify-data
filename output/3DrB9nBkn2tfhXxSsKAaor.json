@@ -1,0 +1,33 @@
+{
+  "id": "3DrB9nBkn2tfhXxSsKAaor",
+  "name": "William Wild",
+  "uri": "spotify:artist:3DrB9nBkn2tfhXxSsKAaor",
+  "followers": {
+    "href": null,
+    "total": 14266
+  },
+  "genres": [
+    "knoxville indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb85c306ba69a9a0aa97a0e474",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517485c306ba69a9a0aa97a0e474",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17885c306ba69a9a0aa97a0e474",
+      "width": 160
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor"
+  }
+}

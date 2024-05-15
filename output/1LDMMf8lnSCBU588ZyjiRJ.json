@@ -1,0 +1,33 @@
+{
+  "id": "1LDMMf8lnSCBU588ZyjiRJ",
+  "name": "Auberon",
+  "uri": "spotify:artist:1LDMMf8lnSCBU588ZyjiRJ",
+  "followers": {
+    "href": null,
+    "total": 928
+  },
+  "genres": [
+    "swedish melodeath"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730c2e9db1561403dd8950224b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020c2e9db1561403dd8950224b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510c2e9db1561403dd8950224b",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1LDMMf8lnSCBU588ZyjiRJ"
+  }
+}

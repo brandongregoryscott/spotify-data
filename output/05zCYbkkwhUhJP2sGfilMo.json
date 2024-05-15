@@ -1,0 +1,34 @@
+{
+  "id": "05zCYbkkwhUhJP2sGfilMo",
+  "name": "Havet",
+  "uri": "spotify:artist:05zCYbkkwhUhJP2sGfilMo",
+  "followers": {
+    "href": null,
+    "total": 2695
+  },
+  "genres": [
+    "gothenburg indie",
+    "swedish indie pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb51f7589c99394dd91d3d535a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517451f7589c99394dd91d3d535a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17851f7589c99394dd91d3d535a",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05zCYbkkwhUhJP2sGfilMo"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0IWIZNGZn7pU9H6hb6qCto",
+  "name": "Takers",
+  "uri": "spotify:artist:0IWIZNGZn7pU9H6hb6qCto",
+  "followers": {
+    "href": null,
+    "total": 621
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb12591be40bd7577667b103df",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517412591be40bd7577667b103df",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17812591be40bd7577667b103df",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0IWIZNGZn7pU9H6hb6qCto"
+  }
+}

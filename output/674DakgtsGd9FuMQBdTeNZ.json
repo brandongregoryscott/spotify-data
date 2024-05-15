@@ -1,0 +1,33 @@
+{
+  "id": "674DakgtsGd9FuMQBdTeNZ",
+  "name": "My Private Language",
+  "uri": "spotify:artist:674DakgtsGd9FuMQBdTeNZ",
+  "followers": {
+    "href": null,
+    "total": 43
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebec6e535db7ba5a6142efbd9c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ec6e535db7ba5a6142efbd9c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ec6e535db7ba5a6142efbd9c",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/674DakgtsGd9FuMQBdTeNZ"
+  }
+}

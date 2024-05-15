@@ -1,0 +1,33 @@
+{
+  "id": "3nGDovszceLUcX3WRNihIG",
+  "name": "Taylor Lit",
+  "uri": "spotify:artist:3nGDovszceLUcX3WRNihIG",
+  "followers": {
+    "href": null,
+    "total": 10
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb312e3b00da12e78bf3ae4455",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174312e3b00da12e78bf3ae4455",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178312e3b00da12e78bf3ae4455",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3nGDovszceLUcX3WRNihIG"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2DBErimSsMxyk9SUIKo0IO",
+  "name": "Marrakech",
+  "uri": "spotify:artist:2DBErimSsMxyk9SUIKo0IO",
+  "followers": {
+    "href": null,
+    "total": 242
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27339d3443facf2b776e50a6cc7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0239d3443facf2b776e50a6cc7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485139d3443facf2b776e50a6cc7",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2DBErimSsMxyk9SUIKo0IO"
+  }
+}

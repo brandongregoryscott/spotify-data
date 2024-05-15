@@ -1,0 +1,33 @@
+{
+  "id": "7fmFzRfUyxfnxfPlyU8mXI",
+  "name": "Two Headed Girl",
+  "uri": "spotify:artist:7fmFzRfUyxfnxfPlyU8mXI",
+  "followers": {
+    "href": null,
+    "total": 434
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb60a7ac628e84187f010445fc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517460a7ac628e84187f010445fc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17860a7ac628e84187f010445fc",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7fmFzRfUyxfnxfPlyU8mXI"
+  }
+}

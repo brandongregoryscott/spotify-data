@@ -1,0 +1,33 @@
+{
+  "id": "5gwaQTfKLp93WjE9qllzRW",
+  "name": "MoMo",
+  "uri": "spotify:artist:5gwaQTfKLp93WjE9qllzRW",
+  "followers": {
+    "href": null,
+    "total": 2046
+  },
+  "genres": [
+    "japanese r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfe9596bede304af7716331eb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fe9596bede304af7716331eb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fe9596bede304af7716331eb",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5gwaQTfKLp93WjE9qllzRW"
+  }
+}

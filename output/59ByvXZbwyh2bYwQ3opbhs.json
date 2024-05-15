@@ -1,0 +1,33 @@
+{
+  "id": "59ByvXZbwyh2bYwQ3opbhs",
+  "name": "VersoExplícito",
+  "uri": "spotify:artist:59ByvXZbwyh2bYwQ3opbhs",
+  "followers": {
+    "href": null,
+    "total": 615
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0101ec1b7d0ba4071b15c6b5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051740101ec1b7d0ba4071b15c6b5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1780101ec1b7d0ba4071b15c6b5",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/59ByvXZbwyh2bYwQ3opbhs"
+  }
+}

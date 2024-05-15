@@ -1,0 +1,36 @@
+{
+  "id": "3V70UC5ftw2Rt78ctlaQdz",
+  "name": "Get Dead",
+  "uri": "spotify:artist:3V70UC5ftw2Rt78ctlaQdz",
+  "followers": {
+    "href": null,
+    "total": 24645
+  },
+  "genres": [
+    "acoustic punk",
+    "folk punk",
+    "orgcore",
+    "skate punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf801020458ed4b1adaa49001",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f801020458ed4b1adaa49001",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f801020458ed4b1adaa49001",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3V70UC5ftw2Rt78ctlaQdz"
+  }
+}

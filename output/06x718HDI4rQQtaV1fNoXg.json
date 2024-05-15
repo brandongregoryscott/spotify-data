@@ -1,0 +1,33 @@
+{
+  "id": "06x718HDI4rQQtaV1fNoXg",
+  "name": "Benny Garner",
+  "uri": "spotify:artist:06x718HDI4rQQtaV1fNoXg",
+  "followers": {
+    "href": null,
+    "total": 3747
+  },
+  "genres": [
+    "piano cover"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27350d7b496735d030ec56e6f2a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0250d7b496735d030ec56e6f2a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485150d7b496735d030ec56e6f2a",
+      "width": 64
+    }
+  ],
+  "popularity": 44,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/06x718HDI4rQQtaV1fNoXg"
+  }
+}

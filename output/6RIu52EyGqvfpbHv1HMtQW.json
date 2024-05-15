@@ -1,0 +1,33 @@
+{
+  "id": "6RIu52EyGqvfpbHv1HMtQW",
+  "name": "Zav",
+  "uri": "spotify:artist:6RIu52EyGqvfpbHv1HMtQW",
+  "followers": {
+    "href": null,
+    "total": 2151
+  },
+  "genres": [
+    "musica afroperuana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb24cf2080cc4529a4a6dfcd5e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517424cf2080cc4529a4a6dfcd5e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17824cf2080cc4529a4a6dfcd5e",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6RIu52EyGqvfpbHv1HMtQW"
+  }
+}

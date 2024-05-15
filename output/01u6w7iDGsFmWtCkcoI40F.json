@@ -1,0 +1,33 @@
+{
+  "id": "01u6w7iDGsFmWtCkcoI40F",
+  "name": "Zero Tolerance",
+  "uri": "spotify:artist:01u6w7iDGsFmWtCkcoI40F",
+  "followers": {
+    "href": null,
+    "total": 257
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb687906161c378c6408657cc6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174687906161c378c6408657cc6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178687906161c378c6408657cc6",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01u6w7iDGsFmWtCkcoI40F"
+  }
+}

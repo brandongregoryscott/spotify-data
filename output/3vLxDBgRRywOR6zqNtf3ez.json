@@ -1,0 +1,33 @@
+{
+  "id": "3vLxDBgRRywOR6zqNtf3ez",
+  "name": "Ordalia",
+  "uri": "spotify:artist:3vLxDBgRRywOR6zqNtf3ez",
+  "followers": {
+    "href": null,
+    "total": 280
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273730c16520fbe8697588d76f4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02730c16520fbe8697588d76f4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851730c16520fbe8697588d76f4",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3vLxDBgRRywOR6zqNtf3ez"
+  }
+}

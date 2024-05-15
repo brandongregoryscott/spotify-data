@@ -1,0 +1,33 @@
+{
+  "id": "1qx0oqlEVsYn2sSracVK8X",
+  "name": "Duskwood",
+  "uri": "spotify:artist:1qx0oqlEVsYn2sSracVK8X",
+  "followers": {
+    "href": null,
+    "total": 1290
+  },
+  "genres": [
+    "uk stoner rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf38bdbb253a2de809fdbe238",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f38bdbb253a2de809fdbe238",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f38bdbb253a2de809fdbe238",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1qx0oqlEVsYn2sSracVK8X"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "25IYFyXjuCqKlIbSeaRAZO",
+  "name": "Simplified",
+  "uri": "spotify:artist:25IYFyXjuCqKlIbSeaRAZO",
+  "followers": {
+    "href": null,
+    "total": 15031
+  },
+  "genres": [
+    "east coast reggae",
+    "reggae rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbeca56f04dacff86e5c1ba1f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174beca56f04dacff86e5c1ba1f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178beca56f04dacff86e5c1ba1f",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/25IYFyXjuCqKlIbSeaRAZO"
+  }
+}

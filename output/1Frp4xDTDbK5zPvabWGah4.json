@@ -1,0 +1,33 @@
+{
+  "id": "1Frp4xDTDbK5zPvabWGah4",
+  "name": "muhpy",
+  "uri": "spotify:artist:1Frp4xDTDbK5zPvabWGah4",
+  "followers": {
+    "href": null,
+    "total": 311
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273aa1ba020cdc3685ce6960f7a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02aa1ba020cdc3685ce6960f7a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851aa1ba020cdc3685ce6960f7a",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Frp4xDTDbK5zPvabWGah4"
+  }
+}

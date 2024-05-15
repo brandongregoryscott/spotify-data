@@ -1,0 +1,36 @@
+{
+  "id": "03QXXHUui5gHnXOmd49SdV",
+  "name": "Subforms",
+  "uri": "spotify:artist:03QXXHUui5gHnXOmd49SdV",
+  "followers": {
+    "href": null,
+    "total": 1282
+  },
+  "genres": [
+    "ambient dub techno",
+    "dub techno",
+    "ukrainian experimental",
+    "ukrainian techno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd7c395cf00b6210c98175273",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d7c395cf00b6210c98175273",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d7c395cf00b6210c98175273",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03QXXHUui5gHnXOmd49SdV"
+  }
+}

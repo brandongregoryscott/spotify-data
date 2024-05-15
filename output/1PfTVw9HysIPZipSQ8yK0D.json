@@ -1,0 +1,33 @@
+{
+  "id": "1PfTVw9HysIPZipSQ8yK0D",
+  "name": "Audrey Plath",
+  "uri": "spotify:artist:1PfTVw9HysIPZipSQ8yK0D",
+  "followers": {
+    "href": null,
+    "total": 322
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735b2577d5f6c429080f8084df",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025b2577d5f6c429080f8084df",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515b2577d5f6c429080f8084df",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1PfTVw9HysIPZipSQ8yK0D"
+  }
+}

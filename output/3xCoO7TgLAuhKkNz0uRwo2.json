@@ -1,0 +1,33 @@
+{
+  "id": "3xCoO7TgLAuhKkNz0uRwo2",
+  "name": "Amikiraa",
+  "uri": "spotify:artist:3xCoO7TgLAuhKkNz0uRwo2",
+  "followers": {
+    "href": null,
+    "total": 3361
+  },
+  "genres": [
+    "pop chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb96ddb53c830cce01fe2b6c41",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517496ddb53c830cce01fe2b6c41",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17896ddb53c830cce01fe2b6c41",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2"
+  }
+}

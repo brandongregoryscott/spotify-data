@@ -1,0 +1,33 @@
+{
+  "id": "6eqzXd4Ps6e1PjoUu3PsFR",
+  "name": "Resin",
+  "uri": "spotify:artist:6eqzXd4Ps6e1PjoUu3PsFR",
+  "followers": {
+    "href": null,
+    "total": 187
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273490c689b9460ef8732b3fd56",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02490c689b9460ef8732b3fd56",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851490c689b9460ef8732b3fd56",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6eqzXd4Ps6e1PjoUu3PsFR"
+  }
+}

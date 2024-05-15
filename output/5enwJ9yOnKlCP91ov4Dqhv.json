@@ -1,0 +1,34 @@
+{
+  "id": "5enwJ9yOnKlCP91ov4Dqhv",
+  "name": "punchnello",
+  "uri": "spotify:artist:5enwJ9yOnKlCP91ov4Dqhv",
+  "followers": {
+    "href": null,
+    "total": 154003
+  },
+  "genres": [
+    "k-rap",
+    "korean r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcad973b778dc99f90492c017",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cad973b778dc99f90492c017",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cad973b778dc99f90492c017",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+  }
+}

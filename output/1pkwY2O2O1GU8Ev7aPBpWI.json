@@ -1,0 +1,33 @@
+{
+  "id": "1pkwY2O2O1GU8Ev7aPBpWI",
+  "name": "jozi.",
+  "uri": "spotify:artist:1pkwY2O2O1GU8Ev7aPBpWI",
+  "followers": {
+    "href": null,
+    "total": 79
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb7d05b061d1e54a0c07ad8d2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b7d05b061d1e54a0c07ad8d2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b7d05b061d1e54a0c07ad8d2",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1pkwY2O2O1GU8Ev7aPBpWI"
+  }
+}

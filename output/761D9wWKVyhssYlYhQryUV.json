@@ -1,0 +1,33 @@
+{
+  "id": "761D9wWKVyhssYlYhQryUV",
+  "name": "IRIS",
+  "uri": "spotify:artist:761D9wWKVyhssYlYhQryUV",
+  "followers": {
+    "href": null,
+    "total": 347
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbc9cce8d55b3f9b87ee85e39",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bc9cce8d55b3f9b87ee85e39",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bc9cce8d55b3f9b87ee85e39",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/761D9wWKVyhssYlYhQryUV"
+  }
+}

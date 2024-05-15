@@ -1,0 +1,33 @@
+{
+  "id": "22wwrjRnmdNO22mRjzdmQN",
+  "name": "Somerdale",
+  "uri": "spotify:artist:22wwrjRnmdNO22mRjzdmQN",
+  "followers": {
+    "href": null,
+    "total": 148
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcca5039ed9ef1a3ed286ca1b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cca5039ed9ef1a3ed286ca1b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cca5039ed9ef1a3ed286ca1b",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/22wwrjRnmdNO22mRjzdmQN"
+  }
+}

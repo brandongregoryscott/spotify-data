@@ -1,0 +1,33 @@
+{
+  "id": "4ZGxH0ohb2nF4uaMWF0JTX",
+  "name": "yield",
+  "uri": "spotify:artist:4ZGxH0ohb2nF4uaMWF0JTX",
+  "followers": {
+    "href": null,
+    "total": 75
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb94c7b70fbec5280ddd014c9d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517494c7b70fbec5280ddd014c9d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17894c7b70fbec5280ddd014c9d",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4ZGxH0ohb2nF4uaMWF0JTX"
+  }
+}

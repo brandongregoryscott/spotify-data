@@ -1,0 +1,33 @@
+{
+  "id": "0GQcMus50dSmI819BWDyTZ",
+  "name": "Andrew Chalk",
+  "uri": "spotify:artist:0GQcMus50dSmI819BWDyTZ",
+  "followers": {
+    "href": null,
+    "total": 1297
+  },
+  "genres": [
+    "ambient industrial"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c5f0341ccef2ce384ef64492",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c5f0341ccef2ce384ef64492",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c5f0341ccef2ce384ef64492",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0GQcMus50dSmI819BWDyTZ"
+  }
+}

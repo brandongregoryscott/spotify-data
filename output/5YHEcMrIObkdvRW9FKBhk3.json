@@ -1,0 +1,33 @@
+{
+  "id": "5YHEcMrIObkdvRW9FKBhk3",
+  "name": "정수라",
+  "uri": "spotify:artist:5YHEcMrIObkdvRW9FKBhk3",
+  "followers": {
+    "href": null,
+    "total": 935
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732ffaf637776c41b15b03d5ef",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022ffaf637776c41b15b03d5ef",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512ffaf637776c41b15b03d5ef",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5YHEcMrIObkdvRW9FKBhk3"
+  }
+}

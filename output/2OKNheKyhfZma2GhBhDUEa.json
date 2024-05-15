@@ -1,0 +1,33 @@
+{
+  "id": "2OKNheKyhfZma2GhBhDUEa",
+  "name": "Post Elvis",
+  "uri": "spotify:artist:2OKNheKyhfZma2GhBhDUEa",
+  "followers": {
+    "href": null,
+    "total": 1515
+  },
+  "genres": [
+    "san diego indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebac7309ea013f37c11f0ca164",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ac7309ea013f37c11f0ca164",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ac7309ea013f37c11f0ca164",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2OKNheKyhfZma2GhBhDUEa"
+  }
+}

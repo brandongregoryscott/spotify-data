@@ -1,0 +1,33 @@
+{
+  "id": "1imn2WUN95p3MbeAGUP7gK",
+  "name": "BAZOFIA",
+  "uri": "spotify:artist:1imn2WUN95p3MbeAGUP7gK",
+  "followers": {
+    "href": null,
+    "total": 542
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb16fd82f505f3c43384ada5d8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517416fd82f505f3c43384ada5d8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17816fd82f505f3c43384ada5d8",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1imn2WUN95p3MbeAGUP7gK"
+  }
+}

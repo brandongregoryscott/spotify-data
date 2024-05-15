@@ -1,0 +1,33 @@
+{
+  "id": "0I6KWC4h8huHA3Mgj2NaqZ",
+  "name": "RAq",
+  "uri": "spotify:artist:0I6KWC4h8huHA3Mgj2NaqZ",
+  "followers": {
+    "href": null,
+    "total": 895
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd4729b7af9cec05c3b1deb4b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d4729b7af9cec05c3b1deb4b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d4729b7af9cec05c3b1deb4b",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0I6KWC4h8huHA3Mgj2NaqZ"
+  }
+}

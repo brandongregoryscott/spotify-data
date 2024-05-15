@@ -1,0 +1,33 @@
+{
+  "id": "4YgQhuKk5OT57VvtUWSe9q",
+  "name": "Lil Prada",
+  "uri": "spotify:artist:4YgQhuKk5OT57VvtUWSe9q",
+  "followers": {
+    "href": null,
+    "total": 1703
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb90923a574cdf30104d8eb2bd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517490923a574cdf30104d8eb2bd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17890923a574cdf30104d8eb2bd",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4YgQhuKk5OT57VvtUWSe9q"
+  }
+}

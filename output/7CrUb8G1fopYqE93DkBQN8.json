@@ -1,0 +1,33 @@
+{
+  "id": "7CrUb8G1fopYqE93DkBQN8",
+  "name": "23 E",
+  "uri": "spotify:artist:7CrUb8G1fopYqE93DkBQN8",
+  "followers": {
+    "href": null,
+    "total": 71
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731bfa39a53f8fabf941dca262",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021bfa39a53f8fabf941dca262",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511bfa39a53f8fabf941dca262",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7CrUb8G1fopYqE93DkBQN8"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5rRoUPqvnhKn6rM5KJjsMg",
+  "name": "Toboggan",
+  "uri": "spotify:artist:5rRoUPqvnhKn6rM5KJjsMg",
+  "followers": {
+    "href": null,
+    "total": 180
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27324a777daaf77bd5946b15b5d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0224a777daaf77bd5946b15b5d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485124a777daaf77bd5946b15b5d",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5rRoUPqvnhKn6rM5KJjsMg"
+  }
+}

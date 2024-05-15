@@ -1,0 +1,33 @@
+{
+  "id": "0m9NejwLqy1aP3HlLdaOHK",
+  "name": "The Roblin",
+  "uri": "spotify:artist:0m9NejwLqy1aP3HlLdaOHK",
+  "followers": {
+    "href": null,
+    "total": 26
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27371bcb961d55f66b8cc2525ed",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0271bcb961d55f66b8cc2525ed",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485171bcb961d55f66b8cc2525ed",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0m9NejwLqy1aP3HlLdaOHK"
+  }
+}

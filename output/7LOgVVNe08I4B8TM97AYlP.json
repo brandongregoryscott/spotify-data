@@ -1,0 +1,33 @@
+{
+  "id": "7LOgVVNe08I4B8TM97AYlP",
+  "name": "quandor",
+  "uri": "spotify:artist:7LOgVVNe08I4B8TM97AYlP",
+  "followers": {
+    "href": null,
+    "total": 512
+  },
+  "genres": [
+    "russian hyperpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbfc58a8bf7662fe2a7c5fb25",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bfc58a8bf7662fe2a7c5fb25",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bfc58a8bf7662fe2a7c5fb25",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7LOgVVNe08I4B8TM97AYlP"
+  }
+}

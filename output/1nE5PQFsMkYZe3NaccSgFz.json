@@ -1,0 +1,33 @@
+{
+  "id": "1nE5PQFsMkYZe3NaccSgFz",
+  "name": "BrodieDaVinci",
+  "uri": "spotify:artist:1nE5PQFsMkYZe3NaccSgFz",
+  "followers": {
+    "href": null,
+    "total": 395
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb609f67c7002a1124c0ce4b91",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174609f67c7002a1124c0ce4b91",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178609f67c7002a1124c0ce4b91",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1nE5PQFsMkYZe3NaccSgFz"
+  }
+}

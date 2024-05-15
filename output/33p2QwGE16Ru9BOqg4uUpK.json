@@ -1,0 +1,33 @@
+{
+  "id": "33p2QwGE16Ru9BOqg4uUpK",
+  "name": "Proselyte",
+  "uri": "spotify:artist:33p2QwGE16Ru9BOqg4uUpK",
+  "followers": {
+    "href": null,
+    "total": 317
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb24a1a5f618be00dd0df4b178",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517424a1a5f618be00dd0df4b178",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17824a1a5f618be00dd0df4b178",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/33p2QwGE16Ru9BOqg4uUpK"
+  }
+}

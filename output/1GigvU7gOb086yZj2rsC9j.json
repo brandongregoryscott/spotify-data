@@ -1,0 +1,33 @@
+{
+  "id": "1GigvU7gOb086yZj2rsC9j",
+  "name": "Splinter Test",
+  "uri": "spotify:artist:1GigvU7gOb086yZj2rsC9j",
+  "followers": {
+    "href": null,
+    "total": 352
+  },
+  "genres": [
+    "british experimental"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738cd3bf9bd3e68141fda2fbbe",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028cd3bf9bd3e68141fda2fbbe",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518cd3bf9bd3e68141fda2fbbe",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1GigvU7gOb086yZj2rsC9j"
+  }
+}

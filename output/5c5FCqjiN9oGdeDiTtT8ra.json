@@ -1,0 +1,33 @@
+{
+  "id": "5c5FCqjiN9oGdeDiTtT8ra",
+  "name": "Batwizard",
+  "uri": "spotify:artist:5c5FCqjiN9oGdeDiTtT8ra",
+  "followers": {
+    "href": null,
+    "total": 201
+  },
+  "genres": [
+    "kentucky metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273464ab00beb02184ae9174ada",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02464ab00beb02184ae9174ada",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851464ab00beb02184ae9174ada",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5c5FCqjiN9oGdeDiTtT8ra"
+  }
+}

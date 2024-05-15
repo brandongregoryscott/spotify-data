@@ -1,0 +1,36 @@
+{
+  "id": "25IRTisJjqI6JlkyCVMBsV",
+  "name": "Dr. Feelgood",
+  "uri": "spotify:artist:25IRTisJjqI6JlkyCVMBsV",
+  "followers": {
+    "href": null,
+    "total": 107516
+  },
+  "genres": [
+    "blues rock",
+    "british blues",
+    "protopunk",
+    "pub rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe395ddadb9670997384100ad",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e395ddadb9670997384100ad",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e395ddadb9670997384100ad",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/25IRTisJjqI6JlkyCVMBsV"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5DDpDYLDv4xasIBS6kp2wf",
+  "name": "Loyaltty",
+  "uri": "spotify:artist:5DDpDYLDv4xasIBS6kp2wf",
+  "followers": {
+    "href": null,
+    "total": 10973
+  },
+  "genres": [
+    "urbano chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcfe12ef5b0a5a2b6185f0c50",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cfe12ef5b0a5a2b6185f0c50",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cfe12ef5b0a5a2b6185f0c50",
+      "width": 160
+    }
+  ],
+  "popularity": 37,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+  }
+}

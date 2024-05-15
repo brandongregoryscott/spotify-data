@@ -1,0 +1,33 @@
+{
+  "id": "3LKonBMDeuBrlNopNw6cld",
+  "name": "JJ Fuentes",
+  "uri": "spotify:artist:3LKonBMDeuBrlNopNw6cld",
+  "followers": {
+    "href": null,
+    "total": 406
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb986b2f26cd3880891e82fee",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b986b2f26cd3880891e82fee",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b986b2f26cd3880891e82fee",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3LKonBMDeuBrlNopNw6cld"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0mTbzPxjlggiXP3XxHumrj",
+  "name": "Club Music",
+  "uri": "spotify:artist:0mTbzPxjlggiXP3XxHumrj",
+  "followers": {
+    "href": null,
+    "total": 3710
+  },
+  "genres": [
+    "modern ebm"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb52297c8ef8e88b6a0f95c883",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517452297c8ef8e88b6a0f95c883",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17852297c8ef8e88b6a0f95c883",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0mTbzPxjlggiXP3XxHumrj"
+  }
+}

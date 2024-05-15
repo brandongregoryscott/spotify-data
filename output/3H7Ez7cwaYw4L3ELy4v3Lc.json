@@ -1,0 +1,36 @@
+{
+  "id": "3H7Ez7cwaYw4L3ELy4v3Lc",
+  "name": "Håkan Hellström",
+  "uri": "spotify:artist:3H7Ez7cwaYw4L3ELy4v3Lc",
+  "followers": {
+    "href": null,
+    "total": 294895
+  },
+  "genres": [
+    "classic swedish pop",
+    "gothenburg indie",
+    "swedish indie rock",
+    "swedish pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb60b97753efa6e7f751fc6d29",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517460b97753efa6e7f751fc6d29",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17860b97753efa6e7f751fc6d29",
+      "width": 160
+    }
+  ],
+  "popularity": 57,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+  }
+}

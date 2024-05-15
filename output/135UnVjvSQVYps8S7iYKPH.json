@@ -1,0 +1,34 @@
+{
+  "id": "135UnVjvSQVYps8S7iYKPH",
+  "name": "Echo Image",
+  "uri": "spotify:artist:135UnVjvSQVYps8S7iYKPH",
+  "followers": {
+    "href": null,
+    "total": 3425
+  },
+  "genres": [
+    "futurepop",
+    "neo-synthpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe5d98c437ed7579123f2164f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e5d98c437ed7579123f2164f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e5d98c437ed7579123f2164f",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/135UnVjvSQVYps8S7iYKPH"
+  }
+}

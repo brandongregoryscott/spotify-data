@@ -1,0 +1,34 @@
+{
+  "id": "7GBLSeDdlx3gl2cxHvYuOh",
+  "name": "The Wannadies",
+  "uri": "spotify:artist:7GBLSeDdlx3gl2cxHvYuOh",
+  "followers": {
+    "href": null,
+    "total": 35053
+  },
+  "genres": [
+    "swedish alternative rock",
+    "swedish indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb214476b592ca3c9b3a9005e2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174214476b592ca3c9b3a9005e2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178214476b592ca3c9b3a9005e2",
+      "width": 160
+    }
+  ],
+  "popularity": 41,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7GBLSeDdlx3gl2cxHvYuOh"
+  }
+}

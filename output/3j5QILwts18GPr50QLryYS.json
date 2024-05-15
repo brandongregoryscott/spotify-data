@@ -1,0 +1,33 @@
+{
+  "id": "3j5QILwts18GPr50QLryYS",
+  "name": "Mary Flow",
+  "uri": "spotify:artist:3j5QILwts18GPr50QLryYS",
+  "followers": {
+    "href": null,
+    "total": 277
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebae29d9ed3faa07e048e806c9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ae29d9ed3faa07e048e806c9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ae29d9ed3faa07e048e806c9",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3j5QILwts18GPr50QLryYS"
+  }
+}

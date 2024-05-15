@@ -1,0 +1,33 @@
+{
+  "id": "3YjIlqT1CU8g1chATJcpEK",
+  "name": "Dr. Schmidt",
+  "uri": "spotify:artist:3YjIlqT1CU8g1chATJcpEK",
+  "followers": {
+    "href": null,
+    "total": 252
+  },
+  "genres": [
+    "nu electro"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d8cf1b68943555d699e0337c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d8cf1b68943555d699e0337c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d8cf1b68943555d699e0337c",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3YjIlqT1CU8g1chATJcpEK"
+  }
+}

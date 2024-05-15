@@ -1,0 +1,33 @@
+{
+  "id": "1hjjZKt6yK0bGmubr0yOZ6",
+  "name": "여행스케치",
+  "uri": "spotify:artist:1hjjZKt6yK0bGmubr0yOZ6",
+  "followers": {
+    "href": null,
+    "total": 4496
+  },
+  "genres": [
+    "classic korean pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27385c23d731d2f280084eefb6b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0285c23d731d2f280084eefb6b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485185c23d731d2f280084eefb6b",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1hjjZKt6yK0bGmubr0yOZ6"
+  }
+}

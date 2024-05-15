@@ -1,0 +1,35 @@
+{
+  "id": "0EAkC9UTbFFtnYJD3J6YuU",
+  "name": "Focused",
+  "uri": "spotify:artist:0EAkC9UTbFFtnYJD3J6YuU",
+  "followers": {
+    "href": null,
+    "total": 2613
+  },
+  "genres": [
+    "california hardcore",
+    "christian hardcore",
+    "christian punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735be046aa49d0ddcdae2761e5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025be046aa49d0ddcdae2761e5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515be046aa49d0ddcdae2761e5",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0EAkC9UTbFFtnYJD3J6YuU"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "4820AP0lvBGJjSK0PXgZgo",
+  "name": "IVORY",
+  "uri": "spotify:artist:4820AP0lvBGJjSK0PXgZgo",
+  "followers": {
+    "href": null,
+    "total": 21576
+  },
+  "genres": [
+    "brostep",
+    "dubstep",
+    "gaming dubstep"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb51ba1fde659cf70eb11ceb06",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517451ba1fde659cf70eb11ceb06",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17851ba1fde659cf70eb11ceb06",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
+  }
+}

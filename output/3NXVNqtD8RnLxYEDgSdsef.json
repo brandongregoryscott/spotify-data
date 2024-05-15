@@ -1,0 +1,33 @@
+{
+  "id": "3NXVNqtD8RnLxYEDgSdsef",
+  "name": "The Inflorescence",
+  "uri": "spotify:artist:3NXVNqtD8RnLxYEDgSdsef",
+  "followers": {
+    "href": null,
+    "total": 1161
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb3761c47e9b6e93e7a8b93b0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b3761c47e9b6e93e7a8b93b0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b3761c47e9b6e93e7a8b93b0",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3NXVNqtD8RnLxYEDgSdsef"
+  }
+}

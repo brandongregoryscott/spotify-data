@@ -1,0 +1,33 @@
+{
+  "id": "3Y2AC3GNBZmXfu0fmTcvOI",
+  "name": "Pink Room",
+  "uri": "spotify:artist:3Y2AC3GNBZmXfu0fmTcvOI",
+  "followers": {
+    "href": null,
+    "total": 905
+  },
+  "genres": [
+    "belgian indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb17642202debc81ed3c42535a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517417642202debc81ed3c42535a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17817642202debc81ed3c42535a",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Y2AC3GNBZmXfu0fmTcvOI"
+  }
+}

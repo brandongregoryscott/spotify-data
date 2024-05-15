@@ -1,0 +1,33 @@
+{
+  "id": "0w3ysYzqnO64zk3sfUfOtB",
+  "name": "Ten 33",
+  "uri": "spotify:artist:0w3ysYzqnO64zk3sfUfOtB",
+  "followers": {
+    "href": null,
+    "total": 183
+  },
+  "genres": [
+    "virginia punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27369f463bc3ffe47ac8b645115",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0269f463bc3ffe47ac8b645115",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485169f463bc3ffe47ac8b645115",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0w3ysYzqnO64zk3sfUfOtB"
+  }
+}

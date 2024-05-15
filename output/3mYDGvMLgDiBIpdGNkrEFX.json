@@ -1,0 +1,33 @@
+{
+  "id": "3mYDGvMLgDiBIpdGNkrEFX",
+  "name": "LEVY",
+  "uri": "spotify:artist:3mYDGvMLgDiBIpdGNkrEFX",
+  "followers": {
+    "href": null,
+    "total": 540
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb69f44b0337e68b25d669a726",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517469f44b0337e68b25d669a726",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17869f44b0337e68b25d669a726",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3mYDGvMLgDiBIpdGNkrEFX"
+  }
+}

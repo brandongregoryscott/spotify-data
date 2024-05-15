@@ -1,0 +1,33 @@
+{
+  "id": "5CwoB7XzUFMwthLe1YekS6",
+  "name": "Philly Heat",
+  "uri": "spotify:artist:5CwoB7XzUFMwthLe1YekS6",
+  "followers": {
+    "href": null,
+    "total": 12130
+  },
+  "genres": [
+    "philly rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731786ca30da5bb073cb147133",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021786ca30da5bb073cb147133",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511786ca30da5bb073cb147133",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5CwoB7XzUFMwthLe1YekS6"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0kLZTGzZRUu06Z3uJADVUp",
+  "name": "Prissy Whip",
+  "uri": "spotify:artist:0kLZTGzZRUu06Z3uJADVUp",
+  "followers": {
+    "href": null,
+    "total": 433
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb803ed1887cc38cc2884168ac",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174803ed1887cc38cc2884168ac",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178803ed1887cc38cc2884168ac",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0kLZTGzZRUu06Z3uJADVUp"
+  }
+}

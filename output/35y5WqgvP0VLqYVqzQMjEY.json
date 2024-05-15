@@ -1,0 +1,33 @@
+{
+  "id": "35y5WqgvP0VLqYVqzQMjEY",
+  "name": "Los Bárbara Blade",
+  "uri": "spotify:artist:35y5WqgvP0VLqYVqzQMjEY",
+  "followers": {
+    "href": null,
+    "total": 999
+  },
+  "genres": [
+    "electronica chilena"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273768fe42f0d39f425816e750d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02768fe42f0d39f425816e750d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851768fe42f0d39f425816e750d",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/35y5WqgvP0VLqYVqzQMjEY"
+  }
+}

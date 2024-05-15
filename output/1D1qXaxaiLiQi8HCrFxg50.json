@@ -1,0 +1,33 @@
+{
+  "id": "1D1qXaxaiLiQi8HCrFxg50",
+  "name": "Balladur",
+  "uri": "spotify:artist:1D1qXaxaiLiQi8HCrFxg50",
+  "followers": {
+    "href": null,
+    "total": 1718
+  },
+  "genres": [
+    "french psychedelic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf191f6887d57f4e3a023b5ca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f191f6887d57f4e3a023b5ca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f191f6887d57f4e3a023b5ca",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1D1qXaxaiLiQi8HCrFxg50"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "6DNRxGWJWEoeI4gLNrRRPz",
+  "name": "TIMMS",
+  "uri": "spotify:artist:6DNRxGWJWEoeI4gLNrRRPz",
+  "followers": {
+    "href": null,
+    "total": 31929
+  },
+  "genres": [
+    "alt z",
+    "dark r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb309c1a18bfca2e96c12d31ae",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174309c1a18bfca2e96c12d31ae",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178309c1a18bfca2e96c12d31ae",
+      "width": 160
+    }
+  ],
+  "popularity": 44,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz"
+  }
+}

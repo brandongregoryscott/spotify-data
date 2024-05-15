@@ -1,0 +1,33 @@
+{
+  "id": "3nLwG2taobEsEkFyHccf8k",
+  "name": "Primitive Hearts",
+  "uri": "spotify:artist:3nLwG2taobEsEkFyHccf8k",
+  "followers": {
+    "href": null,
+    "total": 986
+  },
+  "genres": [
+    "garage pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273158fc93f6c75e4d98a4ca60b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02158fc93f6c75e4d98a4ca60b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851158fc93f6c75e4d98a4ca60b",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3nLwG2taobEsEkFyHccf8k"
+  }
+}

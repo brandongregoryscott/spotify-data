@@ -1,0 +1,33 @@
+{
+  "id": "5jT0OumzdWvAooTc5jC9T0",
+  "name": "LÉKEL",
+  "uri": "spotify:artist:5jT0OumzdWvAooTc5jC9T0",
+  "followers": {
+    "href": null,
+    "total": 102
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb36df683eb5e03d092168eb14",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517436df683eb5e03d092168eb14",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17836df683eb5e03d092168eb14",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5jT0OumzdWvAooTc5jC9T0"
+  }
+}

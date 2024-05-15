@@ -1,0 +1,33 @@
+{
+  "id": "2Xm0dsfJUlCfVysVGYBBOz",
+  "name": "fleafriends",
+  "uri": "spotify:artist:2Xm0dsfJUlCfVysVGYBBOz",
+  "followers": {
+    "href": null,
+    "total": 143
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb940ba60cf9acf489ddd17c86",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174940ba60cf9acf489ddd17c86",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178940ba60cf9acf489ddd17c86",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Xm0dsfJUlCfVysVGYBBOz"
+  }
+}

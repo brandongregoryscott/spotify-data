@@ -1,0 +1,33 @@
+{
+  "id": "4TbgARTwncZpcFwreMU4Gn",
+  "name": "Amador",
+  "uri": "spotify:artist:4TbgARTwncZpcFwreMU4Gn",
+  "followers": {
+    "href": null,
+    "total": 35
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb313aa4842845e60a3a25126e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174313aa4842845e60a3a25126e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178313aa4842845e60a3a25126e",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4TbgARTwncZpcFwreMU4Gn"
+  }
+}

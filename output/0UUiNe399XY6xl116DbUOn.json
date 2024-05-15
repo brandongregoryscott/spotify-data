@@ -1,0 +1,33 @@
+{
+  "id": "0UUiNe399XY6xl116DbUOn",
+  "name": "Soular Child",
+  "uri": "spotify:artist:0UUiNe399XY6xl116DbUOn",
+  "followers": {
+    "href": null,
+    "total": 340
+  },
+  "genres": [
+    "organic ambient"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb55d03baf4950608a2ccd8b9e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517455d03baf4950608a2ccd8b9e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17855d03baf4950608a2ccd8b9e",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0UUiNe399XY6xl116DbUOn"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6URnVjU1oWiJ8EMUersDC9",
+  "name": "Oaf",
+  "uri": "spotify:artist:6URnVjU1oWiJ8EMUersDC9",
+  "followers": {
+    "href": null,
+    "total": 377
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273198c9c265b83763daa4b1b25",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02198c9c265b83763daa4b1b25",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851198c9c265b83763daa4b1b25",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6URnVjU1oWiJ8EMUersDC9"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5nIoYbALPbBGdyajpNGqTm",
+  "name": "Dawn window",
+  "uri": "spotify:artist:5nIoYbALPbBGdyajpNGqTm",
+  "followers": {
+    "href": null,
+    "total": 378
+  },
+  "genres": [
+    "k-pop ballad"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cc5c2b14ac9345484ad30ab9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cc5c2b14ac9345484ad30ab9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cc5c2b14ac9345484ad30ab9",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5nIoYbALPbBGdyajpNGqTm"
+  }
+}
