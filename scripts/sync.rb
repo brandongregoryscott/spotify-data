@@ -15,8 +15,6 @@ def main
   chunk = chunk_artist_ids_by_current_hour(artist_ids)
 
   chunk.each_slice(50).with_index do |artist_ids_chunk, index|
-    sleep(0.25) if (index % 2).zero?
-
     find_and_save_artists(artist_ids_chunk)
   end
 end
