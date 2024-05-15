@@ -1,0 +1,33 @@
+{
+  "id": "2O9lIwTsi5SFSX9NSbwxam",
+  "name": "Fishtank",
+  "uri": "spotify:artist:2O9lIwTsi5SFSX9NSbwxam",
+  "followers": {
+    "href": null,
+    "total": 200
+  },
+  "genres": [
+    "singaporean punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27347f5a725e835358420fcd34c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0247f5a725e835358420fcd34c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485147f5a725e835358420fcd34c",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2O9lIwTsi5SFSX9NSbwxam"
+  }
+}

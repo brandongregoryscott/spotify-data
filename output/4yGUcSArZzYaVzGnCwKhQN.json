@@ -1,0 +1,34 @@
+{
+  "id": "4yGUcSArZzYaVzGnCwKhQN",
+  "name": "Ye Ram",
+  "uri": "spotify:artist:4yGUcSArZzYaVzGnCwKhQN",
+  "followers": {
+    "href": null,
+    "total": 2027
+  },
+  "genres": [
+    "k-indie",
+    "korean indie folk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb456e52c60f7296cf3f54bea3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174456e52c60f7296cf3f54bea3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178456e52c60f7296cf3f54bea3",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4yGUcSArZzYaVzGnCwKhQN"
+  }
+}

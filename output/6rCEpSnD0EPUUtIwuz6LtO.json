@@ -1,0 +1,34 @@
+{
+  "id": "6rCEpSnD0EPUUtIwuz6LtO",
+  "name": "Alerta Gorria",
+  "uri": "spotify:artist:6rCEpSnD0EPUUtIwuz6LtO",
+  "followers": {
+    "href": null,
+    "total": 5340
+  },
+  "genres": [
+    "euskal rock",
+    "punk euskera"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb0432b28fab608843947bee0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b0432b28fab608843947bee0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b0432b28fab608843947bee0",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6rCEpSnD0EPUUtIwuz6LtO"
+  }
+}

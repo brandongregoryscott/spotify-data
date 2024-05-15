@@ -1,0 +1,33 @@
+{
+  "id": "5LDbUmrJBeiD4Z9Ke8F6qG",
+  "name": "The Orphanage",
+  "uri": "spotify:artist:5LDbUmrJBeiD4Z9Ke8F6qG",
+  "followers": {
+    "href": null,
+    "total": 1618
+  },
+  "genres": [
+    "abstract hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b711e690b464fd2509734e9b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b711e690b464fd2509734e9b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b711e690b464fd2509734e9b",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5LDbUmrJBeiD4Z9Ke8F6qG"
+  }
+}

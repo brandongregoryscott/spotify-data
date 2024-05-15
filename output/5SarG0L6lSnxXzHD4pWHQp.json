@@ -1,0 +1,33 @@
+{
+  "id": "5SarG0L6lSnxXzHD4pWHQp",
+  "name": "Clarity Process",
+  "uri": "spotify:artist:5SarG0L6lSnxXzHD4pWHQp",
+  "followers": {
+    "href": null,
+    "total": 337
+  },
+  "genres": [
+    "screamocore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fca4e5035caa2bfdad734c0b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fca4e5035caa2bfdad734c0b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fca4e5035caa2bfdad734c0b",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5SarG0L6lSnxXzHD4pWHQp"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "76EKVNwXpAmiHqlB6pWbY1",
+  "name": "Feedr",
+  "uri": "spotify:artist:76EKVNwXpAmiHqlB6pWbY1",
+  "followers": {
+    "href": null,
+    "total": 316
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbefb8046d4e90ebb32885f85",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174befb8046d4e90ebb32885f85",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178befb8046d4e90ebb32885f85",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/76EKVNwXpAmiHqlB6pWbY1"
+  }
+}

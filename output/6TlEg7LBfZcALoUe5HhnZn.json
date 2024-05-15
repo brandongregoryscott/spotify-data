@@ -1,0 +1,33 @@
+{
+  "id": "6TlEg7LBfZcALoUe5HhnZn",
+  "name": "The Meanies",
+  "uri": "spotify:artist:6TlEg7LBfZcALoUe5HhnZn",
+  "followers": {
+    "href": null,
+    "total": 8289
+  },
+  "genres": [
+    "australian alternative rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f6bb6e77124830b5123c359c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f6bb6e77124830b5123c359c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f6bb6e77124830b5123c359c",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6TlEg7LBfZcALoUe5HhnZn"
+  }
+}

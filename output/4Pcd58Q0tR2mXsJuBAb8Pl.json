@@ -1,0 +1,33 @@
+{
+  "id": "4Pcd58Q0tR2mXsJuBAb8Pl",
+  "name": "Carlos Mena",
+  "uri": "spotify:artist:4Pcd58Q0tR2mXsJuBAb8Pl",
+  "followers": {
+    "href": null,
+    "total": 366
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb0da6e2bc7cda0f04fcab8bd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b0da6e2bc7cda0f04fcab8bd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b0da6e2bc7cda0f04fcab8bd",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Pcd58Q0tR2mXsJuBAb8Pl"
+  }
+}

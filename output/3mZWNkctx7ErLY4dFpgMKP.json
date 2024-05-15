@@ -1,0 +1,33 @@
+{
+  "id": "3mZWNkctx7ErLY4dFpgMKP",
+  "name": "n3wton",
+  "uri": "spotify:artist:3mZWNkctx7ErLY4dFpgMKP",
+  "followers": {
+    "href": null,
+    "total": 80
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcc2c4245c6187f12c2b475c7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cc2c4245c6187f12c2b475c7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cc2c4245c6187f12c2b475c7",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3mZWNkctx7ErLY4dFpgMKP"
+  }
+}

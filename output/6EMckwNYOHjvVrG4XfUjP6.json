@@ -1,0 +1,33 @@
+{
+  "id": "6EMckwNYOHjvVrG4XfUjP6",
+  "name": "HeartWerk",
+  "uri": "spotify:artist:6EMckwNYOHjvVrG4XfUjP6",
+  "followers": {
+    "href": null,
+    "total": 1025
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb500dd6eea4fe903b3b4ed544",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174500dd6eea4fe903b3b4ed544",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178500dd6eea4fe903b3b4ed544",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6EMckwNYOHjvVrG4XfUjP6"
+  }
+}

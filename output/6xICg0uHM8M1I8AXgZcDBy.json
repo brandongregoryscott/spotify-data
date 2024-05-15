@@ -1,0 +1,33 @@
+{
+  "id": "6xICg0uHM8M1I8AXgZcDBy",
+  "name": "kanves",
+  "uri": "spotify:artist:6xICg0uHM8M1I8AXgZcDBy",
+  "followers": {
+    "href": null,
+    "total": 169
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb32d45799008ac10fa52b427a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517432d45799008ac10fa52b427a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17832d45799008ac10fa52b427a",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6xICg0uHM8M1I8AXgZcDBy"
+  }
+}

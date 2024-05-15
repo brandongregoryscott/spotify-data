@@ -1,0 +1,33 @@
+{
+  "id": "3gXblfFlBai0XhB2FXCiFy",
+  "name": "Digital Waves",
+  "uri": "spotify:artist:3gXblfFlBai0XhB2FXCiFy",
+  "followers": {
+    "href": null,
+    "total": 242
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf7f19e975b5d6614b980fae4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f7f19e975b5d6614b980fae4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f7f19e975b5d6614b980fae4",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3gXblfFlBai0XhB2FXCiFy"
+  }
+}

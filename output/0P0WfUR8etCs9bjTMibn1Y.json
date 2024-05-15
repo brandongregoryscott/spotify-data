@@ -1,0 +1,33 @@
+{
+  "id": "0P0WfUR8etCs9bjTMibn1Y",
+  "name": "flower_vp",
+  "uri": "spotify:artist:0P0WfUR8etCs9bjTMibn1Y",
+  "followers": {
+    "href": null,
+    "total": 7
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb47136ccb5adc723136153541",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517447136ccb5adc723136153541",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17847136ccb5adc723136153541",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0P0WfUR8etCs9bjTMibn1Y"
+  }
+}

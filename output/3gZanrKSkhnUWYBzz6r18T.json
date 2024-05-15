@@ -1,0 +1,33 @@
+{
+  "id": "3gZanrKSkhnUWYBzz6r18T",
+  "name": "Los Neos",
+  "uri": "spotify:artist:3gZanrKSkhnUWYBzz6r18T",
+  "followers": {
+    "href": null,
+    "total": 50
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27356a5df6d546c412399da8a23",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0256a5df6d546c412399da8a23",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485156a5df6d546c412399da8a23",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3gZanrKSkhnUWYBzz6r18T"
+  }
+}

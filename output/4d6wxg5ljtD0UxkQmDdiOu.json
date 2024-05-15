@@ -1,0 +1,33 @@
+{
+  "id": "4d6wxg5ljtD0UxkQmDdiOu",
+  "name": "CHVA",
+  "uri": "spotify:artist:4d6wxg5ljtD0UxkQmDdiOu",
+  "followers": {
+    "href": null,
+    "total": 30
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc07e788b9a6c1f618383ddff",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c07e788b9a6c1f618383ddff",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c07e788b9a6c1f618383ddff",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4d6wxg5ljtD0UxkQmDdiOu"
+  }
+}

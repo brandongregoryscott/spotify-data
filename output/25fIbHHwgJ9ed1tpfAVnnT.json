@@ -1,0 +1,33 @@
+{
+  "id": "25fIbHHwgJ9ed1tpfAVnnT",
+  "name": "Eldest 11",
+  "uri": "spotify:artist:25fIbHHwgJ9ed1tpfAVnnT",
+  "followers": {
+    "href": null,
+    "total": 3295
+  },
+  "genres": [
+    "hard alternative"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f839b105ed8e35d1efcb61ab",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f839b105ed8e35d1efcb61ab",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f839b105ed8e35d1efcb61ab",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/25fIbHHwgJ9ed1tpfAVnnT"
+  }
+}

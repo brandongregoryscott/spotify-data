@@ -1,0 +1,33 @@
+{
+  "id": "1fFcue8MWSuhjTPVgIpRUt",
+  "name": "Alma Alanko",
+  "uri": "spotify:artist:1fFcue8MWSuhjTPVgIpRUt",
+  "followers": {
+    "href": null,
+    "total": 203
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebde7435285ff06b795fd9e36f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174de7435285ff06b795fd9e36f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178de7435285ff06b795fd9e36f",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1fFcue8MWSuhjTPVgIpRUt"
+  }
+}

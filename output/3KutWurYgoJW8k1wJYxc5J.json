@@ -1,0 +1,33 @@
+{
+  "id": "3KutWurYgoJW8k1wJYxc5J",
+  "name": "Crust",
+  "uri": "spotify:artist:3KutWurYgoJW8k1wJYxc5J",
+  "followers": {
+    "href": null,
+    "total": 931
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb90067a395aa35fd7d2537d9e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517490067a395aa35fd7d2537d9e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17890067a395aa35fd7d2537d9e",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3KutWurYgoJW8k1wJYxc5J"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "49OC47dLyKYSl2EPaZLUaO",
+  "name": "Senya",
+  "uri": "spotify:artist:49OC47dLyKYSl2EPaZLUaO",
+  "followers": {
+    "href": null,
+    "total": 2663
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaaa5f5f381b988a03ba827c0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aaa5f5f381b988a03ba827c0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aaa5f5f381b988a03ba827c0",
+      "width": 160
+    }
+  ],
+  "popularity": 34,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO"
+  }
+}

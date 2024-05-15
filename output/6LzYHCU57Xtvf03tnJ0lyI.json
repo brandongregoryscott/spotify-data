@@ -1,0 +1,33 @@
+{
+  "id": "6LzYHCU57Xtvf03tnJ0lyI",
+  "name": "Guy Average",
+  "uri": "spotify:artist:6LzYHCU57Xtvf03tnJ0lyI",
+  "followers": {
+    "href": null,
+    "total": 287
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd1914ee54e17428dee1e9dd0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d1914ee54e17428dee1e9dd0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d1914ee54e17428dee1e9dd0",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6LzYHCU57Xtvf03tnJ0lyI"
+  }
+}

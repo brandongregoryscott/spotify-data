@@ -1,0 +1,33 @@
+{
+  "id": "1xVcjJ5YsYOClO2Unt3Rm8",
+  "name": "Sunflower Bean",
+  "uri": "spotify:artist:1xVcjJ5YsYOClO2Unt3Rm8",
+  "followers": {
+    "href": null,
+    "total": 107263
+  },
+  "genres": [
+    "modern power pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfde714f76bc73bfff61b360f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fde714f76bc73bfff61b360f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fde714f76bc73bfff61b360f",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
+  }
+}

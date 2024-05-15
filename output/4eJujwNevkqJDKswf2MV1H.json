@@ -1,0 +1,33 @@
+{
+  "id": "4eJujwNevkqJDKswf2MV1H",
+  "name": "NIKTR",
+  "uri": "spotify:artist:4eJujwNevkqJDKswf2MV1H",
+  "followers": {
+    "href": null,
+    "total": 95
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb169e7b17347b570cf2e466f3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174169e7b17347b570cf2e466f3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178169e7b17347b570cf2e466f3",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4eJujwNevkqJDKswf2MV1H"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "2RPNbhguRnI9uqahGYcUc6",
+  "name": "Eruca Sativa",
+  "uri": "spotify:artist:2RPNbhguRnI9uqahGYcUc6",
+  "followers": {
+    "href": null,
+    "total": 127435
+  },
+  "genres": [
+    "argentine indie",
+    "argentine rock",
+    "indie cordoba",
+    "nuevo folklore argentino"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb20042070ae4209c0641b94a5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517420042070ae4209c0641b94a5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17820042070ae4209c0641b94a5",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+  }
+}

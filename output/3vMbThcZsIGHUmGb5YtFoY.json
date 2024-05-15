@@ -1,0 +1,34 @@
+{
+  "id": "3vMbThcZsIGHUmGb5YtFoY",
+  "name": "Dee Mula",
+  "uri": "spotify:artist:3vMbThcZsIGHUmGb5YtFoY",
+  "followers": {
+    "href": null,
+    "total": 134152
+  },
+  "genres": [
+    "memphis hip hop",
+    "tennessee hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb22d4e218e515331edb9f8777",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517422d4e218e515331edb9f8777",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17822d4e218e515331edb9f8777",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3vMbThcZsIGHUmGb5YtFoY"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "5FDLssvwzdjGNdNKTOmQvE",
+  "name": "TK-33",
+  "uri": "spotify:artist:5FDLssvwzdjGNdNKTOmQvE",
+  "followers": {
+    "href": null,
+    "total": 233
+  },
+  "genres": [
+    "latin tek",
+    "ukrainian techno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb35bbfcada99380c154ca1530",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517435bbfcada99380c154ca1530",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17835bbfcada99380c154ca1530",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5FDLssvwzdjGNdNKTOmQvE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5Su2GqJC1wGRYnBACWuOsu",
+  "name": "Chidi",
+  "uri": "spotify:artist:5Su2GqJC1wGRYnBACWuOsu",
+  "followers": {
+    "href": null,
+    "total": 78
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ec22bce332a0cd6cc35b008b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ec22bce332a0cd6cc35b008b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ec22bce332a0cd6cc35b008b",
+      "width": 64
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Su2GqJC1wGRYnBACWuOsu"
+  }
+}

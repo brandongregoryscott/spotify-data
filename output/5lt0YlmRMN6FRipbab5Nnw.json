@@ -1,0 +1,33 @@
+{
+  "id": "5lt0YlmRMN6FRipbab5Nnw",
+  "name": "Kinoa",
+  "uri": "spotify:artist:5lt0YlmRMN6FRipbab5Nnw",
+  "followers": {
+    "href": null,
+    "total": 346
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb50674536a1ad68204ff41eef",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517450674536a1ad68204ff41eef",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17850674536a1ad68204ff41eef",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5lt0YlmRMN6FRipbab5Nnw"
+  }
+}

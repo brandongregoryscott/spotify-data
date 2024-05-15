@@ -1,0 +1,33 @@
+{
+  "id": "7bAah0559F1Ll5Aac9ZjKL",
+  "name": "Softie",
+  "uri": "spotify:artist:7bAah0559F1Ll5Aac9ZjKL",
+  "followers": {
+    "href": null,
+    "total": 68
+  },
+  "genres": [
+    "shib"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737cb44528777c19b873289ded",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027cb44528777c19b873289ded",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517cb44528777c19b873289ded",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7bAah0559F1Ll5Aac9ZjKL"
+  }
+}

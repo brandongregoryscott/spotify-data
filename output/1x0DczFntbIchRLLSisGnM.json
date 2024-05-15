@@ -1,0 +1,33 @@
+{
+  "id": "1x0DczFntbIchRLLSisGnM",
+  "name": "The Reckless Electric",
+  "uri": "spotify:artist:1x0DczFntbIchRLLSisGnM",
+  "followers": {
+    "href": null,
+    "total": 475
+  },
+  "genres": [
+    "nashville americana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273232b3a88a2600a3f4dbe5d7b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02232b3a88a2600a3f4dbe5d7b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851232b3a88a2600a3f4dbe5d7b",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2M0lMgPZ4siqHTog7TMpw9",
+  "name": "Arene 6",
+  "uri": "spotify:artist:2M0lMgPZ4siqHTog7TMpw9",
+  "followers": {
+    "href": null,
+    "total": 3101
+  },
+  "genres": [
+    "punk euskera"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb29dd3230248c75f32653a8fb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517429dd3230248c75f32653a8fb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17829dd3230248c75f32653a8fb",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2M0lMgPZ4siqHTog7TMpw9"
+  }
+}

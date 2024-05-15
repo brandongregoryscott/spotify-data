@@ -1,0 +1,33 @@
+{
+  "id": "5yWPNBD9Ypv2ogRSQp4Er7",
+  "name": "American Dave",
+  "uri": "spotify:artist:5yWPNBD9Ypv2ogRSQp4Er7",
+  "followers": {
+    "href": null,
+    "total": 1955
+  },
+  "genres": [
+    "boston electronic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb78a21c944ed29868988724ad",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517478a21c944ed29868988724ad",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17878a21c944ed29868988724ad",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5yWPNBD9Ypv2ogRSQp4Er7"
+  }
+}

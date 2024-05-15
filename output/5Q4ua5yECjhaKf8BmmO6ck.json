@@ -1,0 +1,33 @@
+{
+  "id": "5Q4ua5yECjhaKf8BmmO6ck",
+  "name": "Ernesto Carlos",
+  "uri": "spotify:artist:5Q4ua5yECjhaKf8BmmO6ck",
+  "followers": {
+    "href": null,
+    "total": 125
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb50fb409e84c36925e9e89e6e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517450fb409e84c36925e9e89e6e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17850fb409e84c36925e9e89e6e",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Q4ua5yECjhaKf8BmmO6ck"
+  }
+}

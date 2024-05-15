@@ -1,0 +1,33 @@
+{
+  "id": "4BDTqGRA7slT7SxuKNJYrd",
+  "name": "y Vicente",
+  "uri": "spotify:artist:4BDTqGRA7slT7SxuKNJYrd",
+  "followers": {
+    "href": null,
+    "total": 563
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc326ff2199a2f4639d0c1a26",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c326ff2199a2f4639d0c1a26",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c326ff2199a2f4639d0c1a26",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4BDTqGRA7slT7SxuKNJYrd"
+  }
+}

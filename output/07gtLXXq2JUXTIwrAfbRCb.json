@@ -1,0 +1,34 @@
+{
+  "id": "07gtLXXq2JUXTIwrAfbRCb",
+  "name": "Letuce",
+  "uri": "spotify:artist:07gtLXXq2JUXTIwrAfbRCb",
+  "followers": {
+    "href": null,
+    "total": 20837
+  },
+  "genres": [
+    "brazilian indie",
+    "nova mpb"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e31de706315b51dea349c893",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d00cf03c5f56f14bee4d754c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e31de706315b51dea349c893",
+      "width": 64
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07gtLXXq2JUXTIwrAfbRCb"
+  }
+}

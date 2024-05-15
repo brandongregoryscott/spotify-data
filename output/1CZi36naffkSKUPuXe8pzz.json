@@ -1,0 +1,33 @@
+{
+  "id": "1CZi36naffkSKUPuXe8pzz",
+  "name": "Mr.2",
+  "uri": "spotify:artist:1CZi36naffkSKUPuXe8pzz",
+  "followers": {
+    "href": null,
+    "total": 348
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b91fa91a49d5d8e69ee67db6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b91fa91a49d5d8e69ee67db6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b91fa91a49d5d8e69ee67db6",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1CZi36naffkSKUPuXe8pzz"
+  }
+}

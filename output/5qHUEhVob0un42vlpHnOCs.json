@@ -1,0 +1,33 @@
+{
+  "id": "5qHUEhVob0un42vlpHnOCs",
+  "name": "333stain",
+  "uri": "spotify:artist:5qHUEhVob0un42vlpHnOCs",
+  "followers": {
+    "href": null,
+    "total": 953
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb91693dbc2a0a48f11943396a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517491693dbc2a0a48f11943396a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17891693dbc2a0a48f11943396a",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5qHUEhVob0un42vlpHnOCs"
+  }
+}

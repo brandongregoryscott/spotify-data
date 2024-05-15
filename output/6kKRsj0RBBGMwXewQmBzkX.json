@@ -1,0 +1,33 @@
+{
+  "id": "6kKRsj0RBBGMwXewQmBzkX",
+  "name": "Örnatorpet",
+  "uri": "spotify:artist:6kKRsj0RBBGMwXewQmBzkX",
+  "followers": {
+    "href": null,
+    "total": 7294
+  },
+  "genres": [
+    "dungeon synth"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb549e1ee42febc092e898acbe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174549e1ee42febc092e898acbe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178549e1ee42febc092e898acbe",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6kKRsj0RBBGMwXewQmBzkX"
+  }
+}

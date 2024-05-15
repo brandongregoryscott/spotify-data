@@ -1,0 +1,33 @@
+{
+  "id": "6wHv49MiC1mnnfQGQ490hr",
+  "name": "Saint Miller",
+  "uri": "spotify:artist:6wHv49MiC1mnnfQGQ490hr",
+  "followers": {
+    "href": null,
+    "total": 2100
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb81ff316dedeef39602b7ba45",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517481ff316dedeef39602b7ba45",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17881ff316dedeef39602b7ba45",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6wHv49MiC1mnnfQGQ490hr"
+  }
+}

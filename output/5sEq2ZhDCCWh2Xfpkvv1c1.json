@@ -1,0 +1,33 @@
+{
+  "id": "5sEq2ZhDCCWh2Xfpkvv1c1",
+  "name": "Three Second Kiss",
+  "uri": "spotify:artist:5sEq2ZhDCCWh2Xfpkvv1c1",
+  "followers": {
+    "href": null,
+    "total": 575
+  },
+  "genres": [
+    "noise rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb04da63a53af92cc1e4ec62f4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517404da63a53af92cc1e4ec62f4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17804da63a53af92cc1e4ec62f4",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5sEq2ZhDCCWh2Xfpkvv1c1"
+  }
+}

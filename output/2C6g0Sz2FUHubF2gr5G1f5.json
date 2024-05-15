@@ -1,0 +1,33 @@
+{
+  "id": "2C6g0Sz2FUHubF2gr5G1f5",
+  "name": "Bruno Duplant",
+  "uri": "spotify:artist:2C6g0Sz2FUHubF2gr5G1f5",
+  "followers": {
+    "href": null,
+    "total": 240
+  },
+  "genres": [
+    "experimental classical"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb606963a3e6eaf8b5551f231d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174606963a3e6eaf8b5551f231d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178606963a3e6eaf8b5551f231d",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2C6g0Sz2FUHubF2gr5G1f5"
+  }
+}

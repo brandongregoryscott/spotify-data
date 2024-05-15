@@ -1,0 +1,35 @@
+{
+  "id": "0ZeTpaHiNCZFAuQ7v1fZ7Z",
+  "name": "Edgar",
+  "uri": "spotify:artist:0ZeTpaHiNCZFAuQ7v1fZ7Z",
+  "followers": {
+    "href": null,
+    "total": 21331
+  },
+  "genres": [
+    "brazilian indie",
+    "nova mpb",
+    "pop lgbtq+ brasileira"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc44265bf48d00001d57a4afa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c44265bf48d00001d57a4afa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c44265bf48d00001d57a4afa",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ZeTpaHiNCZFAuQ7v1fZ7Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1l1brIekYYIqBRVjfQHZWW",
+  "name": "Lover 99",
+  "uri": "spotify:artist:1l1brIekYYIqBRVjfQHZWW",
+  "followers": {
+    "href": null,
+    "total": 48
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfaa05bb59b3850ff09bd9596",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174faa05bb59b3850ff09bd9596",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178faa05bb59b3850ff09bd9596",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1l1brIekYYIqBRVjfQHZWW"
+  }
+}

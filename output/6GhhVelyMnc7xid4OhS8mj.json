@@ -1,0 +1,33 @@
+{
+  "id": "6GhhVelyMnc7xid4OhS8mj",
+  "name": "Phoebs",
+  "uri": "spotify:artist:6GhhVelyMnc7xid4OhS8mj",
+  "followers": {
+    "href": null,
+    "total": 1587
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb16724583b1450322468862db",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517416724583b1450322468862db",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17816724583b1450322468862db",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6GhhVelyMnc7xid4OhS8mj"
+  }
+}

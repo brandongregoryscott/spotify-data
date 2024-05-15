@@ -1,0 +1,35 @@
+{
+  "id": "3pDqLo5LnCyCBxhKZygkfK",
+  "name": "REZN",
+  "uri": "spotify:artist:3pDqLo5LnCyCBxhKZygkfK",
+  "followers": {
+    "href": null,
+    "total": 27890
+  },
+  "genres": [
+    "post-doom metal",
+    "psychedelic doom",
+    "space rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb210caf5667574bb7080640a2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174210caf5667574bb7080640a2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178210caf5667574bb7080640a2",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3pDqLo5LnCyCBxhKZygkfK"
+  }
+}

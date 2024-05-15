@@ -1,0 +1,33 @@
+{
+  "id": "3L13VZ9rCpmR1p7p6A2WGu",
+  "name": "The Knickerbockers",
+  "uri": "spotify:artist:3L13VZ9rCpmR1p7p6A2WGu",
+  "followers": {
+    "href": null,
+    "total": 9229
+  },
+  "genres": [
+    "classic garage rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d6a2a65a105a8ac256bf9600",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d6a2a65a105a8ac256bf9600",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d6a2a65a105a8ac256bf9600",
+      "width": 64
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3L13VZ9rCpmR1p7p6A2WGu"
+  }
+}

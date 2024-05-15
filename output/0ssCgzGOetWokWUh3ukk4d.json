@@ -1,0 +1,33 @@
+{
+  "id": "0ssCgzGOetWokWUh3ukk4d",
+  "name": "Graham Steinman",
+  "uri": "spotify:artist:0ssCgzGOetWokWUh3ukk4d",
+  "followers": {
+    "href": null,
+    "total": 168
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb07ac3fe7b9415d76013ddca4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517407ac3fe7b9415d76013ddca4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17807ac3fe7b9415d76013ddca4",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ssCgzGOetWokWUh3ukk4d"
+  }
+}

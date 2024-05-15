@@ -1,0 +1,33 @@
+{
+  "id": "5eNG3eGkCPyjEFcFQPA8Df",
+  "name": "Lizza",
+  "uri": "spotify:artist:5eNG3eGkCPyjEFcFQPA8Df",
+  "followers": {
+    "href": null,
+    "total": 510
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb33258be0f5f5e445114b661e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517433258be0f5f5e445114b661e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17833258be0f5f5e445114b661e",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5eNG3eGkCPyjEFcFQPA8Df"
+  }
+}

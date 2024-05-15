@@ -1,0 +1,33 @@
+{
+  "id": "7EleaKZjNCBEOSkvYtORsn",
+  "name": "Frevel",
+  "uri": "spotify:artist:7EleaKZjNCBEOSkvYtORsn",
+  "followers": {
+    "href": null,
+    "total": 231
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb49d458997c718debc7d9d137",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517449d458997c718debc7d9d137",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17849d458997c718debc7d9d137",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7EleaKZjNCBEOSkvYtORsn"
+  }
+}
