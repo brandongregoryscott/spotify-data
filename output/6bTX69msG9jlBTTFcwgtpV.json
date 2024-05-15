@@ -1,0 +1,33 @@
+{
+  "id": "6bTX69msG9jlBTTFcwgtpV",
+  "name": "Anna Brooks",
+  "uri": "spotify:artist:6bTX69msG9jlBTTFcwgtpV",
+  "followers": {
+    "href": null,
+    "total": 152
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe853904f546cc547a40c67f1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e853904f546cc547a40c67f1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e853904f546cc547a40c67f1",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6bTX69msG9jlBTTFcwgtpV"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "41krEbvNbWoB5pnCiOBOb5",
+  "name": "Looms",
+  "uri": "spotify:artist:41krEbvNbWoB5pnCiOBOb5",
+  "followers": {
+    "href": null,
+    "total": 312
+  },
+  "genres": [
+    "brooklyn indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebebe65fc8e588420c218c2969",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ebe65fc8e588420c218c2969",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ebe65fc8e588420c218c2969",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/41krEbvNbWoB5pnCiOBOb5"
+  }
+}

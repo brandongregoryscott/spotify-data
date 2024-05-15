@@ -1,0 +1,33 @@
+{
+  "id": "6V8L1msbb4Hl8psDzB58bi",
+  "name": "les",
+  "uri": "spotify:artist:6V8L1msbb4Hl8psDzB58bi",
+  "followers": {
+    "href": null,
+    "total": 1780
+  },
+  "genres": [
+    "ambient lo-fi"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb23581d8208e6d28a422a7678",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517423581d8208e6d28a422a7678",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17823581d8208e6d28a422a7678",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6V8L1msbb4Hl8psDzB58bi"
+  }
+}

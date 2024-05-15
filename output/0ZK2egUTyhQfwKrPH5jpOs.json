@@ -1,0 +1,33 @@
+{
+  "id": "0ZK2egUTyhQfwKrPH5jpOs",
+  "name": "Pfista",
+  "uri": "spotify:artist:0ZK2egUTyhQfwKrPH5jpOs",
+  "followers": {
+    "href": null,
+    "total": 379
+  },
+  "genres": [
+    "tearout"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b72076a585fd48960c51deee",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b72076a585fd48960c51deee",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b72076a585fd48960c51deee",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ZK2egUTyhQfwKrPH5jpOs"
+  }
+}

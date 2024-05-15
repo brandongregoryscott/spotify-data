@@ -1,0 +1,33 @@
+{
+  "id": "6yvENIf7GmNwYnspB8UCpB",
+  "name": "Otik",
+  "uri": "spotify:artist:6yvENIf7GmNwYnspB8UCpB",
+  "followers": {
+    "href": null,
+    "total": 9991
+  },
+  "genres": [
+    "experimental techno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb65b2f8003602e51d3533502a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517465b2f8003602e51d3533502a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17865b2f8003602e51d3533502a",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
+  }
+}

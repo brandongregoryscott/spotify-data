@@ -1,0 +1,34 @@
+{
+  "id": "2W6w8sdXKwXgJKDmLwlQUD",
+  "name": "Embraze",
+  "uri": "spotify:artist:2W6w8sdXKwXgJKDmLwlQUD",
+  "followers": {
+    "href": null,
+    "total": 1006
+  },
+  "genres": [
+    "finnish doom metal",
+    "oulu metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7a56043b1c35b1bbeadf449a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051747a56043b1c35b1bbeadf449a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1787a56043b1c35b1bbeadf449a",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2W6w8sdXKwXgJKDmLwlQUD"
+  }
+}

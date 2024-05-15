@@ -1,0 +1,33 @@
+{
+  "id": "3uVgw8IZi755YO03Z2ZJeC",
+  "name": "remorse",
+  "uri": "spotify:artist:3uVgw8IZi755YO03Z2ZJeC",
+  "followers": {
+    "href": null,
+    "total": 81
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fa0f099b0f0077b4e503260c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fa0f099b0f0077b4e503260c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fa0f099b0f0077b4e503260c",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3uVgw8IZi755YO03Z2ZJeC"
+  }
+}

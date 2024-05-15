@@ -1,0 +1,33 @@
+{
+  "id": "4mIlU5hnQGjI1bP8Hrik5Z",
+  "name": "heknowbp",
+  "uri": "spotify:artist:4mIlU5hnQGjI1bP8Hrik5Z",
+  "followers": {
+    "href": null,
+    "total": 250
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebae9f2d0b9b0fe23536254eab",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ae9f2d0b9b0fe23536254eab",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ae9f2d0b9b0fe23536254eab",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4mIlU5hnQGjI1bP8Hrik5Z"
+  }
+}

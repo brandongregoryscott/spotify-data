@@ -1,0 +1,33 @@
+{
+  "id": "2DqEuorJEDouYY8MyBbpiO",
+  "name": "Lamartine Babo",
+  "uri": "spotify:artist:2DqEuorJEDouYY8MyBbpiO",
+  "followers": {
+    "href": null,
+    "total": 3231
+  },
+  "genres": [
+    "velha guarda"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b11f96be2614c83e91b76def",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b11f96be2614c83e91b76def",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b11f96be2614c83e91b76def",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2DqEuorJEDouYY8MyBbpiO"
+  }
+}

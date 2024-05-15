@@ -1,0 +1,33 @@
+{
+  "id": "2oxbPOBIgt2a4b47JION8X",
+  "name": "Gubble",
+  "uri": "spotify:artist:2oxbPOBIgt2a4b47JION8X",
+  "followers": {
+    "href": null,
+    "total": 152
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb577fd899984ee35101ad6125",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174577fd899984ee35101ad6125",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178577fd899984ee35101ad6125",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2oxbPOBIgt2a4b47JION8X"
+  }
+}

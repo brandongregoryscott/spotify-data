@@ -1,0 +1,33 @@
+{
+  "id": "4hf3caW9H8uFwwbv5pFjcg",
+  "name": "Jake Bugg",
+  "uri": "spotify:artist:4hf3caW9H8uFwwbv5pFjcg",
+  "followers": {
+    "href": null,
+    "total": 790272
+  },
+  "genres": [
+    "nottingham indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba1206460462defc8e9c045f3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a1206460462defc8e9c045f3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a1206460462defc8e9c045f3",
+      "width": 160
+    }
+  ],
+  "popularity": 53,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+  }
+}

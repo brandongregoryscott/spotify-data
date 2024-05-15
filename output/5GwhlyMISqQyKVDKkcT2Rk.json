@@ -1,0 +1,33 @@
+{
+  "id": "5GwhlyMISqQyKVDKkcT2Rk",
+  "name": "F/i",
+  "uri": "spotify:artist:5GwhlyMISqQyKVDKkcT2Rk",
+  "followers": {
+    "href": null,
+    "total": 354
+  },
+  "genres": [
+    "drone rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732e22817e10e1e80a756bc03f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022e22817e10e1e80a756bc03f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512e22817e10e1e80a756bc03f",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5GwhlyMISqQyKVDKkcT2Rk"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5zsq9zQZRndXuXvNpF837p",
+  "name": "Epitaph",
+  "uri": "spotify:artist:5zsq9zQZRndXuXvNpF837p",
+  "followers": {
+    "href": null,
+    "total": 2299
+  },
+  "genres": [
+    "grim death metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27339bc4c407ec63b47550cabd4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0239bc4c407ec63b47550cabd4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485139bc4c407ec63b47550cabd4",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5zsq9zQZRndXuXvNpF837p"
+  }
+}

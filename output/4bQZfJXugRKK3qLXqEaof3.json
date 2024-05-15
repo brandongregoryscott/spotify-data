@@ -1,0 +1,33 @@
+{
+  "id": "4bQZfJXugRKK3qLXqEaof3",
+  "name": "Killium",
+  "uri": "spotify:artist:4bQZfJXugRKK3qLXqEaof3",
+  "followers": {
+    "href": null,
+    "total": 176
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf472b28893b422658e008a1a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f472b28893b422658e008a1a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f472b28893b422658e008a1a",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4bQZfJXugRKK3qLXqEaof3"
+  }
+}

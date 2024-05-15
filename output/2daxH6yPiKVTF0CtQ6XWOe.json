@@ -1,0 +1,33 @@
+{
+  "id": "2daxH6yPiKVTF0CtQ6XWOe",
+  "name": "Ghost Light",
+  "uri": "spotify:artist:2daxH6yPiKVTF0CtQ6XWOe",
+  "followers": {
+    "href": null,
+    "total": 8451
+  },
+  "genres": [
+    "jam band"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc594a399235cd0ce1f35d96f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c594a399235cd0ce1f35d96f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c594a399235cd0ce1f35d96f",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe"
+  }
+}

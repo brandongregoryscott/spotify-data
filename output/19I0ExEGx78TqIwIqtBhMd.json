@@ -1,0 +1,33 @@
+{
+  "id": "19I0ExEGx78TqIwIqtBhMd",
+  "name": "Feis6",
+  "uri": "spotify:artist:19I0ExEGx78TqIwIqtBhMd",
+  "followers": {
+    "href": null,
+    "total": 581
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb79022f50d26ab3783d7501d4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517479022f50d26ab3783d7501d4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17879022f50d26ab3783d7501d4",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/19I0ExEGx78TqIwIqtBhMd"
+  }
+}

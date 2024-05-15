@@ -1,0 +1,33 @@
+{
+  "id": "3K68cSs1f8V59zNdfs25dW",
+  "name": "Maija Sofia",
+  "uri": "spotify:artist:3K68cSs1f8V59zNdfs25dW",
+  "followers": {
+    "href": null,
+    "total": 2888
+  },
+  "genres": [
+    "galway indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb13fd6e49dc6da37bc4640c5a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517413fd6e49dc6da37bc4640c5a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17813fd6e49dc6da37bc4640c5a",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3K68cSs1f8V59zNdfs25dW"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4c68kKzoygWXkeYZthMqx4",
+  "name": "Kaguu",
+  "uri": "spotify:artist:4c68kKzoygWXkeYZthMqx4",
+  "followers": {
+    "href": null,
+    "total": 2562
+  },
+  "genres": [
+    "instrumental math rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbbba2a5e86c40889c3ab2662",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bbba2a5e86c40889c3ab2662",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bbba2a5e86c40889c3ab2662",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4c68kKzoygWXkeYZthMqx4"
+  }
+}

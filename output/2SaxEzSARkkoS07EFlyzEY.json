@@ -1,0 +1,33 @@
+{
+  "id": "2SaxEzSARkkoS07EFlyzEY",
+  "name": "Geremia",
+  "uri": "spotify:artist:2SaxEzSARkkoS07EFlyzEY",
+  "followers": {
+    "href": null,
+    "total": 237
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb788da1bfb7a05a3f3d72531e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174788da1bfb7a05a3f3d72531e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178788da1bfb7a05a3f3d72531e",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2SaxEzSARkkoS07EFlyzEY"
+  }
+}

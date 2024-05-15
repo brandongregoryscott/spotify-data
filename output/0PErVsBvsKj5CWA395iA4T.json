@@ -1,0 +1,33 @@
+{
+  "id": "0PErVsBvsKj5CWA395iA4T",
+  "name": "bug bites",
+  "uri": "spotify:artist:0PErVsBvsKj5CWA395iA4T",
+  "followers": {
+    "href": null,
+    "total": 1593
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb03b700150789a8479a8d6f1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b03b700150789a8479a8d6f1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b03b700150789a8479a8d6f1",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0PErVsBvsKj5CWA395iA4T"
+  }
+}

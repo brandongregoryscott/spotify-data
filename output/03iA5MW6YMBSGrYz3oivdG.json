@@ -1,0 +1,33 @@
+{
+  "id": "03iA5MW6YMBSGrYz3oivdG",
+  "name": "SHID",
+  "uri": "spotify:artist:03iA5MW6YMBSGrYz3oivdG",
+  "followers": {
+    "href": null,
+    "total": 158
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb67868486bbc34f58ba483a95",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517467868486bbc34f58ba483a95",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17867868486bbc34f58ba483a95",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03iA5MW6YMBSGrYz3oivdG"
+  }
+}

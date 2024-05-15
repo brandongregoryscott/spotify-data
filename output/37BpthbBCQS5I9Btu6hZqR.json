@@ -1,0 +1,33 @@
+{
+  "id": "37BpthbBCQS5I9Btu6hZqR",
+  "name": "Melli",
+  "uri": "spotify:artist:37BpthbBCQS5I9Btu6hZqR",
+  "followers": {
+    "href": null,
+    "total": 230
+  },
+  "genres": [
+    "hyperpop italiano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb82232123cdb3a878b735c0a9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517482232123cdb3a878b735c0a9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17882232123cdb3a878b735c0a9",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/37BpthbBCQS5I9Btu6hZqR"
+  }
+}

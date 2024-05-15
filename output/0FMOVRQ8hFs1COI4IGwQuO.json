@@ -1,0 +1,33 @@
+{
+  "id": "0FMOVRQ8hFs1COI4IGwQuO",
+  "name": "Ann Lewis",
+  "uri": "spotify:artist:0FMOVRQ8hFs1COI4IGwQuO",
+  "followers": {
+    "href": null,
+    "total": 124187
+  },
+  "genres": [
+    "kayokyoku"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736e8348aa864515bf46b1a5ed",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026e8348aa864515bf46b1a5ed",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516e8348aa864515bf46b1a5ed",
+      "width": 64
+    }
+  ],
+  "popularity": 39,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0FMOVRQ8hFs1COI4IGwQuO"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6PwAPD6MdbeANzrK0MwpNC",
+  "name": "Hambol",
+  "uri": "spotify:artist:6PwAPD6MdbeANzrK0MwpNC",
+  "followers": {
+    "href": null,
+    "total": 359
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb034ea24611f1fc8d6c723006",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174034ea24611f1fc8d6c723006",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178034ea24611f1fc8d6c723006",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6PwAPD6MdbeANzrK0MwpNC"
+  }
+}

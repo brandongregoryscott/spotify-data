@@ -1,0 +1,33 @@
+{
+  "id": "4nvHHc0NSfKEoJPOuFEvB4",
+  "name": "iPraise",
+  "uri": "spotify:artist:4nvHHc0NSfKEoJPOuFEvB4",
+  "followers": {
+    "href": null,
+    "total": 58
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e59f3ed461b1e9f89d420bb6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e59f3ed461b1e9f89d420bb6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e59f3ed461b1e9f89d420bb6",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4nvHHc0NSfKEoJPOuFEvB4"
+  }
+}

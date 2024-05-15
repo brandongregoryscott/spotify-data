@@ -1,0 +1,35 @@
+{
+  "id": "7pVhA4TnSNvhVzgpGB4nlO",
+  "name": "Dragonauta",
+  "uri": "spotify:artist:7pVhA4TnSNvhVzgpGB4nlO",
+  "followers": {
+    "href": null,
+    "total": 1800
+  },
+  "genres": [
+    "argentine metal",
+    "black metal argentino",
+    "progressive doom"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27332547b3b8d59f21fd4b8f4f6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0232547b3b8d59f21fd4b8f4f6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485132547b3b8d59f21fd4b8f4f6",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7pVhA4TnSNvhVzgpGB4nlO"
+  }
+}

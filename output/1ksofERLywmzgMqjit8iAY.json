@@ -1,0 +1,33 @@
+{
+  "id": "1ksofERLywmzgMqjit8iAY",
+  "name": "L'Affaire Pélican",
+  "uri": "spotify:artist:1ksofERLywmzgMqjit8iAY",
+  "followers": {
+    "href": null,
+    "total": 750
+  },
+  "genres": [
+    "quebec punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd22d80ef4d75a1b19e92f46e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d22d80ef4d75a1b19e92f46e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d22d80ef4d75a1b19e92f46e",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ksofERLywmzgMqjit8iAY"
+  }
+}

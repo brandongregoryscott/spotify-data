@@ -1,0 +1,33 @@
+{
+  "id": "3h2658JwpwUzgvRkQBuMb9",
+  "name": "KNGT",
+  "uri": "spotify:artist:3h2658JwpwUzgvRkQBuMb9",
+  "followers": {
+    "href": null,
+    "total": 663
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb97e821b5b09a33bc44c5d0c8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517497e821b5b09a33bc44c5d0c8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17897e821b5b09a33bc44c5d0c8",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3h2658JwpwUzgvRkQBuMb9"
+  }
+}

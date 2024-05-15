@@ -1,0 +1,33 @@
+{
+  "id": "5kweC07PzBJUbWckfscSwW",
+  "name": "Malefic",
+  "uri": "spotify:artist:5kweC07PzBJUbWckfscSwW",
+  "followers": {
+    "href": null,
+    "total": 205
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27349bb4e00f9843be4dfd6c87d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0249bb4e00f9843be4dfd6c87d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485149bb4e00f9843be4dfd6c87d",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5kweC07PzBJUbWckfscSwW"
+  }
+}

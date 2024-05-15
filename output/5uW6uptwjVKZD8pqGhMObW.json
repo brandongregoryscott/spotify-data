@@ -1,0 +1,33 @@
+{
+  "id": "5uW6uptwjVKZD8pqGhMObW",
+  "name": "Samuel Powers",
+  "uri": "spotify:artist:5uW6uptwjVKZD8pqGhMObW",
+  "followers": {
+    "href": null,
+    "total": 117
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb579eaabf4fc532d9007e7023",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174579eaabf4fc532d9007e7023",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178579eaabf4fc532d9007e7023",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5uW6uptwjVKZD8pqGhMObW"
+  }
+}

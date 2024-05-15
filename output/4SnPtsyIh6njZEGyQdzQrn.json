@@ -1,0 +1,33 @@
+{
+  "id": "4SnPtsyIh6njZEGyQdzQrn",
+  "name": "Santoro",
+  "uri": "spotify:artist:4SnPtsyIh6njZEGyQdzQrn",
+  "followers": {
+    "href": null,
+    "total": 644
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3cf4f0da7a113f3ac50d4b52",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051743cf4f0da7a113f3ac50d4b52",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1783cf4f0da7a113f3ac50d4b52",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4SnPtsyIh6njZEGyQdzQrn"
+  }
+}

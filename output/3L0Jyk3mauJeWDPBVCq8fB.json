@@ -1,0 +1,33 @@
+{
+  "id": "3L0Jyk3mauJeWDPBVCq8fB",
+  "name": "PLATANOS",
+  "uri": "spotify:artist:3L0Jyk3mauJeWDPBVCq8fB",
+  "followers": {
+    "href": null,
+    "total": 4455
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb887725be490f7a4a5e86f94",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b887725be490f7a4a5e86f94",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b887725be490f7a4a5e86f94",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3L0Jyk3mauJeWDPBVCq8fB"
+  }
+}

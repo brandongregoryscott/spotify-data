@@ -1,0 +1,33 @@
+{
+  "id": "7mSAmaXFqXk5muJawsa4jj",
+  "name": "vell",
+  "uri": "spotify:artist:7mSAmaXFqXk5muJawsa4jj",
+  "followers": {
+    "href": null,
+    "total": 119
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb585b370719074c88ffe91812",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174585b370719074c88ffe91812",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178585b370719074c88ffe91812",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7mSAmaXFqXk5muJawsa4jj"
+  }
+}

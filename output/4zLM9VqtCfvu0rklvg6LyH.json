@@ -1,0 +1,33 @@
+{
+  "id": "4zLM9VqtCfvu0rklvg6LyH",
+  "name": "Digo",
+  "uri": "spotify:artist:4zLM9VqtCfvu0rklvg6LyH",
+  "followers": {
+    "href": null,
+    "total": 455
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb844c08b3eb153d3f11dd9e5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b844c08b3eb153d3f11dd9e5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b844c08b3eb153d3f11dd9e5",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4zLM9VqtCfvu0rklvg6LyH"
+  }
+}

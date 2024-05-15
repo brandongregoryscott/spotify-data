@@ -1,0 +1,33 @@
+{
+  "id": "1eEAEVvt0H6nbT80MZK1Xh",
+  "name": "NARAH",
+  "uri": "spotify:artist:1eEAEVvt0H6nbT80MZK1Xh",
+  "followers": {
+    "href": null,
+    "total": 355
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0332e313875add7631eb5e85",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051740332e313875add7631eb5e85",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1780332e313875add7631eb5e85",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1eEAEVvt0H6nbT80MZK1Xh"
+  }
+}

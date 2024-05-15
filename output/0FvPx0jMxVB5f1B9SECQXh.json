@@ -1,0 +1,35 @@
+{
+  "id": "0FvPx0jMxVB5f1B9SECQXh",
+  "name": "Tomás Urquieta",
+  "uri": "spotify:artist:0FvPx0jMxVB5f1B9SECQXh",
+  "followers": {
+    "href": null,
+    "total": 1410
+  },
+  "genres": [
+    "deconstructed club",
+    "electronica chilena",
+    "experimental club"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba6b0bda8043960e889b63761",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a6b0bda8043960e889b63761",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a6b0bda8043960e889b63761",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0FvPx0jMxVB5f1B9SECQXh"
+  }
+}

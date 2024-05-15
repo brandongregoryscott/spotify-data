@@ -1,0 +1,34 @@
+{
+  "id": "30HBg18EnoAtgGWVps8nsa",
+  "name": "Endemia",
+  "uri": "spotify:artist:30HBg18EnoAtgGWVps8nsa",
+  "followers": {
+    "href": null,
+    "total": 2290
+  },
+  "genres": [
+    "punk tico",
+    "rock tico"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb356ecd62fe8e05a65b321fe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b356ecd62fe8e05a65b321fe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b356ecd62fe8e05a65b321fe",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/30HBg18EnoAtgGWVps8nsa"
+  }
+}

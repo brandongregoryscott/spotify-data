@@ -1,0 +1,33 @@
+{
+  "id": "0kp9nUvBGxPOJRrbvrxuKF",
+  "name": "GOFISH",
+  "uri": "spotify:artist:0kp9nUvBGxPOJRrbvrxuKF",
+  "followers": {
+    "href": null,
+    "total": 579
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ee2443a3d869f054a2fea5b1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ee2443a3d869f054a2fea5b1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ee2443a3d869f054a2fea5b1",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0kp9nUvBGxPOJRrbvrxuKF"
+  }
+}

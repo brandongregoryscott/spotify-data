@@ -1,0 +1,34 @@
+{
+  "id": "4Dqwi7dnhN0j8X1i98mdKG",
+  "name": "Jorge González",
+  "uri": "spotify:artist:4Dqwi7dnhN0j8X1i98mdKG",
+  "followers": {
+    "href": null,
+    "total": 115230
+  },
+  "genres": [
+    "chilean indie",
+    "chilean rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfeb263c3d97f1f45e5396cfe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174feb263c3d97f1f45e5396cfe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178feb263c3d97f1f45e5396cfe",
+      "width": 160
+    }
+  ],
+  "popularity": 34,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Dqwi7dnhN0j8X1i98mdKG"
+  }
+}

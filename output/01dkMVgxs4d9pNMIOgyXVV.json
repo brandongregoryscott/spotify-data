@@ -1,0 +1,33 @@
+{
+  "id": "01dkMVgxs4d9pNMIOgyXVV",
+  "name": "June McDoom",
+  "uri": "spotify:artist:01dkMVgxs4d9pNMIOgyXVV",
+  "followers": {
+    "href": null,
+    "total": 6327
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb63952e2f01f8483dfe6d7a2c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517463952e2f01f8483dfe6d7a2c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17863952e2f01f8483dfe6d7a2c",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0xVJ5YgNk1n7os1ir5qASN",
+  "name": "Beket",
+  "uri": "spotify:artist:0xVJ5YgNk1n7os1ir5qASN",
+  "followers": {
+    "href": null,
+    "total": 537
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebac6a5800668c558a6f2ba0dd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ac6a5800668c558a6f2ba0dd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ac6a5800668c558a6f2ba0dd",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0xVJ5YgNk1n7os1ir5qASN"
+  }
+}

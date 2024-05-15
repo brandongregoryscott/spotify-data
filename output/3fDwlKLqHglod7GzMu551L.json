@@ -1,0 +1,33 @@
+{
+  "id": "3fDwlKLqHglod7GzMu551L",
+  "name": "Mirelight",
+  "uri": "spotify:artist:3fDwlKLqHglod7GzMu551L",
+  "followers": {
+    "href": null,
+    "total": 616
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb46e8d9d1b8157ed17abffbbe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517446e8d9d1b8157ed17abffbbe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17846e8d9d1b8157ed17abffbbe",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3fDwlKLqHglod7GzMu551L"
+  }
+}

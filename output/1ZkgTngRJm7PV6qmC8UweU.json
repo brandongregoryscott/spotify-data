@@ -1,0 +1,33 @@
+{
+  "id": "1ZkgTngRJm7PV6qmC8UweU",
+  "name": "Vargouille",
+  "uri": "spotify:artist:1ZkgTngRJm7PV6qmC8UweU",
+  "followers": {
+    "href": null,
+    "total": 217
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ccfa776328badac98f74ff08",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ccfa776328badac98f74ff08",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ccfa776328badac98f74ff08",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ZkgTngRJm7PV6qmC8UweU"
+  }
+}

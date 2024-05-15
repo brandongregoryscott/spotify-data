@@ -1,0 +1,33 @@
+{
+  "id": "14E7RzXOsb9iMithqexVOd",
+  "name": "Hanni",
+  "uri": "spotify:artist:14E7RzXOsb9iMithqexVOd",
+  "followers": {
+    "href": null,
+    "total": 151
+  },
+  "genres": [
+    "lo-fi jazzhop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebad28b79eed03c9af8c170a1e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ad28b79eed03c9af8c170a1e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ad28b79eed03c9af8c170a1e",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/14E7RzXOsb9iMithqexVOd"
+  }
+}

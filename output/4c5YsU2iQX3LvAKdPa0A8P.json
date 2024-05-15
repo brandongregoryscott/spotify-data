@@ -1,0 +1,34 @@
+{
+  "id": "4c5YsU2iQX3LvAKdPa0A8P",
+  "name": "Søren Huss",
+  "uri": "spotify:artist:4c5YsU2iQX3LvAKdPa0A8P",
+  "followers": {
+    "href": null,
+    "total": 30013
+  },
+  "genres": [
+    "danish indie",
+    "danish pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb863c58f61f796ce4dffc2fd6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174863c58f61f796ce4dffc2fd6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178863c58f61f796ce4dffc2fd6",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4c5YsU2iQX3LvAKdPa0A8P"
+  }
+}

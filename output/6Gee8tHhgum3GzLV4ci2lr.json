@@ -1,0 +1,33 @@
+{
+  "id": "6Gee8tHhgum3GzLV4ci2lr",
+  "name": "Scarfold",
+  "uri": "spotify:artist:6Gee8tHhgum3GzLV4ci2lr",
+  "followers": {
+    "href": null,
+    "total": 1531
+  },
+  "genres": [
+    "quebec hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc3e2aed0b5c080c4907b1543",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c3e2aed0b5c080c4907b1543",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c3e2aed0b5c080c4907b1543",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Gee8tHhgum3GzLV4ci2lr"
+  }
+}

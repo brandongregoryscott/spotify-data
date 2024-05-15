@@ -1,0 +1,33 @@
+{
+  "id": "78PpDTOjgeVYEdB8tEUUCU",
+  "name": "Mother",
+  "uri": "spotify:artist:78PpDTOjgeVYEdB8tEUUCU",
+  "followers": {
+    "href": null,
+    "total": 233
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebab87ea6a08d32f3fe4933a68",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ab87ea6a08d32f3fe4933a68",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ab87ea6a08d32f3fe4933a68",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/78PpDTOjgeVYEdB8tEUUCU"
+  }
+}

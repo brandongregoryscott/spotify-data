@@ -1,0 +1,33 @@
+{
+  "id": "7AEacP6cXU187ChE0FLh4m",
+  "name": "Bonanza",
+  "uri": "spotify:artist:7AEacP6cXU187ChE0FLh4m",
+  "followers": {
+    "href": null,
+    "total": 199
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcff62e9e8ddf8d0ab68ac23a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cff62e9e8ddf8d0ab68ac23a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cff62e9e8ddf8d0ab68ac23a",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7AEacP6cXU187ChE0FLh4m"
+  }
+}

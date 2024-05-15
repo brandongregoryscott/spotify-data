@@ -1,0 +1,33 @@
+{
+  "id": "2YzuvutnPtNEIqUfIedKT9",
+  "name": "Hey Oliver!",
+  "uri": "spotify:artist:2YzuvutnPtNEIqUfIedKT9",
+  "followers": {
+    "href": null,
+    "total": 1248
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb06f60c06f1200bddc0c120e5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517406f60c06f1200bddc0c120e5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17806f60c06f1200bddc0c120e5",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2YzuvutnPtNEIqUfIedKT9"
+  }
+}

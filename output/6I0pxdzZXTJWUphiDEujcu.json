@@ -1,0 +1,33 @@
+{
+  "id": "6I0pxdzZXTJWUphiDEujcu",
+  "name": "Tange",
+  "uri": "spotify:artist:6I0pxdzZXTJWUphiDEujcu",
+  "followers": {
+    "href": null,
+    "total": 538
+  },
+  "genres": [
+    "canadian garage rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273293950aaf52beb55958ae04d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02293950aaf52beb55958ae04d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851293950aaf52beb55958ae04d",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6I0pxdzZXTJWUphiDEujcu"
+  }
+}

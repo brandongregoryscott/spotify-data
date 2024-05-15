@@ -1,0 +1,33 @@
+{
+  "id": "5BVOeaDSP7liIXU2hAFwsy",
+  "name": "БЛЭЙЗЕР",
+  "uri": "spotify:artist:5BVOeaDSP7liIXU2hAFwsy",
+  "followers": {
+    "href": null,
+    "total": 9048
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb45321a983d6c588a88e8ffbb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517445321a983d6c588a88e8ffbb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17845321a983d6c588a88e8ffbb",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5BVOeaDSP7liIXU2hAFwsy"
+  }
+}

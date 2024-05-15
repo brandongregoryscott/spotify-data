@@ -1,0 +1,33 @@
+{
+  "id": "0BgEpJHos9BUZYTv5AdgUe",
+  "name": "Manu Mezza",
+  "uri": "spotify:artist:0BgEpJHos9BUZYTv5AdgUe",
+  "followers": {
+    "href": null,
+    "total": 181
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0a6887fd2432a4a67fc3aad0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051740a6887fd2432a4a67fc3aad0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1780a6887fd2432a4a67fc3aad0",
+      "width": 160
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0BgEpJHos9BUZYTv5AdgUe"
+  }
+}

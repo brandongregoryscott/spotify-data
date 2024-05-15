@@ -1,0 +1,33 @@
+{
+  "id": "5uTbyyGKiXQTTNAWIDhJoz",
+  "name": "Typica",
+  "uri": "spotify:artist:5uTbyyGKiXQTTNAWIDhJoz",
+  "followers": {
+    "href": null,
+    "total": 35
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb543f0b898cedc029c11f0c1b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174543f0b898cedc029c11f0c1b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178543f0b898cedc029c11f0c1b",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5uTbyyGKiXQTTNAWIDhJoz"
+  }
+}

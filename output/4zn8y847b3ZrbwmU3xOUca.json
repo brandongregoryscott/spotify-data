@@ -1,0 +1,35 @@
+{
+  "id": "4zn8y847b3ZrbwmU3xOUca",
+  "name": "Ludicra",
+  "uri": "spotify:artist:4zn8y847b3ZrbwmU3xOUca",
+  "followers": {
+    "href": null,
+    "total": 3401
+  },
+  "genres": [
+    "black metal",
+    "post-black metal",
+    "usbm"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ab8b07c8c0d1d8167e4f7c51",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ab8b07c8c0d1d8167e4f7c51",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ab8b07c8c0d1d8167e4f7c51",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4zn8y847b3ZrbwmU3xOUca"
+  }
+}

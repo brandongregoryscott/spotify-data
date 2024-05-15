@@ -1,0 +1,33 @@
+{
+  "id": "2se5bxI1aod6o8xkmnqXuK",
+  "name": "Xibling",
+  "uri": "spotify:artist:2se5bxI1aod6o8xkmnqXuK",
+  "followers": {
+    "href": null,
+    "total": 1393
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb43908fa46c0cd82982105b36",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517443908fa46c0cd82982105b36",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17843908fa46c0cd82982105b36",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2se5bxI1aod6o8xkmnqXuK"
+  }
+}

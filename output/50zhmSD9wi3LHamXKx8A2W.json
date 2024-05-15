@@ -1,0 +1,33 @@
+{
+  "id": "50zhmSD9wi3LHamXKx8A2W",
+  "name": "Joey Graceffa",
+  "uri": "spotify:artist:50zhmSD9wi3LHamXKx8A2W",
+  "followers": {
+    "href": null,
+    "total": 100121
+  },
+  "genres": [
+    "teen pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27361b4809dc649f23a56887f88",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0261b4809dc649f23a56887f88",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485161b4809dc649f23a56887f88",
+      "width": 64
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/50zhmSD9wi3LHamXKx8A2W"
+  }
+}

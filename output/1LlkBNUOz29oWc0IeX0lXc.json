@@ -1,0 +1,33 @@
+{
+  "id": "1LlkBNUOz29oWc0IeX0lXc",
+  "name": "Great Blue",
+  "uri": "spotify:artist:1LlkBNUOz29oWc0IeX0lXc",
+  "followers": {
+    "href": null,
+    "total": 1646
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb290f71d5f64321be2660a428",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174290f71d5f64321be2660a428",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178290f71d5f64321be2660a428",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1LlkBNUOz29oWc0IeX0lXc"
+  }
+}

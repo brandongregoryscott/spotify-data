@@ -1,0 +1,33 @@
+{
+  "id": "79iSQLNRiPa93oo3yYxAmN",
+  "name": "The Jauntee",
+  "uri": "spotify:artist:79iSQLNRiPa93oo3yYxAmN",
+  "followers": {
+    "href": null,
+    "total": 3149
+  },
+  "genres": [
+    "jam band"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb82746328737c404ec13bb4f8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517482746328737c404ec13bb4f8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17882746328737c404ec13bb4f8",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN"
+  }
+}

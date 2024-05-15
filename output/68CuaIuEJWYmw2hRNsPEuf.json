@@ -1,0 +1,33 @@
+{
+  "id": "68CuaIuEJWYmw2hRNsPEuf",
+  "name": "proxsima",
+  "uri": "spotify:artist:68CuaIuEJWYmw2hRNsPEuf",
+  "followers": {
+    "href": null,
+    "total": 25
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb63e91648356fd8e61d3ec384",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517463e91648356fd8e61d3ec384",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17863e91648356fd8e61d3ec384",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/68CuaIuEJWYmw2hRNsPEuf"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6SRS5s7fDegvgH2w96Ax0y",
+  "name": "helen island",
+  "uri": "spotify:artist:6SRS5s7fDegvgH2w96Ax0y",
+  "followers": {
+    "href": null,
+    "total": 699
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb83ea161dee57ef6a8c78962f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517483ea161dee57ef6a8c78962f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17883ea161dee57ef6a8c78962f",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6SRS5s7fDegvgH2w96Ax0y"
+  }
+}

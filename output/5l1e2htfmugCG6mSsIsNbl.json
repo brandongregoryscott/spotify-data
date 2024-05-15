@@ -1,0 +1,33 @@
+{
+  "id": "5l1e2htfmugCG6mSsIsNbl",
+  "name": "ElephantProof",
+  "uri": "spotify:artist:5l1e2htfmugCG6mSsIsNbl",
+  "followers": {
+    "href": null,
+    "total": 874
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b531b60850b8ad08766081cf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b531b60850b8ad08766081cf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b531b60850b8ad08766081cf",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5l1e2htfmugCG6mSsIsNbl"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "40B6FlZrssm5OOsRNR695q",
+  "name": "False Idle",
+  "uri": "spotify:artist:40B6FlZrssm5OOsRNR695q",
+  "followers": {
+    "href": null,
+    "total": 1010
+  },
+  "genres": [
+    "christian hardcore",
+    "christian punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd5ba5c3c5f17c0dff4c3e441",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d5ba5c3c5f17c0dff4c3e441",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d5ba5c3c5f17c0dff4c3e441",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/40B6FlZrssm5OOsRNR695q"
+  }
+}

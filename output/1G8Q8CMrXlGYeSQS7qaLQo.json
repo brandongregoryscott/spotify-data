@@ -1,0 +1,33 @@
+{
+  "id": "1G8Q8CMrXlGYeSQS7qaLQo",
+  "name": "Mercusuar",
+  "uri": "spotify:artist:1G8Q8CMrXlGYeSQS7qaLQo",
+  "followers": {
+    "href": null,
+    "total": 15
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732e11178fdcf4222bf7170e17",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022e11178fdcf4222bf7170e17",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512e11178fdcf4222bf7170e17",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1G8Q8CMrXlGYeSQS7qaLQo"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1wWEsx4DwkpfZcBaK2oJ4s",
+  "name": "Torch",
+  "uri": "spotify:artist:1wWEsx4DwkpfZcBaK2oJ4s",
+  "followers": {
+    "href": null,
+    "total": 1056
+  },
+  "genres": [
+    "coldwave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdda260959c4aae4a6165cd0d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dda260959c4aae4a6165cd0d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dda260959c4aae4a6165cd0d",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1wWEsx4DwkpfZcBaK2oJ4s"
+  }
+}

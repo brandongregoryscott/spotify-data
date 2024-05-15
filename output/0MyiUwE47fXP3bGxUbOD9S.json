@@ -1,0 +1,33 @@
+{
+  "id": "0MyiUwE47fXP3bGxUbOD9S",
+  "name": "John Makay",
+  "uri": "spotify:artist:0MyiUwE47fXP3bGxUbOD9S",
+  "followers": {
+    "href": null,
+    "total": 56
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27312cb0f22b92616e3de699596",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0212cb0f22b92616e3de699596",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485112cb0f22b92616e3de699596",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0MyiUwE47fXP3bGxUbOD9S"
+  }
+}

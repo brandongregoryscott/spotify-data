@@ -1,0 +1,33 @@
+{
+  "id": "1n09npPgWoiNl3M4FUFlNV",
+  "name": "Sprawl",
+  "uri": "spotify:artist:1n09npPgWoiNl3M4FUFlNV",
+  "followers": {
+    "href": null,
+    "total": 224
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734a5e12d52792638c25a7acf6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024a5e12d52792638c25a7acf6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514a5e12d52792638c25a7acf6",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1n09npPgWoiNl3M4FUFlNV"
+  }
+}

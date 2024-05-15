@@ -1,0 +1,33 @@
+{
+  "id": "59GJCXTWrYEkwLtpsFo5yQ",
+  "name": "Rosy Finch",
+  "uri": "spotify:artist:59GJCXTWrYEkwLtpsFo5yQ",
+  "followers": {
+    "href": null,
+    "total": 2558
+  },
+  "genres": [
+    "spanish stoner rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb42ce63bea43b2ef52457ba89",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517442ce63bea43b2ef52457ba89",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17842ce63bea43b2ef52457ba89",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/59GJCXTWrYEkwLtpsFo5yQ"
+  }
+}

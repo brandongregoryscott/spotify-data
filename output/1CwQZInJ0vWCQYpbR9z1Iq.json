@@ -1,0 +1,33 @@
+{
+  "id": "1CwQZInJ0vWCQYpbR9z1Iq",
+  "name": "Dodo",
+  "uri": "spotify:artist:1CwQZInJ0vWCQYpbR9z1Iq",
+  "followers": {
+    "href": null,
+    "total": 1875
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd66c253fa4f1fe3134921bc9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d66c253fa4f1fe3134921bc9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d66c253fa4f1fe3134921bc9",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1CwQZInJ0vWCQYpbR9z1Iq"
+  }
+}

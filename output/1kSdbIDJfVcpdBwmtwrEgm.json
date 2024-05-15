@@ -1,0 +1,33 @@
+{
+  "id": "1kSdbIDJfVcpdBwmtwrEgm",
+  "name": "cloudboi.",
+  "uri": "spotify:artist:1kSdbIDJfVcpdBwmtwrEgm",
+  "followers": {
+    "href": null,
+    "total": 3692
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd597b5c58b67225c84507e68",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d597b5c58b67225c84507e68",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d597b5c58b67225c84507e68",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1kSdbIDJfVcpdBwmtwrEgm"
+  }
+}

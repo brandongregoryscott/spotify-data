@@ -1,0 +1,33 @@
+{
+  "id": "6OkOG4UG1lP6JtweIw1g0V",
+  "name": "Perro Guacho",
+  "uri": "spotify:artist:6OkOG4UG1lP6JtweIw1g0V",
+  "followers": {
+    "href": null,
+    "total": 86
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c6d1a2be00a7490fff18e12b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c6d1a2be00a7490fff18e12b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c6d1a2be00a7490fff18e12b",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6OkOG4UG1lP6JtweIw1g0V"
+  }
+}
