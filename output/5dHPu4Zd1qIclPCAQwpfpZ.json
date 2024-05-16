@@ -4,15 +4,29 @@
   "uri": "spotify:artist:5dHPu4Zd1qIclPCAQwpfpZ",
   "followers": {
     "href": null,
-    "total": 3629
+    "total": 3635
   },
   "genres": [
     "florida drill"
   ],
   "images": [
-
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fde32c39e58f9e7b987c786e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fde32c39e58f9e7b987c786e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fde32c39e58f9e7b987c786e",
+      "width": 64
+    }
   ],
-  "popularity": 22,
+  "popularity": 23,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/5dHPu4Zd1qIclPCAQwpfpZ"
   }
