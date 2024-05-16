@@ -4,11 +4,12 @@
   "uri": "spotify:artist:6MIbrfpc9aH6gsEl2yep68",
   "followers": {
     "href": null,
-    "total": 40034
+    "total": 40040
   },
   "genres": [
     "gbvfi",
-    "post-hardcore"
+    "post-hardcore",
+    "post-punk"
   ],
   "images": [
     {
@@ -32,7 +33,7 @@
       "width": 63
     }
   ],
-  "popularity": 24,
+  "popularity": 25,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/6MIbrfpc9aH6gsEl2yep68"
   }
