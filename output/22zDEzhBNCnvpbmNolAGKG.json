@@ -1,0 +1,33 @@
+{
+  "id": "22zDEzhBNCnvpbmNolAGKG",
+  "name": "Fortezza",
+  "uri": "spotify:artist:22zDEzhBNCnvpbmNolAGKG",
+  "followers": {
+    "href": null,
+    "total": 765
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcb706c1779141d86e90d4834",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cb706c1779141d86e90d4834",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cb706c1779141d86e90d4834",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/22zDEzhBNCnvpbmNolAGKG"
+  }
+}

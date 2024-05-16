@@ -1,0 +1,35 @@
+{
+  "id": "65vrcJ67suxLePeEhUtLLo",
+  "name": "Hulder",
+  "uri": "spotify:artist:65vrcJ67suxLePeEhUtLLo",
+  "followers": {
+    "href": null,
+    "total": 29531
+  },
+  "genres": [
+    "black metal",
+    "medieval black metal",
+    "raw black metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb31ab7cb1ed745c77a98283a8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517431ab7cb1ed745c77a98283a8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17831ab7cb1ed745c77a98283a8",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/65vrcJ67suxLePeEhUtLLo"
+  }
+}

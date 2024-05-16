@@ -1,0 +1,34 @@
+{
+  "id": "2Wpkd3RYly7jJd96AEKJ4C",
+  "name": "As Friends Rust",
+  "uri": "spotify:artist:2Wpkd3RYly7jJd96AEKJ4C",
+  "followers": {
+    "href": null,
+    "total": 8381
+  },
+  "genres": [
+    "florida hardcore",
+    "melodic hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e4c3ce2a38aa37a5d1e70142",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e4c3ce2a38aa37a5d1e70142",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e4c3ce2a38aa37a5d1e70142",
+      "width": 64
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Wpkd3RYly7jJd96AEKJ4C"
+  }
+}

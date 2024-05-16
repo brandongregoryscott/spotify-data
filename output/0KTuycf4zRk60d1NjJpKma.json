@@ -1,0 +1,33 @@
+{
+  "id": "0KTuycf4zRk60d1NjJpKma",
+  "name": "Pupppy",
+  "uri": "spotify:artist:0KTuycf4zRk60d1NjJpKma",
+  "followers": {
+    "href": null,
+    "total": 654
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a5e545c00b3f723d7beacfde",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a5e545c00b3f723d7beacfde",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a5e545c00b3f723d7beacfde",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0KTuycf4zRk60d1NjJpKma"
+  }
+}

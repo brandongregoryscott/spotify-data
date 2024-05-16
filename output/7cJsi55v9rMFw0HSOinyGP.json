@@ -1,0 +1,33 @@
+{
+  "id": "7cJsi55v9rMFw0HSOinyGP",
+  "name": "Mr. Sosa",
+  "uri": "spotify:artist:7cJsi55v9rMFw0HSOinyGP",
+  "followers": {
+    "href": null,
+    "total": 3833
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe54163728682290e4f4734ba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e54163728682290e4f4734ba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e54163728682290e4f4734ba",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7cJsi55v9rMFw0HSOinyGP"
+  }
+}

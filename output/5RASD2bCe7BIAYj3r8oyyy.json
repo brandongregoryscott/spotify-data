@@ -1,0 +1,33 @@
+{
+  "id": "5RASD2bCe7BIAYj3r8oyyy",
+  "name": "Scott Berry",
+  "uri": "spotify:artist:5RASD2bCe7BIAYj3r8oyyy",
+  "followers": {
+    "href": null,
+    "total": 385
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7fedec8e49ccce86bb294db0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051747fedec8e49ccce86bb294db0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1787fedec8e49ccce86bb294db0",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5RASD2bCe7BIAYj3r8oyyy"
+  }
+}

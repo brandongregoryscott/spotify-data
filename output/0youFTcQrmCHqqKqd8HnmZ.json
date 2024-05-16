@@ -1,0 +1,33 @@
+{
+  "id": "0youFTcQrmCHqqKqd8HnmZ",
+  "name": "Nikander",
+  "uri": "spotify:artist:0youFTcQrmCHqqKqd8HnmZ",
+  "followers": {
+    "href": null,
+    "total": 299
+  },
+  "genres": [
+    "czech metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27303361735c911d203563a807b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0203361735c911d203563a807b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485103361735c911d203563a807b",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0youFTcQrmCHqqKqd8HnmZ"
+  }
+}

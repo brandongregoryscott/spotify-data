@@ -1,0 +1,33 @@
+{
+  "id": "3DDehQyuNb0FvEdQvgv92b",
+  "name": "The Mystic Shed",
+  "uri": "spotify:artist:3DDehQyuNb0FvEdQvgv92b",
+  "followers": {
+    "href": null,
+    "total": 81
+  },
+  "genres": [
+    "heavy psych"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5f3d0a281284b0f0f58e1cae",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051745f3d0a281284b0f0f58e1cae",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1785f3d0a281284b0f0f58e1cae",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3DDehQyuNb0FvEdQvgv92b"
+  }
+}

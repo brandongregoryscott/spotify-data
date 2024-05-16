@@ -1,0 +1,33 @@
+{
+  "id": "3FLUBwpAnaIlIKeaBfsxFe",
+  "name": "Kito",
+  "uri": "spotify:artist:3FLUBwpAnaIlIKeaBfsxFe",
+  "followers": {
+    "href": null,
+    "total": 37614
+  },
+  "genres": [
+    "electra"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb570c5fdc182b461ac692e72f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174570c5fdc182b461ac692e72f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178570c5fdc182b461ac692e72f",
+      "width": 160
+    }
+  ],
+  "popularity": 51,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+  }
+}

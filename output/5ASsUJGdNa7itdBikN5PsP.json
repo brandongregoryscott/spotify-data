@@ -1,0 +1,33 @@
+{
+  "id": "5ASsUJGdNa7itdBikN5PsP",
+  "name": "Ocean Shores",
+  "uri": "spotify:artist:5ASsUJGdNa7itdBikN5PsP",
+  "followers": {
+    "href": null,
+    "total": 381
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb37893ad854eae07fcf500112",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517437893ad854eae07fcf500112",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17837893ad854eae07fcf500112",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ASsUJGdNa7itdBikN5PsP"
+  }
+}

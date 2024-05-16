@@ -1,0 +1,33 @@
+{
+  "id": "4QxfUP9WMDIvnZ4UK2Osiu",
+  "name": "sin",
+  "uri": "spotify:artist:4QxfUP9WMDIvnZ4UK2Osiu",
+  "followers": {
+    "href": null,
+    "total": 1421
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb96921464425c2f6ae6839339",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517496921464425c2f6ae6839339",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17896921464425c2f6ae6839339",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4QxfUP9WMDIvnZ4UK2Osiu"
+  }
+}

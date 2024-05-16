@@ -1,0 +1,33 @@
+{
+  "id": "6StCI06wIuxZQVaatoJqwm",
+  "name": "Slow",
+  "uri": "spotify:artist:6StCI06wIuxZQVaatoJqwm",
+  "followers": {
+    "href": null,
+    "total": 3712
+  },
+  "genres": [
+    "funeral doom"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737048100b0a1d762466dfd420",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027048100b0a1d762466dfd420",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517048100b0a1d762466dfd420",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6StCI06wIuxZQVaatoJqwm"
+  }
+}

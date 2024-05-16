@@ -1,0 +1,33 @@
+{
+  "id": "1UEbZP72VfT9Rf1gRK5M5e",
+  "name": "Injent",
+  "uri": "spotify:artist:1UEbZP72VfT9Rf1gRK5M5e",
+  "followers": {
+    "href": null,
+    "total": 286
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebec952b08231c3bb75cd7a1c3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ec952b08231c3bb75cd7a1c3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ec952b08231c3bb75cd7a1c3",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1UEbZP72VfT9Rf1gRK5M5e"
+  }
+}

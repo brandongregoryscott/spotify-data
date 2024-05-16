@@ -1,0 +1,33 @@
+{
+  "id": "2pKYeh23Ez3VOrd1p9rmp6",
+  "name": "soser",
+  "uri": "spotify:artist:2pKYeh23Ez3VOrd1p9rmp6",
+  "followers": {
+    "href": null,
+    "total": 1729
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb209f52a8a621faafc00c4081",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174209f52a8a621faafc00c4081",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178209f52a8a621faafc00c4081",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2pKYeh23Ez3VOrd1p9rmp6"
+  }
+}

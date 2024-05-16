@@ -1,0 +1,33 @@
+{
+  "id": "5pgVoIfnMe24ZeYzvgLTVo",
+  "name": "OPL",
+  "uri": "spotify:artist:5pgVoIfnMe24ZeYzvgLTVo",
+  "followers": {
+    "href": null,
+    "total": 401
+  },
+  "genres": [
+    "hypnotic techno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c699e62c68f881c015afb965",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c699e62c68f881c015afb965",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c699e62c68f881c015afb965",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5pgVoIfnMe24ZeYzvgLTVo"
+  }
+}

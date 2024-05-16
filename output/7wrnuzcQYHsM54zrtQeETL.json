@@ -1,0 +1,33 @@
+{
+  "id": "7wrnuzcQYHsM54zrtQeETL",
+  "name": "Clara Rose",
+  "uri": "spotify:artist:7wrnuzcQYHsM54zrtQeETL",
+  "followers": {
+    "href": null,
+    "total": 555
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbde416278cdfb146fef97799",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bde416278cdfb146fef97799",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bde416278cdfb146fef97799",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7wrnuzcQYHsM54zrtQeETL"
+  }
+}

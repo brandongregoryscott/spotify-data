@@ -1,0 +1,33 @@
+{
+  "id": "5yvGiZLSWJTPBlZpVbPnEZ",
+  "name": "Julia Wolf",
+  "uri": "spotify:artist:5yvGiZLSWJTPBlZpVbPnEZ",
+  "followers": {
+    "href": null,
+    "total": 51883
+  },
+  "genres": [
+    "alt z"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb66871c483411c60f7559e7f4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517466871c483411c60f7559e7f4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17866871c483411c60f7559e7f4",
+      "width": 160
+    }
+  ],
+  "popularity": 43,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2YWjcYK1ibhoGsYC3AIbwm",
+  "name": "Mary Traxler",
+  "uri": "spotify:artist:2YWjcYK1ibhoGsYC3AIbwm",
+  "followers": {
+    "href": null,
+    "total": 36
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb33c406803ec3f57fa58d45ae",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517433c406803ec3f57fa58d45ae",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17833c406803ec3f57fa58d45ae",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2YWjcYK1ibhoGsYC3AIbwm"
+  }
+}

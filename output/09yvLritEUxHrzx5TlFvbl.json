@@ -1,0 +1,37 @@
+{
+  "id": "09yvLritEUxHrzx5TlFvbl",
+  "name": "Margo Price",
+  "uri": "spotify:artist:09yvLritEUxHrzx5TlFvbl",
+  "followers": {
+    "href": null,
+    "total": 133430
+  },
+  "genres": [
+    "alternative country",
+    "folk",
+    "nashville americana",
+    "new americana",
+    "outlaw country"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb383e7692b01aa976a29d1d0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b383e7692b01aa976a29d1d0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b383e7692b01aa976a29d1d0",
+      "width": 160
+    }
+  ],
+  "popularity": 48,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+  }
+}

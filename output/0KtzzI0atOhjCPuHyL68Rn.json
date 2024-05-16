@@ -1,0 +1,33 @@
+{
+  "id": "0KtzzI0atOhjCPuHyL68Rn",
+  "name": "pecska",
+  "uri": "spotify:artist:0KtzzI0atOhjCPuHyL68Rn",
+  "followers": {
+    "href": null,
+    "total": 130
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735f4788eacdae12435fbd045b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025f4788eacdae12435fbd045b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515f4788eacdae12435fbd045b",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0KtzzI0atOhjCPuHyL68Rn"
+  }
+}

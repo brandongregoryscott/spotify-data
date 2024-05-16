@@ -1,0 +1,40 @@
+{
+  "id": "1i7YYagcULgnW5Qilsto1d",
+  "name": "Chris Stamey",
+  "uri": "spotify:artist:1i7YYagcULgnW5Qilsto1d",
+  "followers": {
+    "href": null,
+    "total": 3588
+  },
+  "genres": [
+    "jangle pop",
+    "power pop",
+    "underground power pop"
+  ],
+  "images": [
+    {
+      "height": 1000,
+      "url": "https://i.scdn.co/image/ab6772690000c46cd8606c187ca3cb51a99ce5c4",
+      "width": 1000
+    },
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6772690000dd22d8606c187ca3cb51a99ce5c4",
+      "width": 640
+    },
+    {
+      "height": 200,
+      "url": "https://i.scdn.co/image/ab6772690000bac3d8606c187ca3cb51a99ce5c4",
+      "width": 200
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67726900008f74d8606c187ca3cb51a99ce5c4",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1i7YYagcULgnW5Qilsto1d"
+  }
+}

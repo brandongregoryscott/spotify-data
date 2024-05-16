@@ -1,0 +1,34 @@
+{
+  "id": "5jNQ9Z2S4DNDS9G6WJGIU9",
+  "name": "One Step Ahead",
+  "uri": "spotify:artist:5jNQ9Z2S4DNDS9G6WJGIU9",
+  "followers": {
+    "href": null,
+    "total": 1367
+  },
+  "genres": [
+    "german punk",
+    "german street punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe50eb2dd71e85dd7f2149e12",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e50eb2dd71e85dd7f2149e12",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e50eb2dd71e85dd7f2149e12",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5jNQ9Z2S4DNDS9G6WJGIU9"
+  }
+}

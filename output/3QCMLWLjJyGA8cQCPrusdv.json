@@ -1,0 +1,33 @@
+{
+  "id": "3QCMLWLjJyGA8cQCPrusdv",
+  "name": "Two star",
+  "uri": "spotify:artist:3QCMLWLjJyGA8cQCPrusdv",
+  "followers": {
+    "href": null,
+    "total": 2029
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b20fc8d375fa1eacffa4ac74",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0292af4faf128d68d5504543ec",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ef62cba797d2c9353d0e6caf",
+      "width": 64
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3QCMLWLjJyGA8cQCPrusdv"
+  }
+}

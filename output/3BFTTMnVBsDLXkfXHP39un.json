@@ -1,0 +1,33 @@
+{
+  "id": "3BFTTMnVBsDLXkfXHP39un",
+  "name": "The Famous People",
+  "uri": "spotify:artist:3BFTTMnVBsDLXkfXHP39un",
+  "followers": {
+    "href": null,
+    "total": 160
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb99a2ab69d19875b6d6c0388d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517499a2ab69d19875b6d6c0388d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17899a2ab69d19875b6d6c0388d",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3BFTTMnVBsDLXkfXHP39un"
+  }
+}

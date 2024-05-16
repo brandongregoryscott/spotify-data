@@ -1,0 +1,33 @@
+{
+  "id": "17pkuOMKMxS5B6K4laHwzx",
+  "name": "Traiqo",
+  "uri": "spotify:artist:17pkuOMKMxS5B6K4laHwzx",
+  "followers": {
+    "href": null,
+    "total": 147
+  },
+  "genres": [
+    "atl drill"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb19df9e3cb78ba90c5655bd76",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517419df9e3cb78ba90c5655bd76",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17819df9e3cb78ba90c5655bd76",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/17pkuOMKMxS5B6K4laHwzx"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6pl6oPaBspSCzi4KlAOnvY",
+  "name": "Ryan Richter",
+  "uri": "spotify:artist:6pl6oPaBspSCzi4KlAOnvY",
+  "followers": {
+    "href": null,
+    "total": 295
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e134e53c1b47e397279c8196",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e134e53c1b47e397279c8196",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e134e53c1b47e397279c8196",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6pl6oPaBspSCzi4KlAOnvY"
+  }
+}

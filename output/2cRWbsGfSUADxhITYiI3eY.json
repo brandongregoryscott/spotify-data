@@ -1,0 +1,33 @@
+{
+  "id": "2cRWbsGfSUADxhITYiI3eY",
+  "name": "Slo-Poke",
+  "uri": "spotify:artist:2cRWbsGfSUADxhITYiI3eY",
+  "followers": {
+    "href": null,
+    "total": 17
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b473a85745de3b709e43575b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02074aadac3d74ebf02b07549f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b473a85745de3b709e43575b",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2cRWbsGfSUADxhITYiI3eY"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5BoJKqCcEEHhPnY1AGWWtd",
+  "name": "Hugo Antes",
+  "uri": "spotify:artist:5BoJKqCcEEHhPnY1AGWWtd",
+  "followers": {
+    "href": null,
+    "total": 151
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd7c878cdb2a3ee862635ce13",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d7c878cdb2a3ee862635ce13",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d7c878cdb2a3ee862635ce13",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5BoJKqCcEEHhPnY1AGWWtd"
+  }
+}

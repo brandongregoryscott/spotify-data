@@ -1,0 +1,34 @@
+{
+  "id": "1ZyOzjjtxHkAfLA2xHKMxy",
+  "name": "Dr. Spock",
+  "uri": "spotify:artist:1ZyOzjjtxHkAfLA2xHKMxy",
+  "followers": {
+    "href": null,
+    "total": 967
+  },
+  "genres": [
+    "classic icelandic pop",
+    "icelandic rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730a48da6460ab96cf3ea1f1da",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020a48da6460ab96cf3ea1f1da",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510a48da6460ab96cf3ea1f1da",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ZyOzjjtxHkAfLA2xHKMxy"
+  }
+}

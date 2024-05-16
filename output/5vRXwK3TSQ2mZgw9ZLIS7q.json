@@ -1,0 +1,33 @@
+{
+  "id": "5vRXwK3TSQ2mZgw9ZLIS7q",
+  "name": "Moon",
+  "uri": "spotify:artist:5vRXwK3TSQ2mZgw9ZLIS7q",
+  "followers": {
+    "href": null,
+    "total": 2644
+  },
+  "genres": [
+    "korean jazz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a56eb55e82e80e3d655f25cb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a56eb55e82e80e3d655f25cb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a56eb55e82e80e3d655f25cb",
+      "width": 64
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5vRXwK3TSQ2mZgw9ZLIS7q"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7y7byJwxSQxTOxuoAA9tcp",
+  "name": "Harumakigohan",
+  "uri": "spotify:artist:7y7byJwxSQxTOxuoAA9tcp",
+  "followers": {
+    "href": null,
+    "total": 111987
+  },
+  "genres": [
+    "vocaloid"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb43741b86769d6dcc8e725ad8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517443741b86769d6dcc8e725ad8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17843741b86769d6dcc8e725ad8",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7y7byJwxSQxTOxuoAA9tcp"
+  }
+}

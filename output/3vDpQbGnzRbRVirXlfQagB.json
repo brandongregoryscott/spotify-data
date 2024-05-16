@@ -1,0 +1,37 @@
+{
+  "id": "3vDpQbGnzRbRVirXlfQagB",
+  "name": "Sturgill Simpson",
+  "uri": "spotify:artist:3vDpQbGnzRbRVirXlfQagB",
+  "followers": {
+    "href": null,
+    "total": 852057
+  },
+  "genres": [
+    "alternative americana",
+    "kentucky roots",
+    "nashville singer-songwriter",
+    "new americana",
+    "outlaw country"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe4fefc2dd6bf0bfc86ca7d23",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e4fefc2dd6bf0bfc86ca7d23",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e4fefc2dd6bf0bfc86ca7d23",
+      "width": 160
+    }
+  ],
+  "popularity": 61,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+  }
+}

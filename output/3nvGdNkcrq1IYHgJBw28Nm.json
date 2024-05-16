@@ -1,0 +1,33 @@
+{
+  "id": "3nvGdNkcrq1IYHgJBw28Nm",
+  "name": "August Høyen",
+  "uri": "spotify:artist:3nvGdNkcrq1IYHgJBw28Nm",
+  "followers": {
+    "href": null,
+    "total": 11196
+  },
+  "genres": [
+    "danish pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb65f40df5365557323566fa35",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517465f40df5365557323566fa35",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17865f40df5365557323566fa35",
+      "width": 160
+    }
+  ],
+  "popularity": 45,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+  }
+}

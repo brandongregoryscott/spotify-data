@@ -1,0 +1,33 @@
+{
+  "id": "08KQdbmisthkepDDlmmHZi",
+  "name": "0megafactor",
+  "uri": "spotify:artist:08KQdbmisthkepDDlmmHZi",
+  "followers": {
+    "href": null,
+    "total": 1046
+  },
+  "genres": [
+    "scenecore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfbdd2fabd8f6ede0cc93d16e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fbdd2fabd8f6ede0cc93d16e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fbdd2fabd8f6ede0cc93d16e",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/08KQdbmisthkepDDlmmHZi"
+  }
+}

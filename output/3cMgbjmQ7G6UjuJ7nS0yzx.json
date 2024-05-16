@@ -1,0 +1,33 @@
+{
+  "id": "3cMgbjmQ7G6UjuJ7nS0yzx",
+  "name": "Blimp",
+  "uri": "spotify:artist:3cMgbjmQ7G6UjuJ7nS0yzx",
+  "followers": {
+    "href": null,
+    "total": 1513
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb62afdbc571bb7c1bc92c46d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b62afdbc571bb7c1bc92c46d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b62afdbc571bb7c1bc92c46d",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3cMgbjmQ7G6UjuJ7nS0yzx"
+  }
+}

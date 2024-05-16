@@ -1,0 +1,33 @@
+{
+  "id": "1GeXrfOX86pIa9r0M044P6",
+  "name": "PURITAN",
+  "uri": "spotify:artist:1GeXrfOX86pIa9r0M044P6",
+  "followers": {
+    "href": null,
+    "total": 130
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba606cb4fa33bfc4f2718e2cb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a606cb4fa33bfc4f2718e2cb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a606cb4fa33bfc4f2718e2cb",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1GeXrfOX86pIa9r0M044P6"
+  }
+}

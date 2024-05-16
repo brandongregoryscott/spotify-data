@@ -1,0 +1,33 @@
+{
+  "id": "3msXC6pMiUZJRgqVrBUNJ2",
+  "name": "Monakis",
+  "uri": "spotify:artist:3msXC6pMiUZJRgqVrBUNJ2",
+  "followers": {
+    "href": null,
+    "total": 1479
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf1a73ce05d7a546ac908f0c8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f1a73ce05d7a546ac908f0c8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f1a73ce05d7a546ac908f0c8",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3msXC6pMiUZJRgqVrBUNJ2"
+  }
+}

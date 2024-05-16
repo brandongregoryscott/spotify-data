@@ -1,0 +1,33 @@
+{
+  "id": "6SDQi8toKtqI3o4abI9tHS",
+  "name": "Defset",
+  "uri": "spotify:artist:6SDQi8toKtqI3o4abI9tHS",
+  "followers": {
+    "href": null,
+    "total": 1126
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb537ed3aa781681b3b52c2425",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174537ed3aa781681b3b52c2425",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178537ed3aa781681b3b52c2425",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6SDQi8toKtqI3o4abI9tHS"
+  }
+}
