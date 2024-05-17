@@ -1,0 +1,33 @@
+{
+  "id": "1mhQaaVp2t1WobfIADrcd2",
+  "name": "Mac Saturn",
+  "uri": "spotify:artist:1mhQaaVp2t1WobfIADrcd2",
+  "followers": {
+    "href": null,
+    "total": 19637
+  },
+  "genres": [
+    "detroit rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb96acb916191bfc1ba94abc3c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517496acb916191bfc1ba94abc3c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17896acb916191bfc1ba94abc3c",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1mhQaaVp2t1WobfIADrcd2"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6mzyDWAzx6UyhSdiorFrJj",
+  "name": "Spell Garden",
+  "uri": "spotify:artist:6mzyDWAzx6UyhSdiorFrJj",
+  "followers": {
+    "href": null,
+    "total": 869
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbd9336a2d73194bca44508ca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bd9336a2d73194bca44508ca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bd9336a2d73194bca44508ca",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6mzyDWAzx6UyhSdiorFrJj"
+  }
+}

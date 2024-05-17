@@ -1,0 +1,33 @@
+{
+  "id": "0DpIimip3afhCkgxJMELjP",
+  "name": "Rust",
+  "uri": "spotify:artist:0DpIimip3afhCkgxJMELjP",
+  "followers": {
+    "href": null,
+    "total": 4092
+  },
+  "genres": [
+    "canadian hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb65990535cf32ae59a41e4dcf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517465990535cf32ae59a41e4dcf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17865990535cf32ae59a41e4dcf",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0DpIimip3afhCkgxJMELjP"
+  }
+}

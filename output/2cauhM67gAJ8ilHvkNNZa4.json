@@ -1,0 +1,34 @@
+{
+  "id": "2cauhM67gAJ8ilHvkNNZa4",
+  "name": "Khymera",
+  "uri": "spotify:artist:2cauhM67gAJ8ilHvkNNZa4",
+  "followers": {
+    "href": null,
+    "total": 15521
+  },
+  "genres": [
+    "melodic hard rock",
+    "nightrun"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb143b11afbded5e82fb5dd15b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174143b11afbded5e82fb5dd15b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178143b11afbded5e82fb5dd15b",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2cauhM67gAJ8ilHvkNNZa4"
+  }
+}

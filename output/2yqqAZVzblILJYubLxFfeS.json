@@ -1,0 +1,33 @@
+{
+  "id": "2yqqAZVzblILJYubLxFfeS",
+  "name": "Aymí",
+  "uri": "spotify:artist:2yqqAZVzblILJYubLxFfeS",
+  "followers": {
+    "href": null,
+    "total": 91
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb00bcc8b31de6916c51326b7c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517400bcc8b31de6916c51326b7c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17800bcc8b31de6916c51326b7c",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2yqqAZVzblILJYubLxFfeS"
+  }
+}

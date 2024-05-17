@@ -1,0 +1,33 @@
+{
+  "id": "1wnuNRHvd9sJ1WxxLSJjUQ",
+  "name": "Sneguole",
+  "uri": "spotify:artist:1wnuNRHvd9sJ1WxxLSJjUQ",
+  "followers": {
+    "href": null,
+    "total": 160
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb51714d94f8adaca4520f0a43",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517451714d94f8adaca4520f0a43",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17851714d94f8adaca4520f0a43",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1wnuNRHvd9sJ1WxxLSJjUQ"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0yQplh150EDTfHbCRv76A4",
+  "name": "Ekcetera",
+  "uri": "spotify:artist:0yQplh150EDTfHbCRv76A4",
+  "followers": {
+    "href": null,
+    "total": 102
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb514af0c88cf3bd514950e51d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174514af0c88cf3bd514950e51d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178514af0c88cf3bd514950e51d",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0yQplh150EDTfHbCRv76A4"
+  }
+}

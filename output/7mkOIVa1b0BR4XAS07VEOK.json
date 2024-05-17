@@ -1,0 +1,33 @@
+{
+  "id": "7mkOIVa1b0BR4XAS07VEOK",
+  "name": "Valhua",
+  "uri": "spotify:artist:7mkOIVa1b0BR4XAS07VEOK",
+  "followers": {
+    "href": null,
+    "total": 442
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcb31aaeab3b919003ca70a2c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cb31aaeab3b919003ca70a2c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cb31aaeab3b919003ca70a2c",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7mkOIVa1b0BR4XAS07VEOK"
+  }
+}

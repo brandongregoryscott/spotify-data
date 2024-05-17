@@ -1,0 +1,33 @@
+{
+  "id": "529U1O3IkmqF6pT6DpD9GQ",
+  "name": "Elevn",
+  "uri": "spotify:artist:529U1O3IkmqF6pT6DpD9GQ",
+  "followers": {
+    "href": null,
+    "total": 1225
+  },
+  "genres": [
+    "darksynth"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb93f210b5c5c418c96880dc01",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517493f210b5c5c418c96880dc01",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17893f210b5c5c418c96880dc01",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/529U1O3IkmqF6pT6DpD9GQ"
+  }
+}

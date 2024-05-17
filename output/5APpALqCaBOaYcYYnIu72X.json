@@ -1,0 +1,38 @@
+{
+  "id": "5APpALqCaBOaYcYYnIu72X",
+  "name": "Jeff Autry",
+  "uri": "spotify:artist:5APpALqCaBOaYcYYnIu72X",
+  "followers": {
+    "href": null,
+    "total": 461
+  },
+  "genres": [
+    "instrumental bluegrass"
+  ],
+  "images": [
+    {
+      "height": 450,
+      "url": "https://i.scdn.co/image/2353607128c48b5f7858265ff772489604ebaa2e",
+      "width": 1000
+    },
+    {
+      "height": 288,
+      "url": "https://i.scdn.co/image/f805a1bccba4f2ed1089d71ec00aef054dd5478d",
+      "width": 640
+    },
+    {
+      "height": 90,
+      "url": "https://i.scdn.co/image/ab9034771e4be079e15e95ed5de9a8a7f2fe13e0",
+      "width": 200
+    },
+    {
+      "height": 29,
+      "url": "https://i.scdn.co/image/8ea71b0945ef672f49d1d27dc1d312cb653634b8",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5APpALqCaBOaYcYYnIu72X"
+  }
+}

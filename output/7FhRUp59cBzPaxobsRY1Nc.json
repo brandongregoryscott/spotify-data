@@ -1,0 +1,33 @@
+{
+  "id": "7FhRUp59cBzPaxobsRY1Nc",
+  "name": "Bay Ledges",
+  "uri": "spotify:artist:7FhRUp59cBzPaxobsRY1Nc",
+  "followers": {
+    "href": null,
+    "total": 66543
+  },
+  "genres": [
+    "la pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebffb80d2a054a4e9f92de300e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ffb80d2a054a4e9f92de300e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ffb80d2a054a4e9f92de300e",
+      "width": 160
+    }
+  ],
+  "popularity": 50,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5Vw8ULD3DDz8UhMsEet5It",
+  "name": "Murkula",
+  "uri": "spotify:artist:5Vw8ULD3DDz8UhMsEet5It",
+  "followers": {
+    "href": null,
+    "total": 662
+  },
+  "genres": [
+    "darksynth"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfc31a6a3e04b442ff5a569fb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fc31a6a3e04b442ff5a569fb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fc31a6a3e04b442ff5a569fb",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Vw8ULD3DDz8UhMsEet5It"
+  }
+}

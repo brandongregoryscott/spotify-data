@@ -1,0 +1,33 @@
+{
+  "id": "3GYKuxj2TM5K4S2DAX5KmG",
+  "name": "Red Morrow",
+  "uri": "spotify:artist:3GYKuxj2TM5K4S2DAX5KmG",
+  "followers": {
+    "href": null,
+    "total": 167
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0ca4a6442dc08a7aecd0e69f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051740ca4a6442dc08a7aecd0e69f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1780ca4a6442dc08a7aecd0e69f",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3GYKuxj2TM5K4S2DAX5KmG"
+  }
+}

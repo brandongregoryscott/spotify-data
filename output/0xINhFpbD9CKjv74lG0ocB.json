@@ -1,0 +1,33 @@
+{
+  "id": "0xINhFpbD9CKjv74lG0ocB",
+  "name": "Josie",
+  "uri": "spotify:artist:0xINhFpbD9CKjv74lG0ocB",
+  "followers": {
+    "href": null,
+    "total": 284
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb54c14f9b62dce16a847fa2ac",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517454c14f9b62dce16a847fa2ac",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17854c14f9b62dce16a847fa2ac",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0xINhFpbD9CKjv74lG0ocB"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "6lQAyngCdU9GIs33U8jqlJ",
+  "name": "Melts",
+  "uri": "spotify:artist:6lQAyngCdU9GIs33U8jqlJ",
+  "followers": {
+    "href": null,
+    "total": 3390
+  },
+  "genres": [
+    "dublin indie",
+    "irish post-punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb39e846ab3279123d0a6d1005",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517439e846ab3279123d0a6d1005",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17839e846ab3279123d0a6d1005",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6lQAyngCdU9GIs33U8jqlJ"
+  }
+}

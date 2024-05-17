@@ -1,0 +1,33 @@
+{
+  "id": "3lINHrhs0GDu39etcqpMBp",
+  "name": "Karla Adolphe",
+  "uri": "spotify:artist:3lINHrhs0GDu39etcqpMBp",
+  "followers": {
+    "href": null,
+    "total": 912
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb13ea36c6eca5f4cfaf0e7894",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517413ea36c6eca5f4cfaf0e7894",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17813ea36c6eca5f4cfaf0e7894",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3lINHrhs0GDu39etcqpMBp"
+  }
+}

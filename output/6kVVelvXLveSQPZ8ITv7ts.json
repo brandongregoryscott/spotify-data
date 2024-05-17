@@ -1,0 +1,33 @@
+{
+  "id": "6kVVelvXLveSQPZ8ITv7ts",
+  "name": "Clover",
+  "uri": "spotify:artist:6kVVelvXLveSQPZ8ITv7ts",
+  "followers": {
+    "href": null,
+    "total": 46
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd625fa8b81575584f53600ae",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d625fa8b81575584f53600ae",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d625fa8b81575584f53600ae",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6kVVelvXLveSQPZ8ITv7ts"
+  }
+}

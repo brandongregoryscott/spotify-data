@@ -1,0 +1,33 @@
+{
+  "id": "2a9ii3XqQfYZebaCebCuJD",
+  "name": "202 Collective",
+  "uri": "spotify:artist:2a9ii3XqQfYZebaCebCuJD",
+  "followers": {
+    "href": null,
+    "total": 813
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb10a6be106fa52f4fcedab9ce",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517410a6be106fa52f4fcedab9ce",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17810a6be106fa52f4fcedab9ce",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2a9ii3XqQfYZebaCebCuJD"
+  }
+}

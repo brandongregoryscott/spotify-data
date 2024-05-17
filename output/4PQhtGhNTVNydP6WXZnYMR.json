@@ -1,0 +1,33 @@
+{
+  "id": "4PQhtGhNTVNydP6WXZnYMR",
+  "name": "Static Animal",
+  "uri": "spotify:artist:4PQhtGhNTVNydP6WXZnYMR",
+  "followers": {
+    "href": null,
+    "total": 809
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb273d4093fceb4db63279272e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174273d4093fceb4db63279272e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178273d4093fceb4db63279272e",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4PQhtGhNTVNydP6WXZnYMR"
+  }
+}

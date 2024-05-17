@@ -1,0 +1,33 @@
+{
+  "id": "489GC9X7MwO3yuwvWbCop7",
+  "name": "swan",
+  "uri": "spotify:artist:489GC9X7MwO3yuwvWbCop7",
+  "followers": {
+    "href": null,
+    "total": 156
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd236ae8e5c196c66608ad341",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d236ae8e5c196c66608ad341",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d236ae8e5c196c66608ad341",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/489GC9X7MwO3yuwvWbCop7"
+  }
+}

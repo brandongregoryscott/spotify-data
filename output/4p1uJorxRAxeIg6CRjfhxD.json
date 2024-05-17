@@ -1,0 +1,34 @@
+{
+  "id": "4p1uJorxRAxeIg6CRjfhxD",
+  "name": "Daily Planet",
+  "uri": "spotify:artist:4p1uJorxRAxeIg6CRjfhxD",
+  "followers": {
+    "href": null,
+    "total": 1741
+  },
+  "genres": [
+    "neo-synthpop",
+    "swedish synth"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf6272b81d47e6cf0846180e6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f6272b81d47e6cf0846180e6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f6272b81d47e6cf0846180e6",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4p1uJorxRAxeIg6CRjfhxD"
+  }
+}

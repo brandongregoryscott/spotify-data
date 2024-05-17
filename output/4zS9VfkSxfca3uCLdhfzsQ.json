@@ -1,0 +1,33 @@
+{
+  "id": "4zS9VfkSxfca3uCLdhfzsQ",
+  "name": "BEREAL",
+  "uri": "spotify:artist:4zS9VfkSxfca3uCLdhfzsQ",
+  "followers": {
+    "href": null,
+    "total": 219
+  },
+  "genres": [
+    "japanese drill"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe1bc835a9a6d43a3af243368",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e1bc835a9a6d43a3af243368",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e1bc835a9a6d43a3af243368",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4zS9VfkSxfca3uCLdhfzsQ"
+  }
+}

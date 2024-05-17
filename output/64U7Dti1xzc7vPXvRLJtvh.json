@@ -1,0 +1,33 @@
+{
+  "id": "64U7Dti1xzc7vPXvRLJtvh",
+  "name": "Primeiro",
+  "uri": "spotify:artist:64U7Dti1xzc7vPXvRLJtvh",
+  "followers": {
+    "href": null,
+    "total": 139
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebac32dbe39d62d7b59d08408d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ac32dbe39d62d7b59d08408d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ac32dbe39d62d7b59d08408d",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/64U7Dti1xzc7vPXvRLJtvh"
+  }
+}

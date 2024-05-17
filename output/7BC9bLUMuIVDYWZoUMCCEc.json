@@ -1,0 +1,33 @@
+{
+  "id": "7BC9bLUMuIVDYWZoUMCCEc",
+  "name": "Blaksmif",
+  "uri": "spotify:artist:7BC9bLUMuIVDYWZoUMCCEc",
+  "followers": {
+    "href": null,
+    "total": 346
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb32060bcb9b8aa9801c86ed74",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517432060bcb9b8aa9801c86ed74",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17832060bcb9b8aa9801c86ed74",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7BC9bLUMuIVDYWZoUMCCEc"
+  }
+}

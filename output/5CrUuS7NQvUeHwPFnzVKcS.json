@@ -1,0 +1,33 @@
+{
+  "id": "5CrUuS7NQvUeHwPFnzVKcS",
+  "name": "Fugly",
+  "uri": "spotify:artist:5CrUuS7NQvUeHwPFnzVKcS",
+  "followers": {
+    "href": null,
+    "total": 2274
+  },
+  "genres": [
+    "portuguese rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb63bf6c159f0e2fd9a7232bac",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517463bf6c159f0e2fd9a7232bac",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17863bf6c159f0e2fd9a7232bac",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5CrUuS7NQvUeHwPFnzVKcS"
+  }
+}

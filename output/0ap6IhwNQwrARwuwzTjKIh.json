@@ -1,0 +1,33 @@
+{
+  "id": "0ap6IhwNQwrARwuwzTjKIh",
+  "name": "Sara Kurt",
+  "uri": "spotify:artist:0ap6IhwNQwrARwuwzTjKIh",
+  "followers": {
+    "href": null,
+    "total": 768
+  },
+  "genres": [
+    "swedish trap pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb99218612a9b8e15724c97668",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517499218612a9b8e15724c97668",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17899218612a9b8e15724c97668",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ap6IhwNQwrARwuwzTjKIh"
+  }
+}

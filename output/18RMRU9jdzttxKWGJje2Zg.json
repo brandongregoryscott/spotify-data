@@ -1,0 +1,33 @@
+{
+  "id": "18RMRU9jdzttxKWGJje2Zg",
+  "name": "Steve Gulley",
+  "uri": "spotify:artist:18RMRU9jdzttxKWGJje2Zg",
+  "followers": {
+    "href": null,
+    "total": 1763
+  },
+  "genres": [
+    "bluegrass"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/9403ec449a32a4850b81ce48c612131f3cc903a9",
+      "width": 640
+    },
+    {
+      "height": 200,
+      "url": "https://i.scdn.co/image/3d5ba2b2a0dea08f4dbf1a90a96698a39fe7838a",
+      "width": 200
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/610990e30a73a42b6b6bc6ca1b307214913d39f8",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/18RMRU9jdzttxKWGJje2Zg"
+  }
+}

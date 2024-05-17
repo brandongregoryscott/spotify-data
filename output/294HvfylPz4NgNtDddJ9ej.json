@@ -1,0 +1,33 @@
+{
+  "id": "294HvfylPz4NgNtDddJ9ej",
+  "name": "Furamango",
+  "uri": "spotify:artist:294HvfylPz4NgNtDddJ9ej",
+  "followers": {
+    "href": null,
+    "total": 174
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbb1200559ca72c24d8748535",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bb1200559ca72c24d8748535",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bb1200559ca72c24d8748535",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/294HvfylPz4NgNtDddJ9ej"
+  }
+}

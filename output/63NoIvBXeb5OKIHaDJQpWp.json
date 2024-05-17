@@ -1,0 +1,33 @@
+{
+  "id": "63NoIvBXeb5OKIHaDJQpWp",
+  "name": "Opraah",
+  "uri": "spotify:artist:63NoIvBXeb5OKIHaDJQpWp",
+  "followers": {
+    "href": null,
+    "total": 6218
+  },
+  "genres": [
+    "chill abstract hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb47b3782200d5ce8cfaa5fcbc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517447b3782200d5ce8cfaa5fcbc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17847b3782200d5ce8cfaa5fcbc",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/63NoIvBXeb5OKIHaDJQpWp"
+  }
+}

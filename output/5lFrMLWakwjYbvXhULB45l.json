@@ -1,0 +1,33 @@
+{
+  "id": "5lFrMLWakwjYbvXhULB45l",
+  "name": "Microchip Terror",
+  "uri": "spotify:artist:5lFrMLWakwjYbvXhULB45l",
+  "followers": {
+    "href": null,
+    "total": 1192
+  },
+  "genres": [
+    "darksynth"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb3abf527f124e9770ed742bc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b3abf527f124e9770ed742bc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b3abf527f124e9770ed742bc",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5lFrMLWakwjYbvXhULB45l"
+  }
+}

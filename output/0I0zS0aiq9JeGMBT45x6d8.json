@@ -1,0 +1,35 @@
+{
+  "id": "0I0zS0aiq9JeGMBT45x6d8",
+  "name": "Greekazo",
+  "uri": "spotify:artist:0I0zS0aiq9JeGMBT45x6d8",
+  "followers": {
+    "href": null,
+    "total": 101555
+  },
+  "genres": [
+    "swedish gangsta rap",
+    "swedish hip hop",
+    "swedish trap pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb81096b5e280cd032540a5baa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517481096b5e280cd032540a5baa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17881096b5e280cd032540a5baa",
+      "width": 160
+    }
+  ],
+  "popularity": 53,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
+  }
+}

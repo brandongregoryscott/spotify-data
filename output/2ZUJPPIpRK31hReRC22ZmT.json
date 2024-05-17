@@ -1,0 +1,37 @@
+{
+  "id": "2ZUJPPIpRK31hReRC22ZmT",
+  "name": "Commodo",
+  "uri": "spotify:artist:2ZUJPPIpRK31hReRC22ZmT",
+  "followers": {
+    "href": null,
+    "total": 28862
+  },
+  "genres": [
+    "classic dubstep",
+    "deep dubstep",
+    "future garage",
+    "minimal dubstep",
+    "uk bass"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb97f5fa21efb832a215704afc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517497f5fa21efb832a215704afc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17897f5fa21efb832a215704afc",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ZUJPPIpRK31hReRC22ZmT"
+  }
+}

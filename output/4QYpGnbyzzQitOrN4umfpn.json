@@ -1,0 +1,33 @@
+{
+  "id": "4QYpGnbyzzQitOrN4umfpn",
+  "name": "Amy Peters",
+  "uri": "spotify:artist:4QYpGnbyzzQitOrN4umfpn",
+  "followers": {
+    "href": null,
+    "total": 1847
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb9cc0ca6931c3be323b31b2a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b9cc0ca6931c3be323b31b2a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b9cc0ca6931c3be323b31b2a",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4QYpGnbyzzQitOrN4umfpn"
+  }
+}

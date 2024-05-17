@@ -1,0 +1,33 @@
+{
+  "id": "7AmnoqOYMcdDvOdJUHAlIF",
+  "name": "Gloom Influx",
+  "uri": "spotify:artist:7AmnoqOYMcdDvOdJUHAlIF",
+  "followers": {
+    "href": null,
+    "total": 802
+  },
+  "genres": [
+    "cyberpunk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe81f9bf7e3b71bfb9adff5c9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e81f9bf7e3b71bfb9adff5c9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e81f9bf7e3b71bfb9adff5c9",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7AmnoqOYMcdDvOdJUHAlIF"
+  }
+}

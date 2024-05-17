@@ -1,0 +1,33 @@
+{
+  "id": "0kk0bc8U0GBIuyXgpYs7DZ",
+  "name": "シナプス",
+  "uri": "spotify:artist:0kk0bc8U0GBIuyXgpYs7DZ",
+  "followers": {
+    "href": null,
+    "total": 160
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb773b5cac3064f27e6847ad6d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174773b5cac3064f27e6847ad6d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178773b5cac3064f27e6847ad6d",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0kk0bc8U0GBIuyXgpYs7DZ"
+  }
+}

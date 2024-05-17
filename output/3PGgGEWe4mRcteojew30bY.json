@@ -1,0 +1,33 @@
+{
+  "id": "3PGgGEWe4mRcteojew30bY",
+  "name": "Omni Express",
+  "uri": "spotify:artist:3PGgGEWe4mRcteojew30bY",
+  "followers": {
+    "href": null,
+    "total": 543
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732d4e8ba989014af7a8f29790",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022d4e8ba989014af7a8f29790",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512d4e8ba989014af7a8f29790",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3PGgGEWe4mRcteojew30bY"
+  }
+}

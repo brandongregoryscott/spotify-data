@@ -1,0 +1,35 @@
+{
+  "id": "3eaSy14MqO6cEmn6cckjS6",
+  "name": "Impurity",
+  "uri": "spotify:artist:3eaSy14MqO6cEmn6cckjS6",
+  "followers": {
+    "href": null,
+    "total": 3860
+  },
+  "genres": [
+    "brazilian black metal",
+    "brazilian death metal",
+    "metal mineiro"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ced197f2c6ad7e00046c1122",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ced197f2c6ad7e00046c1122",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ced197f2c6ad7e00046c1122",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3eaSy14MqO6cEmn6cckjS6"
+  }
+}

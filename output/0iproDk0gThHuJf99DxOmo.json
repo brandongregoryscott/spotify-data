@@ -1,0 +1,33 @@
+{
+  "id": "0iproDk0gThHuJf99DxOmo",
+  "name": "antwon",
+  "uri": "spotify:artist:0iproDk0gThHuJf99DxOmo",
+  "followers": {
+    "href": null,
+    "total": 116
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcab53d48caacf882c6a03959",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cab53d48caacf882c6a03959",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cab53d48caacf882c6a03959",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0iproDk0gThHuJf99DxOmo"
+  }
+}
