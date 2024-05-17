@@ -4,10 +4,11 @@
   "uri": "spotify:artist:7EWU4FhUJM1sZQgQKdENeT",
   "followers": {
     "href": null,
-    "total": 2400631
+    "total": 2400799
   },
   "genres": [
-    "conscious hip hop"
+    "conscious hip hop",
+    "indie pop rap"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 160
     }
   ],
-  "popularity": 55,
+  "popularity": 56,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
   }
