@@ -1,0 +1,33 @@
+{
+  "id": "6t6EVoAle5cZ5F18m1ap8Y",
+  "name": "Askariz",
+  "uri": "spotify:artist:6t6EVoAle5cZ5F18m1ap8Y",
+  "followers": {
+    "href": null,
+    "total": 771
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b564dd28587c00a12716b210",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b564dd28587c00a12716b210",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b564dd28587c00a12716b210",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6t6EVoAle5cZ5F18m1ap8Y"
+  }
+}

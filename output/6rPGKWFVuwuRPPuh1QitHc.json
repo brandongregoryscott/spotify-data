@@ -1,0 +1,34 @@
+{
+  "id": "6rPGKWFVuwuRPPuh1QitHc",
+  "name": "LaPeer",
+  "uri": "spotify:artist:6rPGKWFVuwuRPPuh1QitHc",
+  "followers": {
+    "href": null,
+    "total": 5504
+  },
+  "genres": [
+    "hopebeat",
+    "indiecoustica"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb171e5cb5d954a26ae1d01789",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174171e5cb5d954a26ae1d01789",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178171e5cb5d954a26ae1d01789",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc"
+  }
+}

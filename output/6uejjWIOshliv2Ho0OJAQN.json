@@ -1,0 +1,35 @@
+{
+  "id": "6uejjWIOshliv2Ho0OJAQN",
+  "name": "Devin Townsend",
+  "uri": "spotify:artist:6uejjWIOshliv2Ho0OJAQN",
+  "followers": {
+    "href": null,
+    "total": 223963
+  },
+  "genres": [
+    "canadian metal",
+    "progressive metal",
+    "vancouver metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba23b2ce05bb704b75a239088",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a23b2ce05bb704b75a239088",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a23b2ce05bb704b75a239088",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN"
+  }
+}

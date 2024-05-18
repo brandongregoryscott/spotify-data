@@ -1,0 +1,33 @@
+{
+  "id": "76ZpJJKxWFJyKOJzQXVWbk",
+  "name": "La Sociedad de La Sombrilla",
+  "uri": "spotify:artist:76ZpJJKxWFJyKOJzQXVWbk",
+  "followers": {
+    "href": null,
+    "total": 3616
+  },
+  "genres": [
+    "colombian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb610817d991e27095fe188501",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174610817d991e27095fe188501",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178610817d991e27095fe188501",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/76ZpJJKxWFJyKOJzQXVWbk"
+  }
+}

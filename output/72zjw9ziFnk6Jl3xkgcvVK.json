@@ -1,0 +1,33 @@
+{
+  "id": "72zjw9ziFnk6Jl3xkgcvVK",
+  "name": "fidget blue",
+  "uri": "spotify:artist:72zjw9ziFnk6Jl3xkgcvVK",
+  "followers": {
+    "href": null,
+    "total": 83
+  },
+  "genres": [
+    "trap beats"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27357e3231870c77f8d4aa9e8cd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0257e3231870c77f8d4aa9e8cd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485157e3231870c77f8d4aa9e8cd",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/72zjw9ziFnk6Jl3xkgcvVK"
+  }
+}

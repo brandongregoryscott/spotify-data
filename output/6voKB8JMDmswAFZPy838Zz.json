@@ -1,0 +1,33 @@
+{
+  "id": "6voKB8JMDmswAFZPy838Zz",
+  "name": "Never Run",
+  "uri": "spotify:artist:6voKB8JMDmswAFZPy838Zz",
+  "followers": {
+    "href": null,
+    "total": 792
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb39dfb1def909c25cd20a2b4e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517439dfb1def909c25cd20a2b4e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17839dfb1def909c25cd20a2b4e",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6voKB8JMDmswAFZPy838Zz"
+  }
+}

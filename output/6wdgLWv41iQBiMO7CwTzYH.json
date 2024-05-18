@@ -1,0 +1,33 @@
+{
+  "id": "6wdgLWv41iQBiMO7CwTzYH",
+  "name": "All People",
+  "uri": "spotify:artist:6wdgLWv41iQBiMO7CwTzYH",
+  "followers": {
+    "href": null,
+    "total": 385
+  },
+  "genres": [
+    "new orleans indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d8062dd01b613df6988d621a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d8062dd01b613df6988d621a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d8062dd01b613df6988d621a",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6wdgLWv41iQBiMO7CwTzYH"
+  }
+}

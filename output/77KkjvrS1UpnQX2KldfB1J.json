@@ -1,0 +1,33 @@
+{
+  "id": "77KkjvrS1UpnQX2KldfB1J",
+  "name": "アンと私",
+  "uri": "spotify:artist:77KkjvrS1UpnQX2KldfB1J",
+  "followers": {
+    "href": null,
+    "total": 10123
+  },
+  "genres": [
+    "modern j-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb02ef6108dce3242ab0e6710c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517402ef6108dce3242ab0e6710c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17802ef6108dce3242ab0e6710c",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/77KkjvrS1UpnQX2KldfB1J"
+  }
+}

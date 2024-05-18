@@ -1,0 +1,33 @@
+{
+  "id": "6uVAKYhqGGGvQg1UXB3ckV",
+  "name": "Antuantu",
+  "uri": "spotify:artist:6uVAKYhqGGGvQg1UXB3ckV",
+  "followers": {
+    "href": null,
+    "total": 1172
+  },
+  "genres": [
+    "electronica argentina"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb80d72375970b87a64ee1e9ec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517480d72375970b87a64ee1e9ec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17880d72375970b87a64ee1e9ec",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6uVAKYhqGGGvQg1UXB3ckV"
+  }
+}

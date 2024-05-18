@@ -1,0 +1,33 @@
+{
+  "id": "6s4rRzSz74RitFaweXeojr",
+  "name": "Conch",
+  "uri": "spotify:artist:6s4rRzSz74RitFaweXeojr",
+  "followers": {
+    "href": null,
+    "total": 2140
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbc911a11b20301bdb69f3433",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bc911a11b20301bdb69f3433",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bc911a11b20301bdb69f3433",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6s4rRzSz74RitFaweXeojr"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6z21ld9NgmPYbUGm494kgu",
+  "name": "Silcrow",
+  "uri": "spotify:artist:6z21ld9NgmPYbUGm494kgu",
+  "followers": {
+    "href": null,
+    "total": 533
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba061efb9bb9ba87d573d4a3a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a061efb9bb9ba87d573d4a3a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a061efb9bb9ba87d573d4a3a",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6z21ld9NgmPYbUGm494kgu"
+  }
+}

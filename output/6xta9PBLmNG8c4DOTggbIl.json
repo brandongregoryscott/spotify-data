@@ -1,0 +1,33 @@
+{
+  "id": "6xta9PBLmNG8c4DOTggbIl",
+  "name": "Operation Culture",
+  "uri": "spotify:artist:6xta9PBLmNG8c4DOTggbIl",
+  "followers": {
+    "href": null,
+    "total": 607
+  },
+  "genres": [
+    "west coast reggae"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb42b8daaa35fcf2c60c392318",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517442b8daaa35fcf2c60c392318",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17842b8daaa35fcf2c60c392318",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6xta9PBLmNG8c4DOTggbIl"
+  }
+}

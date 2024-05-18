@@ -1,0 +1,33 @@
+{
+  "id": "6s9gsFHF1kNgNbL7rpMydJ",
+  "name": "Cowboy",
+  "uri": "spotify:artist:6s9gsFHF1kNgNbL7rpMydJ",
+  "followers": {
+    "href": null,
+    "total": 7964
+  },
+  "genres": [
+    "southern rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730a9da133d38ecdcb172fc8de",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020a9da133d38ecdcb172fc8de",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510a9da133d38ecdcb172fc8de",
+      "width": 64
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6s9gsFHF1kNgNbL7rpMydJ"
+  }
+}

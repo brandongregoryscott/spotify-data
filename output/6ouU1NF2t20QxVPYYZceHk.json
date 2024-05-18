@@ -1,0 +1,33 @@
+{
+  "id": "6ouU1NF2t20QxVPYYZceHk",
+  "name": "San Blas",
+  "uri": "spotify:artist:6ouU1NF2t20QxVPYYZceHk",
+  "followers": {
+    "href": null,
+    "total": 34
+  },
+  "genres": [
+    "punk tico"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb389153d34845047f021d02e9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174389153d34845047f021d02e9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178389153d34845047f021d02e9",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ouU1NF2t20QxVPYYZceHk"
+  }
+}

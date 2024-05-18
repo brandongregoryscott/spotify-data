@@ -1,0 +1,33 @@
+{
+  "id": "705Ftz9AFgb4jPxI1vIfht",
+  "name": "Guggi Data",
+  "uri": "spotify:artist:705Ftz9AFgb4jPxI1vIfht",
+  "followers": {
+    "href": null,
+    "total": 294
+  },
+  "genres": [
+    "gothenburg indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b6fc1a8b8efee537b206809b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b6fc1a8b8efee537b206809b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b6fc1a8b8efee537b206809b",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/705Ftz9AFgb4jPxI1vIfht"
+  }
+}

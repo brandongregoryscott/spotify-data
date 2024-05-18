@@ -1,0 +1,33 @@
+{
+  "id": "6zf13X0QDPkbKT2bQAcKyV",
+  "name": "Jake Cornell",
+  "uri": "spotify:artist:6zf13X0QDPkbKT2bQAcKyV",
+  "followers": {
+    "href": null,
+    "total": 76578
+  },
+  "genres": [
+    "gen z singer-songwriter"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb812b52d1e4233fef98ba0f0d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174812b52d1e4233fef98ba0f0d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178812b52d1e4233fef98ba0f0d",
+      "width": 160
+    }
+  ],
+  "popularity": 41,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV"
+  }
+}

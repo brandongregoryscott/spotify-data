@@ -1,0 +1,33 @@
+{
+  "id": "72cfCRkDDkpAbBfOglADel",
+  "name": "Muurola",
+  "uri": "spotify:artist:72cfCRkDDkpAbBfOglADel",
+  "followers": {
+    "href": null,
+    "total": 46
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfb35b56faf671d835b247351",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fb35b56faf671d835b247351",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fb35b56faf671d835b247351",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/72cfCRkDDkpAbBfOglADel"
+  }
+}

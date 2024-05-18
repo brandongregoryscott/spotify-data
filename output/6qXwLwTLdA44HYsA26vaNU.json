@@ -1,0 +1,34 @@
+{
+  "id": "6qXwLwTLdA44HYsA26vaNU",
+  "name": "Tonic",
+  "uri": "spotify:artist:6qXwLwTLdA44HYsA26vaNU",
+  "followers": {
+    "href": null,
+    "total": 312666
+  },
+  "genres": [
+    "pop rock",
+    "post-grunge"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb686d2d81ff6004575ff74d53",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174686d2d81ff6004575ff74d53",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178686d2d81ff6004575ff74d53",
+      "width": 160
+    }
+  ],
+  "popularity": 50,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6qXwLwTLdA44HYsA26vaNU"
+  }
+}

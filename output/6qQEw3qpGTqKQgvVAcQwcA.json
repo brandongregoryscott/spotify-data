@@ -1,0 +1,33 @@
+{
+  "id": "6qQEw3qpGTqKQgvVAcQwcA",
+  "name": "Crímen",
+  "uri": "spotify:artist:6qQEw3qpGTqKQgvVAcQwcA",
+  "followers": {
+    "href": null,
+    "total": 297
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdb2d01ed0166c2b2c5a00d1a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174db2d01ed0166c2b2c5a00d1a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178db2d01ed0166c2b2c5a00d1a",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6qQEw3qpGTqKQgvVAcQwcA"
+  }
+}

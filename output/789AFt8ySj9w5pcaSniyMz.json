@@ -1,0 +1,33 @@
+{
+  "id": "789AFt8ySj9w5pcaSniyMz",
+  "name": "matatabi",
+  "uri": "spotify:artist:789AFt8ySj9w5pcaSniyMz",
+  "followers": {
+    "href": null,
+    "total": 938
+  },
+  "genres": [
+    "japanese beats"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf8807d71dea7cb27fe19b609",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f8807d71dea7cb27fe19b609",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f8807d71dea7cb27fe19b609",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/789AFt8ySj9w5pcaSniyMz"
+  }
+}

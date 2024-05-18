@@ -1,0 +1,33 @@
+{
+  "id": "6tiZMajIorMmF0ZcJ4aggC",
+  "name": "Ian Eskelin",
+  "uri": "spotify:artist:6tiZMajIorMmF0ZcJ4aggC",
+  "followers": {
+    "href": null,
+    "total": 364
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273eaeb37e83148d25c6fc55702",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02eaeb37e83148d25c6fc55702",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851eaeb37e83148d25c6fc55702",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6tiZMajIorMmF0ZcJ4aggC"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "70oggvgoWwh9pQTmpmCZM2",
+  "name": "Clyde Davenport",
+  "uri": "spotify:artist:70oggvgoWwh9pQTmpmCZM2",
+  "followers": {
+    "href": null,
+    "total": 504
+  },
+  "genres": [
+    "appalachian folk",
+    "old-time",
+    "traditional folk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738c0fd62463c89f113df5bd50",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028c0fd62463c89f113df5bd50",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518c0fd62463c89f113df5bd50",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/70oggvgoWwh9pQTmpmCZM2"
+  }
+}
