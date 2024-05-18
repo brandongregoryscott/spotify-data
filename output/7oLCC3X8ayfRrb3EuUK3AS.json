@@ -1,0 +1,33 @@
+{
+  "id": "7oLCC3X8ayfRrb3EuUK3AS",
+  "name": "Twin Studies",
+  "uri": "spotify:artist:7oLCC3X8ayfRrb3EuUK3AS",
+  "followers": {
+    "href": null,
+    "total": 150
+  },
+  "genres": [
+    "atlanta indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735ed9ed977ef4961b1ccda255",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025ed9ed977ef4961b1ccda255",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515ed9ed977ef4961b1ccda255",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7oLCC3X8ayfRrb3EuUK3AS"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7xFlbpC6N51XlYD6lTA6Au",
+  "name": "CYCLOPS",
+  "uri": "spotify:artist:7xFlbpC6N51XlYD6lTA6Au",
+  "followers": {
+    "href": null,
+    "total": 925
+  },
+  "genres": [
+    "bali indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebccf5b866bdce2f9435e8e37f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ccf5b866bdce2f9435e8e37f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ccf5b866bdce2f9435e8e37f",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7xFlbpC6N51XlYD6lTA6Au"
+  }
+}

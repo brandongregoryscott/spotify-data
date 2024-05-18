@@ -1,0 +1,33 @@
+{
+  "id": "7iBZRN4l1DCqcLJnaPdHMR",
+  "name": "Gustavo Astellano",
+  "uri": "spotify:artist:7iBZRN4l1DCqcLJnaPdHMR",
+  "followers": {
+    "href": null,
+    "total": 1583
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba30ca9a14b6d05025e0e14ff",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a30ca9a14b6d05025e0e14ff",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a30ca9a14b6d05025e0e14ff",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7iBZRN4l1DCqcLJnaPdHMR"
+  }
+}

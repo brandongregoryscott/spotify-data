@@ -1,0 +1,33 @@
+{
+  "id": "7nKsmOz9yJIo3w0SAD0qBq",
+  "name": "Cuáles i Quiénes",
+  "uri": "spotify:artist:7nKsmOz9yJIo3w0SAD0qBq",
+  "followers": {
+    "href": null,
+    "total": 2489
+  },
+  "genres": [
+    "chilean indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfffc88d25c8474da4d2d26cd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fffc88d25c8474da4d2d26cd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fffc88d25c8474da4d2d26cd",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7nKsmOz9yJIo3w0SAD0qBq"
+  }
+}

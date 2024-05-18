@@ -1,0 +1,33 @@
+{
+  "id": "7qGLpiVMcqlzCndEQ5O8va",
+  "name": "Nice Ups",
+  "uri": "spotify:artist:7qGLpiVMcqlzCndEQ5O8va",
+  "followers": {
+    "href": null,
+    "total": 182
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27326a727e4b4b78171a4ca88c6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0226a727e4b4b78171a4ca88c6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485126a727e4b4b78171a4ca88c6",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7qGLpiVMcqlzCndEQ5O8va"
+  }
+}

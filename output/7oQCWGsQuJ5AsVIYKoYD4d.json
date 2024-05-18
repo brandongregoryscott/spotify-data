@@ -1,0 +1,34 @@
+{
+  "id": "7oQCWGsQuJ5AsVIYKoYD4d",
+  "name": "Second Complex",
+  "uri": "spotify:artist:7oQCWGsQuJ5AsVIYKoYD4d",
+  "followers": {
+    "href": null,
+    "total": 276
+  },
+  "genres": [
+    "dark electro",
+    "neo-synthpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273588a863addbea7cf7ca4b6e8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02588a863addbea7cf7ca4b6e8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851588a863addbea7cf7ca4b6e8",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7oQCWGsQuJ5AsVIYKoYD4d"
+  }
+}

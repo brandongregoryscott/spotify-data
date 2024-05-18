@@ -1,0 +1,33 @@
+{
+  "id": "7qUtJ5A2wVkg8gYUT38m79",
+  "name": "Valleyboy",
+  "uri": "spotify:artist:7qUtJ5A2wVkg8gYUT38m79",
+  "followers": {
+    "href": null,
+    "total": 430
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebec9baeff001fd333c772ec36",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ec9baeff001fd333c772ec36",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ec9baeff001fd333c772ec36",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7qUtJ5A2wVkg8gYUT38m79"
+  }
+}

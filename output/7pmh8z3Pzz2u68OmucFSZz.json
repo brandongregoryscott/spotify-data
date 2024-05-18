@@ -1,0 +1,35 @@
+{
+  "id": "7pmh8z3Pzz2u68OmucFSZz",
+  "name": "Obe Dve",
+  "uri": "spotify:artist:7pmh8z3Pzz2u68OmucFSZz",
+  "followers": {
+    "href": null,
+    "total": 15696
+  },
+  "genres": [
+    "russian alt pop",
+    "russian indie rock",
+    "russian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf72a83c6c94fdf1e9bc32d7a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f72a83c6c94fdf1e9bc32d7a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f72a83c6c94fdf1e9bc32d7a",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7pmh8z3Pzz2u68OmucFSZz"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7tNvegbTVfxN3p9q39ixcn",
+  "name": "FrioLento",
+  "uri": "spotify:artist:7tNvegbTVfxN3p9q39ixcn",
+  "followers": {
+    "href": null,
+    "total": 57813
+  },
+  "genres": [
+    "concepcion indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb28e9f0e06048dc6ee9910217",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517428e9f0e06048dc6ee9910217",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17828e9f0e06048dc6ee9910217",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7usiYya28VXsho7f8xN6fk",
+  "name": "Hiele",
+  "uri": "spotify:artist:7usiYya28VXsho7f8xN6fk",
+  "followers": {
+    "href": null,
+    "total": 931
+  },
+  "genres": [
+    "belgian experimental"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb086bb11ba04380217793acb2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174086bb11ba04380217793acb2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178086bb11ba04380217793acb2",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7usiYya28VXsho7f8xN6fk"
+  }
+}

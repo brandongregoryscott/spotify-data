@@ -1,0 +1,33 @@
+{
+  "id": "7ngrio7nmDW1gb3Na5Q1wj",
+  "name": "Andy Mountains",
+  "uri": "spotify:artist:7ngrio7nmDW1gb3Na5Q1wj",
+  "followers": {
+    "href": null,
+    "total": 422
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733e9ed873cb4a9db6367b1ec5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023e9ed873cb4a9db6367b1ec5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513e9ed873cb4a9db6367b1ec5",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ngrio7nmDW1gb3Na5Q1wj"
+  }
+}

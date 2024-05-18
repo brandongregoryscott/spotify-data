@@ -1,0 +1,33 @@
+{
+  "id": "7ucgIQl34cqb61nayhjAN3",
+  "name": "Hey, Chels",
+  "uri": "spotify:artist:7ucgIQl34cqb61nayhjAN3",
+  "followers": {
+    "href": null,
+    "total": 348
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf03ec49f48f1ade2377eba1f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f03ec49f48f1ade2377eba1f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f03ec49f48f1ade2377eba1f",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ucgIQl34cqb61nayhjAN3"
+  }
+}

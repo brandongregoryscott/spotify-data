@@ -1,0 +1,33 @@
+{
+  "id": "7v9CZIFskqQfiHrQbI8B3z",
+  "name": "AntXres",
+  "uri": "spotify:artist:7v9CZIFskqQfiHrQbI8B3z",
+  "followers": {
+    "href": null,
+    "total": 13309
+  },
+  "genres": [
+    "drift phonk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebadedabd3c7790df26ba3fea3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174adedabd3c7790df26ba3fea3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178adedabd3c7790df26ba3fea3",
+      "width": 160
+    }
+  ],
+  "popularity": 34,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7v9CZIFskqQfiHrQbI8B3z"
+  }
+}

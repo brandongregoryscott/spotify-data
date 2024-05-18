@@ -1,0 +1,33 @@
+{
+  "id": "7j4TKArERN3lMqtekEiqj9",
+  "name": "Dakuri",
+  "uri": "spotify:artist:7j4TKArERN3lMqtekEiqj9",
+  "followers": {
+    "href": null,
+    "total": 265
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd74ebc12d16005fc1ed9c521",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d74ebc12d16005fc1ed9c521",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d74ebc12d16005fc1ed9c521",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7j4TKArERN3lMqtekEiqj9"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7hKEIXWtAS2LHVE8FK4kQx",
+  "name": "Chandler",
+  "uri": "spotify:artist:7hKEIXWtAS2LHVE8FK4kQx",
+  "followers": {
+    "href": null,
+    "total": 38326
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb996cd5956bae4f94b28b9e29",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174996cd5956bae4f94b28b9e29",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178996cd5956bae4f94b28b9e29",
+      "width": 160
+    }
+  ],
+  "popularity": 47,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7hKEIXWtAS2LHVE8FK4kQx"
+  }
+}

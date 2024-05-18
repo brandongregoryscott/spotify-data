@@ -1,0 +1,33 @@
+{
+  "id": "7iNrvS80wnHDGVxw3qNRiI",
+  "name": "CHINCHILLA",
+  "uri": "spotify:artist:7iNrvS80wnHDGVxw3qNRiI",
+  "followers": {
+    "href": null,
+    "total": 190755
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb22b23b2e4526c5d3791501c7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517422b23b2e4526c5d3791501c7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17822b23b2e4526c5d3791501c7",
+      "width": 160
+    }
+  ],
+  "popularity": 56,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
+  }
+}

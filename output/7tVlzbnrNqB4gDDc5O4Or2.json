@@ -1,0 +1,33 @@
+{
+  "id": "7tVlzbnrNqB4gDDc5O4Or2",
+  "name": "Lagowski",
+  "uri": "spotify:artist:7tVlzbnrNqB4gDDc5O4Or2",
+  "followers": {
+    "href": null,
+    "total": 295
+  },
+  "genres": [
+    "glitch beats"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcf88f3db2f3228b432cfe4bb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cf88f3db2f3228b432cfe4bb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cf88f3db2f3228b432cfe4bb",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7tVlzbnrNqB4gDDc5O4Or2"
+  }
+}

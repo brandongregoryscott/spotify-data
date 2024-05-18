@@ -1,0 +1,33 @@
+{
+  "id": "7lkYBcrLM4JmVgeha1xNl6",
+  "name": "Abstract",
+  "uri": "spotify:artist:7lkYBcrLM4JmVgeha1xNl6",
+  "followers": {
+    "href": null,
+    "total": 102447
+  },
+  "genres": [
+    "indie pop rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf8738f7f3f0bb4e5474c15a1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f8738f7f3f0bb4e5474c15a1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f8738f7f3f0bb4e5474c15a1",
+      "width": 160
+    }
+  ],
+  "popularity": 41,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7lkYBcrLM4JmVgeha1xNl6"
+  }
+}

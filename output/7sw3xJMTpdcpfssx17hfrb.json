@@ -1,0 +1,33 @@
+{
+  "id": "7sw3xJMTpdcpfssx17hfrb",
+  "name": "Dabeull",
+  "uri": "spotify:artist:7sw3xJMTpdcpfssx17hfrb",
+  "followers": {
+    "href": null,
+    "total": 145561
+  },
+  "genres": [
+    "synth funk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb87063f650fb98fb1af8556d3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517487063f650fb98fb1af8556d3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17887063f650fb98fb1af8556d3",
+      "width": 160
+    }
+  ],
+  "popularity": 55,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
+  }
+}

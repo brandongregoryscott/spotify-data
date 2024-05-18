@@ -1,0 +1,33 @@
+{
+  "id": "7vIOwg9PcPKblAM2UiCYQd",
+  "name": "Sonny Red",
+  "uri": "spotify:artist:7vIOwg9PcPKblAM2UiCYQd",
+  "followers": {
+    "href": null,
+    "total": 2983
+  },
+  "genres": [
+    "jazz saxophone"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736ef75136f1822eeb5205c920",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026ef75136f1822eeb5205c920",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516ef75136f1822eeb5205c920",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7vIOwg9PcPKblAM2UiCYQd"
+  }
+}

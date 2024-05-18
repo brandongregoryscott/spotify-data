@@ -1,0 +1,38 @@
+{
+  "id": "7qBnCBxjX9xHgepd3ayVc5",
+  "name": "Dave Loggins",
+  "uri": "spotify:artist:7qBnCBxjX9xHgepd3ayVc5",
+  "followers": {
+    "href": null,
+    "total": 19991
+  },
+  "genres": [
+    "yacht rock"
+  ],
+  "images": [
+    {
+      "height": 1000,
+      "url": "https://i.scdn.co/image/3226f4bfe29f773470c6b22575cd92a18c651002",
+      "width": 1000
+    },
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/5a28bc46ccd9ae50ea2334fdee7f5c4cc688075b",
+      "width": 640
+    },
+    {
+      "height": 200,
+      "url": "https://i.scdn.co/image/407e439a72e4494f681be652abb00adc9c9a950f",
+      "width": 200
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/a19ae996a742e8de8e03cb0c0b040631e3018c56",
+      "width": 64
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7qBnCBxjX9xHgepd3ayVc5"
+  }
+}

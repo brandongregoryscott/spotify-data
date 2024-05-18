@@ -1,0 +1,34 @@
+{
+  "id": "7opdqJxpfGR1N2d2vK60EF",
+  "name": "Danger",
+  "uri": "spotify:artist:7opdqJxpfGR1N2d2vK60EF",
+  "followers": {
+    "href": null,
+    "total": 425
+  },
+  "genres": [
+    "hard glam",
+    "sleaze rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27391ee494c47b64f3122edf41c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0291ee494c47b64f3122edf41c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485191ee494c47b64f3122edf41c",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7opdqJxpfGR1N2d2vK60EF"
+  }
+}

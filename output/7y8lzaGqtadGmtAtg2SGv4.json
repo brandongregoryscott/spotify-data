@@ -1,0 +1,33 @@
+{
+  "id": "7y8lzaGqtadGmtAtg2SGv4",
+  "name": "Beth Ditto",
+  "uri": "spotify:artist:7y8lzaGqtadGmtAtg2SGv4",
+  "followers": {
+    "href": null,
+    "total": 100637
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb684dc0627b653ff5df3887bb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174684dc0627b653ff5df3887bb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178684dc0627b653ff5df3887bb",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4"
+  }
+}

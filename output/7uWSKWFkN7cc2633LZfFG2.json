@@ -1,0 +1,33 @@
+{
+  "id": "7uWSKWFkN7cc2633LZfFG2",
+  "name": "Glass Diamond",
+  "uri": "spotify:artist:7uWSKWFkN7cc2633LZfFG2",
+  "followers": {
+    "href": null,
+    "total": 99
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f24b571d32c6ff7a11990ef8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f24b571d32c6ff7a11990ef8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f24b571d32c6ff7a11990ef8",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7uWSKWFkN7cc2633LZfFG2"
+  }
+}

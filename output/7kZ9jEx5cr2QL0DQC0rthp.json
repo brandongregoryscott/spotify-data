@@ -1,0 +1,33 @@
+{
+  "id": "7kZ9jEx5cr2QL0DQC0rthp",
+  "name": "hhappiestkidd",
+  "uri": "spotify:artist:7kZ9jEx5cr2QL0DQC0rthp",
+  "followers": {
+    "href": null,
+    "total": 240
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb55d6d12e867c9e212fb6a613",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517455d6d12e867c9e212fb6a613",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17855d6d12e867c9e212fb6a613",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7kZ9jEx5cr2QL0DQC0rthp"
+  }
+}

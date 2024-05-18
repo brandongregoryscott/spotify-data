@@ -1,0 +1,34 @@
+{
+  "id": "7hWVElplEhp3zOKg7KuLr2",
+  "name": "David Grier",
+  "uri": "spotify:artist:7hWVElplEhp3zOKg7KuLr2",
+  "followers": {
+    "href": null,
+    "total": 4745
+  },
+  "genres": [
+    "instrumental bluegrass",
+    "progressive bluegrass"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b9502b9029ddef4f7047aed7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b9502b9029ddef4f7047aed7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b9502b9029ddef4f7047aed7",
+      "width": 64
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7hWVElplEhp3zOKg7KuLr2"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7kVHYIQNmBTcOBekUyWxec",
+  "name": "Good Question",
+  "uri": "spotify:artist:7kVHYIQNmBTcOBekUyWxec",
+  "followers": {
+    "href": null,
+    "total": 170
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb82c0b527df67ccb5fb7ab253",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517482c0b527df67ccb5fb7ab253",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17882c0b527df67ccb5fb7ab253",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7kVHYIQNmBTcOBekUyWxec"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7fshJZCE920GMRHw5GTU2J",
+  "name": "Helion",
+  "uri": "spotify:artist:7fshJZCE920GMRHw5GTU2J",
+  "followers": {
+    "href": null,
+    "total": 646
+  },
+  "genres": [
+    "bergamo indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273db8608e700588c19f8ab73d3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02db8608e700588c19f8ab73d3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851db8608e700588c19f8ab73d3",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7fshJZCE920GMRHw5GTU2J"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7nsNBHW9iUZMj45oopxbwp",
+  "name": "Chout",
+  "uri": "spotify:artist:7nsNBHW9iUZMj45oopxbwp",
+  "followers": {
+    "href": null,
+    "total": 3247
+  },
+  "genres": [
+    "grunge revival"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf906c5ef6a4c67ff2b6ad6d2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f906c5ef6a4c67ff2b6ad6d2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f906c5ef6a4c67ff2b6ad6d2",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7nsNBHW9iUZMj45oopxbwp"
+  }
+}

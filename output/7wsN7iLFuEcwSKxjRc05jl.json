@@ -1,0 +1,33 @@
+{
+  "id": "7wsN7iLFuEcwSKxjRc05jl",
+  "name": "Matt Carlson",
+  "uri": "spotify:artist:7wsN7iLFuEcwSKxjRc05jl",
+  "followers": {
+    "href": null,
+    "total": 273
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734e181d6451fb1082ab5a1cbc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024e181d6451fb1082ab5a1cbc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514e181d6451fb1082ab5a1cbc",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7wsN7iLFuEcwSKxjRc05jl"
+  }
+}

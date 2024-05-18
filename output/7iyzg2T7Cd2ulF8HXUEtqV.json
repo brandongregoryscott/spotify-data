@@ -1,0 +1,33 @@
+{
+  "id": "7iyzg2T7Cd2ulF8HXUEtqV",
+  "name": "羅敏莊",
+  "uri": "spotify:artist:7iyzg2T7Cd2ulF8HXUEtqV",
+  "followers": {
+    "href": null,
+    "total": 801
+  },
+  "genres": [
+    "classic cantopop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d00274c6d536b1c0c28c37cf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d00274c6d536b1c0c28c37cf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d00274c6d536b1c0c28c37cf",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7iyzg2T7Cd2ulF8HXUEtqV"
+  }
+}

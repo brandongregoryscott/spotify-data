@@ -1,0 +1,34 @@
+{
+  "id": "7tLS8BRv5KP3jPwm3KdsPl",
+  "name": "350",
+  "uri": "spotify:artist:7tLS8BRv5KP3jPwm3KdsPl",
+  "followers": {
+    "href": null,
+    "total": 10997
+  },
+  "genres": [
+    "christian hip hop",
+    "christian trap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb86eda737e6d7ff69a5ceafcb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517486eda737e6d7ff69a5ceafcb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17886eda737e6d7ff69a5ceafcb",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7tLS8BRv5KP3jPwm3KdsPl"
+  }
+}
