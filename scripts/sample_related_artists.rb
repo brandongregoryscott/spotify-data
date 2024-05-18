@@ -21,7 +21,7 @@ def main
       related_artist_ids = find_related_artists(artist)
       artist_ids.concat(related_artist_ids)
     end
-    save_artists_json_file(artist_ids.uniq)
+    save_artists_json_file(artist_ids.uniq.sort)
   end
 end
 
