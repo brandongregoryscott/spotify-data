@@ -1,0 +1,33 @@
+{
+  "id": "7afy5wWfHU0Td2DtiiSW01",
+  "name": "Carl Hutting",
+  "uri": "spotify:artist:7afy5wWfHU0Td2DtiiSW01",
+  "followers": {
+    "href": null,
+    "total": 365
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb738290dbc8e0ca13c29a9be8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174738290dbc8e0ca13c29a9be8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178738290dbc8e0ca13c29a9be8",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7afy5wWfHU0Td2DtiiSW01"
+  }
+}

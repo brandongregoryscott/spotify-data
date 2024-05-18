@@ -1,0 +1,33 @@
+{
+  "id": "7BSzxEEDqPDpJ0eCQ0kltD",
+  "name": "St. Christopher",
+  "uri": "spotify:artist:7BSzxEEDqPDpJ0eCQ0kltD",
+  "followers": {
+    "href": null,
+    "total": 211
+  },
+  "genres": [
+    "c86"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27307830cc1fb465bc3a10b424c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0207830cc1fb465bc3a10b424c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485107830cc1fb465bc3a10b424c",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7BSzxEEDqPDpJ0eCQ0kltD"
+  }
+}

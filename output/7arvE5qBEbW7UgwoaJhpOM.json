@@ -1,0 +1,33 @@
+{
+  "id": "7arvE5qBEbW7UgwoaJhpOM",
+  "name": "CRITTER",
+  "uri": "spotify:artist:7arvE5qBEbW7UgwoaJhpOM",
+  "followers": {
+    "href": null,
+    "total": 3474
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaccd68de2d7589c9a9ef7d2f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174accd68de2d7589c9a9ef7d2f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178accd68de2d7589c9a9ef7d2f",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7arvE5qBEbW7UgwoaJhpOM"
+  }
+}

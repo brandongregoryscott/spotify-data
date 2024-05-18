@@ -1,0 +1,33 @@
+{
+  "id": "79jK2cwnyhEvk0PBwqzrbH",
+  "name": "polyana",
+  "uri": "spotify:artist:79jK2cwnyhEvk0PBwqzrbH",
+  "followers": {
+    "href": null,
+    "total": 83
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb11e04e301938a8e5abfc8df0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517411e04e301938a8e5abfc8df0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17811e04e301938a8e5abfc8df0",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/79jK2cwnyhEvk0PBwqzrbH"
+  }
+}

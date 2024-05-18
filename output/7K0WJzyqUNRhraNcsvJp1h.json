@@ -1,0 +1,34 @@
+{
+  "id": "7K0WJzyqUNRhraNcsvJp1h",
+  "name": "Randomer",
+  "uri": "spotify:artist:7K0WJzyqUNRhraNcsvJp1h",
+  "followers": {
+    "href": null,
+    "total": 28925
+  },
+  "genres": [
+    "destroy techno",
+    "uk bass"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc1aedefa0404c2afb145faa7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c1aedefa0404c2afb145faa7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c1aedefa0404c2afb145faa7",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h"
+  }
+}

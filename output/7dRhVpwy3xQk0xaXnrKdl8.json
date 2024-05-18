@@ -1,0 +1,33 @@
+{
+  "id": "7dRhVpwy3xQk0xaXnrKdl8",
+  "name": "Juan Novoa",
+  "uri": "spotify:artist:7dRhVpwy3xQk0xaXnrKdl8",
+  "followers": {
+    "href": null,
+    "total": 1686
+  },
+  "genres": [
+    "argentine punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd8f60a81fe794a635194eebd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d8f60a81fe794a635194eebd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d8f60a81fe794a635194eebd",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7dRhVpwy3xQk0xaXnrKdl8"
+  }
+}

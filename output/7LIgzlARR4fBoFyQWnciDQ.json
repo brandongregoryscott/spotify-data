@@ -1,0 +1,33 @@
+{
+  "id": "7LIgzlARR4fBoFyQWnciDQ",
+  "name": "Torr",
+  "uri": "spotify:artist:7LIgzlARR4fBoFyQWnciDQ",
+  "followers": {
+    "href": null,
+    "total": 65
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d1476ca62f83710071464872",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d1476ca62f83710071464872",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d1476ca62f83710071464872",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7LIgzlARR4fBoFyQWnciDQ"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7aCNuYq68bM7TvUxxowQm6",
+  "name": "Randy Roberts",
+  "uri": "spotify:artist:7aCNuYq68bM7TvUxxowQm6",
+  "followers": {
+    "href": null,
+    "total": 198
+  },
+  "genres": [
+    "soulful house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273662aeddc8f299556716be7c0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02662aeddc8f299556716be7c0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851662aeddc8f299556716be7c0",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7aCNuYq68bM7TvUxxowQm6"
+  }
+}

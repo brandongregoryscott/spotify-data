@@ -1,0 +1,35 @@
+{
+  "id": "78emMqMZWaWiYUGSlXwIxw",
+  "name": "Fever",
+  "uri": "spotify:artist:78emMqMZWaWiYUGSlXwIxw",
+  "followers": {
+    "href": null,
+    "total": 5616
+  },
+  "genres": [
+    "t-pop girl group",
+    "thai indie pop",
+    "thai indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc40ea7613cc0701c9a4269c3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c40ea7613cc0701c9a4269c3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c40ea7613cc0701c9a4269c3",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/78emMqMZWaWiYUGSlXwIxw"
+  }
+}

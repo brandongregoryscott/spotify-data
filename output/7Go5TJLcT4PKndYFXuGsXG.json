@@ -1,0 +1,33 @@
+{
+  "id": "7Go5TJLcT4PKndYFXuGsXG",
+  "name": "Jugemu",
+  "uri": "spotify:artist:7Go5TJLcT4PKndYFXuGsXG",
+  "followers": {
+    "href": null,
+    "total": 33
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb10f1915ebd64d7fc9eef4f3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b10f1915ebd64d7fc9eef4f3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b10f1915ebd64d7fc9eef4f3",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7Go5TJLcT4PKndYFXuGsXG"
+  }
+}

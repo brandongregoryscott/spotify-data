@@ -1,0 +1,33 @@
+{
+  "id": "7KGZ8MA84w3VNQqOLBfXuA",
+  "name": "Kim Seo Hyun",
+  "uri": "spotify:artist:7KGZ8MA84w3VNQqOLBfXuA",
+  "followers": {
+    "href": null,
+    "total": 70
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb40fe7c953020f0494cdef9dc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517440fe7c953020f0494cdef9dc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17840fe7c953020f0494cdef9dc",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7KGZ8MA84w3VNQqOLBfXuA"
+  }
+}

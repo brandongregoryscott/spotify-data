@@ -1,0 +1,34 @@
+{
+  "id": "7GDg67wIxrZVTXmBSKRj2x",
+  "name": "Livian",
+  "uri": "spotify:artist:7GDg67wIxrZVTXmBSKRj2x",
+  "followers": {
+    "href": null,
+    "total": 1014
+  },
+  "genres": [
+    "indie michoacano",
+    "indie queretano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebedf774daf51bf629b5067269",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174edf774daf51bf629b5067269",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178edf774daf51bf629b5067269",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7GDg67wIxrZVTXmBSKRj2x"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "79gg2hMyDNBmT70e2wN5nA",
+  "name": "Greeze",
+  "uri": "spotify:artist:79gg2hMyDNBmT70e2wN5nA",
+  "followers": {
+    "href": null,
+    "total": 60
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735295e8c7c94982a3db2a2c9d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025295e8c7c94982a3db2a2c9d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515295e8c7c94982a3db2a2c9d",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/79gg2hMyDNBmT70e2wN5nA"
+  }
+}

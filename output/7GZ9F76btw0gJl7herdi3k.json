@@ -1,0 +1,33 @@
+{
+  "id": "7GZ9F76btw0gJl7herdi3k",
+  "name": "Gehena",
+  "uri": "spotify:artist:7GZ9F76btw0gJl7herdi3k",
+  "followers": {
+    "href": null,
+    "total": 1141
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd78dd118d07d4c2af05c680e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d78dd118d07d4c2af05c680e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d78dd118d07d4c2af05c680e",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7GZ9F76btw0gJl7herdi3k"
+  }
+}

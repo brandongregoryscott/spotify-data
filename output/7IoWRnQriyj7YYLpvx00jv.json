@@ -1,0 +1,34 @@
+{
+  "id": "7IoWRnQriyj7YYLpvx00jv",
+  "name": "Francisco Victoria",
+  "uri": "spotify:artist:7IoWRnQriyj7YYLpvx00jv",
+  "followers": {
+    "href": null,
+    "total": 24331
+  },
+  "genres": [
+    "chilean indie",
+    "pop electronico"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe1c0f9a53afc527de0183cd4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e1c0f9a53afc527de0183cd4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e1c0f9a53afc527de0183cd4",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "7DeuppKQdCVhuWrzzCBBpc",
+  "name": "Hiromi",
+  "uri": "spotify:artist:7DeuppKQdCVhuWrzzCBBpc",
+  "followers": {
+    "href": null,
+    "total": 242069
+  },
+  "genres": [
+    "japanese jazz",
+    "jazz fusion",
+    "modern jazz piano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb1c5a36bf91f271bebd9695e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b1c5a36bf91f271bebd9695e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b1c5a36bf91f271bebd9695e",
+      "width": 160
+    }
+  ],
+  "popularity": 44,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
+  }
+}

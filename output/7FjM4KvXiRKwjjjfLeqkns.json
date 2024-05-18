@@ -1,0 +1,33 @@
+{
+  "id": "7FjM4KvXiRKwjjjfLeqkns",
+  "name": "sh64",
+  "uri": "spotify:artist:7FjM4KvXiRKwjjjfLeqkns",
+  "followers": {
+    "href": null,
+    "total": 67
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735057d5599a0e54f00b5e1bae",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025057d5599a0e54f00b5e1bae",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515057d5599a0e54f00b5e1bae",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7FjM4KvXiRKwjjjfLeqkns"
+  }
+}

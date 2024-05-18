@@ -1,0 +1,33 @@
+{
+  "id": "7ArhvLXlVmebJpmBHcZaly",
+  "name": "INTERAGE",
+  "uri": "spotify:artist:7ArhvLXlVmebJpmBHcZaly",
+  "followers": {
+    "href": null,
+    "total": 67
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273069f11f7d9151acf0fa66952",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02069f11f7d9151acf0fa66952",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851069f11f7d9151acf0fa66952",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ArhvLXlVmebJpmBHcZaly"
+  }
+}

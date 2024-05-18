@@ -1,0 +1,33 @@
+{
+  "id": "7EsHfSSiJb1xnjBUdyvFcF",
+  "name": "The Spacers",
+  "uri": "spotify:artist:7EsHfSSiJb1xnjBUdyvFcF",
+  "followers": {
+    "href": null,
+    "total": 43
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfb00d04f378d41f323f7c8dc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fb00d04f378d41f323f7c8dc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fb00d04f378d41f323f7c8dc",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7EsHfSSiJb1xnjBUdyvFcF"
+  }
+}

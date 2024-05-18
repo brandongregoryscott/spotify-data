@@ -1,0 +1,33 @@
+{
+  "id": "7JTOVfG953bnJ6u3l815qh",
+  "name": "Ventrelles",
+  "uri": "spotify:artist:7JTOVfG953bnJ6u3l815qh",
+  "followers": {
+    "href": null,
+    "total": 523
+  },
+  "genres": [
+    "britpop revival"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb39d442cbe87cf4816c0facbb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517439d442cbe87cf4816c0facbb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17839d442cbe87cf4816c0facbb",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7JTOVfG953bnJ6u3l815qh"
+  }
+}

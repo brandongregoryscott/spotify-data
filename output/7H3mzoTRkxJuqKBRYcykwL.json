@@ -1,0 +1,34 @@
+{
+  "id": "7H3mzoTRkxJuqKBRYcykwL",
+  "name": "Blitz",
+  "uri": "spotify:artist:7H3mzoTRkxJuqKBRYcykwL",
+  "followers": {
+    "href": null,
+    "total": 33924
+  },
+  "genres": [
+    "oi",
+    "uk82"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734b71d1ff99cf4c4e7e1b8a2e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024b71d1ff99cf4c4e7e1b8a2e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514b71d1ff99cf4c4e7e1b8a2e",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7H3mzoTRkxJuqKBRYcykwL"
+  }
+}

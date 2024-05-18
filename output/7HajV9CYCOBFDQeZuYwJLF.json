@@ -1,0 +1,33 @@
+{
+  "id": "7HajV9CYCOBFDQeZuYwJLF",
+  "name": "Vinco",
+  "uri": "spotify:artist:7HajV9CYCOBFDQeZuYwJLF",
+  "followers": {
+    "href": null,
+    "total": 54
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb119029d4b509687e7456b5e4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174119029d4b509687e7456b5e4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178119029d4b509687e7456b5e4",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7HajV9CYCOBFDQeZuYwJLF"
+  }
+}

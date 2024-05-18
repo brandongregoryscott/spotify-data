@@ -1,0 +1,33 @@
+{
+  "id": "7HiasoqcVt5qyJtcCbI2bM",
+  "name": "Jose Macario",
+  "uri": "spotify:artist:7HiasoqcVt5qyJtcCbI2bM",
+  "followers": {
+    "href": null,
+    "total": 6291
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb4c4eea528b0d4c247d07def",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b4c4eea528b0d4c247d07def",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b4c4eea528b0d4c247d07def",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM"
+  }
+}

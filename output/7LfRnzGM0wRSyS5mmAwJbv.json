@@ -1,0 +1,33 @@
+{
+  "id": "7LfRnzGM0wRSyS5mmAwJbv",
+  "name": "Ray Conniff",
+  "uri": "spotify:artist:7LfRnzGM0wRSyS5mmAwJbv",
+  "followers": {
+    "href": null,
+    "total": 280309
+  },
+  "genres": [
+    "easy listening"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb79bf6d80fe0e16c1169dd361",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517479bf6d80fe0e16c1169dd361",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17879bf6d80fe0e16c1169dd361",
+      "width": 160
+    }
+  ],
+  "popularity": 53,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+  }
+}

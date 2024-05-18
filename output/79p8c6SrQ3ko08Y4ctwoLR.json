@@ -1,0 +1,33 @@
+{
+  "id": "79p8c6SrQ3ko08Y4ctwoLR",
+  "name": "Musicarus",
+  "uri": "spotify:artist:79p8c6SrQ3ko08Y4ctwoLR",
+  "followers": {
+    "href": null,
+    "total": 550
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb67aff55d9ce1dcf50c3d13aa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517467aff55d9ce1dcf50c3d13aa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17867aff55d9ce1dcf50c3d13aa",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/79p8c6SrQ3ko08Y4ctwoLR"
+  }
+}

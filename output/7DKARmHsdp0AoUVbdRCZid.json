@@ -1,0 +1,33 @@
+{
+  "id": "7DKARmHsdp0AoUVbdRCZid",
+  "name": "Matthew Skyy",
+  "uri": "spotify:artist:7DKARmHsdp0AoUVbdRCZid",
+  "followers": {
+    "href": null,
+    "total": 738
+  },
+  "genres": [
+    "slow game"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdb2fb1a92ebf1f0ffaac17b8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174db2fb1a92ebf1f0ffaac17b8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178db2fb1a92ebf1f0ffaac17b8",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7DKARmHsdp0AoUVbdRCZid"
+  }
+}

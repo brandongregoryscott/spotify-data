@@ -1,0 +1,33 @@
+{
+  "id": "7bWfzTQ7IdjMXTgEnEvUZo",
+  "name": "Doggie García",
+  "uri": "spotify:artist:7bWfzTQ7IdjMXTgEnEvUZo",
+  "followers": {
+    "href": null,
+    "total": 374
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb21639e5d7b839aba21f90b6e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517421639e5d7b839aba21f90b6e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17821639e5d7b839aba21f90b6e",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7bWfzTQ7IdjMXTgEnEvUZo"
+  }
+}

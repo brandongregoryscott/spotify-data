@@ -1,0 +1,33 @@
+{
+  "id": "7JVZgZGOCTv5ooedG8KhKl",
+  "name": "KICKOUT",
+  "uri": "spotify:artist:7JVZgZGOCTv5ooedG8KhKl",
+  "followers": {
+    "href": null,
+    "total": 119
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb51e1781b368b33d1a9d99d7c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517451e1781b368b33d1a9d99d7c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17851e1781b368b33d1a9d99d7c",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7JVZgZGOCTv5ooedG8KhKl"
+  }
+}

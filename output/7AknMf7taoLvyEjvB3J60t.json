@@ -1,0 +1,33 @@
+{
+  "id": "7AknMf7taoLvyEjvB3J60t",
+  "name": "Songstore",
+  "uri": "spotify:artist:7AknMf7taoLvyEjvB3J60t",
+  "followers": {
+    "href": null,
+    "total": 68
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9cc35a4b603d061d40e41388",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051749cc35a4b603d061d40e41388",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1789cc35a4b603d061d40e41388",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7AknMf7taoLvyEjvB3J60t"
+  }
+}

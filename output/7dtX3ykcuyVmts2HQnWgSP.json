@@ -1,0 +1,34 @@
+{
+  "id": "7dtX3ykcuyVmts2HQnWgSP",
+  "name": "Kompany",
+  "uri": "spotify:artist:7dtX3ykcuyVmts2HQnWgSP",
+  "followers": {
+    "href": null,
+    "total": 78580
+  },
+  "genres": [
+    "dubstep",
+    "gaming dubstep"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb58f2a96b76a38fe8725f3e8d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517458f2a96b76a38fe8725f3e8d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17858f2a96b76a38fe8725f3e8d",
+      "width": 160
+    }
+  ],
+  "popularity": 41,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+  }
+}

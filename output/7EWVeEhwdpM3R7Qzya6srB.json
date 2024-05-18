@@ -1,0 +1,33 @@
+{
+  "id": "7EWVeEhwdpM3R7Qzya6srB",
+  "name": "Pancho Molina",
+  "uri": "spotify:artist:7EWVeEhwdpM3R7Qzya6srB",
+  "followers": {
+    "href": null,
+    "total": 1615
+  },
+  "genres": [
+    "jazz chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb670f615cf1ad0735332b134c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174670f615cf1ad0735332b134c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178670f615cf1ad0735332b134c",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7EWVeEhwdpM3R7Qzya6srB"
+  }
+}

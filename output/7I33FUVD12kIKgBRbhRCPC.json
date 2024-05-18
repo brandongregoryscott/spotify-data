@@ -1,0 +1,33 @@
+{
+  "id": "7I33FUVD12kIKgBRbhRCPC",
+  "name": "Sammy Hanson",
+  "uri": "spotify:artist:7I33FUVD12kIKgBRbhRCPC",
+  "followers": {
+    "href": null,
+    "total": 27
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb91272a00b850eab60cbbb168",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517491272a00b850eab60cbbb168",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17891272a00b850eab60cbbb168",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7I33FUVD12kIKgBRbhRCPC"
+  }
+}

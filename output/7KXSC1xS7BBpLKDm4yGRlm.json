@@ -1,0 +1,33 @@
+{
+  "id": "7KXSC1xS7BBpLKDm4yGRlm",
+  "name": "Idaho Band",
+  "uri": "spotify:artist:7KXSC1xS7BBpLKDm4yGRlm",
+  "followers": {
+    "href": null,
+    "total": 76
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb27b20279297784a460803c66",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517427b20279297784a460803c66",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17827b20279297784a460803c66",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7KXSC1xS7BBpLKDm4yGRlm"
+  }
+}

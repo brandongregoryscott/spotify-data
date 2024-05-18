@@ -1,0 +1,33 @@
+{
+  "id": "7Lz7pbzR44P8g7ORfCPMNF",
+  "name": "friendxp",
+  "uri": "spotify:artist:7Lz7pbzR44P8g7ORfCPMNF",
+  "followers": {
+    "href": null,
+    "total": 1440
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb58718a27cd83d91fb93d11e4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517458718a27cd83d91fb93d11e4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17858718a27cd83d91fb93d11e4",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7Lz7pbzR44P8g7ORfCPMNF"
+  }
+}

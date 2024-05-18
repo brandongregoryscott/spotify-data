@@ -1,0 +1,33 @@
+{
+  "id": "7e8ke3p6uB4uJQrouYoEhX",
+  "name": "Samu",
+  "uri": "spotify:artist:7e8ke3p6uB4uJQrouYoEhX",
+  "followers": {
+    "href": null,
+    "total": 1086
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273561fceb48a365d209ba122d8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02561fceb48a365d209ba122d8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851561fceb48a365d209ba122d8",
+      "width": 64
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7e8ke3p6uB4uJQrouYoEhX"
+  }
+}

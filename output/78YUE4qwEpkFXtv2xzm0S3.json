@@ -1,0 +1,33 @@
+{
+  "id": "78YUE4qwEpkFXtv2xzm0S3",
+  "name": "La Calandria",
+  "uri": "spotify:artist:78YUE4qwEpkFXtv2xzm0S3",
+  "followers": {
+    "href": null,
+    "total": 734
+  },
+  "genres": [
+    "son jarocho"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4fb661cbbfea48574c74f08e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744fb661cbbfea48574c74f08e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784fb661cbbfea48574c74f08e",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/78YUE4qwEpkFXtv2xzm0S3"
+  }
+}
