@@ -1,0 +1,33 @@
+{
+  "id": "6OHyrVDdFEZ3NBqMLedbWY",
+  "name": "KimberlaID",
+  "uri": "spotify:artist:6OHyrVDdFEZ3NBqMLedbWY",
+  "followers": {
+    "href": null,
+    "total": 235
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb941c1f9f0ef125bf786d318a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174941c1f9f0ef125bf786d318a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178941c1f9f0ef125bf786d318a",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6OHyrVDdFEZ3NBqMLedbWY"
+  }
+}

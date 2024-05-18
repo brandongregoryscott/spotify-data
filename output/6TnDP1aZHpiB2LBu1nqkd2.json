@@ -1,0 +1,33 @@
+{
+  "id": "6TnDP1aZHpiB2LBu1nqkd2",
+  "name": "Darius",
+  "uri": "spotify:artist:6TnDP1aZHpiB2LBu1nqkd2",
+  "followers": {
+    "href": null,
+    "total": 2062
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273db821941e9f9b3bac27d065e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02db821941e9f9b3bac27d065e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851db821941e9f9b3bac27d065e",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6TnDP1aZHpiB2LBu1nqkd2"
+  }
+}

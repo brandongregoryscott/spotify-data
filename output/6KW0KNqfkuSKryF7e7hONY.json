@@ -1,0 +1,33 @@
+{
+  "id": "6KW0KNqfkuSKryF7e7hONY",
+  "name": "Miss Garrison",
+  "uri": "spotify:artist:6KW0KNqfkuSKryF7e7hONY",
+  "followers": {
+    "href": null,
+    "total": 14557
+  },
+  "genres": [
+    "chilean indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe0b96e1d550d913c8b38bf34",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e0b96e1d550d913c8b38bf34",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e0b96e1d550d913c8b38bf34",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6KW0KNqfkuSKryF7e7hONY"
+  }
+}

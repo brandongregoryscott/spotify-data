@@ -1,0 +1,33 @@
+{
+  "id": "6CqnAybHCvftzrjvhpYhOx",
+  "name": "feelinit",
+  "uri": "spotify:artist:6CqnAybHCvftzrjvhpYhOx",
+  "followers": {
+    "href": null,
+    "total": 911
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe6517bd13986fa79b25d99c1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e6517bd13986fa79b25d99c1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e6517bd13986fa79b25d99c1",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6CqnAybHCvftzrjvhpYhOx"
+  }
+}

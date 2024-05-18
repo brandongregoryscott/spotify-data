@@ -1,0 +1,33 @@
+{
+  "id": "6JR94O95zdJY8MCTkmE28T",
+  "name": "Empusae",
+  "uri": "spotify:artist:6JR94O95zdJY8MCTkmE28T",
+  "followers": {
+    "href": null,
+    "total": 2945
+  },
+  "genres": [
+    "power noise"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdc2e05f1325ac370ec0e40b1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dc2e05f1325ac370ec0e40b1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dc2e05f1325ac370ec0e40b1",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6JR94O95zdJY8MCTkmE28T"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6NOdfkdNMzY0jT1YxCWE3J",
+  "name": "Steve Strong",
+  "uri": "spotify:artist:6NOdfkdNMzY0jT1YxCWE3J",
+  "followers": {
+    "href": null,
+    "total": 673
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb311e94f596648b12aeb05b06",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174311e94f596648b12aeb05b06",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178311e94f596648b12aeb05b06",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6NOdfkdNMzY0jT1YxCWE3J"
+  }
+}

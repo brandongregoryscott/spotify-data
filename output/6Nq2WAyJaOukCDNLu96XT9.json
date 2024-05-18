@@ -1,0 +1,33 @@
+{
+  "id": "6Nq2WAyJaOukCDNLu96XT9",
+  "name": "Mike Bauer",
+  "uri": "spotify:artist:6Nq2WAyJaOukCDNLu96XT9",
+  "followers": {
+    "href": null,
+    "total": 19
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f525a4ccd69ae88f1856e65c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f525a4ccd69ae88f1856e65c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f525a4ccd69ae88f1856e65c",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Nq2WAyJaOukCDNLu96XT9"
+  }
+}

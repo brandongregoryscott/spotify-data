@@ -1,0 +1,34 @@
+{
+  "id": "6LuN9FCkKOj5PcnpouEgny",
+  "name": "Khalid",
+  "uri": "spotify:artist:6LuN9FCkKOj5PcnpouEgny",
+  "followers": {
+    "href": null,
+    "total": 16118444
+  },
+  "genres": [
+    "pop",
+    "pop r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5be3f26e0c3aa322637a975f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051745be3f26e0c3aa322637a975f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1785be3f26e0c3aa322637a975f",
+      "width": 160
+    }
+  ],
+  "popularity": 81,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+  }
+}

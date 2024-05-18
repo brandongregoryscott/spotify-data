@@ -1,0 +1,33 @@
+{
+  "id": "6J26kEm6dPwtwaBAVhPTB2",
+  "name": "Ben Pest",
+  "uri": "spotify:artist:6J26kEm6dPwtwaBAVhPTB2",
+  "followers": {
+    "href": null,
+    "total": 1741
+  },
+  "genres": [
+    "uk experimental electronic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb463f7228d1512412ee1c858d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174463f7228d1512412ee1c858d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178463f7228d1512412ee1c858d",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6J26kEm6dPwtwaBAVhPTB2"
+  }
+}

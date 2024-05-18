@@ -1,0 +1,33 @@
+{
+  "id": "6QxH0gaNqiL5dG7WjAlmeE",
+  "name": "Silva",
+  "uri": "spotify:artist:6QxH0gaNqiL5dG7WjAlmeE",
+  "followers": {
+    "href": null,
+    "total": 1092
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbf534dde47fa1f84dce72892",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bf534dde47fa1f84dce72892",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bf534dde47fa1f84dce72892",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6QxH0gaNqiL5dG7WjAlmeE"
+  }
+}

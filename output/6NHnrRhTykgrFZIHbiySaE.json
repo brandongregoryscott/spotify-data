@@ -1,0 +1,33 @@
+{
+  "id": "6NHnrRhTykgrFZIHbiySaE",
+  "name": "Lovewithme",
+  "uri": "spotify:artist:6NHnrRhTykgrFZIHbiySaE",
+  "followers": {
+    "href": null,
+    "total": 424
+  },
+  "genres": [
+    "neo grime"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeb0da3f01ec5539b1cd67dec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eb0da3f01ec5539b1cd67dec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eb0da3f01ec5539b1cd67dec",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6NHnrRhTykgrFZIHbiySaE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6JhS5hm0SoH2YAeGWDQCiG",
+  "name": "Wah Wah Wah",
+  "uri": "spotify:artist:6JhS5hm0SoH2YAeGWDQCiG",
+  "followers": {
+    "href": null,
+    "total": 499
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb44249d52283289ce9dc145ce",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517444249d52283289ce9dc145ce",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17844249d52283289ce9dc145ce",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6JhS5hm0SoH2YAeGWDQCiG"
+  }
+}

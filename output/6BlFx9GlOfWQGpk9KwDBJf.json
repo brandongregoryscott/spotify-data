@@ -1,0 +1,33 @@
+{
+  "id": "6BlFx9GlOfWQGpk9KwDBJf",
+  "name": "Aeri",
+  "uri": "spotify:artist:6BlFx9GlOfWQGpk9KwDBJf",
+  "followers": {
+    "href": null,
+    "total": 105
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb110d99f112d96b643f1c6b2c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174110d99f112d96b643f1c6b2c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178110d99f112d96b643f1c6b2c",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6BlFx9GlOfWQGpk9KwDBJf"
+  }
+}

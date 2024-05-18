@@ -1,0 +1,33 @@
+{
+  "id": "6QQUP2TX6noqr5fkfIOg4h",
+  "name": "Jimmy Synthetic",
+  "uri": "spotify:artist:6QQUP2TX6noqr5fkfIOg4h",
+  "followers": {
+    "href": null,
+    "total": 527
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb34627f1d3133598c584a739b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517434627f1d3133598c584a739b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17834627f1d3133598c584a739b",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6QQUP2TX6noqr5fkfIOg4h"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6FZUnixViFj7wv49F1LbtH",
+  "name": "Vincent Van Sloth",
+  "uri": "spotify:artist:6FZUnixViFj7wv49F1LbtH",
+  "followers": {
+    "href": null,
+    "total": 490
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734ba3de392aa438e148331fc6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024ba3de392aa438e148331fc6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514ba3de392aa438e148331fc6",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6FZUnixViFj7wv49F1LbtH"
+  }
+}

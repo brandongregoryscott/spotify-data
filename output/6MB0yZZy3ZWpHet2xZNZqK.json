@@ -1,0 +1,33 @@
+{
+  "id": "6MB0yZZy3ZWpHet2xZNZqK",
+  "name": "Knocca",
+  "uri": "spotify:artist:6MB0yZZy3ZWpHet2xZNZqK",
+  "followers": {
+    "href": null,
+    "total": 74
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e0dc1a729cb849e05260a20d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e0dc1a729cb849e05260a20d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e0dc1a729cb849e05260a20d",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6MB0yZZy3ZWpHet2xZNZqK"
+  }
+}

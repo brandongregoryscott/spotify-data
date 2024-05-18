@@ -1,0 +1,33 @@
+{
+  "id": "6R0p06zJjHFNzlPhT7MC11",
+  "name": "Bob Bennett",
+  "uri": "spotify:artist:6R0p06zJjHFNzlPhT7MC11",
+  "followers": {
+    "href": null,
+    "total": 3865
+  },
+  "genres": [
+    "jesus movement"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb00e0b03b94aa06c611f6104b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517400e0b03b94aa06c611f6104b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17800e0b03b94aa06c611f6104b",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6R0p06zJjHFNzlPhT7MC11"
+  }
+}

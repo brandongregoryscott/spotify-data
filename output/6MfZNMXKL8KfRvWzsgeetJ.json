@@ -1,0 +1,33 @@
+{
+  "id": "6MfZNMXKL8KfRvWzsgeetJ",
+  "name": "Cujo",
+  "uri": "spotify:artist:6MfZNMXKL8KfRvWzsgeetJ",
+  "followers": {
+    "href": null,
+    "total": 22
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273eb3dc2c5c97f2a3cad3114db",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02eb3dc2c5c97f2a3cad3114db",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851eb3dc2c5c97f2a3cad3114db",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6MfZNMXKL8KfRvWzsgeetJ"
+  }
+}

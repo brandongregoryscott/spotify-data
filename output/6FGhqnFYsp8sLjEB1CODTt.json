@@ -1,0 +1,33 @@
+{
+  "id": "6FGhqnFYsp8sLjEB1CODTt",
+  "name": "Sebastian Castro",
+  "uri": "spotify:artist:6FGhqnFYsp8sLjEB1CODTt",
+  "followers": {
+    "href": null,
+    "total": 556
+  },
+  "genres": [
+    "jazz chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb30e925fdd6c792617ea57664",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517430e925fdd6c792617ea57664",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17830e925fdd6c792617ea57664",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6FGhqnFYsp8sLjEB1CODTt"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "6EbD6ajKKxyUqN33MvNWMg",
+  "name": "Umberto",
+  "uri": "spotify:artist:6EbD6ajKKxyUqN33MvNWMg",
+  "followers": {
+    "href": null,
+    "total": 4963
+  },
+  "genres": [
+    "abstractro",
+    "horror synth"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb10cfc17487897ef85cc2ecfb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517410cfc17487897ef85cc2ecfb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17810cfc17487897ef85cc2ecfb",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6EbD6ajKKxyUqN33MvNWMg"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "6AIX7SZPkjZ2u7gZaw1uQo",
+  "name": "PassCode",
+  "uri": "spotify:artist:6AIX7SZPkjZ2u7gZaw1uQo",
+  "followers": {
+    "href": null,
+    "total": 100014
+  },
+  "genres": [
+    "idol rock",
+    "j-pixie",
+    "japanese screamo",
+    "kawaii metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf5002349c74fcca90c480787",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f5002349c74fcca90c480787",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f5002349c74fcca90c480787",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6AIX7SZPkjZ2u7gZaw1uQo"
+  }
+}

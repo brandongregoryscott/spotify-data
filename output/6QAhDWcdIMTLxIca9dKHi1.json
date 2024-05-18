@@ -1,0 +1,33 @@
+{
+  "id": "6QAhDWcdIMTLxIca9dKHi1",
+  "name": "Lucas Powell",
+  "uri": "spotify:artist:6QAhDWcdIMTLxIca9dKHi1",
+  "followers": {
+    "href": null,
+    "total": 242
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb5c7e46a31ea29d8a2d0186d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b5c7e46a31ea29d8a2d0186d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b5c7e46a31ea29d8a2d0186d",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6QAhDWcdIMTLxIca9dKHi1"
+  }
+}

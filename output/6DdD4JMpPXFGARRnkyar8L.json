@@ -1,0 +1,33 @@
+{
+  "id": "6DdD4JMpPXFGARRnkyar8L",
+  "name": "Ocsid",
+  "uri": "spotify:artist:6DdD4JMpPXFGARRnkyar8L",
+  "followers": {
+    "href": null,
+    "total": 47
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27336ff309de4a15da07564c79f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0236ff309de4a15da07564c79f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485136ff309de4a15da07564c79f",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6DdD4JMpPXFGARRnkyar8L"
+  }
+}

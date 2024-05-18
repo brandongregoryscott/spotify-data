@@ -1,0 +1,33 @@
+{
+  "id": "6F929uaj0yCvUoXHkHft00",
+  "name": "Nixon",
+  "uri": "spotify:artist:6F929uaj0yCvUoXHkHft00",
+  "followers": {
+    "href": null,
+    "total": 1559
+  },
+  "genres": [
+    "spanish modern rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf5e05e529713a00dab649064",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f5e05e529713a00dab649064",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f5e05e529713a00dab649064",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6F929uaj0yCvUoXHkHft00"
+  }
+}

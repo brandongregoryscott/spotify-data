@@ -1,0 +1,33 @@
+{
+  "id": "6DwPtx7UAPVFTop2jkG3pY",
+  "name": "XAM",
+  "uri": "spotify:artist:6DwPtx7UAPVFTop2jkG3pY",
+  "followers": {
+    "href": null,
+    "total": 11111
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb997d34a9686954cf90a722a3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174997d34a9686954cf90a722a3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178997d34a9686954cf90a722a3",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6DwPtx7UAPVFTop2jkG3pY"
+  }
+}

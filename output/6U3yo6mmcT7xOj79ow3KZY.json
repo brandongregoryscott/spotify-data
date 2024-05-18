@@ -1,0 +1,33 @@
+{
+  "id": "6U3yo6mmcT7xOj79ow3KZY",
+  "name": "RAZOR",
+  "uri": "spotify:artist:6U3yo6mmcT7xOj79ow3KZY",
+  "followers": {
+    "href": null,
+    "total": 9343
+  },
+  "genres": [
+    "visual kei"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bf350bf2ce15e1f0a51e9aa5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bf350bf2ce15e1f0a51e9aa5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bf350bf2ce15e1f0a51e9aa5",
+      "width": 64
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6U3yo6mmcT7xOj79ow3KZY"
+  }
+}

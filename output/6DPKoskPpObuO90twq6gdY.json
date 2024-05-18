@@ -1,0 +1,33 @@
+{
+  "id": "6DPKoskPpObuO90twq6gdY",
+  "name": "Marko Topchii",
+  "uri": "spotify:artist:6DPKoskPpObuO90twq6gdY",
+  "followers": {
+    "href": null,
+    "total": 755
+  },
+  "genres": [
+    "classical guitar"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cde5576d744b748576c23810",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cde5576d744b748576c23810",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cde5576d744b748576c23810",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6DPKoskPpObuO90twq6gdY"
+  }
+}

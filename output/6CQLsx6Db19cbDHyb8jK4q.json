@@ -1,0 +1,33 @@
+{
+  "id": "6CQLsx6Db19cbDHyb8jK4q",
+  "name": "Roberto",
+  "uri": "spotify:artist:6CQLsx6Db19cbDHyb8jK4q",
+  "followers": {
+    "href": null,
+    "total": 613
+  },
+  "genres": [
+    "lo-fi rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfdf848b2f25aefc00c34191a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fdf848b2f25aefc00c34191a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fdf848b2f25aefc00c34191a",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6CQLsx6Db19cbDHyb8jK4q"
+  }
+}

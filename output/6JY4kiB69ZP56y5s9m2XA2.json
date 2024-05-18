@@ -1,0 +1,34 @@
+{
+  "id": "6JY4kiB69ZP56y5s9m2XA2",
+  "name": "Chorale",
+  "uri": "spotify:artist:6JY4kiB69ZP56y5s9m2XA2",
+  "followers": {
+    "href": null,
+    "total": 11226
+  },
+  "genres": [
+    "finnish dance pop",
+    "iskelma"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb058236d0fb7dc1944955c7d2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174058236d0fb7dc1944955c7d2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178058236d0fb7dc1944955c7d2",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6JY4kiB69ZP56y5s9m2XA2"
+  }
+}

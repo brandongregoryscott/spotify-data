@@ -1,0 +1,33 @@
+{
+  "id": "6TCjV733jXn7lpc01TkIbV",
+  "name": "VyOk",
+  "uri": "spotify:artist:6TCjV733jXn7lpc01TkIbV",
+  "followers": {
+    "href": null,
+    "total": 12376
+  },
+  "genres": [
+    "anime phonk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcac94fb0d8c737910340c9ba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cac94fb0d8c737910340c9ba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cac94fb0d8c737910340c9ba",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6TCjV733jXn7lpc01TkIbV"
+  }
+}

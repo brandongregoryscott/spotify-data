@@ -1,0 +1,33 @@
+{
+  "id": "6PXL0thYp53Z1SIubTKEot",
+  "name": "ROM",
+  "uri": "spotify:artist:6PXL0thYp53Z1SIubTKEot",
+  "followers": {
+    "href": null,
+    "total": 1844
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb35aebb21ada79238aa2c6ce8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517435aebb21ada79238aa2c6ce8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17835aebb21ada79238aa2c6ce8",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6PXL0thYp53Z1SIubTKEot"
+  }
+}

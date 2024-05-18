@@ -1,0 +1,33 @@
+{
+  "id": "6NGMOEzlFqBGNk3dfsRphx",
+  "name": "Virginiana Miller",
+  "uri": "spotify:artist:6NGMOEzlFqBGNk3dfsRphx",
+  "followers": {
+    "href": null,
+    "total": 9654
+  },
+  "genres": [
+    "italian alternative"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb51ccaecb5327a79e0ae20b17",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517451ccaecb5327a79e0ae20b17",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17851ccaecb5327a79e0ae20b17",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6NGMOEzlFqBGNk3dfsRphx"
+  }
+}

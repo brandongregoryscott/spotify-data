@@ -1,0 +1,35 @@
+{
+  "id": "6CKN3GUiWMrESH1RKn3ecz",
+  "name": "E-girls",
+  "uri": "spotify:artist:6CKN3GUiWMrESH1RKn3ecz",
+  "followers": {
+    "href": null,
+    "total": 476293
+  },
+  "genres": [
+    "j-idol",
+    "j-pop",
+    "j-pop girl group"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8a206e0533cddb49cf31689d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051748a206e0533cddb49cf31689d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1788a206e0533cddb49cf31689d",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6CKN3GUiWMrESH1RKn3ecz"
+  }
+}

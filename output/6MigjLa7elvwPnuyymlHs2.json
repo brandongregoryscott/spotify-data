@@ -1,0 +1,33 @@
+{
+  "id": "6MigjLa7elvwPnuyymlHs2",
+  "name": "Bela",
+  "uri": "spotify:artist:6MigjLa7elvwPnuyymlHs2",
+  "followers": {
+    "href": null,
+    "total": 1278
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb61889ff01a89384a49d8d3e5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517461889ff01a89384a49d8d3e5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17861889ff01a89384a49d8d3e5",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6MigjLa7elvwPnuyymlHs2"
+  }
+}

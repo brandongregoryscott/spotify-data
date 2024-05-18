@@ -1,0 +1,33 @@
+{
+  "id": "6CepupVjBW7iqhDpiVVtz0",
+  "name": "It-Works",
+  "uri": "spotify:artist:6CepupVjBW7iqhDpiVVtz0",
+  "followers": {
+    "href": null,
+    "total": 1496
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb569d6b32f624d82986b97455",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174569d6b32f624d82986b97455",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178569d6b32f624d82986b97455",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6CepupVjBW7iqhDpiVVtz0"
+  }
+}

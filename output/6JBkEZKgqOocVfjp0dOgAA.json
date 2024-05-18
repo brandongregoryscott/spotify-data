@@ -1,0 +1,33 @@
+{
+  "id": "6JBkEZKgqOocVfjp0dOgAA",
+  "name": "Couple",
+  "uri": "spotify:artist:6JBkEZKgqOocVfjp0dOgAA",
+  "followers": {
+    "href": null,
+    "total": 17462
+  },
+  "genres": [
+    "malaysian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb274d77ac6d4caa473ce233ac",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174274d77ac6d4caa473ce233ac",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178274d77ac6d4caa473ce233ac",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6JBkEZKgqOocVfjp0dOgAA"
+  }
+}

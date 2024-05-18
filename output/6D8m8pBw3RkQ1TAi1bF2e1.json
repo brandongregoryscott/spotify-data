@@ -1,0 +1,33 @@
+{
+  "id": "6D8m8pBw3RkQ1TAi1bF2e1",
+  "name": "Muki",
+  "uri": "spotify:artist:6D8m8pBw3RkQ1TAi1bF2e1",
+  "followers": {
+    "href": null,
+    "total": 4836
+  },
+  "genres": [
+    "australian electropop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf3c976679c7feecff8d86a2a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f3c976679c7feecff8d86a2a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f3c976679c7feecff8d86a2a",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6D8m8pBw3RkQ1TAi1bF2e1"
+  }
+}

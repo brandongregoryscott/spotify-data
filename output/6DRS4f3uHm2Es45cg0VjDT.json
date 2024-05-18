@@ -1,0 +1,34 @@
+{
+  "id": "6DRS4f3uHm2Es45cg0VjDT",
+  "name": "Rob Real",
+  "uri": "spotify:artist:6DRS4f3uHm2Es45cg0VjDT",
+  "followers": {
+    "href": null,
+    "total": 280
+  },
+  "genres": [
+    "bass music",
+    "nu electro"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b496370892cfb909b6eb7def",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b496370892cfb909b6eb7def",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b496370892cfb909b6eb7def",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6DRS4f3uHm2Es45cg0VjDT"
+  }
+}
