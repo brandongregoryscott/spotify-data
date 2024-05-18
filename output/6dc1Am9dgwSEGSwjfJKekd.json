@@ -1,0 +1,33 @@
+{
+  "id": "6dc1Am9dgwSEGSwjfJKekd",
+  "name": "Skilatto",
+  "uri": "spotify:artist:6dc1Am9dgwSEGSwjfJKekd",
+  "followers": {
+    "href": null,
+    "total": 433
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb70e45b1799081e160281b72c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517470e45b1799081e160281b72c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17870e45b1799081e160281b72c",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6dc1Am9dgwSEGSwjfJKekd"
+  }
+}

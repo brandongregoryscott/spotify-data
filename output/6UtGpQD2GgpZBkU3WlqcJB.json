@@ -1,0 +1,34 @@
+{
+  "id": "6UtGpQD2GgpZBkU3WlqcJB",
+  "name": "Sieve",
+  "uri": "spotify:artist:6UtGpQD2GgpZBkU3WlqcJB",
+  "followers": {
+    "href": null,
+    "total": 520
+  },
+  "genres": [
+    "bandung indie",
+    "indonesian indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba46ac1992bf48dc90b32f16f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a46ac1992bf48dc90b32f16f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a46ac1992bf48dc90b32f16f",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6UtGpQD2GgpZBkU3WlqcJB"
+  }
+}

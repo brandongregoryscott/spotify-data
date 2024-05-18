@@ -1,0 +1,33 @@
+{
+  "id": "6mQZnxZqes84WGzpVEJ7sP",
+  "name": "Hillsboro",
+  "uri": "spotify:artist:6mQZnxZqes84WGzpVEJ7sP",
+  "followers": {
+    "href": null,
+    "total": 571
+  },
+  "genres": [
+    "canadian shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb61295fd7236c970bca0b8f03",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517461295fd7236c970bca0b8f03",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17861295fd7236c970bca0b8f03",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6mQZnxZqes84WGzpVEJ7sP"
+  }
+}

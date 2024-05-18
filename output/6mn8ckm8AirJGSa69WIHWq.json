@@ -1,0 +1,33 @@
+{
+  "id": "6mn8ckm8AirJGSa69WIHWq",
+  "name": "Naturale",
+  "uri": "spotify:artist:6mn8ckm8AirJGSa69WIHWq",
+  "followers": {
+    "href": null,
+    "total": 298
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb649a147cf4968d210c019e1c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174649a147cf4968d210c019e1c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178649a147cf4968d210c019e1c",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6mn8ckm8AirJGSa69WIHWq"
+  }
+}

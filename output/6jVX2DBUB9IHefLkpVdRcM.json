@@ -1,0 +1,33 @@
+{
+  "id": "6jVX2DBUB9IHefLkpVdRcM",
+  "name": "MOBP",
+  "uri": "spotify:artist:6jVX2DBUB9IHefLkpVdRcM",
+  "followers": {
+    "href": null,
+    "total": 268
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdd453cb809035d4a80ebe007",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dd453cb809035d4a80ebe007",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dd453cb809035d4a80ebe007",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6jVX2DBUB9IHefLkpVdRcM"
+  }
+}

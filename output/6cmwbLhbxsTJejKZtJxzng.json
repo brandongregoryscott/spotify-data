@@ -1,0 +1,33 @@
+{
+  "id": "6cmwbLhbxsTJejKZtJxzng",
+  "name": "Scimitar",
+  "uri": "spotify:artist:6cmwbLhbxsTJejKZtJxzng",
+  "followers": {
+    "href": null,
+    "total": 278
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734a4d2ef26a23b23d7241907a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024a4d2ef26a23b23d7241907a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485129a2d6ec80abe2f9ce6b10a1",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6cmwbLhbxsTJejKZtJxzng"
+  }
+}

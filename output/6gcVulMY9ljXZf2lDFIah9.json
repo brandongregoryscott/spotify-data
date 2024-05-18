@@ -1,0 +1,33 @@
+{
+  "id": "6gcVulMY9ljXZf2lDFIah9",
+  "name": "Field School",
+  "uri": "spotify:artist:6gcVulMY9ljXZf2lDFIah9",
+  "followers": {
+    "href": null,
+    "total": 430
+  },
+  "genres": [
+    "modern jangle pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb60a0e13d03dd65ba6eff6f78",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517460a0e13d03dd65ba6eff6f78",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17860a0e13d03dd65ba6eff6f78",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6gcVulMY9ljXZf2lDFIah9"
+  }
+}

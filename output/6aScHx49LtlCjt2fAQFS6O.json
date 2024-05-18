@@ -1,0 +1,34 @@
+{
+  "id": "6aScHx49LtlCjt2fAQFS6O",
+  "name": "Austin Gold",
+  "uri": "spotify:artist:6aScHx49LtlCjt2fAQFS6O",
+  "followers": {
+    "href": null,
+    "total": 1183
+  },
+  "genres": [
+    "modern hard rock",
+    "nwocr"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd87cca3c6c984b14e1d8fc78",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d87cca3c6c984b14e1d8fc78",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d87cca3c6c984b14e1d8fc78",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6aScHx49LtlCjt2fAQFS6O"
+  }
+}

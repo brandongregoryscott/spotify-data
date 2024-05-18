@@ -1,0 +1,33 @@
+{
+  "id": "6mWbUwmADkaWo6zh2d6KeZ",
+  "name": "Christopher Sisk",
+  "uri": "spotify:artist:6mWbUwmADkaWo6zh2d6KeZ",
+  "followers": {
+    "href": null,
+    "total": 278
+  },
+  "genres": [
+    "drift"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb95193bb46757ce925a6f12d5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517495193bb46757ce925a6f12d5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17895193bb46757ce925a6f12d5",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6mWbUwmADkaWo6zh2d6KeZ"
+  }
+}

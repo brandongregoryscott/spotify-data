@@ -1,0 +1,34 @@
+{
+  "id": "6aVKvI8vXjzhp9FICkwRWV",
+  "name": "Mila Magal",
+  "uri": "spotify:artist:6aVKvI8vXjzhp9FICkwRWV",
+  "followers": {
+    "href": null,
+    "total": 448
+  },
+  "genres": [
+    "indie boliviano",
+    "pop boliviano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb67aee057b4caccc7c02a48ac",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517467aee057b4caccc7c02a48ac",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17867aee057b4caccc7c02a48ac",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6aVKvI8vXjzhp9FICkwRWV"
+  }
+}

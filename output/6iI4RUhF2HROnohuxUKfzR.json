@@ -1,0 +1,35 @@
+{
+  "id": "6iI4RUhF2HROnohuxUKfzR",
+  "name": "Jack Sparrow",
+  "uri": "spotify:artist:6iI4RUhF2HROnohuxUKfzR",
+  "followers": {
+    "href": null,
+    "total": 10359
+  },
+  "genres": [
+    "classic dubstep",
+    "deep dubstep",
+    "minimal dubstep"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb69b89d2f5b04af1d2e51647e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517469b89d2f5b04af1d2e51647e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17869b89d2f5b04af1d2e51647e",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6iI4RUhF2HROnohuxUKfzR"
+  }
+}

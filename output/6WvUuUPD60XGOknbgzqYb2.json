@@ -1,0 +1,33 @@
+{
+  "id": "6WvUuUPD60XGOknbgzqYb2",
+  "name": "Lyric",
+  "uri": "spotify:artist:6WvUuUPD60XGOknbgzqYb2",
+  "followers": {
+    "href": null,
+    "total": 14195
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf46fcc13c267f0f7a94ac95a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f46fcc13c267f0f7a94ac95a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f46fcc13c267f0f7a94ac95a",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6WvUuUPD60XGOknbgzqYb2"
+  }
+}

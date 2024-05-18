@@ -1,0 +1,33 @@
+{
+  "id": "6ZPZXXnq3PbxZSR9vu9fso",
+  "name": "jackLNDN",
+  "uri": "spotify:artist:6ZPZXXnq3PbxZSR9vu9fso",
+  "followers": {
+    "href": null,
+    "total": 30757
+  },
+  "genres": [
+    "nu disco"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba09cde04e354128b93a0b53d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a09cde04e354128b93a0b53d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a09cde04e354128b93a0b53d",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ZPZXXnq3PbxZSR9vu9fso"
+  }
+}

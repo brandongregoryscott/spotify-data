@@ -1,0 +1,33 @@
+{
+  "id": "6UlNIFEuWlBqb4TvlVCekq",
+  "name": "Kirsty MacColl",
+  "uri": "spotify:artist:6UlNIFEuWlBqb4TvlVCekq",
+  "followers": {
+    "href": null,
+    "total": 111181
+  },
+  "genres": [
+    "new wave pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb90e2c409987c4ff1296a2c90",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517490e2c409987c4ff1296a2c90",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17890e2c409987c4ff1296a2c90",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq"
+  }
+}

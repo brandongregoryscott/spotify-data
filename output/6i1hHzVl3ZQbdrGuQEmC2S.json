@@ -1,0 +1,35 @@
+{
+  "id": "6i1hHzVl3ZQbdrGuQEmC2S",
+  "name": "Dupont",
+  "uri": "spotify:artist:6i1hHzVl3ZQbdrGuQEmC2S",
+  "followers": {
+    "href": null,
+    "total": 3613
+  },
+  "genres": [
+    "ebm",
+    "swedish ebm",
+    "swedish synthpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737dd03726e78c3274fb3a7549",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027dd03726e78c3274fb3a7549",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517dd03726e78c3274fb3a7549",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6i1hHzVl3ZQbdrGuQEmC2S"
+  }
+}

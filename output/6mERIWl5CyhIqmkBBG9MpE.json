@@ -1,0 +1,33 @@
+{
+  "id": "6mERIWl5CyhIqmkBBG9MpE",
+  "name": "Freight",
+  "uri": "spotify:artist:6mERIWl5CyhIqmkBBG9MpE",
+  "followers": {
+    "href": null,
+    "total": 59
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb775846133ef056535325776f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174775846133ef056535325776f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178775846133ef056535325776f",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6mERIWl5CyhIqmkBBG9MpE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6nKLkPXx2JP7JxUXzPmqb3",
+  "name": "Aziel",
+  "uri": "spotify:artist:6nKLkPXx2JP7JxUXzPmqb3",
+  "followers": {
+    "href": null,
+    "total": 183
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb56d73b4384922a54963efc0d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517456d73b4384922a54963efc0d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17856d73b4384922a54963efc0d",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6nKLkPXx2JP7JxUXzPmqb3"
+  }
+}

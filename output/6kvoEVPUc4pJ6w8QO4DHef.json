@@ -1,0 +1,33 @@
+{
+  "id": "6kvoEVPUc4pJ6w8QO4DHef",
+  "name": "MOSBI",
+  "uri": "spotify:artist:6kvoEVPUc4pJ6w8QO4DHef",
+  "followers": {
+    "href": null,
+    "total": 6025
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebef8296c46a5ae45b050640de",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ef8296c46a5ae45b050640de",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ef8296c46a5ae45b050640de",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef"
+  }
+}

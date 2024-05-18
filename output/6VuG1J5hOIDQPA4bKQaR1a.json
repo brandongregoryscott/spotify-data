@@ -1,0 +1,33 @@
+{
+  "id": "6VuG1J5hOIDQPA4bKQaR1a",
+  "name": "Ricardo Gallo",
+  "uri": "spotify:artist:6VuG1J5hOIDQPA4bKQaR1a",
+  "followers": {
+    "href": null,
+    "total": 502
+  },
+  "genres": [
+    "colombian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb9057176a96de486d9fd1a5a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b9057176a96de486d9fd1a5a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b9057176a96de486d9fd1a5a",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6VuG1J5hOIDQPA4bKQaR1a"
+  }
+}

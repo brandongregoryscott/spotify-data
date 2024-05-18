@@ -1,0 +1,33 @@
+{
+  "id": "6mvgiewb7uH8l4qlSuFIgh",
+  "name": "yuzuna",
+  "uri": "spotify:artist:6mvgiewb7uH8l4qlSuFIgh",
+  "followers": {
+    "href": null,
+    "total": 1142
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb21b825b012303c0e741e5f13",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517421b825b012303c0e741e5f13",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17821b825b012303c0e741e5f13",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6mvgiewb7uH8l4qlSuFIgh"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6lM2tET1xN865PtL19C4VS",
+  "name": "The Stangs",
+  "uri": "spotify:artist:6lM2tET1xN865PtL19C4VS",
+  "followers": {
+    "href": null,
+    "total": 360
+  },
+  "genres": [
+    "dutch indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdc19feb305b972dace59047a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dc19feb305b972dace59047a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dc19feb305b972dace59047a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6lM2tET1xN865PtL19C4VS"
+  }
+}

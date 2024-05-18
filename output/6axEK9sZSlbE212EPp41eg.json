@@ -1,0 +1,34 @@
+{
+  "id": "6axEK9sZSlbE212EPp41eg",
+  "name": "High Fashion",
+  "uri": "spotify:artist:6axEK9sZSlbE212EPp41eg",
+  "followers": {
+    "href": null,
+    "total": 12944
+  },
+  "genres": [
+    "post-disco",
+    "post-disco soul"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f81a0d7d53511654f60843e1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f81a0d7d53511654f60843e1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f81a0d7d53511654f60843e1",
+      "width": 64
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6axEK9sZSlbE212EPp41eg"
+  }
+}

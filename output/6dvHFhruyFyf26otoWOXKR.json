@@ -1,0 +1,35 @@
+{
+  "id": "6dvHFhruyFyf26otoWOXKR",
+  "name": "Hybris",
+  "uri": "spotify:artist:6dvHFhruyFyf26otoWOXKR",
+  "followers": {
+    "href": null,
+    "total": 4165
+  },
+  "genres": [
+    "deep dnb",
+    "neurofunk",
+    "stateside dnb"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb87ea115d94398ccb7a2cf663",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517487ea115d94398ccb7a2cf663",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17887ea115d94398ccb7a2cf663",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6dvHFhruyFyf26otoWOXKR"
+  }
+}

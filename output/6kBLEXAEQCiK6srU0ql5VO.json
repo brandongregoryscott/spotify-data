@@ -1,0 +1,33 @@
+{
+  "id": "6kBLEXAEQCiK6srU0ql5VO",
+  "name": "Papicha",
+  "uri": "spotify:artist:6kBLEXAEQCiK6srU0ql5VO",
+  "followers": {
+    "href": null,
+    "total": 2242
+  },
+  "genres": [
+    "peruvian hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf8496ca0541ee44d6a237b6a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f8496ca0541ee44d6a237b6a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f8496ca0541ee44d6a237b6a",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6kBLEXAEQCiK6srU0ql5VO"
+  }
+}

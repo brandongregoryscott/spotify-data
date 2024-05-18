@@ -1,0 +1,33 @@
+{
+  "id": "6d51skvjuLU6nZbGFD61Fl",
+  "name": "Galazy",
+  "uri": "spotify:artist:6d51skvjuLU6nZbGFD61Fl",
+  "followers": {
+    "href": null,
+    "total": 540
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc2b612a1623583a5bd066a69",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c2b612a1623583a5bd066a69",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c2b612a1623583a5bd066a69",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6d51skvjuLU6nZbGFD61Fl"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6WjHxl5bKLgQiieBfhsGWe",
+  "name": "A Dinosaur",
+  "uri": "spotify:artist:6WjHxl5bKLgQiieBfhsGWe",
+  "followers": {
+    "href": null,
+    "total": 246
+  },
+  "genres": [
+    "nerdcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dfe35b8a186c1e59aba600ce",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dfe35b8a186c1e59aba600ce",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dfe35b8a186c1e59aba600ce",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6WjHxl5bKLgQiieBfhsGWe"
+  }
+}

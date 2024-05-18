@@ -1,0 +1,33 @@
+{
+  "id": "6giI2jWOrnCpeucTCtFa3H",
+  "name": "MUNDO*",
+  "uri": "spotify:artist:6giI2jWOrnCpeucTCtFa3H",
+  "followers": {
+    "href": null,
+    "total": 291
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb312f396e322fda9c1d3c3e60",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174312f396e322fda9c1d3c3e60",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178312f396e322fda9c1d3c3e60",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6giI2jWOrnCpeucTCtFa3H"
+  }
+}

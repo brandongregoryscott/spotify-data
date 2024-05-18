@@ -1,0 +1,35 @@
+{
+  "id": "6W73ZDCPNBJtcNhrkZ6h5M",
+  "name": "BlueForge",
+  "uri": "spotify:artist:6W73ZDCPNBJtcNhrkZ6h5M",
+  "followers": {
+    "href": null,
+    "total": 481
+  },
+  "genres": [
+    "dark electro",
+    "dark synthpop",
+    "neo-synthpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcb5483d26fc9125b3426e94f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cb5483d26fc9125b3426e94f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cb5483d26fc9125b3426e94f",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6W73ZDCPNBJtcNhrkZ6h5M"
+  }
+}
