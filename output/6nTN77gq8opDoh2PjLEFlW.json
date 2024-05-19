@@ -1,0 +1,33 @@
+{
+  "id": "6nTN77gq8opDoh2PjLEFlW",
+  "name": "Thrones",
+  "uri": "spotify:artist:6nTN77gq8opDoh2PjLEFlW",
+  "followers": {
+    "href": null,
+    "total": 1342
+  },
+  "genres": [
+    "dark r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba77e91c2a6d5d335a99871c5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a77e91c2a6d5d335a99871c5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a77e91c2a6d5d335a99871c5",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6nTN77gq8opDoh2PjLEFlW"
+  }
+}
