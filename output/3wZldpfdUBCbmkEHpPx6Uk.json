@@ -1,0 +1,33 @@
+{
+  "id": "3wZldpfdUBCbmkEHpPx6Uk",
+  "name": "Fabrices",
+  "uri": "spotify:artist:3wZldpfdUBCbmkEHpPx6Uk",
+  "followers": {
+    "href": null,
+    "total": 280
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d68349e9e5ed942b7d396dce",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d68349e9e5ed942b7d396dce",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d68349e9e5ed942b7d396dce",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3wZldpfdUBCbmkEHpPx6Uk"
+  }
+}

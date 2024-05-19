@@ -1,0 +1,33 @@
+{
+  "id": "3saoptaFJ6ARGsSbDkh3F3",
+  "name": "Prod Falk",
+  "uri": "spotify:artist:3saoptaFJ6ARGsSbDkh3F3",
+  "followers": {
+    "href": null,
+    "total": 201
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb98e58f533b2aeb1c0d0345ad",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517498e58f533b2aeb1c0d0345ad",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17898e58f533b2aeb1c0d0345ad",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3saoptaFJ6ARGsSbDkh3F3"
+  }
+}

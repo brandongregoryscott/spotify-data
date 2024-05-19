@@ -1,0 +1,33 @@
+{
+  "id": "3ydxB9rcVrXTY2gfGr1J4b",
+  "name": "Mark Dignam",
+  "uri": "spotify:artist:3ydxB9rcVrXTY2gfGr1J4b",
+  "followers": {
+    "href": null,
+    "total": 240
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b84f8eb76b58be663a13307e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b84f8eb76b58be663a13307e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b84f8eb76b58be663a13307e",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ydxB9rcVrXTY2gfGr1J4b"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "42dLQU0GopMZ460qLbHhvL",
+  "name": "arbxred",
+  "uri": "spotify:artist:42dLQU0GopMZ460qLbHhvL",
+  "followers": {
+    "href": null,
+    "total": 108
+  },
+  "genres": [
+    "ukrainian phonk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb47cc7d1b6cd76f4097077992",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517447cc7d1b6cd76f4097077992",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17847cc7d1b6cd76f4097077992",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/42dLQU0GopMZ460qLbHhvL"
+  }
+}

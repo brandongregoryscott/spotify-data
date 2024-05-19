@@ -1,0 +1,33 @@
+{
+  "id": "3yURJhwGDwdnfSlWqMa1IY",
+  "name": "shanesa",
+  "uri": "spotify:artist:3yURJhwGDwdnfSlWqMa1IY",
+  "followers": {
+    "href": null,
+    "total": 521
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf99fc16215ea811d31c05dec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f99fc16215ea811d31c05dec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f99fc16215ea811d31c05dec",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3yURJhwGDwdnfSlWqMa1IY"
+  }
+}

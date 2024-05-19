@@ -1,0 +1,33 @@
+{
+  "id": "45ARpcMcvuKh5aaDXXYzHj",
+  "name": "Matteyto",
+  "uri": "spotify:artist:45ARpcMcvuKh5aaDXXYzHj",
+  "followers": {
+    "href": null,
+    "total": 17
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb84c86b34592a85413e8e5db3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517484c86b34592a85413e8e5db3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17884c86b34592a85413e8e5db3",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/45ARpcMcvuKh5aaDXXYzHj"
+  }
+}

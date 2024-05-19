@@ -1,0 +1,33 @@
+{
+  "id": "3uALJGaW8zzDcfuzKftTYL",
+  "name": "Polar G",
+  "uri": "spotify:artist:3uALJGaW8zzDcfuzKftTYL",
+  "followers": {
+    "href": null,
+    "total": 1381
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc5c2efe50714a9a4b02e1708",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c5c2efe50714a9a4b02e1708",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c5c2efe50714a9a4b02e1708",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3uALJGaW8zzDcfuzKftTYL"
+  }
+}

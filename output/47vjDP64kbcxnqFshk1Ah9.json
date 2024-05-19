@@ -1,0 +1,33 @@
+{
+  "id": "47vjDP64kbcxnqFshk1Ah9",
+  "name": "Big Dinner",
+  "uri": "spotify:artist:47vjDP64kbcxnqFshk1Ah9",
+  "followers": {
+    "href": null,
+    "total": 1208
+  },
+  "genres": [
+    "brisbane indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfb03c8ea65eefe14db109ea5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fb03c8ea65eefe14db109ea5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fb03c8ea65eefe14db109ea5",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/47vjDP64kbcxnqFshk1Ah9"
+  }
+}

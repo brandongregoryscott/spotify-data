@@ -1,0 +1,33 @@
+{
+  "id": "41WN1nz3GcBqnMZEwJCViG",
+  "name": "FILIPPA",
+  "uri": "spotify:artist:41WN1nz3GcBqnMZEwJCViG",
+  "followers": {
+    "href": null,
+    "total": 3981
+  },
+  "genres": [
+    "swedish pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb17a8121513739bd4feb31f56",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517417a8121513739bd4feb31f56",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17817a8121513739bd4feb31f56",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG"
+  }
+}

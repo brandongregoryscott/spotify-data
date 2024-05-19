@@ -1,0 +1,34 @@
+{
+  "id": "3wg6B0I3YwsARsBONWWAXL",
+  "name": "Phil Perry",
+  "uri": "spotify:artist:3wg6B0I3YwsARsBONWWAXL",
+  "followers": {
+    "href": null,
+    "total": 85584
+  },
+  "genres": [
+    "smooth jazz",
+    "smooth soul"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdcde805a84dd7938eb265888",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dcde805a84dd7938eb265888",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dcde805a84dd7938eb265888",
+      "width": 160
+    }
+  ],
+  "popularity": 34,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3wg6B0I3YwsARsBONWWAXL"
+  }
+}

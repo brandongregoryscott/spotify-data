@@ -1,0 +1,34 @@
+{
+  "id": "415JrPfN7ukaTu8JV8BLE8",
+  "name": "Local H",
+  "uri": "spotify:artist:415JrPfN7ukaTu8JV8BLE8",
+  "followers": {
+    "href": null,
+    "total": 219071
+  },
+  "genres": [
+    "grunge",
+    "post-grunge"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb11fe6a78fa11b49e147aaba4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517411fe6a78fa11b49e147aaba4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17811fe6a78fa11b49e147aaba4",
+      "width": 160
+    }
+  ],
+  "popularity": 46,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/415JrPfN7ukaTu8JV8BLE8"
+  }
+}

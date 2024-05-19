@@ -1,0 +1,33 @@
+{
+  "id": "49AKEmMOCbuohMDfljzbgv",
+  "name": "Canvas",
+  "uri": "spotify:artist:49AKEmMOCbuohMDfljzbgv",
+  "followers": {
+    "href": null,
+    "total": 312
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb27ef5ada2aeac0dba1cae992",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517427ef5ada2aeac0dba1cae992",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17827ef5ada2aeac0dba1cae992",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/49AKEmMOCbuohMDfljzbgv"
+  }
+}

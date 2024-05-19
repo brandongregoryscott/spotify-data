@@ -1,0 +1,34 @@
+{
+  "id": "42kxHIYLflWcEAGkeKNHSp",
+  "name": "Havelin",
+  "uri": "spotify:artist:42kxHIYLflWcEAGkeKNHSp",
+  "followers": {
+    "href": null,
+    "total": 15512
+  },
+  "genres": [
+    "canadian folk",
+    "indiecoustica"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd81e3fc80a13597b7cbe1719",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d81e3fc80a13597b7cbe1719",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d81e3fc80a13597b7cbe1719",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/42kxHIYLflWcEAGkeKNHSp"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "48tMLGUi9RXN9VjtJKt998",
+  "name": "Junkyrd",
+  "uri": "spotify:artist:48tMLGUi9RXN9VjtJKt998",
+  "followers": {
+    "href": null,
+    "total": 333
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebecf32a2a91d2a60bb23b1f08",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ecf32a2a91d2a60bb23b1f08",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ecf32a2a91d2a60bb23b1f08",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/48tMLGUi9RXN9VjtJKt998"
+  }
+}

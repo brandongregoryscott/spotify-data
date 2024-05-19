@@ -1,0 +1,33 @@
+{
+  "id": "42p6gXpB3btdFQWyjY5F6h",
+  "name": "John Myrtle",
+  "uri": "spotify:artist:42p6gXpB3btdFQWyjY5F6h",
+  "followers": {
+    "href": null,
+    "total": 2605
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf7dbb48f046bb9b4eacc0c6e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f7dbb48f046bb9b4eacc0c6e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f7dbb48f046bb9b4eacc0c6e",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/42p6gXpB3btdFQWyjY5F6h"
+  }
+}

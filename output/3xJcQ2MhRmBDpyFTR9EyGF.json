@@ -1,0 +1,33 @@
+{
+  "id": "3xJcQ2MhRmBDpyFTR9EyGF",
+  "name": "Scriptz",
+  "uri": "spotify:artist:3xJcQ2MhRmBDpyFTR9EyGF",
+  "followers": {
+    "href": null,
+    "total": 5947
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb27de9de59042c2746f4debd3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517427de9de59042c2746f4debd3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17827de9de59042c2746f4debd3",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3xJcQ2MhRmBDpyFTR9EyGF"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "44p7tPuYVTIwNQaoiQEuAf",
+  "name": "Entropy",
+  "uri": "spotify:artist:44p7tPuYVTIwNQaoiQEuAf",
+  "followers": {
+    "href": null,
+    "total": 298
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3d69aad0fc51fc3ec1d41706",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051743d69aad0fc51fc3ec1d41706",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1783d69aad0fc51fc3ec1d41706",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/44p7tPuYVTIwNQaoiQEuAf"
+  }
+}

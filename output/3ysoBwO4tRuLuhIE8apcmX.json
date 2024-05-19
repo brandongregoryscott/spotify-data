@@ -1,0 +1,33 @@
+{
+  "id": "3ysoBwO4tRuLuhIE8apcmX",
+  "name": "jdrly",
+  "uri": "spotify:artist:3ysoBwO4tRuLuhIE8apcmX",
+  "followers": {
+    "href": null,
+    "total": 2420
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebecabab021c484d58f27157a8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ecabab021c484d58f27157a8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ecabab021c484d58f27157a8",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ysoBwO4tRuLuhIE8apcmX"
+  }
+}

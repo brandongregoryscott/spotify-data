@@ -1,0 +1,33 @@
+{
+  "id": "40dV1r9Q6n8ngGCIcMYGEv",
+  "name": "AJ Jackson",
+  "uri": "spotify:artist:40dV1r9Q6n8ngGCIcMYGEv",
+  "followers": {
+    "href": null,
+    "total": 24
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb53ca22590b488fd5d004d5cd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517453ca22590b488fd5d004d5cd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17853ca22590b488fd5d004d5cd",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/40dV1r9Q6n8ngGCIcMYGEv"
+  }
+}

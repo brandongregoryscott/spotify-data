@@ -1,0 +1,33 @@
+{
+  "id": "45ZiP8NzXVskHPyVIk8dsg",
+  "name": "Andrew Tyson",
+  "uri": "spotify:artist:45ZiP8NzXVskHPyVIk8dsg",
+  "followers": {
+    "href": null,
+    "total": 25
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6d855c489f3f7df8e6a57e63",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051746d855c489f3f7df8e6a57e63",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1786d855c489f3f7df8e6a57e63",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/45ZiP8NzXVskHPyVIk8dsg"
+  }
+}

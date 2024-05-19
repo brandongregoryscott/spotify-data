@@ -1,0 +1,33 @@
+{
+  "id": "3zKCRc1JWXhPZzJluwUnVT",
+  "name": "RHYDA",
+  "uri": "spotify:artist:3zKCRc1JWXhPZzJluwUnVT",
+  "followers": {
+    "href": null,
+    "total": 313
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739ed8e4cf86e7d3495b78f32b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029ed8e4cf86e7d3495b78f32b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519ed8e4cf86e7d3495b78f32b",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3zKCRc1JWXhPZzJluwUnVT"
+  }
+}

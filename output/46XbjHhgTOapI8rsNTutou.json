@@ -1,0 +1,33 @@
+{
+  "id": "46XbjHhgTOapI8rsNTutou",
+  "name": "Hello Ghxst",
+  "uri": "spotify:artist:46XbjHhgTOapI8rsNTutou",
+  "followers": {
+    "href": null,
+    "total": 180
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba6c4d78db967ef538316658d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a6c4d78db967ef538316658d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a6c4d78db967ef538316658d",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/46XbjHhgTOapI8rsNTutou"
+  }
+}

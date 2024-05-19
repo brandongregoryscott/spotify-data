@@ -1,0 +1,35 @@
+{
+  "id": "4BaCE4LPCXPSjIsvE5gfjZ",
+  "name": "Ylja",
+  "uri": "spotify:artist:4BaCE4LPCXPSjIsvE5gfjZ",
+  "followers": {
+    "href": null,
+    "total": 4538
+  },
+  "genres": [
+    "icelandic folk",
+    "icelandic indie",
+    "icelandic pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba1ce9aae74417ea8524956d4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a1ce9aae74417ea8524956d4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a1ce9aae74417ea8524956d4",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4BaCE4LPCXPSjIsvE5gfjZ"
+  }
+}

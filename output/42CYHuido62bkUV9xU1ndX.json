@@ -1,0 +1,33 @@
+{
+  "id": "42CYHuido62bkUV9xU1ndX",
+  "name": "Pip Williams",
+  "uri": "spotify:artist:42CYHuido62bkUV9xU1ndX",
+  "followers": {
+    "href": null,
+    "total": 512
+  },
+  "genres": [
+    "nu electro"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27357fa90eaaeb534de6a6461e7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0257fa90eaaeb534de6a6461e7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485157fa90eaaeb534de6a6461e7",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/42CYHuido62bkUV9xU1ndX"
+  }
+}

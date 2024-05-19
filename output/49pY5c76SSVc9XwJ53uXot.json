@@ -1,0 +1,33 @@
+{
+  "id": "49pY5c76SSVc9XwJ53uXot",
+  "name": "Joe Chester",
+  "uri": "spotify:artist:49pY5c76SSVc9XwJ53uXot",
+  "followers": {
+    "href": null,
+    "total": 1162
+  },
+  "genres": [
+    "irish indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba368502cc3a4c3a329763480",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a368502cc3a4c3a329763480",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a368502cc3a4c3a329763480",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/49pY5c76SSVc9XwJ53uXot"
+  }
+}

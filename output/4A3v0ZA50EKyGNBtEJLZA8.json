@@ -1,0 +1,33 @@
+{
+  "id": "4A3v0ZA50EKyGNBtEJLZA8",
+  "name": "FORRESTER",
+  "uri": "spotify:artist:4A3v0ZA50EKyGNBtEJLZA8",
+  "followers": {
+    "href": null,
+    "total": 362
+  },
+  "genres": [
+    "suomirap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb618dfa8cd73f71acd6cba19a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174618dfa8cd73f71acd6cba19a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178618dfa8cd73f71acd6cba19a",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4A3v0ZA50EKyGNBtEJLZA8"
+  }
+}

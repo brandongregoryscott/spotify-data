@@ -1,0 +1,33 @@
+{
+  "id": "4AgLfdV9n9OV67nyuu06OF",
+  "name": "Arzenic",
+  "uri": "spotify:artist:4AgLfdV9n9OV67nyuu06OF",
+  "followers": {
+    "href": null,
+    "total": 3980
+  },
+  "genres": [
+    "electronica peruana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb25d340f83470a168621ed357",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517425d340f83470a168621ed357",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17825d340f83470a168621ed357",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4AgLfdV9n9OV67nyuu06OF"
+  }
+}

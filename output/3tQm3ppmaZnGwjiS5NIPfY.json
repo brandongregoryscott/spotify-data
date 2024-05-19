@@ -1,0 +1,33 @@
+{
+  "id": "3tQm3ppmaZnGwjiS5NIPfY",
+  "name": "Monolith VA",
+  "uri": "spotify:artist:3tQm3ppmaZnGwjiS5NIPfY",
+  "followers": {
+    "href": null,
+    "total": 112
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734a1d5dca697bfae2edb59d1a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024a1d5dca697bfae2edb59d1a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514a1d5dca697bfae2edb59d1a",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3tQm3ppmaZnGwjiS5NIPfY"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3twchTU8tF6RpbHS7TnuRN",
+  "name": "Hyperdriver",
+  "uri": "spotify:artist:3twchTU8tF6RpbHS7TnuRN",
+  "followers": {
+    "href": null,
+    "total": 55
+  },
+  "genres": [
+    "estonian metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735cf8206267f5880b2081c81c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025cf8206267f5880b2081c81c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515cf8206267f5880b2081c81c",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3twchTU8tF6RpbHS7TnuRN"
+  }
+}

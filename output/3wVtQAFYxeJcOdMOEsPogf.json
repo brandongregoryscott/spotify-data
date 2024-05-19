@@ -1,0 +1,33 @@
+{
+  "id": "3wVtQAFYxeJcOdMOEsPogf",
+  "name": "oddeen",
+  "uri": "spotify:artist:3wVtQAFYxeJcOdMOEsPogf",
+  "followers": {
+    "href": null,
+    "total": 432
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb403278f59cbac00f247e3a36",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174403278f59cbac00f247e3a36",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178403278f59cbac00f247e3a36",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3wVtQAFYxeJcOdMOEsPogf"
+  }
+}

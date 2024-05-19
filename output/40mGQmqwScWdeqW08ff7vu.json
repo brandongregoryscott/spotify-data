@@ -1,0 +1,33 @@
+{
+  "id": "40mGQmqwScWdeqW08ff7vu",
+  "name": "Nana",
+  "uri": "spotify:artist:40mGQmqwScWdeqW08ff7vu",
+  "followers": {
+    "href": null,
+    "total": 24524
+  },
+  "genres": [
+    "indie hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb335248bd49db5c79bca60879",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174335248bd49db5c79bca60879",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178335248bd49db5c79bca60879",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
+  }
+}

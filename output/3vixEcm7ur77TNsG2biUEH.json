@@ -1,0 +1,33 @@
+{
+  "id": "3vixEcm7ur77TNsG2biUEH",
+  "name": "FUNKCIJA",
+  "uri": "spotify:artist:3vixEcm7ur77TNsG2biUEH",
+  "followers": {
+    "href": null,
+    "total": 224
+  },
+  "genres": [
+    "latvian hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbe114b132e17272124cce5b1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174be114b132e17272124cce5b1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178be114b132e17272124cce5b1",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3vixEcm7ur77TNsG2biUEH"
+  }
+}
