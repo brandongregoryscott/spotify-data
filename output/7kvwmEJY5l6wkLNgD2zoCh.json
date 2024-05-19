@@ -1,0 +1,33 @@
+{
+  "id": "7kvwmEJY5l6wkLNgD2zoCh",
+  "name": "Cordoba",
+  "uri": "spotify:artist:7kvwmEJY5l6wkLNgD2zoCh",
+  "followers": {
+    "href": null,
+    "total": 437
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb51c1776613933e8e057bdb56",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517451c1776613933e8e057bdb56",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17851c1776613933e8e057bdb56",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7kvwmEJY5l6wkLNgD2zoCh"
+  }
+}

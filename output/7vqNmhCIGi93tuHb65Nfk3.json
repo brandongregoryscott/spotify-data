@@ -1,0 +1,33 @@
+{
+  "id": "7vqNmhCIGi93tuHb65Nfk3",
+  "name": "Dreamkillers",
+  "uri": "spotify:artist:7vqNmhCIGi93tuHb65Nfk3",
+  "followers": {
+    "href": null,
+    "total": 1007
+  },
+  "genres": [
+    "brisbane punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb92f5a32f07dd1c58787bb474",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517492f5a32f07dd1c58787bb474",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17892f5a32f07dd1c58787bb474",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7vqNmhCIGi93tuHb65Nfk3"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7z9m1sy0FnEgIuwOhrtn7C",
+  "name": "Jason Dering",
+  "uri": "spotify:artist:7z9m1sy0FnEgIuwOhrtn7C",
+  "followers": {
+    "href": null,
+    "total": 1485
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb578fdb06a2e31dc13875de8e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174578fdb06a2e31dc13875de8e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178578fdb06a2e31dc13875de8e",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7z9m1sy0FnEgIuwOhrtn7C"
+  }
+}

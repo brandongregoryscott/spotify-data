@@ -1,0 +1,33 @@
+{
+  "id": "7iZ5aCddMRZS4fKjjbrAgj",
+  "name": "Rin",
+  "uri": "spotify:artist:7iZ5aCddMRZS4fKjjbrAgj",
+  "followers": {
+    "href": null,
+    "total": 319
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b98b01337e4d1e69ddb83f1d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b98b01337e4d1e69ddb83f1d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b98b01337e4d1e69ddb83f1d",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7iZ5aCddMRZS4fKjjbrAgj"
+  }
+}

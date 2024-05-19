@@ -1,0 +1,33 @@
+{
+  "id": "7p4EBOzj65JOY1ZX0I3AsW",
+  "name": "Juanito",
+  "uri": "spotify:artist:7p4EBOzj65JOY1ZX0I3AsW",
+  "followers": {
+    "href": null,
+    "total": 228
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf25029b0e7c0e4ad74f99289",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f25029b0e7c0e4ad74f99289",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f25029b0e7c0e4ad74f99289",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7p4EBOzj65JOY1ZX0I3AsW"
+  }
+}

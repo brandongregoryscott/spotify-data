@@ -1,0 +1,33 @@
+{
+  "id": "7mY2ZD4zAsviFn1bZKClAA",
+  "name": "Saga",
+  "uri": "spotify:artist:7mY2ZD4zAsviFn1bZKClAA",
+  "followers": {
+    "href": null,
+    "total": 171
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb087f9e24bc90c2bad3898ce6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174087f9e24bc90c2bad3898ce6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178087f9e24bc90c2bad3898ce6",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7mY2ZD4zAsviFn1bZKClAA"
+  }
+}
