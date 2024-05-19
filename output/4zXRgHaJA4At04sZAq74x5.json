@@ -1,0 +1,33 @@
+{
+  "id": "4zXRgHaJA4At04sZAq74x5",
+  "name": "Copilot",
+  "uri": "spotify:artist:4zXRgHaJA4At04sZAq74x5",
+  "followers": {
+    "href": null,
+    "total": 2127
+  },
+  "genres": [
+    "boston indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb100e12ff81b2beabab972000",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174100e12ff81b2beabab972000",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178100e12ff81b2beabab972000",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4zXRgHaJA4At04sZAq74x5"
+  }
+}

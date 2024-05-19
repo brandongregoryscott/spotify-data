@@ -1,0 +1,33 @@
+{
+  "id": "4tMAgYrzLtA7Rl2m7rcoM8",
+  "name": "Ethan Lumus",
+  "uri": "spotify:artist:4tMAgYrzLtA7Rl2m7rcoM8",
+  "followers": {
+    "href": null,
+    "total": 256
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb2a20458267b706bdf0153b4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b2a20458267b706bdf0153b4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b2a20458267b706bdf0153b4",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4tMAgYrzLtA7Rl2m7rcoM8"
+  }
+}

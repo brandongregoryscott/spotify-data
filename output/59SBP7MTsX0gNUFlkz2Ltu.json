@@ -1,0 +1,33 @@
+{
+  "id": "59SBP7MTsX0gNUFlkz2Ltu",
+  "name": "Shaved Ape",
+  "uri": "spotify:artist:59SBP7MTsX0gNUFlkz2Ltu",
+  "followers": {
+    "href": null,
+    "total": 160
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d895d7a90e6412ad2e22effb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d895d7a90e6412ad2e22effb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d895d7a90e6412ad2e22effb",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/59SBP7MTsX0gNUFlkz2Ltu"
+  }
+}

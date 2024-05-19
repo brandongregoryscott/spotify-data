@@ -1,0 +1,33 @@
+{
+  "id": "53ZyJQeC03quzY94WX4Ujy",
+  "name": "Boy Radio",
+  "uri": "spotify:artist:53ZyJQeC03quzY94WX4Ujy",
+  "followers": {
+    "href": null,
+    "total": 1240
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd2332715535e4db210ba148e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d2332715535e4db210ba148e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d2332715535e4db210ba148e",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/53ZyJQeC03quzY94WX4Ujy"
+  }
+}

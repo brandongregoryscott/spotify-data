@@ -1,0 +1,35 @@
+{
+  "id": "4y9HUHkreSrks26lsPAm7W",
+  "name": "Snowhaus",
+  "uri": "spotify:artist:4y9HUHkreSrks26lsPAm7W",
+  "followers": {
+    "href": null,
+    "total": 729
+  },
+  "genres": [
+    "5th wave emo",
+    "new england emo",
+    "western mass indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb950af1de24eadc069a9fef94",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174950af1de24eadc069a9fef94",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178950af1de24eadc069a9fef94",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4y9HUHkreSrks26lsPAm7W"
+  }
+}

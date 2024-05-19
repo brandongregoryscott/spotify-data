@@ -1,0 +1,33 @@
+{
+  "id": "5ADeN4ABxjliunUE91lZ8u",
+  "name": "Marian",
+  "uri": "spotify:artist:5ADeN4ABxjliunUE91lZ8u",
+  "followers": {
+    "href": null,
+    "total": 95
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebef3e9f2822f4743e2745595d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ef3e9f2822f4743e2745595d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ef3e9f2822f4743e2745595d",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ADeN4ABxjliunUE91lZ8u"
+  }
+}

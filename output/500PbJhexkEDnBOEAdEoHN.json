@@ -1,0 +1,33 @@
+{
+  "id": "500PbJhexkEDnBOEAdEoHN",
+  "name": "rdrage",
+  "uri": "spotify:artist:500PbJhexkEDnBOEAdEoHN",
+  "followers": {
+    "href": null,
+    "total": 63
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd870aeabae7a1e48715804df",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d870aeabae7a1e48715804df",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d870aeabae7a1e48715804df",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/500PbJhexkEDnBOEAdEoHN"
+  }
+}

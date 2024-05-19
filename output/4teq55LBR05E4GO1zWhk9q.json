@@ -1,0 +1,33 @@
+{
+  "id": "4teq55LBR05E4GO1zWhk9q",
+  "name": "あーた",
+  "uri": "spotify:artist:4teq55LBR05E4GO1zWhk9q",
+  "followers": {
+    "href": null,
+    "total": 88
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a6a84406c4b880c4f459c610",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a6a84406c4b880c4f459c610",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a6a84406c4b880c4f459c610",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4teq55LBR05E4GO1zWhk9q"
+  }
+}

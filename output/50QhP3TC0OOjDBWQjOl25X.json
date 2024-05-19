@@ -1,0 +1,33 @@
+{
+  "id": "50QhP3TC0OOjDBWQjOl25X",
+  "name": "ESSEX",
+  "uri": "spotify:artist:50QhP3TC0OOjDBWQjOl25X",
+  "followers": {
+    "href": null,
+    "total": 3970
+  },
+  "genres": [
+    "wave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc9c385857400a9b8717d936f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c9c385857400a9b8717d936f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c9c385857400a9b8717d936f",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/50QhP3TC0OOjDBWQjOl25X"
+  }
+}

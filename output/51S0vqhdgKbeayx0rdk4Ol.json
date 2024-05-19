@@ -1,0 +1,33 @@
+{
+  "id": "51S0vqhdgKbeayx0rdk4Ol",
+  "name": "Luke Markinson",
+  "uri": "spotify:artist:51S0vqhdgKbeayx0rdk4Ol",
+  "followers": {
+    "href": null,
+    "total": 1330
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebacac868384947655ae605500",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174acac868384947655ae605500",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178acac868384947655ae605500",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/51S0vqhdgKbeayx0rdk4Ol"
+  }
+}

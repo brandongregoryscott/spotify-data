@@ -1,0 +1,34 @@
+{
+  "id": "5AgZ9r9ZdWm7mD9t03KZZu",
+  "name": "The Altons",
+  "uri": "spotify:artist:5AgZ9r9ZdWm7mD9t03KZZu",
+  "followers": {
+    "href": null,
+    "total": 58583
+  },
+  "genres": [
+    "la indie",
+    "souldies"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfdd2934bb1150894196b3be3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fdd2934bb1150894196b3be3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fdd2934bb1150894196b3be3",
+      "width": 160
+    }
+  ],
+  "popularity": 45,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu"
+  }
+}

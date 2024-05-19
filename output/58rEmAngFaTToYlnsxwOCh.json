@@ -1,0 +1,33 @@
+{
+  "id": "58rEmAngFaTToYlnsxwOCh",
+  "name": "Cabezalí",
+  "uri": "spotify:artist:58rEmAngFaTToYlnsxwOCh",
+  "followers": {
+    "href": null,
+    "total": 494
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733fc5ef34afba58a468672370",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023fc5ef34afba58a468672370",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513fc5ef34afba58a468672370",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/58rEmAngFaTToYlnsxwOCh"
+  }
+}

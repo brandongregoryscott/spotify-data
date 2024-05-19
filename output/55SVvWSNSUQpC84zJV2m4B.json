@@ -1,0 +1,33 @@
+{
+  "id": "55SVvWSNSUQpC84zJV2m4B",
+  "name": "Company Retreat",
+  "uri": "spotify:artist:55SVvWSNSUQpC84zJV2m4B",
+  "followers": {
+    "href": null,
+    "total": 109
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf9a33698cf7067f95c49ebee",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f9a33698cf7067f95c49ebee",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f9a33698cf7067f95c49ebee",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/55SVvWSNSUQpC84zJV2m4B"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "52iQAV1tVJOqBMfZL6mqyI",
+  "name": "Pals",
+  "uri": "spotify:artist:52iQAV1tVJOqBMfZL6mqyI",
+  "followers": {
+    "href": null,
+    "total": 551
+  },
+  "genres": [
+    "australian garage punk",
+    "newcastle nsw indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb01e2986ef96220dbe54ed6de",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517401e2986ef96220dbe54ed6de",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17801e2986ef96220dbe54ed6de",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/52iQAV1tVJOqBMfZL6mqyI"
+  }
+}

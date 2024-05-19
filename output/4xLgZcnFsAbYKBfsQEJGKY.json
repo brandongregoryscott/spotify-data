@@ -1,0 +1,33 @@
+{
+  "id": "4xLgZcnFsAbYKBfsQEJGKY",
+  "name": "Barbro",
+  "uri": "spotify:artist:4xLgZcnFsAbYKBfsQEJGKY",
+  "followers": {
+    "href": null,
+    "total": 2459
+  },
+  "genres": [
+    "danish indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb199f14933a0dedaa1fb1390d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174199f14933a0dedaa1fb1390d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178199f14933a0dedaa1fb1390d",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4v9KhcAzzMsOJTUklAE7Yr",
+  "name": "Del III",
+  "uri": "spotify:artist:4v9KhcAzzMsOJTUklAE7Yr",
+  "followers": {
+    "href": null,
+    "total": 311
+  },
+  "genres": [
+    "gothenburg indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732aaf68ab943c6fe56bb098fa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022aaf68ab943c6fe56bb098fa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512aaf68ab943c6fe56bb098fa",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4v9KhcAzzMsOJTUklAE7Yr"
+  }
+}

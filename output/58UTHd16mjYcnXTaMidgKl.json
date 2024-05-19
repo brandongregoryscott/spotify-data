@@ -1,0 +1,33 @@
+{
+  "id": "58UTHd16mjYcnXTaMidgKl",
+  "name": "La MalaFarra",
+  "uri": "spotify:artist:58UTHd16mjYcnXTaMidgKl",
+  "followers": {
+    "href": null,
+    "total": 611
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb095b64ae35eb8452b7e5cc9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b095b64ae35eb8452b7e5cc9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b095b64ae35eb8452b7e5cc9",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/58UTHd16mjYcnXTaMidgKl"
+  }
+}

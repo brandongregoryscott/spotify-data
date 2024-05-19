@@ -1,0 +1,33 @@
+{
+  "id": "56cCC0aZJLeXP48nDB1XgJ",
+  "name": "Charlie Fardella",
+  "uri": "spotify:artist:56cCC0aZJLeXP48nDB1XgJ",
+  "followers": {
+    "href": null,
+    "total": 62
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737545a22bebdc9f11ff45f5f6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027545a22bebdc9f11ff45f5f6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517545a22bebdc9f11ff45f5f6",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/56cCC0aZJLeXP48nDB1XgJ"
+  }
+}

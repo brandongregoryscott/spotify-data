@@ -1,0 +1,34 @@
+{
+  "id": "55mTRBKFOHRYhxMfFByd8G",
+  "name": "Sweet Creature",
+  "uri": "spotify:artist:55mTRBKFOHRYhxMfFByd8G",
+  "followers": {
+    "href": null,
+    "total": 2577
+  },
+  "genres": [
+    "new wave of glam metal",
+    "sleaze rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebddc78632a4e2c37f0d38ff42",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ddc78632a4e2c37f0d38ff42",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ddc78632a4e2c37f0d38ff42",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/55mTRBKFOHRYhxMfFByd8G"
+  }
+}

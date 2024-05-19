@@ -1,0 +1,34 @@
+{
+  "id": "4tR5IWEPVvHGz7EQMNqz6w",
+  "name": "Venomous Concept",
+  "uri": "spotify:artist:4tR5IWEPVvHGz7EQMNqz6w",
+  "followers": {
+    "href": null,
+    "total": 11588
+  },
+  "genres": [
+    "deathgrind",
+    "grindcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebddb024114ed95fe9b9fdccb5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ddb024114ed95fe9b9fdccb5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ddb024114ed95fe9b9fdccb5",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4tR5IWEPVvHGz7EQMNqz6w"
+  }
+}

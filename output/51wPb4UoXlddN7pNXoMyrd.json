@@ -1,0 +1,33 @@
+{
+  "id": "51wPb4UoXlddN7pNXoMyrd",
+  "name": "Bad Milk",
+  "uri": "spotify:artist:51wPb4UoXlddN7pNXoMyrd",
+  "followers": {
+    "href": null,
+    "total": 132
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf0521788f85e37909ecb49f8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f0521788f85e37909ecb49f8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f0521788f85e37909ecb49f8",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/51wPb4UoXlddN7pNXoMyrd"
+  }
+}

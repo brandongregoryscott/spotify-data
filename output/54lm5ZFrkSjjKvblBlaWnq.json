@@ -1,0 +1,33 @@
+{
+  "id": "54lm5ZFrkSjjKvblBlaWnq",
+  "name": "John Hudson",
+  "uri": "spotify:artist:54lm5ZFrkSjjKvblBlaWnq",
+  "followers": {
+    "href": null,
+    "total": 106
+  },
+  "genres": [
+    "choral"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ea0b44fc41b02c026f925bec",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ea0b44fc41b02c026f925bec",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ea0b44fc41b02c026f925bec",
+      "width": 64
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/54lm5ZFrkSjjKvblBlaWnq"
+  }
+}

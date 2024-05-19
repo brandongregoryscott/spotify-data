@@ -1,0 +1,33 @@
+{
+  "id": "4zS16DZY9bd9qPKjCBuF8n",
+  "name": "Chico",
+  "uri": "spotify:artist:4zS16DZY9bd9qPKjCBuF8n",
+  "followers": {
+    "href": null,
+    "total": 717
+  },
+  "genres": [
+    "swedish gangsta rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb340846213edf59ac32727b1b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174340846213edf59ac32727b1b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178340846213edf59ac32727b1b",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4zS16DZY9bd9qPKjCBuF8n"
+  }
+}
