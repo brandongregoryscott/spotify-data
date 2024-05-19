@@ -1,0 +1,33 @@
+{
+  "id": "5ahvDss0AH60cd2AWqoU1r",
+  "name": "Las Petunias",
+  "uri": "spotify:artist:5ahvDss0AH60cd2AWqoU1r",
+  "followers": {
+    "href": null,
+    "total": 2422
+  },
+  "genres": [
+    "tontipop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb35c8de6555d0fcc6b3ef9181",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517435c8de6555d0fcc6b3ef9181",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17835c8de6555d0fcc6b3ef9181",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r"
+  }
+}

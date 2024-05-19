@@ -1,0 +1,33 @@
+{
+  "id": "5caQ9iWMjrY9Y5D81cbkZe",
+  "name": "Joe Wunderle",
+  "uri": "spotify:artist:5caQ9iWMjrY9Y5D81cbkZe",
+  "followers": {
+    "href": null,
+    "total": 331
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb83a39c02a562985caabe40d5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517483a39c02a562985caabe40d5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17883a39c02a562985caabe40d5",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5caQ9iWMjrY9Y5D81cbkZe"
+  }
+}

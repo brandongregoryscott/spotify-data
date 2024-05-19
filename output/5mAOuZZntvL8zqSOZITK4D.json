@@ -1,0 +1,33 @@
+{
+  "id": "5mAOuZZntvL8zqSOZITK4D",
+  "name": "DGERA",
+  "uri": "spotify:artist:5mAOuZZntvL8zqSOZITK4D",
+  "followers": {
+    "href": null,
+    "total": 307
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb95e11012da8f453866e29ef7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517495e11012da8f453866e29ef7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17895e11012da8f453866e29ef7",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5mAOuZZntvL8zqSOZITK4D"
+  }
+}

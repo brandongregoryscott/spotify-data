@@ -1,0 +1,33 @@
+{
+  "id": "5iXhBQaT31xyjauv3EuhMt",
+  "name": "Fobys",
+  "uri": "spotify:artist:5iXhBQaT31xyjauv3EuhMt",
+  "followers": {
+    "href": null,
+    "total": 54
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb73e8b4a4994d924e6b599ceb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517473e8b4a4994d924e6b599ceb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17873e8b4a4994d924e6b599ceb",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5iXhBQaT31xyjauv3EuhMt"
+  }
+}

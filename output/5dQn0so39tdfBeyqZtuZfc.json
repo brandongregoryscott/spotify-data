@@ -1,0 +1,33 @@
+{
+  "id": "5dQn0so39tdfBeyqZtuZfc",
+  "name": "Gladyson Panther",
+  "uri": "spotify:artist:5dQn0so39tdfBeyqZtuZfc",
+  "followers": {
+    "href": null,
+    "total": 1246
+  },
+  "genres": [
+    "rosario indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb89aa131d83f7d6e5bc8b28bd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517489aa131d83f7d6e5bc8b28bd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17889aa131d83f7d6e5bc8b28bd",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5dQn0so39tdfBeyqZtuZfc"
+  }
+}

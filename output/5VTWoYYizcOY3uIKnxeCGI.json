@@ -1,0 +1,36 @@
+{
+  "id": "5VTWoYYizcOY3uIKnxeCGI",
+  "name": "La Femme",
+  "uri": "spotify:artist:5VTWoYYizcOY3uIKnxeCGI",
+  "followers": {
+    "href": null,
+    "total": 500224
+  },
+  "genres": [
+    "french indie pop",
+    "french indietronica",
+    "french psychedelic",
+    "french rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb59312d9a56a1adf1437e69da",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517459312d9a56a1adf1437e69da",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17859312d9a56a1adf1437e69da",
+      "width": 160
+    }
+  ],
+  "popularity": 55,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+  }
+}

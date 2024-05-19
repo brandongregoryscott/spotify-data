@@ -1,0 +1,33 @@
+{
+  "id": "5fNV5ubt46GqUpyP7Mh4Ln",
+  "name": "Shirel",
+  "uri": "spotify:artist:5fNV5ubt46GqUpyP7Mh4Ln",
+  "followers": {
+    "href": null,
+    "total": 7855
+  },
+  "genres": [
+    "urbano chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb55e38d52d5269d425329ed19",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517455e38d52d5269d425329ed19",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17855e38d52d5269d425329ed19",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5eiOTJs5GumMzkfsd5V2p1",
+  "name": "Pat Reedy",
+  "uri": "spotify:artist:5eiOTJs5GumMzkfsd5V2p1",
+  "followers": {
+    "href": null,
+    "total": 2736
+  },
+  "genres": [
+    "roots americana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb19b7d5e138c7bfcec549b726",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517419b7d5e138c7bfcec549b726",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17819b7d5e138c7bfcec549b726",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5eiOTJs5GumMzkfsd5V2p1"
+  }
+}

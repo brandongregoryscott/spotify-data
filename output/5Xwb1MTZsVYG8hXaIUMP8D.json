@@ -1,0 +1,33 @@
+{
+  "id": "5Xwb1MTZsVYG8hXaIUMP8D",
+  "name": "Wohl",
+  "uri": "spotify:artist:5Xwb1MTZsVYG8hXaIUMP8D",
+  "followers": {
+    "href": null,
+    "total": 2747
+  },
+  "genres": [
+    "mexican post-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba808b022a0caed56454e851c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a808b022a0caed56454e851c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a808b022a0caed56454e851c",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Xwb1MTZsVYG8hXaIUMP8D"
+  }
+}

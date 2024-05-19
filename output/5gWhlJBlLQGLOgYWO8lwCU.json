@@ -1,0 +1,36 @@
+{
+  "id": "5gWhlJBlLQGLOgYWO8lwCU",
+  "name": "Saves The Day",
+  "uri": "spotify:artist:5gWhlJBlLQGLOgYWO8lwCU",
+  "followers": {
+    "href": null,
+    "total": 154223
+  },
+  "genres": [
+    "emo",
+    "new jersey hardcore",
+    "pop punk",
+    "post-hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb444f2c1db490540d57ef371d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174444f2c1db490540d57ef371d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178444f2c1db490540d57ef371d",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5gWhlJBlLQGLOgYWO8lwCU"
+  }
+}

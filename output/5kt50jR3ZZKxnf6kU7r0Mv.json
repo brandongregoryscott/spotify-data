@@ -1,0 +1,33 @@
+{
+  "id": "5kt50jR3ZZKxnf6kU7r0Mv",
+  "name": "Poor Tràmit",
+  "uri": "spotify:artist:5kt50jR3ZZKxnf6kU7r0Mv",
+  "followers": {
+    "href": null,
+    "total": 550
+  },
+  "genres": [
+    "rap catala"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb756a6b29f8c1e450bf32037f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174756a6b29f8c1e450bf32037f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178756a6b29f8c1e450bf32037f",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5kt50jR3ZZKxnf6kU7r0Mv"
+  }
+}

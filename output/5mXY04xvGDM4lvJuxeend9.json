@@ -1,0 +1,33 @@
+{
+  "id": "5mXY04xvGDM4lvJuxeend9",
+  "name": "KAF",
+  "uri": "spotify:artist:5mXY04xvGDM4lvJuxeend9",
+  "followers": {
+    "href": null,
+    "total": 116
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb89d294e8f0ffab6354674bb1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517489d294e8f0ffab6354674bb1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17889d294e8f0ffab6354674bb1",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5mXY04xvGDM4lvJuxeend9"
+  }
+}

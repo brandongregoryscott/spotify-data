@@ -1,0 +1,33 @@
+{
+  "id": "5VmzZIpW99ODDyHQPtI2Kw",
+  "name": "J Smith",
+  "uri": "spotify:artist:5VmzZIpW99ODDyHQPtI2Kw",
+  "followers": {
+    "href": null,
+    "total": 517
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb043e2f529cb71fce20449181",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174043e2f529cb71fce20449181",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178043e2f529cb71fce20449181",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5VmzZIpW99ODDyHQPtI2Kw"
+  }
+}

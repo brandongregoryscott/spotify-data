@@ -1,0 +1,33 @@
+{
+  "id": "5XoZp1EeBLUAiEyOqFdOEc",
+  "name": "omm..",
+  "uri": "spotify:artist:5XoZp1EeBLUAiEyOqFdOEc",
+  "followers": {
+    "href": null,
+    "total": 281
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb891c5b4cb982a12e9fb45150",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174891c5b4cb982a12e9fb45150",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178891c5b4cb982a12e9fb45150",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5XoZp1EeBLUAiEyOqFdOEc"
+  }
+}

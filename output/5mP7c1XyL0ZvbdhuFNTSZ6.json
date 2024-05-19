@@ -1,0 +1,33 @@
+{
+  "id": "5mP7c1XyL0ZvbdhuFNTSZ6",
+  "name": "Gregor Barnett",
+  "uri": "spotify:artist:5mP7c1XyL0ZvbdhuFNTSZ6",
+  "followers": {
+    "href": null,
+    "total": 4404
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebabbede4a5f1d5832521f34b6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174abbede4a5f1d5832521f34b6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178abbede4a5f1d5832521f34b6",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5mP7c1XyL0ZvbdhuFNTSZ6"
+  }
+}

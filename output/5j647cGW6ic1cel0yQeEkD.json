@@ -1,0 +1,33 @@
+{
+  "id": "5j647cGW6ic1cel0yQeEkD",
+  "name": "Second.",
+  "uri": "spotify:artist:5j647cGW6ic1cel0yQeEkD",
+  "followers": {
+    "href": null,
+    "total": 128
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731235f5dcfb22f7a7a9ecb5f6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021235f5dcfb22f7a7a9ecb5f6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511235f5dcfb22f7a7a9ecb5f6",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5j647cGW6ic1cel0yQeEkD"
+  }
+}

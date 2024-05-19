@@ -1,0 +1,33 @@
+{
+  "id": "5mz07eBvggoSxNyirvYhEj",
+  "name": "Nutty",
+  "uri": "spotify:artist:5mz07eBvggoSxNyirvYhEj",
+  "followers": {
+    "href": null,
+    "total": 831
+  },
+  "genres": [
+    "detroit hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27387d7dc5a4f6326b707abd47d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0287d7dc5a4f6326b707abd47d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485187d7dc5a4f6326b707abd47d",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5mz07eBvggoSxNyirvYhEj"
+  }
+}

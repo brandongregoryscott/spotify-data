@@ -1,0 +1,33 @@
+{
+  "id": "5cZMWasNrprJ3FeCvr1KWb",
+  "name": "Haliday",
+  "uri": "spotify:artist:5cZMWasNrprJ3FeCvr1KWb",
+  "followers": {
+    "href": null,
+    "total": 172
+  },
+  "genres": [
+    "adelaide indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1bbbd55d134e4a9adf566195",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051741bbbd55d134e4a9adf566195",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1781bbbd55d134e4a9adf566195",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5cZMWasNrprJ3FeCvr1KWb"
+  }
+}

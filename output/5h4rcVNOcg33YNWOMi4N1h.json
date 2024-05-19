@@ -1,0 +1,33 @@
+{
+  "id": "5h4rcVNOcg33YNWOMi4N1h",
+  "name": "onte",
+  "uri": "spotify:artist:5h4rcVNOcg33YNWOMi4N1h",
+  "followers": {
+    "href": null,
+    "total": 871
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebefe67aee4e4e9f068af15dc9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174efe67aee4e4e9f068af15dc9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178efe67aee4e4e9f068af15dc9",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5h4rcVNOcg33YNWOMi4N1h"
+  }
+}

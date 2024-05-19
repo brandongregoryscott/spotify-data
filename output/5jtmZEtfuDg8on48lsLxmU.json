@@ -1,0 +1,33 @@
+{
+  "id": "5jtmZEtfuDg8on48lsLxmU",
+  "name": "Tequendama",
+  "uri": "spotify:artist:5jtmZEtfuDg8on48lsLxmU",
+  "followers": {
+    "href": null,
+    "total": 1349
+  },
+  "genres": [
+    "colombian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb24d0d5196cb7f6420becba17",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517424d0d5196cb7f6420becba17",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17824d0d5196cb7f6420becba17",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU"
+  }
+}

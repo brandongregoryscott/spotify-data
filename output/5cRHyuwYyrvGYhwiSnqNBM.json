@@ -1,0 +1,35 @@
+{
+  "id": "5cRHyuwYyrvGYhwiSnqNBM",
+  "name": "Blinded Colony",
+  "uri": "spotify:artist:5cRHyuwYyrvGYhwiSnqNBM",
+  "followers": {
+    "href": null,
+    "total": 15789
+  },
+  "genres": [
+    "cyber metal",
+    "melodic death metal",
+    "swedish melodeath"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273424a725b8aa21fe97a4eb88a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02424a725b8aa21fe97a4eb88a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851424a725b8aa21fe97a4eb88a",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5cRHyuwYyrvGYhwiSnqNBM"
+  }
+}

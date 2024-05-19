@@ -1,0 +1,33 @@
+{
+  "id": "5d4kdwU7uEHb51W4JIV70e",
+  "name": "LV",
+  "uri": "spotify:artist:5d4kdwU7uEHb51W4JIV70e",
+  "followers": {
+    "href": null,
+    "total": 5124
+  },
+  "genres": [
+    "uk bass"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba7b47611c1164c530cf78028",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a7b47611c1164c530cf78028",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a7b47611c1164c530cf78028",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5d4kdwU7uEHb51W4JIV70e"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5fHIm4Oh9nf6MUzktOsYQX",
+  "name": "CRAVO",
+  "uri": "spotify:artist:5fHIm4Oh9nf6MUzktOsYQX",
+  "followers": {
+    "href": null,
+    "total": 936
+  },
+  "genres": [
+    "hardgroove"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735a606788b2cb58279007785a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025a606788b2cb58279007785a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515a606788b2cb58279007785a",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5fHIm4Oh9nf6MUzktOsYQX"
+  }
+}

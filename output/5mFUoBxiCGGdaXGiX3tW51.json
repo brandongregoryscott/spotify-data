@@ -1,0 +1,33 @@
+{
+  "id": "5mFUoBxiCGGdaXGiX3tW51",
+  "name": "Udigg",
+  "uri": "spotify:artist:5mFUoBxiCGGdaXGiX3tW51",
+  "followers": {
+    "href": null,
+    "total": 128
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27364ddad3ad4d1b7ff71dee891",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0264ddad3ad4d1b7ff71dee891",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485164ddad3ad4d1b7ff71dee891",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5mFUoBxiCGGdaXGiX3tW51"
+  }
+}

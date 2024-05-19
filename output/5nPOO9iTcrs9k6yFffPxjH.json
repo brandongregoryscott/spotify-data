@@ -1,0 +1,37 @@
+{
+  "id": "5nPOO9iTcrs9k6yFffPxjH",
+  "name": "Röyksopp",
+  "uri": "spotify:artist:5nPOO9iTcrs9k6yFffPxjH",
+  "followers": {
+    "href": null,
+    "total": 904933
+  },
+  "genres": [
+    "downtempo",
+    "electronica",
+    "indietronica",
+    "neo-synthpop",
+    "trip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb804f352e162347a18f6401fa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174804f352e162347a18f6401fa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178804f352e162347a18f6401fa",
+      "width": 160
+    }
+  ],
+  "popularity": 56,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5avPoNVfv1XYVpf59LRzYV",
+  "name": "R3D",
+  "uri": "spotify:artist:5avPoNVfv1XYVpf59LRzYV",
+  "followers": {
+    "href": null,
+    "total": 333
+  },
+  "genres": [
+    "irish hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf3dd485c5dce97b1b28ba8fb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f3dd485c5dce97b1b28ba8fb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f3dd485c5dce97b1b28ba8fb",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5avPoNVfv1XYVpf59LRzYV"
+  }
+}

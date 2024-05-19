@@ -1,0 +1,37 @@
+{
+  "id": "5gd8Tk70HlpZnwjNzJVA7D",
+  "name": "Internal Bleeding",
+  "uri": "spotify:artist:5gd8Tk70HlpZnwjNzJVA7D",
+  "followers": {
+    "href": null,
+    "total": 19731
+  },
+  "genres": [
+    "brutal death metal",
+    "deathgrind",
+    "goregrind",
+    "grindcore",
+    "new york death metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf19d66be790abede089662fb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f19d66be790abede089662fb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f19d66be790abede089662fb",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5gd8Tk70HlpZnwjNzJVA7D"
+  }
+}

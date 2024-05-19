@@ -1,0 +1,33 @@
+{
+  "id": "5X0Qkzq1UuIA61bUqbbDjs",
+  "name": "411",
+  "uri": "spotify:artist:5X0Qkzq1UuIA61bUqbbDjs",
+  "followers": {
+    "href": null,
+    "total": 1362
+  },
+  "genres": [
+    "california hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734f77a85b6bf5308c80559a59",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024f77a85b6bf5308c80559a59",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514f77a85b6bf5308c80559a59",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5X0Qkzq1UuIA61bUqbbDjs"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5jjBIALfsCzCpYozwGiaWB",
+  "name": "Matarreyes",
+  "uri": "spotify:artist:5jjBIALfsCzCpYozwGiaWB",
+  "followers": {
+    "href": null,
+    "total": 399
+  },
+  "genres": [
+    "argentine punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb89c9e2866c5df96afb71ba70",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517489c9e2866c5df96afb71ba70",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17889c9e2866c5df96afb71ba70",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5jjBIALfsCzCpYozwGiaWB"
+  }
+}

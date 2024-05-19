@@ -1,0 +1,33 @@
+{
+  "id": "5iObuPpXhQnJ40Pk2Ydkwr",
+  "name": "Los Shakers",
+  "uri": "spotify:artist:5iObuPpXhQnJ40Pk2Ydkwr",
+  "followers": {
+    "href": null,
+    "total": 11650
+  },
+  "genres": [
+    "rock nacional"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd419c52d1a80c2d5fb4238d7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d419c52d1a80c2d5fb4238d7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d419c52d1a80c2d5fb4238d7",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5iObuPpXhQnJ40Pk2Ydkwr"
+  }
+}

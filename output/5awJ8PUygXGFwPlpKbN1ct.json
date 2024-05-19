@@ -1,0 +1,34 @@
+{
+  "id": "5awJ8PUygXGFwPlpKbN1ct",
+  "name": "Lamentation",
+  "uri": "spotify:artist:5awJ8PUygXGFwPlpKbN1ct",
+  "followers": {
+    "href": null,
+    "total": 2926
+  },
+  "genres": [
+    "dungeon synth",
+    "keller synth"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731952bb291fe14b2c4526ad41",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021952bb291fe14b2c4526ad41",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511952bb291fe14b2c4526ad41",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5awJ8PUygXGFwPlpKbN1ct"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "5hHVMOYzctS2vbfWJ1s9hV",
+  "name": "alacartoona",
+  "uri": "spotify:artist:5hHVMOYzctS2vbfWJ1s9hV",
+  "followers": {
+    "href": null,
+    "total": 534
+  },
+  "genres": [
+    "dark cabaret",
+    "steampunk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cb49a2241fb7bb267bb70595",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cb49a2241fb7bb267bb70595",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cb49a2241fb7bb267bb70595",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5hHVMOYzctS2vbfWJ1s9hV"
+  }
+}

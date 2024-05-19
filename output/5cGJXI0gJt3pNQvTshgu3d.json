@@ -1,0 +1,33 @@
+{
+  "id": "5cGJXI0gJt3pNQvTshgu3d",
+  "name": "Mirua",
+  "uri": "spotify:artist:5cGJXI0gJt3pNQvTshgu3d",
+  "followers": {
+    "href": null,
+    "total": 1448
+  },
+  "genres": [
+    "euskal musica"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf75af67ff878d22b269ca55d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f75af67ff878d22b269ca55d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f75af67ff878d22b269ca55d",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5cGJXI0gJt3pNQvTshgu3d"
+  }
+}

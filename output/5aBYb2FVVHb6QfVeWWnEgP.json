@@ -1,0 +1,33 @@
+{
+  "id": "5aBYb2FVVHb6QfVeWWnEgP",
+  "name": "Hos Solo",
+  "uri": "spotify:artist:5aBYb2FVVHb6QfVeWWnEgP",
+  "followers": {
+    "href": null,
+    "total": 262
+  },
+  "genres": [
+    "nerdcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e757af62397467c5c4af0cc9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e757af62397467c5c4af0cc9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e757af62397467c5c4af0cc9",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5aBYb2FVVHb6QfVeWWnEgP"
+  }
+}

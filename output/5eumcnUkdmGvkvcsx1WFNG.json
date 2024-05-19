@@ -1,0 +1,33 @@
+{
+  "id": "5eumcnUkdmGvkvcsx1WFNG",
+  "name": "Tito Double P",
+  "uri": "spotify:artist:5eumcnUkdmGvkvcsx1WFNG",
+  "followers": {
+    "href": null,
+    "total": 871169
+  },
+  "genres": [
+    "corrido"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb55cd7a947156364649bd657b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517455cd7a947156364649bd657b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17855cd7a947156364649bd657b",
+      "width": 160
+    }
+  ],
+  "popularity": 73,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+  }
+}

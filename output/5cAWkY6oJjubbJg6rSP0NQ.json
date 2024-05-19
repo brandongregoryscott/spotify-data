@@ -1,0 +1,33 @@
+{
+  "id": "5cAWkY6oJjubbJg6rSP0NQ",
+  "name": "Jaaxx",
+  "uri": "spotify:artist:5cAWkY6oJjubbJg6rSP0NQ",
+  "followers": {
+    "href": null,
+    "total": 1926
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba145c439156127ed6107db8a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a145c439156127ed6107db8a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a145c439156127ed6107db8a",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5cAWkY6oJjubbJg6rSP0NQ"
+  }
+}

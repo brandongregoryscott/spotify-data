@@ -1,0 +1,33 @@
+{
+  "id": "5ZGsYng7qMLrw196JPscDF",
+  "name": "Nina Grae",
+  "uri": "spotify:artist:5ZGsYng7qMLrw196JPscDF",
+  "followers": {
+    "href": null,
+    "total": 1023
+  },
+  "genres": [
+    "high vibe"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbfbfabf20b08b87897233fc1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bfbfabf20b08b87897233fc1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bfbfabf20b08b87897233fc1",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ZGsYng7qMLrw196JPscDF"
+  }
+}
