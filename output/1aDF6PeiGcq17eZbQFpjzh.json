@@ -1,0 +1,33 @@
+{
+  "id": "1aDF6PeiGcq17eZbQFpjzh",
+  "name": "Tri Ente",
+  "uri": "spotify:artist:1aDF6PeiGcq17eZbQFpjzh",
+  "followers": {
+    "href": null,
+    "total": 40
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bdf4ecd1006df2e1b3ce0a89",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bdf4ecd1006df2e1b3ce0a89",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bdf4ecd1006df2e1b3ce0a89",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1aDF6PeiGcq17eZbQFpjzh"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1OwVtvxn4M0A39QhzMZjdB",
+  "name": "Famous for a Day",
+  "uri": "spotify:artist:1OwVtvxn4M0A39QhzMZjdB",
+  "followers": {
+    "href": null,
+    "total": 341
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdf5ba7315af1f90919f4b78d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174df5ba7315af1f90919f4b78d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178df5ba7315af1f90919f4b78d",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1OwVtvxn4M0A39QhzMZjdB"
+  }
+}

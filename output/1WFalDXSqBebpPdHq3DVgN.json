@@ -1,0 +1,33 @@
+{
+  "id": "1WFalDXSqBebpPdHq3DVgN",
+  "name": "Jim Schmidt",
+  "uri": "spotify:artist:1WFalDXSqBebpPdHq3DVgN",
+  "followers": {
+    "href": null,
+    "total": 530
+  },
+  "genres": [
+    "deep soft rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737c30f4924ca31fa33280e7ed",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027c30f4924ca31fa33280e7ed",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517c30f4924ca31fa33280e7ed",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1WFalDXSqBebpPdHq3DVgN"
+  }
+}

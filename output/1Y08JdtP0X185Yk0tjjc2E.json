@@ -1,0 +1,33 @@
+{
+  "id": "1Y08JdtP0X185Yk0tjjc2E",
+  "name": "Rio",
+  "uri": "spotify:artist:1Y08JdtP0X185Yk0tjjc2E",
+  "followers": {
+    "href": null,
+    "total": 95988
+  },
+  "genres": [
+    "peruvian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd89d942342cb107e3fbee016",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d89d942342cb107e3fbee016",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d89d942342cb107e3fbee016",
+      "width": 160
+    }
+  ],
+  "popularity": 46,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+  }
+}

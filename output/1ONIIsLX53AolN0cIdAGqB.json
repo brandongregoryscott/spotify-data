@@ -1,0 +1,33 @@
+{
+  "id": "1ONIIsLX53AolN0cIdAGqB",
+  "name": "calvy",
+  "uri": "spotify:artist:1ONIIsLX53AolN0cIdAGqB",
+  "followers": {
+    "href": null,
+    "total": 25
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d3dd6277e4c9d31abe9d6e40",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d3dd6277e4c9d31abe9d6e40",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d3dd6277e4c9d31abe9d6e40",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ONIIsLX53AolN0cIdAGqB"
+  }
+}

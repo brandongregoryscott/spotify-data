@@ -1,0 +1,33 @@
+{
+  "id": "1X7TDAtRIVLctdilY2pyGn",
+  "name": "Clozure",
+  "uri": "spotify:artist:1X7TDAtRIVLctdilY2pyGn",
+  "followers": {
+    "href": null,
+    "total": 2260
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb45810e3ec4766529e9f29b26",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517445810e3ec4766529e9f29b26",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17845810e3ec4766529e9f29b26",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1X7TDAtRIVLctdilY2pyGn"
+  }
+}

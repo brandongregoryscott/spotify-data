@@ -1,0 +1,33 @@
+{
+  "id": "1a2sevet7eywEYpJvk4ilq",
+  "name": "Corrosive",
+  "uri": "spotify:artist:1a2sevet7eywEYpJvk4ilq",
+  "followers": {
+    "href": null,
+    "total": 1365
+  },
+  "genres": [
+    "metalcore espanol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd65a3ac14367624fbc7a505d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d65a3ac14367624fbc7a505d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d65a3ac14367624fbc7a505d",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1a2sevet7eywEYpJvk4ilq"
+  }
+}

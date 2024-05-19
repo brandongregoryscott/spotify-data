@@ -1,0 +1,33 @@
+{
+  "id": "1XLVcm7k2yCLESQuZCPsYc",
+  "name": "RYHOR",
+  "uri": "spotify:artist:1XLVcm7k2yCLESQuZCPsYc",
+  "followers": {
+    "href": null,
+    "total": 323
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba2c127d13c07487c3832669f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a2c127d13c07487c3832669f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a2c127d13c07487c3832669f",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1XLVcm7k2yCLESQuZCPsYc"
+  }
+}

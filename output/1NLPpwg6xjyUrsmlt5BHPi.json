@@ -1,0 +1,33 @@
+{
+  "id": "1NLPpwg6xjyUrsmlt5BHPi",
+  "name": "kidu",
+  "uri": "spotify:artist:1NLPpwg6xjyUrsmlt5BHPi",
+  "followers": {
+    "href": null,
+    "total": 204
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf540feea58b2620f957122c3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f540feea58b2620f957122c3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f540feea58b2620f957122c3",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1NLPpwg6xjyUrsmlt5BHPi"
+  }
+}

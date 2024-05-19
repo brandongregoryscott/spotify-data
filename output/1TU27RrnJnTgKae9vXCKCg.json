@@ -1,0 +1,33 @@
+{
+  "id": "1TU27RrnJnTgKae9vXCKCg",
+  "name": "Alex Lewis",
+  "uri": "spotify:artist:1TU27RrnJnTgKae9vXCKCg",
+  "followers": {
+    "href": null,
+    "total": 1028
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb30a8f391eeec24993378df62",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517430a8f391eeec24993378df62",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17830a8f391eeec24993378df62",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1TU27RrnJnTgKae9vXCKCg"
+  }
+}

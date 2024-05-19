@@ -1,0 +1,33 @@
+{
+  "id": "1VjgVjThC1RxttpTp9kT0i",
+  "name": "Daron.",
+  "uri": "spotify:artist:1VjgVjThC1RxttpTp9kT0i",
+  "followers": {
+    "href": null,
+    "total": 623
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb330c20cfd8a04fd19f165d2d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174330c20cfd8a04fd19f165d2d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178330c20cfd8a04fd19f165d2d",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1VjgVjThC1RxttpTp9kT0i"
+  }
+}

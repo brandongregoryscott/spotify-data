@@ -1,0 +1,34 @@
+{
+  "id": "1Zvsa9efHLGTxnRqqPuaTr",
+  "name": "Chamberlain",
+  "uri": "spotify:artist:1Zvsa9efHLGTxnRqqPuaTr",
+  "followers": {
+    "href": null,
+    "total": 7123
+  },
+  "genres": [
+    "emo punk",
+    "indie emo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc664156c76e095ec84f2cde8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c664156c76e095ec84f2cde8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c664156c76e095ec84f2cde8",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Zvsa9efHLGTxnRqqPuaTr"
+  }
+}

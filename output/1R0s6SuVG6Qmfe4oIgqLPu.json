@@ -1,0 +1,34 @@
+{
+  "id": "1R0s6SuVG6Qmfe4oIgqLPu",
+  "name": "shxpe",
+  "uri": "spotify:artist:1R0s6SuVG6Qmfe4oIgqLPu",
+  "followers": {
+    "href": null,
+    "total": 3960
+  },
+  "genres": [
+    "hardwave",
+    "wave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb93c4994affda02659fec29bc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517493c4994affda02659fec29bc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17893c4994affda02659fec29bc",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1R0s6SuVG6Qmfe4oIgqLPu"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1aBfOtzFVDQJX4O44f2r0a",
+  "name": "天野花",
+  "uri": "spotify:artist:1aBfOtzFVDQJX4O44f2r0a",
+  "followers": {
+    "href": null,
+    "total": 357
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb42600ca501cddfcb859230df",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517442600ca501cddfcb859230df",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17842600ca501cddfcb859230df",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1aBfOtzFVDQJX4O44f2r0a"
+  }
+}

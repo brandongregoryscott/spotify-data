@@ -1,0 +1,34 @@
+{
+  "id": "1KlihEB7FggW8e9cMbPXAz",
+  "name": "Milburn",
+  "uri": "spotify:artist:1KlihEB7FggW8e9cMbPXAz",
+  "followers": {
+    "href": null,
+    "total": 43704
+  },
+  "genres": [
+    "english indie rock",
+    "sheffield indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb67d8d79858d515da061c832d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517467d8d79858d515da061c832d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17867d8d79858d515da061c832d",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1KlihEB7FggW8e9cMbPXAz"
+  }
+}

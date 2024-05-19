@@ -1,0 +1,33 @@
+{
+  "id": "1Wh8pY150ipZZ08AZfEstz",
+  "name": "RIVA.852",
+  "uri": "spotify:artist:1Wh8pY150ipZZ08AZfEstz",
+  "followers": {
+    "href": null,
+    "total": 532
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb094a6a3fd5be059ff4dceffa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174094a6a3fd5be059ff4dceffa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178094a6a3fd5be059ff4dceffa",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Wh8pY150ipZZ08AZfEstz"
+  }
+}

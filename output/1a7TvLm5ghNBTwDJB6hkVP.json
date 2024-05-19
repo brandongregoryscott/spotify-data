@@ -1,0 +1,33 @@
+{
+  "id": "1a7TvLm5ghNBTwDJB6hkVP",
+  "name": "So Nice",
+  "uri": "spotify:artist:1a7TvLm5ghNBTwDJB6hkVP",
+  "followers": {
+    "href": null,
+    "total": 591
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731ec50de88ed27fa173897b60",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021ec50de88ed27fa173897b60",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511ec50de88ed27fa173897b60",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1a7TvLm5ghNBTwDJB6hkVP"
+  }
+}

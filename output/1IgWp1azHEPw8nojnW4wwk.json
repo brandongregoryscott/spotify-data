@@ -1,0 +1,33 @@
+{
+  "id": "1IgWp1azHEPw8nojnW4wwk",
+  "name": "lilgalamb",
+  "uri": "spotify:artist:1IgWp1azHEPw8nojnW4wwk",
+  "followers": {
+    "href": null,
+    "total": 177
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb52c281711688f6fef61c8825",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517452c281711688f6fef61c8825",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17852c281711688f6fef61c8825",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1IgWp1azHEPw8nojnW4wwk"
+  }
+}

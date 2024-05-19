@@ -1,0 +1,33 @@
+{
+  "id": "1JcyA6ansWvkIxKhBkgKnQ",
+  "name": "Code Rising",
+  "uri": "spotify:artist:1JcyA6ansWvkIxKhBkgKnQ",
+  "followers": {
+    "href": null,
+    "total": 513
+  },
+  "genres": [
+    "nu electro"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb65edcf2a711934a75199fbcf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517465edcf2a711934a75199fbcf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17865edcf2a711934a75199fbcf",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1JcyA6ansWvkIxKhBkgKnQ"
+  }
+}

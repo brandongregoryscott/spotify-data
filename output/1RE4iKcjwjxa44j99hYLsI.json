@@ -1,0 +1,34 @@
+{
+  "id": "1RE4iKcjwjxa44j99hYLsI",
+  "name": "Dave Richmond",
+  "uri": "spotify:artist:1RE4iKcjwjxa44j99hYLsI",
+  "followers": {
+    "href": null,
+    "total": 647
+  },
+  "genres": [
+    "library music",
+    "spytrack"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734275426d6318739057b7ffdd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024275426d6318739057b7ffdd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514275426d6318739057b7ffdd",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1RE4iKcjwjxa44j99hYLsI"
+  }
+}

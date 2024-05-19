@@ -1,0 +1,33 @@
+{
+  "id": "1S0bYeOrDYW7r476AOPemA",
+  "name": "Allwax",
+  "uri": "spotify:artist:1S0bYeOrDYW7r476AOPemA",
+  "followers": {
+    "href": null,
+    "total": 147
+  },
+  "genres": [
+    "texasgaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb879e668a14bc3e32a2ac97ab",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174879e668a14bc3e32a2ac97ab",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178879e668a14bc3e32a2ac97ab",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1S0bYeOrDYW7r476AOPemA"
+  }
+}

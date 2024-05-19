@@ -1,0 +1,35 @@
+{
+  "id": "1W1k6LUPDR0l4zwvKR4YLI",
+  "name": "Curumin",
+  "uri": "spotify:artist:1W1k6LUPDR0l4zwvKR4YLI",
+  "followers": {
+    "href": null,
+    "total": 77631
+  },
+  "genres": [
+    "brazilian indie",
+    "manguebeat",
+    "nova mpb"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb9475db39f552eba45e429ea",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b9475db39f552eba45e429ea",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b9475db39f552eba45e429ea",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI"
+  }
+}

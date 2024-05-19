@@ -1,0 +1,33 @@
+{
+  "id": "1O84nxNWG8eZ5ioqpJ5Vfn",
+  "name": "TMI",
+  "uri": "spotify:artist:1O84nxNWG8eZ5ioqpJ5Vfn",
+  "followers": {
+    "href": null,
+    "total": 84
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5b3de710e4d32ecc58c9ed70",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051745b3de710e4d32ecc58c9ed70",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1785b3de710e4d32ecc58c9ed70",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1O84nxNWG8eZ5ioqpJ5Vfn"
+  }
+}

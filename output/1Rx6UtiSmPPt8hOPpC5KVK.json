@@ -1,0 +1,34 @@
+{
+  "id": "1Rx6UtiSmPPt8hOPpC5KVK",
+  "name": "Marco Tamayo",
+  "uri": "spotify:artist:1Rx6UtiSmPPt8hOPpC5KVK",
+  "followers": {
+    "href": null,
+    "total": 1252
+  },
+  "genres": [
+    "classical guitar",
+    "guitarra clasica"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732bdc2b4c52043c438db8d58e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022bdc2b4c52043c438db8d58e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512bdc2b4c52043c438db8d58e",
+      "width": 64
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Rx6UtiSmPPt8hOPpC5KVK"
+  }
+}

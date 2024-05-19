@@ -1,0 +1,33 @@
+{
+  "id": "1bDvbdoXmoLirB6TWlwSf4",
+  "name": "T.U.G.",
+  "uri": "spotify:artist:1bDvbdoXmoLirB6TWlwSf4",
+  "followers": {
+    "href": null,
+    "total": 433
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d20dd5cbcbd6c6c286105322",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d20dd5cbcbd6c6c286105322",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d20dd5cbcbd6c6c286105322",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1bDvbdoXmoLirB6TWlwSf4"
+  }
+}

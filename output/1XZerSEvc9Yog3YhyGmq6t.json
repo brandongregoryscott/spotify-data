@@ -1,0 +1,33 @@
+{
+  "id": "1XZerSEvc9Yog3YhyGmq6t",
+  "name": "Dramah",
+  "uri": "spotify:artist:1XZerSEvc9Yog3YhyGmq6t",
+  "followers": {
+    "href": null,
+    "total": 402
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebab046eba3ef4481c8c14ad20",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ab046eba3ef4481c8c14ad20",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ab046eba3ef4481c8c14ad20",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1XZerSEvc9Yog3YhyGmq6t"
+  }
+}

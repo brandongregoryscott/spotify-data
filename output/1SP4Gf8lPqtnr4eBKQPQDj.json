@@ -1,0 +1,33 @@
+{
+  "id": "1SP4Gf8lPqtnr4eBKQPQDj",
+  "name": "Sgt. Pepper's Band",
+  "uri": "spotify:artist:1SP4Gf8lPqtnr4eBKQPQDj",
+  "followers": {
+    "href": null,
+    "total": 644
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273df750bef6283e9226fb07aca",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02df750bef6283e9226fb07aca",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851745db5f1ecab901b5bb91f5c",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1SP4Gf8lPqtnr4eBKQPQDj"
+  }
+}

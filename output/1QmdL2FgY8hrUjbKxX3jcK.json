@@ -1,0 +1,33 @@
+{
+  "id": "1QmdL2FgY8hrUjbKxX3jcK",
+  "name": "Alejandro Albarrán",
+  "uri": "spotify:artist:1QmdL2FgY8hrUjbKxX3jcK",
+  "followers": {
+    "href": null,
+    "total": 315
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba2041a29caeafa3f6299d51a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a2041a29caeafa3f6299d51a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a2041a29caeafa3f6299d51a",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1QmdL2FgY8hrUjbKxX3jcK"
+  }
+}

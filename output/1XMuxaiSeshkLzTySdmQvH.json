@@ -1,0 +1,33 @@
+{
+  "id": "1XMuxaiSeshkLzTySdmQvH",
+  "name": "NEXT",
+  "uri": "spotify:artist:1XMuxaiSeshkLzTySdmQvH",
+  "followers": {
+    "href": null,
+    "total": 3295
+  },
+  "genres": [
+    "punk mexicano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebea939b86db8e14e3a8ed006d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ea939b86db8e14e3a8ed006d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ea939b86db8e14e3a8ed006d",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1XMuxaiSeshkLzTySdmQvH"
+  }
+}

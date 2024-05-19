@@ -1,0 +1,33 @@
+{
+  "id": "1a5CEm7536dM4f2XvWnRr6",
+  "name": "Anareta",
+  "uri": "spotify:artist:1a5CEm7536dM4f2XvWnRr6",
+  "followers": {
+    "href": null,
+    "total": 1024
+  },
+  "genres": [
+    "rabm"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ad3767c405f69fcd31a7c88b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ad3767c405f69fcd31a7c88b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ad3767c405f69fcd31a7c88b",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1a5CEm7536dM4f2XvWnRr6"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1OuiI4SGZlkzDcR2dHz5JV",
+  "name": "Typheni",
+  "uri": "spotify:artist:1OuiI4SGZlkzDcR2dHz5JV",
+  "followers": {
+    "href": null,
+    "total": 107
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27355c8295b43d2c64d11ce4d53",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0255c8295b43d2c64d11ce4d53",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485155c8295b43d2c64d11ce4d53",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1OuiI4SGZlkzDcR2dHz5JV"
+  }
+}

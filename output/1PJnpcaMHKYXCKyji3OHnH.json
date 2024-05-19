@@ -1,0 +1,33 @@
+{
+  "id": "1PJnpcaMHKYXCKyji3OHnH",
+  "name": "Musumba",
+  "uri": "spotify:artist:1PJnpcaMHKYXCKyji3OHnH",
+  "followers": {
+    "href": null,
+    "total": 3985
+  },
+  "genres": [
+    "gospel r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc79cd30d4d3baf5b802ee084",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c79cd30d4d3baf5b802ee084",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c79cd30d4d3baf5b802ee084",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1PJnpcaMHKYXCKyji3OHnH"
+  }
+}

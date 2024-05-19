@@ -1,0 +1,33 @@
+{
+  "id": "1XzK5UwJqbx3JzB7eGwEfU",
+  "name": "AND:RAY",
+  "uri": "spotify:artist:1XzK5UwJqbx3JzB7eGwEfU",
+  "followers": {
+    "href": null,
+    "total": 51
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebef16e5caf1c0e8fa72b29c51",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ef16e5caf1c0e8fa72b29c51",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ef16e5caf1c0e8fa72b29c51",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1XzK5UwJqbx3JzB7eGwEfU"
+  }
+}

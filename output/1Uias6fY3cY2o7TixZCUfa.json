@@ -1,0 +1,33 @@
+{
+  "id": "1Uias6fY3cY2o7TixZCUfa",
+  "name": "Los Simones",
+  "uri": "spotify:artist:1Uias6fY3cY2o7TixZCUfa",
+  "followers": {
+    "href": null,
+    "total": 106
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb38c47bb6da04f99cd5804d08",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517438c47bb6da04f99cd5804d08",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17838c47bb6da04f99cd5804d08",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Uias6fY3cY2o7TixZCUfa"
+  }
+}

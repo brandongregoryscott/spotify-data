@@ -1,0 +1,33 @@
+{
+  "id": "1JhlETdhdzDY4nxmPo2NgM",
+  "name": "Jinx",
+  "uri": "spotify:artist:1JhlETdhdzDY4nxmPo2NgM",
+  "followers": {
+    "href": null,
+    "total": 306
+  },
+  "genres": [
+    "chillsynth"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc6290a76ffd0a0f4138ab3a3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c6290a76ffd0a0f4138ab3a3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c6290a76ffd0a0f4138ab3a3",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1JhlETdhdzDY4nxmPo2NgM"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1bBmQS4lKDqKV6KU4EMIr4",
+  "name": "James E. Gray",
+  "uri": "spotify:artist:1bBmQS4lKDqKV6KU4EMIr4",
+  "followers": {
+    "href": null,
+    "total": 1416
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdd98dfbc4f194246cb106b87",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dd98dfbc4f194246cb106b87",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dd98dfbc4f194246cb106b87",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1bBmQS4lKDqKV6KU4EMIr4"
+  }
+}

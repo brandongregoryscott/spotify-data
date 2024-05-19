@@ -1,0 +1,36 @@
+{
+  "id": "1IueXOQyABrMOprrzwQJWN",
+  "name": "Sigala",
+  "uri": "spotify:artist:1IueXOQyABrMOprrzwQJWN",
+  "followers": {
+    "href": null,
+    "total": 1554510
+  },
+  "genres": [
+    "dance pop",
+    "edm",
+    "pop dance",
+    "uk dance"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb676cabffde9eb5b921355358",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174676cabffde9eb5b921355358",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178676cabffde9eb5b921355358",
+      "width": 160
+    }
+  ],
+  "popularity": 65,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+  }
+}

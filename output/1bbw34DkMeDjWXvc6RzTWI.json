@@ -1,0 +1,33 @@
+{
+  "id": "1bbw34DkMeDjWXvc6RzTWI",
+  "name": "Hardship",
+  "uri": "spotify:artist:1bbw34DkMeDjWXvc6RzTWI",
+  "followers": {
+    "href": null,
+    "total": 245
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfe3d95a6be94327d7c3ba7a1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fe3d95a6be94327d7c3ba7a1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fe3d95a6be94327d7c3ba7a1",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1bbw34DkMeDjWXvc6RzTWI"
+  }
+}

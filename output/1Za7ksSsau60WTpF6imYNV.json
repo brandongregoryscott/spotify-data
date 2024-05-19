@@ -1,0 +1,33 @@
+{
+  "id": "1Za7ksSsau60WTpF6imYNV",
+  "name": "Joshua Conrad",
+  "uri": "spotify:artist:1Za7ksSsau60WTpF6imYNV",
+  "followers": {
+    "href": null,
+    "total": 20
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8187badc6ce18747205eabc6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051748187badc6ce18747205eabc6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1788187badc6ce18747205eabc6",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Za7ksSsau60WTpF6imYNV"
+  }
+}
