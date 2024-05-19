@@ -1,0 +1,33 @@
+{
+  "id": "4ikEyBjWcq8EYyTjmrsu1s",
+  "name": "gaogao",
+  "uri": "spotify:artist:4ikEyBjWcq8EYyTjmrsu1s",
+  "followers": {
+    "href": null,
+    "total": 1414
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebab83ab04c6dad62f57848a6b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ab83ab04c6dad62f57848a6b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ab83ab04c6dad62f57848a6b",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4ikEyBjWcq8EYyTjmrsu1s"
+  }
+}

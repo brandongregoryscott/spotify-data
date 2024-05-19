@@ -1,0 +1,33 @@
+{
+  "id": "4ZOz8kmPyhjLI3mga4AuhP",
+  "name": "Ellington",
+  "uri": "spotify:artist:4ZOz8kmPyhjLI3mga4AuhP",
+  "followers": {
+    "href": null,
+    "total": 2502
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb95a674f4179d428ff0e77a32",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517495a674f4179d428ff0e77a32",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17895a674f4179d428ff0e77a32",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4ZOz8kmPyhjLI3mga4AuhP"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "4nymPwNq7Y6i1tVs1d9WVB",
+  "name": "The Free Design",
+  "uri": "spotify:artist:4nymPwNq7Y6i1tVs1d9WVB",
+  "followers": {
+    "href": null,
+    "total": 21558
+  },
+  "genres": [
+    "baroque pop",
+    "sunshine pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ac8db241d49d33d22d3e740b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ac8db241d49d33d22d3e740b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ac8db241d49d33d22d3e740b",
+      "width": 64
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4nymPwNq7Y6i1tVs1d9WVB"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4XHkij3ji5bF2yNLngI24u",
+  "name": "Cole Hammer",
+  "uri": "spotify:artist:4XHkij3ji5bF2yNLngI24u",
+  "followers": {
+    "href": null,
+    "total": 82
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb81d4fe9dbefa7cb796cf34cb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517481d4fe9dbefa7cb796cf34cb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17881d4fe9dbefa7cb796cf34cb",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4XHkij3ji5bF2yNLngI24u"
+  }
+}

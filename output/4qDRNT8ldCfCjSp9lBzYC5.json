@@ -1,0 +1,33 @@
+{
+  "id": "4qDRNT8ldCfCjSp9lBzYC5",
+  "name": "Joel De La P",
+  "uri": "spotify:artist:4qDRNT8ldCfCjSp9lBzYC5",
+  "followers": {
+    "href": null,
+    "total": 99892
+  },
+  "genres": [
+    "corrido"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb13094a934d1be909fa36acc5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517413094a934d1be909fa36acc5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17813094a934d1be909fa36acc5",
+      "width": 160
+    }
+  ],
+  "popularity": 70,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+  }
+}

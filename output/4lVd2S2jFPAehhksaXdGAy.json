@@ -1,0 +1,33 @@
+{
+  "id": "4lVd2S2jFPAehhksaXdGAy",
+  "name": "Indoor Creature",
+  "uri": "spotify:artist:4lVd2S2jFPAehhksaXdGAy",
+  "followers": {
+    "href": null,
+    "total": 1772
+  },
+  "genres": [
+    "austindie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbc942705a16c996e506223cb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bc942705a16c996e506223cb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bc942705a16c996e506223cb",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4lVd2S2jFPAehhksaXdGAy"
+  }
+}

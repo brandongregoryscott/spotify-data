@@ -1,0 +1,33 @@
+{
+  "id": "4aFzr0mvvbIWMFFjUE5nfg",
+  "name": "Tony Davis",
+  "uri": "spotify:artist:4aFzr0mvvbIWMFFjUE5nfg",
+  "followers": {
+    "href": null,
+    "total": 23
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcc56476634ab676e9fccefa9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cc56476634ab676e9fccefa9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cc56476634ab676e9fccefa9",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4aFzr0mvvbIWMFFjUE5nfg"
+  }
+}

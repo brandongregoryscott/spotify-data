@@ -1,0 +1,33 @@
+{
+  "id": "4dwFum8FcE7dk3vpGbPFBb",
+  "name": "Gibby",
+  "uri": "spotify:artist:4dwFum8FcE7dk3vpGbPFBb",
+  "followers": {
+    "href": null,
+    "total": 1127
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb216cec4d832d42bb26fdf03f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174216cec4d832d42bb26fdf03f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178216cec4d832d42bb26fdf03f",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4dwFum8FcE7dk3vpGbPFBb"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4jNtLbm8Q4mqNB9oTvW51c",
+  "name": "norway2",
+  "uri": "spotify:artist:4jNtLbm8Q4mqNB9oTvW51c",
+  "followers": {
+    "href": null,
+    "total": 75
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734a9ac90134b67797def3a1ee",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024a9ac90134b67797def3a1ee",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514a9ac90134b67797def3a1ee",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4jNtLbm8Q4mqNB9oTvW51c"
+  }
+}

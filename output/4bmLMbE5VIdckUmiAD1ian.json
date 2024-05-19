@@ -1,0 +1,33 @@
+{
+  "id": "4bmLMbE5VIdckUmiAD1ian",
+  "name": "Fungi Flows",
+  "uri": "spotify:artist:4bmLMbE5VIdckUmiAD1ian",
+  "followers": {
+    "href": null,
+    "total": 782
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb22b2c7639bf7491f6fedacc9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517422b2c7639bf7491f6fedacc9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17822b2c7639bf7491f6fedacc9",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4bmLMbE5VIdckUmiAD1ian"
+  }
+}

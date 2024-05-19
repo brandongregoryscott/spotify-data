@@ -1,0 +1,33 @@
+{
+  "id": "4ZBh1rS98mwTgNrwpoTbVO",
+  "name": "MY SHOES MY CAP",
+  "uri": "spotify:artist:4ZBh1rS98mwTgNrwpoTbVO",
+  "followers": {
+    "href": null,
+    "total": 200
+  },
+  "genres": [
+    "japanese ska"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273806ea49558f260a94dcb5103",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02806ea49558f260a94dcb5103",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851806ea49558f260a94dcb5103",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4ZBh1rS98mwTgNrwpoTbVO"
+  }
+}

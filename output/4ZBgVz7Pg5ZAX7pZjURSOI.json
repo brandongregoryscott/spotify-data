@@ -1,0 +1,34 @@
+{
+  "id": "4ZBgVz7Pg5ZAX7pZjURSOI",
+  "name": "Entheos",
+  "uri": "spotify:artist:4ZBgVz7Pg5ZAX7pZjURSOI",
+  "followers": {
+    "href": null,
+    "total": 49171
+  },
+  "genres": [
+    "progressive death metal",
+    "slayer"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebba65d733f9f5a5cf2213df35",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ba65d733f9f5a5cf2213df35",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ba65d733f9f5a5cf2213df35",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4ZBgVz7Pg5ZAX7pZjURSOI"
+  }
+}

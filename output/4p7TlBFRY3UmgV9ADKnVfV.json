@@ -1,0 +1,33 @@
+{
+  "id": "4p7TlBFRY3UmgV9ADKnVfV",
+  "name": "The Jackdaw",
+  "uri": "spotify:artist:4p7TlBFRY3UmgV9ADKnVfV",
+  "followers": {
+    "href": null,
+    "total": 952
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb873db4e5f9ed39a14adf5db6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174873db4e5f9ed39a14adf5db6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178873db4e5f9ed39a14adf5db6",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4p7TlBFRY3UmgV9ADKnVfV"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4mxJO1F1ExlHe8jTtQV18r",
+  "name": "DEB",
+  "uri": "spotify:artist:4mxJO1F1ExlHe8jTtQV18r",
+  "followers": {
+    "href": null,
+    "total": 268
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeb8dd6dec48b6eb80adcec3a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eb8dd6dec48b6eb80adcec3a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eb8dd6dec48b6eb80adcec3a",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4mxJO1F1ExlHe8jTtQV18r"
+  }
+}

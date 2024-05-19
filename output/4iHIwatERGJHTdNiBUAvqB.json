@@ -1,0 +1,33 @@
+{
+  "id": "4iHIwatERGJHTdNiBUAvqB",
+  "name": "Landry",
+  "uri": "spotify:artist:4iHIwatERGJHTdNiBUAvqB",
+  "followers": {
+    "href": null,
+    "total": 1428
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb73ee4b974a103e63ea2f748c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517473ee4b974a103e63ea2f748c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17873ee4b974a103e63ea2f748c",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4iHIwatERGJHTdNiBUAvqB"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4pKh0MLi1NSqUyaF6BAbmX",
+  "name": "Pankky",
+  "uri": "spotify:artist:4pKh0MLi1NSqUyaF6BAbmX",
+  "followers": {
+    "href": null,
+    "total": 1748
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb88d36c4bf7dfaf16c69054d7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517488d36c4bf7dfaf16c69054d7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17888d36c4bf7dfaf16c69054d7",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4pKh0MLi1NSqUyaF6BAbmX"
+  }
+}

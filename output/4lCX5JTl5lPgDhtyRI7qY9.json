@@ -1,0 +1,33 @@
+{
+  "id": "4lCX5JTl5lPgDhtyRI7qY9",
+  "name": "The Firi",
+  "uri": "spotify:artist:4lCX5JTl5lPgDhtyRI7qY9",
+  "followers": {
+    "href": null,
+    "total": 5955
+  },
+  "genres": [
+    "trap peruano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf69c233e72e2983bbfff2637",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f69c233e72e2983bbfff2637",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f69c233e72e2983bbfff2637",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4lCX5JTl5lPgDhtyRI7qY9"
+  }
+}

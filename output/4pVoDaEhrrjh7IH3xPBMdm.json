@@ -1,0 +1,34 @@
+{
+  "id": "4pVoDaEhrrjh7IH3xPBMdm",
+  "name": "The Brogues",
+  "uri": "spotify:artist:4pVoDaEhrrjh7IH3xPBMdm",
+  "followers": {
+    "href": null,
+    "total": 3323
+  },
+  "genres": [
+    "classic garage rock",
+    "freakbeat"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cf2d3715ec80fc05f8e990ab",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cf2d3715ec80fc05f8e990ab",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cf2d3715ec80fc05f8e990ab",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4pVoDaEhrrjh7IH3xPBMdm"
+  }
+}

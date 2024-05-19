@@ -1,0 +1,33 @@
+{
+  "id": "4dYTuhhzeSxjTgEXOsXG7D",
+  "name": "Programmique",
+  "uri": "spotify:artist:4dYTuhhzeSxjTgEXOsXG7D",
+  "followers": {
+    "href": null,
+    "total": 319
+  },
+  "genres": [
+    "american post-punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb03b00e12c67c9b1241bca915",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517403b00e12c67c9b1241bca915",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17803b00e12c67c9b1241bca915",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4dYTuhhzeSxjTgEXOsXG7D"
+  }
+}

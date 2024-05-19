@@ -1,0 +1,34 @@
+{
+  "id": "4ouh12yRoHX0VRqTi3tzSY",
+  "name": "Chris Orrick",
+  "uri": "spotify:artist:4ouh12yRoHX0VRqTi3tzSY",
+  "followers": {
+    "href": null,
+    "total": 7312
+  },
+  "genres": [
+    "boom bap",
+    "underground rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb230ce538b0948e7895d2523d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174230ce538b0948e7895d2523d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178230ce538b0948e7895d2523d",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4ouh12yRoHX0VRqTi3tzSY"
+  }
+}

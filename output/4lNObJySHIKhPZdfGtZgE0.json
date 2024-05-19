@@ -1,0 +1,33 @@
+{
+  "id": "4lNObJySHIKhPZdfGtZgE0",
+  "name": "asáu",
+  "uri": "spotify:artist:4lNObJySHIKhPZdfGtZgE0",
+  "followers": {
+    "href": null,
+    "total": 1346
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcc22102b5cb29f8c76f78a90",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cc22102b5cb29f8c76f78a90",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cc22102b5cb29f8c76f78a90",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4lNObJySHIKhPZdfGtZgE0"
+  }
+}

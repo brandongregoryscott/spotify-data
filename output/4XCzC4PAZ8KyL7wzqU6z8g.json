@@ -1,0 +1,33 @@
+{
+  "id": "4XCzC4PAZ8KyL7wzqU6z8g",
+  "name": "SistaStrings",
+  "uri": "spotify:artist:4XCzC4PAZ8KyL7wzqU6z8g",
+  "followers": {
+    "href": null,
+    "total": 4033
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9ff40b677d5c9a3c70cecffe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051749ff40b677d5c9a3c70cecffe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1789ff40b677d5c9a3c70cecffe",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4XCzC4PAZ8KyL7wzqU6z8g"
+  }
+}

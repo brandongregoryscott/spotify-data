@@ -1,0 +1,33 @@
+{
+  "id": "4g2YLMELBcRKdEYGW0xzzP",
+  "name": "The NewMatics",
+  "uri": "spotify:artist:4g2YLMELBcRKdEYGW0xzzP",
+  "followers": {
+    "href": null,
+    "total": 163
+  },
+  "genres": [
+    "classic nz pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732f055e08895b514e6c1e36dd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022f055e08895b514e6c1e36dd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512f055e08895b514e6c1e36dd",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4g2YLMELBcRKdEYGW0xzzP"
+  }
+}
