@@ -1,0 +1,33 @@
+{
+  "id": "3dcLTNW9IW1C202f0u8r89",
+  "name": "VINTER",
+  "uri": "spotify:artist:3dcLTNW9IW1C202f0u8r89",
+  "followers": {
+    "href": null,
+    "total": 15352
+  },
+  "genres": [
+    "drift phonk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcec54d365dee63b034b48886",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cec54d365dee63b034b48886",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cec54d365dee63b034b48886",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3dcLTNW9IW1C202f0u8r89"
+  }
+}

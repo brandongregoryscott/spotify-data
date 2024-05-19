@@ -1,0 +1,35 @@
+{
+  "id": "3aBmASYphRgGqvYlaZaL3G",
+  "name": "Tim Dog",
+  "uri": "spotify:artist:3aBmASYphRgGqvYlaZaL3G",
+  "followers": {
+    "href": null,
+    "total": 29505
+  },
+  "genres": [
+    "bronx hip hop",
+    "east coast hip hop",
+    "hardcore hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734b5a6f6785186c36b77814e8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024b5a6f6785186c36b77814e8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514b5a6f6785186c36b77814e8",
+      "width": 64
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3aBmASYphRgGqvYlaZaL3G"
+  }
+}

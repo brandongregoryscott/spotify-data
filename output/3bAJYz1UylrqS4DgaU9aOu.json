@@ -1,0 +1,33 @@
+{
+  "id": "3bAJYz1UylrqS4DgaU9aOu",
+  "name": "Chloe Ament",
+  "uri": "spotify:artist:3bAJYz1UylrqS4DgaU9aOu",
+  "followers": {
+    "href": null,
+    "total": 46171
+  },
+  "genres": [
+    "wrock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdf8e96b25b1c7860eb33dc76",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174df8e96b25b1c7860eb33dc76",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178df8e96b25b1c7860eb33dc76",
+      "width": 160
+    }
+  ],
+  "popularity": 45,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3bAJYz1UylrqS4DgaU9aOu"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3g4FWn182WLlsArkvQFIIq",
+  "name": "Greyhat",
+  "uri": "spotify:artist:3g4FWn182WLlsArkvQFIIq",
+  "followers": {
+    "href": null,
+    "total": 3454
+  },
+  "genres": [
+    "vapor twitch"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdfa3b428b73f76e562df6239",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dfa3b428b73f76e562df6239",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dfa3b428b73f76e562df6239",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3g4FWn182WLlsArkvQFIIq"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3pvp7LqpZUMij3SkttlxvA",
+  "name": "exaution",
+  "uri": "spotify:artist:3pvp7LqpZUMij3SkttlxvA",
+  "followers": {
+    "href": null,
+    "total": 42
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb86a50eb838cc27828813449f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517486a50eb838cc27828813449f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17886a50eb838cc27828813449f",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3pvp7LqpZUMij3SkttlxvA"
+  }
+}

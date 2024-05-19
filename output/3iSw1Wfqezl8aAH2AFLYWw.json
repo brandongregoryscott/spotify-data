@@ -1,0 +1,33 @@
+{
+  "id": "3iSw1Wfqezl8aAH2AFLYWw",
+  "name": "Hazzmet",
+  "uri": "spotify:artist:3iSw1Wfqezl8aAH2AFLYWw",
+  "followers": {
+    "href": null,
+    "total": 311
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba4514ba028d30e3e80a0c2a4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a4514ba028d30e3e80a0c2a4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a4514ba028d30e3e80a0c2a4",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3iSw1Wfqezl8aAH2AFLYWw"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "3kJaCi1igGWOKYUVDdJnoi",
+  "name": "Elizabeth Morris",
+  "uri": "spotify:artist:3kJaCi1igGWOKYUVDdJnoi",
+  "followers": {
+    "href": null,
+    "total": 16828
+  },
+  "genres": [
+    "nueva cancion",
+    "nueva trova chilena"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb23093fa73049f41de7a88cd5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517423093fa73049f41de7a88cd5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17823093fa73049f41de7a88cd5",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3kJaCi1igGWOKYUVDdJnoi"
+  }
+}

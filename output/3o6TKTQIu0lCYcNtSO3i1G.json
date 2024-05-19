@@ -1,0 +1,34 @@
+{
+  "id": "3o6TKTQIu0lCYcNtSO3i1G",
+  "name": "Prinze George",
+  "uri": "spotify:artist:3o6TKTQIu0lCYcNtSO3i1G",
+  "followers": {
+    "href": null,
+    "total": 30279
+  },
+  "genres": [
+    "etherpop",
+    "vapor pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf8df3d16565e9d5aee2c28a2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f8df3d16565e9d5aee2c28a2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f8df3d16565e9d5aee2c28a2",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3o6TKTQIu0lCYcNtSO3i1G"
+  }
+}

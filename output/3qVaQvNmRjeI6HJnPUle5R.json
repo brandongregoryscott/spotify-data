@@ -1,0 +1,33 @@
+{
+  "id": "3qVaQvNmRjeI6HJnPUle5R",
+  "name": "Majorphaye",
+  "uri": "spotify:artist:3qVaQvNmRjeI6HJnPUle5R",
+  "followers": {
+    "href": null,
+    "total": 269
+  },
+  "genres": [
+    "slow game"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb92e0b004502ef2cb11e31a31",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517492e0b004502ef2cb11e31a31",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17892e0b004502ef2cb11e31a31",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3qVaQvNmRjeI6HJnPUle5R"
+  }
+}

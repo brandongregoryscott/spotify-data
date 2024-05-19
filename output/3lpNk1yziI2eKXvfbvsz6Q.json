@@ -1,0 +1,33 @@
+{
+  "id": "3lpNk1yziI2eKXvfbvsz6Q",
+  "name": "FILEIN",
+  "uri": "spotify:artist:3lpNk1yziI2eKXvfbvsz6Q",
+  "followers": {
+    "href": null,
+    "total": 491
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb55af189a81c05cf9e933a4bd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517455af189a81c05cf9e933a4bd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17855af189a81c05cf9e933a4bd",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3lpNk1yziI2eKXvfbvsz6Q"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3eyan8q0PTWECWKZuB68t0",
+  "name": "のる",
+  "uri": "spotify:artist:3eyan8q0PTWECWKZuB68t0",
+  "followers": {
+    "href": null,
+    "total": 120
+  },
+  "genres": [
+    "japanese instrumental"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe6e209b43b30467be9bf740a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e6e209b43b30467be9bf740a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e6e209b43b30467be9bf740a",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3eyan8q0PTWECWKZuB68t0"
+  }
+}

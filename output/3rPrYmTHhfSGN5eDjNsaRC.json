@@ -1,0 +1,36 @@
+{
+  "id": "3rPrYmTHhfSGN5eDjNsaRC",
+  "name": "Steve Poindexter",
+  "uri": "spotify:artist:3rPrYmTHhfSGN5eDjNsaRC",
+  "followers": {
+    "href": null,
+    "total": 3641
+  },
+  "genres": [
+    "bleep techno",
+    "chicago house",
+    "classic house",
+    "ghettotech"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebde8199c23bcd6b8100edfdee",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174de8199c23bcd6b8100edfdee",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178de8199c23bcd6b8100edfdee",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3rPrYmTHhfSGN5eDjNsaRC"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3hv0cVJtEVUppVUb9Gp5xp",
+  "name": "Una Otomachi",
+  "uri": "spotify:artist:3hv0cVJtEVUppVUb9Gp5xp",
+  "followers": {
+    "href": null,
+    "total": 4413
+  },
+  "genres": [
+    "vocaloid"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27340e1d117f85fa2daf6d49824",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0240e1d117f85fa2daf6d49824",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485140e1d117f85fa2daf6d49824",
+      "width": 64
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3hv0cVJtEVUppVUb9Gp5xp"
+  }
+}

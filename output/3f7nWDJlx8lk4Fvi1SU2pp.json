@@ -1,0 +1,33 @@
+{
+  "id": "3f7nWDJlx8lk4Fvi1SU2pp",
+  "name": "k'",
+  "uri": "spotify:artist:3f7nWDJlx8lk4Fvi1SU2pp",
+  "followers": {
+    "href": null,
+    "total": 1218
+  },
+  "genres": [
+    "vocaloid rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fe236411dfd0871597e5f072",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fe236411dfd0871597e5f072",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fe236411dfd0871597e5f072",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3f7nWDJlx8lk4Fvi1SU2pp"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3mR4Q9BGtuFSs6hYjgW6EP",
+  "name": "CURLEYS",
+  "uri": "spotify:artist:3mR4Q9BGtuFSs6hYjgW6EP",
+  "followers": {
+    "href": null,
+    "total": 262
+  },
+  "genres": [
+    "egg punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733fcd3d8cf5a3fb1abffd6d25",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023fcd3d8cf5a3fb1abffd6d25",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513fcd3d8cf5a3fb1abffd6d25",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3mR4Q9BGtuFSs6hYjgW6EP"
+  }
+}

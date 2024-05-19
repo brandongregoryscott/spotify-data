@@ -1,0 +1,34 @@
+{
+  "id": "3i6eRE6FzVSyA3lVb1A90k",
+  "name": "Panchito Villa",
+  "uri": "spotify:artist:3i6eRE6FzVSyA3lVb1A90k",
+  "followers": {
+    "href": null,
+    "total": 1197
+  },
+  "genres": [
+    "electronica argentina",
+    "r&b argentino"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb3f8d40c5ab58bf7a39aa9b2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b3f8d40c5ab58bf7a39aa9b2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b3f8d40c5ab58bf7a39aa9b2",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3i6eRE6FzVSyA3lVb1A90k"
+  }
+}

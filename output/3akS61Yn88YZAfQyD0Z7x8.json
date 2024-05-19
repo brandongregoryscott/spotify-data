@@ -1,0 +1,33 @@
+{
+  "id": "3akS61Yn88YZAfQyD0Z7x8",
+  "name": "Pink Matter",
+  "uri": "spotify:artist:3akS61Yn88YZAfQyD0Z7x8",
+  "followers": {
+    "href": null,
+    "total": 1902
+  },
+  "genres": [
+    "brisbane indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe14ac90eb8c3f29117f6b0cb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e14ac90eb8c3f29117f6b0cb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e14ac90eb8c3f29117f6b0cb",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3akS61Yn88YZAfQyD0Z7x8"
+  }
+}

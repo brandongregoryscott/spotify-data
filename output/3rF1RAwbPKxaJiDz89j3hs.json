@@ -1,0 +1,33 @@
+{
+  "id": "3rF1RAwbPKxaJiDz89j3hs",
+  "name": "Tresmilonce",
+  "uri": "spotify:artist:3rF1RAwbPKxaJiDz89j3hs",
+  "followers": {
+    "href": null,
+    "total": 756
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc67ff029760557dcb97d99ef",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c67ff029760557dcb97d99ef",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c67ff029760557dcb97d99ef",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3rF1RAwbPKxaJiDz89j3hs"
+  }
+}

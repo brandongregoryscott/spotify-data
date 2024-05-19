@@ -1,0 +1,33 @@
+{
+  "id": "3q5AKpBQcbKp5AzDFeR8os",
+  "name": "GSD",
+  "uri": "spotify:artist:3q5AKpBQcbKp5AzDFeR8os",
+  "followers": {
+    "href": null,
+    "total": 262
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3326a3034f148be70ceb574f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051743326a3034f148be70ceb574f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1783326a3034f148be70ceb574f",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3q5AKpBQcbKp5AzDFeR8os"
+  }
+}

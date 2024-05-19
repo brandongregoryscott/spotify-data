@@ -1,0 +1,34 @@
+{
+  "id": "3heEUIjUbWkseFTU8s4zqP",
+  "name": "Jardín",
+  "uri": "spotify:artist:3heEUIjUbWkseFTU8s4zqP",
+  "followers": {
+    "href": null,
+    "total": 15960
+  },
+  "genres": [
+    "mexican indie",
+    "tijuana indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb763256f77f45f3fe77a8e8db",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174763256f77f45f3fe77a8e8db",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178763256f77f45f3fe77a8e8db",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3heEUIjUbWkseFTU8s4zqP"
+  }
+}

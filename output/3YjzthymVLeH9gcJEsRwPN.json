@@ -1,0 +1,33 @@
+{
+  "id": "3YjzthymVLeH9gcJEsRwPN",
+  "name": "Sweater",
+  "uri": "spotify:artist:3YjzthymVLeH9gcJEsRwPN",
+  "followers": {
+    "href": null,
+    "total": 92
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1bef1416b3d170b1db77405e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051741bef1416b3d170b1db77405e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1781bef1416b3d170b1db77405e",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3YjzthymVLeH9gcJEsRwPN"
+  }
+}

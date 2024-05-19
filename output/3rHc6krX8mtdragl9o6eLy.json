@@ -1,0 +1,33 @@
+{
+  "id": "3rHc6krX8mtdragl9o6eLy",
+  "name": "asking for a friend",
+  "uri": "spotify:artist:3rHc6krX8mtdragl9o6eLy",
+  "followers": {
+    "href": null,
+    "total": 5811
+  },
+  "genres": [
+    "chill pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb15d2c9bf661f9e834895e538",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517415d2c9bf661f9e834895e538",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17815d2c9bf661f9e834895e538",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3rHc6krX8mtdragl9o6eLy"
+  }
+}

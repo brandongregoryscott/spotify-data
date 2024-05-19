@@ -1,0 +1,33 @@
+{
+  "id": "3jXTAoLKvB6ebO9YXqaCoI",
+  "name": "K. Boom",
+  "uri": "spotify:artist:3jXTAoLKvB6ebO9YXqaCoI",
+  "followers": {
+    "href": null,
+    "total": 35
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdd5dbdf939b1b4c5fbd87f6f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dd5dbdf939b1b4c5fbd87f6f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dd5dbdf939b1b4c5fbd87f6f",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3jXTAoLKvB6ebO9YXqaCoI"
+  }
+}

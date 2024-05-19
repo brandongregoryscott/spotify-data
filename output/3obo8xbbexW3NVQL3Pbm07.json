@@ -1,0 +1,33 @@
+{
+  "id": "3obo8xbbexW3NVQL3Pbm07",
+  "name": "The Wanda Band",
+  "uri": "spotify:artist:3obo8xbbexW3NVQL3Pbm07",
+  "followers": {
+    "href": null,
+    "total": 760
+  },
+  "genres": [
+    "north alabama indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb65d286294a4954226dbd50fd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517465d286294a4954226dbd50fd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17865d286294a4954226dbd50fd",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3obo8xbbexW3NVQL3Pbm07"
+  }
+}

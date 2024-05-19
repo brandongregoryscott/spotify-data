@@ -1,0 +1,35 @@
+{
+  "id": "3p5cqyRrl8N8aYx2yMKBB1",
+  "name": "Hilmar Örn Hilmarsson",
+  "uri": "spotify:artist:3p5cqyRrl8N8aYx2yMKBB1",
+  "followers": {
+    "href": null,
+    "total": 11605
+  },
+  "genres": [
+    "compositional ambient",
+    "icelandic classical",
+    "icelandic traditional"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27379ef967aec8322b3d5a71ecd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0279ef967aec8322b3d5a71ecd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485179ef967aec8322b3d5a71ecd",
+      "width": 64
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3p5cqyRrl8N8aYx2yMKBB1"
+  }
+}

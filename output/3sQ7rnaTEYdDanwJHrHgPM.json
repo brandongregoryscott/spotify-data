@@ -1,0 +1,33 @@
+{
+  "id": "3sQ7rnaTEYdDanwJHrHgPM",
+  "name": "Cachicamo",
+  "uri": "spotify:artist:3sQ7rnaTEYdDanwJHrHgPM",
+  "followers": {
+    "href": null,
+    "total": 645
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27309297b909de35ad550c16bda",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0209297b909de35ad550c16bda",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485109297b909de35ad550c16bda",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3sQ7rnaTEYdDanwJHrHgPM"
+  }
+}

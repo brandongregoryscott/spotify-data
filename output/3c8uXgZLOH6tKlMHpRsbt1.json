@@ -1,0 +1,33 @@
+{
+  "id": "3c8uXgZLOH6tKlMHpRsbt1",
+  "name": "Suri",
+  "uri": "spotify:artist:3c8uXgZLOH6tKlMHpRsbt1",
+  "followers": {
+    "href": null,
+    "total": 1629
+  },
+  "genres": [
+    "indonesian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273447b7668d93ca2376b553f9d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02447b7668d93ca2376b553f9d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851447b7668d93ca2376b553f9d",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3c8uXgZLOH6tKlMHpRsbt1"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3cquBoepXVGq5SchQmDsz9",
+  "name": "Pretty Uglys",
+  "uri": "spotify:artist:3cquBoepXVGq5SchQmDsz9",
+  "followers": {
+    "href": null,
+    "total": 2484
+  },
+  "genres": [
+    "australian garage punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebba2ada41f10a749b60dd4419",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ba2ada41f10a749b60dd4419",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ba2ada41f10a749b60dd4419",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3cquBoepXVGq5SchQmDsz9"
+  }
+}

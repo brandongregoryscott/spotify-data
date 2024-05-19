@@ -1,0 +1,33 @@
+{
+  "id": "3ZKF46z6u0UsjAfqqtYldn",
+  "name": "Population One",
+  "uri": "spotify:artist:3ZKF46z6u0UsjAfqqtYldn",
+  "followers": {
+    "href": null,
+    "total": 1230
+  },
+  "genres": [
+    "detroit techno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bf4349972f9a40d25c3e7fbf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bf4349972f9a40d25c3e7fbf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bf4349972f9a40d25c3e7fbf",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ZKF46z6u0UsjAfqqtYldn"
+  }
+}

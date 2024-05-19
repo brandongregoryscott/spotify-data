@@ -1,0 +1,33 @@
+{
+  "id": "3agUzpPCDynMkXCQkZYVIv",
+  "name": "Joe Jordan",
+  "uri": "spotify:artist:3agUzpPCDynMkXCQkZYVIv",
+  "followers": {
+    "href": null,
+    "total": 9517
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb45ee36fe0569a1b15415a098",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517445ee36fe0569a1b15415a098",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17845ee36fe0569a1b15415a098",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3agUzpPCDynMkXCQkZYVIv"
+  }
+}

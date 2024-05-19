@@ -1,0 +1,33 @@
+{
+  "id": "3amGSZ5rs9FYoJUH3kLyCn",
+  "name": "Raved",
+  "uri": "spotify:artist:3amGSZ5rs9FYoJUH3kLyCn",
+  "followers": {
+    "href": null,
+    "total": 220
+  },
+  "genres": [
+    "russian hyperpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736b6e5c04cc41d0c9c03908cc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026b6e5c04cc41d0c9c03908cc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516b6e5c04cc41d0c9c03908cc",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3amGSZ5rs9FYoJUH3kLyCn"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3rZfl5ohFIdhH42S4sbUXk",
+  "name": "prodsneezii",
+  "uri": "spotify:artist:3rZfl5ohFIdhH42S4sbUXk",
+  "followers": {
+    "href": null,
+    "total": 248
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf50c59c7a73a2cfa6ca1d84b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f50c59c7a73a2cfa6ca1d84b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f50c59c7a73a2cfa6ca1d84b",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3rZfl5ohFIdhH42S4sbUXk"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3nXXQmKCwf43xsNPe3snSw",
+  "name": "モウソウキリン",
+  "uri": "spotify:artist:3nXXQmKCwf43xsNPe3snSw",
+  "followers": {
+    "href": null,
+    "total": 101
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd4f0c76545fcf4e72fee49db",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d4f0c76545fcf4e72fee49db",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d4f0c76545fcf4e72fee49db",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3nXXQmKCwf43xsNPe3snSw"
+  }
+}

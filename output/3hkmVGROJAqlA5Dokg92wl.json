@@ -1,0 +1,33 @@
+{
+  "id": "3hkmVGROJAqlA5Dokg92wl",
+  "name": "Vimonth",
+  "uri": "spotify:artist:3hkmVGROJAqlA5Dokg92wl",
+  "followers": {
+    "href": null,
+    "total": 37
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb89185e7a56fe8a0954e1f8cc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517489185e7a56fe8a0954e1f8cc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17889185e7a56fe8a0954e1f8cc",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3hkmVGROJAqlA5Dokg92wl"
+  }
+}

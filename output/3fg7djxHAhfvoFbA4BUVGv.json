@@ -1,0 +1,33 @@
+{
+  "id": "3fg7djxHAhfvoFbA4BUVGv",
+  "name": "Gablé",
+  "uri": "spotify:artist:3fg7djxHAhfvoFbA4BUVGv",
+  "followers": {
+    "href": null,
+    "total": 2420
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb12cb43b8b2f80819b59414a5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517412cb43b8b2f80819b59414a5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17812cb43b8b2f80819b59414a5",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3fg7djxHAhfvoFbA4BUVGv"
+  }
+}

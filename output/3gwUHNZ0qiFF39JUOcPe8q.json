@@ -1,0 +1,33 @@
+{
+  "id": "3gwUHNZ0qiFF39JUOcPe8q",
+  "name": "Cape Chacon",
+  "uri": "spotify:artist:3gwUHNZ0qiFF39JUOcPe8q",
+  "followers": {
+    "href": null,
+    "total": 116
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbcc4bff11de434c1f7d8ec91",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bcc4bff11de434c1f7d8ec91",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bcc4bff11de434c1f7d8ec91",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3gwUHNZ0qiFF39JUOcPe8q"
+  }
+}

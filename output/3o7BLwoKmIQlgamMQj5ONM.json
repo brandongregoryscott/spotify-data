@@ -1,0 +1,33 @@
+{
+  "id": "3o7BLwoKmIQlgamMQj5ONM",
+  "name": "Tatxers",
+  "uri": "spotify:artist:3o7BLwoKmIQlgamMQj5ONM",
+  "followers": {
+    "href": null,
+    "total": 7080
+  },
+  "genres": [
+    "euskal rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb06fa79e612015400bea9e56d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517406fa79e612015400bea9e56d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17806fa79e612015400bea9e56d",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3o7BLwoKmIQlgamMQj5ONM"
+  }
+}

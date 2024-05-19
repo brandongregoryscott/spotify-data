@@ -1,0 +1,33 @@
+{
+  "id": "3nWf7ehSfr0F05crVP5Kf3",
+  "name": "Fuss",
+  "uri": "spotify:artist:3nWf7ehSfr0F05crVP5Kf3",
+  "followers": {
+    "href": null,
+    "total": 59
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736ae77c7ae4e29bfcc0fb74df",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026ae77c7ae4e29bfcc0fb74df",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516ae77c7ae4e29bfcc0fb74df",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3nWf7ehSfr0F05crVP5Kf3"
+  }
+}

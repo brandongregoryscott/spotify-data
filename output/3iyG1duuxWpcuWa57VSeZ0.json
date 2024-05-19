@@ -1,0 +1,33 @@
+{
+  "id": "3iyG1duuxWpcuWa57VSeZ0",
+  "name": "The Highwomen",
+  "uri": "spotify:artist:3iyG1duuxWpcuWa57VSeZ0",
+  "followers": {
+    "href": null,
+    "total": 148313
+  },
+  "genres": [
+    "new americana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba0d6a5086e07adf1a9c3590e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a0d6a5086e07adf1a9c3590e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a0d6a5086e07adf1a9c3590e",
+      "width": 160
+    }
+  ],
+  "popularity": 44,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+  }
+}

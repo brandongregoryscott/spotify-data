@@ -1,0 +1,33 @@
+{
+  "id": "3pfcmB47b1cef274aQMsLn",
+  "name": "Станция Видеопарк",
+  "uri": "spotify:artist:3pfcmB47b1cef274aQMsLn",
+  "followers": {
+    "href": null,
+    "total": 1000
+  },
+  "genres": [
+    "ukrainian post-punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273529b280afb9084b7301e6c93",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02529b280afb9084b7301e6c93",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851529b280afb9084b7301e6c93",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3pfcmB47b1cef274aQMsLn"
+  }
+}

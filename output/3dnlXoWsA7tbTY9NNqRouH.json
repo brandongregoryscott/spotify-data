@@ -1,0 +1,34 @@
+{
+  "id": "3dnlXoWsA7tbTY9NNqRouH",
+  "name": "Secret Saucer",
+  "uri": "spotify:artist:3dnlXoWsA7tbTY9NNqRouH",
+  "followers": {
+    "href": null,
+    "total": 2463
+  },
+  "genres": [
+    "deep space rock",
+    "space rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba31cddde6dd8412412f0b7d3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a31cddde6dd8412412f0b7d3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a31cddde6dd8412412f0b7d3",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3dnlXoWsA7tbTY9NNqRouH"
+  }
+}

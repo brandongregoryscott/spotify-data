@@ -1,0 +1,33 @@
+{
+  "id": "3hFxCpjSZ45sVp9IAO9BwV",
+  "name": "Ensemble 2E2M",
+  "uri": "spotify:artist:3hFxCpjSZ45sVp9IAO9BwV",
+  "followers": {
+    "href": null,
+    "total": 191
+  },
+  "genres": [
+    "modern performance"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736e70bbc40e0924444cd1edce",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026e70bbc40e0924444cd1edce",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516e70bbc40e0924444cd1edce",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3hFxCpjSZ45sVp9IAO9BwV"
+  }
+}
