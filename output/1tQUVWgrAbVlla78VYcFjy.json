@@ -1,0 +1,34 @@
+{
+  "id": "1tQUVWgrAbVlla78VYcFjy",
+  "name": "Rainbow Chan",
+  "uri": "spotify:artist:1tQUVWgrAbVlla78VYcFjy",
+  "followers": {
+    "href": null,
+    "total": 3711
+  },
+  "genres": [
+    "australian alternative pop",
+    "australian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebabfa56ed9bfbf32011dac352",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174abfa56ed9bfbf32011dac352",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178abfa56ed9bfbf32011dac352",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1tQUVWgrAbVlla78VYcFjy"
+  }
+}

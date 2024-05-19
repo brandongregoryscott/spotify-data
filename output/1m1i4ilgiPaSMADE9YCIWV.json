@@ -1,0 +1,33 @@
+{
+  "id": "1m1i4ilgiPaSMADE9YCIWV",
+  "name": "The Katy",
+  "uri": "spotify:artist:1m1i4ilgiPaSMADE9YCIWV",
+  "followers": {
+    "href": null,
+    "total": 670
+  },
+  "genres": [
+    "cleveland indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc262578ef94759a22e0cb5d9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c262578ef94759a22e0cb5d9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c262578ef94759a22e0cb5d9",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1m1i4ilgiPaSMADE9YCIWV"
+  }
+}

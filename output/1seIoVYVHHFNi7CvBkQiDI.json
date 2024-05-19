@@ -1,0 +1,33 @@
+{
+  "id": "1seIoVYVHHFNi7CvBkQiDI",
+  "name": "Z",
+  "uri": "spotify:artist:1seIoVYVHHFNi7CvBkQiDI",
+  "followers": {
+    "href": null,
+    "total": 2076
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfffa6217369af4d44a4b427a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fffa6217369af4d44a4b427a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fffa6217369af4d44a4b427a",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1seIoVYVHHFNi7CvBkQiDI"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "1dDTkRz9WVOQr63enjJ1Yd",
+  "name": "Sascha Funke",
+  "uri": "spotify:artist:1dDTkRz9WVOQr63enjJ1Yd",
+  "followers": {
+    "href": null,
+    "total": 62803
+  },
+  "genres": [
+    "german techno",
+    "minimal techno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb71d091050c7e16cf2ba74761",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517471d091050c7e16cf2ba74761",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17871d091050c7e16cf2ba74761",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1dDTkRz9WVOQr63enjJ1Yd"
+  }
+}

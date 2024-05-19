@@ -1,0 +1,36 @@
+{
+  "id": "1stV6oo9asbFSMafjLzL9m",
+  "name": "Headplate",
+  "uri": "spotify:artist:1stV6oo9asbFSMafjLzL9m",
+  "followers": {
+    "href": null,
+    "total": 5352
+  },
+  "genres": [
+    "alternative metalcore",
+    "funk metal",
+    "rap metalcore",
+    "rap rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb55cd05b2abf4ff39217002bf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517455cd05b2abf4ff39217002bf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17855cd05b2abf4ff39217002bf",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1stV6oo9asbFSMafjLzL9m"
+  }
+}

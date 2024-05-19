@@ -1,0 +1,33 @@
+{
+  "id": "1k8BaqbRkiva5cEaYAx7SK",
+  "name": "Mvti",
+  "uri": "spotify:artist:1k8BaqbRkiva5cEaYAx7SK",
+  "followers": {
+    "href": null,
+    "total": 345
+  },
+  "genres": [
+    "urbano chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb10c48314d546b354a6b3eddb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517410c48314d546b354a6b3eddb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17810c48314d546b354a6b3eddb",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1k8BaqbRkiva5cEaYAx7SK"
+  }
+}

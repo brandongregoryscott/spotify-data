@@ -1,0 +1,33 @@
+{
+  "id": "1hp3XqZ3HHULhBiCeMXDnH",
+  "name": "Paulina Palmgren",
+  "uri": "spotify:artist:1hp3XqZ3HHULhBiCeMXDnH",
+  "followers": {
+    "href": null,
+    "total": 1448
+  },
+  "genres": [
+    "swedish indie pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8fd4c0676821ee2520b7fd3d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051748fd4c0676821ee2520b7fd3d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1788fd4c0676821ee2520b7fd3d",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1hp3XqZ3HHULhBiCeMXDnH"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1eTNgJMyODOGBZpcDsWXwe",
+  "name": "Over Under",
+  "uri": "spotify:artist:1eTNgJMyODOGBZpcDsWXwe",
+  "followers": {
+    "href": null,
+    "total": 4169
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb798aa1cdbfb1c729edbb4131",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174798aa1cdbfb1c729edbb4131",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178798aa1cdbfb1c729edbb4131",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1eTNgJMyODOGBZpcDsWXwe"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1kKTzLZGzQKtpKKIG6T0Gj",
+  "name": "Carlito",
+  "uri": "spotify:artist:1kKTzLZGzQKtpKKIG6T0Gj",
+  "followers": {
+    "href": null,
+    "total": 136
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebba5b7a58ea56329138581b7e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ba5b7a58ea56329138581b7e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ba5b7a58ea56329138581b7e",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1kKTzLZGzQKtpKKIG6T0Gj"
+  }
+}

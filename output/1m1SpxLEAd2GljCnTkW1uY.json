@@ -1,0 +1,33 @@
+{
+  "id": "1m1SpxLEAd2GljCnTkW1uY",
+  "name": "Wave Break",
+  "uri": "spotify:artist:1m1SpxLEAd2GljCnTkW1uY",
+  "followers": {
+    "href": null,
+    "total": 2609
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbd7e9ac230f6816c8e190f1b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bd7e9ac230f6816c8e190f1b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bd7e9ac230f6816c8e190f1b",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1m1SpxLEAd2GljCnTkW1uY"
+  }
+}

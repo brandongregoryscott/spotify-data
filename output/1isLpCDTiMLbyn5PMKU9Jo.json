@@ -1,0 +1,33 @@
+{
+  "id": "1isLpCDTiMLbyn5PMKU9Jo",
+  "name": "Twellly",
+  "uri": "spotify:artist:1isLpCDTiMLbyn5PMKU9Jo",
+  "followers": {
+    "href": null,
+    "total": 3795
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb43c4234b149938ab675eb7aa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517443c4234b149938ab675eb7aa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17843c4234b149938ab675eb7aa",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1isLpCDTiMLbyn5PMKU9Jo"
+  }
+}

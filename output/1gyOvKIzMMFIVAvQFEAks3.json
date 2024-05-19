@@ -1,0 +1,33 @@
+{
+  "id": "1gyOvKIzMMFIVAvQFEAks3",
+  "name": "Springfield Elementary",
+  "uri": "spotify:artist:1gyOvKIzMMFIVAvQFEAks3",
+  "followers": {
+    "href": null,
+    "total": 263
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba327c7b52a20eac4134e216d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a327c7b52a20eac4134e216d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a327c7b52a20eac4134e216d",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1gyOvKIzMMFIVAvQFEAks3"
+  }
+}

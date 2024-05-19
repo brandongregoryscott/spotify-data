@@ -1,0 +1,33 @@
+{
+  "id": "1pPWbzO1zyaaQv00yW1hcr",
+  "name": "Scarly",
+  "uri": "spotify:artist:1pPWbzO1zyaaQv00yW1hcr",
+  "followers": {
+    "href": null,
+    "total": 1128
+  },
+  "genres": [
+    "scenecore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb99dc8b33ed013aeb0b186f3e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517499dc8b33ed013aeb0b186f3e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17899dc8b33ed013aeb0b186f3e",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1pPWbzO1zyaaQv00yW1hcr"
+  }
+}

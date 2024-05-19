@@ -1,0 +1,33 @@
+{
+  "id": "1mQUcttMYtcUFjmd1VLlOA",
+  "name": "Bird Calls",
+  "uri": "spotify:artist:1mQUcttMYtcUFjmd1VLlOA",
+  "followers": {
+    "href": null,
+    "total": 109
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7f0e4f9298107a7aa60789f0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051747f0e4f9298107a7aa60789f0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1787f0e4f9298107a7aa60789f0",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1mQUcttMYtcUFjmd1VLlOA"
+  }
+}

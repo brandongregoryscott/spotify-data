@@ -1,0 +1,33 @@
+{
+  "id": "1mQWZPciU2mObkw2Fpgbxg",
+  "name": "Yung Ro",
+  "uri": "spotify:artist:1mQWZPciU2mObkw2Fpgbxg",
+  "followers": {
+    "href": null,
+    "total": 17451
+  },
+  "genres": [
+    "new orleans rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb3fb7a71d6f5f695720c9f16",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b3fb7a71d6f5f695720c9f16",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b3fb7a71d6f5f695720c9f16",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1mQWZPciU2mObkw2Fpgbxg"
+  }
+}

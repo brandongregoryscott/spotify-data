@@ -1,0 +1,33 @@
+{
+  "id": "1okHauS8knOaMt2VF2qtVR",
+  "name": "Jasmine Q",
+  "uri": "spotify:artist:1okHauS8knOaMt2VF2qtVR",
+  "followers": {
+    "href": null,
+    "total": 124
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb55c6efb8b26ba4b9a013a6b3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517455c6efb8b26ba4b9a013a6b3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17855c6efb8b26ba4b9a013a6b3",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1okHauS8knOaMt2VF2qtVR"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1mllMLn8EBiipdjE17GEuD",
+  "name": "True Muzik",
+  "uri": "spotify:artist:1mllMLn8EBiipdjE17GEuD",
+  "followers": {
+    "href": null,
+    "total": 167
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb99531782572d5dd969f9a6ca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517499531782572d5dd969f9a6ca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17899531782572d5dd969f9a6ca",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1mllMLn8EBiipdjE17GEuD"
+  }
+}

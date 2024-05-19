@@ -1,0 +1,33 @@
+{
+  "id": "1gMRzF8C6rsL8Q67fCstjg",
+  "name": "Sweet Petunia",
+  "uri": "spotify:artist:1gMRzF8C6rsL8Q67fCstjg",
+  "followers": {
+    "href": null,
+    "total": 1478
+  },
+  "genres": [
+    "boston folk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbb3b030b0226a57d26baa04f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bb3b030b0226a57d26baa04f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bb3b030b0226a57d26baa04f",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1gMRzF8C6rsL8Q67fCstjg"
+  }
+}

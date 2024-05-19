@@ -1,0 +1,35 @@
+{
+  "id": "1ph8wfSZZ3PiqpwnlsfzvL",
+  "name": "Mantiel",
+  "uri": "spotify:artist:1ph8wfSZZ3PiqpwnlsfzvL",
+  "followers": {
+    "href": null,
+    "total": 3125
+  },
+  "genres": [
+    "depressive black metal",
+    "occult black metal",
+    "raw black metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cba7f151a297b1d5a6a8044b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cba7f151a297b1d5a6a8044b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cba7f151a297b1d5a6a8044b",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ph8wfSZZ3PiqpwnlsfzvL"
+  }
+}

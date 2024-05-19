@@ -1,0 +1,33 @@
+{
+  "id": "1l2hlo4d4Q9TsiQ0v5sZ6D",
+  "name": "Onephony",
+  "uri": "spotify:artist:1l2hlo4d4Q9TsiQ0v5sZ6D",
+  "followers": {
+    "href": null,
+    "total": 440
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ed366c316206c61ea85a19ea",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ed366c316206c61ea85a19ea",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ed366c316206c61ea85a19ea",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1l2hlo4d4Q9TsiQ0v5sZ6D"
+  }
+}

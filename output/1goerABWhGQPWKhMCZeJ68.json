@@ -1,0 +1,34 @@
+{
+  "id": "1goerABWhGQPWKhMCZeJ68",
+  "name": "Tim Burgess",
+  "uri": "spotify:artist:1goerABWhGQPWKhMCZeJ68",
+  "followers": {
+    "href": null,
+    "total": 13133
+  },
+  "genres": [
+    "britpop",
+    "solo wave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb5341a99b09ece642725f10a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b5341a99b09ece642725f10a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b5341a99b09ece642725f10a",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1goerABWhGQPWKhMCZeJ68"
+  }
+}

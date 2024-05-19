@@ -1,0 +1,33 @@
+{
+  "id": "1hqPrDaljmBzYPYMA6PV9V",
+  "name": "The Nonlovers",
+  "uri": "spotify:artist:1hqPrDaljmBzYPYMA6PV9V",
+  "followers": {
+    "href": null,
+    "total": 430
+  },
+  "genres": [
+    "sadcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb78c89cf55ddbbca9b13d4fba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517478c89cf55ddbbca9b13d4fba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17878c89cf55ddbbca9b13d4fba",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1hqPrDaljmBzYPYMA6PV9V"
+  }
+}

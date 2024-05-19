@@ -1,0 +1,33 @@
+{
+  "id": "1cXPCtVZRmXh9MGfFQUd7k",
+  "name": "Electric Fantasy",
+  "uri": "spotify:artist:1cXPCtVZRmXh9MGfFQUd7k",
+  "followers": {
+    "href": null,
+    "total": 538
+  },
+  "genres": [
+    "indie rock colombiano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb742ac3952bd3ba844bbc14e0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174742ac3952bd3ba844bbc14e0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178742ac3952bd3ba844bbc14e0",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1cXPCtVZRmXh9MGfFQUd7k"
+  }
+}

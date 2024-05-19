@@ -1,0 +1,33 @@
+{
+  "id": "1qboJ75m88AY5CKXQiLf9x",
+  "name": "Re-Cycle",
+  "uri": "spotify:artist:1qboJ75m88AY5CKXQiLf9x",
+  "followers": {
+    "href": null,
+    "total": 3239
+  },
+  "genres": [
+    "rock viet"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdf5b058892ef1d7fdac20342",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174df5b058892ef1d7fdac20342",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178df5b058892ef1d7fdac20342",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1qboJ75m88AY5CKXQiLf9x"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1wGKPUXAJY6UbjurCFrdeJ",
+  "name": "JL_ELOG",
+  "uri": "spotify:artist:1wGKPUXAJY6UbjurCFrdeJ",
+  "followers": {
+    "href": null,
+    "total": 80
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdc578092af881bb758c73bb3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dc578092af881bb758c73bb3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dc578092af881bb758c73bb3",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1wGKPUXAJY6UbjurCFrdeJ"
+  }
+}

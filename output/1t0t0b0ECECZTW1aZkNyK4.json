@@ -1,0 +1,33 @@
+{
+  "id": "1t0t0b0ECECZTW1aZkNyK4",
+  "name": "Javi",
+  "uri": "spotify:artist:1t0t0b0ECECZTW1aZkNyK4",
+  "followers": {
+    "href": null,
+    "total": 542
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb344aba49d545810fbc396e74",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174344aba49d545810fbc396e74",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178344aba49d545810fbc396e74",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1t0t0b0ECECZTW1aZkNyK4"
+  }
+}

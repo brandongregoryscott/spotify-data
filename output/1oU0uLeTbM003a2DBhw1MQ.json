@@ -1,0 +1,33 @@
+{
+  "id": "1oU0uLeTbM003a2DBhw1MQ",
+  "name": "Raekogg",
+  "uri": "spotify:artist:1oU0uLeTbM003a2DBhw1MQ",
+  "followers": {
+    "href": null,
+    "total": 313
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb44c576966ac5f217be71d0a6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517444c576966ac5f217be71d0a6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17844c576966ac5f217be71d0a6",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1oU0uLeTbM003a2DBhw1MQ"
+  }
+}

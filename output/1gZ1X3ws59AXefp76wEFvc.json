@@ -1,0 +1,33 @@
+{
+  "id": "1gZ1X3ws59AXefp76wEFvc",
+  "name": "Integrate",
+  "uri": "spotify:artist:1gZ1X3ws59AXefp76wEFvc",
+  "followers": {
+    "href": null,
+    "total": 3810
+  },
+  "genres": [
+    "downtempo bass"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba475465c59f98382beb0a6a2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a475465c59f98382beb0a6a2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a475465c59f98382beb0a6a2",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1gZ1X3ws59AXefp76wEFvc"
+  }
+}

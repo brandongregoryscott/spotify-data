@@ -1,0 +1,33 @@
+{
+  "id": "1dN9C5uU8dhXed5YhVqs3r",
+  "name": "KidBored",
+  "uri": "spotify:artist:1dN9C5uU8dhXed5YhVqs3r",
+  "followers": {
+    "href": null,
+    "total": 303
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbe8e7a8982aff65d1783582d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174be8e7a8982aff65d1783582d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178be8e7a8982aff65d1783582d",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1dN9C5uU8dhXed5YhVqs3r"
+  }
+}

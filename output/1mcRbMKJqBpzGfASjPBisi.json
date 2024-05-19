@@ -1,0 +1,33 @@
+{
+  "id": "1mcRbMKJqBpzGfASjPBisi",
+  "name": "Quarkspace",
+  "uri": "spotify:artist:1mcRbMKJqBpzGfASjPBisi",
+  "followers": {
+    "href": null,
+    "total": 984
+  },
+  "genres": [
+    "deep space rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1431154f18e146476e4ec5fc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051741431154f18e146476e4ec5fc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1781431154f18e146476e4ec5fc",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1mcRbMKJqBpzGfASjPBisi"
+  }
+}

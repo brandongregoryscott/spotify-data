@@ -1,0 +1,33 @@
+{
+  "id": "1uetNG4sQC36qI3ENJ8m2p",
+  "name": "Granian",
+  "uri": "spotify:artist:1uetNG4sQC36qI3ENJ8m2p",
+  "followers": {
+    "href": null,
+    "total": 518
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738d4e85240d43b2591b031f1b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028d4e85240d43b2591b031f1b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518d4e85240d43b2591b031f1b",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1uetNG4sQC36qI3ENJ8m2p"
+  }
+}

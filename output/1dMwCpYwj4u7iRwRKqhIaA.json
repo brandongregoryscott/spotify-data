@@ -1,0 +1,33 @@
+{
+  "id": "1dMwCpYwj4u7iRwRKqhIaA",
+  "name": "KYLO",
+  "uri": "spotify:artist:1dMwCpYwj4u7iRwRKqhIaA",
+  "followers": {
+    "href": null,
+    "total": 61
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb27bc9f834914aaf7ae7863d3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517427bc9f834914aaf7ae7863d3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17827bc9f834914aaf7ae7863d3",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1dMwCpYwj4u7iRwRKqhIaA"
+  }
+}

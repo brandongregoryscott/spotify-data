@@ -1,0 +1,33 @@
+{
+  "id": "1qOH9KcsJzBs8JssXQhAXU",
+  "name": "CFLOW",
+  "uri": "spotify:artist:1qOH9KcsJzBs8JssXQhAXU",
+  "followers": {
+    "href": null,
+    "total": 204
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd07921ae0e2c0cb5c77e3015",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d07921ae0e2c0cb5c77e3015",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d07921ae0e2c0cb5c77e3015",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1qOH9KcsJzBs8JssXQhAXU"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1cKICtdquqTfnj73EshE7f",
+  "name": "The MRS",
+  "uri": "spotify:artist:1cKICtdquqTfnj73EshE7f",
+  "followers": {
+    "href": null,
+    "total": 8
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb75975ab03098ed9111cc9d40",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517475975ab03098ed9111cc9d40",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17875975ab03098ed9111cc9d40",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1cKICtdquqTfnj73EshE7f"
+  }
+}

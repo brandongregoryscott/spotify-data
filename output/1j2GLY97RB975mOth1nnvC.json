@@ -1,0 +1,33 @@
+{
+  "id": "1j2GLY97RB975mOth1nnvC",
+  "name": "VS / U",
+  "uri": "spotify:artist:1j2GLY97RB975mOth1nnvC",
+  "followers": {
+    "href": null,
+    "total": 478
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd134080517ffe40d8ab7c21c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d134080517ffe40d8ab7c21c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d134080517ffe40d8ab7c21c",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1j2GLY97RB975mOth1nnvC"
+  }
+}

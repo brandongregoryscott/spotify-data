@@ -1,0 +1,33 @@
+{
+  "id": "1ee1zKuE77tp05ZaBUXt5s",
+  "name": "La Julito",
+  "uri": "spotify:artist:1ee1zKuE77tp05ZaBUXt5s",
+  "followers": {
+    "href": null,
+    "total": 74
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb42abe46710b0df36003d096b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517442abe46710b0df36003d096b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17842abe46710b0df36003d096b",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ee1zKuE77tp05ZaBUXt5s"
+  }
+}

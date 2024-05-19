@@ -1,0 +1,33 @@
+{
+  "id": "1jRwxa8eTgXDOhOlbRFFFy",
+  "name": "Barry B",
+  "uri": "spotify:artist:1jRwxa8eTgXDOhOlbRFFFy",
+  "followers": {
+    "href": null,
+    "total": 4805
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba72f73d43b05638f1a3ed289",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a72f73d43b05638f1a3ed289",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a72f73d43b05638f1a3ed289",
+      "width": 160
+    }
+  ],
+  "popularity": 37,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+  }
+}

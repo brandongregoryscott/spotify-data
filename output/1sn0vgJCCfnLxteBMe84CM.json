@@ -1,0 +1,33 @@
+{
+  "id": "1sn0vgJCCfnLxteBMe84CM",
+  "name": "Timmy",
+  "uri": "spotify:artist:1sn0vgJCCfnLxteBMe84CM",
+  "followers": {
+    "href": null,
+    "total": 43
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738dd3036621b1546d39a8b430",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028dd3036621b1546d39a8b430",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518dd3036621b1546d39a8b430",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1sn0vgJCCfnLxteBMe84CM"
+  }
+}

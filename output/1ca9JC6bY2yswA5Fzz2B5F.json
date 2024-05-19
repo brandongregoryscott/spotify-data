@@ -1,0 +1,35 @@
+{
+  "id": "1ca9JC6bY2yswA5Fzz2B5F",
+  "name": "Paul Chain",
+  "uri": "spotify:artist:1ca9JC6bY2yswA5Fzz2B5F",
+  "followers": {
+    "href": null,
+    "total": 8072
+  },
+  "genres": [
+    "doom metal",
+    "italian doom metal",
+    "neo-trad doom metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27396e2e44330413a9a8872126b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0296e2e44330413a9a8872126b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485196e2e44330413a9a8872126b",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ca9JC6bY2yswA5Fzz2B5F"
+  }
+}

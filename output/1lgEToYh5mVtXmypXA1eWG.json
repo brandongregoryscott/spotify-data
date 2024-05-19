@@ -1,0 +1,33 @@
+{
+  "id": "1lgEToYh5mVtXmypXA1eWG",
+  "name": "LVNA",
+  "uri": "spotify:artist:1lgEToYh5mVtXmypXA1eWG",
+  "followers": {
+    "href": null,
+    "total": 189
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb8bdfdee3ea1beb82e67adf0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b8bdfdee3ea1beb82e67adf0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b8bdfdee3ea1beb82e67adf0",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1lgEToYh5mVtXmypXA1eWG"
+  }
+}

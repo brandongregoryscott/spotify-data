@@ -1,0 +1,34 @@
+{
+  "id": "1q7dN4c3Py4QbovlM01xYX",
+  "name": "Los Mojarras",
+  "uri": "spotify:artist:1q7dN4c3Py4QbovlM01xYX",
+  "followers": {
+    "href": null,
+    "total": 153007
+  },
+  "genres": [
+    "peruvian indie",
+    "peruvian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273995c49f7162ce261b79b2d00",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02995c49f7162ce261b79b2d00",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851995c49f7162ce261b79b2d00",
+      "width": 64
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1q7dN4c3Py4QbovlM01xYX"
+  }
+}

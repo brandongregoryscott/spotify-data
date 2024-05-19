@@ -1,0 +1,33 @@
+{
+  "id": "1gKCqLWL1FGS490kcN3QQs",
+  "name": "H B",
+  "uri": "spotify:artist:1gKCqLWL1FGS490kcN3QQs",
+  "followers": {
+    "href": null,
+    "total": 27
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb73cd839fa91fedd1fe0d25aa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517473cd839fa91fedd1fe0d25aa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17873cd839fa91fedd1fe0d25aa",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1gKCqLWL1FGS490kcN3QQs"
+  }
+}

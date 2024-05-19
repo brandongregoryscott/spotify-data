@@ -1,0 +1,33 @@
+{
+  "id": "1f8OrSiIMAkvBfrStI8bRd",
+  "name": "Goat",
+  "uri": "spotify:artist:1f8OrSiIMAkvBfrStI8bRd",
+  "followers": {
+    "href": null,
+    "total": 167
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273393291b4127852a98f53cc8f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02393291b4127852a98f53cc8f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851393291b4127852a98f53cc8f",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1f8OrSiIMAkvBfrStI8bRd"
+  }
+}

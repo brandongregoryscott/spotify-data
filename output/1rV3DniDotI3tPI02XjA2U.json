@@ -1,0 +1,34 @@
+{
+  "id": "1rV3DniDotI3tPI02XjA2U",
+  "name": "Clone Defects",
+  "uri": "spotify:artist:1rV3DniDotI3tPI02XjA2U",
+  "followers": {
+    "href": null,
+    "total": 1030
+  },
+  "genres": [
+    "detroit rock",
+    "garage pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730aeb364aa7f2f42654fd5ff0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020aeb364aa7f2f42654fd5ff0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510aeb364aa7f2f42654fd5ff0",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1rV3DniDotI3tPI02XjA2U"
+  }
+}

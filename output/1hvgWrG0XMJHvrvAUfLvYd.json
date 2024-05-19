@@ -1,0 +1,33 @@
+{
+  "id": "1hvgWrG0XMJHvrvAUfLvYd",
+  "name": "Opus VII",
+  "uri": "spotify:artist:1hvgWrG0XMJHvrvAUfLvYd",
+  "followers": {
+    "href": null,
+    "total": 448
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb27e25896197449d30fc48484",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517427e25896197449d30fc48484",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17827e25896197449d30fc48484",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1hvgWrG0XMJHvrvAUfLvYd"
+  }
+}

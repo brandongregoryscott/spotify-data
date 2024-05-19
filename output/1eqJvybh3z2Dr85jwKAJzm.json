@@ -1,0 +1,33 @@
+{
+  "id": "1eqJvybh3z2Dr85jwKAJzm",
+  "name": "TC Superstar",
+  "uri": "spotify:artist:1eqJvybh3z2Dr85jwKAJzm",
+  "followers": {
+    "href": null,
+    "total": 5476
+  },
+  "genres": [
+    "austindie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb32f00a255ba47330dd1f5403",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517432f00a255ba47330dd1f5403",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17832f00a255ba47330dd1f5403",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1eqJvybh3z2Dr85jwKAJzm"
+  }
+}

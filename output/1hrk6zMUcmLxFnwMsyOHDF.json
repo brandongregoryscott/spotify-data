@@ -1,0 +1,33 @@
+{
+  "id": "1hrk6zMUcmLxFnwMsyOHDF",
+  "name": "K.Raydio",
+  "uri": "spotify:artist:1hrk6zMUcmLxFnwMsyOHDF",
+  "followers": {
+    "href": null,
+    "total": 2179
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe5cd4895b0162b3c46c92cf5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e5cd4895b0162b3c46c92cf5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e5cd4895b0162b3c46c92cf5",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1hrk6zMUcmLxFnwMsyOHDF"
+  }
+}

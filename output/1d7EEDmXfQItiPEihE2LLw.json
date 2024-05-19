@@ -1,0 +1,33 @@
+{
+  "id": "1d7EEDmXfQItiPEihE2LLw",
+  "name": "Krebuu",
+  "uri": "spotify:artist:1d7EEDmXfQItiPEihE2LLw",
+  "followers": {
+    "href": null,
+    "total": 523
+  },
+  "genres": [
+    "furry"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc0332f6ba627cbec894285d7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c0332f6ba627cbec894285d7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c0332f6ba627cbec894285d7",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1d7EEDmXfQItiPEihE2LLw"
+  }
+}

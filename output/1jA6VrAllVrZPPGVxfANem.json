@@ -1,0 +1,33 @@
+{
+  "id": "1jA6VrAllVrZPPGVxfANem",
+  "name": "saaa",
+  "uri": "spotify:artist:1jA6VrAllVrZPPGVxfANem",
+  "followers": {
+    "href": null,
+    "total": 409
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb16ce8818e97580fc7603692f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517416ce8818e97580fc7603692f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17816ce8818e97580fc7603692f",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1jA6VrAllVrZPPGVxfANem"
+  }
+}

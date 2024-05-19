@@ -1,0 +1,33 @@
+{
+  "id": "1qkOywtBVUNErJBM9Itm1A",
+  "name": "Bloomurian",
+  "uri": "spotify:artist:1qkOywtBVUNErJBM9Itm1A",
+  "followers": {
+    "href": null,
+    "total": 1594
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb37d0bc0b37441226ec96b3f2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517437d0bc0b37441226ec96b3f2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17837d0bc0b37441226ec96b3f2",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1qkOywtBVUNErJBM9Itm1A"
+  }
+}

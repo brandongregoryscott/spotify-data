@@ -1,0 +1,33 @@
+{
+  "id": "1w96WObBxzdmbFldcRQHF8",
+  "name": "Malicious",
+  "uri": "spotify:artist:1w96WObBxzdmbFldcRQHF8",
+  "followers": {
+    "href": null,
+    "total": 448
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c54ffb88f0396a1901605f9b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c54ffb88f0396a1901605f9b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c54ffb88f0396a1901605f9b",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1w96WObBxzdmbFldcRQHF8"
+  }
+}

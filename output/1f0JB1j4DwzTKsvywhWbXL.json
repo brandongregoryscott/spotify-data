@@ -1,0 +1,33 @@
+{
+  "id": "1f0JB1j4DwzTKsvywhWbXL",
+  "name": "Evan",
+  "uri": "spotify:artist:1f0JB1j4DwzTKsvywhWbXL",
+  "followers": {
+    "href": null,
+    "total": 324
+  },
+  "genres": [
+    "mexican pop punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb843d06ef4ad24b691128dad7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174843d06ef4ad24b691128dad7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178843d06ef4ad24b691128dad7",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1f0JB1j4DwzTKsvywhWbXL"
+  }
+}
