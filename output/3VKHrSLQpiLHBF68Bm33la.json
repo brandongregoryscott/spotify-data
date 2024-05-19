@@ -1,0 +1,33 @@
+{
+  "id": "3VKHrSLQpiLHBF68Bm33la",
+  "name": "Gang Time",
+  "uri": "spotify:artist:3VKHrSLQpiLHBF68Bm33la",
+  "followers": {
+    "href": null,
+    "total": 63
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf4519e28b4ef379ec1e20323",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f4519e28b4ef379ec1e20323",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f4519e28b4ef379ec1e20323",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3VKHrSLQpiLHBF68Bm33la"
+  }
+}

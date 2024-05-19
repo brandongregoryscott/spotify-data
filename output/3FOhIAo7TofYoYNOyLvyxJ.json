@@ -1,0 +1,33 @@
+{
+  "id": "3FOhIAo7TofYoYNOyLvyxJ",
+  "name": "Carbon Monoxide",
+  "uri": "spotify:artist:3FOhIAo7TofYoYNOyLvyxJ",
+  "followers": {
+    "href": null,
+    "total": 926
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb20adc9392a50967b55b7b57b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517420adc9392a50967b55b7b57b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17820adc9392a50967b55b7b57b",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3FOhIAo7TofYoYNOyLvyxJ"
+  }
+}

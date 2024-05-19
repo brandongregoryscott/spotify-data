@@ -1,0 +1,33 @@
+{
+  "id": "3OZW7ELARiHhIhvhQ4FLCy",
+  "name": "Carlos Trvp",
+  "uri": "spotify:artist:3OZW7ELARiHhIhvhQ4FLCy",
+  "followers": {
+    "href": null,
+    "total": 7231
+  },
+  "genres": [
+    "dembow dominicano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb326cf693caa81216eb3b59ef",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174326cf693caa81216eb3b59ef",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178326cf693caa81216eb3b59ef",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3OZW7ELARiHhIhvhQ4FLCy"
+  }
+}

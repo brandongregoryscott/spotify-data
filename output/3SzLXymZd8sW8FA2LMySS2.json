@@ -1,0 +1,34 @@
+{
+  "id": "3SzLXymZd8sW8FA2LMySS2",
+  "name": "Executioner",
+  "uri": "spotify:artist:3SzLXymZd8sW8FA2LMySS2",
+  "followers": {
+    "href": null,
+    "total": 2325
+  },
+  "genres": [
+    "riddim dubstep",
+    "tearout"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb502ab1de82b30962a4fc66fb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174502ab1de82b30962a4fc66fb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178502ab1de82b30962a4fc66fb",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3SzLXymZd8sW8FA2LMySS2"
+  }
+}

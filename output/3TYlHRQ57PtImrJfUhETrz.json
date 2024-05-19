@@ -1,0 +1,33 @@
+{
+  "id": "3TYlHRQ57PtImrJfUhETrz",
+  "name": "Social C",
+  "uri": "spotify:artist:3TYlHRQ57PtImrJfUhETrz",
+  "followers": {
+    "href": null,
+    "total": 47
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5f865bb941b5a4272e158d17",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051745f865bb941b5a4272e158d17",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1785f865bb941b5a4272e158d17",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3TYlHRQ57PtImrJfUhETrz"
+  }
+}

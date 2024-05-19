@@ -1,0 +1,33 @@
+{
+  "id": "3I15PAsKMrHlh2sYwiN34M",
+  "name": "Faces of Many",
+  "uri": "spotify:artist:3I15PAsKMrHlh2sYwiN34M",
+  "followers": {
+    "href": null,
+    "total": 74
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27388e86ab32f83f72b0dfd1360",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0288e86ab32f83f72b0dfd1360",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485188e86ab32f83f72b0dfd1360",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3I15PAsKMrHlh2sYwiN34M"
+  }
+}

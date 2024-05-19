@@ -1,0 +1,33 @@
+{
+  "id": "3QABEE2hggcdeYHN7K8an5",
+  "name": "Ezel",
+  "uri": "spotify:artist:3QABEE2hggcdeYHN7K8an5",
+  "followers": {
+    "href": null,
+    "total": 3038
+  },
+  "genres": [
+    "soulful house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb04b76e8f23c3083f5340ca47",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517404b76e8f23c3083f5340ca47",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17804b76e8f23c3083f5340ca47",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3QABEE2hggcdeYHN7K8an5"
+  }
+}

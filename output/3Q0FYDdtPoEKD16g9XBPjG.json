@@ -1,0 +1,33 @@
+{
+  "id": "3Q0FYDdtPoEKD16g9XBPjG",
+  "name": "ANGO",
+  "uri": "spotify:artist:3Q0FYDdtPoEKD16g9XBPjG",
+  "followers": {
+    "href": null,
+    "total": 3043
+  },
+  "genres": [
+    "hong kong hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbd30fa7679de8712eac4b615",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bd30fa7679de8712eac4b615",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bd30fa7679de8712eac4b615",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Q0FYDdtPoEKD16g9XBPjG"
+  }
+}

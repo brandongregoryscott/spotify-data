@@ -1,0 +1,33 @@
+{
+  "id": "3OY3MpXlUkF4853gE1AJuZ",
+  "name": "On One",
+  "uri": "spotify:artist:3OY3MpXlUkF4853gE1AJuZ",
+  "followers": {
+    "href": null,
+    "total": 466
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e581d4b7a4cc836ddd5e7667",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e581d4b7a4cc836ddd5e7667",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e581d4b7a4cc836ddd5e7667",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3OY3MpXlUkF4853gE1AJuZ"
+  }
+}

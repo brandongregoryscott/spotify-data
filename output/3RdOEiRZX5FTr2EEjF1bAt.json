@@ -1,0 +1,33 @@
+{
+  "id": "3RdOEiRZX5FTr2EEjF1bAt",
+  "name": "Inópia",
+  "uri": "spotify:artist:3RdOEiRZX5FTr2EEjF1bAt",
+  "followers": {
+    "href": null,
+    "total": 55
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbaf51f7bfa4ce64d3619276e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174baf51f7bfa4ce64d3619276e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178baf51f7bfa4ce64d3619276e",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3RdOEiRZX5FTr2EEjF1bAt"
+  }
+}

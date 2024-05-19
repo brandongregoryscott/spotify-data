@@ -1,0 +1,34 @@
+{
+  "id": "3KXxNSegk9keTDArt5YQMm",
+  "name": "The Local Honeys",
+  "uri": "spotify:artist:3KXxNSegk9keTDArt5YQMm",
+  "followers": {
+    "href": null,
+    "total": 15574
+  },
+  "genres": [
+    "kentucky roots",
+    "roots americana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaae5ac8703fe5566c23a12d9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aae5ac8703fe5566c23a12d9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aae5ac8703fe5566c23a12d9",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3KXxNSegk9keTDArt5YQMm"
+  }
+}

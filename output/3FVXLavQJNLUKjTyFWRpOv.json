@@ -1,0 +1,33 @@
+{
+  "id": "3FVXLavQJNLUKjTyFWRpOv",
+  "name": "An Early Bird",
+  "uri": "spotify:artist:3FVXLavQJNLUKjTyFWRpOv",
+  "followers": {
+    "href": null,
+    "total": 993
+  },
+  "genres": [
+    "indie rock italiano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf376f6bf89033b6909dd88f3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f376f6bf89033b6909dd88f3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f376f6bf89033b6909dd88f3",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3FVXLavQJNLUKjTyFWRpOv"
+  }
+}

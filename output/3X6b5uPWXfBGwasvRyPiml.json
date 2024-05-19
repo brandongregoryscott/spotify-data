@@ -1,0 +1,33 @@
+{
+  "id": "3X6b5uPWXfBGwasvRyPiml",
+  "name": "The English Band",
+  "uri": "spotify:artist:3X6b5uPWXfBGwasvRyPiml",
+  "followers": {
+    "href": null,
+    "total": 767
+  },
+  "genres": [
+    "deep christian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273338407b29e0706d9d3c45eaf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02338407b29e0706d9d3c45eaf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851338407b29e0706d9d3c45eaf",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3X6b5uPWXfBGwasvRyPiml"
+  }
+}

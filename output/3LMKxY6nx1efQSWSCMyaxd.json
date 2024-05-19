@@ -1,0 +1,33 @@
+{
+  "id": "3LMKxY6nx1efQSWSCMyaxd",
+  "name": "Willowbrook",
+  "uri": "spotify:artist:3LMKxY6nx1efQSWSCMyaxd",
+  "followers": {
+    "href": null,
+    "total": 7467
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6e471367826feea37f53ddcb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051746e471367826feea37f53ddcb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1786e471367826feea37f53ddcb",
+      "width": 160
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3LMKxY6nx1efQSWSCMyaxd"
+  }
+}

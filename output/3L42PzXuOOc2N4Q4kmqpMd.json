@@ -1,0 +1,33 @@
+{
+  "id": "3L42PzXuOOc2N4Q4kmqpMd",
+  "name": "Person B",
+  "uri": "spotify:artist:3L42PzXuOOc2N4Q4kmqpMd",
+  "followers": {
+    "href": null,
+    "total": 588
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb3a69c5cd97501e13503c0fe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b3a69c5cd97501e13503c0fe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b3a69c5cd97501e13503c0fe",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3L42PzXuOOc2N4Q4kmqpMd"
+  }
+}

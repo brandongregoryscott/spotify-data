@@ -1,0 +1,33 @@
+{
+  "id": "3EstoZcq6ILPzFbMHvIolA",
+  "name": "Garr",
+  "uri": "spotify:artist:3EstoZcq6ILPzFbMHvIolA",
+  "followers": {
+    "href": null,
+    "total": 1543
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb01163823135de26513849960",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517401163823135de26513849960",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17801163823135de26513849960",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3EstoZcq6ILPzFbMHvIolA"
+  }
+}

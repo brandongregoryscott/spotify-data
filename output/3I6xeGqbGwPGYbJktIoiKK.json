@@ -1,0 +1,34 @@
+{
+  "id": "3I6xeGqbGwPGYbJktIoiKK",
+  "name": "Los Transeúntes",
+  "uri": "spotify:artist:3I6xeGqbGwPGYbJktIoiKK",
+  "followers": {
+    "href": null,
+    "total": 310
+  },
+  "genres": [
+    "indie rock colombiano",
+    "post-punk colombiano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebda235ed46efe9feb91d961ac",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174da235ed46efe9feb91d961ac",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178da235ed46efe9feb91d961ac",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3I6xeGqbGwPGYbJktIoiKK"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3SPZeBJHF1lpyJAchXrcLK",
+  "name": "Dire",
+  "uri": "spotify:artist:3SPZeBJHF1lpyJAchXrcLK",
+  "followers": {
+    "href": null,
+    "total": 55
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cfbd0f20a05c905af7add558",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cfbd0f20a05c905af7add558",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cfbd0f20a05c905af7add558",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3SPZeBJHF1lpyJAchXrcLK"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3Xig7v39xZo7dxt2gTOK2k",
+  "name": "malté",
+  "uri": "spotify:artist:3Xig7v39xZo7dxt2gTOK2k",
+  "followers": {
+    "href": null,
+    "total": 472
+  },
+  "genres": [
+    "swedish pop rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb378685cd68d36af072feba1d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174378685cd68d36af072feba1d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178378685cd68d36af072feba1d",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Xig7v39xZo7dxt2gTOK2k"
+  }
+}

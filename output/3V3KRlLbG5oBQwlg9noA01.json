@@ -1,0 +1,33 @@
+{
+  "id": "3V3KRlLbG5oBQwlg9noA01",
+  "name": "Lo Go",
+  "uri": "spotify:artist:3V3KRlLbG5oBQwlg9noA01",
+  "followers": {
+    "href": null,
+    "total": 45
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a39ca94b7fc3ef9e8468edae",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a39ca94b7fc3ef9e8468edae",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a39ca94b7fc3ef9e8468edae",
+      "width": 64
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3V3KRlLbG5oBQwlg9noA01"
+  }
+}

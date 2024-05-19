@@ -1,0 +1,33 @@
+{
+  "id": "3WdDxnyyYJgYLxrLPXSVyz",
+  "name": "Neptune",
+  "uri": "spotify:artist:3WdDxnyyYJgYLxrLPXSVyz",
+  "followers": {
+    "href": null,
+    "total": 21852
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe698f40c7ddb8e9d4364a59c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e698f40c7ddb8e9d4364a59c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e698f40c7ddb8e9d4364a59c",
+      "width": 160
+    }
+  ],
+  "popularity": 39,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz"
+  }
+}

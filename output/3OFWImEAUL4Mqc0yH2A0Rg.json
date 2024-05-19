@@ -1,0 +1,33 @@
+{
+  "id": "3OFWImEAUL4Mqc0yH2A0Rg",
+  "name": "Sam is Ohm",
+  "uri": "spotify:artist:3OFWImEAUL4Mqc0yH2A0Rg",
+  "followers": {
+    "href": null,
+    "total": 888
+  },
+  "genres": [
+    "japanese r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaed2b076621d85bad2252b57",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aed2b076621d85bad2252b57",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aed2b076621d85bad2252b57",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3QPL6MtLNSi2AMhtXTdhuY",
+  "name": "Casa Sotaventina",
+  "uri": "spotify:artist:3QPL6MtLNSi2AMhtXTdhuY",
+  "followers": {
+    "href": null,
+    "total": 372
+  },
+  "genres": [
+    "mexican son"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebca3f45fd283ad64a7a060fc0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ca3f45fd283ad64a7a060fc0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ca3f45fd283ad64a7a060fc0",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3QPL6MtLNSi2AMhtXTdhuY"
+  }
+}

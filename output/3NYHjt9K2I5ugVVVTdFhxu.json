@@ -1,0 +1,33 @@
+{
+  "id": "3NYHjt9K2I5ugVVVTdFhxu",
+  "name": "Crazy Pea",
+  "uri": "spotify:artist:3NYHjt9K2I5ugVVVTdFhxu",
+  "followers": {
+    "href": null,
+    "total": 105
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f07e87f343edc45bdfecc47c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f07e87f343edc45bdfecc47c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f07e87f343edc45bdfecc47c",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3NYHjt9K2I5ugVVVTdFhxu"
+  }
+}

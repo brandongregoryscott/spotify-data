@@ -1,0 +1,33 @@
+{
+  "id": "3U2wgGAKvvgvxmvI4EOaFD",
+  "name": "Digno García",
+  "uri": "spotify:artist:3U2wgGAKvvgvxmvI4EOaFD",
+  "followers": {
+    "href": null,
+    "total": 983
+  },
+  "genres": [
+    "arpa paraguaya"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27329f8bb61905393d689c81b0e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0229f8bb61905393d689c81b0e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485129f8bb61905393d689c81b0e",
+      "width": 64
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3U2wgGAKvvgvxmvI4EOaFD"
+  }
+}

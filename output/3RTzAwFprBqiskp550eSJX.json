@@ -1,0 +1,36 @@
+{
+  "id": "3RTzAwFprBqiskp550eSJX",
+  "name": "Harry Nilsson",
+  "uri": "spotify:artist:3RTzAwFprBqiskp550eSJX",
+  "followers": {
+    "href": null,
+    "total": 474344
+  },
+  "genres": [
+    "classic rock",
+    "folk",
+    "folk rock",
+    "singer-songwriter"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb18da36ab937c35a16339ebec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517418da36ab937c35a16339ebec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17818da36ab937c35a16339ebec",
+      "width": 160
+    }
+  ],
+  "popularity": 55,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
+  }
+}

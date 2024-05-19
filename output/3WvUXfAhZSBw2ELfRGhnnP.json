@@ -1,0 +1,35 @@
+{
+  "id": "3WvUXfAhZSBw2ELfRGhnnP",
+  "name": "Emmon",
+  "uri": "spotify:artist:3WvUXfAhZSBw2ELfRGhnnP",
+  "followers": {
+    "href": null,
+    "total": 3958
+  },
+  "genres": [
+    "neo-synthpop",
+    "swedish electropop",
+    "swedish synthpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbb3f678ea18eadcef807e27e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bb3f678ea18eadcef807e27e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bb3f678ea18eadcef807e27e",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3WvUXfAhZSBw2ELfRGhnnP"
+  }
+}

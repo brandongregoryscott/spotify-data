@@ -1,0 +1,33 @@
+{
+  "id": "3PMlsZ647nHfCIjFWOeEWq",
+  "name": "Oeil Cube",
+  "uri": "spotify:artist:3PMlsZ647nHfCIjFWOeEWq",
+  "followers": {
+    "href": null,
+    "total": 478
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273368fce7e5f2d34e500159cde",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02368fce7e5f2d34e500159cde",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851368fce7e5f2d34e500159cde",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3PMlsZ647nHfCIjFWOeEWq"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3GrMxPCWQ837MDXkcvvhgE",
+  "name": "Burris",
+  "uri": "spotify:artist:3GrMxPCWQ837MDXkcvvhgE",
+  "followers": {
+    "href": null,
+    "total": 408
+  },
+  "genres": [
+    "baton rouge indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebebe7c060ab194c9054760d1e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ebe7c060ab194c9054760d1e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ebe7c060ab194c9054760d1e",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3GrMxPCWQ837MDXkcvvhgE"
+  }
+}

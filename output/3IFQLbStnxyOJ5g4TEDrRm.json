@@ -1,0 +1,33 @@
+{
+  "id": "3IFQLbStnxyOJ5g4TEDrRm",
+  "name": "PRADA2000",
+  "uri": "spotify:artist:3IFQLbStnxyOJ5g4TEDrRm",
+  "followers": {
+    "href": null,
+    "total": 1662
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb63c125e52b2a21ea250fd6db",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517463c125e52b2a21ea250fd6db",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17863c125e52b2a21ea250fd6db",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3IFQLbStnxyOJ5g4TEDrRm"
+  }
+}
