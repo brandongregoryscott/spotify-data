@@ -1,0 +1,33 @@
+{
+  "id": "65aBg81xk49Vz1Qts7HFTT",
+  "name": "Marip",
+  "uri": "spotify:artist:65aBg81xk49Vz1Qts7HFTT",
+  "followers": {
+    "href": null,
+    "total": 11
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273737b0caf8ed9006a386cfb8c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02737b0caf8ed9006a386cfb8c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851737b0caf8ed9006a386cfb8c",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/65aBg81xk49Vz1Qts7HFTT"
+  }
+}

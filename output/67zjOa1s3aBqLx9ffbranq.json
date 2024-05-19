@@ -1,0 +1,33 @@
+{
+  "id": "67zjOa1s3aBqLx9ffbranq",
+  "name": "Bobmo",
+  "uri": "spotify:artist:67zjOa1s3aBqLx9ffbranq",
+  "followers": {
+    "href": null,
+    "total": 3466
+  },
+  "genres": [
+    "destroy techno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb78755ff0452a3db1bd4533d6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517478755ff0452a3db1bd4533d6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17878755ff0452a3db1bd4533d6",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/67zjOa1s3aBqLx9ffbranq"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5tbk3EBHcg3OepfhlLYvJY",
+  "name": "K.D.",
+  "uri": "spotify:artist:5tbk3EBHcg3OepfhlLYvJY",
+  "followers": {
+    "href": null,
+    "total": 135
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6dcc50e1f49b46e95f639209",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051746dcc50e1f49b46e95f639209",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1786dcc50e1f49b46e95f639209",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5tbk3EBHcg3OepfhlLYvJY"
+  }
+}

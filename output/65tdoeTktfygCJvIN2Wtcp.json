@@ -1,0 +1,33 @@
+{
+  "id": "65tdoeTktfygCJvIN2Wtcp",
+  "name": "Gametime",
+  "uri": "spotify:artist:65tdoeTktfygCJvIN2Wtcp",
+  "followers": {
+    "href": null,
+    "total": 459
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe7be3137e171e8b425e1c6a3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e7be3137e171e8b425e1c6a3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e7be3137e171e8b425e1c6a3",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/65tdoeTktfygCJvIN2Wtcp"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "61Vt53oCN7RJT4khPUFfFU",
+  "name": "Dr.Sykerö",
+  "uri": "spotify:artist:61Vt53oCN7RJT4khPUFfFU",
+  "followers": {
+    "href": null,
+    "total": 318
+  },
+  "genres": [
+    "suomirap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb10a05a3e5f3bd34b0f3f83c5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517410a05a3e5f3bd34b0f3f83c5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17810a05a3e5f3bd34b0f3f83c5",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/61Vt53oCN7RJT4khPUFfFU"
+  }
+}

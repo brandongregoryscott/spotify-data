@@ -1,0 +1,33 @@
+{
+  "id": "5wb5QmufzBWk1wkmw2qtDJ",
+  "name": "Zombi",
+  "uri": "spotify:artist:5wb5QmufzBWk1wkmw2qtDJ",
+  "followers": {
+    "href": null,
+    "total": 15364
+  },
+  "genres": [
+    "horror synth"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb643d022be80540bff3167eb2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174643d022be80540bff3167eb2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178643d022be80540bff3167eb2",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5wb5QmufzBWk1wkmw2qtDJ"
+  }
+}

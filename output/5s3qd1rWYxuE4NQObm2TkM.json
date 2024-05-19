@@ -1,0 +1,33 @@
+{
+  "id": "5s3qd1rWYxuE4NQObm2TkM",
+  "name": "Travail",
+  "uri": "spotify:artist:5s3qd1rWYxuE4NQObm2TkM",
+  "followers": {
+    "href": null,
+    "total": 463
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731007a277e92648b2cb551af6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021007a277e92648b2cb551af6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511007a277e92648b2cb551af6",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5s3qd1rWYxuE4NQObm2TkM"
+  }
+}

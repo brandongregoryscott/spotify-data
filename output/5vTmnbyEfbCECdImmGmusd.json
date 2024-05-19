@@ -1,0 +1,33 @@
+{
+  "id": "5vTmnbyEfbCECdImmGmusd",
+  "name": "Van der Moon",
+  "uri": "spotify:artist:5vTmnbyEfbCECdImmGmusd",
+  "followers": {
+    "href": null,
+    "total": 263
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfbec89cd164999a42fc96483",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fbec89cd164999a42fc96483",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fbec89cd164999a42fc96483",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5vTmnbyEfbCECdImmGmusd"
+  }
+}

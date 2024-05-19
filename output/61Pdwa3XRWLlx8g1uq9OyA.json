@@ -1,0 +1,33 @@
+{
+  "id": "61Pdwa3XRWLlx8g1uq9OyA",
+  "name": "Sarah Johnsone",
+  "uri": "spotify:artist:61Pdwa3XRWLlx8g1uq9OyA",
+  "followers": {
+    "href": null,
+    "total": 514
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb161782ee61759f2bf031ff30",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174161782ee61759f2bf031ff30",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178161782ee61759f2bf031ff30",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/61Pdwa3XRWLlx8g1uq9OyA"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5xyfXlLxkCSwjU6FLkXlel",
+  "name": "Prosper",
+  "uri": "spotify:artist:5xyfXlLxkCSwjU6FLkXlel",
+  "followers": {
+    "href": null,
+    "total": 75
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27318564098dcf3201c936fe5bf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0218564098dcf3201c936fe5bf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485118564098dcf3201c936fe5bf",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5xyfXlLxkCSwjU6FLkXlel"
+  }
+}

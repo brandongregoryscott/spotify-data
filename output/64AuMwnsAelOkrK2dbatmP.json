@@ -1,0 +1,33 @@
+{
+  "id": "64AuMwnsAelOkrK2dbatmP",
+  "name": "Lil Benjas",
+  "uri": "spotify:artist:64AuMwnsAelOkrK2dbatmP",
+  "followers": {
+    "href": null,
+    "total": 8543
+  },
+  "genres": [
+    "rap regio"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb11940c012e5d88ff4fe9dc57",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517411940c012e5d88ff4fe9dc57",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17811940c012e5d88ff4fe9dc57",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP"
+  }
+}

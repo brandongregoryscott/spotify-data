@@ -1,0 +1,33 @@
+{
+  "id": "5vbyrjnk7G0szKm6ED9oes",
+  "name": "Light Tower",
+  "uri": "spotify:artist:5vbyrjnk7G0szKm6ED9oes",
+  "followers": {
+    "href": null,
+    "total": 123
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb59b194cf129acdc3ce1be095",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517459b194cf129acdc3ce1be095",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17859b194cf129acdc3ce1be095",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5vbyrjnk7G0szKm6ED9oes"
+  }
+}

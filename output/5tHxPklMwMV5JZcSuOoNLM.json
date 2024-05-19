@@ -1,0 +1,33 @@
+{
+  "id": "5tHxPklMwMV5JZcSuOoNLM",
+  "name": "Eddie Richards",
+  "uri": "spotify:artist:5tHxPklMwMV5JZcSuOoNLM",
+  "followers": {
+    "href": null,
+    "total": 2092
+  },
+  "genres": [
+    "uk house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27381286f481360ab88bf17d6a0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0281286f481360ab88bf17d6a0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485181286f481360ab88bf17d6a0",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5tHxPklMwMV5JZcSuOoNLM"
+  }
+}

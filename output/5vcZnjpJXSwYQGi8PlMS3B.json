@@ -1,0 +1,33 @@
+{
+  "id": "5vcZnjpJXSwYQGi8PlMS3B",
+  "name": "Ryder Spot",
+  "uri": "spotify:artist:5vcZnjpJXSwYQGi8PlMS3B",
+  "followers": {
+    "href": null,
+    "total": 11066
+  },
+  "genres": [
+    "drift phonk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf5b17fe4f4e4392842ce4f7f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f5b17fe4f4e4392842ce4f7f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f5b17fe4f4e4392842ce4f7f",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5vcZnjpJXSwYQGi8PlMS3B"
+  }
+}

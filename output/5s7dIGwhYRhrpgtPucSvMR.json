@@ -1,0 +1,33 @@
+{
+  "id": "5s7dIGwhYRhrpgtPucSvMR",
+  "name": "Morris & Watson",
+  "uri": "spotify:artist:5s7dIGwhYRhrpgtPucSvMR",
+  "followers": {
+    "href": null,
+    "total": 94
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe075ab7ea3f43385b372f487",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e075ab7ea3f43385b372f487",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e075ab7ea3f43385b372f487",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5s7dIGwhYRhrpgtPucSvMR"
+  }
+}

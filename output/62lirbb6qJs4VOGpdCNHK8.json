@@ -1,0 +1,33 @@
+{
+  "id": "62lirbb6qJs4VOGpdCNHK8",
+  "name": "MILCK",
+  "uri": "spotify:artist:62lirbb6qJs4VOGpdCNHK8",
+  "followers": {
+    "href": null,
+    "total": 58891
+  },
+  "genres": [
+    "la pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc2f3a3867b42dc172ef1c178",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c2f3a3867b42dc172ef1c178",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c2f3a3867b42dc172ef1c178",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8"
+  }
+}

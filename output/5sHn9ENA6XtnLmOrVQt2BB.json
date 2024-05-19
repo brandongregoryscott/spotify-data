@@ -1,0 +1,33 @@
+{
+  "id": "5sHn9ENA6XtnLmOrVQt2BB",
+  "name": "Beshken",
+  "uri": "spotify:artist:5sHn9ENA6XtnLmOrVQt2BB",
+  "followers": {
+    "href": null,
+    "total": 21866
+  },
+  "genres": [
+    "vapor soul"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb235d8b9bbc8dbf4c26a45240",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174235d8b9bbc8dbf4c26a45240",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178235d8b9bbc8dbf4c26a45240",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB"
+  }
+}

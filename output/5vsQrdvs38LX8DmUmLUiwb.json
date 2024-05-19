@@ -1,0 +1,33 @@
+{
+  "id": "5vsQrdvs38LX8DmUmLUiwb",
+  "name": "sana",
+  "uri": "spotify:artist:5vsQrdvs38LX8DmUmLUiwb",
+  "followers": {
+    "href": null,
+    "total": 1766
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f1b679c368d002ed755133f9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f1b679c368d002ed755133f9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f1b679c368d002ed755133f9",
+      "width": 64
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5vsQrdvs38LX8DmUmLUiwb"
+  }
+}

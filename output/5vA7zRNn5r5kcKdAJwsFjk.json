@@ -1,0 +1,33 @@
+{
+  "id": "5vA7zRNn5r5kcKdAJwsFjk",
+  "name": "Freddy Jones Band",
+  "uri": "spotify:artist:5vA7zRNn5r5kcKdAJwsFjk",
+  "followers": {
+    "href": null,
+    "total": 14563
+  },
+  "genres": [
+    "roots rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb51cdeacc6dfd3e7f02d59fe6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517451cdeacc6dfd3e7f02d59fe6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17851cdeacc6dfd3e7f02d59fe6",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5vA7zRNn5r5kcKdAJwsFjk"
+  }
+}

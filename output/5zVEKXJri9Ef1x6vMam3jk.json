@@ -1,0 +1,33 @@
+{
+  "id": "5zVEKXJri9Ef1x6vMam3jk",
+  "name": "Vino",
+  "uri": "spotify:artist:5zVEKXJri9Ef1x6vMam3jk",
+  "followers": {
+    "href": null,
+    "total": 731
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbfc3ec1323e8274e16cbc142",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bfc3ec1323e8274e16cbc142",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bfc3ec1323e8274e16cbc142",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5zVEKXJri9Ef1x6vMam3jk"
+  }
+}

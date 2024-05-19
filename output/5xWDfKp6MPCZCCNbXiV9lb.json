@@ -1,0 +1,33 @@
+{
+  "id": "5xWDfKp6MPCZCCNbXiV9lb",
+  "name": "Lazy Bones",
+  "uri": "spotify:artist:5xWDfKp6MPCZCCNbXiV9lb",
+  "followers": {
+    "href": null,
+    "total": 528
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb31c9b9d07ef685135d44b50e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517431c9b9d07ef685135d44b50e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17831c9b9d07ef685135d44b50e",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5xWDfKp6MPCZCCNbXiV9lb"
+  }
+}

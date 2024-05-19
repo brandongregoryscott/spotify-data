@@ -1,0 +1,28 @@
+{
+  "id": "5zO7OYFWteJtQyg0iBKhyH",
+  "name": "Jon Thorne",
+  "uri": "spotify:artist:5zO7OYFWteJtQyg0iBKhyH",
+  "followers": {
+    "href": null,
+    "total": 56
+  },
+  "genres": [
+    "choral"
+  ],
+  "images": [
+    {
+      "height": 720,
+      "url": "https://i.scdn.co/image/ab6742d3000053b7d5be70cc1c6c8bcc847e3c72",
+      "width": 1280
+    },
+    {
+      "height": 360,
+      "url": "https://i.scdn.co/image/ab6742d3000052b7d5be70cc1c6c8bcc847e3c72",
+      "width": 640
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5zO7OYFWteJtQyg0iBKhyH"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "60TCNWEosNkmHbE0T7CI4m",
+  "name": "Delectatio",
+  "uri": "spotify:artist:60TCNWEosNkmHbE0T7CI4m",
+  "followers": {
+    "href": null,
+    "total": 2728
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebde628f3325bd812899e66a48",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174de628f3325bd812899e66a48",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178de628f3325bd812899e66a48",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/60TCNWEosNkmHbE0T7CI4m"
+  }
+}

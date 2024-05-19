@@ -1,0 +1,33 @@
+{
+  "id": "5pozEOv3GTiqiiWYpl5ttU",
+  "name": "GENDEMA",
+  "uri": "spotify:artist:5pozEOv3GTiqiiWYpl5ttU",
+  "followers": {
+    "href": null,
+    "total": 499
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdaa36fdcf57cccab8443de8a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174daa36fdcf57cccab8443de8a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178daa36fdcf57cccab8443de8a",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5pozEOv3GTiqiiWYpl5ttU"
+  }
+}

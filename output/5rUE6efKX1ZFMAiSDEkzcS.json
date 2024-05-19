@@ -1,0 +1,33 @@
+{
+  "id": "5rUE6efKX1ZFMAiSDEkzcS",
+  "name": "ぺぽよ",
+  "uri": "spotify:artist:5rUE6efKX1ZFMAiSDEkzcS",
+  "followers": {
+    "href": null,
+    "total": 21299
+  },
+  "genres": [
+    "vocaloid"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d8794afb191756bf5894387d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d8794afb191756bf5894387d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485148afca83bae2dc03b2c61856",
+      "width": 64
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5rUE6efKX1ZFMAiSDEkzcS"
+  }
+}

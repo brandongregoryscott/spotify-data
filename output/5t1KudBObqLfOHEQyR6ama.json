@@ -1,0 +1,33 @@
+{
+  "id": "5t1KudBObqLfOHEQyR6ama",
+  "name": "Greener Grounds",
+  "uri": "spotify:artist:5t1KudBObqLfOHEQyR6ama",
+  "followers": {
+    "href": null,
+    "total": 1400
+  },
+  "genres": [
+    "jamtronica"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273216ae46fb7fedfd955e0f874",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02216ae46fb7fedfd955e0f874",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851216ae46fb7fedfd955e0f874",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5t1KudBObqLfOHEQyR6ama"
+  }
+}

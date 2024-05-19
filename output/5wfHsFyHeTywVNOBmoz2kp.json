@@ -1,0 +1,33 @@
+{
+  "id": "5wfHsFyHeTywVNOBmoz2kp",
+  "name": "Sunrize",
+  "uri": "spotify:artist:5wfHsFyHeTywVNOBmoz2kp",
+  "followers": {
+    "href": null,
+    "total": 148
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba39272c029176b8bdce4cb25",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a39272c029176b8bdce4cb25",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a39272c029176b8bdce4cb25",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5wfHsFyHeTywVNOBmoz2kp"
+  }
+}

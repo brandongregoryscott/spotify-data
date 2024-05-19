@@ -1,0 +1,33 @@
+{
+  "id": "5wtoJittP2we2mco4QfpA4",
+  "name": "Firstep",
+  "uri": "spotify:artist:5wtoJittP2we2mco4QfpA4",
+  "followers": {
+    "href": null,
+    "total": 22
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731c06e27c153859e5fca11737",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021c06e27c153859e5fca11737",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511c06e27c153859e5fca11737",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5wtoJittP2we2mco4QfpA4"
+  }
+}

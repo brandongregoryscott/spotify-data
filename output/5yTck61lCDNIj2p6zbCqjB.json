@@ -1,0 +1,34 @@
+{
+  "id": "5yTck61lCDNIj2p6zbCqjB",
+  "name": "Ruth Anderson",
+  "uri": "spotify:artist:5yTck61lCDNIj2p6zbCqjB",
+  "followers": {
+    "href": null,
+    "total": 535
+  },
+  "genres": [
+    "acousmatic",
+    "american contemporary classical"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731e32ff258615107ce8b333b8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021e32ff258615107ce8b333b8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511e32ff258615107ce8b333b8",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5yTck61lCDNIj2p6zbCqjB"
+  }
+}

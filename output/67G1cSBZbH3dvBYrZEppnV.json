@@ -1,0 +1,33 @@
+{
+  "id": "67G1cSBZbH3dvBYrZEppnV",
+  "name": "Claude Glass",
+  "uri": "spotify:artist:67G1cSBZbH3dvBYrZEppnV",
+  "followers": {
+    "href": null,
+    "total": 100
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb06d65857deb437e16f2ba548",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517406d65857deb437e16f2ba548",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17806d65857deb437e16f2ba548",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/67G1cSBZbH3dvBYrZEppnV"
+  }
+}

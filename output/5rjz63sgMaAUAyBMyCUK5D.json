@@ -1,0 +1,35 @@
+{
+  "id": "5rjz63sgMaAUAyBMyCUK5D",
+  "name": "Avery Anna",
+  "uri": "spotify:artist:5rjz63sgMaAUAyBMyCUK5D",
+  "followers": {
+    "href": null,
+    "total": 117068
+  },
+  "genres": [
+    "alt z",
+    "modern country pop",
+    "singer-songwriter pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdb06a5103c1888cf9015ab62",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174db06a5103c1888cf9015ab62",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178db06a5103c1888cf9015ab62",
+      "width": 160
+    }
+  ],
+  "popularity": 55,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+  }
+}

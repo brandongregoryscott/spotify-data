@@ -1,0 +1,35 @@
+{
+  "id": "5vqARODQXch5hLlgBTk4wb",
+  "name": "Ganon",
+  "uri": "spotify:artist:5vqARODQXch5hLlgBTk4wb",
+  "followers": {
+    "href": null,
+    "total": 4706
+  },
+  "genres": [
+    "dubstep",
+    "gaming dubstep",
+    "riddim dubstep"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb46003dfc1c446ebefdd010c6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517446003dfc1c446ebefdd010c6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17846003dfc1c446ebefdd010c6",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5vqARODQXch5hLlgBTk4wb"
+  }
+}
