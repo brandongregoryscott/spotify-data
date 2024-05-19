@@ -1,0 +1,33 @@
+{
+  "id": "5MXapC6eOAxiSwxLyVsa36",
+  "name": "Floormodel",
+  "uri": "spotify:artist:5MXapC6eOAxiSwxLyVsa36",
+  "followers": {
+    "href": null,
+    "total": 27
+  },
+  "genres": [
+    "solipsynthm"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273af823f6d7e0e02e63afb55fc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02af823f6d7e0e02e63afb55fc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851af823f6d7e0e02e63afb55fc",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5MXapC6eOAxiSwxLyVsa36"
+  }
+}

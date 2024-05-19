@@ -1,0 +1,33 @@
+{
+  "id": "5HxD1kjjKZ0K0adufI1JXN",
+  "name": "Tae Dawg",
+  "uri": "spotify:artist:5HxD1kjjKZ0K0adufI1JXN",
+  "followers": {
+    "href": null,
+    "total": 2913
+  },
+  "genres": [
+    "dmv rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1dbae632832b964c4c32cc45",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051741dbae632832b964c4c32cc45",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1781dbae632832b964c4c32cc45",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5HxD1kjjKZ0K0adufI1JXN"
+  }
+}

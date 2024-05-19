@@ -1,0 +1,33 @@
+{
+  "id": "5KswpDEi0yj7oDdNhOjKxX",
+  "name": "WILX",
+  "uri": "spotify:artist:5KswpDEi0yj7oDdNhOjKxX",
+  "followers": {
+    "href": null,
+    "total": 741
+  },
+  "genres": [
+    "nashville hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb28e41df17a55090d1c0b4a7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b28e41df17a55090d1c0b4a7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b28e41df17a55090d1c0b4a7",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5KswpDEi0yj7oDdNhOjKxX"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5UUayWhF4lZ1vV58D59yQD",
+  "name": "Sörnäinen",
+  "uri": "spotify:artist:5UUayWhF4lZ1vV58D59yQD",
+  "followers": {
+    "href": null,
+    "total": 129
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbd61e7aae1b2c845c3e49f2a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bd61e7aae1b2c845c3e49f2a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bd61e7aae1b2c845c3e49f2a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5UUayWhF4lZ1vV58D59yQD"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5CEBgPIQYvgECBicrmdsSY",
+  "name": "Fran Roz",
+  "uri": "spotify:artist:5CEBgPIQYvgECBicrmdsSY",
+  "followers": {
+    "href": null,
+    "total": 1172
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb094eefa5f9ffabb7fb024f6d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174094eefa5f9ffabb7fb024f6d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178094eefa5f9ffabb7fb024f6d",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5CEBgPIQYvgECBicrmdsSY"
+  }
+}

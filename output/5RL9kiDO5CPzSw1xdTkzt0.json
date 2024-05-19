@@ -1,0 +1,33 @@
+{
+  "id": "5RL9kiDO5CPzSw1xdTkzt0",
+  "name": "abentis",
+  "uri": "spotify:artist:5RL9kiDO5CPzSw1xdTkzt0",
+  "followers": {
+    "href": null,
+    "total": 213
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb40c36b3cc306854b8393650c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517440c36b3cc306854b8393650c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17840c36b3cc306854b8393650c",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5RL9kiDO5CPzSw1xdTkzt0"
+  }
+}

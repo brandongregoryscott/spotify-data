@@ -1,0 +1,33 @@
+{
+  "id": "5OEu7QcsdIsMDRe9oHElCx",
+  "name": "aluto",
+  "uri": "spotify:artist:5OEu7QcsdIsMDRe9oHElCx",
+  "followers": {
+    "href": null,
+    "total": 2180
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b9f2e0006d0f77917eaf65db",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b9f2e0006d0f77917eaf65db",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b9f2e0006d0f77917eaf65db",
+      "width": 64
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5OEu7QcsdIsMDRe9oHElCx"
+  }
+}

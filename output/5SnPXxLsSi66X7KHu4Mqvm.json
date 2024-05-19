@@ -1,0 +1,33 @@
+{
+  "id": "5SnPXxLsSi66X7KHu4Mqvm",
+  "name": "MissFly",
+  "uri": "spotify:artist:5SnPXxLsSi66X7KHu4Mqvm",
+  "followers": {
+    "href": null,
+    "total": 306
+  },
+  "genres": [
+    "soulful house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd3abd2eb5bf459dca5243086",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d3abd2eb5bf459dca5243086",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d3abd2eb5bf459dca5243086",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5SnPXxLsSi66X7KHu4Mqvm"
+  }
+}

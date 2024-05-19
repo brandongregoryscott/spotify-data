@@ -1,0 +1,33 @@
+{
+  "id": "5IpKwnjW3L5HXjngGtft0w",
+  "name": "THETA",
+  "uri": "spotify:artist:5IpKwnjW3L5HXjngGtft0w",
+  "followers": {
+    "href": null,
+    "total": 235
+  },
+  "genres": [
+    "taiwan post-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb80f31a149948d36c875cc367",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517480f31a149948d36c875cc367",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17880f31a149948d36c875cc367",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5IpKwnjW3L5HXjngGtft0w"
+  }
+}

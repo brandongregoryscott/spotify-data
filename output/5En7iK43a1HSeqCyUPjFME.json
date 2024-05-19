@@ -1,0 +1,33 @@
+{
+  "id": "5En7iK43a1HSeqCyUPjFME",
+  "name": "Cabinet",
+  "uri": "spotify:artist:5En7iK43a1HSeqCyUPjFME",
+  "followers": {
+    "href": null,
+    "total": 403
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27345fe0a65f4f9e13b0fafaf3d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0245fe0a65f4f9e13b0fafaf3d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485145fe0a65f4f9e13b0fafaf3d",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5En7iK43a1HSeqCyUPjFME"
+  }
+}

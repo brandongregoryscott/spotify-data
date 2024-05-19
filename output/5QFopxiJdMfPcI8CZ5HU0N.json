@@ -1,0 +1,33 @@
+{
+  "id": "5QFopxiJdMfPcI8CZ5HU0N",
+  "name": "James Dwyer",
+  "uri": "spotify:artist:5QFopxiJdMfPcI8CZ5HU0N",
+  "followers": {
+    "href": null,
+    "total": 28
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba848982dbc4b6bd10174a6ed",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a848982dbc4b6bd10174a6ed",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a848982dbc4b6bd10174a6ed",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5QFopxiJdMfPcI8CZ5HU0N"
+  }
+}

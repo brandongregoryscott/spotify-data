@@ -1,0 +1,33 @@
+{
+  "id": "5RfELvlZD8BKN3R28p3RDB",
+  "name": "PARLOR",
+  "uri": "spotify:artist:5RfELvlZD8BKN3R28p3RDB",
+  "followers": {
+    "href": null,
+    "total": 147
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb68118c1d796f169244d6466e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517468118c1d796f169244d6466e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17868118c1d796f169244d6466e",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5RfELvlZD8BKN3R28p3RDB"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5SIs772ATemF5xqKVIOmTF",
+  "name": "bff",
+  "uri": "spotify:artist:5SIs772ATemF5xqKVIOmTF",
+  "followers": {
+    "href": null,
+    "total": 85
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27333d60c9bb68e0142505f71fa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0233d60c9bb68e0142505f71fa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485133d60c9bb68e0142505f71fa",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5SIs772ATemF5xqKVIOmTF"
+  }
+}

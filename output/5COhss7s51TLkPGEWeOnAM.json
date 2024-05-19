@@ -1,0 +1,34 @@
+{
+  "id": "5COhss7s51TLkPGEWeOnAM",
+  "name": "Giants",
+  "uri": "spotify:artist:5COhss7s51TLkPGEWeOnAM",
+  "followers": {
+    "href": null,
+    "total": 3837
+  },
+  "genres": [
+    "american post-rock",
+    "instrumental post-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736f2b788eb0931a24872f3aea",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026f2b788eb0931a24872f3aea",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516f2b788eb0931a24872f3aea",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5COhss7s51TLkPGEWeOnAM"
+  }
+}

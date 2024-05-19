@@ -1,0 +1,35 @@
+{
+  "id": "5EEVvRjwsLjTiFqZSoNSZn",
+  "name": "The Changelings",
+  "uri": "spotify:artist:5EEVvRjwsLjTiFqZSoNSZn",
+  "followers": {
+    "href": null,
+    "total": 3253
+  },
+  "genres": [
+    "dark wave",
+    "ethereal wave",
+    "neoclassical darkwave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731885b5e57281d9dfbfdbc46b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021885b5e57281d9dfbfdbc46b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511885b5e57281d9dfbfdbc46b",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5EEVvRjwsLjTiFqZSoNSZn"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5HgfSlVncUKe9c1fEKjX0G",
+  "name": "Maybe Later",
+  "uri": "spotify:artist:5HgfSlVncUKe9c1fEKjX0G",
+  "followers": {
+    "href": null,
+    "total": 276
+  },
+  "genres": [
+    "ohio indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb446163bd572854a72c406190",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174446163bd572854a72c406190",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178446163bd572854a72c406190",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5HgfSlVncUKe9c1fEKjX0G"
+  }
+}

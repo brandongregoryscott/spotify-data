@@ -1,0 +1,33 @@
+{
+  "id": "5U6szD10l8yZeyPl88mAUg",
+  "name": "Barni",
+  "uri": "spotify:artist:5U6szD10l8yZeyPl88mAUg",
+  "followers": {
+    "href": null,
+    "total": 6544
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb92ef68c243f6bf3e5e5d5f85",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517492ef68c243f6bf3e5e5d5f85",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17892ef68c243f6bf3e5e5d5f85",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5U6szD10l8yZeyPl88mAUg"
+  }
+}

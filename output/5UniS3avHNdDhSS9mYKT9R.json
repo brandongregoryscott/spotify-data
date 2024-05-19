@@ -1,0 +1,33 @@
+{
+  "id": "5UniS3avHNdDhSS9mYKT9R",
+  "name": "Hola Papá",
+  "uri": "spotify:artist:5UniS3avHNdDhSS9mYKT9R",
+  "followers": {
+    "href": null,
+    "total": 178
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739c4a456bf7c6f7c8d72ce5a1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029c4a456bf7c6f7c8d72ce5a1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519c4a456bf7c6f7c8d72ce5a1",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5UniS3avHNdDhSS9mYKT9R"
+  }
+}

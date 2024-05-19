@@ -1,0 +1,34 @@
+{
+  "id": "5LMmVAUhlIvWSXCH1Dt0iJ",
+  "name": "Slack Times",
+  "uri": "spotify:artist:5LMmVAUhlIvWSXCH1Dt0iJ",
+  "followers": {
+    "href": null,
+    "total": 250
+  },
+  "genres": [
+    "alabama indie",
+    "north alabama indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba670b9d857ab6dceab72a742",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a670b9d857ab6dceab72a742",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a670b9d857ab6dceab72a742",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5LMmVAUhlIvWSXCH1Dt0iJ"
+  }
+}

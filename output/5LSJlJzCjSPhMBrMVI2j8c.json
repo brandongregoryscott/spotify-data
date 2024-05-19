@@ -1,0 +1,33 @@
+{
+  "id": "5LSJlJzCjSPhMBrMVI2j8c",
+  "name": "Proxi",
+  "uri": "spotify:artist:5LSJlJzCjSPhMBrMVI2j8c",
+  "followers": {
+    "href": null,
+    "total": 127
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebebfabf485204106275e3d8c3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ebfabf485204106275e3d8c3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ebfabf485204106275e3d8c3",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5LSJlJzCjSPhMBrMVI2j8c"
+  }
+}

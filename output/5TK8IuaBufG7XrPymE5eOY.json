@@ -1,0 +1,33 @@
+{
+  "id": "5TK8IuaBufG7XrPymE5eOY",
+  "name": "Bochek",
+  "uri": "spotify:artist:5TK8IuaBufG7XrPymE5eOY",
+  "followers": {
+    "href": null,
+    "total": 1611
+  },
+  "genres": [
+    "rhode island indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb80c71770893d92dde6039bd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b80c71770893d92dde6039bd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b80c71770893d92dde6039bd",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5TK8IuaBufG7XrPymE5eOY"
+  }
+}

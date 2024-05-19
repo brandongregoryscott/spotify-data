@@ -1,0 +1,33 @@
+{
+  "id": "5Te3W8mnlUK146qaJRuVcl",
+  "name": "WildFire",
+  "uri": "spotify:artist:5Te3W8mnlUK146qaJRuVcl",
+  "followers": {
+    "href": null,
+    "total": 201
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb77add30cb586732a10d21404",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517477add30cb586732a10d21404",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17877add30cb586732a10d21404",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Te3W8mnlUK146qaJRuVcl"
+  }
+}

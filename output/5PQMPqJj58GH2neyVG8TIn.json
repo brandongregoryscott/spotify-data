@@ -1,0 +1,33 @@
+{
+  "id": "5PQMPqJj58GH2neyVG8TIn",
+  "name": "The Paragons",
+  "uri": "spotify:artist:5PQMPqJj58GH2neyVG8TIn",
+  "followers": {
+    "href": null,
+    "total": 244
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb810763e006829aa206bdbec7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174810763e006829aa206bdbec7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178810763e006829aa206bdbec7",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5PQMPqJj58GH2neyVG8TIn"
+  }
+}

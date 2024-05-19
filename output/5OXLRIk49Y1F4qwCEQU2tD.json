@@ -1,0 +1,33 @@
+{
+  "id": "5OXLRIk49Y1F4qwCEQU2tD",
+  "name": "Michael Richter",
+  "uri": "spotify:artist:5OXLRIk49Y1F4qwCEQU2tD",
+  "followers": {
+    "href": null,
+    "total": 684
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb60b20c5cf008f560b6eb59d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b60b20c5cf008f560b6eb59d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b60b20c5cf008f560b6eb59d",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5OXLRIk49Y1F4qwCEQU2tD"
+  }
+}

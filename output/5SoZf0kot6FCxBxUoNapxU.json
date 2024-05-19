@@ -1,0 +1,33 @@
+{
+  "id": "5SoZf0kot6FCxBxUoNapxU",
+  "name": "Uragh",
+  "uri": "spotify:artist:5SoZf0kot6FCxBxUoNapxU",
+  "followers": {
+    "href": null,
+    "total": 320
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb03eafc54410507d7fe6e64f3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517403eafc54410507d7fe6e64f3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17803eafc54410507d7fe6e64f3",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5SoZf0kot6FCxBxUoNapxU"
+  }
+}

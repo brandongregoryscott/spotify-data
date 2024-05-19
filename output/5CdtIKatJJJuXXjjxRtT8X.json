@@ -1,0 +1,33 @@
+{
+  "id": "5CdtIKatJJJuXXjjxRtT8X",
+  "name": "Conditions",
+  "uri": "spotify:artist:5CdtIKatJJJuXXjjxRtT8X",
+  "followers": {
+    "href": null,
+    "total": 18501
+  },
+  "genres": [
+    "neon pop punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb02046b9f845cd175df2d0965",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517402046b9f845cd175df2d0965",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17802046b9f845cd175df2d0965",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5CdtIKatJJJuXXjjxRtT8X"
+  }
+}

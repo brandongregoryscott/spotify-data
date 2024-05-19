@@ -1,0 +1,34 @@
+{
+  "id": "5Lm1CMoa8VOCBCLZesAcvc",
+  "name": "Autoheart",
+  "uri": "spotify:artist:5Lm1CMoa8VOCBCLZesAcvc",
+  "followers": {
+    "href": null,
+    "total": 110742
+  },
+  "genres": [
+    "hopebeat",
+    "pov: indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebda752d666e3e96679365400a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174da752d666e3e96679365400a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178da752d666e3e96679365400a",
+      "width": 160
+    }
+  ],
+  "popularity": 50,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Lm1CMoa8VOCBCLZesAcvc"
+  }
+}

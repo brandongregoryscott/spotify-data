@@ -1,0 +1,33 @@
+{
+  "id": "5SwavZEv1VevR29sNLYTbF",
+  "name": "Retain",
+  "uri": "spotify:artist:5SwavZEv1VevR29sNLYTbF",
+  "followers": {
+    "href": null,
+    "total": 3742
+  },
+  "genres": [
+    "christian dance"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb259b05290ec624f253e275f1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174259b05290ec624f253e275f1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178259b05290ec624f253e275f1",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF"
+  }
+}

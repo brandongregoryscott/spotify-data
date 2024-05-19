@@ -1,0 +1,33 @@
+{
+  "id": "5Bkcz8DX00vYVj1uFspcXV",
+  "name": "Some Nerve",
+  "uri": "spotify:artist:5Bkcz8DX00vYVj1uFspcXV",
+  "followers": {
+    "href": null,
+    "total": 225
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27322df9943bc0984d15d93ec91",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0222df9943bc0984d15d93ec91",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485122df9943bc0984d15d93ec91",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Bkcz8DX00vYVj1uFspcXV"
+  }
+}
