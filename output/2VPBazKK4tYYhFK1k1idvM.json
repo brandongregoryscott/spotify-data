@@ -1,0 +1,33 @@
+{
+  "id": "2VPBazKK4tYYhFK1k1idvM",
+  "name": "Masses",
+  "uri": "spotify:artist:2VPBazKK4tYYhFK1k1idvM",
+  "followers": {
+    "href": null,
+    "total": 777
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739934969ac2a9825bc9b6ad7b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029934969ac2a9825bc9b6ad7b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519934969ac2a9825bc9b6ad7b",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2VPBazKK4tYYhFK1k1idvM"
+  }
+}

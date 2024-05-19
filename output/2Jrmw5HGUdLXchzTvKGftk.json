@@ -1,0 +1,33 @@
+{
+  "id": "2Jrmw5HGUdLXchzTvKGftk",
+  "name": "Hyena",
+  "uri": "spotify:artist:2Jrmw5HGUdLXchzTvKGftk",
+  "followers": {
+    "href": null,
+    "total": 136
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb24fe411b05b400091645db5a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517424fe411b05b400091645db5a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17824fe411b05b400091645db5a",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Jrmw5HGUdLXchzTvKGftk"
+  }
+}

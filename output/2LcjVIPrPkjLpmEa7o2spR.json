@@ -1,0 +1,33 @@
+{
+  "id": "2LcjVIPrPkjLpmEa7o2spR",
+  "name": "Erisan",
+  "uri": "spotify:artist:2LcjVIPrPkjLpmEa7o2spR",
+  "followers": {
+    "href": null,
+    "total": 62
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb9041bb65e2edae81f87ad73",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b9041bb65e2edae81f87ad73",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b9041bb65e2edae81f87ad73",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2LcjVIPrPkjLpmEa7o2spR"
+  }
+}

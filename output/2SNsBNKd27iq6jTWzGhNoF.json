@@ -1,0 +1,33 @@
+{
+  "id": "2SNsBNKd27iq6jTWzGhNoF",
+  "name": "stove",
+  "uri": "spotify:artist:2SNsBNKd27iq6jTWzGhNoF",
+  "followers": {
+    "href": null,
+    "total": 119
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb45cfa5b1c1e279b14a5da2bc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517445cfa5b1c1e279b14a5da2bc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17845cfa5b1c1e279b14a5da2bc",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2SNsBNKd27iq6jTWzGhNoF"
+  }
+}

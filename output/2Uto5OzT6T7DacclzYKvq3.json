@@ -1,0 +1,33 @@
+{
+  "id": "2Uto5OzT6T7DacclzYKvq3",
+  "name": "Gas",
+  "uri": "spotify:artist:2Uto5OzT6T7DacclzYKvq3",
+  "followers": {
+    "href": null,
+    "total": 624
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb90b0d657bd20d989bc8b27e7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517490b0d657bd20d989bc8b27e7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17890b0d657bd20d989bc8b27e7",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Uto5OzT6T7DacclzYKvq3"
+  }
+}

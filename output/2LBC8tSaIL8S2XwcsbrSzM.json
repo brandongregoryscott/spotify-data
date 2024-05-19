@@ -1,0 +1,33 @@
+{
+  "id": "2LBC8tSaIL8S2XwcsbrSzM",
+  "name": "Ace",
+  "uri": "spotify:artist:2LBC8tSaIL8S2XwcsbrSzM",
+  "followers": {
+    "href": null,
+    "total": 541
+  },
+  "genres": [
+    "hardstyle"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfc35fbf1b91b6a86cedff406",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fc35fbf1b91b6a86cedff406",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fc35fbf1b91b6a86cedff406",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2LBC8tSaIL8S2XwcsbrSzM"
+  }
+}

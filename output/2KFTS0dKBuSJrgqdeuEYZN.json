@@ -1,0 +1,33 @@
+{
+  "id": "2KFTS0dKBuSJrgqdeuEYZN",
+  "name": "rue rené",
+  "uri": "spotify:artist:2KFTS0dKBuSJrgqdeuEYZN",
+  "followers": {
+    "href": null,
+    "total": 93
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb90079a28a87a25ea75def7aa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517490079a28a87a25ea75def7aa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17890079a28a87a25ea75def7aa",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2KFTS0dKBuSJrgqdeuEYZN"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2U6tKVDkCk3vHLXQcg3ooI",
+  "name": "Push Push",
+  "uri": "spotify:artist:2U6tKVDkCk3vHLXQcg3ooI",
+  "followers": {
+    "href": null,
+    "total": 1352
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe283cb6954d06015391fd458",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e283cb6954d06015391fd458",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e283cb6954d06015391fd458",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2U6tKVDkCk3vHLXQcg3ooI"
+  }
+}

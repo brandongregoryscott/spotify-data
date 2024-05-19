@@ -1,0 +1,33 @@
+{
+  "id": "2O5TYr2GJhSNVtNP57Qx8O",
+  "name": "DBK",
+  "uri": "spotify:artist:2O5TYr2GJhSNVtNP57Qx8O",
+  "followers": {
+    "href": null,
+    "total": 2492
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb756772aa5b4a4fadb67d64ca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174756772aa5b4a4fadb67d64ca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178756772aa5b4a4fadb67d64ca",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2O5TYr2GJhSNVtNP57Qx8O"
+  }
+}

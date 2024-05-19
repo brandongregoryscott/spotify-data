@@ -1,0 +1,33 @@
+{
+  "id": "2ZmADwJcpYvkPqrwzkflSb",
+  "name": "LD50",
+  "uri": "spotify:artist:2ZmADwJcpYvkPqrwzkflSb",
+  "followers": {
+    "href": null,
+    "total": 42
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b2cb1a7f6bf0e21c41515257",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b2cb1a7f6bf0e21c41515257",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b2cb1a7f6bf0e21c41515257",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ZmADwJcpYvkPqrwzkflSb"
+  }
+}

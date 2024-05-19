@@ -1,0 +1,33 @@
+{
+  "id": "2TXKCPUSnAcnaBkAXWfk8N",
+  "name": "Harry & Emmy",
+  "uri": "spotify:artist:2TXKCPUSnAcnaBkAXWfk8N",
+  "followers": {
+    "href": null,
+    "total": 114
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb96286d69b0f59bcf40108ce4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517496286d69b0f59bcf40108ce4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17896286d69b0f59bcf40108ce4",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2TXKCPUSnAcnaBkAXWfk8N"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2JaKbKsQiaVksYmGSs2ZuP",
+  "name": "knoak",
+  "uri": "spotify:artist:2JaKbKsQiaVksYmGSs2ZuP",
+  "followers": {
+    "href": null,
+    "total": 775
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb27812b7d19bc3a3bfaee892f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517427812b7d19bc3a3bfaee892f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17827812b7d19bc3a3bfaee892f",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP"
+  }
+}

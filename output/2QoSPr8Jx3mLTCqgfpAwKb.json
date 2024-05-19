@@ -1,0 +1,34 @@
+{
+  "id": "2QoSPr8Jx3mLTCqgfpAwKb",
+  "name": "Marie Key",
+  "uri": "spotify:artist:2QoSPr8Jx3mLTCqgfpAwKb",
+  "followers": {
+    "href": null,
+    "total": 38385
+  },
+  "genres": [
+    "danish pop",
+    "danish singer-songwriter"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb13e36a6d1c1789107abe542b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517413e36a6d1c1789107abe542b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17813e36a6d1c1789107abe542b",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2QoSPr8Jx3mLTCqgfpAwKb"
+  }
+}

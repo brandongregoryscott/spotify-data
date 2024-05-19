@@ -1,0 +1,35 @@
+{
+  "id": "2XHF1AQpj5EhVxckmK01eu",
+  "name": "Billy Nicholls",
+  "uri": "spotify:artist:2XHF1AQpj5EhVxckmK01eu",
+  "followers": {
+    "href": null,
+    "total": 3958
+  },
+  "genres": [
+    "classic garage rock",
+    "classic psychedelic rock",
+    "freakbeat"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fe7ad7d723eff99c148648ed",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fe7ad7d723eff99c148648ed",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fe7ad7d723eff99c148648ed",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2XHF1AQpj5EhVxckmK01eu"
+  }
+}

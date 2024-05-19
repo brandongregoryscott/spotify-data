@@ -1,0 +1,33 @@
+{
+  "id": "2ShOC9gDJBv7CkYSufkm7I",
+  "name": "Paul Guiot",
+  "uri": "spotify:artist:2ShOC9gDJBv7CkYSufkm7I",
+  "followers": {
+    "href": null,
+    "total": 64
+  },
+  "genres": [
+    "library music"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27386b6931f3910ce2e240a0b18",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0286b6931f3910ce2e240a0b18",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485186b6931f3910ce2e240a0b18",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ShOC9gDJBv7CkYSufkm7I"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2LwCsA1owJzBVwnLd5EuqC",
+  "name": "THE ODOR",
+  "uri": "spotify:artist:2LwCsA1owJzBVwnLd5EuqC",
+  "followers": {
+    "href": null,
+    "total": 201
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb296d97f1c32b371acae97256",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174296d97f1c32b371acae97256",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178296d97f1c32b371acae97256",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2LwCsA1owJzBVwnLd5EuqC"
+  }
+}

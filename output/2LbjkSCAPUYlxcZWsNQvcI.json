@@ -1,0 +1,33 @@
+{
+  "id": "2LbjkSCAPUYlxcZWsNQvcI",
+  "name": "Like Roses",
+  "uri": "spotify:artist:2LbjkSCAPUYlxcZWsNQvcI",
+  "followers": {
+    "href": null,
+    "total": 19818
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfb131dea4ea055faad258bde",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fb131dea4ea055faad258bde",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fb131dea4ea055faad258bde",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2LbjkSCAPUYlxcZWsNQvcI"
+  }
+}

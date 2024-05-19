@@ -1,0 +1,33 @@
+{
+  "id": "2Mk8ccp9H4Kht6yIql4z7E",
+  "name": "Faia",
+  "uri": "spotify:artist:2Mk8ccp9H4Kht6yIql4z7E",
+  "followers": {
+    "href": null,
+    "total": 307
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba12b6123ad1cbee568ea2ffb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a12b6123ad1cbee568ea2ffb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a12b6123ad1cbee568ea2ffb",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Mk8ccp9H4Kht6yIql4z7E"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2SEGBJBDzWqlT7ZW9orTrF",
+  "name": "Quiroga",
+  "uri": "spotify:artist:2SEGBJBDzWqlT7ZW9orTrF",
+  "followers": {
+    "href": null,
+    "total": 2733
+  },
+  "genres": [
+    "spanish hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb22456ca2296be311eaee3490",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517422456ca2296be311eaee3490",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17822456ca2296be311eaee3490",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2SEGBJBDzWqlT7ZW9orTrF"
+  }
+}

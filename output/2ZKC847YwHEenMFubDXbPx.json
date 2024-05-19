@@ -1,0 +1,33 @@
+{
+  "id": "2ZKC847YwHEenMFubDXbPx",
+  "name": "Strängen",
+  "uri": "spotify:artist:2ZKC847YwHEenMFubDXbPx",
+  "followers": {
+    "href": null,
+    "total": 2025
+  },
+  "genres": [
+    "swedish hard rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc892e83f4856e11e43742264",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c892e83f4856e11e43742264",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c892e83f4856e11e43742264",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ZKC847YwHEenMFubDXbPx"
+  }
+}

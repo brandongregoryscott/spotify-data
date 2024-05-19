@@ -1,0 +1,33 @@
+{
+  "id": "2MKrQldmuSDL4EOn4NPl68",
+  "name": "Siempre De Pie",
+  "uri": "spotify:artist:2MKrQldmuSDL4EOn4NPl68",
+  "followers": {
+    "href": null,
+    "total": 44
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb23abcb52ad711c451895ebc6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517423abcb52ad711c451895ebc6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17823abcb52ad711c451895ebc6",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2MKrQldmuSDL4EOn4NPl68"
+  }
+}

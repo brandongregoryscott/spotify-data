@@ -1,0 +1,34 @@
+{
+  "id": "2PSiyldxmJze7xiqbz658m",
+  "name": "Spin Doctors",
+  "uri": "spotify:artist:2PSiyldxmJze7xiqbz658m",
+  "followers": {
+    "href": null,
+    "total": 659638
+  },
+  "genres": [
+    "pop rock",
+    "post-grunge"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb407e011fe4e9100c670c0074",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174407e011fe4e9100c670c0074",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178407e011fe4e9100c670c0074",
+      "width": 160
+    }
+  ],
+  "popularity": 55,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m"
+  }
+}

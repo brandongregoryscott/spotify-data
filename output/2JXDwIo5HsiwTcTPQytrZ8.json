@@ -1,0 +1,40 @@
+{
+  "id": "2JXDwIo5HsiwTcTPQytrZ8",
+  "name": "Sponge",
+  "uri": "spotify:artist:2JXDwIo5HsiwTcTPQytrZ8",
+  "followers": {
+    "href": null,
+    "total": 123136
+  },
+  "genres": [
+    "grunge",
+    "pop rock",
+    "post-grunge"
+  ],
+  "images": [
+    {
+      "height": 1332,
+      "url": "https://i.scdn.co/image/1ee671936551efa7ab16cf5da08676ced013e39d",
+      "width": 1000
+    },
+    {
+      "height": 852,
+      "url": "https://i.scdn.co/image/f4c0fd17f78246e29fedc5b2b920f451e7dad70f",
+      "width": 640
+    },
+    {
+      "height": 266,
+      "url": "https://i.scdn.co/image/59f8d68990c90ca4b19ac4b6fce8294db24a93d9",
+      "width": 200
+    },
+    {
+      "height": 85,
+      "url": "https://i.scdn.co/image/6042601221b9caa83c69513e4d938aa8e6bb81cc",
+      "width": 64
+    }
+  ],
+  "popularity": 37,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2JXDwIo5HsiwTcTPQytrZ8"
+  }
+}
