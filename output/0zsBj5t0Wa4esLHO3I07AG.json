@@ -1,0 +1,33 @@
+{
+  "id": "0zsBj5t0Wa4esLHO3I07AG",
+  "name": "Public Circuit",
+  "uri": "spotify:artist:0zsBj5t0Wa4esLHO3I07AG",
+  "followers": {
+    "href": null,
+    "total": 1708
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb99a6d71869cbd8e0169affff",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517499a6d71869cbd8e0169affff",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17899a6d71869cbd8e0169affff",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0zsBj5t0Wa4esLHO3I07AG"
+  }
+}

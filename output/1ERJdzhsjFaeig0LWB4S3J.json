@@ -1,0 +1,33 @@
+{
+  "id": "1ERJdzhsjFaeig0LWB4S3J",
+  "name": "The Peal",
+  "uri": "spotify:artist:1ERJdzhsjFaeig0LWB4S3J",
+  "followers": {
+    "href": null,
+    "total": 361
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb460276daf0e35bb5f8c64b63",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174460276daf0e35bb5f8c64b63",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178460276daf0e35bb5f8c64b63",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ERJdzhsjFaeig0LWB4S3J"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0y6JbBfUw2ZAN9X6fgHouR",
+  "name": "Kitty Fitz",
+  "uri": "spotify:artist:0y6JbBfUw2ZAN9X6fgHouR",
+  "followers": {
+    "href": null,
+    "total": 600
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb282d646e8c0b96f0d94598c2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174282d646e8c0b96f0d94598c2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178282d646e8c0b96f0d94598c2",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0y6JbBfUw2ZAN9X6fgHouR"
+  }
+}

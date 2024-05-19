@@ -1,0 +1,33 @@
+{
+  "id": "17LHjPnRj2xZsNCuqSQyMc",
+  "name": "Lil A",
+  "uri": "spotify:artist:17LHjPnRj2xZsNCuqSQyMc",
+  "followers": {
+    "href": null,
+    "total": 925
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebad7cad265df03c89f44c532f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ad7cad265df03c89f44c532f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ad7cad265df03c89f44c532f",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/17LHjPnRj2xZsNCuqSQyMc"
+  }
+}

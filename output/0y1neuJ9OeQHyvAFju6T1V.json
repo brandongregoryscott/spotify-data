@@ -1,0 +1,33 @@
+{
+  "id": "0y1neuJ9OeQHyvAFju6T1V",
+  "name": "Jan Romina",
+  "uri": "spotify:artist:0y1neuJ9OeQHyvAFju6T1V",
+  "followers": {
+    "href": null,
+    "total": 5324
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba9b01b978319d7e4c62fcf6b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a9b01b978319d7e4c62fcf6b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a9b01b978319d7e4c62fcf6b",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0y1neuJ9OeQHyvAFju6T1V"
+  }
+}

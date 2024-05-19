@@ -1,0 +1,33 @@
+{
+  "id": "1Cm4f74XRQxQq7w7BK8lVu",
+  "name": "Con M1",
+  "uri": "spotify:artist:1Cm4f74XRQxQq7w7BK8lVu",
+  "followers": {
+    "href": null,
+    "total": 470
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebba81fa4b1d0b4092d59e4af8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ba81fa4b1d0b4092d59e4af8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ba81fa4b1d0b4092d59e4af8",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Cm4f74XRQxQq7w7BK8lVu"
+  }
+}

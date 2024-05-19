@@ -1,0 +1,33 @@
+{
+  "id": "1D21JobgrqyczAev85VxBY",
+  "name": "Lachlan Denton",
+  "uri": "spotify:artist:1D21JobgrqyczAev85VxBY",
+  "followers": {
+    "href": null,
+    "total": 1131
+  },
+  "genres": [
+    "modern jangle pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd98af3aa8f6524a040cd217a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d98af3aa8f6524a040cd217a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d98af3aa8f6524a040cd217a",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1D21JobgrqyczAev85VxBY"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1085aIkBrJiKrFnFyvTMtY",
+  "name": "The Unending Thread",
+  "uri": "spotify:artist:1085aIkBrJiKrFnFyvTMtY",
+  "followers": {
+    "href": null,
+    "total": 563
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb81d51aabf93b2e714d7409ad",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517481d51aabf93b2e714d7409ad",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17881d51aabf93b2e714d7409ad",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1085aIkBrJiKrFnFyvTMtY"
+  }
+}

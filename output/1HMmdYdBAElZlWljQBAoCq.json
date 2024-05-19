@@ -1,0 +1,33 @@
+{
+  "id": "1HMmdYdBAElZlWljQBAoCq",
+  "name": "Lazy Lovers",
+  "uri": "spotify:artist:1HMmdYdBAElZlWljQBAoCq",
+  "followers": {
+    "href": null,
+    "total": 132
+  },
+  "genres": [
+    "trap beats"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d676482fe58ff6507ed9cdf4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d676482fe58ff6507ed9cdf4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d676482fe58ff6507ed9cdf4",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1HMmdYdBAElZlWljQBAoCq"
+  }
+}

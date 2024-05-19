@@ -1,0 +1,34 @@
+{
+  "id": "0zCrrgklotTrkkJDNUAury",
+  "name": "ZAND",
+  "uri": "spotify:artist:0zCrrgklotTrkkJDNUAury",
+  "followers": {
+    "href": null,
+    "total": 52993
+  },
+  "genres": [
+    "alt z",
+    "dark pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb03358b0c9ca94d47c1063d38",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517403358b0c9ca94d47c1063d38",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17803358b0c9ca94d47c1063d38",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
+  }
+}

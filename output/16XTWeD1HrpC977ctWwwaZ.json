@@ -1,0 +1,33 @@
+{
+  "id": "16XTWeD1HrpC977ctWwwaZ",
+  "name": "Kaipi",
+  "uri": "spotify:artist:16XTWeD1HrpC977ctWwwaZ",
+  "followers": {
+    "href": null,
+    "total": 403
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb2137dd09a757fb3528b3f540",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051742137dd09a757fb3528b3f540",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1782137dd09a757fb3528b3f540",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/16XTWeD1HrpC977ctWwwaZ"
+  }
+}

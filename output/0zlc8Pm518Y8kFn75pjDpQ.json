@@ -1,0 +1,33 @@
+{
+  "id": "0zlc8Pm518Y8kFn75pjDpQ",
+  "name": "slowkick",
+  "uri": "spotify:artist:0zlc8Pm518Y8kFn75pjDpQ",
+  "followers": {
+    "href": null,
+    "total": 123
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27348cb962f882fc09a2bc30b62",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027c6b1172a9fbed24971b266a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485148cb962f882fc09a2bc30b62",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0zlc8Pm518Y8kFn75pjDpQ"
+  }
+}

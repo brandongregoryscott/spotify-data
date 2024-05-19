@@ -1,0 +1,33 @@
+{
+  "id": "11xSYCEGuTm2dl961ZrWYy",
+  "name": "can/goo",
+  "uri": "spotify:artist:11xSYCEGuTm2dl961ZrWYy",
+  "followers": {
+    "href": null,
+    "total": 437
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb45f79ba4c747e803ddc1782b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517445f79ba4c747e803ddc1782b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17845f79ba4c747e803ddc1782b",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/11xSYCEGuTm2dl961ZrWYy"
+  }
+}

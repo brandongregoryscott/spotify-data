@@ -1,0 +1,33 @@
+{
+  "id": "11T6gvtErVhsqyXhAnazfm",
+  "name": "Joni Void",
+  "uri": "spotify:artist:11T6gvtErVhsqyXhAnazfm",
+  "followers": {
+    "href": null,
+    "total": 1780
+  },
+  "genres": [
+    "montreal indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbb3da00595d873feb52c0397",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bb3da00595d873feb52c0397",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bb3da00595d873feb52c0397",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/11T6gvtErVhsqyXhAnazfm"
+  }
+}

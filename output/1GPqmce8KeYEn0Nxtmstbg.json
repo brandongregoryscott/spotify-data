@@ -1,0 +1,34 @@
+{
+  "id": "1GPqmce8KeYEn0Nxtmstbg",
+  "name": "Euclid",
+  "uri": "spotify:artist:1GPqmce8KeYEn0Nxtmstbg",
+  "followers": {
+    "href": null,
+    "total": 2182
+  },
+  "genres": [
+    "proto-metal",
+    "psychedelic blues-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27342f3e442cd219ca1eb7db0de",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0242f3e442cd219ca1eb7db0de",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485142f3e442cd219ca1eb7db0de",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1GPqmce8KeYEn0Nxtmstbg"
+  }
+}

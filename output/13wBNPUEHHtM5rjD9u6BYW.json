@@ -1,0 +1,33 @@
+{
+  "id": "13wBNPUEHHtM5rjD9u6BYW",
+  "name": "OSA",
+  "uri": "spotify:artist:13wBNPUEHHtM5rjD9u6BYW",
+  "followers": {
+    "href": null,
+    "total": 28583
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4c7f54bae89070f88780d05c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744c7f54bae89070f88780d05c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784c7f54bae89070f88780d05c",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW"
+  }
+}

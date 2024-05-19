@@ -1,0 +1,33 @@
+{
+  "id": "1G3pSKpRDgI3nj0ehsHkZx",
+  "name": "Sakea Ilta",
+  "uri": "spotify:artist:1G3pSKpRDgI3nj0ehsHkZx",
+  "followers": {
+    "href": null,
+    "total": 319
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd3b0edbcbd10d4c992eaddfd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d3b0edbcbd10d4c992eaddfd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d3b0edbcbd10d4c992eaddfd",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1G3pSKpRDgI3nj0ehsHkZx"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1CKoF03RH4nWWojXEUdCOI",
+  "name": "Wayve",
+  "uri": "spotify:artist:1CKoF03RH4nWWojXEUdCOI",
+  "followers": {
+    "href": null,
+    "total": 1797
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb71e579f7e0bc142966d936f4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517471e579f7e0bc142966d936f4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17871e579f7e0bc142966d936f4",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1CKoF03RH4nWWojXEUdCOI"
+  }
+}

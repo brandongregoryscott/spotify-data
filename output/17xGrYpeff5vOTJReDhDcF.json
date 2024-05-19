@@ -1,0 +1,33 @@
+{
+  "id": "17xGrYpeff5vOTJReDhDcF",
+  "name": "Tiedemies",
+  "uri": "spotify:artist:17xGrYpeff5vOTJReDhDcF",
+  "followers": {
+    "href": null,
+    "total": 123
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f5217bc4f3094161b6f442ee",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dd2d9a623f779b0b2d325ffd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dd2d9a623f779b0b2d325ffd",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/17xGrYpeff5vOTJReDhDcF"
+  }
+}

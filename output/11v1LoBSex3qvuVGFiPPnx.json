@@ -1,0 +1,33 @@
+{
+  "id": "11v1LoBSex3qvuVGFiPPnx",
+  "name": "Mary Jam",
+  "uri": "spotify:artist:11v1LoBSex3qvuVGFiPPnx",
+  "followers": {
+    "href": null,
+    "total": 189
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf3d534d7f7732765a64b13a8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f3d534d7f7732765a64b13a8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f3d534d7f7732765a64b13a8",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/11v1LoBSex3qvuVGFiPPnx"
+  }
+}

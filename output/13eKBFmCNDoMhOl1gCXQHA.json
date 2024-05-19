@@ -1,0 +1,33 @@
+{
+  "id": "13eKBFmCNDoMhOl1gCXQHA",
+  "name": "Highbay",
+  "uri": "spotify:artist:13eKBFmCNDoMhOl1gCXQHA",
+  "followers": {
+    "href": null,
+    "total": 100
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27328a56847f4f9d75de71d11ea",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0228a56847f4f9d75de71d11ea",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485128a56847f4f9d75de71d11ea",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/13eKBFmCNDoMhOl1gCXQHA"
+  }
+}

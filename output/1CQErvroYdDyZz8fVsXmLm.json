@@ -1,0 +1,33 @@
+{
+  "id": "1CQErvroYdDyZz8fVsXmLm",
+  "name": "Yongi Black",
+  "uri": "spotify:artist:1CQErvroYdDyZz8fVsXmLm",
+  "followers": {
+    "href": null,
+    "total": 1195
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb256d4b14b2e65702481dbba9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174256d4b14b2e65702481dbba9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178256d4b14b2e65702481dbba9",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1CQErvroYdDyZz8fVsXmLm"
+  }
+}

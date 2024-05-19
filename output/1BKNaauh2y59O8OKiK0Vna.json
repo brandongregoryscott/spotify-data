@@ -1,0 +1,33 @@
+{
+  "id": "1BKNaauh2y59O8OKiK0Vna",
+  "name": "Grumpy Truck",
+  "uri": "spotify:artist:1BKNaauh2y59O8OKiK0Vna",
+  "followers": {
+    "href": null,
+    "total": 159
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb26d7be19e980a46971475d65",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517426d7be19e980a46971475d65",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17826d7be19e980a46971475d65",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1BKNaauh2y59O8OKiK0Vna"
+  }
+}

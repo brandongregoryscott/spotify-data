@@ -1,0 +1,33 @@
+{
+  "id": "163EW14prtAxEeBmRDtkUU",
+  "name": "Beats Please",
+  "uri": "spotify:artist:163EW14prtAxEeBmRDtkUU",
+  "followers": {
+    "href": null,
+    "total": 153
+  },
+  "genres": [
+    "suomirap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb50dd1b3a0d1fa6ce9f9ae843",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517450dd1b3a0d1fa6ce9f9ae843",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17850dd1b3a0d1fa6ce9f9ae843",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/163EW14prtAxEeBmRDtkUU"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "101vLnWdoeyAyQhADB4bqe",
+  "name": "Debit",
+  "uri": "spotify:artist:101vLnWdoeyAyQhADB4bqe",
+  "followers": {
+    "href": null,
+    "total": 5201
+  },
+  "genres": [
+    "deconstructed club",
+    "electra",
+    "experimental ambient",
+    "experimental techno",
+    "mexican experimental",
+    "spectra"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb87d3064038d42432e89eeba0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517487d3064038d42432e89eeba0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17887d3064038d42432e89eeba0",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe"
+  }
+}

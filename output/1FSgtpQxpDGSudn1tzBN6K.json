@@ -1,0 +1,33 @@
+{
+  "id": "1FSgtpQxpDGSudn1tzBN6K",
+  "name": "Dogwhine",
+  "uri": "spotify:artist:1FSgtpQxpDGSudn1tzBN6K",
+  "followers": {
+    "href": null,
+    "total": 4570
+  },
+  "genres": [
+    "thai indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb93016851b66c379eede05174",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517493016851b66c379eede05174",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17893016851b66c379eede05174",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1FSgtpQxpDGSudn1tzBN6K"
+  }
+}

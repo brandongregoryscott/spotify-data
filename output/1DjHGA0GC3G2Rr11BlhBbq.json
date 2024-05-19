@@ -1,0 +1,33 @@
+{
+  "id": "1DjHGA0GC3G2Rr11BlhBbq",
+  "name": "samisan",
+  "uri": "spotify:artist:1DjHGA0GC3G2Rr11BlhBbq",
+  "followers": {
+    "href": null,
+    "total": 68
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1f32bb114e0b66675713bafd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051741f32bb114e0b66675713bafd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1781f32bb114e0b66675713bafd",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1DjHGA0GC3G2Rr11BlhBbq"
+  }
+}

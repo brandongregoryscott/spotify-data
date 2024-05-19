@@ -1,0 +1,36 @@
+{
+  "id": "1HBjj22wzbscIZ9sEb5dyf",
+  "name": "Jonas Blue",
+  "uri": "spotify:artist:1HBjj22wzbscIZ9sEb5dyf",
+  "followers": {
+    "href": null,
+    "total": 3731449
+  },
+  "genres": [
+    "pop",
+    "pop dance",
+    "tropical house",
+    "uk dance"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdc7a79e8289eef8f8778b88f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dc7a79e8289eef8f8778b88f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dc7a79e8289eef8f8778b88f",
+      "width": 160
+    }
+  ],
+  "popularity": 71,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+  }
+}

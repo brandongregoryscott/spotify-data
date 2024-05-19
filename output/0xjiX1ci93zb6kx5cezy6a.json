@@ -1,0 +1,33 @@
+{
+  "id": "0xjiX1ci93zb6kx5cezy6a",
+  "name": "Higley",
+  "uri": "spotify:artist:0xjiX1ci93zb6kx5cezy6a",
+  "followers": {
+    "href": null,
+    "total": 308
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273472597367e8ac6b2b7ed933a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02472597367e8ac6b2b7ed933a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851472597367e8ac6b2b7ed933a",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0xjiX1ci93zb6kx5cezy6a"
+  }
+}

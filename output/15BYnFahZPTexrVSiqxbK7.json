@@ -1,0 +1,36 @@
+{
+  "id": "15BYnFahZPTexrVSiqxbK7",
+  "name": "Sort Sol",
+  "uri": "spotify:artist:15BYnFahZPTexrVSiqxbK7",
+  "followers": {
+    "href": null,
+    "total": 34674
+  },
+  "genres": [
+    "danish pop rock",
+    "danish post-punk",
+    "danish punk",
+    "danish rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbdcdfe49a1d38214f5dad20d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bdcdfe49a1d38214f5dad20d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bdcdfe49a1d38214f5dad20d",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/15BYnFahZPTexrVSiqxbK7"
+  }
+}

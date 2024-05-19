@@ -1,0 +1,33 @@
+{
+  "id": "15wE1qOqrPevLWIdBcJCce",
+  "name": "ohsobrkn",
+  "uri": "spotify:artist:15wE1qOqrPevLWIdBcJCce",
+  "followers": {
+    "href": null,
+    "total": 5389
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba7aff52541ad0d6bfb3e6dfc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a7aff52541ad0d6bfb3e6dfc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a7aff52541ad0d6bfb3e6dfc",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/15wE1qOqrPevLWIdBcJCce"
+  }
+}

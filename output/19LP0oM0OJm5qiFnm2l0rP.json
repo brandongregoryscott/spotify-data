@@ -1,0 +1,33 @@
+{
+  "id": "19LP0oM0OJm5qiFnm2l0rP",
+  "name": "Phervor",
+  "uri": "spotify:artist:19LP0oM0OJm5qiFnm2l0rP",
+  "followers": {
+    "href": null,
+    "total": 274
+  },
+  "genres": [
+    "neue neue deutsche welle"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe7a3ea31b925b6928009927b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e7a3ea31b925b6928009927b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e7a3ea31b925b6928009927b",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/19LP0oM0OJm5qiFnm2l0rP"
+  }
+}

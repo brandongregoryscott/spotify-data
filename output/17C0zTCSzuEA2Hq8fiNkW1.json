@@ -1,0 +1,33 @@
+{
+  "id": "17C0zTCSzuEA2Hq8fiNkW1",
+  "name": "u_ni",
+  "uri": "spotify:artist:17C0zTCSzuEA2Hq8fiNkW1",
+  "followers": {
+    "href": null,
+    "total": 545
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe08766f5d625bee42b36f3b3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e08766f5d625bee42b36f3b3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e08766f5d625bee42b36f3b3",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/17C0zTCSzuEA2Hq8fiNkW1"
+  }
+}

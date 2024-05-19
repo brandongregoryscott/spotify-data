@@ -1,0 +1,33 @@
+{
+  "id": "19deba9lIgvZdIThv0kykj",
+  "name": "Roland Jones",
+  "uri": "spotify:artist:19deba9lIgvZdIThv0kykj",
+  "followers": {
+    "href": null,
+    "total": 11975
+  },
+  "genres": [
+    "phonk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb101474df12eb0e8172686651",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174101474df12eb0e8172686651",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178101474df12eb0e8172686651",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/19deba9lIgvZdIThv0kykj"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1BZKH3A11JAuhDCO6EXMUt",
+  "name": "The Californian",
+  "uri": "spotify:artist:1BZKH3A11JAuhDCO6EXMUt",
+  "followers": {
+    "href": null,
+    "total": 330
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734da9b8fd67cc2bb26bf197f3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024da9b8fd67cc2bb26bf197f3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514da9b8fd67cc2bb26bf197f3",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1BZKH3A11JAuhDCO6EXMUt"
+  }
+}

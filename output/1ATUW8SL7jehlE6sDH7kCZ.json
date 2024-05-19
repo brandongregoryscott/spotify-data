@@ -1,0 +1,33 @@
+{
+  "id": "1ATUW8SL7jehlE6sDH7kCZ",
+  "name": "The Anomalys",
+  "uri": "spotify:artist:1ATUW8SL7jehlE6sDH7kCZ",
+  "followers": {
+    "href": null,
+    "total": 905
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b9791969913bc581718fef58",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b9791969913bc581718fef58",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b9791969913bc581718fef58",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ATUW8SL7jehlE6sDH7kCZ"
+  }
+}
