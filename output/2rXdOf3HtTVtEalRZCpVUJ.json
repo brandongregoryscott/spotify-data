@@ -1,0 +1,33 @@
+{
+  "id": "2rXdOf3HtTVtEalRZCpVUJ",
+  "name": "hollons",
+  "uri": "spotify:artist:2rXdOf3HtTVtEalRZCpVUJ",
+  "followers": {
+    "href": null,
+    "total": 18
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb67316cb64ee1c5c0e84fc1d3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517467316cb64ee1c5c0e84fc1d3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17867316cb64ee1c5c0e84fc1d3",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2rXdOf3HtTVtEalRZCpVUJ"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2s24lfYfnIp8aIX2oE7erb",
+  "name": "Anna Blou",
+  "uri": "spotify:artist:2s24lfYfnIp8aIX2oE7erb",
+  "followers": {
+    "href": null,
+    "total": 98
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb44a0efa493136db6976b1d49",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517444a0efa493136db6976b1d49",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17844a0efa493136db6976b1d49",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2s24lfYfnIp8aIX2oE7erb"
+  }
+}

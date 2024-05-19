@@ -1,0 +1,33 @@
+{
+  "id": "2luvU2dBAVstBO4P8Mha0H",
+  "name": "Dimensiones",
+  "uri": "spotify:artist:2luvU2dBAVstBO4P8Mha0H",
+  "followers": {
+    "href": null,
+    "total": 562
+  },
+  "genres": [
+    "mexican hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb84e3d96e455af8935008fe21",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517484e3d96e455af8935008fe21",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17884e3d96e455af8935008fe21",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2luvU2dBAVstBO4P8Mha0H"
+  }
+}

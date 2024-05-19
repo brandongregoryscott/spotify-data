@@ -1,0 +1,33 @@
+{
+  "id": "2rj05vWWC2u6UyxxkuSiG5",
+  "name": "Viridus",
+  "uri": "spotify:artist:2rj05vWWC2u6UyxxkuSiG5",
+  "followers": {
+    "href": null,
+    "total": 738
+  },
+  "genres": [
+    "tearout"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd73efcc316c388f696b2e332",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d73efcc316c388f696b2e332",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d73efcc316c388f696b2e332",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2rj05vWWC2u6UyxxkuSiG5"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2jklKjIZQlCTsyXwdnnZrc",
+  "name": "Crashdog",
+  "uri": "spotify:artist:2jklKjIZQlCTsyXwdnnZrc",
+  "followers": {
+    "href": null,
+    "total": 1777
+  },
+  "genres": [
+    "christian hardcore",
+    "christian punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27336fa344dcef4e4380e386361",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0236fa344dcef4e4380e386361",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485136fa344dcef4e4380e386361",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2jklKjIZQlCTsyXwdnnZrc"
+  }
+}

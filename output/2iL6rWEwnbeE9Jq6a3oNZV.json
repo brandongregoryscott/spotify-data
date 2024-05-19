@@ -1,0 +1,33 @@
+{
+  "id": "2iL6rWEwnbeE9Jq6a3oNZV",
+  "name": "DIV",
+  "uri": "spotify:artist:2iL6rWEwnbeE9Jq6a3oNZV",
+  "followers": {
+    "href": null,
+    "total": 6127
+  },
+  "genres": [
+    "visual kei"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb79bd5871899da85a6ed05497",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517479bd5871899da85a6ed05497",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17879bd5871899da85a6ed05497",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2iL6rWEwnbeE9Jq6a3oNZV"
+  }
+}

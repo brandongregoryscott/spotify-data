@@ -1,0 +1,33 @@
+{
+  "id": "2q82seMUmyEyEqkr8TVLZ8",
+  "name": "RowBack",
+  "uri": "spotify:artist:2q82seMUmyEyEqkr8TVLZ8",
+  "followers": {
+    "href": null,
+    "total": 16
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb9cc0e07337df8e6f9304558",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b9cc0e07337df8e6f9304558",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b9cc0e07337df8e6f9304558",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2q82seMUmyEyEqkr8TVLZ8"
+  }
+}

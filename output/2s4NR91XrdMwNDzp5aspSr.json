@@ -1,0 +1,33 @@
+{
+  "id": "2s4NR91XrdMwNDzp5aspSr",
+  "name": "The Carousers",
+  "uri": "spotify:artist:2s4NR91XrdMwNDzp5aspSr",
+  "followers": {
+    "href": null,
+    "total": 332
+  },
+  "genres": [
+    "new jersey punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7811e8d4248bfb068a642fdb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051747811e8d4248bfb068a642fdb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1787811e8d4248bfb068a642fdb",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2s4NR91XrdMwNDzp5aspSr"
+  }
+}

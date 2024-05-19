@@ -1,0 +1,33 @@
+{
+  "id": "2lUDBoCYdJhvJk9ObC3R2E",
+  "name": "Frogpile",
+  "uri": "spotify:artist:2lUDBoCYdJhvJk9ObC3R2E",
+  "followers": {
+    "href": null,
+    "total": 144
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27302e9dd0f8ae8b71096369cbb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0202e9dd0f8ae8b71096369cbb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485102e9dd0f8ae8b71096369cbb",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2lUDBoCYdJhvJk9ObC3R2E"
+  }
+}

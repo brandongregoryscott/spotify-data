@@ -1,0 +1,33 @@
+{
+  "id": "2jv3dj48LmJ18EwXdgzARH",
+  "name": "Ervie",
+  "uri": "spotify:artist:2jv3dj48LmJ18EwXdgzARH",
+  "followers": {
+    "href": null,
+    "total": 707
+  },
+  "genres": [
+    "hyperpop italiano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc62c3544a61c4583a54c4522",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c62c3544a61c4583a54c4522",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c62c3544a61c4583a54c4522",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2jv3dj48LmJ18EwXdgzARH"
+  }
+}

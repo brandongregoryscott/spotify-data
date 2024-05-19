@@ -1,0 +1,33 @@
+{
+  "id": "2stkNumWCkiA7oVQxghhBa",
+  "name": "HACHE",
+  "uri": "spotify:artist:2stkNumWCkiA7oVQxghhBa",
+  "followers": {
+    "href": null,
+    "total": 3982
+  },
+  "genres": [
+    "trap dominicano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf3a6fd113e68bd7b76fa2ff3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f3a6fd113e68bd7b76fa2ff3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f3a6fd113e68bd7b76fa2ff3",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2stkNumWCkiA7oVQxghhBa"
+  }
+}

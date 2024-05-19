@@ -1,0 +1,33 @@
+{
+  "id": "2g4lvjVSHVht7kc9nKgH11",
+  "name": "Eli Winter",
+  "uri": "spotify:artist:2g4lvjVSHVht7kc9nKgH11",
+  "followers": {
+    "href": null,
+    "total": 2022
+  },
+  "genres": [
+    "american primitive"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba3027fe84fac5918deef2d08",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a3027fe84fac5918deef2d08",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a3027fe84fac5918deef2d08",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2g4lvjVSHVht7kc9nKgH11"
+  }
+}

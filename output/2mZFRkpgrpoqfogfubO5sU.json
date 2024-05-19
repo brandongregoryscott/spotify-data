@@ -1,0 +1,33 @@
+{
+  "id": "2mZFRkpgrpoqfogfubO5sU",
+  "name": "Umbría",
+  "uri": "spotify:artist:2mZFRkpgrpoqfogfubO5sU",
+  "followers": {
+    "href": null,
+    "total": 1308
+  },
+  "genres": [
+    "dungeon synth"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb695c9fed93f1b59cea6e94d1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174695c9fed93f1b59cea6e94d1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178695c9fed93f1b59cea6e94d1",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2mZFRkpgrpoqfogfubO5sU"
+  }
+}

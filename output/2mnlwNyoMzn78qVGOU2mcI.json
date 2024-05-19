@@ -1,0 +1,33 @@
+{
+  "id": "2mnlwNyoMzn78qVGOU2mcI",
+  "name": "Another Stage",
+  "uri": "spotify:artist:2mnlwNyoMzn78qVGOU2mcI",
+  "followers": {
+    "href": null,
+    "total": 218
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb32bbc34e17f5d870fdd56243",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517432bbc34e17f5d870fdd56243",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17832bbc34e17f5d870fdd56243",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2mnlwNyoMzn78qVGOU2mcI"
+  }
+}

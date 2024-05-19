@@ -1,0 +1,33 @@
+{
+  "id": "2bgMCMbcjoMXemFtGbPPeh",
+  "name": "Bananagun",
+  "uri": "spotify:artist:2bgMCMbcjoMXemFtGbPPeh",
+  "followers": {
+    "href": null,
+    "total": 11454
+  },
+  "genres": [
+    "neo-psychedelic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe563ef03fa78a9a915b67895",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e563ef03fa78a9a915b67895",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e563ef03fa78a9a915b67895",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2bgMCMbcjoMXemFtGbPPeh"
+  }
+}

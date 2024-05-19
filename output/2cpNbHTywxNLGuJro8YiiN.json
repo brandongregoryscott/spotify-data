@@ -1,0 +1,33 @@
+{
+  "id": "2cpNbHTywxNLGuJro8YiiN",
+  "name": "Phran",
+  "uri": "spotify:artist:2cpNbHTywxNLGuJro8YiiN",
+  "followers": {
+    "href": null,
+    "total": 443
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba76493ceca9e1ad649bbd182",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a76493ceca9e1ad649bbd182",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a76493ceca9e1ad649bbd182",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2cpNbHTywxNLGuJro8YiiN"
+  }
+}

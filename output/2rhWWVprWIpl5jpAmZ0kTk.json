@@ -1,0 +1,33 @@
+{
+  "id": "2rhWWVprWIpl5jpAmZ0kTk",
+  "name": "Moah",
+  "uri": "spotify:artist:2rhWWVprWIpl5jpAmZ0kTk",
+  "followers": {
+    "href": null,
+    "total": 839
+  },
+  "genres": [
+    "r&b argentino"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bede0aba46f77bdd3ff87a6e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bede0aba46f77bdd3ff87a6e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bede0aba46f77bdd3ff87a6e",
+      "width": 64
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2rhWWVprWIpl5jpAmZ0kTk"
+  }
+}

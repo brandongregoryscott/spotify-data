@@ -1,0 +1,33 @@
+{
+  "id": "2qaELKqgZ2HunQgkzdWljt",
+  "name": "draconid",
+  "uri": "spotify:artist:2qaELKqgZ2HunQgkzdWljt",
+  "followers": {
+    "href": null,
+    "total": 53
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb91d6e0c6afed86a343b21ccd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517491d6e0c6afed86a343b21ccd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17891d6e0c6afed86a343b21ccd",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2qaELKqgZ2HunQgkzdWljt"
+  }
+}

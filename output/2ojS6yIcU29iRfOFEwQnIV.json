@@ -1,0 +1,33 @@
+{
+  "id": "2ojS6yIcU29iRfOFEwQnIV",
+  "name": "ØFFalling",
+  "uri": "spotify:artist:2ojS6yIcU29iRfOFEwQnIV",
+  "followers": {
+    "href": null,
+    "total": 119
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb45920f36b9b84e4cd42a6663",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517445920f36b9b84e4cd42a6663",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17845920f36b9b84e4cd42a6663",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ojS6yIcU29iRfOFEwQnIV"
+  }
+}

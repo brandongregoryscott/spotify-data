@@ -1,0 +1,33 @@
+{
+  "id": "2sMGo27bjMEEvJKQAnzWBl",
+  "name": "Pink Salt",
+  "uri": "spotify:artist:2sMGo27bjMEEvJKQAnzWBl",
+  "followers": {
+    "href": null,
+    "total": 144
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb475dd2c44c89664edd9b0adc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174475dd2c44c89664edd9b0adc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178475dd2c44c89664edd9b0adc",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2sMGo27bjMEEvJKQAnzWBl"
+  }
+}

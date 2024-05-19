@@ -1,0 +1,33 @@
+{
+  "id": "2c9qqsvDx1s1Sscrzi0bTe",
+  "name": "The Big Peach",
+  "uri": "spotify:artist:2c9qqsvDx1s1Sscrzi0bTe",
+  "followers": {
+    "href": null,
+    "total": 390
+  },
+  "genres": [
+    "manchester indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb383bd95194491082ff1352b1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174383bd95194491082ff1352b1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178383bd95194491082ff1352b1",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2c9qqsvDx1s1Sscrzi0bTe"
+  }
+}

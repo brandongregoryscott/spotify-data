@@ -1,0 +1,33 @@
+{
+  "id": "2rWhtTCIJfxgWd4oClRj6U",
+  "name": "Advents",
+  "uri": "spotify:artist:2rWhtTCIJfxgWd4oClRj6U",
+  "followers": {
+    "href": null,
+    "total": 960
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb460f6a7a0ad74434a2bdaf1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b460f6a7a0ad74434a2bdaf1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b460f6a7a0ad74434a2bdaf1",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2rWhtTCIJfxgWd4oClRj6U"
+  }
+}

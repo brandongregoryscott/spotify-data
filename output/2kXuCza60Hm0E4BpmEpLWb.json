@@ -1,0 +1,33 @@
+{
+  "id": "2kXuCza60Hm0E4BpmEpLWb",
+  "name": "Proyecto siri",
+  "uri": "spotify:artist:2kXuCza60Hm0E4BpmEpLWb",
+  "followers": {
+    "href": null,
+    "total": 268
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfd4016a4ecb573139936c663",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fd4016a4ecb573139936c663",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fd4016a4ecb573139936c663",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2kXuCza60Hm0E4BpmEpLWb"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2pIXZRyRGS2XFEejrkWoud",
+  "name": "Motards",
+  "uri": "spotify:artist:2pIXZRyRGS2XFEejrkWoud",
+  "followers": {
+    "href": null,
+    "total": 513
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273aa03adeaa2e82fbec585390b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02aa03adeaa2e82fbec585390b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851aa03adeaa2e82fbec585390b",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2pIXZRyRGS2XFEejrkWoud"
+  }
+}

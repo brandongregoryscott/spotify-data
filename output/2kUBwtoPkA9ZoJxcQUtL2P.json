@@ -1,0 +1,33 @@
+{
+  "id": "2kUBwtoPkA9ZoJxcQUtL2P",
+  "name": "CLAUDIA",
+  "uri": "spotify:artist:2kUBwtoPkA9ZoJxcQUtL2P",
+  "followers": {
+    "href": null,
+    "total": 20401
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb6db6d614cd1a9010302a8e9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b6db6d614cd1a9010302a8e9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b6db6d614cd1a9010302a8e9",
+      "width": 160
+    }
+  ],
+  "popularity": 37,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2dydq1NS6N67QD4YCUae1Z",
+  "name": "Guardrail",
+  "uri": "spotify:artist:2dydq1NS6N67QD4YCUae1Z",
+  "followers": {
+    "href": null,
+    "total": 5413
+  },
+  "genres": [
+    "chicago pop punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc26d3983878dd1e0263ed0e7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c26d3983878dd1e0263ed0e7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c26d3983878dd1e0263ed0e7",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2dydq1NS6N67QD4YCUae1Z"
+  }
+}
