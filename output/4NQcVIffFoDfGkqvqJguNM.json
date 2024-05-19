@@ -1,0 +1,33 @@
+{
+  "id": "4NQcVIffFoDfGkqvqJguNM",
+  "name": "Daisy Dazzer",
+  "uri": "spotify:artist:4NQcVIffFoDfGkqvqJguNM",
+  "followers": {
+    "href": null,
+    "total": 18
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273908fd4f7db9aac18861bc117",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0248769af3cb458cab13b9980d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485148769af3cb458cab13b9980d",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4NQcVIffFoDfGkqvqJguNM"
+  }
+}

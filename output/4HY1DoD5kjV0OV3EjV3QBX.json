@@ -1,0 +1,33 @@
+{
+  "id": "4HY1DoD5kjV0OV3EjV3QBX",
+  "name": "city dog",
+  "uri": "spotify:artist:4HY1DoD5kjV0OV3EjV3QBX",
+  "followers": {
+    "href": null,
+    "total": 1539
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4a60e89a6ad04bbc29a230b4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744a60e89a6ad04bbc29a230b4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784a60e89a6ad04bbc29a230b4",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4HY1DoD5kjV0OV3EjV3QBX"
+  }
+}

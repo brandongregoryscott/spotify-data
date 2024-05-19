@@ -1,0 +1,33 @@
+{
+  "id": "4PCYNVe5rr4NNLoHxk1ue9",
+  "name": "Bardee",
+  "uri": "spotify:artist:4PCYNVe5rr4NNLoHxk1ue9",
+  "followers": {
+    "href": null,
+    "total": 1970
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebee43c6075891adb658c9892b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ee43c6075891adb658c9892b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ee43c6075891adb658c9892b",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4PCYNVe5rr4NNLoHxk1ue9"
+  }
+}

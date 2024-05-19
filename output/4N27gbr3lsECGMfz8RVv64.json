@@ -1,0 +1,33 @@
+{
+  "id": "4N27gbr3lsECGMfz8RVv64",
+  "name": "Headman",
+  "uri": "spotify:artist:4N27gbr3lsECGMfz8RVv64",
+  "followers": {
+    "href": null,
+    "total": 3966
+  },
+  "genres": [
+    "dark disco"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb713a6400bdfc3fee3782fe85",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174713a6400bdfc3fee3782fe85",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178713a6400bdfc3fee3782fe85",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4N27gbr3lsECGMfz8RVv64"
+  }
+}

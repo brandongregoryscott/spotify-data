@@ -1,0 +1,33 @@
+{
+  "id": "4TMuHF2hbRbSOy27M6yRGj",
+  "name": "Garbo",
+  "uri": "spotify:artist:4TMuHF2hbRbSOy27M6yRGj",
+  "followers": {
+    "href": null,
+    "total": 79
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733304eb95cc879e99d6b2ce6c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023304eb95cc879e99d6b2ce6c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513304eb95cc879e99d6b2ce6c",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4TMuHF2hbRbSOy27M6yRGj"
+  }
+}

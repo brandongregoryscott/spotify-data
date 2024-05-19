@@ -1,0 +1,33 @@
+{
+  "id": "4KyDs0D8XzypeiBYeUGBaN",
+  "name": "onnisanti",
+  "uri": "spotify:artist:4KyDs0D8XzypeiBYeUGBaN",
+  "followers": {
+    "href": null,
+    "total": 264
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbae126264163fb1e4f669809",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bae126264163fb1e4f669809",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bae126264163fb1e4f669809",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4KyDs0D8XzypeiBYeUGBaN"
+  }
+}

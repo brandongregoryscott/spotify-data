@@ -1,0 +1,33 @@
+{
+  "id": "4S9F9lnFpjsqvCMiBpvsNu",
+  "name": "TMI Tammi",
+  "uri": "spotify:artist:4S9F9lnFpjsqvCMiBpvsNu",
+  "followers": {
+    "href": null,
+    "total": 31
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb32a7f394bd0bf571cdc64678",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517432a7f394bd0bf571cdc64678",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17832a7f394bd0bf571cdc64678",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4S9F9lnFpjsqvCMiBpvsNu"
+  }
+}

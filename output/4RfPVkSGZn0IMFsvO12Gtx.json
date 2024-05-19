@@ -1,0 +1,33 @@
+{
+  "id": "4RfPVkSGZn0IMFsvO12Gtx",
+  "name": "Slone",
+  "uri": "spotify:artist:4RfPVkSGZn0IMFsvO12Gtx",
+  "followers": {
+    "href": null,
+    "total": 563
+  },
+  "genres": [
+    "hardgroove"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0cf86df94b224c871067e231",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051740cf86df94b224c871067e231",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1780cf86df94b224c871067e231",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4RfPVkSGZn0IMFsvO12Gtx"
+  }
+}

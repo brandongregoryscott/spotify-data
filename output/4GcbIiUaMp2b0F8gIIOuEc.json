@@ -1,0 +1,33 @@
+{
+  "id": "4GcbIiUaMp2b0F8gIIOuEc",
+  "name": "Excelsior",
+  "uri": "spotify:artist:4GcbIiUaMp2b0F8gIIOuEc",
+  "followers": {
+    "href": null,
+    "total": 506
+  },
+  "genres": [
+    "danish indie pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe3e42f7a02bed3757e45b8f8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e3e42f7a02bed3757e45b8f8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e3e42f7a02bed3757e45b8f8",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4GcbIiUaMp2b0F8gIIOuEc"
+  }
+}

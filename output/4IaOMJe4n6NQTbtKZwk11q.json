@@ -1,0 +1,33 @@
+{
+  "id": "4IaOMJe4n6NQTbtKZwk11q",
+  "name": "The Lay",
+  "uri": "spotify:artist:4IaOMJe4n6NQTbtKZwk11q",
+  "followers": {
+    "href": null,
+    "total": 142
+  },
+  "genres": [
+    "rock paraense"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd76c6d6836daa8ed69b12aaf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d76c6d6836daa8ed69b12aaf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d76c6d6836daa8ed69b12aaf",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4IaOMJe4n6NQTbtKZwk11q"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4FYW32AGgp6MDsKgQdbJAd",
+  "name": "Javier des Leon",
+  "uri": "spotify:artist:4FYW32AGgp6MDsKgQdbJAd",
+  "followers": {
+    "href": null,
+    "total": 243
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd4f22d5d81f31c383d63e097",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d4f22d5d81f31c383d63e097",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d4f22d5d81f31c383d63e097",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4FYW32AGgp6MDsKgQdbJAd"
+  }
+}

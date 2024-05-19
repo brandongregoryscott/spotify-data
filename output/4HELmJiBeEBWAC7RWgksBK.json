@@ -1,0 +1,33 @@
+{
+  "id": "4HELmJiBeEBWAC7RWgksBK",
+  "name": "Blue Cartoon",
+  "uri": "spotify:artist:4HELmJiBeEBWAC7RWgksBK",
+  "followers": {
+    "href": null,
+    "total": 165
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273672ced84ec170e09a30c03b7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02672ced84ec170e09a30c03b7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851672ced84ec170e09a30c03b7",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4HELmJiBeEBWAC7RWgksBK"
+  }
+}

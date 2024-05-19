@@ -1,0 +1,33 @@
+{
+  "id": "4L0pFQhX8PIuxLUdjYOqJ0",
+  "name": "ohaind",
+  "uri": "spotify:artist:4L0pFQhX8PIuxLUdjYOqJ0",
+  "followers": {
+    "href": null,
+    "total": 133
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb652305a1fd102c5604ea0fcd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174652305a1fd102c5604ea0fcd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178652305a1fd102c5604ea0fcd",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4L0pFQhX8PIuxLUdjYOqJ0"
+  }
+}

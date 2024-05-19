@@ -1,0 +1,33 @@
+{
+  "id": "4NcPJzVZA5NDH8LeHOt5Ax",
+  "name": "sane",
+  "uri": "spotify:artist:4NcPJzVZA5NDH8LeHOt5Ax",
+  "followers": {
+    "href": null,
+    "total": 349
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb98bc3cc8bb26be05787f4560",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517498bc3cc8bb26be05787f4560",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17898bc3cc8bb26be05787f4560",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4NcPJzVZA5NDH8LeHOt5Ax"
+  }
+}

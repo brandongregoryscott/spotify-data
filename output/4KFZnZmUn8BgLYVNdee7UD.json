@@ -1,0 +1,33 @@
+{
+  "id": "4KFZnZmUn8BgLYVNdee7UD",
+  "name": "Alex Greenwald",
+  "uri": "spotify:artist:4KFZnZmUn8BgLYVNdee7UD",
+  "followers": {
+    "href": null,
+    "total": 1308
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27310d4ac5cd750a82f24ce487d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0210d4ac5cd750a82f24ce487d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485110d4ac5cd750a82f24ce487d",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4KFZnZmUn8BgLYVNdee7UD"
+  }
+}

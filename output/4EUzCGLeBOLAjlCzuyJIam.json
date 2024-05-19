@@ -1,0 +1,33 @@
+{
+  "id": "4EUzCGLeBOLAjlCzuyJIam",
+  "name": "MONTUNO",
+  "uri": "spotify:artist:4EUzCGLeBOLAjlCzuyJIam",
+  "followers": {
+    "href": null,
+    "total": 210
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb58260f4166b9d0c3effeaa71",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517458260f4166b9d0c3effeaa71",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17858260f4166b9d0c3effeaa71",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4EUzCGLeBOLAjlCzuyJIam"
+  }
+}

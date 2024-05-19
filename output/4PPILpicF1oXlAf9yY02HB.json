@@ -1,0 +1,33 @@
+{
+  "id": "4PPILpicF1oXlAf9yY02HB",
+  "name": "Spoze",
+  "uri": "spotify:artist:4PPILpicF1oXlAf9yY02HB",
+  "followers": {
+    "href": null,
+    "total": 322
+  },
+  "genres": [
+    "wave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c98847895c12f05e31c3e528",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c98847895c12f05e31c3e528",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c98847895c12f05e31c3e528",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4PPILpicF1oXlAf9yY02HB"
+  }
+}

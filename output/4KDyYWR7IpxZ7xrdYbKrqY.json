@@ -1,0 +1,39 @@
+{
+  "id": "4KDyYWR7IpxZ7xrdYbKrqY",
+  "name": "Bonnie Raitt",
+  "uri": "spotify:artist:4KDyYWR7IpxZ7xrdYbKrqY",
+  "followers": {
+    "href": null,
+    "total": 709315
+  },
+  "genres": [
+    "country rock",
+    "electric blues",
+    "folk",
+    "folk rock",
+    "mellow gold",
+    "singer-songwriter",
+    "soft rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe86f788af4e127154da1257f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e86f788af4e127154da1257f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e86f788af4e127154da1257f",
+      "width": 160
+    }
+  ],
+  "popularity": 54,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+  }
+}

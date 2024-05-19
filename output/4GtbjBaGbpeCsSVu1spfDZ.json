@@ -1,0 +1,33 @@
+{
+  "id": "4GtbjBaGbpeCsSVu1spfDZ",
+  "name": "Søcrates",
+  "uri": "spotify:artist:4GtbjBaGbpeCsSVu1spfDZ",
+  "followers": {
+    "href": null,
+    "total": 63
+  },
+  "genres": [
+    "trap beats"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb432d9bd1bd562eedea54d619",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174432d9bd1bd562eedea54d619",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178432d9bd1bd562eedea54d619",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4GtbjBaGbpeCsSVu1spfDZ"
+  }
+}

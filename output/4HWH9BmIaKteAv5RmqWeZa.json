@@ -1,0 +1,33 @@
+{
+  "id": "4HWH9BmIaKteAv5RmqWeZa",
+  "name": "Huckleberryfinn",
+  "uri": "spotify:artist:4HWH9BmIaKteAv5RmqWeZa",
+  "followers": {
+    "href": null,
+    "total": 5946
+  },
+  "genres": [
+    "korean indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebab03e26e98d17edb3a7430bd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ab03e26e98d17edb3a7430bd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ab03e26e98d17edb3a7430bd",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4HWH9BmIaKteAv5RmqWeZa"
+  }
+}

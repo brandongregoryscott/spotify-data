@@ -1,0 +1,33 @@
+{
+  "id": "4Gf6re9v5mrOWkTjUImuys",
+  "name": "Glyph",
+  "uri": "spotify:artist:4Gf6re9v5mrOWkTjUImuys",
+  "followers": {
+    "href": null,
+    "total": 277
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb2b8a2abbb4cdd823d67c3dec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051742b8a2abbb4cdd823d67c3dec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1782b8a2abbb4cdd823d67c3dec",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Gf6re9v5mrOWkTjUImuys"
+  }
+}

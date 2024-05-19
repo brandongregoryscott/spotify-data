@@ -1,0 +1,33 @@
+{
+  "id": "4E3AxQBE3y9bADshviqPns",
+  "name": "NERiMA",
+  "uri": "spotify:artist:4E3AxQBE3y9bADshviqPns",
+  "followers": {
+    "href": null,
+    "total": 1982
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc2b21fb11c47f79d3dc5b7cb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c2b21fb11c47f79d3dc5b7cb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c2b21fb11c47f79d3dc5b7cb",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4E3AxQBE3y9bADshviqPns"
+  }
+}

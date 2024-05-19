@@ -1,0 +1,33 @@
+{
+  "id": "4MFDY5t28jOmR8kLGXuQj3",
+  "name": "Puppy Feet",
+  "uri": "spotify:artist:4MFDY5t28jOmR8kLGXuQj3",
+  "followers": {
+    "href": null,
+    "total": 640
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb937792260d1f4719a4a2c1ce",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174937792260d1f4719a4a2c1ce",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178937792260d1f4719a4a2c1ce",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4MFDY5t28jOmR8kLGXuQj3"
+  }
+}
