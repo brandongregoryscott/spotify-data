@@ -1,0 +1,33 @@
+{
+  "id": "01ZacTcanjoAZShSMbqSBk",
+  "name": "Laars",
+  "uri": "spotify:artist:01ZacTcanjoAZShSMbqSBk",
+  "followers": {
+    "href": null,
+    "total": 375
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb298a702771193424314b70a6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174298a702771193424314b70a6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178298a702771193424314b70a6",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01ZacTcanjoAZShSMbqSBk"
+  }
+}

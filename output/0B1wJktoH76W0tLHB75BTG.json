@@ -1,0 +1,34 @@
+{
+  "id": "0B1wJktoH76W0tLHB75BTG",
+  "name": "Sinaia",
+  "uri": "spotify:artist:0B1wJktoH76W0tLHB75BTG",
+  "followers": {
+    "href": null,
+    "total": 2994
+  },
+  "genres": [
+    "punk urbano",
+    "spanish metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc6a468a6b6f29f116ea34d75",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c6a468a6b6f29f116ea34d75",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c6a468a6b6f29f116ea34d75",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG"
+  }
+}

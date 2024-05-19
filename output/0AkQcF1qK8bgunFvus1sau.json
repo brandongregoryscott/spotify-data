@@ -1,0 +1,33 @@
+{
+  "id": "0AkQcF1qK8bgunFvus1sau",
+  "name": "Crossfya",
+  "uri": "spotify:artist:0AkQcF1qK8bgunFvus1sau",
+  "followers": {
+    "href": null,
+    "total": 2568
+  },
+  "genres": [
+    "cedm"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfde38947276f966e7fccc88d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fde38947276f966e7fccc88d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fde38947276f966e7fccc88d",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0AkQcF1qK8bgunFvus1sau"
+  }
+}

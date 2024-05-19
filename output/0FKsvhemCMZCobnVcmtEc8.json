@@ -1,0 +1,33 @@
+{
+  "id": "0FKsvhemCMZCobnVcmtEc8",
+  "name": "Finn Gruva",
+  "uri": "spotify:artist:0FKsvhemCMZCobnVcmtEc8",
+  "followers": {
+    "href": null,
+    "total": 33779
+  },
+  "genres": [
+    "pacific islands pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734c33cb7d66244c3f49bd7649",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024c33cb7d66244c3f49bd7649",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514c33cb7d66244c3f49bd7649",
+      "width": 64
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0FKsvhemCMZCobnVcmtEc8"
+  }
+}

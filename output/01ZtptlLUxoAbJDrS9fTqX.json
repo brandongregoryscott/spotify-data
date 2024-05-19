@@ -1,0 +1,34 @@
+{
+  "id": "01ZtptlLUxoAbJDrS9fTqX",
+  "name": "Red Sun Rising",
+  "uri": "spotify:artist:01ZtptlLUxoAbJDrS9fTqX",
+  "followers": {
+    "href": null,
+    "total": 85573
+  },
+  "genres": [
+    "modern hard rock",
+    "post-grunge"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb784c8eb55684c4d9d1177f88",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174784c8eb55684c4d9d1177f88",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178784c8eb55684c4d9d1177f88",
+      "width": 160
+    }
+  ],
+  "popularity": 41,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0685luDRQZRkN4JnhnRSKX",
+  "name": "wotaku",
+  "uri": "spotify:artist:0685luDRQZRkN4JnhnRSKX",
+  "followers": {
+    "href": null,
+    "total": 127382
+  },
+  "genres": [
+    "vocaloid"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cfc769ef2e93cc3f809cbda9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cfc769ef2e93cc3f809cbda9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cfc769ef2e93cc3f809cbda9",
+      "width": 64
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0685luDRQZRkN4JnhnRSKX"
+  }
+}

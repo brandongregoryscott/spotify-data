@@ -1,0 +1,33 @@
+{
+  "id": "0IomtauMPN6jngzrLsCb5V",
+  "name": "Paul Higgs",
+  "uri": "spotify:artist:0IomtauMPN6jngzrLsCb5V",
+  "followers": {
+    "href": null,
+    "total": 3808
+  },
+  "genres": [
+    "uruguayan indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb145383e8d9abe41747e5ca53",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174145383e8d9abe41747e5ca53",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178145383e8d9abe41747e5ca53",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V"
+  }
+}

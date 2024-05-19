@@ -1,0 +1,33 @@
+{
+  "id": "08xrLtRPrboY0lJxakHl74",
+  "name": "ugly nick",
+  "uri": "spotify:artist:08xrLtRPrboY0lJxakHl74",
+  "followers": {
+    "href": null,
+    "total": 535
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdf5959e769630678b73e684f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174df5959e769630678b73e684f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178df5959e769630678b73e684f",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/08xrLtRPrboY0lJxakHl74"
+  }
+}

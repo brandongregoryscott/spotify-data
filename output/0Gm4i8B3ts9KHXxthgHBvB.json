@@ -1,0 +1,33 @@
+{
+  "id": "0Gm4i8B3ts9KHXxthgHBvB",
+  "name": "Talia",
+  "uri": "spotify:artist:0Gm4i8B3ts9KHXxthgHBvB",
+  "followers": {
+    "href": null,
+    "total": 106
+  },
+  "genres": [
+    "hyperpop italiano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb096c62e00f4af7ce72c934a6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174096c62e00f4af7ce72c934a6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178096c62e00f4af7ce72c934a6",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Gm4i8B3ts9KHXxthgHBvB"
+  }
+}

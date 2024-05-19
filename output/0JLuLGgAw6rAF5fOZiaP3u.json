@@ -1,0 +1,33 @@
+{
+  "id": "0JLuLGgAw6rAF5fOZiaP3u",
+  "name": "Rob Parrigan",
+  "uri": "spotify:artist:0JLuLGgAw6rAF5fOZiaP3u",
+  "followers": {
+    "href": null,
+    "total": 397
+  },
+  "genres": [
+    "easycore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dace15a072c79606ab37660c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dace15a072c79606ab37660c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dace15a072c79606ab37660c",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0JLuLGgAw6rAF5fOZiaP3u"
+  }
+}

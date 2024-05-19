@@ -1,0 +1,33 @@
+{
+  "id": "05HFoyBuxXsi982CsD4q1G",
+  "name": "Cugino",
+  "uri": "spotify:artist:05HFoyBuxXsi982CsD4q1G",
+  "followers": {
+    "href": null,
+    "total": 250
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb032955db2cf569e42806c6cb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174032955db2cf569e42806c6cb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178032955db2cf569e42806c6cb",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05HFoyBuxXsi982CsD4q1G"
+  }
+}

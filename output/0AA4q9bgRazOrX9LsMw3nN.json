@@ -1,0 +1,33 @@
+{
+  "id": "0AA4q9bgRazOrX9LsMw3nN",
+  "name": "Beira",
+  "uri": "spotify:artist:0AA4q9bgRazOrX9LsMw3nN",
+  "followers": {
+    "href": null,
+    "total": 621
+  },
+  "genres": [
+    "euskal indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273156bb392e3baa470a42af0fc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02156bb392e3baa470a42af0fc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851156bb392e3baa470a42af0fc",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0AA4q9bgRazOrX9LsMw3nN"
+  }
+}

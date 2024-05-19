@@ -1,0 +1,33 @@
+{
+  "id": "0I6lpZBcbdjY4qJhc3dmAh",
+  "name": "Euphoria",
+  "uri": "spotify:artist:0I6lpZBcbdjY4qJhc3dmAh",
+  "followers": {
+    "href": null,
+    "total": 384
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdc9a05c862a9a054562261bf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dc9a05c862a9a054562261bf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dc9a05c862a9a054562261bf",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0I6lpZBcbdjY4qJhc3dmAh"
+  }
+}

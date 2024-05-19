@@ -1,0 +1,33 @@
+{
+  "id": "07fWm4AMTsQTis94KDm1mj",
+  "name": "Toby McAllister",
+  "uri": "spotify:artist:07fWm4AMTsQTis94KDm1mj",
+  "followers": {
+    "href": null,
+    "total": 645
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb71c6e814215033f2f9b9d9a9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517471c6e814215033f2f9b9d9a9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17871c6e814215033f2f9b9d9a9",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07fWm4AMTsQTis94KDm1mj"
+  }
+}

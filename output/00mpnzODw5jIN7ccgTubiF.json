@@ -1,0 +1,33 @@
+{
+  "id": "00mpnzODw5jIN7ccgTubiF",
+  "name": "Real Heart",
+  "uri": "spotify:artist:00mpnzODw5jIN7ccgTubiF",
+  "followers": {
+    "href": null,
+    "total": 236
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb044458588f2c18edc4958c6e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174044458588f2c18edc4958c6e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178044458588f2c18edc4958c6e",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/00mpnzODw5jIN7ccgTubiF"
+  }
+}

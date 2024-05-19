@@ -1,0 +1,33 @@
+{
+  "id": "05ljU1mf7lsWBQYLL5xv9M",
+  "name": "Night Audit",
+  "uri": "spotify:artist:05ljU1mf7lsWBQYLL5xv9M",
+  "followers": {
+    "href": null,
+    "total": 199
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebba05d382669bf2dc25380a2c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ba05d382669bf2dc25380a2c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ba05d382669bf2dc25380a2c",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05ljU1mf7lsWBQYLL5xv9M"
+  }
+}

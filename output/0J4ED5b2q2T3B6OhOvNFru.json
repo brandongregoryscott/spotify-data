@@ -1,0 +1,33 @@
+{
+  "id": "0J4ED5b2q2T3B6OhOvNFru",
+  "name": "Siderland",
+  "uri": "spotify:artist:0J4ED5b2q2T3B6OhOvNFru",
+  "followers": {
+    "href": null,
+    "total": 1954
+  },
+  "genres": [
+    "musica catalana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb257efdb1f986f54582c15f45",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174257efdb1f986f54582c15f45",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178257efdb1f986f54582c15f45",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0J4ED5b2q2T3B6OhOvNFru"
+  }
+}

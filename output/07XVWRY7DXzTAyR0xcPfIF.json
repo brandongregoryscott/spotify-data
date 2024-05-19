@@ -1,0 +1,33 @@
+{
+  "id": "07XVWRY7DXzTAyR0xcPfIF",
+  "name": "Drakma",
+  "uri": "spotify:artist:07XVWRY7DXzTAyR0xcPfIF",
+  "followers": {
+    "href": null,
+    "total": 699
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273442b918bed14430184a8eead",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02442b918bed14430184a8eead",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851442b918bed14430184a8eead",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07XVWRY7DXzTAyR0xcPfIF"
+  }
+}

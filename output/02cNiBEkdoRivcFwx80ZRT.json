@@ -1,0 +1,33 @@
+{
+  "id": "02cNiBEkdoRivcFwx80ZRT",
+  "name": "Stephen Salewon",
+  "uri": "spotify:artist:02cNiBEkdoRivcFwx80ZRT",
+  "followers": {
+    "href": null,
+    "total": 457
+  },
+  "genres": [
+    "okc indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdd05e524f4578746435eda3b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dd05e524f4578746435eda3b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dd05e524f4578746435eda3b",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/02cNiBEkdoRivcFwx80ZRT"
+  }
+}

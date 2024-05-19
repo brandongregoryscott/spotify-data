@@ -1,0 +1,33 @@
+{
+  "id": "04mOCt9AXnZAKdoY8yTmMO",
+  "name": "Jo Harris",
+  "uri": "spotify:artist:04mOCt9AXnZAKdoY8yTmMO",
+  "followers": {
+    "href": null,
+    "total": 42
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb928feec5c23a5eb1314deca2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174928feec5c23a5eb1314deca2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178928feec5c23a5eb1314deca2",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/04mOCt9AXnZAKdoY8yTmMO"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0IE68xHQxczOqBXTnB1cGD",
+  "name": "Blessed",
+  "uri": "spotify:artist:0IE68xHQxczOqBXTnB1cGD",
+  "followers": {
+    "href": null,
+    "total": 2966
+  },
+  "genres": [
+    "vancouver indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb9921b9fe6b5c16e57e2d30d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b9921b9fe6b5c16e57e2d30d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b9921b9fe6b5c16e57e2d30d",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0IE68xHQxczOqBXTnB1cGD"
+  }
+}

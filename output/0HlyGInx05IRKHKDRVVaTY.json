@@ -1,0 +1,33 @@
+{
+  "id": "0HlyGInx05IRKHKDRVVaTY",
+  "name": "Danilo Tarso",
+  "uri": "spotify:artist:0HlyGInx05IRKHKDRVVaTY",
+  "followers": {
+    "href": null,
+    "total": 249
+  },
+  "genres": [
+    "contemporary vocal jazz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb31c986ee51a3432ca5446e86",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517431c986ee51a3432ca5446e86",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17831c986ee51a3432ca5446e86",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0HlyGInx05IRKHKDRVVaTY"
+  }
+}

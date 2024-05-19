@@ -1,0 +1,33 @@
+{
+  "id": "07QP4qL47V0rtSA9mVrP8w",
+  "name": "mangoes",
+  "uri": "spotify:artist:07QP4qL47V0rtSA9mVrP8w",
+  "followers": {
+    "href": null,
+    "total": 360
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb16ccc90f16e792633f8a07ef",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517416ccc90f16e792633f8a07ef",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17816ccc90f16e792633f8a07ef",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07QP4qL47V0rtSA9mVrP8w"
+  }
+}

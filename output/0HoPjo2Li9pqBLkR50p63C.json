@@ -1,0 +1,34 @@
+{
+  "id": "0HoPjo2Li9pqBLkR50p63C",
+  "name": "Fazer",
+  "uri": "spotify:artist:0HoPjo2Li9pqBLkR50p63C",
+  "followers": {
+    "href": null,
+    "total": 28188
+  },
+  "genres": [
+    "german jazz",
+    "indie jazz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb34541eb1b69156a0159104d2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517434541eb1b69156a0159104d2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17834541eb1b69156a0159104d2",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0HoPjo2Li9pqBLkR50p63C"
+  }
+}

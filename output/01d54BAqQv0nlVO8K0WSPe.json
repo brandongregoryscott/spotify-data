@@ -1,0 +1,33 @@
+{
+  "id": "01d54BAqQv0nlVO8K0WSPe",
+  "name": "VLADKUSH",
+  "uri": "spotify:artist:01d54BAqQv0nlVO8K0WSPe",
+  "followers": {
+    "href": null,
+    "total": 85
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a04bb82664dde3ea6d63de61",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020826467f289adefc6be3de00",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a04bb82664dde3ea6d63de61",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01d54BAqQv0nlVO8K0WSPe"
+  }
+}

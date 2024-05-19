@@ -1,0 +1,33 @@
+{
+  "id": "05gVG0c0rQ4upKCOXTcVwc",
+  "name": "c3ma",
+  "uri": "spotify:artist:05gVG0c0rQ4upKCOXTcVwc",
+  "followers": {
+    "href": null,
+    "total": 31
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb76feb3961c39af08a40e4734",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517476feb3961c39af08a40e4734",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17876feb3961c39af08a40e4734",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05gVG0c0rQ4upKCOXTcVwc"
+  }
+}

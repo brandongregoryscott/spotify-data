@@ -1,0 +1,33 @@
+{
+  "id": "00hFIHBsO61UDTsJ3iym1T",
+  "name": "リュベンス",
+  "uri": "spotify:artist:00hFIHBsO61UDTsJ3iym1T",
+  "followers": {
+    "href": null,
+    "total": 305
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebefe667ab54d6c753f746e459",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174efe667ab54d6c753f746e459",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178efe667ab54d6c753f746e459",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/00hFIHBsO61UDTsJ3iym1T"
+  }
+}

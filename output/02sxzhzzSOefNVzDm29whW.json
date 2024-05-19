@@ -1,0 +1,33 @@
+{
+  "id": "02sxzhzzSOefNVzDm29whW",
+  "name": "Bug-Stomp",
+  "uri": "spotify:artist:02sxzhzzSOefNVzDm29whW",
+  "followers": {
+    "href": null,
+    "total": 545
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb10bd75a04ef6ce14e45ed102",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517410bd75a04ef6ce14e45ed102",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17810bd75a04ef6ce14e45ed102",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/02sxzhzzSOefNVzDm29whW"
+  }
+}

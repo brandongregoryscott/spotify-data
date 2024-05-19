@@ -1,0 +1,33 @@
+{
+  "id": "02MFXaj3z1unq7pRCab2VD",
+  "name": "Baccano",
+  "uri": "spotify:artist:02MFXaj3z1unq7pRCab2VD",
+  "followers": {
+    "href": null,
+    "total": 345
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb45a4bd49c9af564b9fb6bb1c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517445a4bd49c9af564b9fb6bb1c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17845a4bd49c9af564b9fb6bb1c",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/02MFXaj3z1unq7pRCab2VD"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0Dki8wKhFmlWV6FvWBCoaV",
+  "name": "EYE",
+  "uri": "spotify:artist:0Dki8wKhFmlWV6FvWBCoaV",
+  "followers": {
+    "href": null,
+    "total": 699
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27335afdebfc50d79069868335a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0235afdebfc50d79069868335a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485135afdebfc50d79069868335a",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Dki8wKhFmlWV6FvWBCoaV"
+  }
+}

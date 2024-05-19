@@ -1,0 +1,33 @@
+{
+  "id": "01rN7IQbgfwlpj6rMPOIyB",
+  "name": "Mom",
+  "uri": "spotify:artist:01rN7IQbgfwlpj6rMPOIyB",
+  "followers": {
+    "href": null,
+    "total": 217
+  },
+  "genres": [
+    "modern power pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb459ebb3cdc4f0687ea0ecfef",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174459ebb3cdc4f0687ea0ecfef",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178459ebb3cdc4f0687ea0ecfef",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01rN7IQbgfwlpj6rMPOIyB"
+  }
+}

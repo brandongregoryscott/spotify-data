@@ -1,0 +1,33 @@
+{
+  "id": "0FFjXIXYy3WZ4JYW3TC7yG",
+  "name": "Polaven",
+  "uri": "spotify:artist:0FFjXIXYy3WZ4JYW3TC7yG",
+  "followers": {
+    "href": null,
+    "total": 4
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a9b348bcb5248e387f832cd8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ce4de600a4624c77c8c919fb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ce4de600a4624c77c8c919fb",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0FFjXIXYy3WZ4JYW3TC7yG"
+  }
+}

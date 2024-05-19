@@ -1,0 +1,33 @@
+{
+  "id": "0FAzaryteIYTN3chGeopUC",
+  "name": "Statue",
+  "uri": "spotify:artist:0FAzaryteIYTN3chGeopUC",
+  "followers": {
+    "href": null,
+    "total": 738
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273634068d9085059ebbe8fe9f6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02634068d9085059ebbe8fe9f6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851634068d9085059ebbe8fe9f6",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0FAzaryteIYTN3chGeopUC"
+  }
+}

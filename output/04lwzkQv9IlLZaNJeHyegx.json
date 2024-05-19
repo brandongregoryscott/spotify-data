@@ -1,0 +1,33 @@
+{
+  "id": "04lwzkQv9IlLZaNJeHyegx",
+  "name": "Uh Huh",
+  "uri": "spotify:artist:04lwzkQv9IlLZaNJeHyegx",
+  "followers": {
+    "href": null,
+    "total": 258
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb4eaf0f4c3c9277d6eba4ec4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b4eaf0f4c3c9277d6eba4ec4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b4eaf0f4c3c9277d6eba4ec4",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/04lwzkQv9IlLZaNJeHyegx"
+  }
+}

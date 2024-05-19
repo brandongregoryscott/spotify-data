@@ -1,0 +1,33 @@
+{
+  "id": "02PEhzGH16gaPuzm29f0zL",
+  "name": "UNCHAIN",
+  "uri": "spotify:artist:02PEhzGH16gaPuzm29f0zL",
+  "followers": {
+    "href": null,
+    "total": 52102
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3353e38c59d82c8f36e12a66",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051743353e38c59d82c8f36e12a66",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1783353e38c59d82c8f36e12a66",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/02PEhzGH16gaPuzm29f0zL"
+  }
+}

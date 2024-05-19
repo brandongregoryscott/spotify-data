@@ -1,0 +1,33 @@
+{
+  "id": "01NCdNpJe32vC2G3Qxfqfz",
+  "name": "전유나",
+  "uri": "spotify:artist:01NCdNpJe32vC2G3Qxfqfz",
+  "followers": {
+    "href": null,
+    "total": 300
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27323672e6279b189b61e959bee",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0223672e6279b189b61e959bee",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485123672e6279b189b61e959bee",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01NCdNpJe32vC2G3Qxfqfz"
+  }
+}

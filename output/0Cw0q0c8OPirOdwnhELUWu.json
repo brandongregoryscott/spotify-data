@@ -1,0 +1,33 @@
+{
+  "id": "0Cw0q0c8OPirOdwnhELUWu",
+  "name": "SUFFO",
+  "uri": "spotify:artist:0Cw0q0c8OPirOdwnhELUWu",
+  "followers": {
+    "href": null,
+    "total": 82
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc70c5970d9ea6cc7bcc637ce",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c70c5970d9ea6cc7bcc637ce",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c70c5970d9ea6cc7bcc637ce",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Cw0q0c8OPirOdwnhELUWu"
+  }
+}

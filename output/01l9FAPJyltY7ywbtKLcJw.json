@@ -1,0 +1,33 @@
+{
+  "id": "01l9FAPJyltY7ywbtKLcJw",
+  "name": "Kurkuma",
+  "uri": "spotify:artist:01l9FAPJyltY7ywbtKLcJw",
+  "followers": {
+    "href": null,
+    "total": 118
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e9b33527e7016ffd21bfe450",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e9b33527e7016ffd21bfe450",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e9b33527e7016ffd21bfe450",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01l9FAPJyltY7ywbtKLcJw"
+  }
+}

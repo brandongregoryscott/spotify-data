@@ -1,0 +1,33 @@
+{
+  "id": "0G3TLWhG4sfyV9xsFinv4o",
+  "name": "藍色シティ",
+  "uri": "spotify:artist:0G3TLWhG4sfyV9xsFinv4o",
+  "followers": {
+    "href": null,
+    "total": 365
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb751eb370bc1cd19fe3cc52a9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174751eb370bc1cd19fe3cc52a9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178751eb370bc1cd19fe3cc52a9",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0G3TLWhG4sfyV9xsFinv4o"
+  }
+}

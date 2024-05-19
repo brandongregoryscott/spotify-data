@@ -1,0 +1,33 @@
+{
+  "id": "0AaJ1e700CO11RjyeMmnOD",
+  "name": "Stylen",
+  "uri": "spotify:artist:0AaJ1e700CO11RjyeMmnOD",
+  "followers": {
+    "href": null,
+    "total": 1042
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273905df43250620c470f6e6b35",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024b0ab024823a275bca6f45f7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514b0ab024823a275bca6f45f7",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0AaJ1e700CO11RjyeMmnOD"
+  }
+}

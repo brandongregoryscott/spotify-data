@@ -1,0 +1,34 @@
+{
+  "id": "01YQGWRqEsJ0L7QKZO1TkD",
+  "name": "Deep Leaf",
+  "uri": "spotify:artist:01YQGWRqEsJ0L7QKZO1TkD",
+  "followers": {
+    "href": null,
+    "total": 4273
+  },
+  "genres": [
+    "j-rap",
+    "japanese drill"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb14e3cc0a25a72ce328173696",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517414e3cc0a25a72ce328173696",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17814e3cc0a25a72ce328173696",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01YQGWRqEsJ0L7QKZO1TkD"
+  }
+}

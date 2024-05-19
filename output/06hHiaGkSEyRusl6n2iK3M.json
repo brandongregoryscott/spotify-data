@@ -1,0 +1,35 @@
+{
+  "id": "06hHiaGkSEyRusl6n2iK3M",
+  "name": "Grupo Hacendado",
+  "uri": "spotify:artist:06hHiaGkSEyRusl6n2iK3M",
+  "followers": {
+    "href": null,
+    "total": 79454
+  },
+  "genres": [
+    "corrido",
+    "corridos tumbados",
+    "sierreno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf587899eaf857e9a2bdc951b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f587899eaf857e9a2bdc951b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f587899eaf857e9a2bdc951b",
+      "width": 160
+    }
+  ],
+  "popularity": 37,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M"
+  }
+}

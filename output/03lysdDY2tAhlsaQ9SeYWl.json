@@ -1,0 +1,33 @@
+{
+  "id": "03lysdDY2tAhlsaQ9SeYWl",
+  "name": "Stated",
+  "uri": "spotify:artist:03lysdDY2tAhlsaQ9SeYWl",
+  "followers": {
+    "href": null,
+    "total": 1031
+  },
+  "genres": [
+    "latincore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d89b94921af7a0df524b4174",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d89b94921af7a0df524b4174",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d89b94921af7a0df524b4174",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03lysdDY2tAhlsaQ9SeYWl"
+  }
+}

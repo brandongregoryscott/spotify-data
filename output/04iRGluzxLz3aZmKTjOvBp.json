@@ -1,0 +1,33 @@
+{
+  "id": "04iRGluzxLz3aZmKTjOvBp",
+  "name": "Jank",
+  "uri": "spotify:artist:04iRGluzxLz3aZmKTjOvBp",
+  "followers": {
+    "href": null,
+    "total": 4960
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d893fdf1e1280e26fe2babd7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d893fdf1e1280e26fe2babd7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d893fdf1e1280e26fe2babd7",
+      "width": 64
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/04iRGluzxLz3aZmKTjOvBp"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "028hBL1i9niD3oPkwxIL6F",
+  "name": "MOB",
+  "uri": "spotify:artist:028hBL1i9niD3oPkwxIL6F",
+  "followers": {
+    "href": null,
+    "total": 1092
+  },
+  "genres": [
+    "tearout"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273536278f13e522bc6b0cf3ceb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02536278f13e522bc6b0cf3ceb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851eecc593518f840c198cdc156",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/028hBL1i9niD3oPkwxIL6F"
+  }
+}

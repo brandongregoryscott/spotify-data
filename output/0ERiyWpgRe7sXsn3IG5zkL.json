@@ -1,0 +1,33 @@
+{
+  "id": "0ERiyWpgRe7sXsn3IG5zkL",
+  "name": "quinsea",
+  "uri": "spotify:artist:0ERiyWpgRe7sXsn3IG5zkL",
+  "followers": {
+    "href": null,
+    "total": 75
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb81e415bae7b0b17f16e4b743",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517481e415bae7b0b17f16e4b743",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17881e415bae7b0b17f16e4b743",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ERiyWpgRe7sXsn3IG5zkL"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "000gvjl8uRQ3c3wXenkxEn",
+  "name": "Augustix",
+  "uri": "spotify:artist:000gvjl8uRQ3c3wXenkxEn",
+  "followers": {
+    "href": null,
+    "total": 134
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebac132a9c1a7ff281c0ced2d1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ac132a9c1a7ff281c0ced2d1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ac132a9c1a7ff281c0ced2d1",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/000gvjl8uRQ3c3wXenkxEn"
+  }
+}

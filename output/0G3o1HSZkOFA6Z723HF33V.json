@@ -1,0 +1,33 @@
+{
+  "id": "0G3o1HSZkOFA6Z723HF33V",
+  "name": "Lil Jerry",
+  "uri": "spotify:artist:0G3o1HSZkOFA6Z723HF33V",
+  "followers": {
+    "href": null,
+    "total": 9086
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebad4604099058c0a37b854eb2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ad4604099058c0a37b854eb2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ad4604099058c0a37b854eb2",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0G3o1HSZkOFA6Z723HF33V"
+  }
+}

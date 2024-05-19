@@ -1,0 +1,33 @@
+{
+  "id": "0EnomY2BpOAfw8BRyHULPY",
+  "name": "Mr. Garfield",
+  "uri": "spotify:artist:0EnomY2BpOAfw8BRyHULPY",
+  "followers": {
+    "href": null,
+    "total": 329
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273837ffeed1985e824888e068f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02837ffeed1985e824888e068f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851837ffeed1985e824888e068f",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0EnomY2BpOAfw8BRyHULPY"
+  }
+}

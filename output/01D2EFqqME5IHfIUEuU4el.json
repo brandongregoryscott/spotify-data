@@ -1,0 +1,33 @@
+{
+  "id": "01D2EFqqME5IHfIUEuU4el",
+  "name": "Juhlat",
+  "uri": "spotify:artist:01D2EFqqME5IHfIUEuU4el",
+  "followers": {
+    "href": null,
+    "total": 392
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9a6bcae0ed5d4f547f62a3cf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051749a6bcae0ed5d4f547f62a3cf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1789a6bcae0ed5d4f547f62a3cf",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01D2EFqqME5IHfIUEuU4el"
+  }
+}

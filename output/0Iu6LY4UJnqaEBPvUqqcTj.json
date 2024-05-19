@@ -1,0 +1,33 @@
+{
+  "id": "0Iu6LY4UJnqaEBPvUqqcTj",
+  "name": "Mars",
+  "uri": "spotify:artist:0Iu6LY4UJnqaEBPvUqqcTj",
+  "followers": {
+    "href": null,
+    "total": 169
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb51058bc4c6831a9bb0ab2fe0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517451058bc4c6831a9bb0ab2fe0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17851058bc4c6831a9bb0ab2fe0",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Iu6LY4UJnqaEBPvUqqcTj"
+  }
+}
