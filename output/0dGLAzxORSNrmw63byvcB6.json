@@ -1,0 +1,33 @@
+{
+  "id": "0dGLAzxORSNrmw63byvcB6",
+  "name": "La música de Abril",
+  "uri": "spotify:artist:0dGLAzxORSNrmw63byvcB6",
+  "followers": {
+    "href": null,
+    "total": 264
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb01e8a56afe239bf8517dd5e2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517401e8a56afe239bf8517dd5e2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17801e8a56afe239bf8517dd5e2",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0dGLAzxORSNrmw63byvcB6"
+  }
+}

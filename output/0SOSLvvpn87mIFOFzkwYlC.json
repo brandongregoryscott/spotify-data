@@ -1,0 +1,33 @@
+{
+  "id": "0SOSLvvpn87mIFOFzkwYlC",
+  "name": "Jimmy Larsson",
+  "uri": "spotify:artist:0SOSLvvpn87mIFOFzkwYlC",
+  "followers": {
+    "href": null,
+    "total": 1239
+  },
+  "genres": [
+    "danspunk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27319be62f5954d9fc58c793b9d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0219be62f5954d9fc58c793b9d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485119be62f5954d9fc58c793b9d",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0SOSLvvpn87mIFOFzkwYlC"
+  }
+}

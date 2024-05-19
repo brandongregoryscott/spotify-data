@@ -1,0 +1,33 @@
+{
+  "id": "0RiR4LQa6SFZZGYK04iAcb",
+  "name": "DOMINO",
+  "uri": "spotify:artist:0RiR4LQa6SFZZGYK04iAcb",
+  "followers": {
+    "href": null,
+    "total": 2699
+  },
+  "genres": [
+    "eurobeat"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273697fa4b0783fc22ae312d02e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02697fa4b0783fc22ae312d02e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851697fa4b0783fc22ae312d02e",
+      "width": 64
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0RiR4LQa6SFZZGYK04iAcb"
+  }
+}

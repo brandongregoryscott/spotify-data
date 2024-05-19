@@ -1,0 +1,33 @@
+{
+  "id": "0MTR1N7JpAULYXi1eVZuBh",
+  "name": "Laurie Shaw",
+  "uri": "spotify:artist:0MTR1N7JpAULYXi1eVZuBh",
+  "followers": {
+    "href": null,
+    "total": 493
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7ccbb89f9693bc49bdd8dadd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051747ccbb89f9693bc49bdd8dadd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1787ccbb89f9693bc49bdd8dadd",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0MTR1N7JpAULYXi1eVZuBh"
+  }
+}

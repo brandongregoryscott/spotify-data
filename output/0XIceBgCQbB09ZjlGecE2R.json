@@ -1,0 +1,33 @@
+{
+  "id": "0XIceBgCQbB09ZjlGecE2R",
+  "name": "Sime",
+  "uri": "spotify:artist:0XIceBgCQbB09ZjlGecE2R",
+  "followers": {
+    "href": null,
+    "total": 228
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcfd83d830ccd066f8b972f07",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cfd83d830ccd066f8b972f07",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cfd83d830ccd066f8b972f07",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0XIceBgCQbB09ZjlGecE2R"
+  }
+}

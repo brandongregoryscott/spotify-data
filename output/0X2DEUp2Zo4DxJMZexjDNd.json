@@ -1,0 +1,33 @@
+{
+  "id": "0X2DEUp2Zo4DxJMZexjDNd",
+  "name": "Caeiro",
+  "uri": "spotify:artist:0X2DEUp2Zo4DxJMZexjDNd",
+  "followers": {
+    "href": null,
+    "total": 111
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb30d0f87d0b797445b0a0e915",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517430d0f87d0b797445b0a0e915",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17830d0f87d0b797445b0a0e915",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0X2DEUp2Zo4DxJMZexjDNd"
+  }
+}

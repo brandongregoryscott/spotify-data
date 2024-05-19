@@ -1,0 +1,33 @@
+{
+  "id": "0P3aCTexfN5InUm3P8fCyO",
+  "name": "Mohave",
+  "uri": "spotify:artist:0P3aCTexfN5InUm3P8fCyO",
+  "followers": {
+    "href": null,
+    "total": 1676
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb90da30c32152144864c5711",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b90da30c32152144864c5711",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b90da30c32152144864c5711",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0P3aCTexfN5InUm3P8fCyO"
+  }
+}

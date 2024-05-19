@@ -1,0 +1,33 @@
+{
+  "id": "0Wv17qzWaIMd03xisS6JZP",
+  "name": ".",
+  "uri": "spotify:artist:0Wv17qzWaIMd03xisS6JZP",
+  "followers": {
+    "href": null,
+    "total": 126
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733623ce94ac9768fc02e9589c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023623ce94ac9768fc02e9589c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513623ce94ac9768fc02e9589c",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Wv17qzWaIMd03xisS6JZP"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0KIn1h4JoXeReCoEqDnP5c",
+  "name": "Verum West",
+  "uri": "spotify:artist:0KIn1h4JoXeReCoEqDnP5c",
+  "followers": {
+    "href": null,
+    "total": 252
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaa360372a2e5d2f94878e5e9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aa360372a2e5d2f94878e5e9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aa360372a2e5d2f94878e5e9",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0KIn1h4JoXeReCoEqDnP5c"
+  }
+}

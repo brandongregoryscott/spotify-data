@@ -1,0 +1,33 @@
+{
+  "id": "0asi8ttxsz2mvnk03gcDnG",
+  "name": "cundrac",
+  "uri": "spotify:artist:0asi8ttxsz2mvnk03gcDnG",
+  "followers": {
+    "href": null,
+    "total": 132
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc6e18c10d9d75e3ca8313c83",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c6e18c10d9d75e3ca8313c83",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c6e18c10d9d75e3ca8313c83",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0asi8ttxsz2mvnk03gcDnG"
+  }
+}

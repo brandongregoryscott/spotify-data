@@ -1,0 +1,34 @@
+{
+  "id": "0bpVfnAjpr7PeTcyxMoAYK",
+  "name": "Björn Peng",
+  "uri": "spotify:artist:0bpVfnAjpr7PeTcyxMoAYK",
+  "followers": {
+    "href": null,
+    "total": 11797
+  },
+  "genres": [
+    "antideutsche",
+    "elektropunk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebec547a0afe9cb7c49e468d53",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ec547a0afe9cb7c49e468d53",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ec547a0afe9cb7c49e468d53",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0bpVfnAjpr7PeTcyxMoAYK"
+  }
+}

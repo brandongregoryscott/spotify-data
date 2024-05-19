@@ -1,0 +1,33 @@
+{
+  "id": "0WcPa2lfsxcZ87vLn4nZwi",
+  "name": "Fields&.",
+  "uri": "spotify:artist:0WcPa2lfsxcZ87vLn4nZwi",
+  "followers": {
+    "href": null,
+    "total": 636
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb78378f1e5a8471b9a965f449",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517478378f1e5a8471b9a965f449",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17878378f1e5a8471b9a965f449",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0WcPa2lfsxcZ87vLn4nZwi"
+  }
+}

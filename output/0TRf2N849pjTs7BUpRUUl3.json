@@ -1,0 +1,34 @@
+{
+  "id": "0TRf2N849pjTs7BUpRUUl3",
+  "name": "Antolín",
+  "uri": "spotify:artist:0TRf2N849pjTs7BUpRUUl3",
+  "followers": {
+    "href": null,
+    "total": 2303
+  },
+  "genres": [
+    "argentine indie",
+    "uruguayan indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb90afe1f59a810175fe919dae",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517490afe1f59a810175fe919dae",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17890afe1f59a810175fe919dae",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0TRf2N849pjTs7BUpRUUl3"
+  }
+}

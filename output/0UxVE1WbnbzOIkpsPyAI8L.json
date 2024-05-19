@@ -1,0 +1,33 @@
+{
+  "id": "0UxVE1WbnbzOIkpsPyAI8L",
+  "name": "Erhan",
+  "uri": "spotify:artist:0UxVE1WbnbzOIkpsPyAI8L",
+  "followers": {
+    "href": null,
+    "total": 100
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebda4b479caa454b225c8975ab",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174da4b479caa454b225c8975ab",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178da4b479caa454b225c8975ab",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0UxVE1WbnbzOIkpsPyAI8L"
+  }
+}

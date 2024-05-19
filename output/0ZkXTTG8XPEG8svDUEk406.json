@@ -1,0 +1,33 @@
+{
+  "id": "0ZkXTTG8XPEG8svDUEk406",
+  "name": "Radial Angel",
+  "uri": "spotify:artist:0ZkXTTG8XPEG8svDUEk406",
+  "followers": {
+    "href": null,
+    "total": 550
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb57a8b403f66ff5ba0c2ecdbb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517457a8b403f66ff5ba0c2ecdbb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17857a8b403f66ff5ba0c2ecdbb",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ZkXTTG8XPEG8svDUEk406"
+  }
+}

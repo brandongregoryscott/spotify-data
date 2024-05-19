@@ -1,0 +1,33 @@
+{
+  "id": "0Jk3rYIgaFup2VVBOlfK0I",
+  "name": "Lab Partners",
+  "uri": "spotify:artist:0Jk3rYIgaFup2VVBOlfK0I",
+  "followers": {
+    "href": null,
+    "total": 339
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ec3452d2963c7c101eeeee61",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ec3452d2963c7c101eeeee61",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ec3452d2963c7c101eeeee61",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Jk3rYIgaFup2VVBOlfK0I"
+  }
+}

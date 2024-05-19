@@ -1,0 +1,34 @@
+{
+  "id": "0bOJXwrmw0UiFBFNBTgFuj",
+  "name": "Viudita Moderna",
+  "uri": "spotify:artist:0bOJXwrmw0UiFBFNBTgFuj",
+  "followers": {
+    "href": null,
+    "total": 1181
+  },
+  "genres": [
+    "pop boliviano",
+    "trap boliviano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb43623bfbc527266aa5056769",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517443623bfbc527266aa5056769",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17843623bfbc527266aa5056769",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0bOJXwrmw0UiFBFNBTgFuj"
+  }
+}

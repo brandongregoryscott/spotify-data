@@ -1,0 +1,33 @@
+{
+  "id": "0SI28r5htxdHNwmgYlfIpG",
+  "name": "Krs.",
+  "uri": "spotify:artist:0SI28r5htxdHNwmgYlfIpG",
+  "followers": {
+    "href": null,
+    "total": 4239
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb08eed57c31c1420f968215be",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517408eed57c31c1420f968215be",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17808eed57c31c1420f968215be",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0SI28r5htxdHNwmgYlfIpG"
+  }
+}

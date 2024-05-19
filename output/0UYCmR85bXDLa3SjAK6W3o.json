@@ -1,0 +1,33 @@
+{
+  "id": "0UYCmR85bXDLa3SjAK6W3o",
+  "name": "Joshua",
+  "uri": "spotify:artist:0UYCmR85bXDLa3SjAK6W3o",
+  "followers": {
+    "href": null,
+    "total": 168
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb93a6bb4ea5b283bb844c4900",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517493a6bb4ea5b283bb844c4900",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17893a6bb4ea5b283bb844c4900",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0UYCmR85bXDLa3SjAK6W3o"
+  }
+}

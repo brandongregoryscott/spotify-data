@@ -1,0 +1,33 @@
+{
+  "id": "0NEjbaMIHcgpUJLEoIt0AT",
+  "name": "Eroneko",
+  "uri": "spotify:artist:0NEjbaMIHcgpUJLEoIt0AT",
+  "followers": {
+    "href": null,
+    "total": 105
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcf114bacec6e320e12c09725",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cf114bacec6e320e12c09725",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cf114bacec6e320e12c09725",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0NEjbaMIHcgpUJLEoIt0AT"
+  }
+}

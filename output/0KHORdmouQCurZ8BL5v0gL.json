@@ -1,0 +1,33 @@
+{
+  "id": "0KHORdmouQCurZ8BL5v0gL",
+  "name": "Culour",
+  "uri": "spotify:artist:0KHORdmouQCurZ8BL5v0gL",
+  "followers": {
+    "href": null,
+    "total": 13
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf862aa6ee828209ba51951ee",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f862aa6ee828209ba51951ee",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f862aa6ee828209ba51951ee",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0KHORdmouQCurZ8BL5v0gL"
+  }
+}
