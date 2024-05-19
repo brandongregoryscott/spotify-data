@@ -1,0 +1,33 @@
+{
+  "id": "23PljFBLL7Ebbq2imkBqvJ",
+  "name": "Pipin",
+  "uri": "spotify:artist:23PljFBLL7Ebbq2imkBqvJ",
+  "followers": {
+    "href": null,
+    "total": 603
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4d9a6dfc063db6dc0d2c715e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744d9a6dfc063db6dc0d2c715e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784d9a6dfc063db6dc0d2c715e",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/23PljFBLL7Ebbq2imkBqvJ"
+  }
+}

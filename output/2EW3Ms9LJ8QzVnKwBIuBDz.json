@@ -1,0 +1,33 @@
+{
+  "id": "2EW3Ms9LJ8QzVnKwBIuBDz",
+  "name": "Valley Street",
+  "uri": "spotify:artist:2EW3Ms9LJ8QzVnKwBIuBDz",
+  "followers": {
+    "href": null,
+    "total": 198
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbbb8a7c6dbdcf3fdd250f888",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bbb8a7c6dbdcf3fdd250f888",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bbb8a7c6dbdcf3fdd250f888",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2EW3Ms9LJ8QzVnKwBIuBDz"
+  }
+}

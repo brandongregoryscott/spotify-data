@@ -1,0 +1,33 @@
+{
+  "id": "214Z9YZlodqir1Xl3jJMTO",
+  "name": "Cynthesis",
+  "uri": "spotify:artist:214Z9YZlodqir1Xl3jJMTO",
+  "followers": {
+    "href": null,
+    "total": 728
+  },
+  "genres": [
+    "melodic progressive metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27354fd7794a3367f341fe73235",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0254fd7794a3367f341fe73235",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485154fd7794a3367f341fe73235",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/214Z9YZlodqir1Xl3jJMTO"
+  }
+}

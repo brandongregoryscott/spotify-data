@@ -1,0 +1,33 @@
+{
+  "id": "27qVAUDXSbg8eWlmPzXyir",
+  "name": "Krata",
+  "uri": "spotify:artist:27qVAUDXSbg8eWlmPzXyir",
+  "followers": {
+    "href": null,
+    "total": 483
+  },
+  "genres": [
+    "punk mexicano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebde5c0fbbff913ad63ca804c4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174de5c0fbbff913ad63ca804c4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178de5c0fbbff913ad63ca804c4",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/27qVAUDXSbg8eWlmPzXyir"
+  }
+}

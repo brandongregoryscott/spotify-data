@@ -1,0 +1,33 @@
+{
+  "id": "1yBidQigjOe8EvaBLtW3aC",
+  "name": "Danny Electro",
+  "uri": "spotify:artist:1yBidQigjOe8EvaBLtW3aC",
+  "followers": {
+    "href": null,
+    "total": 227
+  },
+  "genres": [
+    "nu electro"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734a356a9d729ea8df59ac30ef",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024a356a9d729ea8df59ac30ef",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514a356a9d729ea8df59ac30ef",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1yBidQigjOe8EvaBLtW3aC"
+  }
+}

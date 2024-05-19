@@ -1,0 +1,33 @@
+{
+  "id": "2Emfie5Rlp2d6TPlA490MC",
+  "name": "Self Center",
+  "uri": "spotify:artist:2Emfie5Rlp2d6TPlA490MC",
+  "followers": {
+    "href": null,
+    "total": 81
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb502b796333845b7aec58f3c7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174502b796333845b7aec58f3c7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178502b796333845b7aec58f3c7",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Emfie5Rlp2d6TPlA490MC"
+  }
+}

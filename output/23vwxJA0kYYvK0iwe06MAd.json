@@ -1,0 +1,33 @@
+{
+  "id": "23vwxJA0kYYvK0iwe06MAd",
+  "name": "XHNORT",
+  "uri": "spotify:artist:23vwxJA0kYYvK0iwe06MAd",
+  "followers": {
+    "href": null,
+    "total": 2989
+  },
+  "genres": [
+    "drift phonk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb759af97458afe07bb1c74aa7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174759af97458afe07bb1c74aa7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178759af97458afe07bb1c74aa7",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/23vwxJA0kYYvK0iwe06MAd"
+  }
+}

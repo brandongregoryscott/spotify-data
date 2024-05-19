@@ -1,0 +1,33 @@
+{
+  "id": "25kUPyPcu6VePfZIWkWV1o",
+  "name": "Yung Statz",
+  "uri": "spotify:artist:25kUPyPcu6VePfZIWkWV1o",
+  "followers": {
+    "href": null,
+    "total": 640
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb06d5e1afdf391d9d49fa6edf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517406d5e1afdf391d9d49fa6edf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17806d5e1afdf391d9d49fa6edf",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/25kUPyPcu6VePfZIWkWV1o"
+  }
+}

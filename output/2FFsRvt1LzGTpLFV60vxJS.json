@@ -1,0 +1,33 @@
+{
+  "id": "2FFsRvt1LzGTpLFV60vxJS",
+  "name": "Muzji",
+  "uri": "spotify:artist:2FFsRvt1LzGTpLFV60vxJS",
+  "followers": {
+    "href": null,
+    "total": 165
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb74bb82d556cf0f4393f422af",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517474bb82d556cf0f4393f422af",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17874bb82d556cf0f4393f422af",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2FFsRvt1LzGTpLFV60vxJS"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "2CvCyf1gEVhI0mX6aFXmVI",
+  "name": "Paul Simon",
+  "uri": "spotify:artist:2CvCyf1gEVhI0mX6aFXmVI",
+  "followers": {
+    "href": null,
+    "total": 2291746
+  },
+  "genres": [
+    "classic rock",
+    "folk",
+    "folk rock",
+    "mellow gold",
+    "permanent wave",
+    "rock",
+    "singer-songwriter",
+    "soft rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ddc148cfa465c2065846c636",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ddc148cfa465c2065846c636",
+      "width": 160
+    }
+  ],
+  "popularity": 64,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+  }
+}

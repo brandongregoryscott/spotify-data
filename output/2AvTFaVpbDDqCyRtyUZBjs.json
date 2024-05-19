@@ -1,0 +1,33 @@
+{
+  "id": "2AvTFaVpbDDqCyRtyUZBjs",
+  "name": "The Goldebriars",
+  "uri": "spotify:artist:2AvTFaVpbDDqCyRtyUZBjs",
+  "followers": {
+    "href": null,
+    "total": 1365
+  },
+  "genres": [
+    "sunshine pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27306ffa371cab047913483486d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0206ffa371cab047913483486d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485106ffa371cab047913483486d",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2AvTFaVpbDDqCyRtyUZBjs"
+  }
+}

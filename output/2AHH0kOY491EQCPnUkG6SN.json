@@ -1,0 +1,33 @@
+{
+  "id": "2AHH0kOY491EQCPnUkG6SN",
+  "name": "FLOW KRO",
+  "uri": "spotify:artist:2AHH0kOY491EQCPnUkG6SN",
+  "followers": {
+    "href": null,
+    "total": 104
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb70a7e2ca2a0054e65e1bdbc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b70a7e2ca2a0054e65e1bdbc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b70a7e2ca2a0054e65e1bdbc",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2AHH0kOY491EQCPnUkG6SN"
+  }
+}

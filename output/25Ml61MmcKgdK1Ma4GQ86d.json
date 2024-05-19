@@ -1,0 +1,33 @@
+{
+  "id": "25Ml61MmcKgdK1Ma4GQ86d",
+  "name": "Visitor",
+  "uri": "spotify:artist:25Ml61MmcKgdK1Ma4GQ86d",
+  "followers": {
+    "href": null,
+    "total": 2666
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f3ad516a5dd5e07ea6c819ad",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f3ad516a5dd5e07ea6c819ad",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f3ad516a5dd5e07ea6c819ad",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/25Ml61MmcKgdK1Ma4GQ86d"
+  }
+}

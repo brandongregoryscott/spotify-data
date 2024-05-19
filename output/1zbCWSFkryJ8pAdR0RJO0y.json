@@ -1,0 +1,33 @@
+{
+  "id": "1zbCWSFkryJ8pAdR0RJO0y",
+  "name": "Le Rouge",
+  "uri": "spotify:artist:1zbCWSFkryJ8pAdR0RJO0y",
+  "followers": {
+    "href": null,
+    "total": 151
+  },
+  "genres": [
+    "hyperpop francais"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba1c391ca59e371d0fed04112",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a1c391ca59e371d0fed04112",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a1c391ca59e371d0fed04112",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1zbCWSFkryJ8pAdR0RJO0y"
+  }
+}

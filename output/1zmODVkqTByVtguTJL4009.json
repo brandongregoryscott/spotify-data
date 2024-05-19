@@ -1,0 +1,33 @@
+{
+  "id": "1zmODVkqTByVtguTJL4009",
+  "name": "Kim Se Hwan",
+  "uri": "spotify:artist:1zmODVkqTByVtguTJL4009",
+  "followers": {
+    "href": null,
+    "total": 380
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dabd1975eb1dcbdaa84c1c22",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022bb8a4c4323668a77c6dc9f7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dabd1975eb1dcbdaa84c1c22",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1zmODVkqTByVtguTJL4009"
+  }
+}

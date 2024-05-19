@@ -1,0 +1,33 @@
+{
+  "id": "20jscDXkBqf0euv7zSsyTx",
+  "name": "The Chisel",
+  "uri": "spotify:artist:20jscDXkBqf0euv7zSsyTx",
+  "followers": {
+    "href": null,
+    "total": 18876
+  },
+  "genres": [
+    "chain punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb906fd36f251b60bcdb531c55",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174906fd36f251b60bcdb531c55",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178906fd36f251b60bcdb531c55",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
+  }
+}

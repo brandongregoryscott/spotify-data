@@ -1,0 +1,34 @@
+{
+  "id": "2AlXNadhO0u0eK37N41bft",
+  "name": "Kätfish",
+  "uri": "spotify:artist:2AlXNadhO0u0eK37N41bft",
+  "followers": {
+    "href": null,
+    "total": 2021
+  },
+  "genres": [
+    "finnish pop punk",
+    "finnish punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba37f4e7dba897a4bd90d551b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a37f4e7dba897a4bd90d551b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a37f4e7dba897a4bd90d551b",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2AlXNadhO0u0eK37N41bft"
+  }
+}

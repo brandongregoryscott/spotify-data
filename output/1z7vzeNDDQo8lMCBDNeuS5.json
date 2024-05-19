@@ -1,0 +1,35 @@
+{
+  "id": "1z7vzeNDDQo8lMCBDNeuS5",
+  "name": "2Faced",
+  "uri": "spotify:artist:1z7vzeNDDQo8lMCBDNeuS5",
+  "followers": {
+    "href": null,
+    "total": 565
+  },
+  "genres": [
+    "hardstyle",
+    "rawstyle",
+    "xtra raw"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc42d3a66a5e6a75b245b8a0c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c42d3a66a5e6a75b245b8a0c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c42d3a66a5e6a75b245b8a0c",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1z7vzeNDDQo8lMCBDNeuS5"
+  }
+}

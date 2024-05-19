@@ -1,0 +1,33 @@
+{
+  "id": "1wOxA46Vh9qQvD4tXGbacU",
+  "name": "Haisofn",
+  "uri": "spotify:artist:1wOxA46Vh9qQvD4tXGbacU",
+  "followers": {
+    "href": null,
+    "total": 20
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27335af6f35171bf149ff31939c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0235af6f35171bf149ff31939c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485135af6f35171bf149ff31939c",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1wOxA46Vh9qQvD4tXGbacU"
+  }
+}

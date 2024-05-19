@@ -1,0 +1,33 @@
+{
+  "id": "285jMw3BTPhRpEH3do3JsP",
+  "name": "Matilin",
+  "uri": "spotify:artist:285jMw3BTPhRpEH3do3JsP",
+  "followers": {
+    "href": null,
+    "total": 419
+  },
+  "genres": [
+    "hyperpop francais"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb90376d0707b861f349a5bdad",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517490376d0707b861f349a5bdad",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17890376d0707b861f349a5bdad",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/285jMw3BTPhRpEH3do3JsP"
+  }
+}

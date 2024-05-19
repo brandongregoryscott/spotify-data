@@ -1,0 +1,33 @@
+{
+  "id": "2B9eNNfeX4u6TwMtDjS00L",
+  "name": "Clayton",
+  "uri": "spotify:artist:2B9eNNfeX4u6TwMtDjS00L",
+  "followers": {
+    "href": null,
+    "total": 875
+  },
+  "genres": [
+    "swedish drill"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb007146a5eb6811829d7b470d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174007146a5eb6811829d7b470d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178007146a5eb6811829d7b470d",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2B9eNNfeX4u6TwMtDjS00L"
+  }
+}

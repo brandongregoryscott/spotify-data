@@ -1,0 +1,33 @@
+{
+  "id": "1x2JFULKqxVuSm7asv5vA9",
+  "name": "Ska City",
+  "uri": "spotify:artist:1x2JFULKqxVuSm7asv5vA9",
+  "followers": {
+    "href": null,
+    "total": 208
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27328d80ec7b577a29661f1aa0f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0228d80ec7b577a29661f1aa0f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485128d80ec7b577a29661f1aa0f",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1x2JFULKqxVuSm7asv5vA9"
+  }
+}

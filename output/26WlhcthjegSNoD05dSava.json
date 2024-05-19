@@ -1,0 +1,33 @@
+{
+  "id": "26WlhcthjegSNoD05dSava",
+  "name": "HENLEY",
+  "uri": "spotify:artist:26WlhcthjegSNoD05dSava",
+  "followers": {
+    "href": null,
+    "total": 106
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd3aa8e16747486a9b5ad8320",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d3aa8e16747486a9b5ad8320",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d3aa8e16747486a9b5ad8320",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/26WlhcthjegSNoD05dSava"
+  }
+}

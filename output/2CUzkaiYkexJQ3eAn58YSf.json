@@ -1,0 +1,33 @@
+{
+  "id": "2CUzkaiYkexJQ3eAn58YSf",
+  "name": "Chio",
+  "uri": "spotify:artist:2CUzkaiYkexJQ3eAn58YSf",
+  "followers": {
+    "href": null,
+    "total": 109
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb70b0abc7e4b17d86a1f33fcb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517470b0abc7e4b17d86a1f33fcb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17870b0abc7e4b17d86a1f33fcb",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2CUzkaiYkexJQ3eAn58YSf"
+  }
+}

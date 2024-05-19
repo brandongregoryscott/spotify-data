@@ -1,0 +1,33 @@
+{
+  "id": "2DyZqNGPe3MVLd7Yxa9Dgp",
+  "name": "135",
+  "uri": "spotify:artist:2DyZqNGPe3MVLd7Yxa9Dgp",
+  "followers": {
+    "href": null,
+    "total": 938
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d3c0dc940ca1920789e289f5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d3c0dc940ca1920789e289f5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d3c0dc940ca1920789e289f5",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2DyZqNGPe3MVLd7Yxa9Dgp"
+  }
+}

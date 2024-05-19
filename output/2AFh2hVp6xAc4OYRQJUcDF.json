@@ -1,0 +1,33 @@
+{
+  "id": "2AFh2hVp6xAc4OYRQJUcDF",
+  "name": "темница",
+  "uri": "spotify:artist:2AFh2hVp6xAc4OYRQJUcDF",
+  "followers": {
+    "href": null,
+    "total": 79
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb383293bf2b83f4ed964c98cf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174383293bf2b83f4ed964c98cf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178383293bf2b83f4ed964c98cf",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2AFh2hVp6xAc4OYRQJUcDF"
+  }
+}

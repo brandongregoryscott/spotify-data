@@ -1,0 +1,35 @@
+{
+  "id": "23reFfkBnJzruOm2vAsVLM",
+  "name": "Adair",
+  "uri": "spotify:artist:23reFfkBnJzruOm2vAsVLM",
+  "followers": {
+    "href": null,
+    "total": 4610
+  },
+  "genres": [
+    "dubstep",
+    "gaming dubstep",
+    "riddim dubstep"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebabd662080ecf082136611ef6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174abd662080ecf082136611ef6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178abd662080ecf082136611ef6",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/23reFfkBnJzruOm2vAsVLM"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2BYqbpKbSoywrh9zN7abID",
+  "name": "Mimbre",
+  "uri": "spotify:artist:2BYqbpKbSoywrh9zN7abID",
+  "followers": {
+    "href": null,
+    "total": 189
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb081d2dca5beab2682a655e0b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174081d2dca5beab2682a655e0b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178081d2dca5beab2682a655e0b",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2BYqbpKbSoywrh9zN7abID"
+  }
+}

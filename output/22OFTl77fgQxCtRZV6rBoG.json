@@ -1,0 +1,33 @@
+{
+  "id": "22OFTl77fgQxCtRZV6rBoG",
+  "name": "Skripteh",
+  "uri": "spotify:artist:22OFTl77fgQxCtRZV6rBoG",
+  "followers": {
+    "href": null,
+    "total": 988
+  },
+  "genres": [
+    "irish hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb60a37f9a8d4bb793e48628bc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517460a37f9a8d4bb793e48628bc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17860a37f9a8d4bb793e48628bc",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/22OFTl77fgQxCtRZV6rBoG"
+  }
+}

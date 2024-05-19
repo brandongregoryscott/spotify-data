@@ -1,0 +1,33 @@
+{
+  "id": "1yVaFeDCdKWiQ8vUDaA1mE",
+  "name": "PROLIFIC",
+  "uri": "spotify:artist:1yVaFeDCdKWiQ8vUDaA1mE",
+  "followers": {
+    "href": null,
+    "total": 381
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd696f93cbb323cd66b9c1273",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d696f93cbb323cd66b9c1273",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d696f93cbb323cd66b9c1273",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1yVaFeDCdKWiQ8vUDaA1mE"
+  }
+}

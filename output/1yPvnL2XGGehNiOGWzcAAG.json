@@ -1,0 +1,35 @@
+{
+  "id": "1yPvnL2XGGehNiOGWzcAAG",
+  "name": "Dan Sanchez",
+  "uri": "spotify:artist:1yPvnL2XGGehNiOGWzcAAG",
+  "followers": {
+    "href": null,
+    "total": 636163
+  },
+  "genres": [
+    "corrido",
+    "corridos tumbados",
+    "sierreno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd2db1ceaf12216294959f102",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d2db1ceaf12216294959f102",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d2db1ceaf12216294959f102",
+      "width": 160
+    }
+  ],
+  "popularity": 63,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+  }
+}

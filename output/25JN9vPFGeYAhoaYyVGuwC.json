@@ -1,0 +1,33 @@
+{
+  "id": "25JN9vPFGeYAhoaYyVGuwC",
+  "name": "Tony Lucca",
+  "uri": "spotify:artist:25JN9vPFGeYAhoaYyVGuwC",
+  "followers": {
+    "href": null,
+    "total": 12726
+  },
+  "genres": [
+    "acoustic pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdf8cdc41c39cb0e671d5194a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174df8cdc41c39cb0e671d5194a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178df8cdc41c39cb0e671d5194a",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/25JN9vPFGeYAhoaYyVGuwC"
+  }
+}

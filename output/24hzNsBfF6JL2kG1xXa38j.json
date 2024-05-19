@@ -1,0 +1,33 @@
+{
+  "id": "24hzNsBfF6JL2kG1xXa38j",
+  "name": "ass7",
+  "uri": "spotify:artist:24hzNsBfF6JL2kG1xXa38j",
+  "followers": {
+    "href": null,
+    "total": 94
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb367d37a462761ed77ff069a4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174367d37a462761ed77ff069a4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178367d37a462761ed77ff069a4",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/24hzNsBfF6JL2kG1xXa38j"
+  }
+}
