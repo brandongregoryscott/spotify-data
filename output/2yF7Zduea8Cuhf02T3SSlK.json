@@ -1,0 +1,33 @@
+{
+  "id": "2yF7Zduea8Cuhf02T3SSlK",
+  "name": "fashionmusic",
+  "uri": "spotify:artist:2yF7Zduea8Cuhf02T3SSlK",
+  "followers": {
+    "href": null,
+    "total": 35
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739c3ed0b78fb197dfddeec78c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029c3ed0b78fb197dfddeec78c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519c3ed0b78fb197dfddeec78c",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2yF7Zduea8Cuhf02T3SSlK"
+  }
+}

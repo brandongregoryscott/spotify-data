@@ -1,0 +1,33 @@
+{
+  "id": "2y5DWFjHZlcsG95mqor9cZ",
+  "name": "Chilly",
+  "uri": "spotify:artist:2y5DWFjHZlcsG95mqor9cZ",
+  "followers": {
+    "href": null,
+    "total": 789
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd6a16def0e44e8b2fa213552",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d6a16def0e44e8b2fa213552",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d6a16def0e44e8b2fa213552",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2y5DWFjHZlcsG95mqor9cZ"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3BAcWjqC2rNzQbSSyfYHAf",
+  "name": "Non-Lieu",
+  "uri": "spotify:artist:3BAcWjqC2rNzQbSSyfYHAf",
+  "followers": {
+    "href": null,
+    "total": 262
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb72463ef6fddc0e82d156a6c0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517472463ef6fddc0e82d156a6c0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17872463ef6fddc0e82d156a6c0",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3BAcWjqC2rNzQbSSyfYHAf"
+  }
+}

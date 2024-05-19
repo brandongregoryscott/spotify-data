@@ -1,0 +1,33 @@
+{
+  "id": "31d700d8caRWNRcYWrqV1B",
+  "name": "Kevin Allen",
+  "uri": "spotify:artist:31d700d8caRWNRcYWrqV1B",
+  "followers": {
+    "href": null,
+    "total": 794
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb411932a402a97f4c31d91e7c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174411932a402a97f4c31d91e7c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178411932a402a97f4c31d91e7c",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/31d700d8caRWNRcYWrqV1B"
+  }
+}

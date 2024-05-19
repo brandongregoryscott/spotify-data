@@ -1,0 +1,33 @@
+{
+  "id": "2woivlckW1wdml7zq1WW6e",
+  "name": "Huntar",
+  "uri": "spotify:artist:2woivlckW1wdml7zq1WW6e",
+  "followers": {
+    "href": null,
+    "total": 19744
+  },
+  "genres": [
+    "uk pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd393d89acefe8b48c6a2ef57",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d393d89acefe8b48c6a2ef57",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d393d89acefe8b48c6a2ef57",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2woivlckW1wdml7zq1WW6e"
+  }
+}

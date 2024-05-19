@@ -1,0 +1,33 @@
+{
+  "id": "3AFAHn97pYdoN04JQmiU9L",
+  "name": "$TRANDED",
+  "uri": "spotify:artist:3AFAHn97pYdoN04JQmiU9L",
+  "followers": {
+    "href": null,
+    "total": 427
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd858fe64c5649cf16899efa3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d858fe64c5649cf16899efa3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d858fe64c5649cf16899efa3",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3AFAHn97pYdoN04JQmiU9L"
+  }
+}

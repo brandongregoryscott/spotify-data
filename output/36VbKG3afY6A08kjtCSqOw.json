@@ -1,0 +1,33 @@
+{
+  "id": "36VbKG3afY6A08kjtCSqOw",
+  "name": "GARRAIO",
+  "uri": "spotify:artist:36VbKG3afY6A08kjtCSqOw",
+  "followers": {
+    "href": null,
+    "total": 350
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb655147c19baf2e097f41c452",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174655147c19baf2e097f41c452",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178655147c19baf2e097f41c452",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/36VbKG3afY6A08kjtCSqOw"
+  }
+}

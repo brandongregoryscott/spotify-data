@@ -1,0 +1,33 @@
+{
+  "id": "32UJpdy0BHXpSzTaoFhMel",
+  "name": "GOEST",
+  "uri": "spotify:artist:32UJpdy0BHXpSzTaoFhMel",
+  "followers": {
+    "href": null,
+    "total": 51
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc55f5167a4b57ed877611754",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c55f5167a4b57ed877611754",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c55f5167a4b57ed877611754",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/32UJpdy0BHXpSzTaoFhMel"
+  }
+}

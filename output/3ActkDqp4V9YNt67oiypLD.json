@@ -1,0 +1,33 @@
+{
+  "id": "3ActkDqp4V9YNt67oiypLD",
+  "name": "Genii",
+  "uri": "spotify:artist:3ActkDqp4V9YNt67oiypLD",
+  "followers": {
+    "href": null,
+    "total": 671
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf799f7df63ffe904ed19fbf4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f799f7df63ffe904ed19fbf4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f799f7df63ffe904ed19fbf4",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ActkDqp4V9YNt67oiypLD"
+  }
+}

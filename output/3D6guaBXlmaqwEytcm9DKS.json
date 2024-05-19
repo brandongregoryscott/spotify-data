@@ -1,0 +1,33 @@
+{
+  "id": "3D6guaBXlmaqwEytcm9DKS",
+  "name": "wrong city",
+  "uri": "spotify:artist:3D6guaBXlmaqwEytcm9DKS",
+  "followers": {
+    "href": null,
+    "total": 828
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273134ab19cc038e92d17277e86",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02134ab19cc038e92d17277e86",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851134ab19cc038e92d17277e86",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3D6guaBXlmaqwEytcm9DKS"
+  }
+}

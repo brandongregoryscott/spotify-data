@@ -1,0 +1,35 @@
+{
+  "id": "2zsLaQhHFdQPdFXqG1nRmM",
+  "name": "Seven Mary Three",
+  "uri": "spotify:artist:2zsLaQhHFdQPdFXqG1nRmM",
+  "followers": {
+    "href": null,
+    "total": 318779
+  },
+  "genres": [
+    "alternative metal",
+    "nu metal",
+    "post-grunge"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe24993acaff538e99332f5bf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e24993acaff538e99332f5bf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e24993acaff538e99332f5bf",
+      "width": 160
+    }
+  ],
+  "popularity": 44,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2zsLaQhHFdQPdFXqG1nRmM"
+  }
+}

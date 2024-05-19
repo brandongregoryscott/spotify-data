@@ -1,0 +1,33 @@
+{
+  "id": "31MdQo1N4dx0kNM0ARbKqT",
+  "name": "Pikoy",
+  "uri": "spotify:artist:31MdQo1N4dx0kNM0ARbKqT",
+  "followers": {
+    "href": null,
+    "total": 853
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb04c883ed8f2d27c033893fd4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517404c883ed8f2d27c033893fd4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17804c883ed8f2d27c033893fd4",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/31MdQo1N4dx0kNM0ARbKqT"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "32AFsg6nnovoAr51eeVa40",
+  "name": "Plague",
+  "uri": "spotify:artist:32AFsg6nnovoAr51eeVa40",
+  "followers": {
+    "href": null,
+    "total": 614
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7f309e8a48589fcf5ef38ada",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051747f309e8a48589fcf5ef38ada",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1787f309e8a48589fcf5ef38ada",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/32AFsg6nnovoAr51eeVa40"
+  }
+}

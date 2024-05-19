@@ -1,0 +1,34 @@
+{
+  "id": "3DuKJapiJ2AUvoIJq1ZJFb",
+  "name": "Oscar Pettiford",
+  "uri": "spotify:artist:3DuKJapiJ2AUvoIJq1ZJFb",
+  "followers": {
+    "href": null,
+    "total": 10438
+  },
+  "genres": [
+    "bebop",
+    "jazz double bass"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27398176dd671c1613d5bdc1854",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0298176dd671c1613d5bdc1854",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485198176dd671c1613d5bdc1854",
+      "width": 64
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3DuKJapiJ2AUvoIJq1ZJFb"
+  }
+}

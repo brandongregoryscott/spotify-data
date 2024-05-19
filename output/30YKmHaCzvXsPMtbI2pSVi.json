@@ -1,0 +1,33 @@
+{
+  "id": "30YKmHaCzvXsPMtbI2pSVi",
+  "name": "Maneyx",
+  "uri": "spotify:artist:30YKmHaCzvXsPMtbI2pSVi",
+  "followers": {
+    "href": null,
+    "total": 1309
+  },
+  "genres": [
+    "rap regio"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebad21c9b2086be4b63a219493",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ad21c9b2086be4b63a219493",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ad21c9b2086be4b63a219493",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/30YKmHaCzvXsPMtbI2pSVi"
+  }
+}

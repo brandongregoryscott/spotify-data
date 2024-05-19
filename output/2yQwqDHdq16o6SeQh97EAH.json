@@ -1,0 +1,33 @@
+{
+  "id": "2yQwqDHdq16o6SeQh97EAH",
+  "name": "wilev",
+  "uri": "spotify:artist:2yQwqDHdq16o6SeQh97EAH",
+  "followers": {
+    "href": null,
+    "total": 68
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730145ffd33c3c10a5835d50dc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020145ffd33c3c10a5835d50dc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510145ffd33c3c10a5835d50dc",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2yQwqDHdq16o6SeQh97EAH"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3ADjMShePwIwRtqI1AjXlu",
+  "name": "Gary Caserta",
+  "uri": "spotify:artist:3ADjMShePwIwRtqI1AjXlu",
+  "followers": {
+    "href": null,
+    "total": 250
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb525c75ea8e1131407a728cf5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174525c75ea8e1131407a728cf5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178525c75ea8e1131407a728cf5",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ADjMShePwIwRtqI1AjXlu"
+  }
+}

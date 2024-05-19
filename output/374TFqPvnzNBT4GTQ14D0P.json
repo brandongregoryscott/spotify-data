@@ -1,0 +1,33 @@
+{
+  "id": "374TFqPvnzNBT4GTQ14D0P",
+  "name": "Ashrount",
+  "uri": "spotify:artist:374TFqPvnzNBT4GTQ14D0P",
+  "followers": {
+    "href": null,
+    "total": 782
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb32e0363d7aa92fca3089957",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b32e0363d7aa92fca3089957",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b32e0363d7aa92fca3089957",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/374TFqPvnzNBT4GTQ14D0P"
+  }
+}

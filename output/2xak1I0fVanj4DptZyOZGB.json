@@ -1,0 +1,33 @@
+{
+  "id": "2xak1I0fVanj4DptZyOZGB",
+  "name": "Grand Champ",
+  "uri": "spotify:artist:2xak1I0fVanj4DptZyOZGB",
+  "followers": {
+    "href": null,
+    "total": 97
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb28519dc136ab4484e5fa7368",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517428519dc136ab4484e5fa7368",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17828519dc136ab4484e5fa7368",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2xak1I0fVanj4DptZyOZGB"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3DQZPNFQeCchj4GUABkJmf",
+  "name": "Flp",
+  "uri": "spotify:artist:3DQZPNFQeCchj4GUABkJmf",
+  "followers": {
+    "href": null,
+    "total": 186
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b31e8c044ee03de926d046e1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b31e8c044ee03de926d046e1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b31e8c044ee03de926d046e1",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3DQZPNFQeCchj4GUABkJmf"
+  }
+}

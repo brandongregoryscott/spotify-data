@@ -1,0 +1,33 @@
+{
+  "id": "32nisvB7nQQw6ktflXnidO",
+  "name": "Systemps",
+  "uri": "spotify:artist:32nisvB7nQQw6ktflXnidO",
+  "followers": {
+    "href": null,
+    "total": 1445
+  },
+  "genres": [
+    "hyperpop francais"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfbd0eba48733d50f95914d57",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fbd0eba48733d50f95914d57",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fbd0eba48733d50f95914d57",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/32nisvB7nQQw6ktflXnidO"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3ECWpCVWO2INMDEVEMIHya",
+  "name": "POPSTARR",
+  "uri": "spotify:artist:3ECWpCVWO2INMDEVEMIHya",
+  "followers": {
+    "href": null,
+    "total": 191
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb719427528bc3caf7f76c9335",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174719427528bc3caf7f76c9335",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178719427528bc3caf7f76c9335",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ECWpCVWO2INMDEVEMIHya"
+  }
+}

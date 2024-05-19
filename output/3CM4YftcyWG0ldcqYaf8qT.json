@@ -1,0 +1,33 @@
+{
+  "id": "3CM4YftcyWG0ldcqYaf8qT",
+  "name": "Los",
+  "uri": "spotify:artist:3CM4YftcyWG0ldcqYaf8qT",
+  "followers": {
+    "href": null,
+    "total": 2602
+  },
+  "genres": [
+    "detroit hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bad3b6a7cb5bf02dc6d3832d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bad3b6a7cb5bf02dc6d3832d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bad3b6a7cb5bf02dc6d3832d",
+      "width": 64
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3CM4YftcyWG0ldcqYaf8qT"
+  }
+}

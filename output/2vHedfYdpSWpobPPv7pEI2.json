@@ -1,0 +1,33 @@
+{
+  "id": "2vHedfYdpSWpobPPv7pEI2",
+  "name": "Taymon",
+  "uri": "spotify:artist:2vHedfYdpSWpobPPv7pEI2",
+  "followers": {
+    "href": null,
+    "total": 75
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27333b87467d7d9f309cb42c5d6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0233b87467d7d9f309cb42c5d6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485133b87467d7d9f309cb42c5d6",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2vHedfYdpSWpobPPv7pEI2"
+  }
+}

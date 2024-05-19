@@ -1,0 +1,33 @@
+{
+  "id": "38RtESzMoVPkpoNJJAtHsm",
+  "name": "Magma Banana",
+  "uri": "spotify:artist:38RtESzMoVPkpoNJJAtHsm",
+  "followers": {
+    "href": null,
+    "total": 168
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc26f9a0a39851f22c35f858c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c26f9a0a39851f22c35f858c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c26f9a0a39851f22c35f858c",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/38RtESzMoVPkpoNJJAtHsm"
+  }
+}

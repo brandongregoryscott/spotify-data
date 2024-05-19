@@ -1,0 +1,34 @@
+{
+  "id": "2zHk1JZVcQE9xFmAXvLsx9",
+  "name": "Svartsinn",
+  "uri": "spotify:artist:2zHk1JZVcQE9xFmAXvLsx9",
+  "followers": {
+    "href": null,
+    "total": 3856
+  },
+  "genres": [
+    "dark ambient",
+    "dronescape"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb54f40903938008ffbec1d76a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517454f40903938008ffbec1d76a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17854f40903938008ffbec1d76a",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2zHk1JZVcQE9xFmAXvLsx9"
+  }
+}

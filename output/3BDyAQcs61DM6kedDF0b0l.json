@@ -1,0 +1,33 @@
+{
+  "id": "3BDyAQcs61DM6kedDF0b0l",
+  "name": "FELP",
+  "uri": "spotify:artist:3BDyAQcs61DM6kedDF0b0l",
+  "followers": {
+    "href": null,
+    "total": 480
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcacd07dc7c8d6239162ec265",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cacd07dc7c8d6239162ec265",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cacd07dc7c8d6239162ec265",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3BDyAQcs61DM6kedDF0b0l"
+  }
+}

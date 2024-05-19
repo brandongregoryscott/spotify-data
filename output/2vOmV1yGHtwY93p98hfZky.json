@@ -1,0 +1,33 @@
+{
+  "id": "2vOmV1yGHtwY93p98hfZky",
+  "name": "Aether",
+  "uri": "spotify:artist:2vOmV1yGHtwY93p98hfZky",
+  "followers": {
+    "href": null,
+    "total": 3008
+  },
+  "genres": [
+    "polish folk metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb16ab3a8bf2dfca44f7c90be",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b16ab3a8bf2dfca44f7c90be",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b16ab3a8bf2dfca44f7c90be",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2vOmV1yGHtwY93p98hfZky"
+  }
+}

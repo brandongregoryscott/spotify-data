@@ -1,0 +1,33 @@
+{
+  "id": "37qXWlhfRvpxmIeTKvfw8B",
+  "name": "My Brightest Diamond",
+  "uri": "spotify:artist:37qXWlhfRvpxmIeTKvfw8B",
+  "followers": {
+    "href": null,
+    "total": 51727
+  },
+  "genres": [
+    "etherpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd4c594cf0aecb7f46ce655f9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d4c594cf0aecb7f46ce655f9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d4c594cf0aecb7f46ce655f9",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/37qXWlhfRvpxmIeTKvfw8B"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "36w05i5hz4ktQ9sWnmKgtK",
+  "name": "Kalisway",
+  "uri": "spotify:artist:36w05i5hz4ktQ9sWnmKgtK",
+  "followers": {
+    "href": null,
+    "total": 7285
+  },
+  "genres": [
+    "canadian contemporary r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb68b0b78b6db9f531a64bc726",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517468b0b78b6db9f531a64bc726",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17868b0b78b6db9f531a64bc726",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
+  }
+}

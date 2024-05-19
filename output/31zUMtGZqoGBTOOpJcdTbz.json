@@ -1,0 +1,33 @@
+{
+  "id": "31zUMtGZqoGBTOOpJcdTbz",
+  "name": "Somewhere",
+  "uri": "spotify:artist:31zUMtGZqoGBTOOpJcdTbz",
+  "followers": {
+    "href": null,
+    "total": 273
+  },
+  "genres": [
+    "latin shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd62f3e6757e0fcf645b01096",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d62f3e6757e0fcf645b01096",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d62f3e6757e0fcf645b01096",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/31zUMtGZqoGBTOOpJcdTbz"
+  }
+}

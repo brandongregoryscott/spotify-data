@@ -1,0 +1,33 @@
+{
+  "id": "2zOpRTpGXGtVA4Hgh4MgVQ",
+  "name": "Real-V",
+  "uri": "spotify:artist:2zOpRTpGXGtVA4Hgh4MgVQ",
+  "followers": {
+    "href": null,
+    "total": 84
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb044aa40edb8581581beb8f24",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174044aa40edb8581581beb8f24",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178044aa40edb8581581beb8f24",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2zOpRTpGXGtVA4Hgh4MgVQ"
+  }
+}

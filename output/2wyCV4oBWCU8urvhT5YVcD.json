@@ -1,0 +1,33 @@
+{
+  "id": "2wyCV4oBWCU8urvhT5YVcD",
+  "name": "McBryde",
+  "uri": "spotify:artist:2wyCV4oBWCU8urvhT5YVcD",
+  "followers": {
+    "href": null,
+    "total": 65
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf704e4ad1bbc8eab5dafc0cc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f704e4ad1bbc8eab5dafc0cc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f704e4ad1bbc8eab5dafc0cc",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2wyCV4oBWCU8urvhT5YVcD"
+  }
+}

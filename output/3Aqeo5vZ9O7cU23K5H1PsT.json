@@ -1,0 +1,33 @@
+{
+  "id": "3Aqeo5vZ9O7cU23K5H1PsT",
+  "name": "Hachiro Izawa",
+  "uri": "spotify:artist:3Aqeo5vZ9O7cU23K5H1PsT",
+  "followers": {
+    "href": null,
+    "total": 933
+  },
+  "genres": [
+    "enka"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735b06e63f717640ec44d6f24b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025b06e63f717640ec44d6f24b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515b06e63f717640ec44d6f24b",
+      "width": 64
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Aqeo5vZ9O7cU23K5H1PsT"
+  }
+}

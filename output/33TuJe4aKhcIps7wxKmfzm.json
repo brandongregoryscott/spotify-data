@@ -1,0 +1,33 @@
+{
+  "id": "33TuJe4aKhcIps7wxKmfzm",
+  "name": "Andres De Leon",
+  "uri": "spotify:artist:33TuJe4aKhcIps7wxKmfzm",
+  "followers": {
+    "href": null,
+    "total": 83831
+  },
+  "genres": [
+    "pop chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb83ddf9f2c3891aa8b6fed9b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b83ddf9f2c3891aa8b6fed9b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b83ddf9f2c3891aa8b6fed9b",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/33TuJe4aKhcIps7wxKmfzm"
+  }
+}

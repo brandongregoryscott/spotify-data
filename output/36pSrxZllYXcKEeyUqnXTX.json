@@ -1,0 +1,33 @@
+{
+  "id": "36pSrxZllYXcKEeyUqnXTX",
+  "name": "Myrone",
+  "uri": "spotify:artist:36pSrxZllYXcKEeyUqnXTX",
+  "followers": {
+    "href": null,
+    "total": 11220
+  },
+  "genres": [
+    "nightrun"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb364dffc177582b445ac6265e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174364dffc177582b445ac6265e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178364dffc177582b445ac6265e",
+      "width": 160
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/36pSrxZllYXcKEeyUqnXTX"
+  }
+}
