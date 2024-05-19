@@ -1,0 +1,33 @@
+{
+  "id": "0un1dTlG9SZ0JpwAGcNJh4",
+  "name": "Tony Dimes",
+  "uri": "spotify:artist:0un1dTlG9SZ0JpwAGcNJh4",
+  "followers": {
+    "href": null,
+    "total": 103
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27330bb93583d20018d9b85f55f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0230bb93583d20018d9b85f55f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485130bb93583d20018d9b85f55f",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0un1dTlG9SZ0JpwAGcNJh4"
+  }
+}

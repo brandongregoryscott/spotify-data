@@ -1,0 +1,33 @@
+{
+  "id": "0xOzvk4nRCusLZi3FTsrzS",
+  "name": "Штадт",
+  "uri": "spotify:artist:0xOzvk4nRCusLZi3FTsrzS",
+  "followers": {
+    "href": null,
+    "total": 9746
+  },
+  "genres": [
+    "russian post-punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba6682d48ff8e4f0d66bfdf47",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a6682d48ff8e4f0d66bfdf47",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a6682d48ff8e4f0d66bfdf47",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0xOzvk4nRCusLZi3FTsrzS"
+  }
+}

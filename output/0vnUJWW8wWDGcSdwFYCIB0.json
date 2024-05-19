@@ -1,0 +1,34 @@
+{
+  "id": "0vnUJWW8wWDGcSdwFYCIB0",
+  "name": "Adrian Daniel",
+  "uri": "spotify:artist:0vnUJWW8wWDGcSdwFYCIB0",
+  "followers": {
+    "href": null,
+    "total": 19279
+  },
+  "genres": [
+    "dark r&b",
+    "trap soul"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb262b1bb2e04810a8c3bbbb9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b262b1bb2e04810a8c3bbbb9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b262b1bb2e04810a8c3bbbb9",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0vnUJWW8wWDGcSdwFYCIB0"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0luqp3V1Ns7gJtQcDmxxAg",
+  "name": "Turbo",
+  "uri": "spotify:artist:0luqp3V1Ns7gJtQcDmxxAg",
+  "followers": {
+    "href": null,
+    "total": 505
+  },
+  "genres": [
+    "rock paraense"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb48c221cb9ae18c804662531",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b48c221cb9ae18c804662531",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b48c221cb9ae18c804662531",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0luqp3V1Ns7gJtQcDmxxAg"
+  }
+}

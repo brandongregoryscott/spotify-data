@@ -1,0 +1,34 @@
+{
+  "id": "0sdi2E7elI1ZnLYowET3uX",
+  "name": "The Human Project",
+  "uri": "spotify:artist:0sdi2E7elI1ZnLYowET3uX",
+  "followers": {
+    "href": null,
+    "total": 5202
+  },
+  "genres": [
+    "fast melodic punk",
+    "uk diy punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcf110affb0e76d88a325cc85",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cf110affb0e76d88a325cc85",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cf110affb0e76d88a325cc85",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0sdi2E7elI1ZnLYowET3uX"
+  }
+}

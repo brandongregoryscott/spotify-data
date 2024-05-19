@@ -1,0 +1,33 @@
+{
+  "id": "0kO8xM63TaZM13XlV7yQXk",
+  "name": "Solen",
+  "uri": "spotify:artist:0kO8xM63TaZM13XlV7yQXk",
+  "followers": {
+    "href": null,
+    "total": 10964
+  },
+  "genres": [
+    "swedish indie pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc9c1d9ec59ffc20b5d272985",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c9c1d9ec59ffc20b5d272985",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c9c1d9ec59ffc20b5d272985",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0kO8xM63TaZM13XlV7yQXk"
+  }
+}

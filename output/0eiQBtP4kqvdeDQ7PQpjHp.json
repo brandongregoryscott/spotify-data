@@ -1,0 +1,33 @@
+{
+  "id": "0eiQBtP4kqvdeDQ7PQpjHp",
+  "name": "DRMCTHR",
+  "uri": "spotify:artist:0eiQBtP4kqvdeDQ7PQpjHp",
+  "followers": {
+    "href": null,
+    "total": 652
+  },
+  "genres": [
+    "baltimore indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8264e7447634e0e32add150b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051748264e7447634e0e32add150b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1788264e7447634e0e32add150b",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0eiQBtP4kqvdeDQ7PQpjHp"
+  }
+}

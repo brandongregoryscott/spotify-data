@@ -1,0 +1,34 @@
+{
+  "id": "0wGPie2VhTjtwscQEqBhDe",
+  "name": "playbook",
+  "uri": "spotify:artist:0wGPie2VhTjtwscQEqBhDe",
+  "followers": {
+    "href": null,
+    "total": 9138
+  },
+  "genres": [
+    "k-indie",
+    "korean indie folk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb00afb0b58d2d37d9976975a8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517400afb0b58d2d37d9976975a8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17800afb0b58d2d37d9976975a8",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0wGPie2VhTjtwscQEqBhDe"
+  }
+}

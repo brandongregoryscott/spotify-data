@@ -1,0 +1,33 @@
+{
+  "id": "0lPEqZ4jXrADbDmZxFUKNc",
+  "name": "ReuS",
+  "uri": "spotify:artist:0lPEqZ4jXrADbDmZxFUKNc",
+  "followers": {
+    "href": null,
+    "total": 52
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27383ec5b2c05d523819fcf07ba",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0283ec5b2c05d523819fcf07ba",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485183ec5b2c05d523819fcf07ba",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0lPEqZ4jXrADbDmZxFUKNc"
+  }
+}

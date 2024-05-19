@@ -1,0 +1,34 @@
+{
+  "id": "0qi7WoeTNK5h4UkIamBiiL",
+  "name": "Edda",
+  "uri": "spotify:artist:0qi7WoeTNK5h4UkIamBiiL",
+  "followers": {
+    "href": null,
+    "total": 7457
+  },
+  "genres": [
+    "italian alternative",
+    "milan indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb43fff7370f4a6e55da6c5aba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517443fff7370f4a6e55da6c5aba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17843fff7370f4a6e55da6c5aba",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0qi7WoeTNK5h4UkIamBiiL"
+  }
+}

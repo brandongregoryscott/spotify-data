@@ -1,0 +1,33 @@
+{
+  "id": "0kjmCglFmdjcAvACAJ6c7S",
+  "name": "Garden Gate",
+  "uri": "spotify:artist:0kjmCglFmdjcAvACAJ6c7S",
+  "followers": {
+    "href": null,
+    "total": 422
+  },
+  "genres": [
+    "baroque pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb39fc1fe8cb0c01fda6fb648c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517439fc1fe8cb0c01fda6fb648c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17839fc1fe8cb0c01fda6fb648c",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0kjmCglFmdjcAvACAJ6c7S"
+  }
+}

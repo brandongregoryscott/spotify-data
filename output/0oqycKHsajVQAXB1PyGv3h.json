@@ -1,0 +1,33 @@
+{
+  "id": "0oqycKHsajVQAXB1PyGv3h",
+  "name": "Jonah Taylor",
+  "uri": "spotify:artist:0oqycKHsajVQAXB1PyGv3h",
+  "followers": {
+    "href": null,
+    "total": 1980
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb70348766685b8f5d5e2eb731",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517470348766685b8f5d5e2eb731",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17870348766685b8f5d5e2eb731",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0oqycKHsajVQAXB1PyGv3h"
+  }
+}

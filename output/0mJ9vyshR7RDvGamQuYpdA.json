@@ -1,0 +1,33 @@
+{
+  "id": "0mJ9vyshR7RDvGamQuYpdA",
+  "name": "eli studt",
+  "uri": "spotify:artist:0mJ9vyshR7RDvGamQuYpdA",
+  "followers": {
+    "href": null,
+    "total": 97
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba3c03ebe51d77e805f98d589",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a3c03ebe51d77e805f98d589",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a3c03ebe51d77e805f98d589",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0mJ9vyshR7RDvGamQuYpdA"
+  }
+}

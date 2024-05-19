@@ -1,0 +1,33 @@
+{
+  "id": "0jqnXN5T2fcibfVJOY1G3N",
+  "name": "RIZ",
+  "uri": "spotify:artist:0jqnXN5T2fcibfVJOY1G3N",
+  "followers": {
+    "href": null,
+    "total": 10756
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb876662229c0c005dbbe2df01",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174876662229c0c005dbbe2df01",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178876662229c0c005dbbe2df01",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0jqnXN5T2fcibfVJOY1G3N"
+  }
+}

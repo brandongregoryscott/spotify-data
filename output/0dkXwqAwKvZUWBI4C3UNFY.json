@@ -1,0 +1,33 @@
+{
+  "id": "0dkXwqAwKvZUWBI4C3UNFY",
+  "name": "Blurt",
+  "uri": "spotify:artist:0dkXwqAwKvZUWBI4C3UNFY",
+  "followers": {
+    "href": null,
+    "total": 6808
+  },
+  "genres": [
+    "uk post-punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b043e6f6aadc5b8b8c6e95e2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b043e6f6aadc5b8b8c6e95e2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b043e6f6aadc5b8b8c6e95e2",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0dkXwqAwKvZUWBI4C3UNFY"
+  }
+}

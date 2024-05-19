@@ -1,0 +1,33 @@
+{
+  "id": "0mzUrVVjls5DsuRk5mTi6f",
+  "name": "JAL",
+  "uri": "spotify:artist:0mzUrVVjls5DsuRk5mTi6f",
+  "followers": {
+    "href": null,
+    "total": 63
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb03abe55e9c07a42fbe319178",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517403abe55e9c07a42fbe319178",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17803abe55e9c07a42fbe319178",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0mzUrVVjls5DsuRk5mTi6f"
+  }
+}

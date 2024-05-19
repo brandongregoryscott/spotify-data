@@ -1,0 +1,33 @@
+{
+  "id": "0ieXlYZgcA8Z38qf7hw0j1",
+  "name": "chet",
+  "uri": "spotify:artist:0ieXlYZgcA8Z38qf7hw0j1",
+  "followers": {
+    "href": null,
+    "total": 42
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd9251fd4b8bb99fe45e12377",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d9251fd4b8bb99fe45e12377",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d9251fd4b8bb99fe45e12377",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ieXlYZgcA8Z38qf7hw0j1"
+  }
+}

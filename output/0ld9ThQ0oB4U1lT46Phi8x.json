@@ -1,0 +1,33 @@
+{
+  "id": "0ld9ThQ0oB4U1lT46Phi8x",
+  "name": "Nuestro Tiempo",
+  "uri": "spotify:artist:0ld9ThQ0oB4U1lT46Phi8x",
+  "followers": {
+    "href": null,
+    "total": 488
+  },
+  "genres": [
+    "latincore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1a4078ec745a66c0248ccd3b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051741a4078ec745a66c0248ccd3b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1781a4078ec745a66c0248ccd3b",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ld9ThQ0oB4U1lT46Phi8x"
+  }
+}
