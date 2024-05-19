@@ -1,0 +1,33 @@
+{
+  "id": "7FRcvcjTmLO7CNzoTK7laR",
+  "name": "Leisure Suit",
+  "uri": "spotify:artist:7FRcvcjTmLO7CNzoTK7laR",
+  "followers": {
+    "href": null,
+    "total": 544
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739542ce4b096b5373efde1d64",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029542ce4b096b5373efde1d64",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519542ce4b096b5373efde1d64",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7FRcvcjTmLO7CNzoTK7laR"
+  }
+}
