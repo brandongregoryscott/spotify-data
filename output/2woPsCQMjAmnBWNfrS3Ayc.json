@@ -1,0 +1,33 @@
+{
+  "id": "2woPsCQMjAmnBWNfrS3Ayc",
+  "name": "Leevisa",
+  "uri": "spotify:artist:2woPsCQMjAmnBWNfrS3Ayc",
+  "followers": {
+    "href": null,
+    "total": 616
+  },
+  "genres": [
+    "korean electronic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe96b7d84b6b258ce6be7f971",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e96b7d84b6b258ce6be7f971",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e96b7d84b6b258ce6be7f971",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2woPsCQMjAmnBWNfrS3Ayc"
+  }
+}

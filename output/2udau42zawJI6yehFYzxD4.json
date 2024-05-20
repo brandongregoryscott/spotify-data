@@ -1,0 +1,33 @@
+{
+  "id": "2udau42zawJI6yehFYzxD4",
+  "name": "Emcille",
+  "uri": "spotify:artist:2udau42zawJI6yehFYzxD4",
+  "followers": {
+    "href": null,
+    "total": 86
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe709c8c756ce5912994bfa19",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e709c8c756ce5912994bfa19",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e709c8c756ce5912994bfa19",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2udau42zawJI6yehFYzxD4"
+  }
+}

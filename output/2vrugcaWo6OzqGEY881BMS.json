@@ -1,0 +1,34 @@
+{
+  "id": "2vrugcaWo6OzqGEY881BMS",
+  "name": "Kink",
+  "uri": "spotify:artist:2vrugcaWo6OzqGEY881BMS",
+  "followers": {
+    "href": null,
+    "total": 343
+  },
+  "genres": [
+    "alternative metalcore",
+    "rap metalcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c32f298af48930089e0e16c1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c32f298af48930089e0e16c1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c32f298af48930089e0e16c1",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2vrugcaWo6OzqGEY881BMS"
+  }
+}

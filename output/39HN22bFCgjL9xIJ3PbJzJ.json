@@ -1,0 +1,33 @@
+{
+  "id": "39HN22bFCgjL9xIJ3PbJzJ",
+  "name": "bottom bunk",
+  "uri": "spotify:artist:39HN22bFCgjL9xIJ3PbJzJ",
+  "followers": {
+    "href": null,
+    "total": 403
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb11e478d5f20eafc839c1067b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517411e478d5f20eafc839c1067b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17811e478d5f20eafc839c1067b",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/39HN22bFCgjL9xIJ3PbJzJ"
+  }
+}

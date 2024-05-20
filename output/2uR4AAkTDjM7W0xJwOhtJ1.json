@@ -1,0 +1,33 @@
+{
+  "id": "2uR4AAkTDjM7W0xJwOhtJ1",
+  "name": "Borni",
+  "uri": "spotify:artist:2uR4AAkTDjM7W0xJwOhtJ1",
+  "followers": {
+    "href": null,
+    "total": 331
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc84e97bd7059acaebc3cfaa3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c84e97bd7059acaebc3cfaa3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c84e97bd7059acaebc3cfaa3",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2uR4AAkTDjM7W0xJwOhtJ1"
+  }
+}

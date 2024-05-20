@@ -1,0 +1,33 @@
+{
+  "id": "3AsttUkSu2n3vbi2SqcFqO",
+  "name": "Solarium",
+  "uri": "spotify:artist:3AsttUkSu2n3vbi2SqcFqO",
+  "followers": {
+    "href": null,
+    "total": 212
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe368e02e7c40f36c237d2f9e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e368e02e7c40f36c237d2f9e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e368e02e7c40f36c237d2f9e",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3AsttUkSu2n3vbi2SqcFqO"
+  }
+}
