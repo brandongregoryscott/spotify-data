@@ -1,0 +1,36 @@
+{
+  "id": "08avsqaGIlK2x3i2Cu7rKH",
+  "name": "Keith Richards",
+  "uri": "spotify:artist:08avsqaGIlK2x3i2Cu7rKH",
+  "followers": {
+    "href": null,
+    "total": 336347
+  },
+  "genres": [
+    "blues",
+    "blues rock",
+    "british blues",
+    "electric blues"
+  ],
+  "images": [
+    {
+      "height": 733,
+      "url": "https://i.scdn.co/image/a13eee07307adc70fe177f0fa73e935cb909afe6",
+      "width": 550
+    },
+    {
+      "height": 267,
+      "url": "https://i.scdn.co/image/c27953e852d724d47227fb792e376ef8fb274597",
+      "width": 200
+    },
+    {
+      "height": 85,
+      "url": "https://i.scdn.co/image/9501c73796dede00f3115adfe6d780b8cc689f16",
+      "width": 64
+    }
+  ],
+  "popularity": 41,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/08avsqaGIlK2x3i2Cu7rKH"
+  }
+}

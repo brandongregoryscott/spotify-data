@@ -1,0 +1,33 @@
+{
+  "id": "055tpnH9NYBATi47FlPG2q",
+  "name": "Tercer Sol",
+  "uri": "spotify:artist:055tpnH9NYBATi47FlPG2q",
+  "followers": {
+    "href": null,
+    "total": 548
+  },
+  "genres": [
+    "spanish post-punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd50e6f81d5e44654c634f7d7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d50e6f81d5e44654c634f7d7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d50e6f81d5e44654c634f7d7",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/055tpnH9NYBATi47FlPG2q"
+  }
+}

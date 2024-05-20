@@ -1,0 +1,33 @@
+{
+  "id": "06faNH5ecjrwhwl1R63EFN",
+  "name": "Scarlett",
+  "uri": "spotify:artist:06faNH5ecjrwhwl1R63EFN",
+  "followers": {
+    "href": null,
+    "total": 262
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcc4d94673ffd4dd78173ec91",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cc4d94673ffd4dd78173ec91",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cc4d94673ffd4dd78173ec91",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/06faNH5ecjrwhwl1R63EFN"
+  }
+}

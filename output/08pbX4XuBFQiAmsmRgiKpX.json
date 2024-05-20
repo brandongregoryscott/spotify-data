@@ -1,0 +1,33 @@
+{
+  "id": "08pbX4XuBFQiAmsmRgiKpX",
+  "name": "lo-fido",
+  "uri": "spotify:artist:08pbX4XuBFQiAmsmRgiKpX",
+  "followers": {
+    "href": null,
+    "total": 95
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734ff0dcfcb4ff9d3ecaa20edc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024ff0dcfcb4ff9d3ecaa20edc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514ff0dcfcb4ff9d3ecaa20edc",
+      "width": 64
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/08pbX4XuBFQiAmsmRgiKpX"
+  }
+}

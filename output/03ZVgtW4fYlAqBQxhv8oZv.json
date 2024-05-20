@@ -1,0 +1,33 @@
+{
+  "id": "03ZVgtW4fYlAqBQxhv8oZv",
+  "name": "Todd Binder",
+  "uri": "spotify:artist:03ZVgtW4fYlAqBQxhv8oZv",
+  "followers": {
+    "href": null,
+    "total": 169
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb14ce6768f524d9342a523026",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517414ce6768f524d9342a523026",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17814ce6768f524d9342a523026",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03ZVgtW4fYlAqBQxhv8oZv"
+  }
+}
