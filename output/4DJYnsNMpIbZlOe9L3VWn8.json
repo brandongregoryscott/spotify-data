@@ -1,0 +1,33 @@
+{
+  "id": "4DJYnsNMpIbZlOe9L3VWn8",
+  "name": "Stella Sol",
+  "uri": "spotify:artist:4DJYnsNMpIbZlOe9L3VWn8",
+  "followers": {
+    "href": null,
+    "total": 48
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbb8a88b79353c373f0b69b6b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bb8a88b79353c373f0b69b6b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bb8a88b79353c373f0b69b6b",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4DJYnsNMpIbZlOe9L3VWn8"
+  }
+}

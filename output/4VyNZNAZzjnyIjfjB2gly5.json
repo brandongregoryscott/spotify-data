@@ -1,0 +1,33 @@
+{
+  "id": "4VyNZNAZzjnyIjfjB2gly5",
+  "name": "YBA twig",
+  "uri": "spotify:artist:4VyNZNAZzjnyIjfjB2gly5",
+  "followers": {
+    "href": null,
+    "total": 69
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfba1b8013a09965cda9f768f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fba1b8013a09965cda9f768f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fba1b8013a09965cda9f768f",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4VyNZNAZzjnyIjfjB2gly5"
+  }
+}
