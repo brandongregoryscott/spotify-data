@@ -1,0 +1,35 @@
+{
+  "id": "74Scmdx48rYZ4pfduTnUE4",
+  "name": "Roses Are Red",
+  "uri": "spotify:artist:74Scmdx48rYZ4pfduTnUE4",
+  "followers": {
+    "href": null,
+    "total": 2704
+  },
+  "genres": [
+    "deep pop emo",
+    "rochester ny indie",
+    "screamocore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbeecb94548fc2fbdbc4b66e2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174beecb94548fc2fbdbc4b66e2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178beecb94548fc2fbdbc4b66e2",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/74Scmdx48rYZ4pfduTnUE4"
+  }
+}

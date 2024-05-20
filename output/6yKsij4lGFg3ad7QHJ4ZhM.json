@@ -1,0 +1,33 @@
+{
+  "id": "6yKsij4lGFg3ad7QHJ4ZhM",
+  "name": "Multiple Man",
+  "uri": "spotify:artist:6yKsij4lGFg3ad7QHJ4ZhM",
+  "followers": {
+    "href": null,
+    "total": 2919
+  },
+  "genres": [
+    "modern ebm"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ef392186daa2d83b7ebdd34e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ef392186daa2d83b7ebdd34e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ef392186daa2d83b7ebdd34e",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6yKsij4lGFg3ad7QHJ4ZhM"
+  }
+}

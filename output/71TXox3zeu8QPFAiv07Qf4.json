@@ -1,0 +1,36 @@
+{
+  "id": "71TXox3zeu8QPFAiv07Qf4",
+  "name": "Embryo",
+  "uri": "spotify:artist:71TXox3zeu8QPFAiv07Qf4",
+  "followers": {
+    "href": null,
+    "total": 17312
+  },
+  "genres": [
+    "german prog",
+    "hammond organ",
+    "jazz rock",
+    "krautrock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6a4bed705a8ce485ead53753",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051746a4bed705a8ce485ead53753",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1786a4bed705a8ce485ead53753",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/71TXox3zeu8QPFAiv07Qf4"
+  }
+}

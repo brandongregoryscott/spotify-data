@@ -1,0 +1,33 @@
+{
+  "id": "6zN8SfYK7CaitT1XrHOhIN",
+  "name": "Link Lauren",
+  "uri": "spotify:artist:6zN8SfYK7CaitT1XrHOhIN",
+  "followers": {
+    "href": null,
+    "total": 3404
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb23723537e8fc07f907d2e370",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517423723537e8fc07f907d2e370",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17823723537e8fc07f907d2e370",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6zN8SfYK7CaitT1XrHOhIN"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6vL0zTkJkV3cgYo1dkpdIe",
+  "name": "JAPT",
+  "uri": "spotify:artist:6vL0zTkJkV3cgYo1dkpdIe",
+  "followers": {
+    "href": null,
+    "total": 158
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba3e524cdf832750b084e61db",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a3e524cdf832750b084e61db",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a3e524cdf832750b084e61db",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6vL0zTkJkV3cgYo1dkpdIe"
+  }
+}

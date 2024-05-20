@@ -1,0 +1,33 @@
+{
+  "id": "6spde6coEopgX10LodZ5YZ",
+  "name": "Libreaccion",
+  "uri": "spotify:artist:6spde6coEopgX10LodZ5YZ",
+  "followers": {
+    "href": null,
+    "total": 221
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb190f69299b49185d3dbfd7b0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174190f69299b49185d3dbfd7b0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178190f69299b49185d3dbfd7b0",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6spde6coEopgX10LodZ5YZ"
+  }
+}

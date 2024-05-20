@@ -1,0 +1,33 @@
+{
+  "id": "6rEkTh2mvlXln5Dt6jRe3L",
+  "name": "marric",
+  "uri": "spotify:artist:6rEkTh2mvlXln5Dt6jRe3L",
+  "followers": {
+    "href": null,
+    "total": 136
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0a488f3969ed1a6b784b391f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051740a488f3969ed1a6b784b391f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1780a488f3969ed1a6b784b391f",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6rEkTh2mvlXln5Dt6jRe3L"
+  }
+}

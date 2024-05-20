@@ -1,0 +1,33 @@
+{
+  "id": "70WLlw1aJVKrX7bkOHoYpK",
+  "name": "galen.",
+  "uri": "spotify:artist:70WLlw1aJVKrX7bkOHoYpK",
+  "followers": {
+    "href": null,
+    "total": 42
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba3d1b4fa3aa2d11535ea99ec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a3d1b4fa3aa2d11535ea99ec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a3d1b4fa3aa2d11535ea99ec",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/70WLlw1aJVKrX7bkOHoYpK"
+  }
+}
