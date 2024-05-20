@@ -1,0 +1,34 @@
+{
+  "id": "7CvdHKuR92vtXH7I0YOhZ0",
+  "name": "Michael Falch",
+  "uri": "spotify:artist:7CvdHKuR92vtXH7I0YOhZ0",
+  "followers": {
+    "href": null,
+    "total": 16305
+  },
+  "genres": [
+    "classic danish pop",
+    "danish pop rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb540b4420d62c1d912537febe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174540b4420d62c1d912537febe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178540b4420d62c1d912537febe",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7CvdHKuR92vtXH7I0YOhZ0"
+  }
+}

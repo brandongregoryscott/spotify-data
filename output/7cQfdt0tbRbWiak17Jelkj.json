@@ -1,0 +1,33 @@
+{
+  "id": "7cQfdt0tbRbWiak17Jelkj",
+  "name": "Johny Alen",
+  "uri": "spotify:artist:7cQfdt0tbRbWiak17Jelkj",
+  "followers": {
+    "href": null,
+    "total": 11619
+  },
+  "genres": [
+    "rap chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb524593a719bc544bddf6b6d7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174524593a719bc544bddf6b6d7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178524593a719bc544bddf6b6d7",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7cQfdt0tbRbWiak17Jelkj"
+  }
+}

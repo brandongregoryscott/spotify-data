@@ -1,0 +1,33 @@
+{
+  "id": "7MBxISpkGocUgsPekMSpkw",
+  "name": "Elfass",
+  "uri": "spotify:artist:7MBxISpkGocUgsPekMSpkw",
+  "followers": {
+    "href": null,
+    "total": 2927
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb970f8e8672ca1db959894eca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174970f8e8672ca1db959894eca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178970f8e8672ca1db959894eca",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7MBxISpkGocUgsPekMSpkw"
+  }
+}

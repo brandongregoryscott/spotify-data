@@ -1,0 +1,33 @@
+{
+  "id": "7E0M7cB2lwYNS3DXZhbGn2",
+  "name": "puggs",
+  "uri": "spotify:artist:7E0M7cB2lwYNS3DXZhbGn2",
+  "followers": {
+    "href": null,
+    "total": 216
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf85c5c8f84345692f216b9d2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f85c5c8f84345692f216b9d2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f85c5c8f84345692f216b9d2",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7E0M7cB2lwYNS3DXZhbGn2"
+  }
+}

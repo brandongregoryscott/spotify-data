@@ -1,0 +1,34 @@
+{
+  "id": "7fbu8aS3TUz7JUT6hpuYKS",
+  "name": "Tempano",
+  "uri": "spotify:artist:7fbu8aS3TUz7JUT6hpuYKS",
+  "followers": {
+    "href": null,
+    "total": 13888
+  },
+  "genres": [
+    "classic venezuelan pop",
+    "venezuelan rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ad36b286d2cb77403cbf90a4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ad36b286d2cb77403cbf90a4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ad36b286d2cb77403cbf90a4",
+      "width": 64
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7fbu8aS3TUz7JUT6hpuYKS"
+  }
+}

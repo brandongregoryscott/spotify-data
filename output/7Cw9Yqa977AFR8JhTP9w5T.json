@@ -1,0 +1,33 @@
+{
+  "id": "7Cw9Yqa977AFR8JhTP9w5T",
+  "name": "Alt",
+  "uri": "spotify:artist:7Cw9Yqa977AFR8JhTP9w5T",
+  "followers": {
+    "href": null,
+    "total": 32
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fe0c5a756eea6d49da373378",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fe0c5a756eea6d49da373378",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fe0c5a756eea6d49da373378",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7Cw9Yqa977AFR8JhTP9w5T"
+  }
+}

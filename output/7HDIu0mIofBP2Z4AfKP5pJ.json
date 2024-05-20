@@ -1,0 +1,33 @@
+{
+  "id": "7HDIu0mIofBP2Z4AfKP5pJ",
+  "name": "Absolom",
+  "uri": "spotify:artist:7HDIu0mIofBP2Z4AfKP5pJ",
+  "followers": {
+    "href": null,
+    "total": 501
+  },
+  "genres": [
+    "spanish metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebab385910eb1d6adf3f129b44",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ab385910eb1d6adf3f129b44",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ab385910eb1d6adf3f129b44",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7HDIu0mIofBP2Z4AfKP5pJ"
+  }
+}

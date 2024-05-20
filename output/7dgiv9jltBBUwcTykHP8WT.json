@@ -1,0 +1,33 @@
+{
+  "id": "7dgiv9jltBBUwcTykHP8WT",
+  "name": "Lea Marra",
+  "uri": "spotify:artist:7dgiv9jltBBUwcTykHP8WT",
+  "followers": {
+    "href": null,
+    "total": 231
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbc6c256f0f3740f3ec7c9fef",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bc6c256f0f3740f3ec7c9fef",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bc6c256f0f3740f3ec7c9fef",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7dgiv9jltBBUwcTykHP8WT"
+  }
+}
