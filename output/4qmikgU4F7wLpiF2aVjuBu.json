@@ -1,0 +1,33 @@
+{
+  "id": "4qmikgU4F7wLpiF2aVjuBu",
+  "name": "9MA",
+  "uri": "spotify:artist:4qmikgU4F7wLpiF2aVjuBu",
+  "followers": {
+    "href": null,
+    "total": 217
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc78ccae603629c635fb3567e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c78ccae603629c635fb3567e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c78ccae603629c635fb3567e",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4qmikgU4F7wLpiF2aVjuBu"
+  }
+}
