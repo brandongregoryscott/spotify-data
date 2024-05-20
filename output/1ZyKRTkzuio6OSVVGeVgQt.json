@@ -1,0 +1,34 @@
+{
+  "id": "1ZyKRTkzuio6OSVVGeVgQt",
+  "name": "Philippe Brach",
+  "uri": "spotify:artist:1ZyKRTkzuio6OSVVGeVgQt",
+  "followers": {
+    "href": null,
+    "total": 21101
+  },
+  "genres": [
+    "hip hop quebecois",
+    "indie quebecois"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb366c2d21135899c50f85eae4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174366c2d21135899c50f85eae4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178366c2d21135899c50f85eae4",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
+  }
+}

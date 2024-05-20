@@ -1,0 +1,33 @@
+{
+  "id": "1LAnFbbTRPKkk4qQJndKBJ",
+  "name": "Carla Prather",
+  "uri": "spotify:artist:1LAnFbbTRPKkk4qQJndKBJ",
+  "followers": {
+    "href": null,
+    "total": 333
+  },
+  "genres": [
+    "soulful house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738d74b6ad82f72dd36a00d5aa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028d74b6ad82f72dd36a00d5aa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518d74b6ad82f72dd36a00d5aa",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1LAnFbbTRPKkk4qQJndKBJ"
+  }
+}

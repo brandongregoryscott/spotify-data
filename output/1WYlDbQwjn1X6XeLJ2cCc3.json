@@ -1,0 +1,34 @@
+{
+  "id": "1WYlDbQwjn1X6XeLJ2cCc3",
+  "name": "Querembas",
+  "uri": "spotify:artist:1WYlDbQwjn1X6XeLJ2cCc3",
+  "followers": {
+    "href": null,
+    "total": 964
+  },
+  "genres": [
+    "bolivian metal",
+    "bolivian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734fd1edb299ae1013f8b715bc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024fd1edb299ae1013f8b715bc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514fd1edb299ae1013f8b715bc",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1WYlDbQwjn1X6XeLJ2cCc3"
+  }
+}

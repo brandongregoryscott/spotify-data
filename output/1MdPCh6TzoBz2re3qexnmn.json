@@ -1,0 +1,33 @@
+{
+  "id": "1MdPCh6TzoBz2re3qexnmn",
+  "name": "Ryunosuke Kudo",
+  "uri": "spotify:artist:1MdPCh6TzoBz2re3qexnmn",
+  "followers": {
+    "href": null,
+    "total": 1311
+  },
+  "genres": [
+    "j-core"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27353e2ae4bbdd1edd3cafe84ce",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0253e2ae4bbdd1edd3cafe84ce",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485153e2ae4bbdd1edd3cafe84ce",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1MdPCh6TzoBz2re3qexnmn"
+  }
+}
