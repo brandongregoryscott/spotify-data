@@ -1,0 +1,33 @@
+{
+  "id": "5mQSDaBmvk7Oe1ohGj0fbE",
+  "name": "Golden Blue",
+  "uri": "spotify:artist:5mQSDaBmvk7Oe1ohGj0fbE",
+  "followers": {
+    "href": null,
+    "total": 411
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd0e7f7d0798d915f61ae85ce",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d0e7f7d0798d915f61ae85ce",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d0e7f7d0798d915f61ae85ce",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5mQSDaBmvk7Oe1ohGj0fbE"
+  }
+}

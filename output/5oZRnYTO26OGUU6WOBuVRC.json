@@ -1,0 +1,33 @@
+{
+  "id": "5oZRnYTO26OGUU6WOBuVRC",
+  "name": "Enigma",
+  "uri": "spotify:artist:5oZRnYTO26OGUU6WOBuVRC",
+  "followers": {
+    "href": null,
+    "total": 389
+  },
+  "genres": [
+    "technical death metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb604dc88e64afeba4579ee0fe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174604dc88e64afeba4579ee0fe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178604dc88e64afeba4579ee0fe",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5oZRnYTO26OGUU6WOBuVRC"
+  }
+}

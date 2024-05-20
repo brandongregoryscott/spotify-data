@@ -1,0 +1,33 @@
+{
+  "id": "5ehbOlqroF2VDPRYLyZ8gC",
+  "name": "Wazowss",
+  "uri": "spotify:artist:5ehbOlqroF2VDPRYLyZ8gC",
+  "followers": {
+    "href": null,
+    "total": 505
+  },
+  "genres": [
+    "hyperpop en espanol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb51c478a054d97d2d11677c49",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517451c478a054d97d2d11677c49",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17851c478a054d97d2d11677c49",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ehbOlqroF2VDPRYLyZ8gC"
+  }
+}

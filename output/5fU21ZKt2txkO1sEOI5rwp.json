@@ -1,0 +1,34 @@
+{
+  "id": "5fU21ZKt2txkO1sEOI5rwp",
+  "name": "TBX",
+  "uri": "spotify:artist:5fU21ZKt2txkO1sEOI5rwp",
+  "followers": {
+    "href": null,
+    "total": 3181
+  },
+  "genres": [
+    "mexican edm",
+    "perreo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdf081bb2c1a4a1fe936a9aa7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174df081bb2c1a4a1fe936a9aa7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178df081bb2c1a4a1fe936a9aa7",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp"
+  }
+}

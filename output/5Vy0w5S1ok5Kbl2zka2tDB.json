@@ -1,0 +1,33 @@
+{
+  "id": "5Vy0w5S1ok5Kbl2zka2tDB",
+  "name": "The Dark Horse",
+  "uri": "spotify:artist:5Vy0w5S1ok5Kbl2zka2tDB",
+  "followers": {
+    "href": null,
+    "total": 441
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb284e1e748e9f6a09765ef97d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174284e1e748e9f6a09765ef97d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178284e1e748e9f6a09765ef97d",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Vy0w5S1ok5Kbl2zka2tDB"
+  }
+}

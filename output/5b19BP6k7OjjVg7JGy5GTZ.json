@@ -1,0 +1,33 @@
+{
+  "id": "5b19BP6k7OjjVg7JGy5GTZ",
+  "name": "C-Level",
+  "uri": "spotify:artist:5b19BP6k7OjjVg7JGy5GTZ",
+  "followers": {
+    "href": null,
+    "total": 465
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd69e3f9c15c777fb9c9eb9dc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d69e3f9c15c777fb9c9eb9dc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d69e3f9c15c777fb9c9eb9dc",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5b19BP6k7OjjVg7JGy5GTZ"
+  }
+}

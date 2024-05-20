@@ -1,0 +1,33 @@
+{
+  "id": "5ncRwkMWAUUV6qCkSONO22",
+  "name": "Les Satellites",
+  "uri": "spotify:artist:5ncRwkMWAUUV6qCkSONO22",
+  "followers": {
+    "href": null,
+    "total": 2077
+  },
+  "genres": [
+    "french punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcb8d335d5cfe2151dfbffe83",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cb8d335d5cfe2151dfbffe83",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cb8d335d5cfe2151dfbffe83",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ncRwkMWAUUV6qCkSONO22"
+  }
+}
