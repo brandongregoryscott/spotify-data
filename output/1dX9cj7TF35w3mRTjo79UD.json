@@ -1,0 +1,33 @@
+{
+  "id": "1dX9cj7TF35w3mRTjo79UD",
+  "name": "トーコ",
+  "uri": "spotify:artist:1dX9cj7TF35w3mRTjo79UD",
+  "followers": {
+    "href": null,
+    "total": 912
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730441c4315333c72053cb4552",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020441c4315333c72053cb4552",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510441c4315333c72053cb4552",
+      "width": 64
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1dX9cj7TF35w3mRTjo79UD"
+  }
+}

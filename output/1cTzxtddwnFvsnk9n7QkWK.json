@@ -1,0 +1,33 @@
+{
+  "id": "1cTzxtddwnFvsnk9n7QkWK",
+  "name": "AudioGust",
+  "uri": "spotify:artist:1cTzxtddwnFvsnk9n7QkWK",
+  "followers": {
+    "href": null,
+    "total": 2796
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbae9de0da7a8f072c17cdbca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bae9de0da7a8f072c17cdbca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bae9de0da7a8f072c17cdbca",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1cTzxtddwnFvsnk9n7QkWK"
+  }
+}

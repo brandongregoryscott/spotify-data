@@ -1,0 +1,33 @@
+{
+  "id": "1tFnKlJuDU1PvvvkEx9mi7",
+  "name": "Andi Mack",
+  "uri": "spotify:artist:1tFnKlJuDU1PvvvkEx9mi7",
+  "followers": {
+    "href": null,
+    "total": 116586
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731b3cf3b80f3e79d55010ceec",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021b3cf3b80f3e79d55010ceec",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511b3cf3b80f3e79d55010ceec",
+      "width": 64
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1tFnKlJuDU1PvvvkEx9mi7"
+  }
+}

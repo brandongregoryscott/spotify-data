@@ -1,0 +1,33 @@
+{
+  "id": "1wHteDz57DCfgztS5vR2jU",
+  "name": "The Past",
+  "uri": "spotify:artist:1wHteDz57DCfgztS5vR2jU",
+  "followers": {
+    "href": null,
+    "total": 2778
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc8ebf9e22351dd01fef63a0f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c8ebf9e22351dd01fef63a0f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c8ebf9e22351dd01fef63a0f",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU"
+  }
+}

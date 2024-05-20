@@ -1,0 +1,33 @@
+{
+  "id": "1jIgJDUDMJ1o0epvhcafnw",
+  "name": "CEREBRA",
+  "uri": "spotify:artist:1jIgJDUDMJ1o0epvhcafnw",
+  "followers": {
+    "href": null,
+    "total": 117
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732537117fb87a1a29ecda9eee",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022537117fb87a1a29ecda9eee",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512537117fb87a1a29ecda9eee",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1jIgJDUDMJ1o0epvhcafnw"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1oL7tQg2bJmMZWQHRg8LGc",
+  "name": "THE JM",
+  "uri": "spotify:artist:1oL7tQg2bJmMZWQHRg8LGc",
+  "followers": {
+    "href": null,
+    "total": 209
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebef793cd5afb390fb55b5a945",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ef793cd5afb390fb55b5a945",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ef793cd5afb390fb55b5a945",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1oL7tQg2bJmMZWQHRg8LGc"
+  }
+}
