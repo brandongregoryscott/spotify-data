@@ -1,0 +1,33 @@
+{
+  "id": "1ETB2ZIgSEYBauk4ZfQHVz",
+  "name": "Quiet",
+  "uri": "spotify:artist:1ETB2ZIgSEYBauk4ZfQHVz",
+  "followers": {
+    "href": null,
+    "total": 272
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbbf3215afa51c9ef53531aee",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bbf3215afa51c9ef53531aee",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bbf3215afa51c9ef53531aee",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ETB2ZIgSEYBauk4ZfQHVz"
+  }
+}

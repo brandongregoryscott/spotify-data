@@ -1,0 +1,33 @@
+{
+  "id": "1AITjRRGEDvZl7rmYgCSe0",
+  "name": "Angry Atom",
+  "uri": "spotify:artist:1AITjRRGEDvZl7rmYgCSe0",
+  "followers": {
+    "href": null,
+    "total": 16
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732c9430783848466c52f628bb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022c9430783848466c52f628bb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512c9430783848466c52f628bb",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1AITjRRGEDvZl7rmYgCSe0"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "1FQv3rI4iJPitbZiTxBGut",
+  "name": "Agent Steel",
+  "uri": "spotify:artist:1FQv3rI4iJPitbZiTxBGut",
+  "followers": {
+    "href": null,
+    "total": 42223
+  },
+  "genres": [
+    "melodic thrash",
+    "old school thrash",
+    "us power metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb05dbc4b50f33bf73dae2d85a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517405dbc4b50f33bf73dae2d85a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17805dbc4b50f33bf73dae2d85a",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1FQv3rI4iJPitbZiTxBGut"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1H5KEPbWdprtE1mEndJaR7",
+  "name": "OUR AGE",
+  "uri": "spotify:artist:1H5KEPbWdprtE1mEndJaR7",
+  "followers": {
+    "href": null,
+    "total": 881
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcc1575cf28f464ba6029533f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cc1575cf28f464ba6029533f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cc1575cf28f464ba6029533f",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1H5KEPbWdprtE1mEndJaR7"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1EBfCBuAdcgr01mC8QOQTs",
+  "name": "Lucas Lazari",
+  "uri": "spotify:artist:1EBfCBuAdcgr01mC8QOQTs",
+  "followers": {
+    "href": null,
+    "total": 349
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb121cbd4369cc81e4a6beaf7e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174121cbd4369cc81e4a6beaf7e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178121cbd4369cc81e4a6beaf7e",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1EBfCBuAdcgr01mC8QOQTs"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1EEhH4O5wwlVMJcgwOnjJh",
+  "name": "La Roca",
+  "uri": "spotify:artist:1EEhH4O5wwlVMJcgwOnjJh",
+  "followers": {
+    "href": null,
+    "total": 517
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734d7b8d84a6bb6641e4220861",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024d7b8d84a6bb6641e4220861",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514d7b8d84a6bb6641e4220861",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1EEhH4O5wwlVMJcgwOnjJh"
+  }
+}

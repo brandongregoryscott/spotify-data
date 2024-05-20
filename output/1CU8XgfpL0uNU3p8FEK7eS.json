@@ -1,0 +1,33 @@
+{
+  "id": "1CU8XgfpL0uNU3p8FEK7eS",
+  "name": "PAR",
+  "uri": "spotify:artist:1CU8XgfpL0uNU3p8FEK7eS",
+  "followers": {
+    "href": null,
+    "total": 418
+  },
+  "genres": [
+    "korean hyperpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdf555a8be9da8a4326e8ae01",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174df555a8be9da8a4326e8ae01",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178df555a8be9da8a4326e8ae01",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1CU8XgfpL0uNU3p8FEK7eS"
+  }
+}

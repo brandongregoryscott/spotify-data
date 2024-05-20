@@ -1,0 +1,33 @@
+{
+  "id": "111svV0XajpGXS91vpByLF",
+  "name": "Dijit",
+  "uri": "spotify:artist:111svV0XajpGXS91vpByLF",
+  "followers": {
+    "href": null,
+    "total": 2000
+  },
+  "genres": [
+    "collage pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb91f13b9c8cdf789d8e9fec4b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517491f13b9c8cdf789d8e9fec4b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17891f13b9c8cdf789d8e9fec4b",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/111svV0XajpGXS91vpByLF"
+  }
+}
