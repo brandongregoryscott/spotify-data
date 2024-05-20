@@ -1,0 +1,33 @@
+{
+  "id": "7r8xm2BEVdXHFh0fZglxOi",
+  "name": "TOSH",
+  "uri": "spotify:artist:7r8xm2BEVdXHFh0fZglxOi",
+  "followers": {
+    "href": null,
+    "total": 1022
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbb3e2079da23b430f90351c0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bb3e2079da23b430f90351c0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bb3e2079da23b430f90351c0",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi"
+  }
+}
