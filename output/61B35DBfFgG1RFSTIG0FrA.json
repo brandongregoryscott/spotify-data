@@ -1,0 +1,33 @@
+{
+  "id": "61B35DBfFgG1RFSTIG0FrA",
+  "name": "En",
+  "uri": "spotify:artist:61B35DBfFgG1RFSTIG0FrA",
+  "followers": {
+    "href": null,
+    "total": 79
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcb5f3c4e5f58c4b312c7e237",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cb5f3c4e5f58c4b312c7e237",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cb5f3c4e5f58c4b312c7e237",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/61B35DBfFgG1RFSTIG0FrA"
+  }
+}

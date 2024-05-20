@@ -1,0 +1,33 @@
+{
+  "id": "67jsnKQxgDih5HvR68qXWd",
+  "name": "EXiNA",
+  "uri": "spotify:artist:67jsnKQxgDih5HvR68qXWd",
+  "followers": {
+    "href": null,
+    "total": 3573
+  },
+  "genres": [
+    "anime"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb44ce5fe97e8e422415921015",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517444ce5fe97e8e422415921015",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17844ce5fe97e8e422415921015",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/67jsnKQxgDih5HvR68qXWd"
+  }
+}

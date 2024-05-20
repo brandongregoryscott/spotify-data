@@ -1,0 +1,33 @@
+{
+  "id": "5zX4srAEfIPgYbERzNCJ1Y",
+  "name": "The Jazz Trio",
+  "uri": "spotify:artist:5zX4srAEfIPgYbERzNCJ1Y",
+  "followers": {
+    "href": null,
+    "total": 206
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb896fa18983d46afff4ba81dc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174896fa18983d46afff4ba81dc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178896fa18983d46afff4ba81dc",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5zX4srAEfIPgYbERzNCJ1Y"
+  }
+}

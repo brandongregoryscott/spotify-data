@@ -1,0 +1,33 @@
+{
+  "id": "5pYWH9L8OcnvIXS1V1cO2L",
+  "name": "珀",
+  "uri": "spotify:artist:5pYWH9L8OcnvIXS1V1cO2L",
+  "followers": {
+    "href": null,
+    "total": 2459
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273662f81ee3391b25f94a9b680",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02662f81ee3391b25f94a9b680",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851662f81ee3391b25f94a9b680",
+      "width": 64
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5pYWH9L8OcnvIXS1V1cO2L"
+  }
+}

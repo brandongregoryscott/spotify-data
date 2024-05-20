@@ -1,0 +1,33 @@
+{
+  "id": "5tGmC0zJywmhQ8gtuPo1tp",
+  "name": "King Turtle",
+  "uri": "spotify:artist:5tGmC0zJywmhQ8gtuPo1tp",
+  "followers": {
+    "href": null,
+    "total": 245
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcbbaedcd1df04b3d00701fa0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cbbaedcd1df04b3d00701fa0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cbbaedcd1df04b3d00701fa0",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5tGmC0zJywmhQ8gtuPo1tp"
+  }
+}
