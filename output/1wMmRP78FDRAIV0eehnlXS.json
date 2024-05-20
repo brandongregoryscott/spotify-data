@@ -1,0 +1,33 @@
+{
+  "id": "1wMmRP78FDRAIV0eehnlXS",
+  "name": "Franz Mesko",
+  "uri": "spotify:artist:1wMmRP78FDRAIV0eehnlXS",
+  "followers": {
+    "href": null,
+    "total": 11721
+  },
+  "genres": [
+    "rap chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaadda2e3e8303fec190edab1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aadda2e3e8303fec190edab1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aadda2e3e8303fec190edab1",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1wMmRP78FDRAIV0eehnlXS"
+  }
+}

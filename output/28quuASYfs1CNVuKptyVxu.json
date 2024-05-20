@@ -1,0 +1,33 @@
+{
+  "id": "28quuASYfs1CNVuKptyVxu",
+  "name": "Fairything",
+  "uri": "spotify:artist:28quuASYfs1CNVuKptyVxu",
+  "followers": {
+    "href": null,
+    "total": 693
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb25dcd42bc64a9ea6c153ffdf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517425dcd42bc64a9ea6c153ffdf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17825dcd42bc64a9ea6c153ffdf",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/28quuASYfs1CNVuKptyVxu"
+  }
+}

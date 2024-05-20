@@ -1,0 +1,34 @@
+{
+  "id": "1zqe1IGrak1lViW12y4p5X",
+  "name": "The Pist",
+  "uri": "spotify:artist:1zqe1IGrak1lViW12y4p5X",
+  "followers": {
+    "href": null,
+    "total": 2426
+  },
+  "genres": [
+    "anarcho-punk",
+    "street punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27335d0c56e4d6a209deb764f33",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0235d0c56e4d6a209deb764f33",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485135d0c56e4d6a209deb764f33",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1zqe1IGrak1lViW12y4p5X"
+  }
+}

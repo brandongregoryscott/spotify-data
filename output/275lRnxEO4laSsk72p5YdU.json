@@ -1,0 +1,33 @@
+{
+  "id": "275lRnxEO4laSsk72p5YdU",
+  "name": "Knom",
+  "uri": "spotify:artist:275lRnxEO4laSsk72p5YdU",
+  "followers": {
+    "href": null,
+    "total": 1159
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb76bafe9158dcaa0f0ca01345",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517476bafe9158dcaa0f0ca01345",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17876bafe9158dcaa0f0ca01345",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/275lRnxEO4laSsk72p5YdU"
+  }
+}

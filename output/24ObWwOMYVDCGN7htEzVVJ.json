@@ -1,0 +1,33 @@
+{
+  "id": "24ObWwOMYVDCGN7htEzVVJ",
+  "name": "Galaxia Rosa",
+  "uri": "spotify:artist:24ObWwOMYVDCGN7htEzVVJ",
+  "followers": {
+    "href": null,
+    "total": 67
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb85af244c78a3e4f97210ab4b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517485af244c78a3e4f97210ab4b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17885af244c78a3e4f97210ab4b",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/24ObWwOMYVDCGN7htEzVVJ"
+  }
+}

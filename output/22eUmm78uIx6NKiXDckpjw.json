@@ -1,0 +1,33 @@
+{
+  "id": "22eUmm78uIx6NKiXDckpjw",
+  "name": "alex the listener",
+  "uri": "spotify:artist:22eUmm78uIx6NKiXDckpjw",
+  "followers": {
+    "href": null,
+    "total": 56
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba08c99820b9762e78ecf98ff",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a08c99820b9762e78ecf98ff",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a08c99820b9762e78ecf98ff",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/22eUmm78uIx6NKiXDckpjw"
+  }
+}

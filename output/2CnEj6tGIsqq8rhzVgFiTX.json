@@ -1,0 +1,33 @@
+{
+  "id": "2CnEj6tGIsqq8rhzVgFiTX",
+  "name": "Mary McAvoy",
+  "uri": "spotify:artist:2CnEj6tGIsqq8rhzVgFiTX",
+  "followers": {
+    "href": null,
+    "total": 299
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb748a3de11f116105d5d55d2b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174748a3de11f116105d5d55d2b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178748a3de11f116105d5d55d2b",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2CnEj6tGIsqq8rhzVgFiTX"
+  }
+}

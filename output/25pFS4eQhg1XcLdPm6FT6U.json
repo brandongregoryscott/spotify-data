@@ -1,0 +1,33 @@
+{
+  "id": "25pFS4eQhg1XcLdPm6FT6U",
+  "name": "Ventana Abierta",
+  "uri": "spotify:artist:25pFS4eQhg1XcLdPm6FT6U",
+  "followers": {
+    "href": null,
+    "total": 2665
+  },
+  "genres": [
+    "rap chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba00e0b5182e291ffcbf89021",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a00e0b5182e291ffcbf89021",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a00e0b5182e291ffcbf89021",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/25pFS4eQhg1XcLdPm6FT6U"
+  }
+}
