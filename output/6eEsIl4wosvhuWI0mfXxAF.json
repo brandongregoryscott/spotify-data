@@ -4,7 +4,7 @@
   "uri": "spotify:artist:6eEsIl4wosvhuWI0mfXxAF",
   "followers": {
     "href": null,
-    "total": 177491
+    "total": 177560
   },
   "genres": [
     "blues rock",
@@ -12,7 +12,8 @@
     "country rock",
     "psychedelic rock",
     "psychedelic soul",
-    "southern rock"
+    "southern rock",
+    "symphonic rock"
   ],
   "images": [
     {
@@ -36,7 +37,7 @@
       "width": 64
     }
   ],
-  "popularity": 37,
+  "popularity": 38,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/6eEsIl4wosvhuWI0mfXxAF"
   }

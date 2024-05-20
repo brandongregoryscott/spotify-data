@@ -1,0 +1,33 @@
+{
+  "id": "6iB9oVAqroX1mWzwRiyJpd",
+  "name": "clotberry",
+  "uri": "spotify:artist:6iB9oVAqroX1mWzwRiyJpd",
+  "followers": {
+    "href": null,
+    "total": 172
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb178d885441fed338bfa4bfb3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174178d885441fed338bfa4bfb3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178178d885441fed338bfa4bfb3",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6iB9oVAqroX1mWzwRiyJpd"
+  }
+}

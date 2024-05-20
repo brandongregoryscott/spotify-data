@@ -1,0 +1,33 @@
+{
+  "id": "6kVnFU5kHPPezTYuk1Gv6t",
+  "name": "Wemma",
+  "uri": "spotify:artist:6kVnFU5kHPPezTYuk1Gv6t",
+  "followers": {
+    "href": null,
+    "total": 689
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba9569d26c7bb3b8f717ff6ed",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a9569d26c7bb3b8f717ff6ed",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a9569d26c7bb3b8f717ff6ed",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6kVnFU5kHPPezTYuk1Gv6t"
+  }
+}

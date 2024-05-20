@@ -1,0 +1,33 @@
+{
+  "id": "6en359jAiRQo0bMjC8pmqj",
+  "name": "Hector Martignon",
+  "uri": "spotify:artist:6en359jAiRQo0bMjC8pmqj",
+  "followers": {
+    "href": null,
+    "total": 828
+  },
+  "genres": [
+    "jazz colombiano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27370dea185767ff1a03ddda400",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0270dea185767ff1a03ddda400",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485170dea185767ff1a03ddda400",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6en359jAiRQo0bMjC8pmqj"
+  }
+}

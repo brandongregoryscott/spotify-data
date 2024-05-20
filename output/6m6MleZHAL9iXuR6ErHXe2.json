@@ -1,0 +1,33 @@
+{
+  "id": "6m6MleZHAL9iXuR6ErHXe2",
+  "name": "MagMell",
+  "uri": "spotify:artist:6m6MleZHAL9iXuR6ErHXe2",
+  "followers": {
+    "href": null,
+    "total": 75
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27396c51211143477662660d2bb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0296c51211143477662660d2bb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511deee5444e897bcbc15a69fa",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6m6MleZHAL9iXuR6ErHXe2"
+  }
+}

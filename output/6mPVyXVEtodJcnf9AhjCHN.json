@@ -1,0 +1,33 @@
+{
+  "id": "6mPVyXVEtodJcnf9AhjCHN",
+  "name": "The Teeth",
+  "uri": "spotify:artist:6mPVyXVEtodJcnf9AhjCHN",
+  "followers": {
+    "href": null,
+    "total": 10929
+  },
+  "genres": [
+    "philly indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb95593ade14cc46415df324b4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517495593ade14cc46415df324b4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17895593ade14cc46415df324b4",
+      "width": 160
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6mPVyXVEtodJcnf9AhjCHN"
+  }
+}
