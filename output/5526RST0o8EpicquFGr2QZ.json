@@ -1,0 +1,33 @@
+{
+  "id": "5526RST0o8EpicquFGr2QZ",
+  "name": "Execvte",
+  "uri": "spotify:artist:5526RST0o8EpicquFGr2QZ",
+  "followers": {
+    "href": null,
+    "total": 205
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb13dd663795ce90d66413e50b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517413dd663795ce90d66413e50b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17813dd663795ce90d66413e50b",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5526RST0o8EpicquFGr2QZ"
+  }
+}

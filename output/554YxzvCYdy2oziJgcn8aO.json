@@ -1,0 +1,33 @@
+{
+  "id": "554YxzvCYdy2oziJgcn8aO",
+  "name": "vent",
+  "uri": "spotify:artist:554YxzvCYdy2oziJgcn8aO",
+  "followers": {
+    "href": null,
+    "total": 103
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba4bae4d3787e8f2d54a27b8e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a4bae4d3787e8f2d54a27b8e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a4bae4d3787e8f2d54a27b8e",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/554YxzvCYdy2oziJgcn8aO"
+  }
+}

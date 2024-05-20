@@ -1,0 +1,33 @@
+{
+  "id": "51l3R6uF7QfK7r19EMuBWd",
+  "name": "beignet",
+  "uri": "spotify:artist:51l3R6uF7QfK7r19EMuBWd",
+  "followers": {
+    "href": null,
+    "total": 2059
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cd6da6ae98a72645a14cf6a8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cd6da6ae98a72645a14cf6a8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cd6da6ae98a72645a14cf6a8",
+      "width": 64
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/51l3R6uF7QfK7r19EMuBWd"
+  }
+}

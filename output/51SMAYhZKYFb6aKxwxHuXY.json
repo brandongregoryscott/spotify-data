@@ -1,0 +1,33 @@
+{
+  "id": "51SMAYhZKYFb6aKxwxHuXY",
+  "name": "Martin Léon",
+  "uri": "spotify:artist:51SMAYhZKYFb6aKxwxHuXY",
+  "followers": {
+    "href": null,
+    "total": 10843
+  },
+  "genres": [
+    "indie quebecois"
+  ],
+  "images": [
+    {
+      "height": 600,
+      "url": "https://i.scdn.co/image/ebbdb7b6071f2b840fa23e0d9cb112528de8e843",
+      "width": 400
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/9501bcf91258b59acff2d475b77b1da071f59c6e",
+      "width": 200
+    },
+    {
+      "height": 96,
+      "url": "https://i.scdn.co/image/878fcae9a6b6f61a90baaf0678f9dda135094f0f",
+      "width": 64
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/51SMAYhZKYFb6aKxwxHuXY"
+  }
+}
