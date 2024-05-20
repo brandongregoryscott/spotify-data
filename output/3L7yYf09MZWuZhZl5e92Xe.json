@@ -1,0 +1,33 @@
+{
+  "id": "3L7yYf09MZWuZhZl5e92Xe",
+  "name": "Smith & Myers",
+  "uri": "spotify:artist:3L7yYf09MZWuZhZl5e92Xe",
+  "followers": {
+    "href": null,
+    "total": 64222
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb880e4513b22e4bae47bfaae",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b880e4513b22e4bae47bfaae",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b880e4513b22e4bae47bfaae",
+      "width": 160
+    }
+  ],
+  "popularity": 39,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3L7yYf09MZWuZhZl5e92Xe"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3SpHENRxAEBgUoBJDxHBCJ",
+  "name": "juby",
+  "uri": "spotify:artist:3SpHENRxAEBgUoBJDxHBCJ",
+  "followers": {
+    "href": null,
+    "total": 127
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb74c1870f0ae6b2f29722e65d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517474c1870f0ae6b2f29722e65d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17874c1870f0ae6b2f29722e65d",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3SpHENRxAEBgUoBJDxHBCJ"
+  }
+}

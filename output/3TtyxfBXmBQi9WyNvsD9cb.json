@@ -1,0 +1,33 @@
+{
+  "id": "3TtyxfBXmBQi9WyNvsD9cb",
+  "name": "Ounce",
+  "uri": "spotify:artist:3TtyxfBXmBQi9WyNvsD9cb",
+  "followers": {
+    "href": null,
+    "total": 275
+  },
+  "genres": [
+    "auckland indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737bcfad0bae62486f6af4196c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027bcfad0bae62486f6af4196c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517bcfad0bae62486f6af4196c",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3TtyxfBXmBQi9WyNvsD9cb"
+  }
+}

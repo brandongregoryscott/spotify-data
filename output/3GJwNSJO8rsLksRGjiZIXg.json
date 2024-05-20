@@ -1,0 +1,33 @@
+{
+  "id": "3GJwNSJO8rsLksRGjiZIXg",
+  "name": "Sally Anne Morgan",
+  "uri": "spotify:artist:3GJwNSJO8rsLksRGjiZIXg",
+  "followers": {
+    "href": null,
+    "total": 867
+  },
+  "genres": [
+    "north carolina roots"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb14d12b3cf9a93179c1112209",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517414d12b3cf9a93179c1112209",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17814d12b3cf9a93179c1112209",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3GJwNSJO8rsLksRGjiZIXg"
+  }
+}

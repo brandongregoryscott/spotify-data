@@ -1,0 +1,34 @@
+{
+  "id": "3JE1nspmOIMZ6VWFIMb3Ea",
+  "name": "Nico Peña",
+  "uri": "spotify:artist:3JE1nspmOIMZ6VWFIMb3Ea",
+  "followers": {
+    "href": null,
+    "total": 591
+  },
+  "genres": [
+    "indie boliviano",
+    "pop boliviano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf07635e01240979774092000",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f07635e01240979774092000",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f07635e01240979774092000",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3JE1nspmOIMZ6VWFIMb3Ea"
+  }
+}

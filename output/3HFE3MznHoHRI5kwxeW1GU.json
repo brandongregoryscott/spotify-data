@@ -1,0 +1,33 @@
+{
+  "id": "3HFE3MznHoHRI5kwxeW1GU",
+  "name": "BODUR",
+  "uri": "spotify:artist:3HFE3MznHoHRI5kwxeW1GU",
+  "followers": {
+    "href": null,
+    "total": 5284
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb277dcd826f314234b3ec4c4a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174277dcd826f314234b3ec4c4a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178277dcd826f314234b3ec4c4a",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU"
+  }
+}

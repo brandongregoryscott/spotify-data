@@ -1,0 +1,33 @@
+{
+  "id": "3Q9nIUAmeqYipryZhJY1ox",
+  "name": "Tiro",
+  "uri": "spotify:artist:3Q9nIUAmeqYipryZhJY1ox",
+  "followers": {
+    "href": null,
+    "total": 61
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb054027ea11e2407551cb6340",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174054027ea11e2407551cb6340",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178054027ea11e2407551cb6340",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Q9nIUAmeqYipryZhJY1ox"
+  }
+}
