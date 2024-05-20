@@ -1,0 +1,33 @@
+{
+  "id": "2IpTPX6MBtiFs6hluEIVTT",
+  "name": "RBT",
+  "uri": "spotify:artist:2IpTPX6MBtiFs6hluEIVTT",
+  "followers": {
+    "href": null,
+    "total": 54
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb81bfc4ba82fa58dfe7264681",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517481bfc4ba82fa58dfe7264681",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17881bfc4ba82fa58dfe7264681",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2IpTPX6MBtiFs6hluEIVTT"
+  }
+}

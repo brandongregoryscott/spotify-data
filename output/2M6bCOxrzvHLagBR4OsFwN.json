@@ -1,0 +1,33 @@
+{
+  "id": "2M6bCOxrzvHLagBR4OsFwN",
+  "name": "sam maser",
+  "uri": "spotify:artist:2M6bCOxrzvHLagBR4OsFwN",
+  "followers": {
+    "href": null,
+    "total": 81
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb692f6cec9a017166ef620dff",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174692f6cec9a017166ef620dff",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178692f6cec9a017166ef620dff",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2M6bCOxrzvHLagBR4OsFwN"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2JPKzwur5DpaQSbakygsmz",
+  "name": "Thanh Bình",
+  "uri": "spotify:artist:2JPKzwur5DpaQSbakygsmz",
+  "followers": {
+    "href": null,
+    "total": 1024
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27321227633171aaad0cb4456d8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0221227633171aaad0cb4456d8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485121227633171aaad0cb4456d8",
+      "width": 64
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2JPKzwur5DpaQSbakygsmz"
+  }
+}
