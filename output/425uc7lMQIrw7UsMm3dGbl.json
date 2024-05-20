@@ -1,0 +1,33 @@
+{
+  "id": "425uc7lMQIrw7UsMm3dGbl",
+  "name": "Kakerlaken",
+  "uri": "spotify:artist:425uc7lMQIrw7UsMm3dGbl",
+  "followers": {
+    "href": null,
+    "total": 49
+  },
+  "genres": [
+    "ukrainian punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb74ed4cafbf99a76778900736",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517474ed4cafbf99a76778900736",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17874ed4cafbf99a76778900736",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/425uc7lMQIrw7UsMm3dGbl"
+  }
+}
