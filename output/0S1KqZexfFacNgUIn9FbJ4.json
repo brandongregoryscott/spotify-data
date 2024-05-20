@@ -1,0 +1,34 @@
+{
+  "id": "0S1KqZexfFacNgUIn9FbJ4",
+  "name": "Main Line 10",
+  "uri": "spotify:artist:0S1KqZexfFacNgUIn9FbJ4",
+  "followers": {
+    "href": null,
+    "total": 2944
+  },
+  "genres": [
+    "fast melodic punk",
+    "metal balear"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbe1f65ae97c409b5c1dd4484",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174be1f65ae97c409b5c1dd4484",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178be1f65ae97c409b5c1dd4484",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0S1KqZexfFacNgUIn9FbJ4"
+  }
+}
