@@ -1,0 +1,40 @@
+{
+  "id": "5Fago9TaQ65PETMexHXJio",
+  "name": "Kerbdog",
+  "uri": "spotify:artist:5Fago9TaQ65PETMexHXJio",
+  "followers": {
+    "href": null,
+    "total": 5765
+  },
+  "genres": [
+    "irish rock",
+    "post-grunge",
+    "underground grunge"
+  ],
+  "images": [
+    {
+      "height": 1024,
+      "url": "https://i.scdn.co/image/805d77238f694f48751523346944ddc569d5ce93",
+      "width": 1000
+    },
+    {
+      "height": 655,
+      "url": "https://i.scdn.co/image/32824a3c2c9190fd51ffe39426027a34d357f1c1",
+      "width": 640
+    },
+    {
+      "height": 205,
+      "url": "https://i.scdn.co/image/7ba45c5a47b783121270e28432f525612a93a04c",
+      "width": 200
+    },
+    {
+      "height": 66,
+      "url": "https://i.scdn.co/image/5d6a8e018f1ce19166608d0a7cdcd4ccf05bb18f",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Fago9TaQ65PETMexHXJio"
+  }
+}

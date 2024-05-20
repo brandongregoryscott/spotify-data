@@ -1,0 +1,33 @@
+{
+  "id": "5G6cIUKHRZsdltnly67L6s",
+  "name": "clove",
+  "uri": "spotify:artist:5G6cIUKHRZsdltnly67L6s",
+  "followers": {
+    "href": null,
+    "total": 59
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd07bdc6294336caaaa696604",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d07bdc6294336caaaa696604",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d07bdc6294336caaaa696604",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5G6cIUKHRZsdltnly67L6s"
+  }
+}

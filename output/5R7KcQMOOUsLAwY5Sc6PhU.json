@@ -1,0 +1,33 @@
+{
+  "id": "5R7KcQMOOUsLAwY5Sc6PhU",
+  "name": "Barbarossa",
+  "uri": "spotify:artist:5R7KcQMOOUsLAwY5Sc6PhU",
+  "followers": {
+    "href": null,
+    "total": 281
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb58da3e96bd6fabc8edff3a04",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517458da3e96bd6fabc8edff3a04",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17858da3e96bd6fabc8edff3a04",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5R7KcQMOOUsLAwY5Sc6PhU"
+  }
+}

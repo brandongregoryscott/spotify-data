@@ -1,0 +1,33 @@
+{
+  "id": "5OI3scCzeagF1AqplJZoeH",
+  "name": "Brother Teresa",
+  "uri": "spotify:artist:5OI3scCzeagF1AqplJZoeH",
+  "followers": {
+    "href": null,
+    "total": 63
+  },
+  "genres": [
+    "phoenix indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fe0022bc032111fb222a1d0d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fe0022bc032111fb222a1d0d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fe0022bc032111fb222a1d0d",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5OI3scCzeagF1AqplJZoeH"
+  }
+}
