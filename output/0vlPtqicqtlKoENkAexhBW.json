@@ -1,0 +1,35 @@
+{
+  "id": "0vlPtqicqtlKoENkAexhBW",
+  "name": "Kurara",
+  "uri": "spotify:artist:0vlPtqicqtlKoENkAexhBW",
+  "followers": {
+    "href": null,
+    "total": 9719
+  },
+  "genres": [
+    "russian indie",
+    "russian indie rock",
+    "russian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d7b56f8a86cf9a505dcf90d9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d7b56f8a86cf9a505dcf90d9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d7b56f8a86cf9a505dcf90d9",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0vlPtqicqtlKoENkAexhBW"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "0wTdAqanDZiEonTBUmBSQh",
+  "name": "Eric Harland",
+  "uri": "spotify:artist:0wTdAqanDZiEonTBUmBSQh",
+  "followers": {
+    "href": null,
+    "total": 9906
+  },
+  "genres": [
+    "contemporary jazz",
+    "jazz drums"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba22195d043fb933cabf6f936",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a22195d043fb933cabf6f936",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a22195d043fb933cabf6f936",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh"
+  }
+}

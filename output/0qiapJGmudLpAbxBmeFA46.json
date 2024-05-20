@@ -1,0 +1,33 @@
+{
+  "id": "0qiapJGmudLpAbxBmeFA46",
+  "name": "Peter A.G.",
+  "uri": "spotify:artist:0qiapJGmudLpAbxBmeFA46",
+  "followers": {
+    "href": null,
+    "total": 853
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ccbaa8e7b85102a9277385fa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ccbaa8e7b85102a9277385fa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ccbaa8e7b85102a9277385fa",
+      "width": 64
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0qiapJGmudLpAbxBmeFA46"
+  }
+}

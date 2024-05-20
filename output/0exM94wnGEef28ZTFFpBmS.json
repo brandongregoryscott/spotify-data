@@ -1,0 +1,33 @@
+{
+  "id": "0exM94wnGEef28ZTFFpBmS",
+  "name": "Featherpocket",
+  "uri": "spotify:artist:0exM94wnGEef28ZTFFpBmS",
+  "followers": {
+    "href": null,
+    "total": 224
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e2a28e260f63f65f10d0f38b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e2a28e260f63f65f10d0f38b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e2a28e260f63f65f10d0f38b",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0exM94wnGEef28ZTFFpBmS"
+  }
+}

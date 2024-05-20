@@ -1,0 +1,33 @@
+{
+  "id": "0kPTnFd23PM28ZOTBdXBK8",
+  "name": "Prima Materia",
+  "uri": "spotify:artist:0kPTnFd23PM28ZOTBdXBK8",
+  "followers": {
+    "href": null,
+    "total": 21
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ddc3bab0a1605e72205bf276",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ddc3bab0a1605e72205bf276",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ddc3bab0a1605e72205bf276",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0kPTnFd23PM28ZOTBdXBK8"
+  }
+}
