@@ -1,0 +1,35 @@
+{
+  "id": "2tI0jqFT5qiFp6GASa6k8R",
+  "name": "Fernández 4",
+  "uri": "spotify:artist:2tI0jqFT5qiFp6GASa6k8R",
+  "followers": {
+    "href": null,
+    "total": 10721
+  },
+  "genres": [
+    "argentine alternative rock",
+    "argentine indie",
+    "argentine jazz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb10d1a37a098fca9b95362394",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517410d1a37a098fca9b95362394",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17810d1a37a098fca9b95362394",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R"
+  }
+}

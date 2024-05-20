@@ -1,0 +1,33 @@
+{
+  "id": "2beQ2sgZu9Yr4G8lCwZr8e",
+  "name": "Hanlim",
+  "uri": "spotify:artist:2beQ2sgZu9Yr4G8lCwZr8e",
+  "followers": {
+    "href": null,
+    "total": 250
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba3a7040da69002d0d7830500",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a3a7040da69002d0d7830500",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a3a7040da69002d0d7830500",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2beQ2sgZu9Yr4G8lCwZr8e"
+  }
+}

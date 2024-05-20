@@ -1,0 +1,33 @@
+{
+  "id": "2rxoFLPOOCxnMDdUBqL1qY",
+  "name": "Royal Horses",
+  "uri": "spotify:artist:2rxoFLPOOCxnMDdUBqL1qY",
+  "followers": {
+    "href": null,
+    "total": 860
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb32e13ff3d03b7179ab5884b5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517432e13ff3d03b7179ab5884b5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17832e13ff3d03b7179ab5884b5",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2rxoFLPOOCxnMDdUBqL1qY"
+  }
+}

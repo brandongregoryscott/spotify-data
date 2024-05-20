@@ -1,0 +1,33 @@
+{
+  "id": "2mBPEFLKEIQ5X3pJYiIlAj",
+  "name": "Cornelius Versa",
+  "uri": "spotify:artist:2mBPEFLKEIQ5X3pJYiIlAj",
+  "followers": {
+    "href": null,
+    "total": 250
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdf50bbb68dd03b07cd643e0f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174df50bbb68dd03b07cd643e0f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178df50bbb68dd03b07cd643e0f",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2mBPEFLKEIQ5X3pJYiIlAj"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2beQ1TGXLrS93qlmzzbXMR",
+  "name": "Los Rarxs",
+  "uri": "spotify:artist:2beQ1TGXLrS93qlmzzbXMR",
+  "followers": {
+    "href": null,
+    "total": 4186
+  },
+  "genres": [
+    "rap boricua"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdf6b34f82dfd09dd3cf38719",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174df6b34f82dfd09dd3cf38719",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178df6b34f82dfd09dd3cf38719",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2beQ1TGXLrS93qlmzzbXMR"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2eRgOreqz5MHUnghAoB0vs",
+  "name": "Дно",
+  "uri": "spotify:artist:2eRgOreqz5MHUnghAoB0vs",
+  "followers": {
+    "href": null,
+    "total": 868
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273408aa33d1a1355ec42cd7d58",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02408aa33d1a1355ec42cd7d58",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851408aa33d1a1355ec42cd7d58",
+      "width": 64
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2eRgOreqz5MHUnghAoB0vs"
+  }
+}

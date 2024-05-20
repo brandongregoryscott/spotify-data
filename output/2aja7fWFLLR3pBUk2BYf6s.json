@@ -1,0 +1,33 @@
+{
+  "id": "2aja7fWFLLR3pBUk2BYf6s",
+  "name": "Gyanma",
+  "uri": "spotify:artist:2aja7fWFLLR3pBUk2BYf6s",
+  "followers": {
+    "href": null,
+    "total": 5559
+  },
+  "genres": [
+    "rap boricua"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb96bc47ef89582c6ac801c82b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517496bc47ef89582c6ac801c82b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17896bc47ef89582c6ac801c82b",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s"
+  }
+}

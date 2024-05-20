@@ -1,0 +1,33 @@
+{
+  "id": "2qxZhFhW3LoxfSrXnm497e",
+  "name": "izdeb",
+  "uri": "spotify:artist:2qxZhFhW3LoxfSrXnm497e",
+  "followers": {
+    "href": null,
+    "total": 688
+  },
+  "genres": [
+    "polish alternative"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba957cb081f3ab53d7cd761f3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a957cb081f3ab53d7cd761f3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a957cb081f3ab53d7cd761f3",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2qxZhFhW3LoxfSrXnm497e"
+  }
+}
