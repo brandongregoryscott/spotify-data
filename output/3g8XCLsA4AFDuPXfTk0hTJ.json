@@ -1,0 +1,33 @@
+{
+  "id": "3g8XCLsA4AFDuPXfTk0hTJ",
+  "name": "John Collins McLaughlin",
+  "uri": "spotify:artist:3g8XCLsA4AFDuPXfTk0hTJ",
+  "followers": {
+    "href": null,
+    "total": 350
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebac283f1ea5436ecab484b5fc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ac283f1ea5436ecab484b5fc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ac283f1ea5436ecab484b5fc",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3g8XCLsA4AFDuPXfTk0hTJ"
+  }
+}

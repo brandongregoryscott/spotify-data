@@ -1,0 +1,33 @@
+{
+  "id": "3pFQzCzLlLddmVjX4OpEan",
+  "name": "The Dandelion",
+  "uri": "spotify:artist:3pFQzCzLlLddmVjX4OpEan",
+  "followers": {
+    "href": null,
+    "total": 1559
+  },
+  "genres": [
+    "psychedelic pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739ff2262e06d15175473cbb30",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029ff2262e06d15175473cbb30",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519ff2262e06d15175473cbb30",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3pFQzCzLlLddmVjX4OpEan"
+  }
+}

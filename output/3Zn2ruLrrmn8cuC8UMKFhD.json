@@ -1,0 +1,34 @@
+{
+  "id": "3Zn2ruLrrmn8cuC8UMKFhD",
+  "name": "Clown",
+  "uri": "spotify:artist:3Zn2ruLrrmn8cuC8UMKFhD",
+  "followers": {
+    "href": null,
+    "total": 1345
+  },
+  "genres": [
+    "alternative metalcore",
+    "rap metalcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebae567dd3e25494448cfa51c2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ae567dd3e25494448cfa51c2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ae567dd3e25494448cfa51c2",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Zn2ruLrrmn8cuC8UMKFhD"
+  }
+}

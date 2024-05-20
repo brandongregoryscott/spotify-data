@@ -1,0 +1,33 @@
+{
+  "id": "3kemLNRQTvPOTJvxsDA51Y",
+  "name": "Montgzzy",
+  "uri": "spotify:artist:3kemLNRQTvPOTJvxsDA51Y",
+  "followers": {
+    "href": null,
+    "total": 82
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf41697e9b59667dd6ee597bf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f41697e9b59667dd6ee597bf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f41697e9b59667dd6ee597bf",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3kemLNRQTvPOTJvxsDA51Y"
+  }
+}

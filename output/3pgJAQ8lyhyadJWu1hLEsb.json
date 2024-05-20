@@ -1,0 +1,33 @@
+{
+  "id": "3pgJAQ8lyhyadJWu1hLEsb",
+  "name": "Сверкай",
+  "uri": "spotify:artist:3pgJAQ8lyhyadJWu1hLEsb",
+  "followers": {
+    "href": null,
+    "total": 794
+  },
+  "genres": [
+    "russian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba3ac5f3c7d7b4334c5128d75",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a3ac5f3c7d7b4334c5128d75",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a3ac5f3c7d7b4334c5128d75",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3pgJAQ8lyhyadJWu1hLEsb"
+  }
+}

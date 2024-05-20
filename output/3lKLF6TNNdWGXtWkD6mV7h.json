@@ -1,0 +1,33 @@
+{
+  "id": "3lKLF6TNNdWGXtWkD6mV7h",
+  "name": "Nick Costa",
+  "uri": "spotify:artist:3lKLF6TNNdWGXtWkD6mV7h",
+  "followers": {
+    "href": null,
+    "total": 291
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf1e01122c2356847fbd8488e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f1e01122c2356847fbd8488e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f1e01122c2356847fbd8488e",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3lKLF6TNNdWGXtWkD6mV7h"
+  }
+}

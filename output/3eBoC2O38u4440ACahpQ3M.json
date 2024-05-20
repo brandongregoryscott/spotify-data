@@ -1,0 +1,33 @@
+{
+  "id": "3eBoC2O38u4440ACahpQ3M",
+  "name": "The Kitch",
+  "uri": "spotify:artist:3eBoC2O38u4440ACahpQ3M",
+  "followers": {
+    "href": null,
+    "total": 81
+  },
+  "genres": [
+    "toronto indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d6db34c0762c7aa5bbfcaf0e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d6db34c0762c7aa5bbfcaf0e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d6db34c0762c7aa5bbfcaf0e",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3eBoC2O38u4440ACahpQ3M"
+  }
+}

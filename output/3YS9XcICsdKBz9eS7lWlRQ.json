@@ -1,0 +1,33 @@
+{
+  "id": "3YS9XcICsdKBz9eS7lWlRQ",
+  "name": "Airline",
+  "uri": "spotify:artist:3YS9XcICsdKBz9eS7lWlRQ",
+  "followers": {
+    "href": null,
+    "total": 110
+  },
+  "genres": [
+    "australian shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb49086c67444683fd7f27f6d8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517449086c67444683fd7f27f6d8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17849086c67444683fd7f27f6d8",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3YS9XcICsdKBz9eS7lWlRQ"
+  }
+}
