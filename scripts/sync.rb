@@ -27,14 +27,15 @@ def find_and_save_artists(artist_ids_chunk, attempt = 1)
 rescue RestClient::TooManyRequests, RestClient::ServiceUnavailable
   max_sleep_seconds = Float(2**attempt)
   sleep rand(0..max_sleep_seconds)
+  authenticate(rand(0..7))
   find_and_save_artists(artist_ids_chunk, attempt + 1) if attempt < MAX_RETRIES
 end
 
-def authenticate
+def authenticate(index = nil)
   client_ids = ENV['CLIENT_IDS'].split(',')
   client_secrets = ENV['CLIENT_SECRETS'].split(',')
 
-  secret_index = current_hour % 8
+  secret_index = index != nil ? index : current_hour % 8
 
   client_id = client_ids.at(secret_index) || client_ids.first
   client_secret = client_secrets.at(secret_index) || client_secrets.first
