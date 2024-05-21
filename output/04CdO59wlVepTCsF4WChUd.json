@@ -1,0 +1,33 @@
+{
+  "id": "04CdO59wlVepTCsF4WChUd",
+  "name": "free lotus",
+  "uri": "spotify:artist:04CdO59wlVepTCsF4WChUd",
+  "followers": {
+    "href": null,
+    "total": 91
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfacf019d77107daed53d66e1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174facf019d77107daed53d66e1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178facf019d77107daed53d66e1",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/04CdO59wlVepTCsF4WChUd"
+  }
+}

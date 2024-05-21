@@ -1,0 +1,36 @@
+{
+  "id": "00sAr10UTV1JZtHqxsLVn4",
+  "name": "Black Mountain",
+  "uri": "spotify:artist:00sAr10UTV1JZtHqxsLVn4",
+  "followers": {
+    "href": null,
+    "total": 117322
+  },
+  "genres": [
+    "canadian psychedelic rock",
+    "neo-psychedelic",
+    "stoner rock",
+    "vancouver indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb76239122a3f68c55f0d22a68",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517476239122a3f68c55f0d22a68",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17876239122a3f68c55f0d22a68",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4"
+  }
+}

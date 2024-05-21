@@ -1,0 +1,33 @@
+{
+  "id": "06wCgR1VZ44qtpYOvXsOrp",
+  "name": "MR 187",
+  "uri": "spotify:artist:06wCgR1VZ44qtpYOvXsOrp",
+  "followers": {
+    "href": null,
+    "total": 255
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734c789c0f91fd09ce694ede98",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024c789c0f91fd09ce694ede98",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514c789c0f91fd09ce694ede98",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/06wCgR1VZ44qtpYOvXsOrp"
+  }
+}
