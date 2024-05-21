@@ -1,0 +1,34 @@
+{
+  "id": "5lhCJq59jjElKSP0Tfbsbx",
+  "name": "ria",
+  "uri": "spotify:artist:5lhCJq59jjElKSP0Tfbsbx",
+  "followers": {
+    "href": null,
+    "total": 1185
+  },
+  "genres": [
+    "turkish hardcore",
+    "turkish punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb25538722e407b5fddf35240e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517425538722e407b5fddf35240e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17825538722e407b5fddf35240e",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5lhCJq59jjElKSP0Tfbsbx"
+  }
+}

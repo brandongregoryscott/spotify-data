@@ -1,0 +1,33 @@
+{
+  "id": "5bOCbA2WfZgcFQyT64V76q",
+  "name": "Narissa",
+  "uri": "spotify:artist:5bOCbA2WfZgcFQyT64V76q",
+  "followers": {
+    "href": null,
+    "total": 11618
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb485165eaedb5ac677e7394a5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174485165eaedb5ac677e7394a5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178485165eaedb5ac677e7394a5",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5bOCbA2WfZgcFQyT64V76q"
+  }
+}
