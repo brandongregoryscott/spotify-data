@@ -1,0 +1,33 @@
+{
+  "id": "4GfEnw0dFSSzB9M65k0dA1",
+  "name": "Verraco",
+  "uri": "spotify:artist:4GfEnw0dFSSzB9M65k0dA1",
+  "followers": {
+    "href": null,
+    "total": 5248
+  },
+  "genres": [
+    "colombian electronic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb8cfa8a63220c31b84d34726",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b8cfa8a63220c31b84d34726",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b8cfa8a63220c31b84d34726",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1"
+  }
+}
