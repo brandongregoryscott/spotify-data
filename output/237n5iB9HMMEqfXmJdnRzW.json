@@ -1,0 +1,33 @@
+{
+  "id": "237n5iB9HMMEqfXmJdnRzW",
+  "name": "FESTER",
+  "uri": "spotify:artist:237n5iB9HMMEqfXmJdnRzW",
+  "followers": {
+    "href": null,
+    "total": 465
+  },
+  "genres": [
+    "tearout"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb992ce0a638f3cba1f12ec72f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174992ce0a638f3cba1f12ec72f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178992ce0a638f3cba1f12ec72f",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/237n5iB9HMMEqfXmJdnRzW"
+  }
+}
