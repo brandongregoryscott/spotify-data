@@ -1,0 +1,33 @@
+{
+  "id": "4bqG9GQHeYmICon3JOTV9U",
+  "name": "Buhran",
+  "uri": "spotify:artist:4bqG9GQHeYmICon3JOTV9U",
+  "followers": {
+    "href": null,
+    "total": 544
+  },
+  "genres": [
+    "turkish punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb39f763a1cef11f5cb8973db1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517439f763a1cef11f5cb8973db1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17839f763a1cef11f5cb8973db1",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4bqG9GQHeYmICon3JOTV9U"
+  }
+}

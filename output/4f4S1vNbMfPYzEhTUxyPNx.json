@@ -1,0 +1,33 @@
+{
+  "id": "4f4S1vNbMfPYzEhTUxyPNx",
+  "name": "Odlaw",
+  "uri": "spotify:artist:4f4S1vNbMfPYzEhTUxyPNx",
+  "followers": {
+    "href": null,
+    "total": 261
+  },
+  "genres": [
+    "perth indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbdfb4e197180056dd55b347c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bdfb4e197180056dd55b347c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bdfb4e197180056dd55b347c",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4f4S1vNbMfPYzEhTUxyPNx"
+  }
+}
