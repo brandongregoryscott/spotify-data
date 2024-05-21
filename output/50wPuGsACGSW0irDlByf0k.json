@@ -1,0 +1,33 @@
+{
+  "id": "50wPuGsACGSW0irDlByf0k",
+  "name": "Mike Shure",
+  "uri": "spotify:artist:50wPuGsACGSW0irDlByf0k",
+  "followers": {
+    "href": null,
+    "total": 298
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd388b16536ccc92c0b385155",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d388b16536ccc92c0b385155",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d388b16536ccc92c0b385155",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/50wPuGsACGSW0irDlByf0k"
+  }
+}

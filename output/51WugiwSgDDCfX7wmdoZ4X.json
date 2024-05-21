@@ -1,0 +1,34 @@
+{
+  "id": "51WugiwSgDDCfX7wmdoZ4X",
+  "name": "Soso",
+  "uri": "spotify:artist:51WugiwSgDDCfX7wmdoZ4X",
+  "followers": {
+    "href": null,
+    "total": 716
+  },
+  "genres": [
+    "abstract hip hop",
+    "outer hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb943ccc97f7e86204ea55c849",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174943ccc97f7e86204ea55c849",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178943ccc97f7e86204ea55c849",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/51WugiwSgDDCfX7wmdoZ4X"
+  }
+}

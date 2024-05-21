@@ -1,0 +1,33 @@
+{
+  "id": "525Ir7vX6jX2qtbZwctBBE",
+  "name": "DYAN",
+  "uri": "spotify:artist:525Ir7vX6jX2qtbZwctBBE",
+  "followers": {
+    "href": null,
+    "total": 105
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd48a428fd2ccccc712a146ad",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d48a428fd2ccccc712a146ad",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d48a428fd2ccccc712a146ad",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/525Ir7vX6jX2qtbZwctBBE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4uTkTk20MIh9aiPEsZdsoE",
+  "name": "The Tiny",
+  "uri": "spotify:artist:4uTkTk20MIh9aiPEsZdsoE",
+  "followers": {
+    "href": null,
+    "total": 8932
+  },
+  "genres": [
+    "stockholm indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb400dad6de308953063632c4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b400dad6de308953063632c4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b400dad6de308953063632c4",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4uTkTk20MIh9aiPEsZdsoE"
+  }
+}
