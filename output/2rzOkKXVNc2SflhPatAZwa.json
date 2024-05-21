@@ -1,0 +1,33 @@
+{
+  "id": "2rzOkKXVNc2SflhPatAZwa",
+  "name": "THE RAZONES",
+  "uri": "spotify:artist:2rzOkKXVNc2SflhPatAZwa",
+  "followers": {
+    "href": null,
+    "total": 357
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb80530e8d183f07b8827c16ae",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517480530e8d183f07b8827c16ae",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17880530e8d183f07b8827c16ae",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2rzOkKXVNc2SflhPatAZwa"
+  }
+}

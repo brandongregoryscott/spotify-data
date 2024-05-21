@@ -1,0 +1,33 @@
+{
+  "id": "2jn1e7QgwRj0heztMlkvx3",
+  "name": "Newbury Park",
+  "uri": "spotify:artist:2jn1e7QgwRj0heztMlkvx3",
+  "followers": {
+    "href": null,
+    "total": 241
+  },
+  "genres": [
+    "jesus movement"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f3fb44db745b3dbc12c90ccb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f3fb44db745b3dbc12c90ccb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f3fb44db745b3dbc12c90ccb",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2jn1e7QgwRj0heztMlkvx3"
+  }
+}
