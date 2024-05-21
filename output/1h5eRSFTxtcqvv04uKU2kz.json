@@ -1,0 +1,33 @@
+{
+  "id": "1h5eRSFTxtcqvv04uKU2kz",
+  "name": "3AM",
+  "uri": "spotify:artist:1h5eRSFTxtcqvv04uKU2kz",
+  "followers": {
+    "href": null,
+    "total": 4904
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb046b7f13d2257f03e0d45ec2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174046b7f13d2257f03e0d45ec2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178046b7f13d2257f03e0d45ec2",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1h5eRSFTxtcqvv04uKU2kz"
+  }
+}

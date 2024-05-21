@@ -1,0 +1,33 @@
+{
+  "id": "1syxDGKoo8WOPNsv20bUP5",
+  "name": "8NTNOWAY",
+  "uri": "spotify:artist:1syxDGKoo8WOPNsv20bUP5",
+  "followers": {
+    "href": null,
+    "total": 248
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb47d5eec9db709f740d73c1f6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517447d5eec9db709f740d73c1f6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17847d5eec9db709f740d73c1f6",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1syxDGKoo8WOPNsv20bUP5"
+  }
+}

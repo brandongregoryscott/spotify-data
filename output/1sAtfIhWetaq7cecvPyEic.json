@@ -1,0 +1,33 @@
+{
+  "id": "1sAtfIhWetaq7cecvPyEic",
+  "name": "Bükük Taso",
+  "uri": "spotify:artist:1sAtfIhWetaq7cecvPyEic",
+  "followers": {
+    "href": null,
+    "total": 1430
+  },
+  "genres": [
+    "turkish punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebedba8df44daecf7e792e31ec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174edba8df44daecf7e792e31ec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178edba8df44daecf7e792e31ec",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1sAtfIhWetaq7cecvPyEic"
+  }
+}
