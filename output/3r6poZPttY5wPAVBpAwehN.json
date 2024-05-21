@@ -1,0 +1,35 @@
+{
+  "id": "3r6poZPttY5wPAVBpAwehN",
+  "name": "IDEGEN",
+  "uri": "spotify:artist:3r6poZPttY5wPAVBpAwehN",
+  "followers": {
+    "href": null,
+    "total": 1160
+  },
+  "genres": [
+    "hungarian indie",
+    "hungarian rock",
+    "magyar alternative"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebab506ce652a34ed842770761",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ab506ce652a34ed842770761",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ab506ce652a34ed842770761",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3r6poZPttY5wPAVBpAwehN"
+  }
+}

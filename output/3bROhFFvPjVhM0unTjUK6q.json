@@ -1,0 +1,33 @@
+{
+  "id": "3bROhFFvPjVhM0unTjUK6q",
+  "name": "Realygust",
+  "uri": "spotify:artist:3bROhFFvPjVhM0unTjUK6q",
+  "followers": {
+    "href": null,
+    "total": 1120
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb0656cc9497af9d1c2bbb712",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b0656cc9497af9d1c2bbb712",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b0656cc9497af9d1c2bbb712",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3bROhFFvPjVhM0unTjUK6q"
+  }
+}

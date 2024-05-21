@@ -1,0 +1,33 @@
+{
+  "id": "3jQuSUrUdCaG46wcxu0ATZ",
+  "name": "Kartala",
+  "uri": "spotify:artist:3jQuSUrUdCaG46wcxu0ATZ",
+  "followers": {
+    "href": null,
+    "total": 170
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb31986f5d154e8c9b60ca64c7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517431986f5d154e8c9b60ca64c7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17831986f5d154e8c9b60ca64c7",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3jQuSUrUdCaG46wcxu0ATZ"
+  }
+}
