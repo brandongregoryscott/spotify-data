@@ -1,0 +1,33 @@
+{
+  "id": "6clDcwiDIA1qSJXv36CFYY",
+  "name": "JAPPH",
+  "uri": "spotify:artist:6clDcwiDIA1qSJXv36CFYY",
+  "followers": {
+    "href": null,
+    "total": 132
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb12354916a5aedc40a6e352d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b12354916a5aedc40a6e352d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b12354916a5aedc40a6e352d",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6clDcwiDIA1qSJXv36CFYY"
+  }
+}

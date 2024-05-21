@@ -1,0 +1,33 @@
+{
+  "id": "6URFeH3cWWv6tj2RazL9IP",
+  "name": "Bob Baldwin",
+  "uri": "spotify:artist:6URFeH3cWWv6tj2RazL9IP",
+  "followers": {
+    "href": null,
+    "total": 45359
+  },
+  "genres": [
+    "smooth jazz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb88204641b41927b33a00d9e7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517488204641b41927b33a00d9e7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17888204641b41927b33a00d9e7",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP"
+  }
+}
