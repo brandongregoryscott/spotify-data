@@ -1,0 +1,33 @@
+{
+  "id": "7vmPMgMgEfADh0OqICwLyS",
+  "name": "Def Dee",
+  "uri": "spotify:artist:7vmPMgMgEfADh0OqICwLyS",
+  "followers": {
+    "href": null,
+    "total": 719
+  },
+  "genres": [
+    "abstract beats"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb908bccce845dbe583851b9a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b908bccce845dbe583851b9a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b908bccce845dbe583851b9a",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7vmPMgMgEfADh0OqICwLyS"
+  }
+}
