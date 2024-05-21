@@ -1,0 +1,33 @@
+{
+  "id": "2THOJHUP7LHWmJh2WMhsYv",
+  "name": "Shormey",
+  "uri": "spotify:artist:2THOJHUP7LHWmJh2WMhsYv",
+  "followers": {
+    "href": null,
+    "total": 1276
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3c0a4eebd1a6f19756458d2d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051743c0a4eebd1a6f19756458d2d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1783c0a4eebd1a6f19756458d2d",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2THOJHUP7LHWmJh2WMhsYv"
+  }
+}

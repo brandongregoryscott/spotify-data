@@ -1,0 +1,33 @@
+{
+  "id": "2POYq65ujfjrWbrRqr9Ciw",
+  "name": "Medejin",
+  "uri": "spotify:artist:2POYq65ujfjrWbrRqr9Ciw",
+  "followers": {
+    "href": null,
+    "total": 443
+  },
+  "genres": [
+    "cascadia shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb05ddeb3027026bf628861fdf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517405ddeb3027026bf628861fdf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17805ddeb3027026bf628861fdf",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2POYq65ujfjrWbrRqr9Ciw"
+  }
+}
