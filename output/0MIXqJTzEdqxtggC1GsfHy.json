@@ -1,0 +1,33 @@
+{
+  "id": "0MIXqJTzEdqxtggC1GsfHy",
+  "name": "Amulet",
+  "uri": "spotify:artist:0MIXqJTzEdqxtggC1GsfHy",
+  "followers": {
+    "href": null,
+    "total": 864
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb873b5652d31228cf72360896",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174873b5652d31228cf72360896",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178873b5652d31228cf72360896",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0MIXqJTzEdqxtggC1GsfHy"
+  }
+}

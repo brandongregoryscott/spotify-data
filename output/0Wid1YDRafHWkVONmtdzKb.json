@@ -1,0 +1,33 @@
+{
+  "id": "0Wid1YDRafHWkVONmtdzKb",
+  "name": "The Bingers",
+  "uri": "spotify:artist:0Wid1YDRafHWkVONmtdzKb",
+  "followers": {
+    "href": null,
+    "total": 465
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe8ae1c9281a4e1e96aa93b14",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e8ae1c9281a4e1e96aa93b14",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e8ae1c9281a4e1e96aa93b14",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Wid1YDRafHWkVONmtdzKb"
+  }
+}
