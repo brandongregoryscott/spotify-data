@@ -1,0 +1,33 @@
+{
+  "id": "2x6P7Q4ZzUuxqigr09N3te",
+  "name": "HELA",
+  "uri": "spotify:artist:2x6P7Q4ZzUuxqigr09N3te",
+  "followers": {
+    "href": null,
+    "total": 1342
+  },
+  "genres": [
+    "tearout"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb072d9aa2b4f4538559db64ab",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174072d9aa2b4f4538559db64ab",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178072d9aa2b4f4538559db64ab",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2x6P7Q4ZzUuxqigr09N3te"
+  }
+}
