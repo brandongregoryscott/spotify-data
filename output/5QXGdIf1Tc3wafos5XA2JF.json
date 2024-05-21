@@ -1,0 +1,33 @@
+{
+  "id": "5QXGdIf1Tc3wafos5XA2JF",
+  "name": "B. Bilbo",
+  "uri": "spotify:artist:5QXGdIf1Tc3wafos5XA2JF",
+  "followers": {
+    "href": null,
+    "total": 1103
+  },
+  "genres": [
+    "german jazz rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb997d4440471c2c1fc9fc0952",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174997d4440471c2c1fc9fc0952",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178997d4440471c2c1fc9fc0952",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5QXGdIf1Tc3wafos5XA2JF"
+  }
+}
