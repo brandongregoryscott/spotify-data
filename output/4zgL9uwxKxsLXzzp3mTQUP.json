@@ -1,0 +1,33 @@
+{
+  "id": "4zgL9uwxKxsLXzzp3mTQUP",
+  "name": "Aluxunder",
+  "uri": "spotify:artist:4zgL9uwxKxsLXzzp3mTQUP",
+  "followers": {
+    "href": null,
+    "total": 5
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d967e60908f2a1a1262e7ee8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d967e60908f2a1a1262e7ee8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d967e60908f2a1a1262e7ee8",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4zgL9uwxKxsLXzzp3mTQUP"
+  }
+}
