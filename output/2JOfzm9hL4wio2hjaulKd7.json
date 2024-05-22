@@ -1,0 +1,33 @@
+{
+  "id": "2JOfzm9hL4wio2hjaulKd7",
+  "name": "Niño Naranja",
+  "uri": "spotify:artist:2JOfzm9hL4wio2hjaulKd7",
+  "followers": {
+    "href": null,
+    "total": 143
+  },
+  "genres": [
+    "latin shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273545bacc580252c970b93a8cd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02545bacc580252c970b93a8cd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851545bacc580252c970b93a8cd",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2JOfzm9hL4wio2hjaulKd7"
+  }
+}
