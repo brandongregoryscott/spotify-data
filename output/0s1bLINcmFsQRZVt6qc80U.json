@@ -1,0 +1,34 @@
+{
+  "id": "0s1bLINcmFsQRZVt6qc80U",
+  "name": "Ék",
+  "uri": "spotify:artist:0s1bLINcmFsQRZVt6qc80U",
+  "followers": {
+    "href": null,
+    "total": 921
+  },
+  "genres": [
+    "hungarian rock",
+    "magyar alternative"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb465938ace76fe3451da9cf38",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174465938ace76fe3451da9cf38",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178465938ace76fe3451da9cf38",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0s1bLINcmFsQRZVt6qc80U"
+  }
+}

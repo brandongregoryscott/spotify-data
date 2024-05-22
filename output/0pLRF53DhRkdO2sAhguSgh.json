@@ -1,0 +1,33 @@
+{
+  "id": "0pLRF53DhRkdO2sAhguSgh",
+  "name": "bucareste",
+  "uri": "spotify:artist:0pLRF53DhRkdO2sAhguSgh",
+  "followers": {
+    "href": null,
+    "total": 152
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcd5dc0e4a2caf81c757aeb8a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cd5dc0e4a2caf81c757aeb8a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cd5dc0e4a2caf81c757aeb8a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0pLRF53DhRkdO2sAhguSgh"
+  }
+}
