@@ -1,0 +1,33 @@
+{
+  "id": "78CkUkpoNpLZbnIOv00M6Q",
+  "name": "2DCAT",
+  "uri": "spotify:artist:78CkUkpoNpLZbnIOv00M6Q",
+  "followers": {
+    "href": null,
+    "total": 23917
+  },
+  "genres": [
+    "spacewave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaf36cc72e922af55cac68343",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174af36cc72e922af55cac68343",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178af36cc72e922af55cac68343",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/78CkUkpoNpLZbnIOv00M6Q"
+  }
+}

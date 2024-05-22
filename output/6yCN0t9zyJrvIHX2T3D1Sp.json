@@ -1,0 +1,33 @@
+{
+  "id": "6yCN0t9zyJrvIHX2T3D1Sp",
+  "name": "Lovely Company",
+  "uri": "spotify:artist:6yCN0t9zyJrvIHX2T3D1Sp",
+  "followers": {
+    "href": null,
+    "total": 215
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba8ea5de993a1705e3dcb706b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a8ea5de993a1705e3dcb706b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a8ea5de993a1705e3dcb706b",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6yCN0t9zyJrvIHX2T3D1Sp"
+  }
+}
