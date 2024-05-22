@@ -1,0 +1,33 @@
+{
+  "id": "23aD0X5Xc9iIvy9ChmNYbI",
+  "name": "gush",
+  "uri": "spotify:artist:23aD0X5Xc9iIvy9ChmNYbI",
+  "followers": {
+    "href": null,
+    "total": 207
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb69ed5473903298fa37fba2ef",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517469ed5473903298fa37fba2ef",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17869ed5473903298fa37fba2ef",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/23aD0X5Xc9iIvy9ChmNYbI"
+  }
+}
