@@ -1,0 +1,34 @@
+{
+  "id": "1tBxo7zs1XFMIY5xbLn3Px",
+  "name": "Zé Cafofinho",
+  "uri": "spotify:artist:1tBxo7zs1XFMIY5xbLn3Px",
+  "followers": {
+    "href": null,
+    "total": 2088
+  },
+  "genres": [
+    "manguebeat",
+    "nova musica pernambucana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe905ba34d646e7c1bb0937fe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e905ba34d646e7c1bb0937fe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e905ba34d646e7c1bb0937fe",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1tBxo7zs1XFMIY5xbLn3Px"
+  }
+}
