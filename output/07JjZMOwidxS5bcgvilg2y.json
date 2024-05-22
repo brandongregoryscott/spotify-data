@@ -1,0 +1,33 @@
+{
+  "id": "07JjZMOwidxS5bcgvilg2y",
+  "name": "ROE",
+  "uri": "spotify:artist:07JjZMOwidxS5bcgvilg2y",
+  "followers": {
+    "href": null,
+    "total": 7960
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb942f190eabf3042278f0a456",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174942f190eabf3042278f0a456",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178942f190eabf3042278f0a456",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07JjZMOwidxS5bcgvilg2y"
+  }
+}

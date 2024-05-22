@@ -1,0 +1,33 @@
+{
+  "id": "04gRillxC1sJymrotmx1r0",
+  "name": "Rivero",
+  "uri": "spotify:artist:04gRillxC1sJymrotmx1r0",
+  "followers": {
+    "href": null,
+    "total": 181
+  },
+  "genres": [
+    "rap tico"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb547365394a602a814f0def41",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174547365394a602a814f0def41",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178547365394a602a814f0def41",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/04gRillxC1sJymrotmx1r0"
+  }
+}

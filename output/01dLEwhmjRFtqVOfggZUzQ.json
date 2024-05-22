@@ -1,0 +1,33 @@
+{
+  "id": "01dLEwhmjRFtqVOfggZUzQ",
+  "name": "The Glad Machine",
+  "uri": "spotify:artist:01dLEwhmjRFtqVOfggZUzQ",
+  "followers": {
+    "href": null,
+    "total": 528
+  },
+  "genres": [
+    "modern power pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba3fc09982993eabca6e62ac4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a3fc09982993eabca6e62ac4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a3fc09982993eabca6e62ac4",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01dLEwhmjRFtqVOfggZUzQ"
+  }
+}
