@@ -1,0 +1,33 @@
+{
+  "id": "5PgXShpmYjdGFMXDcLo9YW",
+  "name": "Kurts",
+  "uri": "spotify:artist:5PgXShpmYjdGFMXDcLo9YW",
+  "followers": {
+    "href": null,
+    "total": 2326
+  },
+  "genres": [
+    "latvian hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb796613ec715e415560e2d023",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174796613ec715e415560e2d023",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178796613ec715e415560e2d023",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5PgXShpmYjdGFMXDcLo9YW"
+  }
+}
