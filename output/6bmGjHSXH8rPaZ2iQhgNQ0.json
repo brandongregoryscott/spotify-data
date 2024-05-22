@@ -1,0 +1,34 @@
+{
+  "id": "6bmGjHSXH8rPaZ2iQhgNQ0",
+  "name": "Telltale",
+  "uri": "spotify:artist:6bmGjHSXH8rPaZ2iQhgNQ0",
+  "followers": {
+    "href": null,
+    "total": 19234
+  },
+  "genres": [
+    "pop punk",
+    "rva indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc8861fb8101ad91fc414405f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c8861fb8101ad91fc414405f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c8861fb8101ad91fc414405f",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0"
+  }
+}
