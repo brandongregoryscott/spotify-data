@@ -1,0 +1,33 @@
+{
+  "id": "5myQjGhFKnFRmuZl1GRcda",
+  "name": "ReyBenz",
+  "uri": "spotify:artist:5myQjGhFKnFRmuZl1GRcda",
+  "followers": {
+    "href": null,
+    "total": 151
+  },
+  "genres": [
+    "panamanian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb116abfcf141f8d8d62133e94",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174116abfcf141f8d8d62133e94",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178116abfcf141f8d8d62133e94",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5myQjGhFKnFRmuZl1GRcda"
+  }
+}
