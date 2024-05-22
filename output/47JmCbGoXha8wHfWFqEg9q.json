@@ -1,0 +1,33 @@
+{
+  "id": "47JmCbGoXha8wHfWFqEg9q",
+  "name": "Tripper",
+  "uri": "spotify:artist:47JmCbGoXha8wHfWFqEg9q",
+  "followers": {
+    "href": null,
+    "total": 127
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb443d8abca2230b39410305b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b443d8abca2230b39410305b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b443d8abca2230b39410305b",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/47JmCbGoXha8wHfWFqEg9q"
+  }
+}
