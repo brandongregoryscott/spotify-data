@@ -1,0 +1,33 @@
+{
+  "id": "3cdLEtr3CwhykWMIQUzdRX",
+  "name": "The Sideways",
+  "uri": "spotify:artist:3cdLEtr3CwhykWMIQUzdRX",
+  "followers": {
+    "href": null,
+    "total": 547
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb72cc8dc0f5c6aa2d660ddefa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517472cc8dc0f5c6aa2d660ddefa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17872cc8dc0f5c6aa2d660ddefa",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3cdLEtr3CwhykWMIQUzdRX"
+  }
+}
