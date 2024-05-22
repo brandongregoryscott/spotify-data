@@ -1,0 +1,33 @@
+{
+  "id": "1WF3LvCZG7G2VtVy3vfU9B",
+  "name": "MJT the Band",
+  "uri": "spotify:artist:1WF3LvCZG7G2VtVy3vfU9B",
+  "followers": {
+    "href": null,
+    "total": 407
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb8a41630fcc8046865370a30",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b8a41630fcc8046865370a30",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b8a41630fcc8046865370a30",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1WF3LvCZG7G2VtVy3vfU9B"
+  }
+}
