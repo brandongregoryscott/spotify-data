@@ -1,0 +1,33 @@
+{
+  "id": "7khIzQpPNEFxg3IolAP7F2",
+  "name": "Särmä",
+  "uri": "spotify:artist:7khIzQpPNEFxg3IolAP7F2",
+  "followers": {
+    "href": null,
+    "total": 256
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbf0e9558d0891fb622b53089",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bf0e9558d0891fb622b53089",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bf0e9558d0891fb622b53089",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7khIzQpPNEFxg3IolAP7F2"
+  }
+}

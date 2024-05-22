@@ -4,12 +4,13 @@
   "uri": "spotify:artist:7skjJzEym3TvOGR4pqtqkP",
   "followers": {
     "href": null,
-    "total": 10917
+    "total": 10924
   },
   "genres": [
     "math rock",
     "noise rock",
-    "post-hardcore"
+    "post-hardcore",
+    "slowcore"
   ],
   "images": [
     {
@@ -33,7 +34,7 @@
       "width": 64
     }
   ],
-  "popularity": 15,
+  "popularity": 16,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/7skjJzEym3TvOGR4pqtqkP"
   }

@@ -1,0 +1,37 @@
+{
+  "id": "7l2wptrNdI4wEHxTlWa6SS",
+  "name": "Fidel Nadal",
+  "uri": "spotify:artist:7l2wptrNdI4wEHxTlWa6SS",
+  "followers": {
+    "href": null,
+    "total": 367731
+  },
+  "genres": [
+    "argentine reggae",
+    "argentine rock",
+    "latin alternative",
+    "mexican rock",
+    "rock en espanol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbd9dce183403e074ab4609f4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bd9dce183403e074ab4609f4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bd9dce183403e074ab4609f4",
+      "width": 160
+    }
+  ],
+  "popularity": 43,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+  }
+}

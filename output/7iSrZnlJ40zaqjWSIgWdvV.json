@@ -1,0 +1,33 @@
+{
+  "id": "7iSrZnlJ40zaqjWSIgWdvV",
+  "name": "J.Pool",
+  "uri": "spotify:artist:7iSrZnlJ40zaqjWSIgWdvV",
+  "followers": {
+    "href": null,
+    "total": 9000
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe28ee9a24b44877e3a8abef8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e28ee9a24b44877e3a8abef8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e28ee9a24b44877e3a8abef8",
+      "width": 160
+    }
+  ],
+  "popularity": 34,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7iSrZnlJ40zaqjWSIgWdvV"
+  }
+}
