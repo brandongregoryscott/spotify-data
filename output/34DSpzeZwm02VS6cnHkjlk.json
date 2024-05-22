@@ -1,0 +1,33 @@
+{
+  "id": "34DSpzeZwm02VS6cnHkjlk",
+  "name": "JiV",
+  "uri": "spotify:artist:34DSpzeZwm02VS6cnHkjlk",
+  "followers": {
+    "href": null,
+    "total": 730
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb281bc3a20f98a7754e85fb59",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174281bc3a20f98a7754e85fb59",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178281bc3a20f98a7754e85fb59",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/34DSpzeZwm02VS6cnHkjlk"
+  }
+}
