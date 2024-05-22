@@ -1,0 +1,33 @@
+{
+  "id": "0bVCEpo3hWU7NQpxeocdEK",
+  "name": "C'est La",
+  "uri": "spotify:artist:0bVCEpo3hWU7NQpxeocdEK",
+  "followers": {
+    "href": null,
+    "total": 121
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb349f87fd4c819ef73411d3d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b349f87fd4c819ef73411d3d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b349f87fd4c819ef73411d3d",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0bVCEpo3hWU7NQpxeocdEK"
+  }
+}
