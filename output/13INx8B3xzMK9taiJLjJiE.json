@@ -1,0 +1,33 @@
+{
+  "id": "13INx8B3xzMK9taiJLjJiE",
+  "name": "Los Vegas",
+  "uri": "spotify:artist:13INx8B3xzMK9taiJLjJiE",
+  "followers": {
+    "href": null,
+    "total": 304
+  },
+  "genres": [
+    "panamanian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcb6b651ec6b9e09f2599860b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cb6b651ec6b9e09f2599860b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cb6b651ec6b9e09f2599860b",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/13INx8B3xzMK9taiJLjJiE"
+  }
+}
