@@ -1,0 +1,33 @@
+{
+  "id": "4QHZLjrKBBSwEi4ura8YRf",
+  "name": "Dan Vapid",
+  "uri": "spotify:artist:4QHZLjrKBBSwEi4ura8YRf",
+  "followers": {
+    "href": null,
+    "total": 781
+  },
+  "genres": [
+    "diy pop punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273006b0b56cc94dfab3bad1e40",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02006b0b56cc94dfab3bad1e40",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851006b0b56cc94dfab3bad1e40",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4QHZLjrKBBSwEi4ura8YRf"
+  }
+}
