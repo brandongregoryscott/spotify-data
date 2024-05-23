@@ -1,0 +1,33 @@
+{
+  "id": "0XdKNCK3d9w1X62yOXxEwU",
+  "name": "Tainted",
+  "uri": "spotify:artist:0XdKNCK3d9w1X62yOXxEwU",
+  "followers": {
+    "href": null,
+    "total": 258
+  },
+  "genres": [
+    "nz metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734e60fbfe03760642d07fa4c2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024e60fbfe03760642d07fa4c2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514e60fbfe03760642d07fa4c2",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0XdKNCK3d9w1X62yOXxEwU"
+  }
+}
