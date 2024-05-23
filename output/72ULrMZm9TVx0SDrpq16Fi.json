@@ -1,0 +1,33 @@
+{
+  "id": "72ULrMZm9TVx0SDrpq16Fi",
+  "name": "Starletta",
+  "uri": "spotify:artist:72ULrMZm9TVx0SDrpq16Fi",
+  "followers": {
+    "href": null,
+    "total": 13838
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebca0d5d1c81df15289123931c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ca0d5d1c81df15289123931c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ca0d5d1c81df15289123931c",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/72ULrMZm9TVx0SDrpq16Fi"
+  }
+}
