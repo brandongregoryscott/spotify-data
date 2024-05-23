@@ -1,0 +1,33 @@
+{
+  "id": "1MVBKaOHeQDc4bt64MKyHR",
+  "name": "Ketiov",
+  "uri": "spotify:artist:1MVBKaOHeQDc4bt64MKyHR",
+  "followers": {
+    "href": null,
+    "total": 1033
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb69ff9067e816d81d14e798cc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517469ff9067e816d81d14e798cc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17869ff9067e816d81d14e798cc",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1MVBKaOHeQDc4bt64MKyHR"
+  }
+}

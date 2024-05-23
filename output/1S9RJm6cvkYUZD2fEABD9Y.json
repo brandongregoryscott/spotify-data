@@ -1,0 +1,33 @@
+{
+  "id": "1S9RJm6cvkYUZD2fEABD9Y",
+  "name": "Tearjerker",
+  "uri": "spotify:artist:1S9RJm6cvkYUZD2fEABD9Y",
+  "followers": {
+    "href": null,
+    "total": 290
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbafd109fd18ad8abda272439",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bafd109fd18ad8abda272439",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bafd109fd18ad8abda272439",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1S9RJm6cvkYUZD2fEABD9Y"
+  }
+}
