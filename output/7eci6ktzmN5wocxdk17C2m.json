@@ -1,0 +1,33 @@
+{
+  "id": "7eci6ktzmN5wocxdk17C2m",
+  "name": "Sleepr Cell",
+  "uri": "spotify:artist:7eci6ktzmN5wocxdk17C2m",
+  "followers": {
+    "href": null,
+    "total": 339
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273daf78df11e28d28457e5ccb6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02daf78df11e28d28457e5ccb6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851daf78df11e28d28457e5ccb6",
+      "width": 64
+    }
+  ],
+  "popularity": 41,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "79A0IUxQD9skV7LVjPq53s",
+  "name": "Oceano",
+  "uri": "spotify:artist:79A0IUxQD9skV7LVjPq53s",
+  "followers": {
+    "href": null,
+    "total": 168023
+  },
+  "genres": [
+    "deathcore",
+    "djent",
+    "melodic metalcore",
+    "metalcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb818bf25b45f7af469bdec58",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b818bf25b45f7af469bdec58",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b818bf25b45f7af469bdec58",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s"
+  }
+}
