@@ -1,0 +1,33 @@
+{
+  "id": "012TjbeOjK4VEX47cRUN29",
+  "name": "Scotty Dub",
+  "uri": "spotify:artist:012TjbeOjK4VEX47cRUN29",
+  "followers": {
+    "href": null,
+    "total": 114
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb265652e6d7c4116185577207",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174265652e6d7c4116185577207",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178265652e6d7c4116185577207",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/012TjbeOjK4VEX47cRUN29"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0A5sCOcNtMRg1oaU7XpsPR",
+  "name": "cr1tter",
+  "uri": "spotify:artist:0A5sCOcNtMRg1oaU7XpsPR",
+  "followers": {
+    "href": null,
+    "total": 26330
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb76e9f1e959287ebe634e05f6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517476e9f1e959287ebe634e05f6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17876e9f1e959287ebe634e05f6",
+      "width": 160
+    }
+  ],
+  "popularity": 44,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0A5sCOcNtMRg1oaU7XpsPR"
+  }
+}
