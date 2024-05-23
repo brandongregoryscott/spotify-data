@@ -1,0 +1,33 @@
+{
+  "id": "2NJZShOescj4yIvO1d4yiV",
+  "name": "Kendal",
+  "uri": "spotify:artist:2NJZShOescj4yIvO1d4yiV",
+  "followers": {
+    "href": null,
+    "total": 9963
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebafd94823f65a73008273d4f7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174afd94823f65a73008273d4f7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178afd94823f65a73008273d4f7",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2NJZShOescj4yIvO1d4yiV"
+  }
+}
