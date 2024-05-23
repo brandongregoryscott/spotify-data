@@ -1,0 +1,33 @@
+{
+  "id": "35x6K8KrjFPh747A1M7GvR",
+  "name": "lucid",
+  "uri": "spotify:artist:35x6K8KrjFPh747A1M7GvR",
+  "followers": {
+    "href": null,
+    "total": 136
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb13ec2f5d017ee8378e3a9a1c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517413ec2f5d017ee8378e3a9a1c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17813ec2f5d017ee8378e3a9a1c",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/35x6K8KrjFPh747A1M7GvR"
+  }
+}

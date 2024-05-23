@@ -1,0 +1,33 @@
+{
+  "id": "2ydnYTPM94ynWNFRjiLDYB",
+  "name": "Noni",
+  "uri": "spotify:artist:2ydnYTPM94ynWNFRjiLDYB",
+  "followers": {
+    "href": null,
+    "total": 180
+  },
+  "genres": [
+    "trap boliviano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb05223e5828aa7fd651e0b7bc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517405223e5828aa7fd651e0b7bc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17805223e5828aa7fd651e0b7bc",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ydnYTPM94ynWNFRjiLDYB"
+  }
+}
