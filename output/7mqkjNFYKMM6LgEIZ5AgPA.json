@@ -1,0 +1,33 @@
+{
+  "id": "7mqkjNFYKMM6LgEIZ5AgPA",
+  "name": "Noemi Gyori",
+  "uri": "spotify:artist:7mqkjNFYKMM6LgEIZ5AgPA",
+  "followers": {
+    "href": null,
+    "total": 170
+  },
+  "genres": [
+    "classical flute"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb55a2cea7c49b165115a4bbc9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517455a2cea7c49b165115a4bbc9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17855a2cea7c49b165115a4bbc9",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7mqkjNFYKMM6LgEIZ5AgPA"
+  }
+}
