@@ -1,0 +1,33 @@
+{
+  "id": "6Y4SgUdlzTgSbmKba01ncJ",
+  "name": "The New Shining",
+  "uri": "spotify:artist:6Y4SgUdlzTgSbmKba01ncJ",
+  "followers": {
+    "href": null,
+    "total": 14463
+  },
+  "genres": [
+    "rotterdam indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb275b2c406fa36c3a6c7a1442",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174275b2c406fa36c3a6c7a1442",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178275b2c406fa36c3a6c7a1442",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Y4SgUdlzTgSbmKba01ncJ"
+  }
+}

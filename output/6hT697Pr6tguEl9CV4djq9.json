@@ -1,0 +1,33 @@
+{
+  "id": "6hT697Pr6tguEl9CV4djq9",
+  "name": "Now",
+  "uri": "spotify:artist:6hT697Pr6tguEl9CV4djq9",
+  "followers": {
+    "href": null,
+    "total": 200
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27377da238a80c5f3c2c0b885c5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0277da238a80c5f3c2c0b885c5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485177da238a80c5f3c2c0b885c5",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6hT697Pr6tguEl9CV4djq9"
+  }
+}
