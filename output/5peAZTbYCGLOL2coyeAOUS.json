@@ -1,0 +1,33 @@
+{
+  "id": "5peAZTbYCGLOL2coyeAOUS",
+  "name": "Venator",
+  "uri": "spotify:artist:5peAZTbYCGLOL2coyeAOUS",
+  "followers": {
+    "href": null,
+    "total": 6523
+  },
+  "genres": [
+    "nwothm"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0d050f37b5072233f04901dc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051740d050f37b5072233f04901dc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1780d050f37b5072233f04901dc",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5peAZTbYCGLOL2coyeAOUS"
+  }
+}
