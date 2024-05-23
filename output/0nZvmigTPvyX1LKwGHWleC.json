@@ -1,0 +1,33 @@
+{
+  "id": "0nZvmigTPvyX1LKwGHWleC",
+  "name": "Melody Fields",
+  "uri": "spotify:artist:0nZvmigTPvyX1LKwGHWleC",
+  "followers": {
+    "href": null,
+    "total": 1052
+  },
+  "genres": [
+    "gothenburg indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb2c2797055eb5c1cc28235bc3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051742c2797055eb5c1cc28235bc3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1782c2797055eb5c1cc28235bc3",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0nZvmigTPvyX1LKwGHWleC"
+  }
+}
