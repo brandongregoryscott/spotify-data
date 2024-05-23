@@ -1,0 +1,36 @@
+{
+  "id": "4MnZkh4dpNmTMPxkl4Ev5L",
+  "name": "Symphony X",
+  "uri": "spotify:artist:4MnZkh4dpNmTMPxkl4Ev5L",
+  "followers": {
+    "href": null,
+    "total": 265220
+  },
+  "genres": [
+    "neo classical metal",
+    "power metal",
+    "progressive metal",
+    "progressive power metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb54935264e9cf5607a3e98686",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517454935264e9cf5607a3e98686",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17854935264e9cf5607a3e98686",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4MnZkh4dpNmTMPxkl4Ev5L"
+  }
+}

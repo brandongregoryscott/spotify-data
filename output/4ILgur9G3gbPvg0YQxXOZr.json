@@ -1,0 +1,33 @@
+{
+  "id": "4ILgur9G3gbPvg0YQxXOZr",
+  "name": "Tony Jay",
+  "uri": "spotify:artist:4ILgur9G3gbPvg0YQxXOZr",
+  "followers": {
+    "href": null,
+    "total": 356
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb445766b83b2033e2a4c363ba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174445766b83b2033e2a4c363ba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178445766b83b2033e2a4c363ba",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4ILgur9G3gbPvg0YQxXOZr"
+  }
+}
