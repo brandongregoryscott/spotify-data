@@ -1,0 +1,33 @@
+{
+  "id": "3sBZ6NFwgh6f2uSJfr81sS",
+  "name": "Daniel Novello",
+  "uri": "spotify:artist:3sBZ6NFwgh6f2uSJfr81sS",
+  "followers": {
+    "href": null,
+    "total": 462
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb55816740f50b61b67d8a76e9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517455816740f50b61b67d8a76e9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17855816740f50b61b67d8a76e9",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3sBZ6NFwgh6f2uSJfr81sS"
+  }
+}

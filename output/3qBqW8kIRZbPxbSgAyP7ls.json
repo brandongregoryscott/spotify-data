@@ -1,0 +1,33 @@
+{
+  "id": "3qBqW8kIRZbPxbSgAyP7ls",
+  "name": "Alinka",
+  "uri": "spotify:artist:3qBqW8kIRZbPxbSgAyP7ls",
+  "followers": {
+    "href": null,
+    "total": 2665
+  },
+  "genres": [
+    "chicago house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebedc4b9c7a86d621a90a59dba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174edc4b9c7a86d621a90a59dba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178edc4b9c7a86d621a90a59dba",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls"
+  }
+}
