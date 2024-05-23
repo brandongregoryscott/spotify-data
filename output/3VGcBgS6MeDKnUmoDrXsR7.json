@@ -1,0 +1,33 @@
+{
+  "id": "3VGcBgS6MeDKnUmoDrXsR7",
+  "name": "veiiga",
+  "uri": "spotify:artist:3VGcBgS6MeDKnUmoDrXsR7",
+  "followers": {
+    "href": null,
+    "total": 68
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd1f85c7483360d1a816c3b90",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d1f85c7483360d1a816c3b90",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d1f85c7483360d1a816c3b90",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3VGcBgS6MeDKnUmoDrXsR7"
+  }
+}
