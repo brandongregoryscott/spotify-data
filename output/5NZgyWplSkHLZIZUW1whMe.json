@@ -1,0 +1,33 @@
+{
+  "id": "5NZgyWplSkHLZIZUW1whMe",
+  "name": "Muutpoint",
+  "uri": "spotify:artist:5NZgyWplSkHLZIZUW1whMe",
+  "followers": {
+    "href": null,
+    "total": 24
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e40cf736f76ab52990dfcbf8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e40cf736f76ab52990dfcbf8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e40cf736f76ab52990dfcbf8",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5NZgyWplSkHLZIZUW1whMe"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5OARByAqW6GrgZsAskJyzt",
+  "name": "Bootmann",
+  "uri": "spotify:artist:5OARByAqW6GrgZsAskJyzt",
+  "followers": {
+    "href": null,
+    "total": 103
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273931de5d2d1f5cb6b1a1dcb4d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02931de5d2d1f5cb6b1a1dcb4d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851931de5d2d1f5cb6b1a1dcb4d",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5OARByAqW6GrgZsAskJyzt"
+  }
+}
