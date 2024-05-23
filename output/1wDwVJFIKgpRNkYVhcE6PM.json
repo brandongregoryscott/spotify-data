@@ -1,0 +1,33 @@
+{
+  "id": "1wDwVJFIKgpRNkYVhcE6PM",
+  "name": "Todd Duane",
+  "uri": "spotify:artist:1wDwVJFIKgpRNkYVhcE6PM",
+  "followers": {
+    "href": null,
+    "total": 1355
+  },
+  "genres": [
+    "shred"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc1237f0ce55db7d5660ce8d8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c1237f0ce55db7d5660ce8d8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c1237f0ce55db7d5660ce8d8",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1wDwVJFIKgpRNkYVhcE6PM"
+  }
+}
