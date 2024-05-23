@@ -1,0 +1,33 @@
+{
+  "id": "1G0DoICczjBpWjARx4g1yO",
+  "name": "Kub0",
+  "uri": "spotify:artist:1G0DoICczjBpWjARx4g1yO",
+  "followers": {
+    "href": null,
+    "total": 1251
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf796d5ffd1737881a75005ed",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f796d5ffd1737881a75005ed",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f796d5ffd1737881a75005ed",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1G0DoICczjBpWjARx4g1yO"
+  }
+}

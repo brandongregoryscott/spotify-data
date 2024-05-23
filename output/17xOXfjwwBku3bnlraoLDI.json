@@ -1,0 +1,33 @@
+{
+  "id": "17xOXfjwwBku3bnlraoLDI",
+  "name": "Kind",
+  "uri": "spotify:artist:17xOXfjwwBku3bnlraoLDI",
+  "followers": {
+    "href": null,
+    "total": 353
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb17ab42ab6be8e9f5849f1116",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517417ab42ab6be8e9f5849f1116",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17817ab42ab6be8e9f5849f1116",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/17xOXfjwwBku3bnlraoLDI"
+  }
+}
