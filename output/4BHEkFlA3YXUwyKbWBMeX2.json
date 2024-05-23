@@ -1,0 +1,33 @@
+{
+  "id": "4BHEkFlA3YXUwyKbWBMeX2",
+  "name": "Whitehouse",
+  "uri": "spotify:artist:4BHEkFlA3YXUwyKbWBMeX2",
+  "followers": {
+    "href": null,
+    "total": 302
+  },
+  "genres": [
+    "trap boliviano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb76ef4fed2f16f7298fe306ca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517476ef4fed2f16f7298fe306ca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17876ef4fed2f16f7298fe306ca",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4BHEkFlA3YXUwyKbWBMeX2"
+  }
+}
