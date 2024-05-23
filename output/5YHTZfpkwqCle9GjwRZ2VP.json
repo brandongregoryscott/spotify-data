@@ -1,0 +1,33 @@
+{
+  "id": "5YHTZfpkwqCle9GjwRZ2VP",
+  "name": "Secret Chord",
+  "uri": "spotify:artist:5YHTZfpkwqCle9GjwRZ2VP",
+  "followers": {
+    "href": null,
+    "total": 477
+  },
+  "genres": [
+    "portuguese metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb65e46afb63e9d1a560f6973f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517465e46afb63e9d1a560f6973f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17865e46afb63e9d1a560f6973f",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5YHTZfpkwqCle9GjwRZ2VP"
+  }
+}

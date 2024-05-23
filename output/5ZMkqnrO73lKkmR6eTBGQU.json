@@ -1,0 +1,33 @@
+{
+  "id": "5ZMkqnrO73lKkmR6eTBGQU",
+  "name": "Lil Noodle",
+  "uri": "spotify:artist:5ZMkqnrO73lKkmR6eTBGQU",
+  "followers": {
+    "href": null,
+    "total": 19858
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebff32a9c0691610ee3e666f22",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ff32a9c0691610ee3e666f22",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ff32a9c0691610ee3e666f22",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ZMkqnrO73lKkmR6eTBGQU"
+  }
+}

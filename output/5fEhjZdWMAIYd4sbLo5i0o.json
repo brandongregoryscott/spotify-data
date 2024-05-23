@@ -1,0 +1,33 @@
+{
+  "id": "5fEhjZdWMAIYd4sbLo5i0o",
+  "name": "Sinistro",
+  "uri": "spotify:artist:5fEhjZdWMAIYd4sbLo5i0o",
+  "followers": {
+    "href": null,
+    "total": 4689
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732203f7cc3af7d545a4dd783e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022203f7cc3af7d545a4dd783e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512203f7cc3af7d545a4dd783e",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5fEhjZdWMAIYd4sbLo5i0o"
+  }
+}
