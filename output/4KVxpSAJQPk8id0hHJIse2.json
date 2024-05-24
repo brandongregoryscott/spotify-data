@@ -1,0 +1,34 @@
+{
+  "id": "4KVxpSAJQPk8id0hHJIse2",
+  "name": "Saucy Lady",
+  "uri": "spotify:artist:4KVxpSAJQPk8id0hHJIse2",
+  "followers": {
+    "href": null,
+    "total": 2381
+  },
+  "genres": [
+    "boogie",
+    "boston electronic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcf240dac1bda203df797c496",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cf240dac1bda203df797c496",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cf240dac1bda203df797c496",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4KVxpSAJQPk8id0hHJIse2"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4P2TFS9U65Hy2EKwcicwlR",
+  "name": "Kazuo Chiba",
+  "uri": "spotify:artist:4P2TFS9U65Hy2EKwcicwlR",
+  "followers": {
+    "href": null,
+    "total": 368
+  },
+  "genres": [
+    "enka"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb5a91a1342ad75fc321e63c5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b5a91a1342ad75fc321e63c5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b5a91a1342ad75fc321e63c5",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4P2TFS9U65Hy2EKwcicwlR"
+  }
+}

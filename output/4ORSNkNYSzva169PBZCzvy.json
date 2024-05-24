@@ -4,7 +4,7 @@
   "uri": "spotify:artist:4ORSNkNYSzva169PBZCzvy",
   "followers": {
     "href": null,
-    "total": 26748
+    "total": 26753
   },
   "genres": [
     "avant-garde jazz",
@@ -15,24 +15,19 @@
   ],
   "images": [
     {
-      "height": 1000,
-      "url": "https://i.scdn.co/image/193de1d524383a3a719adeb4f068c18a48ef666b",
-      "width": 1000
-    },
-    {
       "height": 640,
-      "url": "https://i.scdn.co/image/eb33f5625073a2d350b660647c0c16a5d8fd483f",
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7754ae87bd554a8923a1c086",
       "width": 640
     },
     {
-      "height": 200,
-      "url": "https://i.scdn.co/image/b12deee7635171cb633df0d0388e3258ae709f52",
-      "width": 200
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051747754ae87bd554a8923a1c086",
+      "width": 320
     },
     {
-      "height": 64,
-      "url": "https://i.scdn.co/image/4e2e791a11b2826af56f265fc15cc7d1eb5b09b2",
-      "width": 64
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1787754ae87bd554a8923a1c086",
+      "width": 160
     }
   ],
   "popularity": 20,
