@@ -1,0 +1,33 @@
+{
+  "id": "0rePTqHizLF8VrTM6kTkM9",
+  "name": "Big Rat",
+  "uri": "spotify:artist:0rePTqHizLF8VrTM6kTkM9",
+  "followers": {
+    "href": null,
+    "total": 645
+  },
+  "genres": [
+    "hard glam"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733c9862803edefc9aa68102cd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023c9862803edefc9aa68102cd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513c9862803edefc9aa68102cd",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0rePTqHizLF8VrTM6kTkM9"
+  }
+}
