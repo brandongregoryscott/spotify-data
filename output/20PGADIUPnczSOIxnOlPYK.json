@@ -1,0 +1,33 @@
+{
+  "id": "20PGADIUPnczSOIxnOlPYK",
+  "name": "V-APINA",
+  "uri": "spotify:artist:20PGADIUPnczSOIxnOlPYK",
+  "followers": {
+    "href": null,
+    "total": 110
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f3aa954e969660b7ef4637a0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f3aa954e969660b7ef4637a0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f3aa954e969660b7ef4637a0",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/20PGADIUPnczSOIxnOlPYK"
+  }
+}
