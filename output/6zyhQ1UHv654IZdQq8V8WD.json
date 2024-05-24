@@ -1,0 +1,33 @@
+{
+  "id": "6zyhQ1UHv654IZdQq8V8WD",
+  "name": "HANKNATIVE",
+  "uri": "spotify:artist:6zyhQ1UHv654IZdQq8V8WD",
+  "followers": {
+    "href": null,
+    "total": 2050
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb98c5215d62c26be816ec09a8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517498c5215d62c26be816ec09a8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17898c5215d62c26be816ec09a8",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6zyhQ1UHv654IZdQq8V8WD"
+  }
+}
