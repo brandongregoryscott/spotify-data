@@ -1,0 +1,33 @@
+{
+  "id": "5czmXgQDoJKBZK5koMCWgV",
+  "name": "Hiroshi Fujiwara",
+  "uri": "spotify:artist:5czmXgQDoJKBZK5koMCWgV",
+  "followers": {
+    "href": null,
+    "total": 378
+  },
+  "genres": [
+    "modern enka"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf83787ab23181662a51cf4cd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f83787ab23181662a51cf4cd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f83787ab23181662a51cf4cd",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5czmXgQDoJKBZK5koMCWgV"
+  }
+}

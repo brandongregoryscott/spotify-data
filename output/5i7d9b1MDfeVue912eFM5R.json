@@ -1,0 +1,33 @@
+{
+  "id": "5i7d9b1MDfeVue912eFM5R",
+  "name": "Pauke",
+  "uri": "spotify:artist:5i7d9b1MDfeVue912eFM5R",
+  "followers": {
+    "href": null,
+    "total": 16
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb488ded91b68c86a315a86c11",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174488ded91b68c86a315a86c11",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178488ded91b68c86a315a86c11",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5i7d9b1MDfeVue912eFM5R"
+  }
+}

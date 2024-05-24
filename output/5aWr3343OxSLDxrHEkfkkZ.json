@@ -1,0 +1,33 @@
+{
+  "id": "5aWr3343OxSLDxrHEkfkkZ",
+  "name": "Aupheus",
+  "uri": "spotify:artist:5aWr3343OxSLDxrHEkfkkZ",
+  "followers": {
+    "href": null,
+    "total": 241
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27398600d0ad47e9e431afc7fd2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0298600d0ad47e9e431afc7fd2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485198600d0ad47e9e431afc7fd2",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5aWr3343OxSLDxrHEkfkkZ"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5pNRn4dKMTDb2VMe7hTypC",
+  "name": "Brogan Smith",
+  "uri": "spotify:artist:5pNRn4dKMTDb2VMe7hTypC",
+  "followers": {
+    "href": null,
+    "total": 123
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb48793623ac3f12f37609c832",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517448793623ac3f12f37609c832",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17848793623ac3f12f37609c832",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5pNRn4dKMTDb2VMe7hTypC"
+  }
+}
