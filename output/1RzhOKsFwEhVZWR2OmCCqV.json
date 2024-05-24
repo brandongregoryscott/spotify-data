@@ -1,0 +1,33 @@
+{
+  "id": "1RzhOKsFwEhVZWR2OmCCqV",
+  "name": "Arizona Baby",
+  "uri": "spotify:artist:1RzhOKsFwEhVZWR2OmCCqV",
+  "followers": {
+    "href": null,
+    "total": 19421
+  },
+  "genres": [
+    "spanish indie pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb39ae8390ed2c959129f15bdc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517439ae8390ed2c959129f15bdc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17839ae8390ed2c959129f15bdc",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1RzhOKsFwEhVZWR2OmCCqV"
+  }
+}
