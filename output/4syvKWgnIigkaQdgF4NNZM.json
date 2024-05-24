@@ -1,0 +1,33 @@
+{
+  "id": "4syvKWgnIigkaQdgF4NNZM",
+  "name": "Gativideo",
+  "uri": "spotify:artist:4syvKWgnIigkaQdgF4NNZM",
+  "followers": {
+    "href": null,
+    "total": 23762
+  },
+  "genres": [
+    "argentine indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb00ef0768230eaa4d2a9a72d5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517400ef0768230eaa4d2a9a72d5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17800ef0768230eaa4d2a9a72d5",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4syvKWgnIigkaQdgF4NNZM"
+  }
+}
