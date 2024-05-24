@@ -1,0 +1,33 @@
+{
+  "id": "3GD1ojrwE0Oi69JuZyVEYJ",
+  "name": "Baron",
+  "uri": "spotify:artist:3GD1ojrwE0Oi69JuZyVEYJ",
+  "followers": {
+    "href": null,
+    "total": 783
+  },
+  "genres": [
+    "finnish hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb96c02f5af0f6c6f31ec6da35",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517496c02f5af0f6c6f31ec6da35",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17896c02f5af0f6c6f31ec6da35",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3GD1ojrwE0Oi69JuZyVEYJ"
+  }
+}
