@@ -1,0 +1,33 @@
+{
+  "id": "0AYDuNjFIgVLo7ndsl1RMI",
+  "name": "Josh Steers",
+  "uri": "spotify:artist:0AYDuNjFIgVLo7ndsl1RMI",
+  "followers": {
+    "href": null,
+    "total": 147
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcf3e9431f06d54db680d4290",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cf3e9431f06d54db680d4290",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cf3e9431f06d54db680d4290",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0AYDuNjFIgVLo7ndsl1RMI"
+  }
+}

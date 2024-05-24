@@ -1,0 +1,33 @@
+{
+  "id": "06iLrhwU6I1mKGFOeOS871",
+  "name": "Alphafox",
+  "uri": "spotify:artist:06iLrhwU6I1mKGFOeOS871",
+  "followers": {
+    "href": null,
+    "total": 685
+  },
+  "genres": [
+    "halftime dnb"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb61fd9392b326f06cfcb8df36",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517461fd9392b326f06cfcb8df36",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17861fd9392b326f06cfcb8df36",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/06iLrhwU6I1mKGFOeOS871"
+  }
+}
