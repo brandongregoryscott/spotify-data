@@ -1,0 +1,33 @@
+{
+  "id": "48AaMMKDQuDHOk16L5ug0O",
+  "name": "Martin",
+  "uri": "spotify:artist:48AaMMKDQuDHOk16L5ug0O",
+  "followers": {
+    "href": null,
+    "total": 34
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b5e73c11281e1b78bafaea8f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025382bbed13c8507c035ac9a3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515382bbed13c8507c035ac9a3",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/48AaMMKDQuDHOk16L5ug0O"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "47Q90hbpzShTWyi60e6uVN",
+  "name": "Los Coronas",
+  "uri": "spotify:artist:47Q90hbpzShTWyi60e6uVN",
+  "followers": {
+    "href": null,
+    "total": 13982
+  },
+  "genres": [
+    "latin surf rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebecaea8649b1229ee23c47d22",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ecaea8649b1229ee23c47d22",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ecaea8649b1229ee23c47d22",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/47Q90hbpzShTWyi60e6uVN"
+  }
+}
