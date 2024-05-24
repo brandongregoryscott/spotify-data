@@ -1,0 +1,33 @@
+{
+  "id": "5QtW5ZhAsPzCUqZYldTWCh",
+  "name": "Shuttle",
+  "uri": "spotify:artist:5QtW5ZhAsPzCUqZYldTWCh",
+  "followers": {
+    "href": null,
+    "total": 4783
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe736746f64e0da5338142b91",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e736746f64e0da5338142b91",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e736746f64e0da5338142b91",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5QtW5ZhAsPzCUqZYldTWCh"
+  }
+}
