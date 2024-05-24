@@ -1,0 +1,33 @@
+{
+  "id": "64P3oVFDjEkl2eoRslOESi",
+  "name": "Dmitri",
+  "uri": "spotify:artist:64P3oVFDjEkl2eoRslOESi",
+  "followers": {
+    "href": null,
+    "total": 206
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfc3622c22463dfe2473f8917",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fc3622c22463dfe2473f8917",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fc3622c22463dfe2473f8917",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/64P3oVFDjEkl2eoRslOESi"
+  }
+}
