@@ -1,0 +1,33 @@
+{
+  "id": "1FpYtw94TMuCE26A2Mk3zf",
+  "name": "Nova",
+  "uri": "spotify:artist:1FpYtw94TMuCE26A2Mk3zf",
+  "followers": {
+    "href": null,
+    "total": 214
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba14cb964ac014b81627aa892",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a14cb964ac014b81627aa892",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a14cb964ac014b81627aa892",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1FpYtw94TMuCE26A2Mk3zf"
+  }
+}

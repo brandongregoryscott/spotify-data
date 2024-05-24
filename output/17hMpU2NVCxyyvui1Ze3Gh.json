@@ -1,0 +1,33 @@
+{
+  "id": "17hMpU2NVCxyyvui1Ze3Gh",
+  "name": "Giovanni Damico",
+  "uri": "spotify:artist:17hMpU2NVCxyyvui1Ze3Gh",
+  "followers": {
+    "href": null,
+    "total": 2348
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb75bb895825d9ce3576b8637e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517475bb895825d9ce3576b8637e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17875bb895825d9ce3576b8637e",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/17hMpU2NVCxyyvui1Ze3Gh"
+  }
+}

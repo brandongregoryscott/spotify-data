@@ -1,0 +1,33 @@
+{
+  "id": "1E8DvpJqlWvJA25Wl7rdaN",
+  "name": "Rectifire",
+  "uri": "spotify:artist:1E8DvpJqlWvJA25Wl7rdaN",
+  "followers": {
+    "href": null,
+    "total": 720
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd111fa5aef6e6746835e6865",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d111fa5aef6e6746835e6865",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d111fa5aef6e6746835e6865",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1E8DvpJqlWvJA25Wl7rdaN"
+  }
+}

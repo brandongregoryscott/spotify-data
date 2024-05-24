@@ -1,0 +1,34 @@
+{
+  "id": "17HGaQzM0u2LrZOqaePvcT",
+  "name": "The Squidbillys",
+  "uri": "spotify:artist:17HGaQzM0u2LrZOqaePvcT",
+  "followers": {
+    "href": null,
+    "total": 444
+  },
+  "genres": [
+    "deep psychobilly",
+    "psychobilly"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd67d3038c6ba66d2bda3725d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d67d3038c6ba66d2bda3725d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d67d3038c6ba66d2bda3725d",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/17HGaQzM0u2LrZOqaePvcT"
+  }
+}

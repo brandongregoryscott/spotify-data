@@ -1,0 +1,33 @@
+{
+  "id": "14epVmvJSkurE9Jj0m5AEG",
+  "name": "Contriva",
+  "uri": "spotify:artist:14epVmvJSkurE9Jj0m5AEG",
+  "followers": {
+    "href": null,
+    "total": 1658
+  },
+  "genres": [
+    "indie electronica"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e64311b054513e3a1ebb1639",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e64311b054513e3a1ebb1639",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e64311b054513e3a1ebb1639",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/14epVmvJSkurE9Jj0m5AEG"
+  }
+}
