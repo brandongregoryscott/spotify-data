@@ -1,0 +1,33 @@
+{
+  "id": "3ca2u9lCtK1MLQq5emlp0B",
+  "name": "April Fool",
+  "uri": "spotify:artist:3ca2u9lCtK1MLQq5emlp0B",
+  "followers": {
+    "href": null,
+    "total": 386
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731ca21a4bf40fe5055d42a3f6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021ca21a4bf40fe5055d42a3f6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511ca21a4bf40fe5055d42a3f6",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ca2u9lCtK1MLQq5emlp0B"
+  }
+}

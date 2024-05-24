@@ -1,0 +1,33 @@
+{
+  "id": "3deSTS7GVnIHb5s6T7rV5g",
+  "name": "Polar M",
+  "uri": "spotify:artist:3deSTS7GVnIHb5s6T7rV5g",
+  "followers": {
+    "href": null,
+    "total": 849
+  },
+  "genres": [
+    "j-ambient"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb15dd7cbfbd12fefd83cc3fb2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517415dd7cbfbd12fefd83cc3fb2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17815dd7cbfbd12fefd83cc3fb2",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3deSTS7GVnIHb5s6T7rV5g"
+  }
+}
