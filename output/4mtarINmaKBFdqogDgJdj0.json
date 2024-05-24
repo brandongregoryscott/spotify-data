@@ -1,0 +1,33 @@
+{
+  "id": "4mtarINmaKBFdqogDgJdj0",
+  "name": "PHDS",
+  "uri": "spotify:artist:4mtarINmaKBFdqogDgJdj0",
+  "followers": {
+    "href": null,
+    "total": 120
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e93961d3565e3eda1dc8f0d2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e93961d3565e3eda1dc8f0d2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e93961d3565e3eda1dc8f0d2",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4mtarINmaKBFdqogDgJdj0"
+  }
+}
