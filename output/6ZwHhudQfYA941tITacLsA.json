@@ -1,0 +1,33 @@
+{
+  "id": "6ZwHhudQfYA941tITacLsA",
+  "name": "Grand Blaster",
+  "uri": "spotify:artist:6ZwHhudQfYA941tITacLsA",
+  "followers": {
+    "href": null,
+    "total": 3192
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb11a450b137f7c991c994992c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517411a450b137f7c991c994992c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17811a450b137f7c991c994992c",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ZwHhudQfYA941tITacLsA"
+  }
+}
