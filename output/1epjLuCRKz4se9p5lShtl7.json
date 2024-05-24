@@ -1,0 +1,33 @@
+{
+  "id": "1epjLuCRKz4se9p5lShtl7",
+  "name": "Ian Abel",
+  "uri": "spotify:artist:1epjLuCRKz4se9p5lShtl7",
+  "followers": {
+    "href": null,
+    "total": 604
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb87988d4bd5862e520b17db26",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517487988d4bd5862e520b17db26",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17887988d4bd5862e520b17db26",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1epjLuCRKz4se9p5lShtl7"
+  }
+}
