@@ -1,0 +1,33 @@
+{
+  "id": "7ePmnCwgmfepTryRUpOKdE",
+  "name": "Ben Berger",
+  "uri": "spotify:artist:7ePmnCwgmfepTryRUpOKdE",
+  "followers": {
+    "href": null,
+    "total": 2905
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd67b37127e2eb4a343d68125",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d67b37127e2eb4a343d68125",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d67b37127e2eb4a343d68125",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ePmnCwgmfepTryRUpOKdE"
+  }
+}

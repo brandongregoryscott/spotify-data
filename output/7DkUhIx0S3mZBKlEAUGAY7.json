@@ -1,0 +1,33 @@
+{
+  "id": "7DkUhIx0S3mZBKlEAUGAY7",
+  "name": "REK",
+  "uri": "spotify:artist:7DkUhIx0S3mZBKlEAUGAY7",
+  "followers": {
+    "href": null,
+    "total": 286
+  },
+  "genres": [
+    "punk ecuatoriano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27392150c7fbdcc42bf54967379",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0292150c7fbdcc42bf54967379",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485192150c7fbdcc42bf54967379",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7DkUhIx0S3mZBKlEAUGAY7"
+  }
+}
