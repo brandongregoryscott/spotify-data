@@ -1,0 +1,33 @@
+{
+  "id": "5ty08GXpCMviM7BKWNrdXi",
+  "name": "Tony Camargo",
+  "uri": "spotify:artist:5ty08GXpCMviM7BKWNrdXi",
+  "followers": {
+    "href": null,
+    "total": 6421
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f60641bf6da3273cded7e8cc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f60641bf6da3273cded7e8cc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f60641bf6da3273cded7e8cc",
+      "width": 64
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi"
+  }
+}

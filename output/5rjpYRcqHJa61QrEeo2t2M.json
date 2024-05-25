@@ -1,0 +1,33 @@
+{
+  "id": "5rjpYRcqHJa61QrEeo2t2M",
+  "name": "Caller #4",
+  "uri": "spotify:artist:5rjpYRcqHJa61QrEeo2t2M",
+  "followers": {
+    "href": null,
+    "total": 29
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb810a6b4d2bad0976dc0595d6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174810a6b4d2bad0976dc0595d6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178810a6b4d2bad0976dc0595d6",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5rjpYRcqHJa61QrEeo2t2M"
+  }
+}

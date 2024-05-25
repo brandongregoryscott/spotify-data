@@ -1,0 +1,33 @@
+{
+  "id": "69Y8PgKh5kUJKoUxG2i0s9",
+  "name": "sea.",
+  "uri": "spotify:artist:69Y8PgKh5kUJKoUxG2i0s9",
+  "followers": {
+    "href": null,
+    "total": 200
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb31830898406938ee17bcceba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517431830898406938ee17bcceba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17831830898406938ee17bcceba",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/69Y8PgKh5kUJKoUxG2i0s9"
+  }
+}
