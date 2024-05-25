@@ -1,0 +1,33 @@
+{
+  "id": "6IJ2LPgLVn3jZ9KaJkgk7k",
+  "name": "Shangly Joe",
+  "uri": "spotify:artist:6IJ2LPgLVn3jZ9KaJkgk7k",
+  "followers": {
+    "href": null,
+    "total": 441
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c90941efd8f8298ad846b6e6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c90941efd8f8298ad846b6e6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c90941efd8f8298ad846b6e6",
+      "width": 64
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6IJ2LPgLVn3jZ9KaJkgk7k"
+  }
+}

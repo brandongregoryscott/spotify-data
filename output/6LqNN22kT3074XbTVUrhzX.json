@@ -1,0 +1,34 @@
+{
+  "id": "6LqNN22kT3074XbTVUrhzX",
+  "name": "Kesha",
+  "uri": "spotify:artist:6LqNN22kT3074XbTVUrhzX",
+  "followers": {
+    "href": null,
+    "total": 7844767
+  },
+  "genres": [
+    "dance pop",
+    "pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb93edab94acfe329cfcd339ec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517493edab94acfe329cfcd339ec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17893edab94acfe329cfcd339ec",
+      "width": 160
+    }
+  ],
+  "popularity": 76,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+  }
+}

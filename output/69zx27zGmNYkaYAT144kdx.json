@@ -1,0 +1,33 @@
+{
+  "id": "69zx27zGmNYkaYAT144kdx",
+  "name": "Finding Iris",
+  "uri": "spotify:artist:69zx27zGmNYkaYAT144kdx",
+  "followers": {
+    "href": null,
+    "total": 1398
+  },
+  "genres": [
+    "christian hard rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb861f6e438f2f719d6c1990a7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174861f6e438f2f719d6c1990a7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178861f6e438f2f719d6c1990a7",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/69zx27zGmNYkaYAT144kdx"
+  }
+}

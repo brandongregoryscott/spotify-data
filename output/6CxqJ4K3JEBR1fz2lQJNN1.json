@@ -1,0 +1,33 @@
+{
+  "id": "6CxqJ4K3JEBR1fz2lQJNN1",
+  "name": "Nicole Favre",
+  "uri": "spotify:artist:6CxqJ4K3JEBR1fz2lQJNN1",
+  "followers": {
+    "href": null,
+    "total": 30154
+  },
+  "genres": [
+    "pop peruano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb563d25ea42cb0e2026d34147",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174563d25ea42cb0e2026d34147",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178563d25ea42cb0e2026d34147",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
+  }
+}
