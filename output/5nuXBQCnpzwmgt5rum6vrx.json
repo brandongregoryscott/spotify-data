@@ -1,0 +1,33 @@
+{
+  "id": "5nuXBQCnpzwmgt5rum6vrx",
+  "name": "Box Of Trash",
+  "uri": "spotify:artist:5nuXBQCnpzwmgt5rum6vrx",
+  "followers": {
+    "href": null,
+    "total": 630
+  },
+  "genres": [
+    "britpop revival"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb83f5931db54713d43b3efe81",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517483f5931db54713d43b3efe81",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17883f5931db54713d43b3efe81",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5nuXBQCnpzwmgt5rum6vrx"
+  }
+}

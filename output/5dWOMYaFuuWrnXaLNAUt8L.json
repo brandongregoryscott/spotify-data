@@ -1,0 +1,33 @@
+{
+  "id": "5dWOMYaFuuWrnXaLNAUt8L",
+  "name": "Exterminio",
+  "uri": "spotify:artist:5dWOMYaFuuWrnXaLNAUt8L",
+  "followers": {
+    "href": null,
+    "total": 404
+  },
+  "genres": [
+    "argentine metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27308e6c5de922ffea178f6fb5b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0208e6c5de922ffea178f6fb5b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485108e6c5de922ffea178f6fb5b",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5dWOMYaFuuWrnXaLNAUt8L"
+  }
+}

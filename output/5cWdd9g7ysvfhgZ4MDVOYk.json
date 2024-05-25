@@ -1,0 +1,33 @@
+{
+  "id": "5cWdd9g7ysvfhgZ4MDVOYk",
+  "name": "Kilohertz",
+  "uri": "spotify:artist:5cWdd9g7ysvfhgZ4MDVOYk",
+  "followers": {
+    "href": null,
+    "total": 162
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe72624232657c182da9aab50",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e72624232657c182da9aab50",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e72624232657c182da9aab50",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5cWdd9g7ysvfhgZ4MDVOYk"
+  }
+}

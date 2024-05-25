@@ -1,0 +1,33 @@
+{
+  "id": "5WUI6RK8fhiAr4uglNc4mT",
+  "name": "monolog",
+  "uri": "spotify:artist:5WUI6RK8fhiAr4uglNc4mT",
+  "followers": {
+    "href": null,
+    "total": 913
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27395c78c9ef563e041eb5fda85",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0295c78c9ef563e041eb5fda85",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485195c78c9ef563e041eb5fda85",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5WUI6RK8fhiAr4uglNc4mT"
+  }
+}

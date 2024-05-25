@@ -1,0 +1,33 @@
+{
+  "id": "5hkAhhKaAiy9BvVWfCKglA",
+  "name": "Lou Terry",
+  "uri": "spotify:artist:5hkAhhKaAiy9BvVWfCKglA",
+  "followers": {
+    "href": null,
+    "total": 389
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb74ce7b61ffabbc628e991ba7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517474ce7b61ffabbc628e991ba7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17874ce7b61ffabbc628e991ba7",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5hkAhhKaAiy9BvVWfCKglA"
+  }
+}
