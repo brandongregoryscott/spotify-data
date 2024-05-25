@@ -1,0 +1,33 @@
+{
+  "id": "01IC5xtwNyGb0CT0t7jDQf",
+  "name": "Beranda Rumah",
+  "uri": "spotify:artist:01IC5xtwNyGb0CT0t7jDQf",
+  "followers": {
+    "href": null,
+    "total": 248
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfaac2c56e5cd246afb7b84bc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174faac2c56e5cd246afb7b84bc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178faac2c56e5cd246afb7b84bc",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01IC5xtwNyGb0CT0t7jDQf"
+  }
+}

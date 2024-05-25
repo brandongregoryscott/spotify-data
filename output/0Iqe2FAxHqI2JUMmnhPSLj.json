@@ -1,0 +1,33 @@
+{
+  "id": "0Iqe2FAxHqI2JUMmnhPSLj",
+  "name": "Knivtid",
+  "uri": "spotify:artist:0Iqe2FAxHqI2JUMmnhPSLj",
+  "followers": {
+    "href": null,
+    "total": 131
+  },
+  "genres": [
+    "nordic ambient"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd6ae299ff604282f55ed87cc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d6ae299ff604282f55ed87cc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d6ae299ff604282f55ed87cc",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Iqe2FAxHqI2JUMmnhPSLj"
+  }
+}
