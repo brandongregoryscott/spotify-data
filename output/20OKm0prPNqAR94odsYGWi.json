@@ -1,0 +1,33 @@
+{
+  "id": "20OKm0prPNqAR94odsYGWi",
+  "name": "Einnosz",
+  "uri": "spotify:artist:20OKm0prPNqAR94odsYGWi",
+  "followers": {
+    "href": null,
+    "total": 312
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb16c367043cf175ad590bf4f4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517416c367043cf175ad590bf4f4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17816c367043cf175ad590bf4f4",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/20OKm0prPNqAR94odsYGWi"
+  }
+}
