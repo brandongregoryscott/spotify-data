@@ -1,0 +1,33 @@
+{
+  "id": "2V3PHDtIoHC0GY19aqsZWo",
+  "name": "Poster Child",
+  "uri": "spotify:artist:2V3PHDtIoHC0GY19aqsZWo",
+  "followers": {
+    "href": null,
+    "total": 55
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731eea5396fdc17b16d26f5f4f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021eea5396fdc17b16d26f5f4f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511eea5396fdc17b16d26f5f4f",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2V3PHDtIoHC0GY19aqsZWo"
+  }
+}

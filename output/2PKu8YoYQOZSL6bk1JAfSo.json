@@ -1,0 +1,33 @@
+{
+  "id": "2PKu8YoYQOZSL6bk1JAfSo",
+  "name": "Sockthief",
+  "uri": "spotify:artist:2PKu8YoYQOZSL6bk1JAfSo",
+  "followers": {
+    "href": null,
+    "total": 256
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27385a9e41243be1120ecb4774b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0285a9e41243be1120ecb4774b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485185a9e41243be1120ecb4774b",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2PKu8YoYQOZSL6bk1JAfSo"
+  }
+}

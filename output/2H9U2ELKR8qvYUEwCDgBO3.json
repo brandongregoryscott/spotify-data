@@ -1,0 +1,33 @@
+{
+  "id": "2H9U2ELKR8qvYUEwCDgBO3",
+  "name": "Brent Tatum",
+  "uri": "spotify:artist:2H9U2ELKR8qvYUEwCDgBO3",
+  "followers": {
+    "href": null,
+    "total": 249
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebceaded6ae92d8ec4907e98af",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ceaded6ae92d8ec4907e98af",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ceaded6ae92d8ec4907e98af",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2H9U2ELKR8qvYUEwCDgBO3"
+  }
+}
