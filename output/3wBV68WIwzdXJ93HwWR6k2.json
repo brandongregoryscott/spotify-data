@@ -1,0 +1,33 @@
+{
+  "id": "3wBV68WIwzdXJ93HwWR6k2",
+  "name": "SoftTop",
+  "uri": "spotify:artist:3wBV68WIwzdXJ93HwWR6k2",
+  "followers": {
+    "href": null,
+    "total": 172
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb873abe17bcea420bf1bef558",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174873abe17bcea420bf1bef558",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178873abe17bcea420bf1bef558",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3wBV68WIwzdXJ93HwWR6k2"
+  }
+}

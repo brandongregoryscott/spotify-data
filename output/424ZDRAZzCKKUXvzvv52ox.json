@@ -1,0 +1,34 @@
+{
+  "id": "424ZDRAZzCKKUXvzvv52ox",
+  "name": "Roy Harper",
+  "uri": "spotify:artist:424ZDRAZzCKKUXvzvv52ox",
+  "followers": {
+    "href": null,
+    "total": 37270
+  },
+  "genres": [
+    "british folk",
+    "psychedelic folk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb541b0aef21a9087a59924264",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174541b0aef21a9087a59924264",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178541b0aef21a9087a59924264",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/424ZDRAZzCKKUXvzvv52ox"
+  }
+}
