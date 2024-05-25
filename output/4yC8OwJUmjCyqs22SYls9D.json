@@ -1,0 +1,34 @@
+{
+  "id": "4yC8OwJUmjCyqs22SYls9D",
+  "name": "Plectro Trío",
+  "uri": "spotify:artist:4yC8OwJUmjCyqs22SYls9D",
+  "followers": {
+    "href": null,
+    "total": 818
+  },
+  "genres": [
+    "musica andina colombiana",
+    "musica colombiana instrumental"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27358a2847911f6b9d18dd0f775",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0258a2847911f6b9d18dd0f775",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485158a2847911f6b9d18dd0f775",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4yC8OwJUmjCyqs22SYls9D"
+  }
+}

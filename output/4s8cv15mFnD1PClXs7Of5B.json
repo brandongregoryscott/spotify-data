@@ -1,0 +1,34 @@
+{
+  "id": "4s8cv15mFnD1PClXs7Of5B",
+  "name": "Los Chotgun",
+  "uri": "spotify:artist:4s8cv15mFnD1PClXs7Of5B",
+  "followers": {
+    "href": null,
+    "total": 23816
+  },
+  "genres": [
+    "mexican indie",
+    "mexican rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb99e214730841009120636854",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517499e214730841009120636854",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17899e214730841009120636854",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4s8cv15mFnD1PClXs7Of5B"
+  }
+}
