@@ -1,0 +1,33 @@
+{
+  "id": "5GxrqzVUFO1v7KtPzRT2L4",
+  "name": "Reis",
+  "uri": "spotify:artist:5GxrqzVUFO1v7KtPzRT2L4",
+  "followers": {
+    "href": null,
+    "total": 389
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeeea4fe35becc6ae961f8504",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eeea4fe35becc6ae961f8504",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eeea4fe35becc6ae961f8504",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5GxrqzVUFO1v7KtPzRT2L4"
+  }
+}

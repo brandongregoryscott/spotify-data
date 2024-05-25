@@ -1,0 +1,33 @@
+{
+  "id": "5PsqzfOIgP3EIZKLWFi6fg",
+  "name": "Mike Lundy",
+  "uri": "spotify:artist:5PsqzfOIgP3EIZKLWFi6fg",
+  "followers": {
+    "href": null,
+    "total": 914
+  },
+  "genres": [
+    "indie jazz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739663b69334e015a9783c27d0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029663b69334e015a9783c27d0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519663b69334e015a9783c27d0",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5PsqzfOIgP3EIZKLWFi6fg"
+  }
+}
