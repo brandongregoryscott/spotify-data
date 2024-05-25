@@ -1,0 +1,33 @@
+{
+  "id": "1FvXbk9i1rP0OIrpib81wJ",
+  "name": "Shazz Man",
+  "uri": "spotify:artist:1FvXbk9i1rP0OIrpib81wJ",
+  "followers": {
+    "href": null,
+    "total": 175
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f5aecf6dfb905e84ec903532",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f5aecf6dfb905e84ec903532",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f5aecf6dfb905e84ec903532",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1FvXbk9i1rP0OIrpib81wJ"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0z3bAf5a2c8IWpSL0YBZQa",
+  "name": "SaDoH",
+  "uri": "spotify:artist:0z3bAf5a2c8IWpSL0YBZQa",
+  "followers": {
+    "href": null,
+    "total": 116
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb72cd0d517c85dd7d87ea4e96",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517472cd0d517c85dd7d87ea4e96",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17872cd0d517c85dd7d87ea4e96",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0z3bAf5a2c8IWpSL0YBZQa"
+  }
+}
