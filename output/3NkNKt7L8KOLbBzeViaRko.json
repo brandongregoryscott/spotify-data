@@ -1,0 +1,33 @@
+{
+  "id": "3NkNKt7L8KOLbBzeViaRko",
+  "name": "Amarnu",
+  "uri": "spotify:artist:3NkNKt7L8KOLbBzeViaRko",
+  "followers": {
+    "href": null,
+    "total": 92
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb678d273ff40649303e94494e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174678d273ff40649303e94494e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178678d273ff40649303e94494e",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3NkNKt7L8KOLbBzeViaRko"
+  }
+}
