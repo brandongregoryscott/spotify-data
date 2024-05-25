@@ -1,0 +1,33 @@
+{
+  "id": "7KghaMsYBI5iWt1nAPgJM2",
+  "name": "Jamie Broughton",
+  "uri": "spotify:artist:7KghaMsYBI5iWt1nAPgJM2",
+  "followers": {
+    "href": null,
+    "total": 101
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb151a2a9b1a57551e8767df40",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174151a2a9b1a57551e8767df40",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178151a2a9b1a57551e8767df40",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7KghaMsYBI5iWt1nAPgJM2"
+  }
+}

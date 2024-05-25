@@ -1,0 +1,33 @@
+{
+  "id": "7cbKZp4c7ofc7XarfXoREm",
+  "name": "Spitta",
+  "uri": "spotify:artist:7cbKZp4c7ofc7XarfXoREm",
+  "followers": {
+    "href": null,
+    "total": 18389
+  },
+  "genres": [
+    "baton rouge rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27342e32bf32a42bc1af9eebe27",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0242e32bf32a42bc1af9eebe27",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485142e32bf32a42bc1af9eebe27",
+      "width": 64
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7cbKZp4c7ofc7XarfXoREm"
+  }
+}
