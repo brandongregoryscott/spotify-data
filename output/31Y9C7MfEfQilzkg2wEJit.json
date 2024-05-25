@@ -1,0 +1,34 @@
+{
+  "id": "31Y9C7MfEfQilzkg2wEJit",
+  "name": "Escarràs",
+  "uri": "spotify:artist:31Y9C7MfEfQilzkg2wEJit",
+  "followers": {
+    "href": null,
+    "total": 589
+  },
+  "genres": [
+    "mestissatge",
+    "musica mallorquina"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb27f770b0217dec15c45b091d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517427f770b0217dec15c45b091d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17827f770b0217dec15c45b091d",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/31Y9C7MfEfQilzkg2wEJit"
+  }
+}
