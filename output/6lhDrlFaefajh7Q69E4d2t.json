@@ -1,0 +1,33 @@
+{
+  "id": "6lhDrlFaefajh7Q69E4d2t",
+  "name": "PAL",
+  "uri": "spotify:artist:6lhDrlFaefajh7Q69E4d2t",
+  "followers": {
+    "href": null,
+    "total": 349
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfa82840717439c155767df9f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fa82840717439c155767df9f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fa82840717439c155767df9f",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6lhDrlFaefajh7Q69E4d2t"
+  }
+}

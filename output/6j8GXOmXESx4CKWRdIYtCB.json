@@ -1,0 +1,33 @@
+{
+  "id": "6j8GXOmXESx4CKWRdIYtCB",
+  "name": "David Harks",
+  "uri": "spotify:artist:6j8GXOmXESx4CKWRdIYtCB",
+  "followers": {
+    "href": null,
+    "total": 2274
+  },
+  "genres": [
+    "vapor pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb8b368a2f9e5f206b79638bd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b8b368a2f9e5f206b79638bd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b8b368a2f9e5f206b79638bd",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6j8GXOmXESx4CKWRdIYtCB"
+  }
+}
