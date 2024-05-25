@@ -1,0 +1,34 @@
+{
+  "id": "4VYd2B6dO0RwTRuCCbm0fp",
+  "name": "André Moss",
+  "uri": "spotify:artist:4VYd2B6dO0RwTRuCCbm0fp",
+  "followers": {
+    "href": null,
+    "total": 2047
+  },
+  "genres": [
+    "indorock",
+    "nederpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735f20bc19c4b60db0a301b6a6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025f20bc19c4b60db0a301b6a6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515f20bc19c4b60db0a301b6a6",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4VYd2B6dO0RwTRuCCbm0fp"
+  }
+}
