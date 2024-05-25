@@ -1,0 +1,33 @@
+{
+  "id": "6p1x9y2rxb7vuomXRpaAnj",
+  "name": "Werther Effekt",
+  "uri": "spotify:artist:6p1x9y2rxb7vuomXRpaAnj",
+  "followers": {
+    "href": null,
+    "total": 301
+  },
+  "genres": [
+    "post-punk mexicano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27315b6754a8f62ecf5bf99c444",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0215b6754a8f62ecf5bf99c444",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485115b6754a8f62ecf5bf99c444",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6p1x9y2rxb7vuomXRpaAnj"
+  }
+}
