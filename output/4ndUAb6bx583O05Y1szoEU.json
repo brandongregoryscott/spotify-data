@@ -1,0 +1,33 @@
+{
+  "id": "4ndUAb6bx583O05Y1szoEU",
+  "name": "Cherimoya",
+  "uri": "spotify:artist:4ndUAb6bx583O05Y1szoEU",
+  "followers": {
+    "href": null,
+    "total": 47
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb60d91eb1a165daefe2a985de",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517460d91eb1a165daefe2a985de",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17860d91eb1a165daefe2a985de",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4ndUAb6bx583O05Y1szoEU"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4mcVAxcVVry8r6zmPBpL1w",
+  "name": "Calla",
+  "uri": "spotify:artist:4mcVAxcVVry8r6zmPBpL1w",
+  "followers": {
+    "href": null,
+    "total": 4714
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb837bd4515c6837b3a44b3e21",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174837bd4515c6837b3a44b3e21",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178837bd4515c6837b3a44b3e21",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4mcVAxcVVry8r6zmPBpL1w"
+  }
+}
