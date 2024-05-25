@@ -1,0 +1,33 @@
+{
+  "id": "0WjpBh8sQWxI1GwmIMWGSv",
+  "name": "Assumption",
+  "uri": "spotify:artist:0WjpBh8sQWxI1GwmIMWGSv",
+  "followers": {
+    "href": null,
+    "total": 2165
+  },
+  "genres": [
+    "death doom"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3b372a509152e2e03417a4b4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051743b372a509152e2e03417a4b4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1783b372a509152e2e03417a4b4",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0WjpBh8sQWxI1GwmIMWGSv"
+  }
+}

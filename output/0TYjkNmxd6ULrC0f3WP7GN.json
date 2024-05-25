@@ -1,0 +1,33 @@
+{
+  "id": "0TYjkNmxd6ULrC0f3WP7GN",
+  "name": "Viimeinen Kevät",
+  "uri": "spotify:artist:0TYjkNmxd6ULrC0f3WP7GN",
+  "followers": {
+    "href": null,
+    "total": 90
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe426b46b79492181f16bafce",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e426b46b79492181f16bafce",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e426b46b79492181f16bafce",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0TYjkNmxd6ULrC0f3WP7GN"
+  }
+}
