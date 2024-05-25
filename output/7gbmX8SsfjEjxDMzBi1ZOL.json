@@ -1,0 +1,34 @@
+{
+  "id": "7gbmX8SsfjEjxDMzBi1ZOL",
+  "name": "Joe Jonas",
+  "uri": "spotify:artist:7gbmX8SsfjEjxDMzBi1ZOL",
+  "followers": {
+    "href": null,
+    "total": 1689529
+  },
+  "genres": [
+    "pop",
+    "post-teen pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb60c3dfeaf74e5fa11954a0a6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517460c3dfeaf74e5fa11954a0a6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17860c3dfeaf74e5fa11954a0a6",
+      "width": 160
+    }
+  ],
+  "popularity": 53,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7nZiiyzxTzzq15HO061L6S",
+  "name": "Vicki Burns",
+  "uri": "spotify:artist:7nZiiyzxTzzq15HO061L6S",
+  "followers": {
+    "href": null,
+    "total": 229
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb2438894de86cc6cd6f43f99",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b2438894de86cc6cd6f43f99",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b2438894de86cc6cd6f43f99",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7nZiiyzxTzzq15HO061L6S"
+  }
+}
