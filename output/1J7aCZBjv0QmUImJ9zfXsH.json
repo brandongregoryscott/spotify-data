@@ -1,0 +1,34 @@
+{
+  "id": "1J7aCZBjv0QmUImJ9zfXsH",
+  "name": "Ognvndo",
+  "uri": "spotify:artist:1J7aCZBjv0QmUImJ9zfXsH",
+  "followers": {
+    "href": null,
+    "total": 22534
+  },
+  "genres": [
+    "dembow dominicano",
+    "rap dominicano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebabd6b9ccbb69cff3ac62578a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174abd6b9ccbb69cff3ac62578a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178abd6b9ccbb69cff3ac62578a",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1J7aCZBjv0QmUImJ9zfXsH"
+  }
+}

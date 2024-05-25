@@ -1,0 +1,33 @@
+{
+  "id": "1TLHP56wW1UvfnBTfyYykk",
+  "name": "cristóbal",
+  "uri": "spotify:artist:1TLHP56wW1UvfnBTfyYykk",
+  "followers": {
+    "href": null,
+    "total": 115
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb24048dca490de032ee593f41",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517424048dca490de032ee593f41",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17824048dca490de032ee593f41",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1TLHP56wW1UvfnBTfyYykk"
+  }
+}

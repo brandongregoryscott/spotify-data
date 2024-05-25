@@ -1,0 +1,33 @@
+{
+  "id": "1Nv7KOOVmAM8i0KuJLm5KS",
+  "name": "The Spectacles",
+  "uri": "spotify:artist:1Nv7KOOVmAM8i0KuJLm5KS",
+  "followers": {
+    "href": null,
+    "total": 343
+  },
+  "genres": [
+    "indorock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dc3c914f10b86d2aad6f4a89",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dc3c914f10b86d2aad6f4a89",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dc3c914f10b86d2aad6f4a89",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Nv7KOOVmAM8i0KuJLm5KS"
+  }
+}

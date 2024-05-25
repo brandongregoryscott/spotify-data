@@ -1,0 +1,33 @@
+{
+  "id": "1TNfZk6KBlHbYQU31roY5q",
+  "name": "Sam Sine",
+  "uri": "spotify:artist:1TNfZk6KBlHbYQU31roY5q",
+  "followers": {
+    "href": null,
+    "total": 202
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb47fb1e748e3ca0a4d2865a7a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517447fb1e748e3ca0a4d2865a7a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17847fb1e748e3ca0a4d2865a7a",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1TNfZk6KBlHbYQU31roY5q"
+  }
+}
