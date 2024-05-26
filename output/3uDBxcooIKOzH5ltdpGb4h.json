@@ -1,0 +1,33 @@
+{
+  "id": "3uDBxcooIKOzH5ltdpGb4h",
+  "name": "Felix Martin",
+  "uri": "spotify:artist:3uDBxcooIKOzH5ltdpGb4h",
+  "followers": {
+    "href": null,
+    "total": 10065
+  },
+  "genres": [
+    "progressive jazz fusion"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb17957332cc8814d4f355aa96",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517417957332cc8814d4f355aa96",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17817957332cc8814d4f355aa96",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3uDBxcooIKOzH5ltdpGb4h"
+  }
+}

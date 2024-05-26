@@ -1,0 +1,33 @@
+{
+  "id": "4ASltZkMZ5TIeu90OnHi1a",
+  "name": "Simon Kearney",
+  "uri": "spotify:artist:4ASltZkMZ5TIeu90OnHi1a",
+  "followers": {
+    "href": null,
+    "total": 3575
+  },
+  "genres": [
+    "indie quebecois"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb24a0af1b0b5a01106f0be496",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517424a0af1b0b5a01106f0be496",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17824a0af1b0b5a01106f0be496",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
+  }
+}
