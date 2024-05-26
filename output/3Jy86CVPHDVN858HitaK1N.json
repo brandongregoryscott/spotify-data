@@ -1,0 +1,33 @@
+{
+  "id": "3Jy86CVPHDVN858HitaK1N",
+  "name": "Junie",
+  "uri": "spotify:artist:3Jy86CVPHDVN858HitaK1N",
+  "followers": {
+    "href": null,
+    "total": 8848
+  },
+  "genres": [
+    "swedish pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb4e81cbc68b7bc6487e9d7cb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b4e81cbc68b7bc6487e9d7cb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b4e81cbc68b7bc6487e9d7cb",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N"
+  }
+}

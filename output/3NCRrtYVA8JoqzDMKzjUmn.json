@@ -1,0 +1,33 @@
+{
+  "id": "3NCRrtYVA8JoqzDMKzjUmn",
+  "name": "Leslie Winer",
+  "uri": "spotify:artist:3NCRrtYVA8JoqzDMKzjUmn",
+  "followers": {
+    "href": null,
+    "total": 3023
+  },
+  "genres": [
+    "dub poetry"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb85c2ac4dc28f0c90afec5343",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517485c2ac4dc28f0c90afec5343",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17885c2ac4dc28f0c90afec5343",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3NCRrtYVA8JoqzDMKzjUmn"
+  }
+}

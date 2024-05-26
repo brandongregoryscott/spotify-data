@@ -1,0 +1,33 @@
+{
+  "id": "3T2ezAvvLYUmyZelBNH8Ts",
+  "name": "Manic",
+  "uri": "spotify:artist:3T2ezAvvLYUmyZelBNH8Ts",
+  "followers": {
+    "href": null,
+    "total": 393
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb427a06f2d2ca846ddce28655",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174427a06f2d2ca846ddce28655",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178427a06f2d2ca846ddce28655",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3T2ezAvvLYUmyZelBNH8Ts"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "3LrEd7O4tB35VAR0ZKz0cH",
+  "name": "Charles Gayle",
+  "uri": "spotify:artist:3LrEd7O4tB35VAR0ZKz0cH",
+  "followers": {
+    "href": null,
+    "total": 3352
+  },
+  "genres": [
+    "avant-garde jazz",
+    "free jazz",
+    "jazz saxophone"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27391f43612114a21a062012ee4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0291f43612114a21a062012ee4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485191f43612114a21a062012ee4",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3LrEd7O4tB35VAR0ZKz0cH"
+  }
+}
