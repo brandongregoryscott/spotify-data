@@ -1,0 +1,33 @@
+{
+  "id": "5t7zBXCOm5m3dd3eVYHkSf",
+  "name": "George Leach",
+  "uri": "spotify:artist:5t7zBXCOm5m3dd3eVYHkSf",
+  "followers": {
+    "href": null,
+    "total": 1105
+  },
+  "genres": [
+    "canadian indigenous music"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273da6d10cac83837b14f044eca",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02da6d10cac83837b14f044eca",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851da6d10cac83837b14f044eca",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5t7zBXCOm5m3dd3eVYHkSf"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "5tGDXwaO3qq4w9mAhZHwZY",
+  "name": "Seamus Blake",
+  "uri": "spotify:artist:5tGDXwaO3qq4w9mAhZHwZY",
+  "followers": {
+    "href": null,
+    "total": 11547
+  },
+  "genres": [
+    "canadian modern jazz",
+    "jazz saxophone",
+    "straight-ahead jazz"
+  ],
+  "images": [
+    {
+      "height": 1000,
+      "url": "https://i.scdn.co/image/451133c396a61fdc3f1befb4b21050c5b5be7abd",
+      "width": 1000
+    },
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/f27a9a943c2e05c9da58d158186c523796d688fe",
+      "width": 640
+    },
+    {
+      "height": 200,
+      "url": "https://i.scdn.co/image/27752d6162176dc6a6411d83e2fd4e4c00e0fb84",
+      "width": 200
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/e1fdc4557d19c7996bb8bec6829ee60e8edfbc0b",
+      "width": 64
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5tGDXwaO3qq4w9mAhZHwZY"
+  }
+}

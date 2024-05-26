@@ -1,0 +1,33 @@
+{
+  "id": "5zoXAWbqiovx7MFrNvuteu",
+  "name": "Mapocho Orquesta",
+  "uri": "spotify:artist:5zoXAWbqiovx7MFrNvuteu",
+  "followers": {
+    "href": null,
+    "total": 2278
+  },
+  "genres": [
+    "jazz chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e9823aa69161ee6f8965153b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02279af24ac2927083ff53477d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851279af24ac2927083ff53477d",
+      "width": 64
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5zoXAWbqiovx7MFrNvuteu"
+  }
+}
