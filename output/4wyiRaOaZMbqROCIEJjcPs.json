@@ -1,0 +1,33 @@
+{
+  "id": "4wyiRaOaZMbqROCIEJjcPs",
+  "name": "Valentin",
+  "uri": "spotify:artist:4wyiRaOaZMbqROCIEJjcPs",
+  "followers": {
+    "href": null,
+    "total": 47
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb77c29f56003aa06eab05be26",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517477c29f56003aa06eab05be26",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17877c29f56003aa06eab05be26",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4wyiRaOaZMbqROCIEJjcPs"
+  }
+}
