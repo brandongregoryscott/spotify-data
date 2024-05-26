@@ -1,0 +1,33 @@
+{
+  "id": "0kns2X0IFTXafgOGd2IlKJ",
+  "name": "The Butterfly Effect",
+  "uri": "spotify:artist:0kns2X0IFTXafgOGd2IlKJ",
+  "followers": {
+    "href": null,
+    "total": 61182
+  },
+  "genres": [
+    "australian alternative rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb52bb701ece45221b924e1f7a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517452bb701ece45221b924e1f7a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17852bb701ece45221b924e1f7a",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0kns2X0IFTXafgOGd2IlKJ"
+  }
+}

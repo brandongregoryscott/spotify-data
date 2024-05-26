@@ -1,0 +1,33 @@
+{
+  "id": "0iALXI2h7FojXxHqUPaqAP",
+  "name": "Las Piedras",
+  "uri": "spotify:artist:0iALXI2h7FojXxHqUPaqAP",
+  "followers": {
+    "href": null,
+    "total": 422
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf0818b29a58127017f256e4d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f0818b29a58127017f256e4d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f0818b29a58127017f256e4d",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0iALXI2h7FojXxHqUPaqAP"
+  }
+}
