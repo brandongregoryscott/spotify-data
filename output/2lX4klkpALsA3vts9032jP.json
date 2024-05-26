@@ -1,0 +1,33 @@
+{
+  "id": "2lX4klkpALsA3vts9032jP",
+  "name": "AOP",
+  "uri": "spotify:artist:2lX4klkpALsA3vts9032jP",
+  "followers": {
+    "href": null,
+    "total": 13925
+  },
+  "genres": [
+    "denpa-kei"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba260fc80b90542e39348c112",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a260fc80b90542e39348c112",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a260fc80b90542e39348c112",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2lX4klkpALsA3vts9032jP"
+  }
+}

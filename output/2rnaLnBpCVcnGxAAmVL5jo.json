@@ -1,0 +1,33 @@
+{
+  "id": "2rnaLnBpCVcnGxAAmVL5jo",
+  "name": "Mary Shelley",
+  "uri": "spotify:artist:2rnaLnBpCVcnGxAAmVL5jo",
+  "followers": {
+    "href": null,
+    "total": 1198
+  },
+  "genres": [
+    "nyc indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb49845befa3957217816dd9d9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517449845befa3957217816dd9d9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17849845befa3957217816dd9d9",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2rnaLnBpCVcnGxAAmVL5jo"
+  }
+}

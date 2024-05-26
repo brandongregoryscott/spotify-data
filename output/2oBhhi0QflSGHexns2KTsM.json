@@ -1,0 +1,35 @@
+{
+  "id": "2oBhhi0QflSGHexns2KTsM",
+  "name": "Yugular",
+  "uri": "spotify:artist:2oBhhi0QflSGHexns2KTsM",
+  "followers": {
+    "href": null,
+    "total": 3138
+  },
+  "genres": [
+    "punk euskera",
+    "spanish punk",
+    "street punk espanol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27340090fb55cbdfee85e4526ea",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0240090fb55cbdfee85e4526ea",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485140090fb55cbdfee85e4526ea",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2oBhhi0QflSGHexns2KTsM"
+  }
+}
