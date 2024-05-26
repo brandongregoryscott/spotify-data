@@ -1,0 +1,33 @@
+{
+  "id": "5bxWKvqzRttGzhWCC64Q85",
+  "name": "Billie Zizi",
+  "uri": "spotify:artist:5bxWKvqzRttGzhWCC64Q85",
+  "followers": {
+    "href": null,
+    "total": 347
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb58fb376a2c6c14a504cd41e3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517458fb376a2c6c14a504cd41e3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17858fb376a2c6c14a504cd41e3",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5bxWKvqzRttGzhWCC64Q85"
+  }
+}

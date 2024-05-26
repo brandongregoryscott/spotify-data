@@ -1,0 +1,33 @@
+{
+  "id": "5kWRyHim8KYDHOjdxUMAY3",
+  "name": "Conception Complex",
+  "uri": "spotify:artist:5kWRyHim8KYDHOjdxUMAY3",
+  "followers": {
+    "href": null,
+    "total": 255
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731a1ac922a133068e119ac3a6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021a1ac922a133068e119ac3a6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511a1ac922a133068e119ac3a6",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5kWRyHim8KYDHOjdxUMAY3"
+  }
+}
