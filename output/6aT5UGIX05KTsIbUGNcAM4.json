@@ -1,0 +1,33 @@
+{
+  "id": "6aT5UGIX05KTsIbUGNcAM4",
+  "name": "SB",
+  "uri": "spotify:artist:6aT5UGIX05KTsIbUGNcAM4",
+  "followers": {
+    "href": null,
+    "total": 173
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba5d24360d4b5a8dd9ac3d0b5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a5d24360d4b5a8dd9ac3d0b5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a5d24360d4b5a8dd9ac3d0b5",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6aT5UGIX05KTsIbUGNcAM4"
+  }
+}
