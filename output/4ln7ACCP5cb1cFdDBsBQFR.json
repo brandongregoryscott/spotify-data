@@ -1,0 +1,33 @@
+{
+  "id": "4ln7ACCP5cb1cFdDBsBQFR",
+  "name": "Soul Parade",
+  "uri": "spotify:artist:4ln7ACCP5cb1cFdDBsBQFR",
+  "followers": {
+    "href": null,
+    "total": 657
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbcbe031686e35a555f6389ea",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bcbe031686e35a555f6389ea",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bcbe031686e35a555f6389ea",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4ln7ACCP5cb1cFdDBsBQFR"
+  }
+}
