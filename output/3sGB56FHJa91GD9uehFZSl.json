@@ -1,0 +1,33 @@
+{
+  "id": "3sGB56FHJa91GD9uehFZSl",
+  "name": "1ce_0loger",
+  "uri": "spotify:artist:3sGB56FHJa91GD9uehFZSl",
+  "followers": {
+    "href": null,
+    "total": 217
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e56729d3fcb92177c16ee7dc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e56729d3fcb92177c16ee7dc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e56729d3fcb92177c16ee7dc",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3sGB56FHJa91GD9uehFZSl"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3nH17d8rQSLiMuVovIpc4X",
+  "name": "In Lessons",
+  "uri": "spotify:artist:3nH17d8rQSLiMuVovIpc4X",
+  "followers": {
+    "href": null,
+    "total": 465
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb70cf0b347320fbe2da934491",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517470cf0b347320fbe2da934491",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17870cf0b347320fbe2da934491",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3nH17d8rQSLiMuVovIpc4X"
+  }
+}

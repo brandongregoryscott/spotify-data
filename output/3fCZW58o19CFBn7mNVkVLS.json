@@ -1,0 +1,34 @@
+{
+  "id": "3fCZW58o19CFBn7mNVkVLS",
+  "name": "The Static Shift",
+  "uri": "spotify:artist:3fCZW58o19CFBn7mNVkVLS",
+  "followers": {
+    "href": null,
+    "total": 3330
+  },
+  "genres": [
+    "calgary indie",
+    "canadian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb05abd78217537d5eaf27aff1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517405abd78217537d5eaf27aff1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17805abd78217537d5eaf27aff1",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3fCZW58o19CFBn7mNVkVLS"
+  }
+}
