@@ -1,0 +1,33 @@
+{
+  "id": "6MIVnJ66ZhwXvPqxrTHQME",
+  "name": "Jordi Cabrera",
+  "uri": "spotify:artist:6MIVnJ66ZhwXvPqxrTHQME",
+  "followers": {
+    "href": null,
+    "total": 151
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb329fa8dda1f38fabd3836ad4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174329fa8dda1f38fabd3836ad4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178329fa8dda1f38fabd3836ad4",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6MIVnJ66ZhwXvPqxrTHQME"
+  }
+}

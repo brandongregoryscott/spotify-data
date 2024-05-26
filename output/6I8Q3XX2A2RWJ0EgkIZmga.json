@@ -1,0 +1,33 @@
+{
+  "id": "6I8Q3XX2A2RWJ0EgkIZmga",
+  "name": "Doktra",
+  "uri": "spotify:artist:6I8Q3XX2A2RWJ0EgkIZmga",
+  "followers": {
+    "href": null,
+    "total": 73
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf09d6cd26d1bd0ff4bae04f9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f09d6cd26d1bd0ff4bae04f9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f09d6cd26d1bd0ff4bae04f9",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6I8Q3XX2A2RWJ0EgkIZmga"
+  }
+}

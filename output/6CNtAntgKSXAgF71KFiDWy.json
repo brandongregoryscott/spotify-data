@@ -1,0 +1,33 @@
+{
+  "id": "6CNtAntgKSXAgF71KFiDWy",
+  "name": "Sara Soto",
+  "uri": "spotify:artist:6CNtAntgKSXAgF71KFiDWy",
+  "followers": {
+    "href": null,
+    "total": 399
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebedd52f31b9dd37fa1e506fc1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174edd52f31b9dd37fa1e506fc1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178edd52f31b9dd37fa1e506fc1",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6CNtAntgKSXAgF71KFiDWy"
+  }
+}
