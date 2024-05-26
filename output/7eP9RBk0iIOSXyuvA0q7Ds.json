@@ -1,0 +1,33 @@
+{
+  "id": "7eP9RBk0iIOSXyuvA0q7Ds",
+  "name": "Saint Gio",
+  "uri": "spotify:artist:7eP9RBk0iIOSXyuvA0q7Ds",
+  "followers": {
+    "href": null,
+    "total": 215
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb75e2e0923f75b73da58d6883",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517475e2e0923f75b73da58d6883",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17875e2e0923f75b73da58d6883",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7eP9RBk0iIOSXyuvA0q7Ds"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7GNPLbKpg1xJxGZO4i7TZQ",
+  "name": "ilem",
+  "uri": "spotify:artist:7GNPLbKpg1xJxGZO4i7TZQ",
+  "followers": {
+    "href": null,
+    "total": 440
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27385dbb6264e1bc3300f163ec2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0285dbb6264e1bc3300f163ec2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485185dbb6264e1bc3300f163ec2",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7GNPLbKpg1xJxGZO4i7TZQ"
+  }
+}
