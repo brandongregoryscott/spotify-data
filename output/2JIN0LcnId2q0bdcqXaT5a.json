@@ -1,0 +1,33 @@
+{
+  "id": "2JIN0LcnId2q0bdcqXaT5a",
+  "name": "Gamero",
+  "uri": "spotify:artist:2JIN0LcnId2q0bdcqXaT5a",
+  "followers": {
+    "href": null,
+    "total": 422
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdcdb0bd14ba5470ae4ae0aa7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dcdb0bd14ba5470ae4ae0aa7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dcdb0bd14ba5470ae4ae0aa7",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2JIN0LcnId2q0bdcqXaT5a"
+  }
+}
