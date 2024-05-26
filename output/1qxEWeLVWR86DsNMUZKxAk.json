@@ -1,0 +1,33 @@
+{
+  "id": "1qxEWeLVWR86DsNMUZKxAk",
+  "name": "Split Silk",
+  "uri": "spotify:artist:1qxEWeLVWR86DsNMUZKxAk",
+  "followers": {
+    "href": null,
+    "total": 123
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733745aec184d20e704447da9a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e86b67e7056e5c03e69c560a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513745aec184d20e704447da9a",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1qxEWeLVWR86DsNMUZKxAk"
+  }
+}

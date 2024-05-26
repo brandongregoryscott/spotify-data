@@ -1,0 +1,33 @@
+{
+  "id": "1ktOD59jIqHniqPFgmHNOr",
+  "name": "Empired",
+  "uri": "spotify:artist:1ktOD59jIqHniqPFgmHNOr",
+  "followers": {
+    "href": null,
+    "total": 192
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbefa915606237f0df4305f24",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174befa915606237f0df4305f24",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178befa915606237f0df4305f24",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ktOD59jIqHniqPFgmHNOr"
+  }
+}
