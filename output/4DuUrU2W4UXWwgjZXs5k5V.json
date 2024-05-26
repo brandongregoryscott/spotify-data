@@ -1,0 +1,33 @@
+{
+  "id": "4DuUrU2W4UXWwgjZXs5k5V",
+  "name": "赤羽",
+  "uri": "spotify:artist:4DuUrU2W4UXWwgjZXs5k5V",
+  "followers": {
+    "href": null,
+    "total": 275
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bc0b758b60a24a82ccd8da6c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bc0b758b60a24a82ccd8da6c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bc0b758b60a24a82ccd8da6c",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4DuUrU2W4UXWwgjZXs5k5V"
+  }
+}
