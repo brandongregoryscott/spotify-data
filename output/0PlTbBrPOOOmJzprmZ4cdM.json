@@ -1,0 +1,34 @@
+{
+  "id": "0PlTbBrPOOOmJzprmZ4cdM",
+  "name": "Itzza Primera",
+  "uri": "spotify:artist:0PlTbBrPOOOmJzprmZ4cdM",
+  "followers": {
+    "href": null,
+    "total": 66410
+  },
+  "genres": [
+    "pop venezolano",
+    "reggaeton colombiano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb75bb0d4aa8f9a134848ef4f0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517475bb0d4aa8f9a134848ef4f0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17875bb0d4aa8f9a134848ef4f0",
+      "width": 160
+    }
+  ],
+  "popularity": 34,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM"
+  }
+}
