@@ -1,0 +1,33 @@
+{
+  "id": "1ZXnm2KMmHKoEaMDxj6QvP",
+  "name": "mileshigh",
+  "uri": "spotify:artist:1ZXnm2KMmHKoEaMDxj6QvP",
+  "followers": {
+    "href": null,
+    "total": 321
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb231b67455d978c7426421251",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174231b67455d978c7426421251",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178231b67455d978c7426421251",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ZXnm2KMmHKoEaMDxj6QvP"
+  }
+}
