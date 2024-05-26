@@ -1,0 +1,33 @@
+{
+  "id": "2BfbQyVeS4EPZarblRD5rc",
+  "name": "POLPO",
+  "uri": "spotify:artist:2BfbQyVeS4EPZarblRD5rc",
+  "followers": {
+    "href": null,
+    "total": 502
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cb660d4b3b8e6dc7d8a40222",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cb660d4b3b8e6dc7d8a40222",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cb660d4b3b8e6dc7d8a40222",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2BfbQyVeS4EPZarblRD5rc"
+  }
+}

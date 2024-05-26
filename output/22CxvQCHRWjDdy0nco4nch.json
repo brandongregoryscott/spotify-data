@@ -1,0 +1,33 @@
+{
+  "id": "22CxvQCHRWjDdy0nco4nch",
+  "name": "The Takes",
+  "uri": "spotify:artist:22CxvQCHRWjDdy0nco4nch",
+  "followers": {
+    "href": null,
+    "total": 4259
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebca28e3fe03e522aee809fb4a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ca28e3fe03e522aee809fb4a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ca28e3fe03e522aee809fb4a",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch"
+  }
+}

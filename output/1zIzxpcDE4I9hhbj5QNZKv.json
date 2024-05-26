@@ -1,0 +1,33 @@
+{
+  "id": "1zIzxpcDE4I9hhbj5QNZKv",
+  "name": "Kemdu",
+  "uri": "spotify:artist:1zIzxpcDE4I9hhbj5QNZKv",
+  "followers": {
+    "href": null,
+    "total": 192
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbc15ced8f29c041c6bdd56e0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bc15ced8f29c041c6bdd56e0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bc15ced8f29c041c6bdd56e0",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1zIzxpcDE4I9hhbj5QNZKv"
+  }
+}
