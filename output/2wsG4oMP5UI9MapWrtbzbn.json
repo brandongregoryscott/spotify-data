@@ -1,0 +1,34 @@
+{
+  "id": "2wsG4oMP5UI9MapWrtbzbn",
+  "name": "Nucleo Terco",
+  "uri": "spotify:artist:2wsG4oMP5UI9MapWrtbzbn",
+  "followers": {
+    "href": null,
+    "total": 8722
+  },
+  "genres": [
+    "spanish punk",
+    "street punk espanol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeafb887fa9414bf33108d362",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eafb887fa9414bf33108d362",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eafb887fa9414bf33108d362",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2wsG4oMP5UI9MapWrtbzbn"
+  }
+}

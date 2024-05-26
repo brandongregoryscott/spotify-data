@@ -1,0 +1,33 @@
+{
+  "id": "3BuWUGZGcRxmelwk2ZsGBP",
+  "name": "CUSP",
+  "uri": "spotify:artist:3BuWUGZGcRxmelwk2ZsGBP",
+  "followers": {
+    "href": null,
+    "total": 1076
+  },
+  "genres": [
+    "britpop revival"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb93713df47a6040ad6c4f8ab8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517493713df47a6040ad6c4f8ab8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17893713df47a6040ad6c4f8ab8",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3BuWUGZGcRxmelwk2ZsGBP"
+  }
+}

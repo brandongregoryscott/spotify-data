@@ -1,0 +1,34 @@
+{
+  "id": "36YE6h8aN09ZKG4EhneDSf",
+  "name": "Joe Lovano",
+  "uri": "spotify:artist:36YE6h8aN09ZKG4EhneDSf",
+  "followers": {
+    "href": null,
+    "total": 31680
+  },
+  "genres": [
+    "contemporary post-bop",
+    "jazz saxophone"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb375e46b73b1cfecb48bc35ae",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174375e46b73b1cfecb48bc35ae",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178375e46b73b1cfecb48bc35ae",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+  }
+}

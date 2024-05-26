@@ -1,0 +1,34 @@
+{
+  "id": "35fZivtiaWTLzphTDaWnrf",
+  "name": "David Binney",
+  "uri": "spotify:artist:35fZivtiaWTLzphTDaWnrf",
+  "followers": {
+    "href": null,
+    "total": 9454
+  },
+  "genres": [
+    "contemporary jazz",
+    "jazz saxophone"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb03ebf8fab81ba69a965ce064",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517403ebf8fab81ba69a965ce064",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17803ebf8fab81ba69a965ce064",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/35fZivtiaWTLzphTDaWnrf"
+  }
+}
