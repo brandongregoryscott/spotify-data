@@ -1,0 +1,33 @@
+{
+  "id": "2CHoGTwU9pJIx7JciqQW7l",
+  "name": "Kid Level",
+  "uri": "spotify:artist:2CHoGTwU9pJIx7JciqQW7l",
+  "followers": {
+    "href": null,
+    "total": 102
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd83b86eb26c7d02c4056ad85",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d83b86eb26c7d02c4056ad85",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d83b86eb26c7d02c4056ad85",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2CHoGTwU9pJIx7JciqQW7l"
+  }
+}

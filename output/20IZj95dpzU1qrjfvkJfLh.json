@@ -1,0 +1,33 @@
+{
+  "id": "20IZj95dpzU1qrjfvkJfLh",
+  "name": "ROMAY",
+  "uri": "spotify:artist:20IZj95dpzU1qrjfvkJfLh",
+  "followers": {
+    "href": null,
+    "total": 448
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc720d99416f49b5abc111ea2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c720d99416f49b5abc111ea2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c720d99416f49b5abc111ea2",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/20IZj95dpzU1qrjfvkJfLh"
+  }
+}
