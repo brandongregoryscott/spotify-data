@@ -1,0 +1,34 @@
+{
+  "id": "30NurbfluCXaPopaY1QhDV",
+  "name": "Kidnfinity",
+  "uri": "spotify:artist:30NurbfluCXaPopaY1QhDV",
+  "followers": {
+    "href": null,
+    "total": 12098
+  },
+  "genres": [
+    "german cloud rap",
+    "german trap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd6aa8d62947a550d9b29e8f9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d6aa8d62947a550d9b29e8f9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d6aa8d62947a550d9b29e8f9",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/30NurbfluCXaPopaY1QhDV"
+  }
+}
