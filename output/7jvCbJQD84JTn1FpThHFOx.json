@@ -1,0 +1,33 @@
+{
+  "id": "7jvCbJQD84JTn1FpThHFOx",
+  "name": "Siedoro",
+  "uri": "spotify:artist:7jvCbJQD84JTn1FpThHFOx",
+  "followers": {
+    "href": null,
+    "total": 149
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf78b8757e9598890422e3bd9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f78b8757e9598890422e3bd9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f78b8757e9598890422e3bd9",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7jvCbJQD84JTn1FpThHFOx"
+  }
+}

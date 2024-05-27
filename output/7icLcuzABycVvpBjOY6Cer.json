@@ -1,0 +1,33 @@
+{
+  "id": "7icLcuzABycVvpBjOY6Cer",
+  "name": "æmilia",
+  "uri": "spotify:artist:7icLcuzABycVvpBjOY6Cer",
+  "followers": {
+    "href": null,
+    "total": 820
+  },
+  "genres": [
+    "neue neue deutsche welle"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb53450df71bb89b46c720a3fb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517453450df71bb89b46c720a3fb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17853450df71bb89b46c720a3fb",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7icLcuzABycVvpBjOY6Cer"
+  }
+}

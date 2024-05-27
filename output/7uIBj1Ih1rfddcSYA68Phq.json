@@ -1,0 +1,33 @@
+{
+  "id": "7uIBj1Ih1rfddcSYA68Phq",
+  "name": "Oak&Koa",
+  "uri": "spotify:artist:7uIBj1Ih1rfddcSYA68Phq",
+  "followers": {
+    "href": null,
+    "total": 83
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb367aa14e252279f31791b792",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174367aa14e252279f31791b792",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178367aa14e252279f31791b792",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7uIBj1Ih1rfddcSYA68Phq"
+  }
+}
