@@ -1,0 +1,33 @@
+{
+  "id": "4jbzSX9715zQszQvcAgxe2",
+  "name": "Clæmus",
+  "uri": "spotify:artist:4jbzSX9715zQszQvcAgxe2",
+  "followers": {
+    "href": null,
+    "total": 1307
+  },
+  "genres": [
+    "nz metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb425a8912ca56c7e42b1934b9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174425a8912ca56c7e42b1934b9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178425a8912ca56c7e42b1934b9",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4jbzSX9715zQszQvcAgxe2"
+  }
+}

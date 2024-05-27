@@ -1,0 +1,33 @@
+{
+  "id": "4meeMnr8eLacsB31ApsXZS",
+  "name": "Huckleberry P",
+  "uri": "spotify:artist:4meeMnr8eLacsB31ApsXZS",
+  "followers": {
+    "href": null,
+    "total": 15209
+  },
+  "genres": [
+    "k-rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe103d59bcfc50c8009fb2c57",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e103d59bcfc50c8009fb2c57",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e103d59bcfc50c8009fb2c57",
+      "width": 160
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4meeMnr8eLacsB31ApsXZS"
+  }
+}

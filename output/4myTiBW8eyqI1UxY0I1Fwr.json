@@ -1,0 +1,33 @@
+{
+  "id": "4myTiBW8eyqI1UxY0I1Fwr",
+  "name": "Duell",
+  "uri": "spotify:artist:4myTiBW8eyqI1UxY0I1Fwr",
+  "followers": {
+    "href": null,
+    "total": 292
+  },
+  "genres": [
+    "fort worth indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273262c4122fb487403d94f3ea4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02262c4122fb487403d94f3ea4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851262c4122fb487403d94f3ea4",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4myTiBW8eyqI1UxY0I1Fwr"
+  }
+}
