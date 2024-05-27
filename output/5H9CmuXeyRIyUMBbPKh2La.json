@@ -1,0 +1,33 @@
+{
+  "id": "5H9CmuXeyRIyUMBbPKh2La",
+  "name": "Shyloh",
+  "uri": "spotify:artist:5H9CmuXeyRIyUMBbPKh2La",
+  "followers": {
+    "href": null,
+    "total": 708
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebab6417f918dfcacfe5da5eec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ab6417f918dfcacfe5da5eec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ab6417f918dfcacfe5da5eec",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5H9CmuXeyRIyUMBbPKh2La"
+  }
+}
