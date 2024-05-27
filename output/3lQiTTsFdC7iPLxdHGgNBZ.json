@@ -1,0 +1,33 @@
+{
+  "id": "3lQiTTsFdC7iPLxdHGgNBZ",
+  "name": "BK Beats",
+  "uri": "spotify:artist:3lQiTTsFdC7iPLxdHGgNBZ",
+  "followers": {
+    "href": null,
+    "total": 336
+  },
+  "genres": [
+    "albuquerque indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb53187afef94aba5ce2e5a0e8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517453187afef94aba5ce2e5a0e8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17853187afef94aba5ce2e5a0e8",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3lQiTTsFdC7iPLxdHGgNBZ"
+  }
+}

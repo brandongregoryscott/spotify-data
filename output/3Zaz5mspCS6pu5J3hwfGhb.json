@@ -1,0 +1,33 @@
+{
+  "id": "3Zaz5mspCS6pu5J3hwfGhb",
+  "name": "Simon James",
+  "uri": "spotify:artist:3Zaz5mspCS6pu5J3hwfGhb",
+  "followers": {
+    "href": null,
+    "total": 283
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb57fad0fa539c39dc541d580e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517457fad0fa539c39dc541d580e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17857fad0fa539c39dc541d580e",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Zaz5mspCS6pu5J3hwfGhb"
+  }
+}
