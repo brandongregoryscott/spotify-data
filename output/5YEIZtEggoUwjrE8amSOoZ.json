@@ -1,0 +1,33 @@
+{
+  "id": "5YEIZtEggoUwjrE8amSOoZ",
+  "name": "Curlys Jewels",
+  "uri": "spotify:artist:5YEIZtEggoUwjrE8amSOoZ",
+  "followers": {
+    "href": null,
+    "total": 707
+  },
+  "genres": [
+    "kiwi rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb982f29ff1b46ab22bb4efbf0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174982f29ff1b46ab22bb4efbf0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178982f29ff1b46ab22bb4efbf0",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5YEIZtEggoUwjrE8amSOoZ"
+  }
+}

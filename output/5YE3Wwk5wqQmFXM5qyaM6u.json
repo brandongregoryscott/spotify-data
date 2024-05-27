@@ -4,12 +4,13 @@
   "uri": "spotify:artist:5YE3Wwk5wqQmFXM5qyaM6u",
   "followers": {
     "href": null,
-    "total": 79342
+    "total": 79363
   },
   "genres": [
     "blues rock",
     "proto-metal",
-    "psychedelic rock"
+    "psychedelic rock",
+    "southern rock"
   ],
   "images": [
     {
@@ -28,7 +29,7 @@
       "width": 64
     }
   ],
-  "popularity": 25,
+  "popularity": 26,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/5YE3Wwk5wqQmFXM5qyaM6u"
   }

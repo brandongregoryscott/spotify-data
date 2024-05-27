@@ -1,0 +1,33 @@
+{
+  "id": "5eeA949humN1clL8aLrwdL",
+  "name": "Deilax",
+  "uri": "spotify:artist:5eeA949humN1clL8aLrwdL",
+  "followers": {
+    "href": null,
+    "total": 154
+  },
+  "genres": [
+    "hardwave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba1647efbdf4b5a5c06123932",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a1647efbdf4b5a5c06123932",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a1647efbdf4b5a5c06123932",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5eeA949humN1clL8aLrwdL"
+  }
+}
