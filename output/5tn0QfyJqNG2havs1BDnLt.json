@@ -1,0 +1,33 @@
+{
+  "id": "5tn0QfyJqNG2havs1BDnLt",
+  "name": "Видеобутик",
+  "uri": "spotify:artist:5tn0QfyJqNG2havs1BDnLt",
+  "followers": {
+    "href": null,
+    "total": 196
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbe59081b1ab08f12d1d9a818",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174be59081b1ab08f12d1d9a818",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178be59081b1ab08f12d1d9a818",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5tn0QfyJqNG2havs1BDnLt"
+  }
+}

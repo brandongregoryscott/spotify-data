@@ -1,0 +1,33 @@
+{
+  "id": "65sF8kzeViNBSXtPNpfiFc",
+  "name": "Landstrykar",
+  "uri": "spotify:artist:65sF8kzeViNBSXtPNpfiFc",
+  "followers": {
+    "href": null,
+    "total": 201
+  },
+  "genres": [
+    "fantasy synth"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bcff1532cda0ebfc92c939bb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bcff1532cda0ebfc92c939bb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bcff1532cda0ebfc92c939bb",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/65sF8kzeViNBSXtPNpfiFc"
+  }
+}
