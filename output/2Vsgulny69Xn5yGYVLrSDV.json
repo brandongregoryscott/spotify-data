@@ -1,0 +1,33 @@
+{
+  "id": "2Vsgulny69Xn5yGYVLrSDV",
+  "name": "Excess",
+  "uri": "spotify:artist:2Vsgulny69Xn5yGYVLrSDV",
+  "followers": {
+    "href": null,
+    "total": 108
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f6e65c164ce5a4acb703ef2e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f6e65c164ce5a4acb703ef2e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f6e65c164ce5a4acb703ef2e",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Vsgulny69Xn5yGYVLrSDV"
+  }
+}
