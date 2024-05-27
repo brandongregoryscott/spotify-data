@@ -1,0 +1,33 @@
+{
+  "id": "4N3KCMkCfu6tb4cs1oPZAs",
+  "name": "Brotha Josh",
+  "uri": "spotify:artist:4N3KCMkCfu6tb4cs1oPZAs",
+  "followers": {
+    "href": null,
+    "total": 209
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb040b1fa125934865d44d9daa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174040b1fa125934865d44d9daa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178040b1fa125934865d44d9daa",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4N3KCMkCfu6tb4cs1oPZAs"
+  }
+}
