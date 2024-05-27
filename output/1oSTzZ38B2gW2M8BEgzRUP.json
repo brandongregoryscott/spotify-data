@@ -1,0 +1,34 @@
+{
+  "id": "1oSTzZ38B2gW2M8BEgzRUP",
+  "name": "Yanka",
+  "uri": "spotify:artist:1oSTzZ38B2gW2M8BEgzRUP",
+  "followers": {
+    "href": null,
+    "total": 30542
+  },
+  "genres": [
+    "russian punk",
+    "russian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27391876ca548c3197fedf38338",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0291876ca548c3197fedf38338",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485191876ca548c3197fedf38338",
+      "width": 64
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1oSTzZ38B2gW2M8BEgzRUP"
+  }
+}

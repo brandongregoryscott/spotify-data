@@ -1,0 +1,33 @@
+{
+  "id": "1mm1QMQORz1VLdBpSARpqT",
+  "name": "ALEDONO",
+  "uri": "spotify:artist:1mm1QMQORz1VLdBpSARpqT",
+  "followers": {
+    "href": null,
+    "total": 71
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb63b3657a1f9a6b1e9eb12d18",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517463b3657a1f9a6b1e9eb12d18",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17863b3657a1f9a6b1e9eb12d18",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1mm1QMQORz1VLdBpSARpqT"
+  }
+}

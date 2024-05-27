@@ -1,0 +1,33 @@
+{
+  "id": "1curpHkLKDZw1BChsiZnnn",
+  "name": "JOZ P",
+  "uri": "spotify:artist:1curpHkLKDZw1BChsiZnnn",
+  "followers": {
+    "href": null,
+    "total": 55
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb621b5fd2c6ac6cb2f5a3390a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174621b5fd2c6ac6cb2f5a3390a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178621b5fd2c6ac6cb2f5a3390a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1curpHkLKDZw1BChsiZnnn"
+  }
+}
