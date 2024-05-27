@@ -1,0 +1,33 @@
+{
+  "id": "1Ikh10jftZpHYI7yqx3V0E",
+  "name": "Svarts",
+  "uri": "spotify:artist:1Ikh10jftZpHYI7yqx3V0E",
+  "followers": {
+    "href": null,
+    "total": 113
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273413245f200d4e9d89f78c7b2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02413245f200d4e9d89f78c7b2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851413245f200d4e9d89f78c7b2",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Ikh10jftZpHYI7yqx3V0E"
+  }
+}
