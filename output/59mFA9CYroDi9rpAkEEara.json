@@ -1,0 +1,33 @@
+{
+  "id": "59mFA9CYroDi9rpAkEEara",
+  "name": "SAMI",
+  "uri": "spotify:artist:59mFA9CYroDi9rpAkEEara",
+  "followers": {
+    "href": null,
+    "total": 85
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc5e5f51ec791f43a34d221b7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c5e5f51ec791f43a34d221b7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c5e5f51ec791f43a34d221b7",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/59mFA9CYroDi9rpAkEEara"
+  }
+}

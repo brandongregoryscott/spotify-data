@@ -1,0 +1,33 @@
+{
+  "id": "51OS35MAUC6qA6kjhanAvp",
+  "name": "Xibbalba",
+  "uri": "spotify:artist:51OS35MAUC6qA6kjhanAvp",
+  "followers": {
+    "href": null,
+    "total": 38
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdc1bd9216f7d08c275a8b978",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dc1bd9216f7d08c275a8b978",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dc1bd9216f7d08c275a8b978",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/51OS35MAUC6qA6kjhanAvp"
+  }
+}

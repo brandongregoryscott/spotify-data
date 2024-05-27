@@ -1,0 +1,34 @@
+{
+  "id": "58aFmsADk38R6QMiI2tVxM",
+  "name": "John Spiers",
+  "uri": "spotify:artist:58aFmsADk38R6QMiI2tVxM",
+  "followers": {
+    "href": null,
+    "total": 1633
+  },
+  "genres": [
+    "traditional british folk",
+    "traditional english folk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273338b86e5866be9ebb78cd66a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02338b86e5866be9ebb78cd66a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851338b86e5866be9ebb78cd66a",
+      "width": 64
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/58aFmsADk38R6QMiI2tVxM"
+  }
+}
