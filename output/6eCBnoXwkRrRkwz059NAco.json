@@ -1,0 +1,33 @@
+{
+  "id": "6eCBnoXwkRrRkwz059NAco",
+  "name": "Death by Monkey",
+  "uri": "spotify:artist:6eCBnoXwkRrRkwz059NAco",
+  "followers": {
+    "href": null,
+    "total": 221
+  },
+  "genres": [
+    "texasgaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb72bc954c304719a64a30fa8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b72bc954c304719a64a30fa8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b72bc954c304719a64a30fa8",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6eCBnoXwkRrRkwz059NAco"
+  }
+}
