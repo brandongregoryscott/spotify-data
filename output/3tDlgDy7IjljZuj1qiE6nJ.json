@@ -1,0 +1,33 @@
+{
+  "id": "3tDlgDy7IjljZuj1qiE6nJ",
+  "name": "Ethan Miller",
+  "uri": "spotify:artist:3tDlgDy7IjljZuj1qiE6nJ",
+  "followers": {
+    "href": null,
+    "total": 126
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733d3ddd4e1383c03fa7fabd13",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023d3ddd4e1383c03fa7fabd13",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513d3ddd4e1383c03fa7fabd13",
+      "width": 64
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3tDlgDy7IjljZuj1qiE6nJ"
+  }
+}
