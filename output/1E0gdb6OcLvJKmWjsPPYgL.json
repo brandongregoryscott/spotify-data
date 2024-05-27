@@ -1,0 +1,33 @@
+{
+  "id": "1E0gdb6OcLvJKmWjsPPYgL",
+  "name": "Paul from the Internet.",
+  "uri": "spotify:artist:1E0gdb6OcLvJKmWjsPPYgL",
+  "followers": {
+    "href": null,
+    "total": 21
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27334f64e06d00020933dca64bc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0234f64e06d00020933dca64bc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485134f64e06d00020933dca64bc",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1E0gdb6OcLvJKmWjsPPYgL"
+  }
+}

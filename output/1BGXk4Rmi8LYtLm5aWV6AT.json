@@ -1,0 +1,33 @@
+{
+  "id": "1BGXk4Rmi8LYtLm5aWV6AT",
+  "name": "Chill Bakery",
+  "uri": "spotify:artist:1BGXk4Rmi8LYtLm5aWV6AT",
+  "followers": {
+    "href": null,
+    "total": 120
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27384b29858e956f1feb7c1188e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0284b29858e956f1feb7c1188e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485184b29858e956f1feb7c1188e",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1BGXk4Rmi8LYtLm5aWV6AT"
+  }
+}
