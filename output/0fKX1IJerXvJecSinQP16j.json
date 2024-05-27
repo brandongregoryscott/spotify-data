@@ -1,0 +1,33 @@
+{
+  "id": "0fKX1IJerXvJecSinQP16j",
+  "name": "téga",
+  "uri": "spotify:artist:0fKX1IJerXvJecSinQP16j",
+  "followers": {
+    "href": null,
+    "total": 138
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb82e11c0b3911947f5c11c20c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517482e11c0b3911947f5c11c20c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17882e11c0b3911947f5c11c20c",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0fKX1IJerXvJecSinQP16j"
+  }
+}
