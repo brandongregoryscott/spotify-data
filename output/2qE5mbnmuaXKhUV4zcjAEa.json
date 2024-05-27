@@ -1,0 +1,33 @@
+{
+  "id": "2qE5mbnmuaXKhUV4zcjAEa",
+  "name": "BLAKKY",
+  "uri": "spotify:artist:2qE5mbnmuaXKhUV4zcjAEa",
+  "followers": {
+    "href": null,
+    "total": 234
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb70f8847510125d895225dbc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b70f8847510125d895225dbc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b70f8847510125d895225dbc",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2qE5mbnmuaXKhUV4zcjAEa"
+  }
+}

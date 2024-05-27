@@ -1,0 +1,33 @@
+{
+  "id": "2e6jLgdjboCFQOd4YTqb5t",
+  "name": "Los Cardiacos",
+  "uri": "spotify:artist:2e6jLgdjboCFQOd4YTqb5t",
+  "followers": {
+    "href": null,
+    "total": 1980
+  },
+  "genres": [
+    "spanish new wave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb582bd6e18bbb39cb502537e6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174582bd6e18bbb39cb502537e6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178582bd6e18bbb39cb502537e6",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2e6jLgdjboCFQOd4YTqb5t"
+  }
+}

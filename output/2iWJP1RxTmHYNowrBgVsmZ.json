@@ -1,0 +1,34 @@
+{
+  "id": "2iWJP1RxTmHYNowrBgVsmZ",
+  "name": "Faustus",
+  "uri": "spotify:artist:2iWJP1RxTmHYNowrBgVsmZ",
+  "followers": {
+    "href": null,
+    "total": 2257
+  },
+  "genres": [
+    "traditional british folk",
+    "traditional english folk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27302d2996a6c546651e9a8e1e0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021256336ef12d61153286a7e1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485102d2996a6c546651e9a8e1e0",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2iWJP1RxTmHYNowrBgVsmZ"
+  }
+}

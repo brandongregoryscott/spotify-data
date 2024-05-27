@@ -1,0 +1,33 @@
+{
+  "id": "2jl6oxCZKLf2j8LB4qxLXY",
+  "name": "Lucida Fila",
+  "uri": "spotify:artist:2jl6oxCZKLf2j8LB4qxLXY",
+  "followers": {
+    "href": null,
+    "total": 831
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba23887a123976b532b1e47a6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a23887a123976b532b1e47a6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a23887a123976b532b1e47a6",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2jl6oxCZKLf2j8LB4qxLXY"
+  }
+}
