@@ -1,0 +1,33 @@
+{
+  "id": "6w6OR4F49DW1vuMSk2nqPs",
+  "name": "Matte",
+  "uri": "spotify:artist:6w6OR4F49DW1vuMSk2nqPs",
+  "followers": {
+    "href": null,
+    "total": 1373
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdcfa6fa8f8e02c7d0b0475c8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dcfa6fa8f8e02c7d0b0475c8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dcfa6fa8f8e02c7d0b0475c8",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6w6OR4F49DW1vuMSk2nqPs"
+  }
+}
