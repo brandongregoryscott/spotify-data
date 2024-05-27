@@ -1,0 +1,33 @@
+{
+  "id": "7JyGPOgdCloTDoTXEgaMWa",
+  "name": "Joe Gorgeous",
+  "uri": "spotify:artist:7JyGPOgdCloTDoTXEgaMWa",
+  "followers": {
+    "href": null,
+    "total": 127
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb09297d37367cd2207f36b1b8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517409297d37367cd2207f36b1b8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17809297d37367cd2207f36b1b8",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7JyGPOgdCloTDoTXEgaMWa"
+  }
+}

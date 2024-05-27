@@ -1,0 +1,33 @@
+{
+  "id": "7I5WoHsJcnWHElSway1OOk",
+  "name": "Mary L",
+  "uri": "spotify:artist:7I5WoHsJcnWHElSway1OOk",
+  "followers": {
+    "href": null,
+    "total": 75
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b9dfe347c85b80c466d899f5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b9dfe347c85b80c466d899f5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b9dfe347c85b80c466d899f5",
+      "width": 64
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7I5WoHsJcnWHElSway1OOk"
+  }
+}
