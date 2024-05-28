@@ -1,0 +1,33 @@
+{
+  "id": "0rXVKu6DYbrJQXJCIZmAdR",
+  "name": "Gzardin",
+  "uri": "spotify:artist:0rXVKu6DYbrJQXJCIZmAdR",
+  "followers": {
+    "href": null,
+    "total": 203
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732b1f029ed3cd70be2fee3bea",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022b1f029ed3cd70be2fee3bea",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512b1f029ed3cd70be2fee3bea",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0rXVKu6DYbrJQXJCIZmAdR"
+  }
+}
