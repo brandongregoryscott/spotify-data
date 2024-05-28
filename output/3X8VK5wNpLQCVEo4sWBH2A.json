@@ -1,0 +1,33 @@
+{
+  "id": "3X8VK5wNpLQCVEo4sWBH2A",
+  "name": "Cassyette",
+  "uri": "spotify:artist:3X8VK5wNpLQCVEo4sWBH2A",
+  "followers": {
+    "href": null,
+    "total": 93610
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb10b57efa9a7311206a5f01bf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517410b57efa9a7311206a5f01bf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17810b57efa9a7311206a5f01bf",
+      "width": 160
+    }
+  ],
+  "popularity": 46,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+  }
+}
