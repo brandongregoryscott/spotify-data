@@ -1,0 +1,35 @@
+{
+  "id": "6DlKk9ibc9dCgvyNPGNXdH",
+  "name": "The K's",
+  "uri": "spotify:artist:6DlKk9ibc9dCgvyNPGNXdH",
+  "followers": {
+    "href": null,
+    "total": 39076
+  },
+  "genres": [
+    "britpop revival",
+    "english indie rock",
+    "liverpool indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb998cdd73eb1eca3803c85122",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174998cdd73eb1eca3803c85122",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178998cdd73eb1eca3803c85122",
+      "width": 160
+    }
+  ],
+  "popularity": 46,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH"
+  }
+}
