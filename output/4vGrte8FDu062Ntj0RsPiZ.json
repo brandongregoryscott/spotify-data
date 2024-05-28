@@ -1,0 +1,33 @@
+{
+  "id": "4vGrte8FDu062Ntj0RsPiZ",
+  "name": "Polyphia",
+  "uri": "spotify:artist:4vGrte8FDu062Ntj0RsPiZ",
+  "followers": {
+    "href": null,
+    "total": 1150692
+  },
+  "genres": [
+    "instrumental rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd0d5560f6b2ebe39a6d20704",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d0d5560f6b2ebe39a6d20704",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d0d5560f6b2ebe39a6d20704",
+      "width": 160
+    }
+  ],
+  "popularity": 59,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+  }
+}
