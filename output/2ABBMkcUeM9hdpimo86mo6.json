@@ -1,0 +1,37 @@
+{
+  "id": "2ABBMkcUeM9hdpimo86mo6",
+  "name": "Tourist",
+  "uri": "spotify:artist:2ABBMkcUeM9hdpimo86mo6",
+  "followers": {
+    "href": null,
+    "total": 175980
+  },
+  "genres": [
+    "chillwave",
+    "future garage",
+    "indie soul",
+    "indietronica",
+    "vapor soul"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb98e13e7e9fe68e267e817036",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517498e13e7e9fe68e267e817036",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17898e13e7e9fe68e267e817036",
+      "width": 160
+    }
+  ],
+  "popularity": 52,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+  }
+}
