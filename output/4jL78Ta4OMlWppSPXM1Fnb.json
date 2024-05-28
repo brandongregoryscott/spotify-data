@@ -1,0 +1,35 @@
+{
+  "id": "4jL78Ta4OMlWppSPXM1Fnb",
+  "name": "Aghora",
+  "uri": "spotify:artist:4jL78Ta4OMlWppSPXM1Fnb",
+  "followers": {
+    "href": null,
+    "total": 8563
+  },
+  "genres": [
+    "jazz metal",
+    "miami metal",
+    "progressive groove metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27307a9baa4dc2f9a7993f23cc3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0207a9baa4dc2f9a7993f23cc3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485107a9baa4dc2f9a7993f23cc3",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4jL78Ta4OMlWppSPXM1Fnb"
+  }
+}
