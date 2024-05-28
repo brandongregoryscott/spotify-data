@@ -1,0 +1,34 @@
+{
+  "id": "00EBi488hyFBE0jS3s2QXW",
+  "name": "Emils",
+  "uri": "spotify:artist:00EBi488hyFBE0jS3s2QXW",
+  "followers": {
+    "href": null,
+    "total": 1726
+  },
+  "genres": [
+    "german punk",
+    "german street punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcb71eff02fc00f437bed63f6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cb71eff02fc00f437bed63f6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cb71eff02fc00f437bed63f6",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/00EBi488hyFBE0jS3s2QXW"
+  }
+}

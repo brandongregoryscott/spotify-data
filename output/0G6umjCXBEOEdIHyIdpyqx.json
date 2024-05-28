@@ -1,0 +1,33 @@
+{
+  "id": "0G6umjCXBEOEdIHyIdpyqx",
+  "name": "Blerta",
+  "uri": "spotify:artist:0G6umjCXBEOEdIHyIdpyqx",
+  "followers": {
+    "href": null,
+    "total": 771
+  },
+  "genres": [
+    "classic nz pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ec2645b9c108e3db8a19ba7b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ec2645b9c108e3db8a19ba7b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ec2645b9c108e3db8a19ba7b",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0G6umjCXBEOEdIHyIdpyqx"
+  }
+}
