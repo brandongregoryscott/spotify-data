@@ -1,0 +1,33 @@
+{
+  "id": "6i4eUXUVo6yGuCULsNA7aa",
+  "name": "Cango",
+  "uri": "spotify:artist:6i4eUXUVo6yGuCULsNA7aa",
+  "followers": {
+    "href": null,
+    "total": 582
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf408a0a3948ff721f3f5d2ef",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f408a0a3948ff721f3f5d2ef",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f408a0a3948ff721f3f5d2ef",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6i4eUXUVo6yGuCULsNA7aa"
+  }
+}

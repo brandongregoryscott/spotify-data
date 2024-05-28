@@ -1,0 +1,33 @@
+{
+  "id": "6f5yObGSpFj9eJL55GBzrb",
+  "name": "LANKS",
+  "uri": "spotify:artist:6f5yObGSpFj9eJL55GBzrb",
+  "followers": {
+    "href": null,
+    "total": 31198
+  },
+  "genres": [
+    "vapor soul"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb99c9f2dd84c757b265afbc0b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517499c9f2dd84c757b265afbc0b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17899c9f2dd84c757b265afbc0b",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb"
+  }
+}
