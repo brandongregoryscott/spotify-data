@@ -1,0 +1,33 @@
+{
+  "id": "1IEXc8HD8yrjW2seDlUdqx",
+  "name": "Grace Campbell",
+  "uri": "spotify:artist:1IEXc8HD8yrjW2seDlUdqx",
+  "followers": {
+    "href": null,
+    "total": 232
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf509a1d0cf123d67ec0b0d31",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f509a1d0cf123d67ec0b0d31",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f509a1d0cf123d67ec0b0d31",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1IEXc8HD8yrjW2seDlUdqx"
+  }
+}

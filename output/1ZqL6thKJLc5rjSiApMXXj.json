@@ -1,0 +1,33 @@
+{
+  "id": "1ZqL6thKJLc5rjSiApMXXj",
+  "name": "Aschella",
+  "uri": "spotify:artist:1ZqL6thKJLc5rjSiApMXXj",
+  "followers": {
+    "href": null,
+    "total": 82
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c7193e132ba5f1bae847af51",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c7193e132ba5f1bae847af51",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c7193e132ba5f1bae847af51",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ZqL6thKJLc5rjSiApMXXj"
+  }
+}
