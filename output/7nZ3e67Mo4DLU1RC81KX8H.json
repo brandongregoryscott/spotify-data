@@ -1,0 +1,33 @@
+{
+  "id": "7nZ3e67Mo4DLU1RC81KX8H",
+  "name": "La Lá",
+  "uri": "spotify:artist:7nZ3e67Mo4DLU1RC81KX8H",
+  "followers": {
+    "href": null,
+    "total": 50976
+  },
+  "genres": [
+    "peruvian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb50a6d83e38f641d55bbfb8cc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517450a6d83e38f641d55bbfb8cc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17850a6d83e38f641d55bbfb8cc",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7gEwcYMvazsud1k1blWxkX",
+  "name": "Larss",
+  "uri": "spotify:artist:7gEwcYMvazsud1k1blWxkX",
+  "followers": {
+    "href": null,
+    "total": 264
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb90fb9a13114b4e1a4ac9e611",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517490fb9a13114b4e1a4ac9e611",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17890fb9a13114b4e1a4ac9e611",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7gEwcYMvazsud1k1blWxkX"
+  }
+}
