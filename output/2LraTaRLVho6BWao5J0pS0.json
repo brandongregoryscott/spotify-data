@@ -1,0 +1,35 @@
+{
+  "id": "2LraTaRLVho6BWao5J0pS0",
+  "name": "I Nesta",
+  "uri": "spotify:artist:2LraTaRLVho6BWao5J0pS0",
+  "followers": {
+    "href": null,
+    "total": 39278
+  },
+  "genres": [
+    "panamanian pop",
+    "reggae en espanol",
+    "spanish reggae"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb24d0fe14082ff94612b355d5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517424d0fe14082ff94612b355d5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17824d0fe14082ff94612b355d5",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2LraTaRLVho6BWao5J0pS0"
+  }
+}
