@@ -1,0 +1,33 @@
+{
+  "id": "7E0x5KaMlXKgcCUU4v5jgL",
+  "name": "Fidi",
+  "uri": "spotify:artist:7E0x5KaMlXKgcCUU4v5jgL",
+  "followers": {
+    "href": null,
+    "total": 1769
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf470148ade557884d91b526a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f470148ade557884d91b526a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f470148ade557884d91b526a",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7E0x5KaMlXKgcCUU4v5jgL"
+  }
+}

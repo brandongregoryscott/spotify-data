@@ -1,0 +1,33 @@
+{
+  "id": "7FiivVA6jjKPgDxnjhNldM",
+  "name": "running in circles",
+  "uri": "spotify:artist:7FiivVA6jjKPgDxnjhNldM",
+  "followers": {
+    "href": null,
+    "total": 325
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1994548add258d390e6fdce7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051741994548add258d390e6fdce7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1781994548add258d390e6fdce7",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7FiivVA6jjKPgDxnjhNldM"
+  }
+}
