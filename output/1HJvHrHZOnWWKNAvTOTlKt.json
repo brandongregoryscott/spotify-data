@@ -1,0 +1,33 @@
+{
+  "id": "1HJvHrHZOnWWKNAvTOTlKt",
+  "name": "Jeff Hulett",
+  "uri": "spotify:artist:1HJvHrHZOnWWKNAvTOTlKt",
+  "followers": {
+    "href": null,
+    "total": 118
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb20ea8b1cf4f7f4173fc71d8d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517420ea8b1cf4f7f4173fc71d8d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17820ea8b1cf4f7f4173fc71d8d",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1HJvHrHZOnWWKNAvTOTlKt"
+  }
+}
