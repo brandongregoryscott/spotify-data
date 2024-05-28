@@ -1,0 +1,33 @@
+{
+  "id": "3Azj8v21CQ76AVvjuNv5Vg",
+  "name": "Pedro Suárez-Vértiz",
+  "uri": "spotify:artist:3Azj8v21CQ76AVvjuNv5Vg",
+  "followers": {
+    "href": null,
+    "total": 1621131
+  },
+  "genres": [
+    "peruvian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd8aacea169dbf485886c2bee",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d8aacea169dbf485886c2bee",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d8aacea169dbf485886c2bee",
+      "width": 160
+    }
+  ],
+  "popularity": 54,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+  }
+}
