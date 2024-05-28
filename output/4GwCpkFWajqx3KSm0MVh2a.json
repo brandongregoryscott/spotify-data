@@ -1,0 +1,33 @@
+{
+  "id": "4GwCpkFWajqx3KSm0MVh2a",
+  "name": "Fake ID",
+  "uri": "spotify:artist:4GwCpkFWajqx3KSm0MVh2a",
+  "followers": {
+    "href": null,
+    "total": 484
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273261bd3ac7097e06bca0c6cce",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02261bd3ac7097e06bca0c6cce",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851261bd3ac7097e06bca0c6cce",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4GwCpkFWajqx3KSm0MVh2a"
+  }
+}
