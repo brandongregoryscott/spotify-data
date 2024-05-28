@@ -1,0 +1,33 @@
+{
+  "id": "0dCyj1089aIPRXjyi6iwhh",
+  "name": "La Granja",
+  "uri": "spotify:artist:0dCyj1089aIPRXjyi6iwhh",
+  "followers": {
+    "href": null,
+    "total": 7049
+  },
+  "genres": [
+    "spanish new wave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba14ff39a74b76a915e45f901",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a14ff39a74b76a915e45f901",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a14ff39a74b76a915e45f901",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0dCyj1089aIPRXjyi6iwhh"
+  }
+}
