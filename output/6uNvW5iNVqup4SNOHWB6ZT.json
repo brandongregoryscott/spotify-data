@@ -1,0 +1,35 @@
+{
+  "id": "6uNvW5iNVqup4SNOHWB6ZT",
+  "name": "Scapa Flow",
+  "uri": "spotify:artist:6uNvW5iNVqup4SNOHWB6ZT",
+  "followers": {
+    "href": null,
+    "total": 1323
+  },
+  "genres": [
+    "ebm",
+    "electro-industrial",
+    "new beat"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27320df5a44b06cdc351b21bcaf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0220df5a44b06cdc351b21bcaf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485120df5a44b06cdc351b21bcaf",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6uNvW5iNVqup4SNOHWB6ZT"
+  }
+}

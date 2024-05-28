@@ -1,0 +1,35 @@
+{
+  "id": "6tsRo8ErXzpHk3tQeH6GBW",
+  "name": "Black Box",
+  "uri": "spotify:artist:6tsRo8ErXzpHk3tQeH6GBW",
+  "followers": {
+    "href": null,
+    "total": 135836
+  },
+  "genres": [
+    "diva house",
+    "hip house",
+    "italo house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf067b7c3286abe822fab7242",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f067b7c3286abe822fab7242",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f067b7c3286abe822fab7242",
+      "width": 160
+    }
+  ],
+  "popularity": 50,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6syZ4gKOcMEXvNM12FhnsG",
+  "name": "Best Bets",
+  "uri": "spotify:artist:6syZ4gKOcMEXvNM12FhnsG",
+  "followers": {
+    "href": null,
+    "total": 242
+  },
+  "genres": [
+    "christchurch indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5eba8396afadb60c8acb994c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051745eba8396afadb60c8acb994c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1785eba8396afadb60c8acb994c",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6syZ4gKOcMEXvNM12FhnsG"
+  }
+}
