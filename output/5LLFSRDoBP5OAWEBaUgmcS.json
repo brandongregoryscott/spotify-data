@@ -4,7 +4,7 @@
   "uri": "spotify:artist:5LLFSRDoBP5OAWEBaUgmcS",
   "followers": {
     "href": null,
-    "total": 512
+    "total": 525
   },
   "genres": [
 
@@ -12,21 +12,21 @@
   "images": [
     {
       "height": 640,
-      "url": "https://i.scdn.co/image/ab67616d0000b273e766e06cdb0106a460847d82",
+      "url": "https://i.scdn.co/image/ab67616d0000b2731006d4629e8a77334c5bfade",
       "width": 640
     },
     {
       "height": 300,
-      "url": "https://i.scdn.co/image/ab67616d00001e02e766e06cdb0106a460847d82",
+      "url": "https://i.scdn.co/image/ab67616d00001e021006d4629e8a77334c5bfade",
       "width": 300
     },
     {
       "height": 64,
-      "url": "https://i.scdn.co/image/ab67616d00004851e766e06cdb0106a460847d82",
+      "url": "https://i.scdn.co/image/ab67616d000048511006d4629e8a77334c5bfade",
       "width": 64
     }
   ],
-  "popularity": 1,
+  "popularity": 2,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/5LLFSRDoBP5OAWEBaUgmcS"
   }
