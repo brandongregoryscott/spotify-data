@@ -4,7 +4,7 @@
   "uri": "spotify:artist:1wHmR7I0UlF58WFQexCPha",
   "followers": {
     "href": null,
-    "total": 160163
+    "total": 160228
   },
   "genres": [
     "dark wave",
@@ -15,24 +15,19 @@
   ],
   "images": [
     {
-      "height": 1000,
-      "url": "https://i.scdn.co/image/ab6772690000c46ccb2937b144864c2e040b22eb",
-      "width": 1000
-    },
-    {
       "height": 640,
-      "url": "https://i.scdn.co/image/ab6772690000dd22cb2937b144864c2e040b22eb",
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd648c92f927cb4820d7b65d3",
       "width": 640
     },
     {
-      "height": 200,
-      "url": "https://i.scdn.co/image/ab6772690000bac3cb2937b144864c2e040b22eb",
-      "width": 200
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d648c92f927cb4820d7b65d3",
+      "width": 320
     },
     {
-      "height": 64,
-      "url": "https://i.scdn.co/image/ab67726900008f74cb2937b144864c2e040b22eb",
-      "width": 64
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d648c92f927cb4820d7b65d3",
+      "width": 160
     }
   ],
   "popularity": 39,
