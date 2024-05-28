@@ -1,0 +1,34 @@
+{
+  "id": "5YA1c6yVkPnflTLMfOgjzc",
+  "name": "Vistas",
+  "uri": "spotify:artist:5YA1c6yVkPnflTLMfOgjzc",
+  "followers": {
+    "href": null,
+    "total": 72035
+  },
+  "genres": [
+    "edinburgh indie",
+    "scottish indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb13c424550e412d9c5fbbde9f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517413c424550e412d9c5fbbde9f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17813c424550e412d9c5fbbde9f",
+      "width": 160
+    }
+  ],
+  "popularity": 41,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5WUZ83C7UmD3DSmUqkldyT",
+  "name": "Grits & Greens",
+  "uri": "spotify:artist:5WUZ83C7UmD3DSmUqkldyT",
+  "followers": {
+    "href": null,
+    "total": 1021
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb954704778c193b10e2bc5972",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174954704778c193b10e2bc5972",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178954704778c193b10e2bc5972",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5WUZ83C7UmD3DSmUqkldyT"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5iCCchx08AOJTQOg0IuAUd",
+  "name": "DE-TÜ",
+  "uri": "spotify:artist:5iCCchx08AOJTQOg0IuAUd",
+  "followers": {
+    "href": null,
+    "total": 2193
+  },
+  "genres": [
+    "deep dubstep"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27368fe0e5221dcec68ab17c94f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0268fe0e5221dcec68ab17c94f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485168fe0e5221dcec68ab17c94f",
+      "width": 64
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5iCCchx08AOJTQOg0IuAUd"
+  }
+}
