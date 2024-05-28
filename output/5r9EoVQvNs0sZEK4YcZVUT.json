@@ -1,0 +1,33 @@
+{
+  "id": "5r9EoVQvNs0sZEK4YcZVUT",
+  "name": "Expo Seventy",
+  "uri": "spotify:artist:5r9EoVQvNs0sZEK4YcZVUT",
+  "followers": {
+    "href": null,
+    "total": 127
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273712e1af26bdc6458b3b1064d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02712e1af26bdc6458b3b1064d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851712e1af26bdc6458b3b1064d",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5r9EoVQvNs0sZEK4YcZVUT"
+  }
+}

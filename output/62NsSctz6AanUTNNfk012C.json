@@ -1,0 +1,33 @@
+{
+  "id": "62NsSctz6AanUTNNfk012C",
+  "name": "David Clean",
+  "uri": "spotify:artist:62NsSctz6AanUTNNfk012C",
+  "followers": {
+    "href": null,
+    "total": 108
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebff85b09e4d5353bee27e7196",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ff85b09e4d5353bee27e7196",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ff85b09e4d5353bee27e7196",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/62NsSctz6AanUTNNfk012C"
+  }
+}
