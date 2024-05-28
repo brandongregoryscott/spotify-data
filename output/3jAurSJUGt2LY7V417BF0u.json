@@ -1,0 +1,34 @@
+{
+  "id": "3jAurSJUGt2LY7V417BF0u",
+  "name": "Alejandro y Maria Laura",
+  "uri": "spotify:artist:3jAurSJUGt2LY7V417BF0u",
+  "followers": {
+    "href": null,
+    "total": 39057
+  },
+  "genres": [
+    "indie rock peruano",
+    "peruvian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcf1089edd89fbf8e9152b4b2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cf1089edd89fbf8e9152b4b2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cf1089edd89fbf8e9152b4b2",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+  }
+}

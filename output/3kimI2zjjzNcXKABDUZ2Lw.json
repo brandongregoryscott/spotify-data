@@ -1,0 +1,33 @@
+{
+  "id": "3kimI2zjjzNcXKABDUZ2Lw",
+  "name": "Simpl3jack",
+  "uri": "spotify:artist:3kimI2zjjzNcXKABDUZ2Lw",
+  "followers": {
+    "href": null,
+    "total": 77
+  },
+  "genres": [
+    "sacramento indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d5a709bd8d8b607d31d4b54c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d5a709bd8d8b607d31d4b54c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d5a709bd8d8b607d31d4b54c",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3kimI2zjjzNcXKABDUZ2Lw"
+  }
+}

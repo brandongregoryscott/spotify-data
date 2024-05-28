@@ -1,0 +1,33 @@
+{
+  "id": "3rX87LDdns4EagFe9P1CQV",
+  "name": "Burt",
+  "uri": "spotify:artist:3rX87LDdns4EagFe9P1CQV",
+  "followers": {
+    "href": null,
+    "total": 107
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273de1a2c0ffd2a0577cb345253",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02de1a2c0ffd2a0577cb345253",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851de1a2c0ffd2a0577cb345253",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3rX87LDdns4EagFe9P1CQV"
+  }
+}
