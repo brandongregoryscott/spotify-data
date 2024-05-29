@@ -1,0 +1,34 @@
+{
+  "id": "57SSNiDayriZOVnjtwYZUZ",
+  "name": "The Ipanemas",
+  "uri": "spotify:artist:57SSNiDayriZOVnjtwYZUZ",
+  "followers": {
+    "href": null,
+    "total": 9778
+  },
+  "genres": [
+    "bossa nova",
+    "samba-jazz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27302aa34559a29e8e101fd4419",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0202aa34559a29e8e101fd4419",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485102aa34559a29e8e101fd4419",
+      "width": 64
+    }
+  ],
+  "popularity": 39,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/57SSNiDayriZOVnjtwYZUZ"
+  }
+}

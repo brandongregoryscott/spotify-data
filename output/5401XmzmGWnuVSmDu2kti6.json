@@ -1,0 +1,35 @@
+{
+  "id": "5401XmzmGWnuVSmDu2kti6",
+  "name": "Saska Helmikallio",
+  "uri": "spotify:artist:5401XmzmGWnuVSmDu2kti6",
+  "followers": {
+    "href": null,
+    "total": 1450
+  },
+  "genres": [
+    "classic finnish pop",
+    "classic iskelma",
+    "iskelma"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e6ed50f6ccca819abaf29205",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e6ed50f6ccca819abaf29205",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e6ed50f6ccca819abaf29205",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5401XmzmGWnuVSmDu2kti6"
+  }
+}

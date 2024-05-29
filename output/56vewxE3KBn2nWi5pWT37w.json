@@ -1,0 +1,33 @@
+{
+  "id": "56vewxE3KBn2nWi5pWT37w",
+  "name": "Wendy & Mary",
+  "uri": "spotify:artist:56vewxE3KBn2nWi5pWT37w",
+  "followers": {
+    "href": null,
+    "total": 635
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cbd6c48c74bb10e0e7e076cb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cbd6c48c74bb10e0e7e076cb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cbd6c48c74bb10e0e7e076cb",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/56vewxE3KBn2nWi5pWT37w"
+  }
+}
