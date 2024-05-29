@@ -1,0 +1,33 @@
+{
+  "id": "7EPKRaCPXaCBG6AXoNwPbN",
+  "name": "Meddler",
+  "uri": "spotify:artist:7EPKRaCPXaCBG6AXoNwPbN",
+  "followers": {
+    "href": null,
+    "total": 125
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736f18d0bbe5de15029781988c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026f18d0bbe5de15029781988c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516f18d0bbe5de15029781988c",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7EPKRaCPXaCBG6AXoNwPbN"
+  }
+}
