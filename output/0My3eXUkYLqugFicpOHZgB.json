@@ -1,0 +1,33 @@
+{
+  "id": "0My3eXUkYLqugFicpOHZgB",
+  "name": "Bryan Murray",
+  "uri": "spotify:artist:0My3eXUkYLqugFicpOHZgB",
+  "followers": {
+    "href": null,
+    "total": 84
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 422,
+      "url": "https://i.scdn.co/image/1569297865c0f0fb22662445100b03187c6d1a95",
+      "width": 505
+    },
+    {
+      "height": 167,
+      "url": "https://i.scdn.co/image/e02f17464dbf89a28103c45f18fa7142f20564d3",
+      "width": 200
+    },
+    {
+      "height": 53,
+      "url": "https://i.scdn.co/image/581af5bc0626b8d6cc259e3cf3175ecc57c64f16",
+      "width": 63
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0My3eXUkYLqugFicpOHZgB"
+  }
+}
