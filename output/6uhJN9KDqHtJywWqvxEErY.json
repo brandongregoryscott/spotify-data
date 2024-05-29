@@ -1,0 +1,33 @@
+{
+  "id": "6uhJN9KDqHtJywWqvxEErY",
+  "name": "Farfisa",
+  "uri": "spotify:artist:6uhJN9KDqHtJywWqvxEErY",
+  "followers": {
+    "href": null,
+    "total": 458
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb59ac6a70eee7388800ef4a85",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517459ac6a70eee7388800ef4a85",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17859ac6a70eee7388800ef4a85",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6uhJN9KDqHtJywWqvxEErY"
+  }
+}

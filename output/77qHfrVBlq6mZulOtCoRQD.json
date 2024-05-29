@@ -1,0 +1,33 @@
+{
+  "id": "77qHfrVBlq6mZulOtCoRQD",
+  "name": "Kyrie",
+  "uri": "spotify:artist:77qHfrVBlq6mZulOtCoRQD",
+  "followers": {
+    "href": null,
+    "total": 42
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe77eee0508b1a870055bfdce",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e77eee0508b1a870055bfdce",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e77eee0508b1a870055bfdce",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/77qHfrVBlq6mZulOtCoRQD"
+  }
+}
