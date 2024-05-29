@@ -1,0 +1,33 @@
+{
+  "id": "5dIZSBfvVFtKYcWuVxLu9W",
+  "name": "Pure Shade",
+  "uri": "spotify:artist:5dIZSBfvVFtKYcWuVxLu9W",
+  "followers": {
+    "href": null,
+    "total": 280
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb65bda25e4eb37508066ea498",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517465bda25e4eb37508066ea498",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17865bda25e4eb37508066ea498",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5dIZSBfvVFtKYcWuVxLu9W"
+  }
+}
