@@ -1,0 +1,33 @@
+{
+  "id": "5LL2DywIzLG6OHVjzlOFgw",
+  "name": "The Third Rail",
+  "uri": "spotify:artist:5LL2DywIzLG6OHVjzlOFgw",
+  "followers": {
+    "href": null,
+    "total": 412
+  },
+  "genres": [
+    "classic psychedelic rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273af02526944067b50c8930d4d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02af02526944067b50c8930d4d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851af02526944067b50c8930d4d",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5LL2DywIzLG6OHVjzlOFgw"
+  }
+}

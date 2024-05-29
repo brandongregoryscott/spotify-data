@@ -1,0 +1,33 @@
+{
+  "id": "5NCYWziswTUThx83ZQuNJD",
+  "name": "Krewes",
+  "uri": "spotify:artist:5NCYWziswTUThx83ZQuNJD",
+  "followers": {
+    "href": null,
+    "total": 329
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273de4dc5a3ad7094c89b0f952e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02de4dc5a3ad7094c89b0f952e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851de4dc5a3ad7094c89b0f952e",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5NCYWziswTUThx83ZQuNJD"
+  }
+}
