@@ -1,0 +1,33 @@
+{
+  "id": "6EBSw25mfzV6qHnlxS9A5y",
+  "name": "Luis Loz",
+  "uri": "spotify:artist:6EBSw25mfzV6qHnlxS9A5y",
+  "followers": {
+    "href": null,
+    "total": 187
+  },
+  "genres": [
+    "peruvian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb34706c3a2b6e50a3a5effb0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b34706c3a2b6e50a3a5effb0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b34706c3a2b6e50a3a5effb0",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6EBSw25mfzV6qHnlxS9A5y"
+  }
+}

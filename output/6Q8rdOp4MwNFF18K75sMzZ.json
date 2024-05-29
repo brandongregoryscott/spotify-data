@@ -1,0 +1,33 @@
+{
+  "id": "6Q8rdOp4MwNFF18K75sMzZ",
+  "name": "Luke D",
+  "uri": "spotify:artist:6Q8rdOp4MwNFF18K75sMzZ",
+  "followers": {
+    "href": null,
+    "total": 338
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb44f8a25c86f6d76552c75cb4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517444f8a25c86f6d76552c75cb4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17844f8a25c86f6d76552c75cb4",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Q8rdOp4MwNFF18K75sMzZ"
+  }
+}
