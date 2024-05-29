@@ -1,0 +1,33 @@
+{
+  "id": "1oyUjl52ohRrCv3EL1UdpM",
+  "name": "Confetti",
+  "uri": "spotify:artist:1oyUjl52ohRrCv3EL1UdpM",
+  "followers": {
+    "href": null,
+    "total": 204566
+  },
+  "genres": [
+    "la pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb15b92065e78a81a8ad87f124",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517415b92065e78a81a8ad87f124",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17815b92065e78a81a8ad87f124",
+      "width": 160
+    }
+  ],
+  "popularity": 57,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM"
+  }
+}

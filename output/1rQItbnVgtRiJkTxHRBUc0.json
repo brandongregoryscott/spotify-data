@@ -1,0 +1,33 @@
+{
+  "id": "1rQItbnVgtRiJkTxHRBUc0",
+  "name": "Player Dave",
+  "uri": "spotify:artist:1rQItbnVgtRiJkTxHRBUc0",
+  "followers": {
+    "href": null,
+    "total": 12015
+  },
+  "genres": [
+    "future bass"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebffae4f293b9353e1d4e75667",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ffae4f293b9353e1d4e75667",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ffae4f293b9353e1d4e75667",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0"
+  }
+}
