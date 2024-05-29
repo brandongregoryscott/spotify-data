@@ -1,0 +1,33 @@
+{
+  "id": "15EWKxh9CT6XDgMsbtSPqN",
+  "name": "Will Bates",
+  "uri": "spotify:artist:15EWKxh9CT6XDgMsbtSPqN",
+  "followers": {
+    "href": null,
+    "total": 3535
+  },
+  "genres": [
+    "soundtrack"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfbc5542236cdfa0a09935763",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fbc5542236cdfa0a09935763",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fbc5542236cdfa0a09935763",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/15EWKxh9CT6XDgMsbtSPqN"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1Em05jXTvMvDlbFwTgCDV4",
+  "name": "Gossiper",
+  "uri": "spotify:artist:1Em05jXTvMvDlbFwTgCDV4",
+  "followers": {
+    "href": null,
+    "total": 194
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf6d006ed4dc1441f5d24f7bf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f6d006ed4dc1441f5d24f7bf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f6d006ed4dc1441f5d24f7bf",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Em05jXTvMvDlbFwTgCDV4"
+  }
+}

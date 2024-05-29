@@ -1,0 +1,33 @@
+{
+  "id": "10H1ROM18LgQkjVu047MGp",
+  "name": "CLOW",
+  "uri": "spotify:artist:10H1ROM18LgQkjVu047MGp",
+  "followers": {
+    "href": null,
+    "total": 441
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe539a0c5ba68d0aa40387405",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e539a0c5ba68d0aa40387405",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e539a0c5ba68d0aa40387405",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/10H1ROM18LgQkjVu047MGp"
+  }
+}

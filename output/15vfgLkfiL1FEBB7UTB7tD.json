@@ -1,0 +1,33 @@
+{
+  "id": "15vfgLkfiL1FEBB7UTB7tD",
+  "name": "Sotz'",
+  "uri": "spotify:artist:15vfgLkfiL1FEBB7UTB7tD",
+  "followers": {
+    "href": null,
+    "total": 555
+  },
+  "genres": [
+    "portuguese metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb71f58819a57b11c10f0b2903",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517471f58819a57b11c10f0b2903",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17871f58819a57b11c10f0b2903",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/15vfgLkfiL1FEBB7UTB7tD"
+  }
+}
