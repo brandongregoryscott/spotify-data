@@ -1,0 +1,33 @@
+{
+  "id": "7r64YaNKxk8pUGNrNaZBHz",
+  "name": "Seven",
+  "uri": "spotify:artist:7r64YaNKxk8pUGNrNaZBHz",
+  "followers": {
+    "href": null,
+    "total": 420
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7202cd10b1f4e394f954e17d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051747202cd10b1f4e394f954e17d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1787202cd10b1f4e394f954e17d",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7r64YaNKxk8pUGNrNaZBHz"
+  }
+}
