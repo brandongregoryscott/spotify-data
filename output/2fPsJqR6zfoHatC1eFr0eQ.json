@@ -1,0 +1,33 @@
+{
+  "id": "2fPsJqR6zfoHatC1eFr0eQ",
+  "name": "Livingston",
+  "uri": "spotify:artist:2fPsJqR6zfoHatC1eFr0eQ",
+  "followers": {
+    "href": null,
+    "total": 637407
+  },
+  "genres": [
+    "singer-songwriter pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebadc0e7196be31ac8fb4f6cbc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174adc0e7196be31ac8fb4f6cbc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178adc0e7196be31ac8fb4f6cbc",
+      "width": 160
+    }
+  ],
+  "popularity": 65,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ"
+  }
+}

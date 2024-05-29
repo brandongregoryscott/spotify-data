@@ -1,0 +1,33 @@
+{
+  "id": "2cEJMsyaAp9PWSWYyUbqFW",
+  "name": "The Relax",
+  "uri": "spotify:artist:2cEJMsyaAp9PWSWYyUbqFW",
+  "followers": {
+    "href": null,
+    "total": 270
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf387b31ce3ae4ef17c01d5b1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f387b31ce3ae4ef17c01d5b1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f387b31ce3ae4ef17c01d5b1",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2cEJMsyaAp9PWSWYyUbqFW"
+  }
+}
