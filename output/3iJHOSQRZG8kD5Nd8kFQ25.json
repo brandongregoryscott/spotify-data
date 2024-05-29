@@ -1,0 +1,33 @@
+{
+  "id": "3iJHOSQRZG8kD5Nd8kFQ25",
+  "name": "Diriglow",
+  "uri": "spotify:artist:3iJHOSQRZG8kD5Nd8kFQ25",
+  "followers": {
+    "href": null,
+    "total": 17
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc85b86f6ee1c41371e491148",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c85b86f6ee1c41371e491148",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c85b86f6ee1c41371e491148",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3iJHOSQRZG8kD5Nd8kFQ25"
+  }
+}
