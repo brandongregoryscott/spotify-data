@@ -1,0 +1,33 @@
+{
+  "id": "0BnUiS7ldNOHgJDfMEjc8y",
+  "name": "Zaint",
+  "uri": "spotify:artist:0BnUiS7ldNOHgJDfMEjc8y",
+  "followers": {
+    "href": null,
+    "total": 122
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb67c123a366cbf0ec786b491a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517467c123a366cbf0ec786b491a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17867c123a366cbf0ec786b491a",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0BnUiS7ldNOHgJDfMEjc8y"
+  }
+}
