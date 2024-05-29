@@ -1,0 +1,33 @@
+{
+  "id": "3vQdZBvY6uB53amgPzQEdu",
+  "name": "Scorch",
+  "uri": "spotify:artist:3vQdZBvY6uB53amgPzQEdu",
+  "followers": {
+    "href": null,
+    "total": 118
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb45047025e276c0abded005b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b45047025e276c0abded005b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b45047025e276c0abded005b",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3vQdZBvY6uB53amgPzQEdu"
+  }
+}

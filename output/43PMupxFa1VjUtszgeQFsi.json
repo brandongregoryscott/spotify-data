@@ -1,0 +1,33 @@
+{
+  "id": "43PMupxFa1VjUtszgeQFsi",
+  "name": "Conor James",
+  "uri": "spotify:artist:43PMupxFa1VjUtszgeQFsi",
+  "followers": {
+    "href": null,
+    "total": 556
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb5657f3aedde37a831e1b6ac",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b5657f3aedde37a831e1b6ac",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b5657f3aedde37a831e1b6ac",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/43PMupxFa1VjUtszgeQFsi"
+  }
+}
