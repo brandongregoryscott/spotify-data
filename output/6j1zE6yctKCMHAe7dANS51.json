@@ -1,0 +1,34 @@
+{
+  "id": "6j1zE6yctKCMHAe7dANS51",
+  "name": "Darj",
+  "uri": "spotify:artist:6j1zE6yctKCMHAe7dANS51",
+  "followers": {
+    "href": null,
+    "total": 794
+  },
+  "genres": [
+    "minimal dubstep",
+    "substep"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e7a0cb5068e38ed59196c1d6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e7a0cb5068e38ed59196c1d6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e7a0cb5068e38ed59196c1d6",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6j1zE6yctKCMHAe7dANS51"
+  }
+}

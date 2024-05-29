@@ -1,0 +1,33 @@
+{
+  "id": "6bIM8yCfbkBSVS40TP5gCf",
+  "name": "lighthearted",
+  "uri": "spotify:artist:6bIM8yCfbkBSVS40TP5gCf",
+  "followers": {
+    "href": null,
+    "total": 4882
+  },
+  "genres": [
+    "athens indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb343f55ba3f9fafc1b9a56856",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174343f55ba3f9fafc1b9a56856",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178343f55ba3f9fafc1b9a56856",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
+  }
+}
