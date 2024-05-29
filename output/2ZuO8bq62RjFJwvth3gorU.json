@@ -1,0 +1,33 @@
+{
+  "id": "2ZuO8bq62RjFJwvth3gorU",
+  "name": "Freaky",
+  "uri": "spotify:artist:2ZuO8bq62RjFJwvth3gorU",
+  "followers": {
+    "href": null,
+    "total": 130
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf2ad409025eac7d379651342",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f2ad409025eac7d379651342",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f2ad409025eac7d379651342",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ZuO8bq62RjFJwvth3gorU"
+  }
+}

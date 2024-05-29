@@ -1,0 +1,34 @@
+{
+  "id": "2KcO6cVg4x4rYGSXLPCmPx",
+  "name": "De Rosa",
+  "uri": "spotify:artist:2KcO6cVg4x4rYGSXLPCmPx",
+  "followers": {
+    "href": null,
+    "total": 1523
+  },
+  "genres": [
+    "scottish indie",
+    "scottish indie folk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e76837aad0a9351cf3c6241e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e76837aad0a9351cf3c6241e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e76837aad0a9351cf3c6241e",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2KcO6cVg4x4rYGSXLPCmPx"
+  }
+}
