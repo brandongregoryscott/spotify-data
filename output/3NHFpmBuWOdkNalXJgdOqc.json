@@ -1,0 +1,35 @@
+{
+  "id": "3NHFpmBuWOdkNalXJgdOqc",
+  "name": "Tamba Trio",
+  "uri": "spotify:artist:3NHFpmBuWOdkNalXJgdOqc",
+  "followers": {
+    "href": null,
+    "total": 24966
+  },
+  "genres": [
+    "bossa nova",
+    "brazilian jazz",
+    "samba-jazz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273245644aba94bee5d003756da",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02245644aba94bee5d003756da",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851245644aba94bee5d003756da",
+      "width": 64
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3NHFpmBuWOdkNalXJgdOqc"
+  }
+}

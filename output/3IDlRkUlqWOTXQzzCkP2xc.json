@@ -1,0 +1,34 @@
+{
+  "id": "3IDlRkUlqWOTXQzzCkP2xc",
+  "name": "Pedrinho",
+  "uri": "spotify:artist:3IDlRkUlqWOTXQzzCkP2xc",
+  "followers": {
+    "href": null,
+    "total": 1378
+  },
+  "genres": [
+    "funana",
+    "musica cabo-verdiana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bf5ad32b06b5a6e9685543f5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bf5ad32b06b5a6e9685543f5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bf5ad32b06b5a6e9685543f5",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3IDlRkUlqWOTXQzzCkP2xc"
+  }
+}
