@@ -1,0 +1,34 @@
+{
+  "id": "4HLVASaI7mpSxzIGZSRJVa",
+  "name": "Roadtrip",
+  "uri": "spotify:artist:4HLVASaI7mpSxzIGZSRJVa",
+  "followers": {
+    "href": null,
+    "total": 168415
+  },
+  "genres": [
+    "social media pop",
+    "teen pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb90a513c44e631cbdd40c071d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517490a513c44e631cbdd40c071d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17890a513c44e631cbdd40c071d",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4HLVASaI7mpSxzIGZSRJVa"
+  }
+}

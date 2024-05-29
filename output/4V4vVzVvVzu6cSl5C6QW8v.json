@@ -1,0 +1,34 @@
+{
+  "id": "4V4vVzVvVzu6cSl5C6QW8v",
+  "name": "Markus Törmälä",
+  "uri": "spotify:artist:4V4vVzVvVzu6cSl5C6QW8v",
+  "followers": {
+    "href": null,
+    "total": 305
+  },
+  "genres": [
+    "iskelma",
+    "rautalanka"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731ef7b6a2b45aa31ceb041505",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021ef7b6a2b45aa31ceb041505",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511ef7b6a2b45aa31ceb041505",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4V4vVzVvVzu6cSl5C6QW8v"
+  }
+}
