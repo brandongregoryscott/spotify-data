@@ -1,0 +1,33 @@
+{
+  "id": "7kRYWMLDLIJkekABmKyQ55",
+  "name": "BANYAH",
+  "uri": "spotify:artist:7kRYWMLDLIJkekABmKyQ55",
+  "followers": {
+    "href": null,
+    "total": 385
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6fa32675002e398e8a03222b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051746fa32675002e398e8a03222b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1786fa32675002e398e8a03222b",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7kRYWMLDLIJkekABmKyQ55"
+  }
+}

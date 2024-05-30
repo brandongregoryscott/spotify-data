@@ -1,0 +1,33 @@
+{
+  "id": "7ptdkv5h4BpCnedGpkjbbj",
+  "name": "Herencia",
+  "uri": "spotify:artist:7ptdkv5h4BpCnedGpkjbbj",
+  "followers": {
+    "href": null,
+    "total": 148
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738d6ca792010cd7ffe6440cb3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028d6ca792010cd7ffe6440cb3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518d6ca792010cd7ffe6440cb3",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ptdkv5h4BpCnedGpkjbbj"
+  }
+}

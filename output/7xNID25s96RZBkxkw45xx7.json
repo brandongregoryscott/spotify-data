@@ -1,0 +1,33 @@
+{
+  "id": "7xNID25s96RZBkxkw45xx7",
+  "name": "Audioweb",
+  "uri": "spotify:artist:7xNID25s96RZBkxkw45xx7",
+  "followers": {
+    "href": null,
+    "total": 1586
+  },
+  "genres": [
+    "madchester"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb00fd1750638ebe5a110bda8c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517400fd1750638ebe5a110bda8c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17800fd1750638ebe5a110bda8c",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7xNID25s96RZBkxkw45xx7"
+  }
+}
