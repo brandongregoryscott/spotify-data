@@ -1,0 +1,37 @@
+{
+  "id": "5O5o8ORa6JnUInvOUmmvft",
+  "name": "Kobo",
+  "uri": "spotify:artist:5O5o8ORa6JnUInvOUmmvft",
+  "followers": {
+    "href": null,
+    "total": 27024
+  },
+  "genres": [
+    "belgian hip hop",
+    "cloud rap francais",
+    "french hip hop",
+    "rap calme",
+    "rap francais"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb32a09cb7ff7b3623bb4620ff",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517432a09cb7ff7b3623bb4620ff",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17832a09cb7ff7b3623bb4620ff",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5O5o8ORa6JnUInvOUmmvft"
+  }
+}

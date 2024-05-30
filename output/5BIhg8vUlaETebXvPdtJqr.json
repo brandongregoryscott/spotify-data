@@ -1,0 +1,33 @@
+{
+  "id": "5BIhg8vUlaETebXvPdtJqr",
+  "name": "Non Fiktion",
+  "uri": "spotify:artist:5BIhg8vUlaETebXvPdtJqr",
+  "followers": {
+    "href": null,
+    "total": 487
+  },
+  "genres": [
+    "deep g funk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27346686fbd131b985efa3bf3db",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0246686fbd131b985efa3bf3db",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485146686fbd131b985efa3bf3db",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5BIhg8vUlaETebXvPdtJqr"
+  }
+}

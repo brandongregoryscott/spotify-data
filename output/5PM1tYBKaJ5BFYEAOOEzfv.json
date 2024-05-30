@@ -1,0 +1,33 @@
+{
+  "id": "5PM1tYBKaJ5BFYEAOOEzfv",
+  "name": "2three",
+  "uri": "spotify:artist:5PM1tYBKaJ5BFYEAOOEzfv",
+  "followers": {
+    "href": null,
+    "total": 456
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bd1ec0d3824e843bf777f556",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bd1ec0d3824e843bf777f556",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bd1ec0d3824e843bf777f556",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5PM1tYBKaJ5BFYEAOOEzfv"
+  }
+}
