@@ -1,0 +1,33 @@
+{
+  "id": "6CvxQKw4l94zmebOGzkDdJ",
+  "name": "Jooce",
+  "uri": "spotify:artist:6CvxQKw4l94zmebOGzkDdJ",
+  "followers": {
+    "href": null,
+    "total": 187
+  },
+  "genres": [
+    "dublin indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27321914e7abf2f441f12bd7351",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0221914e7abf2f441f12bd7351",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485121914e7abf2f441f12bd7351",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6CvxQKw4l94zmebOGzkDdJ"
+  }
+}
