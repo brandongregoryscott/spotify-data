@@ -1,0 +1,33 @@
+{
+  "id": "04bDp8VBNHzbTdujiMUuCb",
+  "name": "Lysistrata",
+  "uri": "spotify:artist:04bDp8VBNHzbTdujiMUuCb",
+  "followers": {
+    "href": null,
+    "total": 14096
+  },
+  "genres": [
+    "rock alternatif francais"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd831d53c63f5c4e9cec5fbd3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d831d53c63f5c4e9cec5fbd3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d831d53c63f5c4e9cec5fbd3",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb"
+  }
+}

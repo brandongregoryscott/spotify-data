@@ -1,0 +1,33 @@
+{
+  "id": "0Dmc3MyIQXtuxGyVDLD0JO",
+  "name": "MM Orchard",
+  "uri": "spotify:artist:0Dmc3MyIQXtuxGyVDLD0JO",
+  "followers": {
+    "href": null,
+    "total": 167
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb908f8b4a56cc19f801ca253e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174908f8b4a56cc19f801ca253e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178908f8b4a56cc19f801ca253e",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Dmc3MyIQXtuxGyVDLD0JO"
+  }
+}

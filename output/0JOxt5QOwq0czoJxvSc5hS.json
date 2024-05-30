@@ -1,0 +1,33 @@
+{
+  "id": "0JOxt5QOwq0czoJxvSc5hS",
+  "name": "GASHI",
+  "uri": "spotify:artist:0JOxt5QOwq0czoJxvSc5hS",
+  "followers": {
+    "href": null,
+    "total": 245135
+  },
+  "genres": [
+    "canadian hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb65469e109c7b13b48ca53f8c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517465469e109c7b13b48ca53f8c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17865469e109c7b13b48ca53f8c",
+      "width": 160
+    }
+  ],
+  "popularity": 51,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS"
+  }
+}
