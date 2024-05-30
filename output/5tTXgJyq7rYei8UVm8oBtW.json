@@ -1,0 +1,35 @@
+{
+  "id": "5tTXgJyq7rYei8UVm8oBtW",
+  "name": "Ethan Brosh",
+  "uri": "spotify:artist:5tTXgJyq7rYei8UVm8oBtW",
+  "followers": {
+    "href": null,
+    "total": 1820
+  },
+  "genres": [
+    "boston metal",
+    "instrumental rock",
+    "shred"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734d425581fba36bd4ec085c8f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024d425581fba36bd4ec085c8f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514d425581fba36bd4ec085c8f",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5tTXgJyq7rYei8UVm8oBtW"
+  }
+}
