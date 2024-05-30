@@ -1,0 +1,33 @@
+{
+  "id": "15O5SvckdowsVG9vbNUDWb",
+  "name": "Gowa",
+  "uri": "spotify:artist:15O5SvckdowsVG9vbNUDWb",
+  "followers": {
+    "href": null,
+    "total": 81
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb13608b79e21cddd958f12fd7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517413608b79e21cddd958f12fd7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17813608b79e21cddd958f12fd7",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/15O5SvckdowsVG9vbNUDWb"
+  }
+}

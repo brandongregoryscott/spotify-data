@@ -1,0 +1,33 @@
+{
+  "id": "1ErwZDB2os60WjaLNx1rRj",
+  "name": "El Oss",
+  "uri": "spotify:artist:1ErwZDB2os60WjaLNx1rRj",
+  "followers": {
+    "href": null,
+    "total": 7077
+  },
+  "genres": [
+    "rap chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeacd864beadbb3b3adc09b6f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eacd864beadbb3b3adc09b6f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eacd864beadbb3b3adc09b6f",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ErwZDB2os60WjaLNx1rRj"
+  }
+}

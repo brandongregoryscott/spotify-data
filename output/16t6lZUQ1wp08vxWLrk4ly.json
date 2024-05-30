@@ -1,0 +1,33 @@
+{
+  "id": "16t6lZUQ1wp08vxWLrk4ly",
+  "name": "Mike Bryce",
+  "uri": "spotify:artist:16t6lZUQ1wp08vxWLrk4ly",
+  "followers": {
+    "href": null,
+    "total": 40
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebca78d993973701e838ddd5b2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ca78d993973701e838ddd5b2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ca78d993973701e838ddd5b2",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/16t6lZUQ1wp08vxWLrk4ly"
+  }
+}
