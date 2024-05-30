@@ -1,0 +1,33 @@
+{
+  "id": "2CbRqYSzpSqd22xk4rSPRv",
+  "name": "KAARST",
+  "uri": "spotify:artist:2CbRqYSzpSqd22xk4rSPRv",
+  "followers": {
+    "href": null,
+    "total": 153
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb83985e1178b9f8a1417e0c9f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517483985e1178b9f8a1417e0c9f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17883985e1178b9f8a1417e0c9f",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2CbRqYSzpSqd22xk4rSPRv"
+  }
+}
