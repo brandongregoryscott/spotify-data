@@ -1,0 +1,34 @@
+{
+  "id": "5mzO3wMLHSucS6mL8ZElO1",
+  "name": "Mason Proffit",
+  "uri": "spotify:artist:5mzO3wMLHSucS6mL8ZElO1",
+  "followers": {
+    "href": null,
+    "total": 5065
+  },
+  "genres": [
+    "country rock",
+    "jesus movement"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273aeb588e396a16fa39ee8d3ac",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02aeb588e396a16fa39ee8d3ac",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851aeb588e396a16fa39ee8d3ac",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5mzO3wMLHSucS6mL8ZElO1"
+  }
+}
