@@ -1,0 +1,33 @@
+{
+  "id": "4PVzoVUDxey3mxGdkf4HgR",
+  "name": "Sam Alfred",
+  "uri": "spotify:artist:4PVzoVUDxey3mxGdkf4HgR",
+  "followers": {
+    "href": null,
+    "total": 6964
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb79ce558ed4bb3704db171261",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517479ce558ed4bb3704db171261",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17879ce558ed4bb3704db171261",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
+  }
+}

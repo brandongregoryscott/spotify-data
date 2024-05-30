@@ -1,0 +1,33 @@
+{
+  "id": "4JsUzhkzSBragGjDv2HhT8",
+  "name": "Gpmusic",
+  "uri": "spotify:artist:4JsUzhkzSBragGjDv2HhT8",
+  "followers": {
+    "href": null,
+    "total": 336
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb30ed954f5e4f64c5c29a9a9a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517430ed954f5e4f64c5c29a9a9a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17830ed954f5e4f64c5c29a9a9a",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4JsUzhkzSBragGjDv2HhT8"
+  }
+}

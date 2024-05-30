@@ -1,0 +1,36 @@
+{
+  "id": "4ICSPmFeTK5VDUyvbqVTTh",
+  "name": "Uruk-Hai",
+  "uri": "spotify:artist:4ICSPmFeTK5VDUyvbqVTTh",
+  "followers": {
+    "href": null,
+    "total": 3564
+  },
+  "genres": [
+    "dungeon synth",
+    "middle earth",
+    "spanish black metal",
+    "tolkien metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e12c47cf419765e7072f0acf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e12c47cf419765e7072f0acf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e12c47cf419765e7072f0acf",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4ICSPmFeTK5VDUyvbqVTTh"
+  }
+}
