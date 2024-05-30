@@ -1,0 +1,33 @@
+{
+  "id": "0iuvlNbXy0ExaLXADsSq4P",
+  "name": "Vera",
+  "uri": "spotify:artist:0iuvlNbXy0ExaLXADsSq4P",
+  "followers": {
+    "href": null,
+    "total": 176
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe60840520524299e8dd50498",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e60840520524299e8dd50498",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e60840520524299e8dd50498",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0iuvlNbXy0ExaLXADsSq4P"
+  }
+}
