@@ -1,0 +1,34 @@
+{
+  "id": "0bOSgUryDiUCvVbJUjM3y5",
+  "name": "Adrijana",
+  "uri": "spotify:artist:0bOSgUryDiUCvVbJUjM3y5",
+  "followers": {
+    "href": null,
+    "total": 4419
+  },
+  "genres": [
+    "swedish hip hop",
+    "swedish trap pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebced90238ebc6413ccf980cfe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ced90238ebc6413ccf980cfe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ced90238ebc6413ccf980cfe",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0bOSgUryDiUCvVbJUjM3y5"
+  }
+}
