@@ -1,0 +1,33 @@
+{
+  "id": "4cSobXLXhJMHYUZvBMuQFG",
+  "name": "3Breezy",
+  "uri": "spotify:artist:4cSobXLXhJMHYUZvBMuQFG",
+  "followers": {
+    "href": null,
+    "total": 165540
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc14be7635d8ef443d47d0323",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c14be7635d8ef443d47d0323",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c14be7635d8ef443d47d0323",
+      "width": 160
+    }
+  ],
+  "popularity": 45,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4cSobXLXhJMHYUZvBMuQFG"
+  }
+}
