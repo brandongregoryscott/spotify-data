@@ -1,0 +1,33 @@
+{
+  "id": "7ARoCnjLwvO9WuDz69mFJn",
+  "name": "YBF LUCI",
+  "uri": "spotify:artist:7ARoCnjLwvO9WuDz69mFJn",
+  "followers": {
+    "href": null,
+    "total": 520
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb19158ad2861ee6578d393d8f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517419158ad2861ee6578d393d8f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17819158ad2861ee6578d393d8f",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ARoCnjLwvO9WuDz69mFJn"
+  }
+}

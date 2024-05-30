@@ -1,0 +1,33 @@
+{
+  "id": "7CTNuFbfKKH7PygF76DGz6",
+  "name": "Eternal",
+  "uri": "spotify:artist:7CTNuFbfKKH7PygF76DGz6",
+  "followers": {
+    "href": null,
+    "total": 953
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb11813963ed836686e48f00b6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517411813963ed836686e48f00b6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17811813963ed836686e48f00b6",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7CTNuFbfKKH7PygF76DGz6"
+  }
+}

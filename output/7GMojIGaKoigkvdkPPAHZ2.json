@@ -1,0 +1,33 @@
+{
+  "id": "7GMojIGaKoigkvdkPPAHZ2",
+  "name": "Forrest Green",
+  "uri": "spotify:artist:7GMojIGaKoigkvdkPPAHZ2",
+  "followers": {
+    "href": null,
+    "total": 57
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf052604d51eaab2edbf08f29",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f052604d51eaab2edbf08f29",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f052604d51eaab2edbf08f29",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7GMojIGaKoigkvdkPPAHZ2"
+  }
+}
