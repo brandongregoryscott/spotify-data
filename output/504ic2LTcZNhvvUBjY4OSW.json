@@ -1,0 +1,33 @@
+{
+  "id": "504ic2LTcZNhvvUBjY4OSW",
+  "name": "Emma Fox",
+  "uri": "spotify:artist:504ic2LTcZNhvvUBjY4OSW",
+  "followers": {
+    "href": null,
+    "total": 44
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb36409d074fd678cb47814fdf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517436409d074fd678cb47814fdf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17836409d074fd678cb47814fdf",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/504ic2LTcZNhvvUBjY4OSW"
+  }
+}
