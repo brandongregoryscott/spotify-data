@@ -1,0 +1,33 @@
+{
+  "id": "3AKASPahuVYIBek9bmcmrk",
+  "name": "Sam Appleby",
+  "uri": "spotify:artist:3AKASPahuVYIBek9bmcmrk",
+  "followers": {
+    "href": null,
+    "total": 1635
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb65b6a731b07a68de7a2e156d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517465b6a731b07a68de7a2e156d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17865b6a731b07a68de7a2e156d",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3AKASPahuVYIBek9bmcmrk"
+  }
+}
