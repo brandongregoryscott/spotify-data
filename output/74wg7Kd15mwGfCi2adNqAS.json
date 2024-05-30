@@ -1,0 +1,33 @@
+{
+  "id": "74wg7Kd15mwGfCi2adNqAS",
+  "name": "HOMER",
+  "uri": "spotify:artist:74wg7Kd15mwGfCi2adNqAS",
+  "followers": {
+    "href": null,
+    "total": 1504
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb30ec8f3a9b4ab3b2c07f6c5d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517430ec8f3a9b4ab3b2c07f6c5d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17830ec8f3a9b4ab3b2c07f6c5d",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/74wg7Kd15mwGfCi2adNqAS"
+  }
+}
