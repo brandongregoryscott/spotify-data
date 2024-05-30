@@ -1,0 +1,34 @@
+{
+  "id": "1TURKghoJp4HPXjs84mION",
+  "name": "The Jellybricks",
+  "uri": "spotify:artist:1TURKghoJp4HPXjs84mION",
+  "followers": {
+    "href": null,
+    "total": 1242
+  },
+  "genres": [
+    "modern power pop",
+    "underground power pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe3ed7cbf13f223ca60467fb2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e3ed7cbf13f223ca60467fb2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e3ed7cbf13f223ca60467fb2",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1TURKghoJp4HPXjs84mION"
+  }
+}

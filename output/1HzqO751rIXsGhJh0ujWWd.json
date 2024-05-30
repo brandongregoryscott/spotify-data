@@ -1,0 +1,33 @@
+{
+  "id": "1HzqO751rIXsGhJh0ujWWd",
+  "name": "Kubik",
+  "uri": "spotify:artist:1HzqO751rIXsGhJh0ujWWd",
+  "followers": {
+    "href": null,
+    "total": 597
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb710a35ecfbbc537e89a880d1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174710a35ecfbbc537e89a880d1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178710a35ecfbbc537e89a880d1",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1HzqO751rIXsGhJh0ujWWd"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1LMI6q6qIB2ngm4cFHCmps",
+  "name": "Carl Pedida",
+  "uri": "spotify:artist:1LMI6q6qIB2ngm4cFHCmps",
+  "followers": {
+    "href": null,
+    "total": 8542
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8ecb5b8d0f328b4f816a8944",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051748ecb5b8d0f328b4f816a8944",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1788ecb5b8d0f328b4f816a8944",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1LMI6q6qIB2ngm4cFHCmps"
+  }
+}
