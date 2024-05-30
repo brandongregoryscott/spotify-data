@@ -1,0 +1,34 @@
+{
+  "id": "2tGpUkcestP9hI1PKyPmS0",
+  "name": "George Bellas",
+  "uri": "spotify:artist:2tGpUkcestP9hI1PKyPmS0",
+  "followers": {
+    "href": null,
+    "total": 5500
+  },
+  "genres": [
+    "instrumental rock",
+    "shred"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaf581fa5a4294f91c3f2100d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174af581fa5a4294f91c3f2100d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178af581fa5a4294f91c3f2100d",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2tGpUkcestP9hI1PKyPmS0"
+  }
+}

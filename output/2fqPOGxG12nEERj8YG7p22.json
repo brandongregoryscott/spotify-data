@@ -1,0 +1,33 @@
+{
+  "id": "2fqPOGxG12nEERj8YG7p22",
+  "name": "Catch Your Breath",
+  "uri": "spotify:artist:2fqPOGxG12nEERj8YG7p22",
+  "followers": {
+    "href": null,
+    "total": 123395
+  },
+  "genres": [
+    "american metalcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd5553a65d4d7edf9499d2c6a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d5553a65d4d7edf9499d2c6a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d5553a65d4d7edf9499d2c6a",
+      "width": 160
+    }
+  ],
+  "popularity": 57,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
+  }
+}
