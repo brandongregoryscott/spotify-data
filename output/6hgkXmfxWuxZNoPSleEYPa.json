@@ -1,0 +1,34 @@
+{
+  "id": "6hgkXmfxWuxZNoPSleEYPa",
+  "name": "Bourbon",
+  "uri": "spotify:artist:6hgkXmfxWuxZNoPSleEYPa",
+  "followers": {
+    "href": null,
+    "total": 958
+  },
+  "genres": [
+    "spanish progressive rock",
+    "spanish psychedelic rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb974aaba6898730df51fa6178",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174974aaba6898730df51fa6178",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178974aaba6898730df51fa6178",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6hgkXmfxWuxZNoPSleEYPa"
+  }
+}

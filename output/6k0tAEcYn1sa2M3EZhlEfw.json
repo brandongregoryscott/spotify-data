@@ -1,0 +1,34 @@
+{
+  "id": "6k0tAEcYn1sa2M3EZhlEfw",
+  "name": "Disco Hue",
+  "uri": "spotify:artist:6k0tAEcYn1sa2M3EZhlEfw",
+  "followers": {
+    "href": null,
+    "total": 5984
+  },
+  "genres": [
+    "singaporean indie",
+    "singaporean pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb119ffd405859ecacf5c25b7f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174119ffd405859ecacf5c25b7f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178119ffd405859ecacf5c25b7f",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6k0tAEcYn1sa2M3EZhlEfw"
+  }
+}

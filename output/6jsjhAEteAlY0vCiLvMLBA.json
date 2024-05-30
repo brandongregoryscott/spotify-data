@@ -1,0 +1,35 @@
+{
+  "id": "6jsjhAEteAlY0vCiLvMLBA",
+  "name": "ROZES",
+  "uri": "spotify:artist:6jsjhAEteAlY0vCiLvMLBA",
+  "followers": {
+    "href": null,
+    "total": 124802
+  },
+  "genres": [
+    "alt z",
+    "electropop",
+    "indie poptimism"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaa5fcb2679ceaade934c4bbc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aa5fcb2679ceaade934c4bbc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aa5fcb2679ceaade934c4bbc",
+      "width": 160
+    }
+  ],
+  "popularity": 57,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
+  }
+}
