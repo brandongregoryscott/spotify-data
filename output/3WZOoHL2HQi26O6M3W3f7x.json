@@ -1,0 +1,33 @@
+{
+  "id": "3WZOoHL2HQi26O6M3W3f7x",
+  "name": "Leo Cap",
+  "uri": "spotify:artist:3WZOoHL2HQi26O6M3W3f7x",
+  "followers": {
+    "href": null,
+    "total": 3017
+  },
+  "genres": [
+    "deep dubstep"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb69d14aa59526cfa81542e5bb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517469d14aa59526cfa81542e5bb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17869d14aa59526cfa81542e5bb",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3WZOoHL2HQi26O6M3W3f7x"
+  }
+}

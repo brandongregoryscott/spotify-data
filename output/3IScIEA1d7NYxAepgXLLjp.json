@@ -1,0 +1,33 @@
+{
+  "id": "3IScIEA1d7NYxAepgXLLjp",
+  "name": "Edwin Music",
+  "uri": "spotify:artist:3IScIEA1d7NYxAepgXLLjp",
+  "followers": {
+    "href": null,
+    "total": 862
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbae67b60041822a88987d859",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bae67b60041822a88987d859",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bae67b60041822a88987d859",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3IScIEA1d7NYxAepgXLLjp"
+  }
+}
