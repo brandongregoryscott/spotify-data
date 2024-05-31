@@ -1,0 +1,33 @@
+{
+  "id": "2lEJRLLPBCtAUdxVFl3qyl",
+  "name": "Lil Jaye",
+  "uri": "spotify:artist:2lEJRLLPBCtAUdxVFl3qyl",
+  "followers": {
+    "href": null,
+    "total": 631
+  },
+  "genres": [
+    "melbourne hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfe4c4bd74b375d5d2b8dbd19",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fe4c4bd74b375d5d2b8dbd19",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fe4c4bd74b375d5d2b8dbd19",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2lEJRLLPBCtAUdxVFl3qyl"
+  }
+}

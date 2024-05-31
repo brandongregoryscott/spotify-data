@@ -1,0 +1,33 @@
+{
+  "id": "2gbAbqhetYAlDtPyRlQvwj",
+  "name": "Tom Jenkins",
+  "uri": "spotify:artist:2gbAbqhetYAlDtPyRlQvwj",
+  "followers": {
+    "href": null,
+    "total": 1136
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb528d3295bb8447bc429e0859",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174528d3295bb8447bc429e0859",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178528d3295bb8447bc429e0859",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2gbAbqhetYAlDtPyRlQvwj"
+  }
+}
