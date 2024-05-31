@@ -1,0 +1,33 @@
+{
+  "id": "0YBzMkS7Busboq9bMZ0fa4",
+  "name": "ARYEX",
+  "uri": "spotify:artist:0YBzMkS7Busboq9bMZ0fa4",
+  "followers": {
+    "href": null,
+    "total": 403
+  },
+  "genres": [
+    "hardstyle"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc1dc58a89629f35e6f64123c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c1dc58a89629f35e6f64123c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c1dc58a89629f35e6f64123c",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0YBzMkS7Busboq9bMZ0fa4"
+  }
+}
