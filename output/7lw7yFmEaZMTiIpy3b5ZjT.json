@@ -1,0 +1,34 @@
+{
+  "id": "7lw7yFmEaZMTiIpy3b5ZjT",
+  "name": "Brian Hodgson",
+  "uri": "spotify:artist:7lw7yFmEaZMTiIpy3b5ZjT",
+  "followers": {
+    "href": null,
+    "total": 1098
+  },
+  "genres": [
+    "hauntology",
+    "theme"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d07e2408c135f8aea550f3bd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d07e2408c135f8aea550f3bd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d07e2408c135f8aea550f3bd",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT"
+  }
+}
