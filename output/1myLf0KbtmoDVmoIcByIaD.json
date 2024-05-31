@@ -1,0 +1,33 @@
+{
+  "id": "1myLf0KbtmoDVmoIcByIaD",
+  "name": "Jules",
+  "uri": "spotify:artist:1myLf0KbtmoDVmoIcByIaD",
+  "followers": {
+    "href": null,
+    "total": 231
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbce40660c1ac58bb9d1be49e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bce40660c1ac58bb9d1be49e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bce40660c1ac58bb9d1be49e",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1myLf0KbtmoDVmoIcByIaD"
+  }
+}

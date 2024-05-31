@@ -1,0 +1,33 @@
+{
+  "id": "1gFiJP5g8MJgXSIYhrfEW0",
+  "name": "judwyn",
+  "uri": "spotify:artist:1gFiJP5g8MJgXSIYhrfEW0",
+  "followers": {
+    "href": null,
+    "total": 32
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe4aa0df3c37609220c91cdd7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e4aa0df3c37609220c91cdd7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e4aa0df3c37609220c91cdd7",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1gFiJP5g8MJgXSIYhrfEW0"
+  }
+}

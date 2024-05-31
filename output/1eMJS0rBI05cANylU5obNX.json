@@ -1,0 +1,33 @@
+{
+  "id": "1eMJS0rBI05cANylU5obNX",
+  "name": "Fatty",
+  "uri": "spotify:artist:1eMJS0rBI05cANylU5obNX",
+  "followers": {
+    "href": null,
+    "total": 179
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc119f21f1131595dd9c9a415",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c119f21f1131595dd9c9a415",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c119f21f1131595dd9c9a415",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1eMJS0rBI05cANylU5obNX"
+  }
+}

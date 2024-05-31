@@ -1,0 +1,33 @@
+{
+  "id": "1gbxcNvc1GlFdIpgcvDb3c",
+  "name": "Crush",
+  "uri": "spotify:artist:1gbxcNvc1GlFdIpgcvDb3c",
+  "followers": {
+    "href": null,
+    "total": 110
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb784f5dc5e73a615d19d6ba3b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174784f5dc5e73a615d19d6ba3b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178784f5dc5e73a615d19d6ba3b",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1gbxcNvc1GlFdIpgcvDb3c"
+  }
+}
