@@ -1,0 +1,33 @@
+{
+  "id": "5GbrYNcaE2scmJ6wQJuMuV",
+  "name": "Sakura",
+  "uri": "spotify:artist:5GbrYNcaE2scmJ6wQJuMuV",
+  "followers": {
+    "href": null,
+    "total": 2944
+  },
+  "genres": [
+    "russian alternative rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f3c4241a49a4dcedbf8c4516",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f3c4241a49a4dcedbf8c4516",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f3c4241a49a4dcedbf8c4516",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5GbrYNcaE2scmJ6wQJuMuV"
+  }
+}

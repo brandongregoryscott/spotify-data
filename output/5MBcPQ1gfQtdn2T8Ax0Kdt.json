@@ -1,0 +1,33 @@
+{
+  "id": "5MBcPQ1gfQtdn2T8Ax0Kdt",
+  "name": "vanellus",
+  "uri": "spotify:artist:5MBcPQ1gfQtdn2T8Ax0Kdt",
+  "followers": {
+    "href": null,
+    "total": 110
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb10ffc196c8bbe3fcc8006c77",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517410ffc196c8bbe3fcc8006c77",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17810ffc196c8bbe3fcc8006c77",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5MBcPQ1gfQtdn2T8Ax0Kdt"
+  }
+}
