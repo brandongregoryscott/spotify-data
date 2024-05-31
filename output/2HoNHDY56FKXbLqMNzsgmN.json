@@ -1,0 +1,33 @@
+{
+  "id": "2HoNHDY56FKXbLqMNzsgmN",
+  "name": "Kasina",
+  "uri": "spotify:artist:2HoNHDY56FKXbLqMNzsgmN",
+  "followers": {
+    "href": null,
+    "total": 19
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27393eac639ff67d636fe49eeac",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0293eac639ff67d636fe49eeac",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485193eac639ff67d636fe49eeac",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2HoNHDY56FKXbLqMNzsgmN"
+  }
+}
