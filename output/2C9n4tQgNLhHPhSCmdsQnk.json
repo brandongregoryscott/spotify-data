@@ -1,0 +1,35 @@
+{
+  "id": "2C9n4tQgNLhHPhSCmdsQnk",
+  "name": "David Archuleta",
+  "uri": "spotify:artist:2C9n4tQgNLhHPhSCmdsQnk",
+  "followers": {
+    "href": null,
+    "total": 554327
+  },
+  "genres": [
+    "idol",
+    "lds youth",
+    "post-teen pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb581b950dc7b3f2cc28f0159a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174581b950dc7b3f2cc28f0159a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178581b950dc7b3f2cc28f0159a",
+      "width": 160
+    }
+  ],
+  "popularity": 50,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk"
+  }
+}

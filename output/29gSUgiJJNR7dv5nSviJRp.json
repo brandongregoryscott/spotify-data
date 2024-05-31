@@ -1,0 +1,33 @@
+{
+  "id": "29gSUgiJJNR7dv5nSviJRp",
+  "name": "Failstate",
+  "uri": "spotify:artist:29gSUgiJJNR7dv5nSviJRp",
+  "followers": {
+    "href": null,
+    "total": 539
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb67983c10d77f77be0d6951b2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517467983c10d77f77be0d6951b2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17867983c10d77f77be0d6951b2",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/29gSUgiJJNR7dv5nSviJRp"
+  }
+}
