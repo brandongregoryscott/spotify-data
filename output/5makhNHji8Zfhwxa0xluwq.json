@@ -1,0 +1,33 @@
+{
+  "id": "5makhNHji8Zfhwxa0xluwq",
+  "name": "Stefka",
+  "uri": "spotify:artist:5makhNHji8Zfhwxa0xluwq",
+  "followers": {
+    "href": null,
+    "total": 203
+  },
+  "genres": [
+    "corecore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738f55be3b397cb7e8cece7aaf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028f55be3b397cb7e8cece7aaf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518f55be3b397cb7e8cece7aaf",
+      "width": 64
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5makhNHji8Zfhwxa0xluwq"
+  }
+}
