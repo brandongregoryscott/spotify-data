@@ -1,0 +1,33 @@
+{
+  "id": "1CFOJLuG4JhEaKOZOkPGwg",
+  "name": "Yavis",
+  "uri": "spotify:artist:1CFOJLuG4JhEaKOZOkPGwg",
+  "followers": {
+    "href": null,
+    "total": 199
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb15be24e0e85efc5d3f574eea",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517415be24e0e85efc5d3f574eea",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17815be24e0e85efc5d3f574eea",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1CFOJLuG4JhEaKOZOkPGwg"
+  }
+}

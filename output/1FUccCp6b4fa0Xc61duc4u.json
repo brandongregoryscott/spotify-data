@@ -1,0 +1,33 @@
+{
+  "id": "1FUccCp6b4fa0Xc61duc4u",
+  "name": "salza",
+  "uri": "spotify:artist:1FUccCp6b4fa0Xc61duc4u",
+  "followers": {
+    "href": null,
+    "total": 164
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb523b5f2c3e3aba674df3a182",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174523b5f2c3e3aba674df3a182",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178523b5f2c3e3aba674df3a182",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1FUccCp6b4fa0Xc61duc4u"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "18WMFwa7k8OmVXk2Minav4",
+  "name": "Rin",
+  "uri": "spotify:artist:18WMFwa7k8OmVXk2Minav4",
+  "followers": {
+    "href": null,
+    "total": 77
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb518417804bff9896b4477f47",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174518417804bff9896b4477f47",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178518417804bff9896b4477f47",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/18WMFwa7k8OmVXk2Minav4"
+  }
+}

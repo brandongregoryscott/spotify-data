@@ -1,0 +1,33 @@
+{
+  "id": "13b4x7l89ymNwCrh4dKmje",
+  "name": "ez",
+  "uri": "spotify:artist:13b4x7l89ymNwCrh4dKmje",
+  "followers": {
+    "href": null,
+    "total": 466
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe11fe10a894281b478f2ced1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e11fe10a894281b478f2ced1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e11fe10a894281b478f2ced1",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/13b4x7l89ymNwCrh4dKmje"
+  }
+}
