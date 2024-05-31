@@ -1,0 +1,33 @@
+{
+  "id": "0GQJkaIi3NAYIdripoImtI",
+  "name": "New Schooler",
+  "uri": "spotify:artist:0GQJkaIi3NAYIdripoImtI",
+  "followers": {
+    "href": null,
+    "total": 865
+  },
+  "genres": [
+    "beatboxing"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27338fc7d30975abf02534161d5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0238fc7d30975abf02534161d5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485138fc7d30975abf02534161d5",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0GQJkaIi3NAYIdripoImtI"
+  }
+}
