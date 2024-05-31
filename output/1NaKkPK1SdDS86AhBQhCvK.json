@@ -1,0 +1,33 @@
+{
+  "id": "1NaKkPK1SdDS86AhBQhCvK",
+  "name": "Thomas E Frank",
+  "uri": "spotify:artist:1NaKkPK1SdDS86AhBQhCvK",
+  "followers": {
+    "href": null,
+    "total": 207
+  },
+  "genres": [
+    "swedish psychedelic rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c508ea0d9dbe6b8030e39d2c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c508ea0d9dbe6b8030e39d2c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c508ea0d9dbe6b8030e39d2c",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1NaKkPK1SdDS86AhBQhCvK"
+  }
+}

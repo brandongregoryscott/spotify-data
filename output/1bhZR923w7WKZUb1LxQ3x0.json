@@ -1,0 +1,33 @@
+{
+  "id": "1bhZR923w7WKZUb1LxQ3x0",
+  "name": "Clapa",
+  "uri": "spotify:artist:1bhZR923w7WKZUb1LxQ3x0",
+  "followers": {
+    "href": null,
+    "total": 1211
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcc5ce65c9f903453547a6453",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cc5ce65c9f903453547a6453",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cc5ce65c9f903453547a6453",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1bhZR923w7WKZUb1LxQ3x0"
+  }
+}

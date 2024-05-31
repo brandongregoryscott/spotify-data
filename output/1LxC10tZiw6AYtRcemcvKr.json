@@ -1,0 +1,35 @@
+{
+  "id": "1LxC10tZiw6AYtRcemcvKr",
+  "name": "Timewarp Inc",
+  "uri": "spotify:artist:1LxC10tZiw6AYtRcemcvKr",
+  "followers": {
+    "href": null,
+    "total": 10882
+  },
+  "genres": [
+    "bboy",
+    "funky breaks",
+    "greek downtempo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb724b3b78dfff08d973c97ccb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174724b3b78dfff08d973c97ccb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178724b3b78dfff08d973c97ccb",
+      "width": 160
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1LxC10tZiw6AYtRcemcvKr"
+  }
+}

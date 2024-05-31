@@ -1,0 +1,33 @@
+{
+  "id": "1NFSdJQtgerIOjbqEyZngn",
+  "name": "Evoked",
+  "uri": "spotify:artist:1NFSdJQtgerIOjbqEyZngn",
+  "followers": {
+    "href": null,
+    "total": 599
+  },
+  "genres": [
+    "german death metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bc325288616a935ec67b0451",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bc325288616a935ec67b0451",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bc325288616a935ec67b0451",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1NFSdJQtgerIOjbqEyZngn"
+  }
+}
