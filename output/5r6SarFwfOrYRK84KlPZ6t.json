@@ -1,0 +1,33 @@
+{
+  "id": "5r6SarFwfOrYRK84KlPZ6t",
+  "name": "ED-209",
+  "uri": "spotify:artist:5r6SarFwfOrYRK84KlPZ6t",
+  "followers": {
+    "href": null,
+    "total": 506
+  },
+  "genres": [
+    "chillsynth"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d6f13c648ecd776055e66403",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0215e836b858965286509a4016",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d6f13c648ecd776055e66403",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5r6SarFwfOrYRK84KlPZ6t"
+  }
+}

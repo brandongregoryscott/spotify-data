@@ -1,0 +1,33 @@
+{
+  "id": "5zKanSBJIPM9t9lHAuHfeh",
+  "name": "Jawan",
+  "uri": "spotify:artist:5zKanSBJIPM9t9lHAuHfeh",
+  "followers": {
+    "href": null,
+    "total": 62
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebab4127df599be8e5065e8dfb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ab4127df599be8e5065e8dfb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ab4127df599be8e5065e8dfb",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5zKanSBJIPM9t9lHAuHfeh"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "67FqTi4AEY5O8Xa3i5EAe2",
+  "name": "San Miguel",
+  "uri": "spotify:artist:67FqTi4AEY5O8Xa3i5EAe2",
+  "followers": {
+    "href": null,
+    "total": 1606
+  },
+  "genres": [
+    "ethnotronica"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb12d9a0e480dcb5dae9f6b1ef",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517412d9a0e480dcb5dae9f6b1ef",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17812d9a0e480dcb5dae9f6b1ef",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/67FqTi4AEY5O8Xa3i5EAe2"
+  }
+}
