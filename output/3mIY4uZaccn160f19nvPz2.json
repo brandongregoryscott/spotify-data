@@ -1,0 +1,33 @@
+{
+  "id": "3mIY4uZaccn160f19nvPz2",
+  "name": "West Riding",
+  "uri": "spotify:artist:3mIY4uZaccn160f19nvPz2",
+  "followers": {
+    "href": null,
+    "total": 23
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0ea807242db2cb603fac835c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051740ea807242db2cb603fac835c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1780ea807242db2cb603fac835c",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3mIY4uZaccn160f19nvPz2"
+  }
+}

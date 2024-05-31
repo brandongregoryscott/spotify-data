@@ -1,0 +1,33 @@
+{
+  "id": "3etFu1t5miZTfUJGVB0yTh",
+  "name": "Jon Wood",
+  "uri": "spotify:artist:3etFu1t5miZTfUJGVB0yTh",
+  "followers": {
+    "href": null,
+    "total": 2278
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb181c106573fbafb4dab9aefe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174181c106573fbafb4dab9aefe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178181c106573fbafb4dab9aefe",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3etFu1t5miZTfUJGVB0yTh"
+  }
+}
