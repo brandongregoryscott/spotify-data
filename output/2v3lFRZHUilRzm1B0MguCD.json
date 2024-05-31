@@ -1,0 +1,33 @@
+{
+  "id": "2v3lFRZHUilRzm1B0MguCD",
+  "name": "Asinis",
+  "uri": "spotify:artist:2v3lFRZHUilRzm1B0MguCD",
+  "followers": {
+    "href": null,
+    "total": 1910
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfa431999bb45872e96595b97",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fa431999bb45872e96595b97",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fa431999bb45872e96595b97",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2v3lFRZHUilRzm1B0MguCD"
+  }
+}

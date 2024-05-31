@@ -1,0 +1,33 @@
+{
+  "id": "35awT1eUsCH0vof3tRvpdb",
+  "name": "Hennessy",
+  "uri": "spotify:artist:35awT1eUsCH0vof3tRvpdb",
+  "followers": {
+    "href": null,
+    "total": 72
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba865bb9465b05a38f932f0c1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a865bb9465b05a38f932f0c1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a865bb9465b05a38f932f0c1",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/35awT1eUsCH0vof3tRvpdb"
+  }
+}
