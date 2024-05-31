@@ -1,0 +1,35 @@
+{
+  "id": "55Id6AxQupaiSvkO6weUFA",
+  "name": "Social Station",
+  "uri": "spotify:artist:55Id6AxQupaiSvkO6weUFA",
+  "followers": {
+    "href": null,
+    "total": 1945
+  },
+  "genres": [
+    "dark post-punk",
+    "dc indie",
+    "modern darkwave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb996e1ea752ae376d954267a1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174996e1ea752ae376d954267a1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178996e1ea752ae376d954267a1",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/55Id6AxQupaiSvkO6weUFA"
+  }
+}
