@@ -1,0 +1,33 @@
+{
+  "id": "6nhDW6n31y871SlcFTczQ3",
+  "name": "Carlito Hendrix",
+  "uri": "spotify:artist:6nhDW6n31y871SlcFTczQ3",
+  "followers": {
+    "href": null,
+    "total": 119
+  },
+  "genres": [
+    "melbourne hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb87a42b33cf3df622106728bc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517487a42b33cf3df622106728bc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17887a42b33cf3df622106728bc",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6nhDW6n31y871SlcFTczQ3"
+  }
+}
