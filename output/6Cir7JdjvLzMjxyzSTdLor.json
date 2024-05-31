@@ -1,0 +1,33 @@
+{
+  "id": "6Cir7JdjvLzMjxyzSTdLor",
+  "name": "Dreeks",
+  "uri": "spotify:artist:6Cir7JdjvLzMjxyzSTdLor",
+  "followers": {
+    "href": null,
+    "total": 263
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbb630d1ff6cd89fd6b458789",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bb630d1ff6cd89fd6b458789",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bb630d1ff6cd89fd6b458789",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Cir7JdjvLzMjxyzSTdLor"
+  }
+}
