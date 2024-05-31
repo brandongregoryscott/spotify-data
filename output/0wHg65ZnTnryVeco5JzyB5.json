@@ -1,0 +1,33 @@
+{
+  "id": "0wHg65ZnTnryVeco5JzyB5",
+  "name": "Kim Normal",
+  "uri": "spotify:artist:0wHg65ZnTnryVeco5JzyB5",
+  "followers": {
+    "href": null,
+    "total": 4356
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe16fd8633e99813c9874b2a6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e16fd8633e99813c9874b2a6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e16fd8633e99813c9874b2a6",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0wHg65ZnTnryVeco5JzyB5"
+  }
+}
