@@ -1,0 +1,33 @@
+{
+  "id": "73jUslDRbZNg4c7HMluWE1",
+  "name": "Zach Welch",
+  "uri": "spotify:artist:73jUslDRbZNg4c7HMluWE1",
+  "followers": {
+    "href": null,
+    "total": 2427
+  },
+  "genres": [
+    "texas country"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb18ff9e17b5ab7547f5777f68",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517418ff9e17b5ab7547f5777f68",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17818ff9e17b5ab7547f5777f68",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/73jUslDRbZNg4c7HMluWE1"
+  }
+}

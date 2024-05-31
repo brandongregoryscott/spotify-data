@@ -1,0 +1,33 @@
+{
+  "id": "6yXxdhAcoQku6m1hFXY5zn",
+  "name": "Kodiak",
+  "uri": "spotify:artist:6yXxdhAcoQku6m1hFXY5zn",
+  "followers": {
+    "href": null,
+    "total": 365
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb11614e77460a2769dae47548",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517411614e77460a2769dae47548",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17811614e77460a2769dae47548",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6yXxdhAcoQku6m1hFXY5zn"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6oVAapn84yEOY9ycz2PC2r",
+  "name": "BA",
+  "uri": "spotify:artist:6oVAapn84yEOY9ycz2PC2r",
+  "followers": {
+    "href": null,
+    "total": 188
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb30ea96d5a4b0cf1ada0c542a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517430ea96d5a4b0cf1ada0c542a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17830ea96d5a4b0cf1ada0c542a",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6oVAapn84yEOY9ycz2PC2r"
+  }
+}

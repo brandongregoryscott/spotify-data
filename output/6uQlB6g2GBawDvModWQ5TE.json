@@ -1,0 +1,33 @@
+{
+  "id": "6uQlB6g2GBawDvModWQ5TE",
+  "name": "Kauta",
+  "uri": "spotify:artist:6uQlB6g2GBawDvModWQ5TE",
+  "followers": {
+    "href": null,
+    "total": 5458
+  },
+  "genres": [
+    "euskal rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27395004197d738459fdc1cc09d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0295004197d738459fdc1cc09d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485195004197d738459fdc1cc09d",
+      "width": 64
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6uQlB6g2GBawDvModWQ5TE"
+  }
+}
