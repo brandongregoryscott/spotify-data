@@ -1,0 +1,33 @@
+{
+  "id": "7bJE3ibKdXz03N0PD43zFf",
+  "name": "finbow",
+  "uri": "spotify:artist:7bJE3ibKdXz03N0PD43zFf",
+  "followers": {
+    "href": null,
+    "total": 91
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb033465d2861fa718be2f7fc1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174033465d2861fa718be2f7fc1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178033465d2861fa718be2f7fc1",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7bJE3ibKdXz03N0PD43zFf"
+  }
+}

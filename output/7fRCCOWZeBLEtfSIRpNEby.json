@@ -1,0 +1,34 @@
+{
+  "id": "7fRCCOWZeBLEtfSIRpNEby",
+  "name": "Pipex",
+  "uri": "spotify:artist:7fRCCOWZeBLEtfSIRpNEby",
+  "followers": {
+    "href": null,
+    "total": 11101
+  },
+  "genres": [
+    "danspunk",
+    "konsrock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd086684c0fe6d69189154461",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d086684c0fe6d69189154461",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d086684c0fe6d69189154461",
+      "width": 160
+    }
+  ],
+  "popularity": 39,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7fRCCOWZeBLEtfSIRpNEby"
+  }
+}
