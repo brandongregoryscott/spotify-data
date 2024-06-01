@@ -1,0 +1,37 @@
+{
+  "id": "2IYfNXFeQLyNhYaU1I0ZiI",
+  "name": "Galahad",
+  "uri": "spotify:artist:2IYfNXFeQLyNhYaU1I0ZiI",
+  "followers": {
+    "href": null,
+    "total": 15231
+  },
+  "genres": [
+    "deep progressive rock",
+    "neo-progressive",
+    "progressive metal",
+    "progressive rock",
+    "symphonic rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cb8bc27fdcde4901c93ef430",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cb8bc27fdcde4901c93ef430",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cb8bc27fdcde4901c93ef430",
+      "width": 64
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2IYfNXFeQLyNhYaU1I0ZiI"
+  }
+}
