@@ -1,0 +1,33 @@
+{
+  "id": "3an8YMdNz2HjWcTKPC5D50",
+  "name": "Prod. By Giorgio",
+  "uri": "spotify:artist:3an8YMdNz2HjWcTKPC5D50",
+  "followers": {
+    "href": null,
+    "total": 122
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcfa65f60803e2e08399c59a9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cfa65f60803e2e08399c59a9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cfa65f60803e2e08399c59a9",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3an8YMdNz2HjWcTKPC5D50"
+  }
+}
