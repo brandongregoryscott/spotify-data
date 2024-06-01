@@ -1,0 +1,33 @@
+{
+  "id": "1lx72xxuyFIbssxER4orMy",
+  "name": "Allie Dunn",
+  "uri": "spotify:artist:1lx72xxuyFIbssxER4orMy",
+  "followers": {
+    "href": null,
+    "total": 750
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb03a45e56547ec53bab4ef6d2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517403a45e56547ec53bab4ef6d2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17803a45e56547ec53bab4ef6d2",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1lx72xxuyFIbssxER4orMy"
+  }
+}
