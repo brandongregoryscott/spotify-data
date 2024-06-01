@@ -1,0 +1,33 @@
+{
+  "id": "0st0uKqxoMpi2fxH8Vszuh",
+  "name": "argenté",
+  "uri": "spotify:artist:0st0uKqxoMpi2fxH8Vszuh",
+  "followers": {
+    "href": null,
+    "total": 1198
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfa69e2a1e50d3bf4fbdf1269",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fa69e2a1e50d3bf4fbdf1269",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fa69e2a1e50d3bf4fbdf1269",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0st0uKqxoMpi2fxH8Vszuh"
+  }
+}

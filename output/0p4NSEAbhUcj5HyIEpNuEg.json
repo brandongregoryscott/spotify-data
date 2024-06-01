@@ -1,0 +1,33 @@
+{
+  "id": "0p4NSEAbhUcj5HyIEpNuEg",
+  "name": "JEICKI",
+  "uri": "spotify:artist:0p4NSEAbhUcj5HyIEpNuEg",
+  "followers": {
+    "href": null,
+    "total": 24
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba805acc1a3bb5d831b4b14ea",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a805acc1a3bb5d831b4b14ea",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a805acc1a3bb5d831b4b14ea",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0p4NSEAbhUcj5HyIEpNuEg"
+  }
+}

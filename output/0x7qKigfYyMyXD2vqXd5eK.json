@@ -1,0 +1,33 @@
+{
+  "id": "0x7qKigfYyMyXD2vqXd5eK",
+  "name": "渡洛西汀",
+  "uri": "spotify:artist:0x7qKigfYyMyXD2vqXd5eK",
+  "followers": {
+    "href": null,
+    "total": 116
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e5a75eb1d0e90aa86a1e8c27",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e5a75eb1d0e90aa86a1e8c27",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e5a75eb1d0e90aa86a1e8c27",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0x7qKigfYyMyXD2vqXd5eK"
+  }
+}
