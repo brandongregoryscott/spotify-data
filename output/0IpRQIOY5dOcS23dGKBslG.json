@@ -1,0 +1,33 @@
+{
+  "id": "0IpRQIOY5dOcS23dGKBslG",
+  "name": "Exhale",
+  "uri": "spotify:artist:0IpRQIOY5dOcS23dGKBslG",
+  "followers": {
+    "href": null,
+    "total": 608
+  },
+  "genres": [
+    "swedish grindcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaedae2a92d1f69a95a1eca56",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aedae2a92d1f69a95a1eca56",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aedae2a92d1f69a95a1eca56",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0IpRQIOY5dOcS23dGKBslG"
+  }
+}

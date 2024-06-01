@@ -1,0 +1,33 @@
+{
+  "id": "0AB0HNSNyh6iMjYUug2Gkp",
+  "name": "Rederick",
+  "uri": "spotify:artist:0AB0HNSNyh6iMjYUug2Gkp",
+  "followers": {
+    "href": null,
+    "total": 1008
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4a956d0f55265c2f094ec090",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744a956d0f55265c2f094ec090",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784a956d0f55265c2f094ec090",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0AB0HNSNyh6iMjYUug2Gkp"
+  }
+}
