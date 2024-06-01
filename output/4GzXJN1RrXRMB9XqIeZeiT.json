@@ -1,0 +1,33 @@
+{
+  "id": "4GzXJN1RrXRMB9XqIeZeiT",
+  "name": "Jungtune",
+  "uri": "spotify:artist:4GzXJN1RrXRMB9XqIeZeiT",
+  "followers": {
+    "href": null,
+    "total": 436
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfb74886d1a0c2b617814f7fa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fb74886d1a0c2b617814f7fa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fb74886d1a0c2b617814f7fa",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4GzXJN1RrXRMB9XqIeZeiT"
+  }
+}

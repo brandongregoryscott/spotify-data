@@ -1,0 +1,33 @@
+{
+  "id": "4WLD4Til41CT8CZjvrRqeA",
+  "name": "Phenex",
+  "uri": "spotify:artist:4WLD4Til41CT8CZjvrRqeA",
+  "followers": {
+    "href": null,
+    "total": 196
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb539dd5092457d1f07fd047f4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174539dd5092457d1f07fd047f4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178539dd5092457d1f07fd047f4",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4WLD4Til41CT8CZjvrRqeA"
+  }
+}
