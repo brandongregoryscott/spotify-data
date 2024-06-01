@@ -1,0 +1,33 @@
+{
+  "id": "5ymNncheY80M0rorpyhzyN",
+  "name": "olus",
+  "uri": "spotify:artist:5ymNncheY80M0rorpyhzyN",
+  "followers": {
+    "href": null,
+    "total": 231
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4f263d2a6b49700bb7899c57",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744f263d2a6b49700bb7899c57",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784f263d2a6b49700bb7899c57",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ymNncheY80M0rorpyhzyN"
+  }
+}
