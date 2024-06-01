@@ -1,0 +1,33 @@
+{
+  "id": "3w1N6MEbGEQNw1MJabSP6M",
+  "name": "The Wailers",
+  "uri": "spotify:artist:3w1N6MEbGEQNw1MJabSP6M",
+  "followers": {
+    "href": null,
+    "total": 3137
+  },
+  "genres": [
+    "rhythm rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735bfc75706c1ae68f9936980c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025bfc75706c1ae68f9936980c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515bfc75706c1ae68f9936980c",
+      "width": 64
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3w1N6MEbGEQNw1MJabSP6M"
+  }
+}
