@@ -1,0 +1,33 @@
+{
+  "id": "1WoT4pSql4NYyaigBVGa1V",
+  "name": "Bends",
+  "uri": "spotify:artist:1WoT4pSql4NYyaigBVGa1V",
+  "followers": {
+    "href": null,
+    "total": 51
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb62c4f84530d547b6f4d804f5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517462c4f84530d547b6f4d804f5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17862c4f84530d547b6f4d804f5",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1WoT4pSql4NYyaigBVGa1V"
+  }
+}
