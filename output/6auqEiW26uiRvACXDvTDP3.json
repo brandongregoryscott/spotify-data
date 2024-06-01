@@ -1,0 +1,33 @@
+{
+  "id": "6auqEiW26uiRvACXDvTDP3",
+  "name": "Kameliia",
+  "uri": "spotify:artist:6auqEiW26uiRvACXDvTDP3",
+  "followers": {
+    "href": null,
+    "total": 972
+  },
+  "genres": [
+    "hardgroove"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb47079c160600d15bc3a4a019",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517447079c160600d15bc3a4a019",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17847079c160600d15bc3a4a019",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6auqEiW26uiRvACXDvTDP3"
+  }
+}

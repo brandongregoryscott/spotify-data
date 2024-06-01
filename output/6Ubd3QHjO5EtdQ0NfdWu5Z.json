@@ -1,0 +1,33 @@
+{
+  "id": "6Ubd3QHjO5EtdQ0NfdWu5Z",
+  "name": "Grungik",
+  "uri": "spotify:artist:6Ubd3QHjO5EtdQ0NfdWu5Z",
+  "followers": {
+    "href": null,
+    "total": 800
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb130172022c20a85eae3cc527",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174130172022c20a85eae3cc527",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178130172022c20a85eae3cc527",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Ubd3QHjO5EtdQ0NfdWu5Z"
+  }
+}
