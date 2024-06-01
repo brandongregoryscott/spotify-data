@@ -1,0 +1,33 @@
+{
+  "id": "72X2BP8xHW9rK2LCA1cBAK",
+  "name": "Mister Davis",
+  "uri": "spotify:artist:72X2BP8xHW9rK2LCA1cBAK",
+  "followers": {
+    "href": null,
+    "total": 103
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb44d911ec4d5d1f3aff384d65",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517444d911ec4d5d1f3aff384d65",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17844d911ec4d5d1f3aff384d65",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/72X2BP8xHW9rK2LCA1cBAK"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+  "name": "Billie Eilish",
+  "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH",
+  "followers": {
+    "href": null,
+    "total": 94718296
+  },
+  "genres": [
+    "art pop",
+    "pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744a21b4760d2ecb7b0dcdc8da",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784a21b4760d2ecb7b0dcdc8da",
+      "width": 160
+    }
+  ],
+  "popularity": 93,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+  }
+}
