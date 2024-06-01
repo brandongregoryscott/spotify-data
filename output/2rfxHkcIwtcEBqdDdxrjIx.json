@@ -1,0 +1,33 @@
+{
+  "id": "2rfxHkcIwtcEBqdDdxrjIx",
+  "name": "Canca",
+  "uri": "spotify:artist:2rfxHkcIwtcEBqdDdxrjIx",
+  "followers": {
+    "href": null,
+    "total": 384
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbf67174c96a93fe3102cb59e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bf67174c96a93fe3102cb59e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bf67174c96a93fe3102cb59e",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2rfxHkcIwtcEBqdDdxrjIx"
+  }
+}
