@@ -1,0 +1,33 @@
+{
+  "id": "3ILoFTwPApb8VCVwmYrENy",
+  "name": "Ephmerix",
+  "uri": "spotify:artist:3ILoFTwPApb8VCVwmYrENy",
+  "followers": {
+    "href": null,
+    "total": 190
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaeac53f4eb4ac17a2db65cb9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aeac53f4eb4ac17a2db65cb9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aeac53f4eb4ac17a2db65cb9",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ILoFTwPApb8VCVwmYrENy"
+  }
+}

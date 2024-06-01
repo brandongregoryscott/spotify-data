@@ -1,0 +1,33 @@
+{
+  "id": "3EAe5ydMZrPUkDwbjPvjch",
+  "name": "G5AZO",
+  "uri": "spotify:artist:3EAe5ydMZrPUkDwbjPvjch",
+  "followers": {
+    "href": null,
+    "total": 181
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ca49d76daf1ae5db3392775b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ca49d76daf1ae5db3392775b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ca49d76daf1ae5db3392775b",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3EAe5ydMZrPUkDwbjPvjch"
+  }
+}
