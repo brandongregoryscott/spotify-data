@@ -1,0 +1,33 @@
+{
+  "id": "4zTePZKs9vWT8sI09LKaHl",
+  "name": "Delridge",
+  "uri": "spotify:artist:4zTePZKs9vWT8sI09LKaHl",
+  "followers": {
+    "href": null,
+    "total": 161
+  },
+  "genres": [
+    "easycore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb04ce2740b7c8545d8d6fad62",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517404ce2740b7c8545d8d6fad62",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17804ce2740b7c8545d8d6fad62",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4zTePZKs9vWT8sI09LKaHl"
+  }
+}

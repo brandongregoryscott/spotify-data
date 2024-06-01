@@ -1,0 +1,33 @@
+{
+  "id": "5AZG85rWLqkMzYHXavE3c2",
+  "name": "Koi Plaza",
+  "uri": "spotify:artist:5AZG85rWLqkMzYHXavE3c2",
+  "followers": {
+    "href": null,
+    "total": 15
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb19b894bde6cb8eadc7bfecba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517419b894bde6cb8eadc7bfecba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17819b894bde6cb8eadc7bfecba",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5AZG85rWLqkMzYHXavE3c2"
+  }
+}

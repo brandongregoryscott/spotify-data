@@ -1,0 +1,34 @@
+{
+  "id": "4yZ1I5mV8oGX5rfSuygqbv",
+  "name": "Gateway Drugs",
+  "uri": "spotify:artist:4yZ1I5mV8oGX5rfSuygqbv",
+  "followers": {
+    "href": null,
+    "total": 7787
+  },
+  "genres": [
+    "indie surf",
+    "south african alternative"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdb3abc7a7dcb0c68ca32c96f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174db3abc7a7dcb0c68ca32c96f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178db3abc7a7dcb0c68ca32c96f",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4yZ1I5mV8oGX5rfSuygqbv"
+  }
+}
