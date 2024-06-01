@@ -1,0 +1,33 @@
+{
+  "id": "5d1xHIdC5fziWmo7DFE5Mp",
+  "name": "Dokk Man",
+  "uri": "spotify:artist:5d1xHIdC5fziWmo7DFE5Mp",
+  "followers": {
+    "href": null,
+    "total": 75
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a158d946815c1230c31eb86b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a158d946815c1230c31eb86b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a158d946815c1230c31eb86b",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5d1xHIdC5fziWmo7DFE5Mp"
+  }
+}

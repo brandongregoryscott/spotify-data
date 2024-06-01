@@ -1,0 +1,33 @@
+{
+  "id": "5k7ESH488oQmanGvbWgoLo",
+  "name": "Illecism",
+  "uri": "spotify:artist:5k7ESH488oQmanGvbWgoLo",
+  "followers": {
+    "href": null,
+    "total": 455
+  },
+  "genres": [
+    "soul flow"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcb45f062d632a8a033adb6ab",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cb45f062d632a8a033adb6ab",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cb45f062d632a8a033adb6ab",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5k7ESH488oQmanGvbWgoLo"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5hrlixUL2uLOyIKUpJu97u",
+  "name": "Projeto Hare",
+  "uri": "spotify:artist:5hrlixUL2uLOyIKUpJu97u",
+  "followers": {
+    "href": null,
+    "total": 684
+  },
+  "genres": [
+    "rio grande do sul indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb135f94eb629dfb33ab6d3889",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174135f94eb629dfb33ab6d3889",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178135f94eb629dfb33ab6d3889",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5hrlixUL2uLOyIKUpJu97u"
+  }
+}
