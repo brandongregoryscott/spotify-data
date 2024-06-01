@@ -1,0 +1,33 @@
+{
+  "id": "0Z7JnoZUMxgmaLgApKMYpl",
+  "name": "Gavran",
+  "uri": "spotify:artist:0Z7JnoZUMxgmaLgApKMYpl",
+  "followers": {
+    "href": null,
+    "total": 572
+  },
+  "genres": [
+    "dutch stoner rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb77c100e5f64468e314876ed8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517477c100e5f64468e314876ed8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17877c100e5f64468e314876ed8",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Z7JnoZUMxgmaLgApKMYpl"
+  }
+}

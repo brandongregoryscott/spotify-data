@@ -1,0 +1,33 @@
+{
+  "id": "0Ol2phfE0AOi1nhGwhybPK",
+  "name": "Matti",
+  "uri": "spotify:artist:0Ol2phfE0AOi1nhGwhybPK",
+  "followers": {
+    "href": null,
+    "total": 360
+  },
+  "genres": [
+    "laulaja-lauluntekija"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb403fecd28b40bb642c568f52",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174403fecd28b40bb642c568f52",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178403fecd28b40bb642c568f52",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Ol2phfE0AOi1nhGwhybPK"
+  }
+}
