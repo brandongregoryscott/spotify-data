@@ -1,0 +1,34 @@
+{
+  "id": "0NShpiolVrABxF4nKiSL39",
+  "name": "Ginne Marker",
+  "uri": "spotify:artist:0NShpiolVrABxF4nKiSL39",
+  "followers": {
+    "href": null,
+    "total": 5275
+  },
+  "genres": [
+    "danish modern jazz",
+    "jazz pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb658d8f7fdd2c6e6465c678fb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174658d8f7fdd2c6e6465c678fb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178658d8f7fdd2c6e6465c678fb",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39"
+  }
+}
