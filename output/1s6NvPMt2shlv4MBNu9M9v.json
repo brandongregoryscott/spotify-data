@@ -1,0 +1,33 @@
+{
+  "id": "1s6NvPMt2shlv4MBNu9M9v",
+  "name": "smol fish",
+  "uri": "spotify:artist:1s6NvPMt2shlv4MBNu9M9v",
+  "followers": {
+    "href": null,
+    "total": 2143
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb25f25e26519ffa57c7c0e888",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517425f25e26519ffa57c7c0e888",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17825f25e26519ffa57c7c0e888",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1s6NvPMt2shlv4MBNu9M9v"
+  }
+}

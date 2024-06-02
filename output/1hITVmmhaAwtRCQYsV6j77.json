@@ -1,0 +1,34 @@
+{
+  "id": "1hITVmmhaAwtRCQYsV6j77",
+  "name": "WH",
+  "uri": "spotify:artist:1hITVmmhaAwtRCQYsV6j77",
+  "followers": {
+    "href": null,
+    "total": 5733
+  },
+  "genres": [
+    "dancehall chileno",
+    "rap chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb465f6fa5dc41140751d36bf4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174465f6fa5dc41140751d36bf4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178465f6fa5dc41140751d36bf4",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1hITVmmhaAwtRCQYsV6j77"
+  }
+}
