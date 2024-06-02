@@ -1,0 +1,33 @@
+{
+  "id": "2J8lRU6owGHVc1kWoPs55v",
+  "name": "anpyo",
+  "uri": "spotify:artist:2J8lRU6owGHVc1kWoPs55v",
+  "followers": {
+    "href": null,
+    "total": 464
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb78153de8ef9e994c851fd4a3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517478153de8ef9e994c851fd4a3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17878153de8ef9e994c851fd4a3",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2J8lRU6owGHVc1kWoPs55v"
+  }
+}
