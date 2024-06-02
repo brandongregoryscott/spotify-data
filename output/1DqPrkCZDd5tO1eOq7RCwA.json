@@ -1,0 +1,33 @@
+{
+  "id": "1DqPrkCZDd5tO1eOq7RCwA",
+  "name": "Raaket",
+  "uri": "spotify:artist:1DqPrkCZDd5tO1eOq7RCwA",
+  "followers": {
+    "href": null,
+    "total": 2235
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb08cf8f0a10324fdea3e7ed89",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517408cf8f0a10324fdea3e7ed89",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17808cf8f0a10324fdea3e7ed89",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1DqPrkCZDd5tO1eOq7RCwA"
+  }
+}
