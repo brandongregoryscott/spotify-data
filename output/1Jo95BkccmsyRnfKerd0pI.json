@@ -1,0 +1,33 @@
+{
+  "id": "1Jo95BkccmsyRnfKerd0pI",
+  "name": "Toby Vest",
+  "uri": "spotify:artist:1Jo95BkccmsyRnfKerd0pI",
+  "followers": {
+    "href": null,
+    "total": 23
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731979cf79652dd951191b5de6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021979cf79652dd951191b5de6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511979cf79652dd951191b5de6",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Jo95BkccmsyRnfKerd0pI"
+  }
+}

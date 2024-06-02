@@ -1,0 +1,33 @@
+{
+  "id": "1Si6jsN0v7gWmM3gEMd8Sr",
+  "name": "LVCA",
+  "uri": "spotify:artist:1Si6jsN0v7gWmM3gEMd8Sr",
+  "followers": {
+    "href": null,
+    "total": 374
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c96c6e8e97134c2b494a2494",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c96c6e8e97134c2b494a2494",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c96c6e8e97134c2b494a2494",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Si6jsN0v7gWmM3gEMd8Sr"
+  }
+}

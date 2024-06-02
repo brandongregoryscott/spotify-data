@@ -1,0 +1,33 @@
+{
+  "id": "1JRDKiAVTOODksnFf0wAk9",
+  "name": "Hepa",
+  "uri": "spotify:artist:1JRDKiAVTOODksnFf0wAk9",
+  "followers": {
+    "href": null,
+    "total": 369
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb729ae1f56884ff4f8e119144",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174729ae1f56884ff4f8e119144",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178729ae1f56884ff4f8e119144",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1JRDKiAVTOODksnFf0wAk9"
+  }
+}
