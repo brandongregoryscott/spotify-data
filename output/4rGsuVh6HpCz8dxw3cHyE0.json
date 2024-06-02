@@ -1,0 +1,33 @@
+{
+  "id": "4rGsuVh6HpCz8dxw3cHyE0",
+  "name": "John Alex Harper",
+  "uri": "spotify:artist:4rGsuVh6HpCz8dxw3cHyE0",
+  "followers": {
+    "href": null,
+    "total": 755
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb029695e6c50db00c2a3273e9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174029695e6c50db00c2a3273e9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178029695e6c50db00c2a3273e9",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4rGsuVh6HpCz8dxw3cHyE0"
+  }
+}
