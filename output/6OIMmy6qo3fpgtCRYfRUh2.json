@@ -1,0 +1,33 @@
+{
+  "id": "6OIMmy6qo3fpgtCRYfRUh2",
+  "name": "Hawko",
+  "uri": "spotify:artist:6OIMmy6qo3fpgtCRYfRUh2",
+  "followers": {
+    "href": null,
+    "total": 733
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb91053d90b4414d3fa6b8e50a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517491053d90b4414d3fa6b8e50a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17891053d90b4414d3fa6b8e50a",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6OIMmy6qo3fpgtCRYfRUh2"
+  }
+}

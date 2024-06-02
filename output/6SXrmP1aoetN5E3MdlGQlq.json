@@ -1,0 +1,33 @@
+{
+  "id": "6SXrmP1aoetN5E3MdlGQlq",
+  "name": "sling",
+  "uri": "spotify:artist:6SXrmP1aoetN5E3MdlGQlq",
+  "followers": {
+    "href": null,
+    "total": 33
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb752e13c555e743d90b2a96e1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174752e13c555e743d90b2a96e1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178752e13c555e743d90b2a96e1",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6SXrmP1aoetN5E3MdlGQlq"
+  }
+}
