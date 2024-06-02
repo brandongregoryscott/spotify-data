@@ -1,0 +1,33 @@
+{
+  "id": "7KZt27lFbCFQefy5izEc8p",
+  "name": "Wesley Wolffe",
+  "uri": "spotify:artist:7KZt27lFbCFQefy5izEc8p",
+  "followers": {
+    "href": null,
+    "total": 485
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb233c12d8eafbb068e413adc2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174233c12d8eafbb068e413adc2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178233c12d8eafbb068e413adc2",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7KZt27lFbCFQefy5izEc8p"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7DGv8xUTnLnyXoUV8PuAdc",
+  "name": "Kumuki",
+  "uri": "spotify:artist:7DGv8xUTnLnyXoUV8PuAdc",
+  "followers": {
+    "href": null,
+    "total": 109
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb998083a561cc1af439ba49ba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174998083a561cc1af439ba49ba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178998083a561cc1af439ba49ba",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7DGv8xUTnLnyXoUV8PuAdc"
+  }
+}
