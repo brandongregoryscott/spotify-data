@@ -1,0 +1,33 @@
+{
+  "id": "4fJKN2nqaBHYUTQzdl260z",
+  "name": "Karaba",
+  "uri": "spotify:artist:4fJKN2nqaBHYUTQzdl260z",
+  "followers": {
+    "href": null,
+    "total": 527
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e342b132824c426ca395ad1d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e342b132824c426ca395ad1d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e342b132824c426ca395ad1d",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4fJKN2nqaBHYUTQzdl260z"
+  }
+}
