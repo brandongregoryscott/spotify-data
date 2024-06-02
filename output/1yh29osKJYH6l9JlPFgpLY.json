@@ -1,0 +1,33 @@
+{
+  "id": "1yh29osKJYH6l9JlPFgpLY",
+  "name": "eleven1.1",
+  "uri": "spotify:artist:1yh29osKJYH6l9JlPFgpLY",
+  "followers": {
+    "href": null,
+    "total": 3674
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd599e4e58476bb5708baeb8b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d599e4e58476bb5708baeb8b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d599e4e58476bb5708baeb8b",
+      "width": 160
+    }
+  ],
+  "popularity": 53,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1yh29osKJYH6l9JlPFgpLY"
+  }
+}
