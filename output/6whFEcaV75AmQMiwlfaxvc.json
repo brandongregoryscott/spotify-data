@@ -1,0 +1,36 @@
+{
+  "id": "6whFEcaV75AmQMiwlfaxvc",
+  "name": "QUEEN BEE",
+  "uri": "spotify:artist:6whFEcaV75AmQMiwlfaxvc",
+  "followers": {
+    "href": null,
+    "total": 401806
+  },
+  "genres": [
+    "anime rock",
+    "dance rock",
+    "j-pop",
+    "j-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaabe1825a196488e170e8d1c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aabe1825a196488e170e8d1c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aabe1825a196488e170e8d1c",
+      "width": 160
+    }
+  ],
+  "popularity": 55,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc"
+  }
+}
