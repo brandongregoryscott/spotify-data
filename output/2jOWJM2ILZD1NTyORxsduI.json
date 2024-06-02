@@ -1,0 +1,33 @@
+{
+  "id": "2jOWJM2ILZD1NTyORxsduI",
+  "name": "Brian Lynch",
+  "uri": "spotify:artist:2jOWJM2ILZD1NTyORxsduI",
+  "followers": {
+    "href": null,
+    "total": 2343
+  },
+  "genres": [
+    "jazz trumpet"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd5afd478468386a54cee1570",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d5afd478468386a54cee1570",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d5afd478468386a54cee1570",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2jOWJM2ILZD1NTyORxsduI"
+  }
+}
