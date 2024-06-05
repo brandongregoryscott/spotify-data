@@ -4,11 +4,12 @@
   "uri": "spotify:artist:6JOZsxwBJZm4bhcEy7gLIU",
   "followers": {
     "href": null,
-    "total": 5196
+    "total": 5250
   },
   "genres": [
     "drone",
-    "drone metal"
+    "drone metal",
+    "noise"
   ],
   "images": [
     {
@@ -27,7 +28,7 @@
       "width": 160
     }
   ],
-  "popularity": 16,
+  "popularity": 17,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/6JOZsxwBJZm4bhcEy7gLIU"
   }
