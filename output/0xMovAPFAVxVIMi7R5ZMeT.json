@@ -1,0 +1,33 @@
+{
+  "id": "0xMovAPFAVxVIMi7R5ZMeT",
+  "name": "Allies",
+  "uri": "spotify:artist:0xMovAPFAVxVIMi7R5ZMeT",
+  "followers": {
+    "href": null,
+    "total": 7625
+  },
+  "genres": [
+    "deep christian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273424b12fbd9cbe566d11d3297",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02424b12fbd9cbe566d11d3297",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851424b12fbd9cbe566d11d3297",
+      "width": 64
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0xMovAPFAVxVIMi7R5ZMeT"
+  }
+}

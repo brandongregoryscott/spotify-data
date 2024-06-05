@@ -4,7 +4,7 @@
   "uri": "spotify:artist:0wKRws4cmydv070MEENn0k",
   "followers": {
     "href": null,
-    "total": 42042
+    "total": 42076
   },
   "genres": [
     "brazilian indie",
@@ -15,21 +15,21 @@
   "images": [
     {
       "height": 640,
-      "url": "https://i.scdn.co/image/ab67616d0000b273d262c8a28f68257e30d153e2",
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9c9dbea80fdbba71ff982728",
       "width": 640
     },
     {
-      "height": 300,
-      "url": "https://i.scdn.co/image/ab67616d00001e02d262c8a28f68257e30d153e2",
-      "width": 300
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051749c9dbea80fdbba71ff982728",
+      "width": 320
     },
     {
-      "height": 64,
-      "url": "https://i.scdn.co/image/ab67616d00004851d262c8a28f68257e30d153e2",
-      "width": 64
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1789c9dbea80fdbba71ff982728",
+      "width": 160
     }
   ],
-  "popularity": 25,
+  "popularity": 26,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/0wKRws4cmydv070MEENn0k"
   }
