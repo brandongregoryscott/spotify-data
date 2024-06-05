@@ -4,29 +4,29 @@
   "uri": "spotify:artist:2BigSitV7zidXKpfHDT9uJ",
   "followers": {
     "href": null,
-    "total": 656
+    "total": 667
   },
   "genres": [
-
+    "lo-fi rap"
   ],
   "images": [
     {
       "height": 640,
-      "url": "https://i.scdn.co/image/ab67616d0000b2737433442be6649d30d9db6f6a",
+      "url": "https://i.scdn.co/image/ab67616d0000b27379256884ba60ee67de386a64",
       "width": 640
     },
     {
       "height": 300,
-      "url": "https://i.scdn.co/image/ab67616d00001e02d2110e0e4959491406beadc1",
+      "url": "https://i.scdn.co/image/ab67616d00001e0279256884ba60ee67de386a64",
       "width": 300
     },
     {
       "height": 64,
-      "url": "https://i.scdn.co/image/ab67616d00004851d2110e0e4959491406beadc1",
+      "url": "https://i.scdn.co/image/ab67616d0000485179256884ba60ee67de386a64",
       "width": 64
     }
   ],
-  "popularity": 22,
+  "popularity": 23,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/2BigSitV7zidXKpfHDT9uJ"
   }
