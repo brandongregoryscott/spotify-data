@@ -1,0 +1,33 @@
+{
+  "id": "0WNh3AP2z0ZwBOTzwMEdRz",
+  "name": "Scuba Jane",
+  "uri": "spotify:artist:0WNh3AP2z0ZwBOTzwMEdRz",
+  "followers": {
+    "href": null,
+    "total": 35
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdeed38c6cc1a4ce57951664e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174deed38c6cc1a4ce57951664e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178deed38c6cc1a4ce57951664e",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0WNh3AP2z0ZwBOTzwMEdRz"
+  }
+}
