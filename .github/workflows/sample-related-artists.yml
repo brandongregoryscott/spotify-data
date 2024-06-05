@@ -7,9 +7,6 @@ on:
         description: 'Number of artists to sample'
         default: '50'
 
-  schedule:
-    - cron:  '* 2 * * *'
-
 env:
   CLIENT_IDS: ${{secrets.CLIENT_IDS}}
   CLIENT_SECRETS: ${{secrets.CLIENT_SECRETS}}
