@@ -13,7 +13,6 @@ def main
   branch_name = checkout_branch(git)
 
   git.add('output')
-  git.pull('origin', branch_name)
   git.commit(DateTime.now.iso8601)
 
   if current_hour == 23
@@ -35,6 +34,7 @@ def checkout_branch(git)
 
   git.checkout(branch_name, new_branch: is_new_branch)
 
+  git.pull('origin', branch_name)
   branch_name
 end
 
