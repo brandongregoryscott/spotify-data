@@ -13,6 +13,7 @@ def main
   branch_name = checkout_branch(git)
 
   git.add('output')
+  git.pull('origin', branch_name)
   git.commit(DateTime.now.iso8601)
 
   if current_hour == 23
