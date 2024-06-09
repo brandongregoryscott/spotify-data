@@ -4,34 +4,29 @@
   "uri": "spotify:artist:4jWzNq3sdzSpqn7BnzvIKn",
   "followers": {
     "href": null,
-    "total": 395699
+    "total": 395754
   },
   "genres": [
     "east coast hip hop"
   ],
   "images": [
     {
-      "height": 1000,
-      "url": "https://i.scdn.co/image/ccbc1fd7d1884d1a868cb33fc082fb82558833e4",
-      "width": 1000
-    },
-    {
       "height": 640,
-      "url": "https://i.scdn.co/image/007e1c1c6f087a62a07d078d94b43fa87157469e",
+      "url": "https://i.scdn.co/image/ab6761610000e5ebab323b375d819c3100579bc3",
       "width": 640
     },
     {
-      "height": 200,
-      "url": "https://i.scdn.co/image/eaf200d9f6df474fd80d253d2cce7f1739b8e4c1",
-      "width": 200
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ab323b375d819c3100579bc3",
+      "width": 320
     },
     {
-      "height": 64,
-      "url": "https://i.scdn.co/image/be4ae0a099d3783baa9ee5328e5701a469301374",
-      "width": 64
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ab323b375d819c3100579bc3",
+      "width": 160
     }
   ],
-  "popularity": 43,
+  "popularity": 44,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/4jWzNq3sdzSpqn7BnzvIKn"
   }
