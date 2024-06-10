@@ -4,11 +4,12 @@
   "uri": "spotify:artist:6fLrPFLWLSCrp7gcTZXcKb",
   "followers": {
     "href": null,
-    "total": 207827
+    "total": 207852
   },
   "genres": [
     "indietronica",
-    "metropopolis"
+    "metropopolis",
+    "neo-synthpop"
   ],
   "images": [
     {
@@ -27,7 +28,7 @@
       "width": 160
     }
   ],
-  "popularity": 44,
+  "popularity": 45,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb"
   }

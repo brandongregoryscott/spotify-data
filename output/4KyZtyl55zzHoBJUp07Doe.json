@@ -4,12 +4,13 @@
   "uri": "spotify:artist:4KyZtyl55zzHoBJUp07Doe",
   "followers": {
     "href": null,
-    "total": 69133
+    "total": 69158
   },
   "genres": [
     "bossa nova",
     "brazilian indie",
-    "nova mpb"
+    "nova mpb",
+    "samba"
   ],
   "images": [
     {
@@ -28,7 +29,7 @@
       "width": 64
     }
   ],
-  "popularity": 41,
+  "popularity": 42,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe"
   }

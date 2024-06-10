@@ -4,10 +4,11 @@
   "uri": "spotify:artist:6Ri83BLqlgaqIc9jwSgAn1",
   "followers": {
     "href": null,
-    "total": 17603
+    "total": 17610
   },
   "genres": [
-    "garage psych"
+    "garage psych",
+    "noise pop"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 160
     }
   ],
-  "popularity": 17,
+  "popularity": 18,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/6Ri83BLqlgaqIc9jwSgAn1"
   }

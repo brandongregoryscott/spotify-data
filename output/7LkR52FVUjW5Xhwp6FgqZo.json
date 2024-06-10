@@ -4,10 +4,11 @@
   "uri": "spotify:artist:7LkR52FVUjW5Xhwp6FgqZo",
   "followers": {
     "href": null,
-    "total": 1459
+    "total": 1463
   },
   "genres": [
-    "math rock"
+    "math rock",
+    "noise rock"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 64
     }
   ],
-  "popularity": 5,
+  "popularity": 4,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/7LkR52FVUjW5Xhwp6FgqZo"
   }
