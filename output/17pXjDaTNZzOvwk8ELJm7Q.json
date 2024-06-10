@@ -4,11 +4,12 @@
   "uri": "spotify:artist:17pXjDaTNZzOvwk8ELJm7Q",
   "followers": {
     "href": null,
-    "total": 42868
+    "total": 42890
   },
   "genres": [
     "black metal",
-    "german black metal"
+    "german black metal",
+    "symphonic black metal"
   ],
   "images": [
     {
@@ -27,7 +28,7 @@
       "width": 64
     }
   ],
-  "popularity": 23,
+  "popularity": 24,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/17pXjDaTNZzOvwk8ELJm7Q"
   }
