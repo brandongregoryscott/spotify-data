@@ -48,6 +48,7 @@ end
 def merge_and_delete_daily_branch(git, branch_name)
   git.checkout('main')
   system("git merge --squash  #{branch_name}")
+  git.commit(branch_name)
   git.push('origin', branch_name, delete: true)
   git.push('origin', 'main')
 end
