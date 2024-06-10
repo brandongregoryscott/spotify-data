@@ -20,7 +20,7 @@ def configure_git_user(git)
 end
 
 def checkout_branch(git)
-  git.fetch('origin')
+  git.fetch('origin', depth: 1)
 
   branch_name = current_date
   is_new_branch = !git.is_branch?(branch_name)
