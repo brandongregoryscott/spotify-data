@@ -18,7 +18,7 @@ def main
   git.add('output')
   git.commit(DateTime.now.iso8601)
 
-  if current_hour == 23
+  if current_hour.even?
     merge_and_delete_daily_branch(git, branch_name)
     return
   end
@@ -47,7 +47,7 @@ end
 
 def merge_and_delete_daily_branch(git, branch_name)
   git.checkout('main')
-  system("git merge --squash  #{branch_name} -m #{branch_name}")
+  system("git merge --squash  #{branch_name}")
   git.push('origin', branch_name, delete: true)
   git.push('origin', 'main')
 end
