@@ -18,7 +18,7 @@ def main
   git.add('output')
   git.commit(DateTime.now.iso8601)
 
-  if current_hour.even?
+  if current_hour == 23
     merge_and_delete_daily_branch(git, branch_name)
     return
   end
@@ -33,13 +33,14 @@ end
 
 def checkout_branch(git)
   git.fetch('origin')
-  
+
   branch_name = current_date
   is_new_branch = !git.is_branch?(branch_name)
 
   git.checkout(branch_name, new_branch: is_new_branch)
 
   git.pull('origin', branch_name)
+  git.pull('origin', 'main')
   branch_name
 rescue Git::FailedError
   branch_name
