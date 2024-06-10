@@ -22,6 +22,9 @@ jobs:
     - name: Install gems
       run: bundle install
 
+    - name: Checkout daily branch
+      run: ruby scripts/checkout_branch.rb
+
     - name: Sync data
       run: ruby scripts/sync.rb
 
