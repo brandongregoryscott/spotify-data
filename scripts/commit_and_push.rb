@@ -5,9 +5,12 @@ require 'git'
 require 'json'
 require 'date'
 require 'pathname'
+require 'logger'
+
 
 def main
-  git = Git.open(Pathname('.'))
+  logger = Logger.new(STDOUT)
+  git = Git.open(Pathname('.'), log: logger)
 
   configure_git_user(git)
   branch_name = checkout_branch(git)
@@ -37,6 +40,8 @@ def checkout_branch(git)
   git.checkout(branch_name, new_branch: is_new_branch)
 
   git.pull('origin', branch_name)
+  branch_name
+rescue Git::FailedError
   branch_name
 end
 
