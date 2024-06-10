@@ -4,10 +4,11 @@
   "uri": "spotify:artist:1eNErxU1Dh5YPvxjgMuiSA",
   "followers": {
     "href": null,
-    "total": 14073
+    "total": 14080
   },
   "genres": [
-    "gothic rock"
+    "gothic rock",
+    "uk post-punk"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 64
     }
   ],
-  "popularity": 15,
+  "popularity": 16,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/1eNErxU1Dh5YPvxjgMuiSA"
   }
