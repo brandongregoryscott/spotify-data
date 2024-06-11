@@ -17,6 +17,7 @@ end
 def configure_git_user(git)
   git.config('user.name', 'Github Actions')
   git.config('user.email', 'actions@users.noreply.github.com')
+  git.config('pull.rebase', 'false')
 end
 
 def checkout_branch(git)
