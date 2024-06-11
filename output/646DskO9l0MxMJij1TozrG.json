@@ -4,10 +4,11 @@
   "uri": "spotify:artist:646DskO9l0MxMJij1TozrG",
   "followers": {
     "href": null,
-    "total": 9472
+    "total": 9476
   },
   "genres": [
-    "alternative country"
+    "alternative country",
+    "orgcore"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 64
     }
   ],
-  "popularity": 12,
+  "popularity": 13,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/646DskO9l0MxMJij1TozrG"
   }
