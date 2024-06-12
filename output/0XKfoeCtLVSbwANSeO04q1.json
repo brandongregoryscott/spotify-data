@@ -4,7 +4,7 @@
   "uri": "spotify:artist:0XKfoeCtLVSbwANSeO04q1",
   "followers": {
     "href": null,
-    "total": 219
+    "total": 257
   },
   "genres": [
     "dreampunk"
@@ -12,21 +12,21 @@
   "images": [
     {
       "height": 640,
-      "url": "https://i.scdn.co/image/ab67616d0000b273275755a005061cc7a00a5b3c",
+      "url": "https://i.scdn.co/image/ab67616d0000b27332a79f0f8b3e5ce7d15def37",
       "width": 640
     },
     {
       "height": 300,
-      "url": "https://i.scdn.co/image/ab67616d00001e02275755a005061cc7a00a5b3c",
+      "url": "https://i.scdn.co/image/ab67616d00001e0232a79f0f8b3e5ce7d15def37",
       "width": 300
     },
     {
       "height": 64,
-      "url": "https://i.scdn.co/image/ab67616d00004851275755a005061cc7a00a5b3c",
+      "url": "https://i.scdn.co/image/ab67616d0000485132a79f0f8b3e5ce7d15def37",
       "width": 64
     }
   ],
-  "popularity": 0,
+  "popularity": 5,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/0XKfoeCtLVSbwANSeO04q1"
   }

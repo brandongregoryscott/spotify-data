@@ -4,10 +4,11 @@
   "uri": "spotify:artist:1KTUh4AYegM2fSdac5xqPb",
   "followers": {
     "href": null,
-    "total": 9815
+    "total": 9832
   },
   "genres": [
-    "hard bop"
+    "hard bop",
+    "stride"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 64
     }
   ],
-  "popularity": 46,
+  "popularity": 45,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/1KTUh4AYegM2fSdac5xqPb"
   }

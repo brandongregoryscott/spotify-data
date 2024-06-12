@@ -4,13 +4,27 @@
   "uri": "spotify:artist:21icX9XFQTN2beMnNy7lAO",
   "followers": {
     "href": null,
-    "total": 613
+    "total": 618
   },
   "genres": [
     "atl drill"
   ],
   "images": [
-
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e7431ddd21cca1d8d5b3a798",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e7431ddd21cca1d8d5b3a798",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e7431ddd21cca1d8d5b3a798",
+      "width": 64
+    }
   ],
   "popularity": 7,
   "external_urls": {

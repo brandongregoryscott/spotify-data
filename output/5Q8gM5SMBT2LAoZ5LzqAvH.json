@@ -4,7 +4,7 @@
   "uri": "spotify:artist:5Q8gM5SMBT2LAoZ5LzqAvH",
   "followers": {
     "href": null,
-    "total": 112003
+    "total": 112018
   },
   "genres": [
     "alternative rock",
@@ -12,24 +12,19 @@
   ],
   "images": [
     {
-      "height": 1000,
-      "url": "https://i.scdn.co/image/0d2ad50905f22762f6a6dffd453cede14807ea92",
-      "width": 1000
-    },
-    {
       "height": 640,
-      "url": "https://i.scdn.co/image/179bf4f890ad52d046d007f875f5a16bbaeafd53",
+      "url": "https://i.scdn.co/image/ab6761610000e5eb073898fc874df2fda5624f89",
       "width": 640
     },
     {
-      "height": 200,
-      "url": "https://i.scdn.co/image/995344bddccd44af5b1441d09897fbb4621e3108",
-      "width": 200
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174073898fc874df2fda5624f89",
+      "width": 320
     },
     {
-      "height": 64,
-      "url": "https://i.scdn.co/image/494a018abbe59b91f5df3bbbe85f565244c12a4d",
-      "width": 64
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178073898fc874df2fda5624f89",
+      "width": 160
     }
   ],
   "popularity": 37,

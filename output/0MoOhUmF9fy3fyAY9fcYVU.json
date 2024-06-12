@@ -4,10 +4,11 @@
   "uri": "spotify:artist:0MoOhUmF9fy3fyAY9fcYVU",
   "followers": {
     "href": null,
-    "total": 1493
+    "total": 1495
   },
   "genres": [
-    "lo-fi indie"
+    "lo-fi indie",
+    "sadcore"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 160
     }
   ],
-  "popularity": 8,
+  "popularity": 9,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/0MoOhUmF9fy3fyAY9fcYVU"
   }
