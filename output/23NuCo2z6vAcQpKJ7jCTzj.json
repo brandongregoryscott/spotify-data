@@ -1,0 +1,33 @@
+{
+  "id": "23NuCo2z6vAcQpKJ7jCTzj",
+  "name": "Temple Step Project",
+  "uri": "spotify:artist:23NuCo2z6vAcQpKJ7jCTzj",
+  "followers": {
+    "href": null,
+    "total": 10279
+  },
+  "genres": [
+    "didgeridoo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0ac10c151ec5302650e38d22",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051740ac10c151ec5302650e38d22",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1780ac10c151ec5302650e38d22",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/23NuCo2z6vAcQpKJ7jCTzj"
+  }
+}

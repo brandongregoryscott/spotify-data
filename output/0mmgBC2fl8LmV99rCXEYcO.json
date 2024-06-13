@@ -1,0 +1,33 @@
+{
+  "id": "0mmgBC2fl8LmV99rCXEYcO",
+  "name": "MD",
+  "uri": "spotify:artist:0mmgBC2fl8LmV99rCXEYcO",
+  "followers": {
+    "href": null,
+    "total": 1841
+  },
+  "genres": [
+    "panamanian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf925ecc04f437a59037b5cca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f925ecc04f437a59037b5cca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f925ecc04f437a59037b5cca",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0mmgBC2fl8LmV99rCXEYcO"
+  }
+}

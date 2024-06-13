@@ -1,0 +1,34 @@
+{
+  "id": "1bfVuRqPplp3g77xQ9tx07",
+  "name": "Wayfarer",
+  "uri": "spotify:artist:1bfVuRqPplp3g77xQ9tx07",
+  "followers": {
+    "href": null,
+    "total": 2094
+  },
+  "genres": [
+    "christian indie",
+    "roots worship"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27361b660e5c9fc8d36a72eb3db",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0261b660e5c9fc8d36a72eb3db",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485161b660e5c9fc8d36a72eb3db",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1bfVuRqPplp3g77xQ9tx07"
+  }
+}

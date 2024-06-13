@@ -1,0 +1,33 @@
+{
+  "id": "5iLVMo4mpzwh4PWrZuLGvZ",
+  "name": "LMX",
+  "uri": "spotify:artist:5iLVMo4mpzwh4PWrZuLGvZ",
+  "followers": {
+    "href": null,
+    "total": 245
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27318804188ec446df27be3ca09",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0218804188ec446df27be3ca09",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485118804188ec446df27be3ca09",
+      "width": 64
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5iLVMo4mpzwh4PWrZuLGvZ"
+  }
+}

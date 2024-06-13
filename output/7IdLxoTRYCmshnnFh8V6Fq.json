@@ -1,0 +1,33 @@
+{
+  "id": "7IdLxoTRYCmshnnFh8V6Fq",
+  "name": "10 QUI",
+  "uri": "spotify:artist:7IdLxoTRYCmshnnFh8V6Fq",
+  "followers": {
+    "href": null,
+    "total": 612
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb148d5a5e8f683851f44b951b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174148d5a5e8f683851f44b951b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178148d5a5e8f683851f44b951b",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7IdLxoTRYCmshnnFh8V6Fq"
+  }
+}

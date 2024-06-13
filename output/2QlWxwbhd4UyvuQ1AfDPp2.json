@@ -1,0 +1,33 @@
+{
+  "id": "2QlWxwbhd4UyvuQ1AfDPp2",
+  "name": "Another Heaven",
+  "uri": "spotify:artist:2QlWxwbhd4UyvuQ1AfDPp2",
+  "followers": {
+    "href": null,
+    "total": 797
+  },
+  "genres": [
+    "midwest shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd896e74759862e78453bb751",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d896e74759862e78453bb751",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d896e74759862e78453bb751",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2QlWxwbhd4UyvuQ1AfDPp2"
+  }
+}

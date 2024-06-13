@@ -1,0 +1,33 @@
+{
+  "id": "4Dk98rv4yhQvBYzsuaNN45",
+  "name": "Las Niñas",
+  "uri": "spotify:artist:4Dk98rv4yhQvBYzsuaNN45",
+  "followers": {
+    "href": null,
+    "total": 1070
+  },
+  "genres": [
+    "cueca chilena"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb65bd316271b0713cece6c2c9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517465bd316271b0713cece6c2c9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17865bd316271b0713cece6c2c9",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Dk98rv4yhQvBYzsuaNN45"
+  }
+}

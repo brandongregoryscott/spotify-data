@@ -1,0 +1,33 @@
+{
+  "id": "5Nx1bhFv0kEU71ALXikPq0",
+  "name": "glögmann",
+  "uri": "spotify:artist:5Nx1bhFv0kEU71ALXikPq0",
+  "followers": {
+    "href": null,
+    "total": 315
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb357290ad67c3486dace41e06",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174357290ad67c3486dace41e06",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178357290ad67c3486dace41e06",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Nx1bhFv0kEU71ALXikPq0"
+  }
+}

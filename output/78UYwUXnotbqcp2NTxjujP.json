@@ -1,0 +1,33 @@
+{
+  "id": "78UYwUXnotbqcp2NTxjujP",
+  "name": "SOTA",
+  "uri": "spotify:artist:78UYwUXnotbqcp2NTxjujP",
+  "followers": {
+    "href": null,
+    "total": 27761
+  },
+  "genres": [
+    "jump up"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb464dd24c3659762ecb8aa90d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174464dd24c3659762ecb8aa90d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178464dd24c3659762ecb8aa90d",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+  }
+}

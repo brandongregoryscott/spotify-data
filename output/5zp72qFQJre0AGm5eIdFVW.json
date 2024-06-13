@@ -1,0 +1,33 @@
+{
+  "id": "5zp72qFQJre0AGm5eIdFVW",
+  "name": "Paira",
+  "uri": "spotify:artist:5zp72qFQJre0AGm5eIdFVW",
+  "followers": {
+    "href": null,
+    "total": 1016
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb78d73180850b58875629051b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517478d73180850b58875629051b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17878d73180850b58875629051b",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5zp72qFQJre0AGm5eIdFVW"
+  }
+}

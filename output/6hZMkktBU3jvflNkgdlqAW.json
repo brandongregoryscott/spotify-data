@@ -1,0 +1,33 @@
+{
+  "id": "6hZMkktBU3jvflNkgdlqAW",
+  "name": "Arcuti",
+  "uri": "spotify:artist:6hZMkktBU3jvflNkgdlqAW",
+  "followers": {
+    "href": null,
+    "total": 197
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb95e99a3ef610c4bef57aa42a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517495e99a3ef610c4bef57aa42a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17895e99a3ef610c4bef57aa42a",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6hZMkktBU3jvflNkgdlqAW"
+  }
+}

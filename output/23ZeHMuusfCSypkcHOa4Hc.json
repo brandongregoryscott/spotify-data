@@ -1,0 +1,33 @@
+{
+  "id": "23ZeHMuusfCSypkcHOa4Hc",
+  "name": "Buddy Johnson",
+  "uri": "spotify:artist:23ZeHMuusfCSypkcHOa4Hc",
+  "followers": {
+    "href": null,
+    "total": 4615
+  },
+  "genres": [
+    "jump blues"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27354a634574fdc46cbaba86664",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0254a634574fdc46cbaba86664",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485154a634574fdc46cbaba86664",
+      "width": 64
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/23ZeHMuusfCSypkcHOa4Hc"
+  }
+}

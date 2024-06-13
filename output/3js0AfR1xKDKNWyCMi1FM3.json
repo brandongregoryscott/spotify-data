@@ -1,0 +1,33 @@
+{
+  "id": "3js0AfR1xKDKNWyCMi1FM3",
+  "name": "Peter Evans",
+  "uri": "spotify:artist:3js0AfR1xKDKNWyCMi1FM3",
+  "followers": {
+    "href": null,
+    "total": 2240
+  },
+  "genres": [
+    "modern free jazz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27385b0dc75f5a4bb834c5cca91",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0285b0dc75f5a4bb834c5cca91",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485185b0dc75f5a4bb834c5cca91",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3js0AfR1xKDKNWyCMi1FM3"
+  }
+}

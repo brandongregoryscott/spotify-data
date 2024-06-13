@@ -1,0 +1,33 @@
+{
+  "id": "3PjnL7XU1t9Loyvijpu21E",
+  "name": "The Meat",
+  "uri": "spotify:artist:3PjnL7XU1t9Loyvijpu21E",
+  "followers": {
+    "href": null,
+    "total": 255
+  },
+  "genres": [
+    "australian hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe09d541ab2dc0125e8414c61",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e09d541ab2dc0125e8414c61",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e09d541ab2dc0125e8414c61",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3PjnL7XU1t9Loyvijpu21E"
+  }
+}

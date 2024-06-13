@@ -1,0 +1,39 @@
+{
+  "id": "24Kx7mxbHbwYYFsChUq5JS",
+  "name": "John Chantler",
+  "uri": "spotify:artist:24Kx7mxbHbwYYFsChUq5JS",
+  "followers": {
+    "href": null,
+    "total": 777
+  },
+  "genres": [
+    "modern electroacoustic",
+    "swedish experimental"
+  ],
+  "images": [
+    {
+      "height": 698,
+      "url": "https://i.scdn.co/image/e29100f7ae36225daec915ee3242f9ace4e162c9",
+      "width": 1000
+    },
+    {
+      "height": 446,
+      "url": "https://i.scdn.co/image/6fa9f7f0711f5dda9957aa8c4ad3a24898350aa8",
+      "width": 639
+    },
+    {
+      "height": 140,
+      "url": "https://i.scdn.co/image/341fe98cbfb142e66aebdce86482ccf0a020dc68",
+      "width": 200
+    },
+    {
+      "height": 45,
+      "url": "https://i.scdn.co/image/eb520f51f29c4056fcc3623790ba02810de78020",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/24Kx7mxbHbwYYFsChUq5JS"
+  }
+}

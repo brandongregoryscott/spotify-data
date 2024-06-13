@@ -1,0 +1,33 @@
+{
+  "id": "1D0jSvpy3DRUX52VXslC6Z",
+  "name": "defector",
+  "uri": "spotify:artist:1D0jSvpy3DRUX52VXslC6Z",
+  "followers": {
+    "href": null,
+    "total": 80
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273910367b93bf985c1556a90fd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02910367b93bf985c1556a90fd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851910367b93bf985c1556a90fd",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1D0jSvpy3DRUX52VXslC6Z"
+  }
+}

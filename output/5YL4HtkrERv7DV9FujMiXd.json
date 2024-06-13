@@ -1,0 +1,33 @@
+{
+  "id": "5YL4HtkrERv7DV9FujMiXd",
+  "name": "Taavi Nestori",
+  "uri": "spotify:artist:5YL4HtkrERv7DV9FujMiXd",
+  "followers": {
+    "href": null,
+    "total": 194
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7faed20b87373b6e5db1e9ae",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051747faed20b87373b6e5db1e9ae",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1787faed20b87373b6e5db1e9ae",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5YL4HtkrERv7DV9FujMiXd"
+  }
+}

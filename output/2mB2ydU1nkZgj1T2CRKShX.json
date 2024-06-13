@@ -1,0 +1,33 @@
+{
+  "id": "2mB2ydU1nkZgj1T2CRKShX",
+  "name": "First Star",
+  "uri": "spotify:artist:2mB2ydU1nkZgj1T2CRKShX",
+  "followers": {
+    "href": null,
+    "total": 48
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd906702b1bbf56c22ab37c7e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d906702b1bbf56c22ab37c7e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d906702b1bbf56c22ab37c7e",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2mB2ydU1nkZgj1T2CRKShX"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "0eczhfdHCOtlzsjs0oBtG2",
+  "name": "Bifröst",
+  "uri": "spotify:artist:0eczhfdHCOtlzsjs0oBtG2",
+  "followers": {
+    "href": null,
+    "total": 7843
+  },
+  "genres": [
+    "folk metal",
+    "viking metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273283df2e9eacc6d0013e48b45",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02283df2e9eacc6d0013e48b45",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851283df2e9eacc6d0013e48b45",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0eczhfdHCOtlzsjs0oBtG2"
+  }
+}

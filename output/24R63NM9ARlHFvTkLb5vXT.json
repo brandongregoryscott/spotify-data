@@ -1,0 +1,33 @@
+{
+  "id": "24R63NM9ARlHFvTkLb5vXT",
+  "name": "Benizze",
+  "uri": "spotify:artist:24R63NM9ARlHFvTkLb5vXT",
+  "followers": {
+    "href": null,
+    "total": 422
+  },
+  "genres": [
+    "euskal musica"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb48798fac022f93728a8490d7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517448798fac022f93728a8490d7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17848798fac022f93728a8490d7",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/24R63NM9ARlHFvTkLb5vXT"
+  }
+}

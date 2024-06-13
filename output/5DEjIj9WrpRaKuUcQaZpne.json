@@ -1,0 +1,33 @@
+{
+  "id": "5DEjIj9WrpRaKuUcQaZpne",
+  "name": "Phurn",
+  "uri": "spotify:artist:5DEjIj9WrpRaKuUcQaZpne",
+  "followers": {
+    "href": null,
+    "total": 1306
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdf70d835decc261822421446",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174df70d835decc261822421446",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178df70d835decc261822421446",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5DEjIj9WrpRaKuUcQaZpne"
+  }
+}

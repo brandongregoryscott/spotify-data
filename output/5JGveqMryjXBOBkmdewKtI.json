@@ -1,0 +1,33 @@
+{
+  "id": "5JGveqMryjXBOBkmdewKtI",
+  "name": "NURCRY",
+  "uri": "spotify:artist:5JGveqMryjXBOBkmdewKtI",
+  "followers": {
+    "href": null,
+    "total": 894
+  },
+  "genres": [
+    "spanish metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c654dd45475186718949c659",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c654dd45475186718949c659",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c654dd45475186718949c659",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5JGveqMryjXBOBkmdewKtI"
+  }
+}

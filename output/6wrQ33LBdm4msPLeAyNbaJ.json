@@ -1,0 +1,33 @@
+{
+  "id": "6wrQ33LBdm4msPLeAyNbaJ",
+  "name": "Henrik Strube",
+  "uri": "spotify:artist:6wrQ33LBdm4msPLeAyNbaJ",
+  "followers": {
+    "href": null,
+    "total": 322
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730f1b5cb56b991487dd0173e5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020f1b5cb56b991487dd0173e5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510f1b5cb56b991487dd0173e5",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6wrQ33LBdm4msPLeAyNbaJ"
+  }
+}

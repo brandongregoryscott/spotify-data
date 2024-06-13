@@ -1,0 +1,33 @@
+{
+  "id": "53828p4Ti22rnSehkQtFW7",
+  "name": "Persona",
+  "uri": "spotify:artist:53828p4Ti22rnSehkQtFW7",
+  "followers": {
+    "href": null,
+    "total": 248
+  },
+  "genres": [
+    "witch house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd2238bef24a5d6fe4129310e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d2238bef24a5d6fe4129310e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d2238bef24a5d6fe4129310e",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/53828p4Ti22rnSehkQtFW7"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7y1bnDdOhiC1H6y5q5CfMk",
+  "name": "Rogstar",
+  "uri": "spotify:artist:7y1bnDdOhiC1H6y5q5CfMk",
+  "followers": {
+    "href": null,
+    "total": 59
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfbc6078f2820868b80ca3fd0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fbc6078f2820868b80ca3fd0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fbc6078f2820868b80ca3fd0",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7y1bnDdOhiC1H6y5q5CfMk"
+  }
+}

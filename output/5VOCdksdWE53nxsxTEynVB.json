@@ -1,0 +1,33 @@
+{
+  "id": "5VOCdksdWE53nxsxTEynVB",
+  "name": "Mwk",
+  "uri": "spotify:artist:5VOCdksdWE53nxsxTEynVB",
+  "followers": {
+    "href": null,
+    "total": 2404
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb316303442de49c5cc3c9597c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174316303442de49c5cc3c9597c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178316303442de49c5cc3c9597c",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5VOCdksdWE53nxsxTEynVB"
+  }
+}

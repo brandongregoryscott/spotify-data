@@ -1,0 +1,33 @@
+{
+  "id": "0iNrnNTf5OyIGIQA8kuXCc",
+  "name": "Zonyko",
+  "uri": "spotify:artist:0iNrnNTf5OyIGIQA8kuXCc",
+  "followers": {
+    "href": null,
+    "total": 1192
+  },
+  "genres": [
+    "rap politico"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb19a440b6aded186ba3f180d5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517419a440b6aded186ba3f180d5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17819a440b6aded186ba3f180d5",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0iNrnNTf5OyIGIQA8kuXCc"
+  }
+}

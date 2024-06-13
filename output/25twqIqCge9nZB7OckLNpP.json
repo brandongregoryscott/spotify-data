@@ -1,0 +1,33 @@
+{
+  "id": "25twqIqCge9nZB7OckLNpP",
+  "name": "Tgifly",
+  "uri": "spotify:artist:25twqIqCge9nZB7OckLNpP",
+  "followers": {
+    "href": null,
+    "total": 1859
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb57f7265410b0b42561f125e0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517457f7265410b0b42561f125e0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17857f7265410b0b42561f125e0",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/25twqIqCge9nZB7OckLNpP"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1thVVTZa5d3eLf94v72QGY",
+  "name": "Mia",
+  "uri": "spotify:artist:1thVVTZa5d3eLf94v72QGY",
+  "followers": {
+    "href": null,
+    "total": 17
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733928028bf9a317e61671c015",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023928028bf9a317e61671c015",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513928028bf9a317e61671c015",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1thVVTZa5d3eLf94v72QGY"
+  }
+}

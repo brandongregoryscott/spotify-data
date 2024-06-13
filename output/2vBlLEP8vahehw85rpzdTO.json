@@ -1,0 +1,33 @@
+{
+  "id": "2vBlLEP8vahehw85rpzdTO",
+  "name": "Porcelain Parrot",
+  "uri": "spotify:artist:2vBlLEP8vahehw85rpzdTO",
+  "followers": {
+    "href": null,
+    "total": 123
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcade755195721014f6ba4840",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cade755195721014f6ba4840",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cade755195721014f6ba4840",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2vBlLEP8vahehw85rpzdTO"
+  }
+}

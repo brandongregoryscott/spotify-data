@@ -1,0 +1,33 @@
+{
+  "id": "7qYnAkX2zdCcHDJNPDBlVW",
+  "name": "Figurine",
+  "uri": "spotify:artist:7qYnAkX2zdCcHDJNPDBlVW",
+  "followers": {
+    "href": null,
+    "total": 4671
+  },
+  "genres": [
+    "indie electronica"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bf697efaaac6779c4652cfda",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bf697efaaac6779c4652cfda",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bf697efaaac6779c4652cfda",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7qYnAkX2zdCcHDJNPDBlVW"
+  }
+}

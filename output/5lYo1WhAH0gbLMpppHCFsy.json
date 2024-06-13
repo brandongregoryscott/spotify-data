@@ -1,0 +1,33 @@
+{
+  "id": "5lYo1WhAH0gbLMpppHCFsy",
+  "name": "Kid Mountain",
+  "uri": "spotify:artist:5lYo1WhAH0gbLMpppHCFsy",
+  "followers": {
+    "href": null,
+    "total": 778
+  },
+  "genres": [
+    "rhode island indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba0796e80b70e52b5d4c88d36",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a0796e80b70e52b5d4c88d36",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a0796e80b70e52b5d4c88d36",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5lYo1WhAH0gbLMpppHCFsy"
+  }
+}

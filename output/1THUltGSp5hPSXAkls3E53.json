@@ -1,0 +1,33 @@
+{
+  "id": "1THUltGSp5hPSXAkls3E53",
+  "name": "Knucklehead",
+  "uri": "spotify:artist:1THUltGSp5hPSXAkls3E53",
+  "followers": {
+    "href": null,
+    "total": 1167
+  },
+  "genres": [
+    "canadian punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a6a71d3ca24bce0d72e73f5d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a6a71d3ca24bce0d72e73f5d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a6a71d3ca24bce0d72e73f5d",
+      "width": 64
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1THUltGSp5hPSXAkls3E53"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0sHYaeWJZs7kEjtSdFgaDs",
+  "name": "Brale",
+  "uri": "spotify:artist:0sHYaeWJZs7kEjtSdFgaDs",
+  "followers": {
+    "href": null,
+    "total": 6
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb97f25b9a92a26744722fcc65",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517497f25b9a92a26744722fcc65",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17897f25b9a92a26744722fcc65",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0sHYaeWJZs7kEjtSdFgaDs"
+  }
+}

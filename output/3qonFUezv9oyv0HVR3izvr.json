@@ -1,0 +1,33 @@
+{
+  "id": "3qonFUezv9oyv0HVR3izvr",
+  "name": "Leman",
+  "uri": "spotify:artist:3qonFUezv9oyv0HVR3izvr",
+  "followers": {
+    "href": null,
+    "total": 95
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf356a291fe046c87613e7f96",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f356a291fe046c87613e7f96",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f356a291fe046c87613e7f96",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3qonFUezv9oyv0HVR3izvr"
+  }
+}

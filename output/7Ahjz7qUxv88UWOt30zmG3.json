@@ -1,0 +1,33 @@
+{
+  "id": "7Ahjz7qUxv88UWOt30zmG3",
+  "name": "marcways",
+  "uri": "spotify:artist:7Ahjz7qUxv88UWOt30zmG3",
+  "followers": {
+    "href": null,
+    "total": 89
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbe9090961a1c9a922512767c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174be9090961a1c9a922512767c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178be9090961a1c9a922512767c",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7Ahjz7qUxv88UWOt30zmG3"
+  }
+}

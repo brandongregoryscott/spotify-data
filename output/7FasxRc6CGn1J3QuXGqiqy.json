@@ -1,0 +1,33 @@
+{
+  "id": "7FasxRc6CGn1J3QuXGqiqy",
+  "name": "OYO",
+  "uri": "spotify:artist:7FasxRc6CGn1J3QuXGqiqy",
+  "followers": {
+    "href": null,
+    "total": 135
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27354281b1dd320e4a22da4ca3b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0254281b1dd320e4a22da4ca3b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485154281b1dd320e4a22da4ca3b",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7FasxRc6CGn1J3QuXGqiqy"
+  }
+}

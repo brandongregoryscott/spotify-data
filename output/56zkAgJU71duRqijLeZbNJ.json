@@ -1,0 +1,33 @@
+{
+  "id": "56zkAgJU71duRqijLeZbNJ",
+  "name": "Twinfield",
+  "uri": "spotify:artist:56zkAgJU71duRqijLeZbNJ",
+  "followers": {
+    "href": null,
+    "total": 5614
+  },
+  "genres": [
+    "vocaloid"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe810c4b52e214adf6ddddbf5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e810c4b52e214adf6ddddbf5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e810c4b52e214adf6ddddbf5",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/56zkAgJU71duRqijLeZbNJ"
+  }
+}

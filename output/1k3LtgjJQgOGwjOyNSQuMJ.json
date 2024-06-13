@@ -1,0 +1,33 @@
+{
+  "id": "1k3LtgjJQgOGwjOyNSQuMJ",
+  "name": "Lomtre",
+  "uri": "spotify:artist:1k3LtgjJQgOGwjOyNSQuMJ",
+  "followers": {
+    "href": null,
+    "total": 1040
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb76b0d3a97d84837db0efdb77",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517476b0d3a97d84837db0efdb77",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17876b0d3a97d84837db0efdb77",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1k3LtgjJQgOGwjOyNSQuMJ"
+  }
+}

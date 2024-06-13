@@ -1,0 +1,33 @@
+{
+  "id": "5k3817DwbkxSb66PeaFxdC",
+  "name": "Patio",
+  "uri": "spotify:artist:5k3817DwbkxSb66PeaFxdC",
+  "followers": {
+    "href": null,
+    "total": 50
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbafc4de6af717c1cb44cb2b8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bafc4de6af717c1cb44cb2b8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bafc4de6af717c1cb44cb2b8",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5k3817DwbkxSb66PeaFxdC"
+  }
+}

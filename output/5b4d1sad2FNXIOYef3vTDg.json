@@ -1,0 +1,36 @@
+{
+  "id": "5b4d1sad2FNXIOYef3vTDg",
+  "name": "Clouds",
+  "uri": "spotify:artist:5b4d1sad2FNXIOYef3vTDg",
+  "followers": {
+    "href": null,
+    "total": 11306
+  },
+  "genres": [
+    "doom metal",
+    "funeral doom",
+    "gothic doom",
+    "romanian black metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273eba45014a51f6b975a33592b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02eba45014a51f6b975a33592b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851eba45014a51f6b975a33592b",
+      "width": 64
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5b4d1sad2FNXIOYef3vTDg"
+  }
+}

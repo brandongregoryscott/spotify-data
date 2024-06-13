@@ -1,0 +1,33 @@
+{
+  "id": "14uS2zgfG4X89lrJLBwaXm",
+  "name": "threehearts",
+  "uri": "spotify:artist:14uS2zgfG4X89lrJLBwaXm",
+  "followers": {
+    "href": null,
+    "total": 231
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b7cb52fc3e593d99b3512273",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b7cb52fc3e593d99b3512273",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b7cb52fc3e593d99b3512273",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/14uS2zgfG4X89lrJLBwaXm"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2LS4a6RGJc4HzJRUjLQuTl",
+  "name": "Selu",
+  "uri": "spotify:artist:2LS4a6RGJc4HzJRUjLQuTl",
+  "followers": {
+    "href": null,
+    "total": 171
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb997a7bcfb3e070558b0116e5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174997a7bcfb3e070558b0116e5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178997a7bcfb3e070558b0116e5",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2LS4a6RGJc4HzJRUjLQuTl"
+  }
+}

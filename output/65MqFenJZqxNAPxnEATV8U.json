@@ -1,0 +1,33 @@
+{
+  "id": "65MqFenJZqxNAPxnEATV8U",
+  "name": "Mike Kinsella",
+  "uri": "spotify:artist:65MqFenJZqxNAPxnEATV8U",
+  "followers": {
+    "href": null,
+    "total": 436
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a103f594413ba344e2c92cbd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a103f594413ba344e2c92cbd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a103f594413ba344e2c92cbd",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/65MqFenJZqxNAPxnEATV8U"
+  }
+}

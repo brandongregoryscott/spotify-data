@@ -1,0 +1,33 @@
+{
+  "id": "1oYYCCSx2I6UaaOwpeyp2X",
+  "name": "Lise Jonsson",
+  "uri": "spotify:artist:1oYYCCSx2I6UaaOwpeyp2X",
+  "followers": {
+    "href": null,
+    "total": 808
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba0210c9768f82057fc585489",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a0210c9768f82057fc585489",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a0210c9768f82057fc585489",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1oYYCCSx2I6UaaOwpeyp2X"
+  }
+}

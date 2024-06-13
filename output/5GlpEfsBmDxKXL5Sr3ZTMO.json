@@ -1,0 +1,33 @@
+{
+  "id": "5GlpEfsBmDxKXL5Sr3ZTMO",
+  "name": "FLOTE",
+  "uri": "spotify:artist:5GlpEfsBmDxKXL5Sr3ZTMO",
+  "followers": {
+    "href": null,
+    "total": 1324
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd560cec2557d7a73f8e2d6c3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d560cec2557d7a73f8e2d6c3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d560cec2557d7a73f8e2d6c3",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO"
+  }
+}

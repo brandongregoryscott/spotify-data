@@ -1,0 +1,33 @@
+{
+  "id": "3dQZZuz1lE7E872IAyIhTq",
+  "name": "J'von",
+  "uri": "spotify:artist:3dQZZuz1lE7E872IAyIhTq",
+  "followers": {
+    "href": null,
+    "total": 5793
+  },
+  "genres": [
+    "seattle hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc1816b0ea3f90bec6c7929f9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c1816b0ea3f90bec6c7929f9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c1816b0ea3f90bec6c7929f9",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3dQZZuz1lE7E872IAyIhTq"
+  }
+}

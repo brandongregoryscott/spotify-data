@@ -1,0 +1,33 @@
+{
+  "id": "0qvhQP3g8B6KqM2TxqtBmG",
+  "name": "High Cost",
+  "uri": "spotify:artist:0qvhQP3g8B6KqM2TxqtBmG",
+  "followers": {
+    "href": null,
+    "total": 3940
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd7325d2935edb4b6f71ee7d0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d7325d2935edb4b6f71ee7d0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d7325d2935edb4b6f71ee7d0",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0qvhQP3g8B6KqM2TxqtBmG"
+  }
+}

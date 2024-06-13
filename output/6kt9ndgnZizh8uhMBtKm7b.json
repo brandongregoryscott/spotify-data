@@ -1,0 +1,33 @@
+{
+  "id": "6kt9ndgnZizh8uhMBtKm7b",
+  "name": "Vi City",
+  "uri": "spotify:artist:6kt9ndgnZizh8uhMBtKm7b",
+  "followers": {
+    "href": null,
+    "total": 32016
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb606b7a01fe0f1cd71ea5d781",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174606b7a01fe0f1cd71ea5d781",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178606b7a01fe0f1cd71ea5d781",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6kt9ndgnZizh8uhMBtKm7b"
+  }
+}

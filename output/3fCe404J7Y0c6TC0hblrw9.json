@@ -1,0 +1,33 @@
+{
+  "id": "3fCe404J7Y0c6TC0hblrw9",
+  "name": "Evadne",
+  "uri": "spotify:artist:3fCe404J7Y0c6TC0hblrw9",
+  "followers": {
+    "href": null,
+    "total": 7083
+  },
+  "genres": [
+    "gothic doom"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb736dbffe5ee920a245c56f60",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174736dbffe5ee920a245c56f60",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178736dbffe5ee920a245c56f60",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3fCe404J7Y0c6TC0hblrw9"
+  }
+}

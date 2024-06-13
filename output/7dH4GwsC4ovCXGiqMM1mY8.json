@@ -1,0 +1,33 @@
+{
+  "id": "7dH4GwsC4ovCXGiqMM1mY8",
+  "name": "Old Blanket",
+  "uri": "spotify:artist:7dH4GwsC4ovCXGiqMM1mY8",
+  "followers": {
+    "href": null,
+    "total": 116
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3fdab7afced0a4f978ee56c5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051743fdab7afced0a4f978ee56c5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1783fdab7afced0a4f978ee56c5",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7dH4GwsC4ovCXGiqMM1mY8"
+  }
+}

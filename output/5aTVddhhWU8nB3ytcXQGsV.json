@@ -1,0 +1,33 @@
+{
+  "id": "5aTVddhhWU8nB3ytcXQGsV",
+  "name": "Rober Il Direttore",
+  "uri": "spotify:artist:5aTVddhhWU8nB3ytcXQGsV",
+  "followers": {
+    "href": null,
+    "total": 480
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb28bb614b391078af1f488177",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517428bb614b391078af1f488177",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17828bb614b391078af1f488177",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5aTVddhhWU8nB3ytcXQGsV"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5HKAh1vzqMzTEXccT12fHe",
+  "name": "Yard Dog",
+  "uri": "spotify:artist:5HKAh1vzqMzTEXccT12fHe",
+  "followers": {
+    "href": null,
+    "total": 377
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb27da4ca328fd8edfb7036fca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517427da4ca328fd8edfb7036fca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17827da4ca328fd8edfb7036fca",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5HKAh1vzqMzTEXccT12fHe"
+  }
+}

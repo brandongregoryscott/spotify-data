@@ -1,0 +1,34 @@
+{
+  "id": "4pznqIbj3YFnwvG44k1GIu",
+  "name": "Titán",
+  "uri": "spotify:artist:4pznqIbj3YFnwvG44k1GIu",
+  "followers": {
+    "href": null,
+    "total": 40235
+  },
+  "genres": [
+    "mexican indie",
+    "mexican rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb50719448631f95bb37b061c2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517450719448631f95bb37b061c2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17850719448631f95bb37b061c2",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "7uhNprgXG8aaMqUP256QTM",
+  "name": "The Crooks",
+  "uri": "spotify:artist:7uhNprgXG8aaMqUP256QTM",
+  "followers": {
+    "href": null,
+    "total": 8024
+  },
+  "genres": [
+    "britpop revival",
+    "derby indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf3b9eefa4ae47d8cc6e145b9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f3b9eefa4ae47d8cc6e145b9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f3b9eefa4ae47d8cc6e145b9",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7uhNprgXG8aaMqUP256QTM"
+  }
+}

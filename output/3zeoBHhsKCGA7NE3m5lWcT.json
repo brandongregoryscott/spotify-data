@@ -1,0 +1,33 @@
+{
+  "id": "3zeoBHhsKCGA7NE3m5lWcT",
+  "name": "Slomato",
+  "uri": "spotify:artist:3zeoBHhsKCGA7NE3m5lWcT",
+  "followers": {
+    "href": null,
+    "total": 250
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb89b772ee7491df5a5c40babc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517489b772ee7491df5a5c40babc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17889b772ee7491df5a5c40babc",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3zeoBHhsKCGA7NE3m5lWcT"
+  }
+}

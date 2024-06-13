@@ -1,0 +1,33 @@
+{
+  "id": "1zqzLeoYhbho7xhIDEa7c7",
+  "name": "Common Culture",
+  "uri": "spotify:artist:1zqzLeoYhbho7xhIDEa7c7",
+  "followers": {
+    "href": null,
+    "total": 105
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb49ab2686961719e124489ece",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517449ab2686961719e124489ece",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17849ab2686961719e124489ece",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1zqzLeoYhbho7xhIDEa7c7"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6z4NUKuKEzIzo28BPOjVof",
+  "name": "ASTON",
+  "uri": "spotify:artist:6z4NUKuKEzIzo28BPOjVof",
+  "followers": {
+    "href": null,
+    "total": 92845
+  },
+  "genres": [
+    "alt z"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb015c6869529bf638f21f7eed",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174015c6869529bf638f21f7eed",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178015c6869529bf638f21f7eed",
+      "width": 160
+    }
+  ],
+  "popularity": 47,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof"
+  }
+}

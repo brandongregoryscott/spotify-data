@@ -1,0 +1,33 @@
+{
+  "id": "7LuYKkS2JVhnt6x2HmwK2P",
+  "name": "Edgar Hayes",
+  "uri": "spotify:artist:7LuYKkS2JVhnt6x2HmwK2P",
+  "followers": {
+    "href": null,
+    "total": 688
+  },
+  "genres": [
+    "vintage swing"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b03215652a2c7bbf01dd87ce",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b03215652a2c7bbf01dd87ce",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b03215652a2c7bbf01dd87ce",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7LuYKkS2JVhnt6x2HmwK2P"
+  }
+}

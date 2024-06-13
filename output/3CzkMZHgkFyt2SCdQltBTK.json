@@ -1,0 +1,33 @@
+{
+  "id": "3CzkMZHgkFyt2SCdQltBTK",
+  "name": "Li Dump",
+  "uri": "spotify:artist:3CzkMZHgkFyt2SCdQltBTK",
+  "followers": {
+    "href": null,
+    "total": 401
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734beef89aa013eb4baf747bcc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024beef89aa013eb4baf747bcc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514beef89aa013eb4baf747bcc",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3CzkMZHgkFyt2SCdQltBTK"
+  }
+}

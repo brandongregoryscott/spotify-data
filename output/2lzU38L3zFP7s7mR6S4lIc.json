@@ -1,0 +1,33 @@
+{
+  "id": "2lzU38L3zFP7s7mR6S4lIc",
+  "name": "Zay Miller",
+  "uri": "spotify:artist:2lzU38L3zFP7s7mR6S4lIc",
+  "followers": {
+    "href": null,
+    "total": 245
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb22991620829ec18dd8d387af",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517422991620829ec18dd8d387af",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17822991620829ec18dd8d387af",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2lzU38L3zFP7s7mR6S4lIc"
+  }
+}

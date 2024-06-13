@@ -1,0 +1,33 @@
+{
+  "id": "7r9BIUQ3HBUlfhADP09uCq",
+  "name": "Rachel Beck",
+  "uri": "spotify:artist:7r9BIUQ3HBUlfhADP09uCq",
+  "followers": {
+    "href": null,
+    "total": 1013
+  },
+  "genres": [
+    "pei indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdef86d643d573633e71c67a6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174def86d643d573633e71c67a6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178def86d643d573633e71c67a6",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7r9BIUQ3HBUlfhADP09uCq"
+  }
+}

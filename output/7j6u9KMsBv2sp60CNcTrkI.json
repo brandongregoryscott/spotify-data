@@ -1,0 +1,33 @@
+{
+  "id": "7j6u9KMsBv2sp60CNcTrkI",
+  "name": "Saft",
+  "uri": "spotify:artist:7j6u9KMsBv2sp60CNcTrkI",
+  "followers": {
+    "href": null,
+    "total": 976
+  },
+  "genres": [
+    "swedish synth"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736039bf349c366de43bb4bdbf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026039bf349c366de43bb4bdbf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516039bf349c366de43bb4bdbf",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7j6u9KMsBv2sp60CNcTrkI"
+  }
+}

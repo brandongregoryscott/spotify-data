@@ -1,0 +1,33 @@
+{
+  "id": "6GzW7pg3KLF2DWZm0rEJI8",
+  "name": "Gouki",
+  "uri": "spotify:artist:6GzW7pg3KLF2DWZm0rEJI8",
+  "followers": {
+    "href": null,
+    "total": 9544
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebba4287e650a1cd93d01ac4ce",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ba4287e650a1cd93d01ac4ce",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ba4287e650a1cd93d01ac4ce",
+      "width": 160
+    }
+  ],
+  "popularity": 34,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6GzW7pg3KLF2DWZm0rEJI8"
+  }
+}

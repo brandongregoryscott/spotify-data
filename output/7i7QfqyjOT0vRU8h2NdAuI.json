@@ -1,0 +1,33 @@
+{
+  "id": "7i7QfqyjOT0vRU8h2NdAuI",
+  "name": "Beige",
+  "uri": "spotify:artist:7i7QfqyjOT0vRU8h2NdAuI",
+  "followers": {
+    "href": null,
+    "total": 851
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb43af36bf8e35f83f534aaf4b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517443af36bf8e35f83f534aaf4b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17843af36bf8e35f83f534aaf4b",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7i7QfqyjOT0vRU8h2NdAuI"
+  }
+}

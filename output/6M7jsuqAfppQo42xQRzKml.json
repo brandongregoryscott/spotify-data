@@ -1,0 +1,33 @@
+{
+  "id": "6M7jsuqAfppQo42xQRzKml",
+  "name": "Orange Pippin",
+  "uri": "spotify:artist:6M7jsuqAfppQo42xQRzKml",
+  "followers": {
+    "href": null,
+    "total": 92
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb03570448a09989fcebc80ab",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b03570448a09989fcebc80ab",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b03570448a09989fcebc80ab",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6M7jsuqAfppQo42xQRzKml"
+  }
+}

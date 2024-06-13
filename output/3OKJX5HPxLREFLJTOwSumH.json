@@ -1,0 +1,33 @@
+{
+  "id": "3OKJX5HPxLREFLJTOwSumH",
+  "name": "Hail Mary",
+  "uri": "spotify:artist:3OKJX5HPxLREFLJTOwSumH",
+  "followers": {
+    "href": null,
+    "total": 146
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd7db3dab8ca377cce85df3ad",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d7db3dab8ca377cce85df3ad",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d7db3dab8ca377cce85df3ad",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3OKJX5HPxLREFLJTOwSumH"
+  }
+}

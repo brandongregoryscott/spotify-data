@@ -1,0 +1,33 @@
+{
+  "id": "1mkhcivGRr0EA9GNyyuAbR",
+  "name": "Malla",
+  "uri": "spotify:artist:1mkhcivGRr0EA9GNyyuAbR",
+  "followers": {
+    "href": null,
+    "total": 135
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfb6ec9b63dd58a47c933a566",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fb6ec9b63dd58a47c933a566",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fb6ec9b63dd58a47c933a566",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1mkhcivGRr0EA9GNyyuAbR"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "43XkWaoCS0wKjuMJrWFgoa",
+  "name": "syudou",
+  "uri": "spotify:artist:43XkWaoCS0wKjuMJrWFgoa",
+  "followers": {
+    "href": null,
+    "total": 296380
+  },
+  "genres": [
+    "anime",
+    "vocaloid"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb761329fe31301766144108d9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174761329fe31301766144108d9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178761329fe31301766144108d9",
+      "width": 160
+    }
+  ],
+  "popularity": 52,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa"
+  }
+}

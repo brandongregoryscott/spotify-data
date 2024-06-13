@@ -1,0 +1,33 @@
+{
+  "id": "1fX3dl7WtXgirAOmnKHQCb",
+  "name": "akitakita",
+  "uri": "spotify:artist:1fX3dl7WtXgirAOmnKHQCb",
+  "followers": {
+    "href": null,
+    "total": 841
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd29635df2978a16557799986",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d29635df2978a16557799986",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d29635df2978a16557799986",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1fX3dl7WtXgirAOmnKHQCb"
+  }
+}

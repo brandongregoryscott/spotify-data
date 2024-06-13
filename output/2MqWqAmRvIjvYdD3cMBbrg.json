@@ -1,0 +1,34 @@
+{
+  "id": "2MqWqAmRvIjvYdD3cMBbrg",
+  "name": "Illum Sphere",
+  "uri": "spotify:artist:2MqWqAmRvIjvYdD3cMBbrg",
+  "followers": {
+    "href": null,
+    "total": 9524
+  },
+  "genres": [
+    "purple sound",
+    "wonky"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb98ace4829d7c27c30654d0ab",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517498ace4829d7c27c30654d0ab",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17898ace4829d7c27c30654d0ab",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2MqWqAmRvIjvYdD3cMBbrg"
+  }
+}

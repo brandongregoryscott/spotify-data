@@ -1,0 +1,33 @@
+{
+  "id": "5NndE29KiOZNr7oJvlKEMu",
+  "name": "Gerhard Stäbler",
+  "uri": "spotify:artist:5NndE29KiOZNr7oJvlKEMu",
+  "followers": {
+    "href": null,
+    "total": 101
+  },
+  "genres": [
+    "german contemporary classical"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27321198d3b1aff9ce7724cd11d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0221198d3b1aff9ce7724cd11d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485121198d3b1aff9ce7724cd11d",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5NndE29KiOZNr7oJvlKEMu"
+  }
+}

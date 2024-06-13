@@ -1,0 +1,33 @@
+{
+  "id": "3lGO6uBIzoFyU6OoGMER1B",
+  "name": "Dead Pony",
+  "uri": "spotify:artist:3lGO6uBIzoFyU6OoGMER1B",
+  "followers": {
+    "href": null,
+    "total": 19250
+  },
+  "genres": [
+    "scottish indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb48f0ff2e027db1a1c4cfdc80",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517448f0ff2e027db1a1c4cfdc80",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17848f0ff2e027db1a1c4cfdc80",
+      "width": 160
+    }
+  ],
+  "popularity": 34,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
+  }
+}

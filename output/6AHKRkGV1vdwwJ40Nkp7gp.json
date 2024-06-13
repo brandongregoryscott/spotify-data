@@ -1,0 +1,33 @@
+{
+  "id": "6AHKRkGV1vdwwJ40Nkp7gp",
+  "name": "7AW",
+  "uri": "spotify:artist:6AHKRkGV1vdwwJ40Nkp7gp",
+  "followers": {
+    "href": null,
+    "total": 213
+  },
+  "genres": [
+    "japanese boom bap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebca13762b050128e0bdaf6cf5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ca13762b050128e0bdaf6cf5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ca13762b050128e0bdaf6cf5",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6AHKRkGV1vdwwJ40Nkp7gp"
+  }
+}

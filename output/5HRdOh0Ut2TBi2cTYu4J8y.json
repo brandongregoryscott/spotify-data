@@ -1,0 +1,33 @@
+{
+  "id": "5HRdOh0Ut2TBi2cTYu4J8y",
+  "name": "Interface Palm",
+  "uri": "spotify:artist:5HRdOh0Ut2TBi2cTYu4J8y",
+  "followers": {
+    "href": null,
+    "total": 246
+  },
+  "genres": [
+    "jazz house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb2af61b885c7283c66f6ef4aa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051742af61b885c7283c66f6ef4aa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1782af61b885c7283c66f6ef4aa",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5HRdOh0Ut2TBi2cTYu4J8y"
+  }
+}

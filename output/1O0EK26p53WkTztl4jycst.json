@@ -1,0 +1,33 @@
+{
+  "id": "1O0EK26p53WkTztl4jycst",
+  "name": "TAEYOON",
+  "uri": "spotify:artist:1O0EK26p53WkTztl4jycst",
+  "followers": {
+    "href": null,
+    "total": 1819
+  },
+  "genres": [
+    "korean city pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb360672c3708962711d8045d9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174360672c3708962711d8045d9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178360672c3708962711d8045d9",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1O0EK26p53WkTztl4jycst"
+  }
+}

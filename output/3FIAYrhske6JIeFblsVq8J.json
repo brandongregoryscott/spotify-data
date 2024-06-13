@@ -1,0 +1,33 @@
+{
+  "id": "3FIAYrhske6JIeFblsVq8J",
+  "name": "Kuan B",
+  "uri": "spotify:artist:3FIAYrhske6JIeFblsVq8J",
+  "followers": {
+    "href": null,
+    "total": 111
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb053fd30e202dcf5b80d05401",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174053fd30e202dcf5b80d05401",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178053fd30e202dcf5b80d05401",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3FIAYrhske6JIeFblsVq8J"
+  }
+}

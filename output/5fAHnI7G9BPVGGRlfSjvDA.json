@@ -1,0 +1,33 @@
+{
+  "id": "5fAHnI7G9BPVGGRlfSjvDA",
+  "name": "Jay D",
+  "uri": "spotify:artist:5fAHnI7G9BPVGGRlfSjvDA",
+  "followers": {
+    "href": null,
+    "total": 97
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27389530b745bb4b83e3adbca64",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0289530b745bb4b83e3adbca64",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485189530b745bb4b83e3adbca64",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5fAHnI7G9BPVGGRlfSjvDA"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "4rbOjsoOmr2HdSJ9e5eoCb",
+  "name": "The Atoms",
+  "uri": "spotify:artist:4rbOjsoOmr2HdSJ9e5eoCb",
+  "followers": {
+    "href": null,
+    "total": 168
+  },
+  "genres": [
+    "derby indie",
+    "diy pop punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c9646eca3839899c33b11e89",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c9646eca3839899c33b11e89",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c9646eca3839899c33b11e89",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4rbOjsoOmr2HdSJ9e5eoCb"
+  }
+}

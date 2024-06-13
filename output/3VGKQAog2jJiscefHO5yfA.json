@@ -1,0 +1,33 @@
+{
+  "id": "3VGKQAog2jJiscefHO5yfA",
+  "name": "8utterfly",
+  "uri": "spotify:artist:3VGKQAog2jJiscefHO5yfA",
+  "followers": {
+    "href": null,
+    "total": 15186
+  },
+  "genres": [
+    "japanese r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaf51cca72d2a8f9c9365621f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174af51cca72d2a8f9c9365621f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178af51cca72d2a8f9c9365621f",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3VGKQAog2jJiscefHO5yfA"
+  }
+}

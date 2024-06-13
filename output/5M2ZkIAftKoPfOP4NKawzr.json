@@ -1,0 +1,33 @@
+{
+  "id": "5M2ZkIAftKoPfOP4NKawzr",
+  "name": "Akob",
+  "uri": "spotify:artist:5M2ZkIAftKoPfOP4NKawzr",
+  "followers": {
+    "href": null,
+    "total": 330
+  },
+  "genres": [
+    "hypnotic techno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ac3e01383532fd3b7518188f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ac3e01383532fd3b7518188f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ac3e01383532fd3b7518188f",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5M2ZkIAftKoPfOP4NKawzr"
+  }
+}

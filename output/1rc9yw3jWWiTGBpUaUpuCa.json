@@ -1,0 +1,34 @@
+{
+  "id": "1rc9yw3jWWiTGBpUaUpuCa",
+  "name": "Kay Kyser",
+  "uri": "spotify:artist:1rc9yw3jWWiTGBpUaUpuCa",
+  "followers": {
+    "href": null,
+    "total": 11859
+  },
+  "genres": [
+    "big band",
+    "swing"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27363064a57972c3642ff9ce9fd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0263064a57972c3642ff9ce9fd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485163064a57972c3642ff9ce9fd",
+      "width": 64
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1rc9yw3jWWiTGBpUaUpuCa"
+  }
+}

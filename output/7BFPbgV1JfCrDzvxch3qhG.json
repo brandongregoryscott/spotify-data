@@ -1,0 +1,33 @@
+{
+  "id": "7BFPbgV1JfCrDzvxch3qhG",
+  "name": "GREASE",
+  "uri": "spotify:artist:7BFPbgV1JfCrDzvxch3qhG",
+  "followers": {
+    "href": null,
+    "total": 186
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb89283d7242f0d3c8ebd42372",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517489283d7242f0d3c8ebd42372",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17889283d7242f0d3c8ebd42372",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7BFPbgV1JfCrDzvxch3qhG"
+  }
+}

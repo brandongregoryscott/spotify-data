@@ -1,0 +1,33 @@
+{
+  "id": "1ExCrobB2mqThavegHEHeS",
+  "name": "azula",
+  "uri": "spotify:artist:1ExCrobB2mqThavegHEHeS",
+  "followers": {
+    "href": null,
+    "total": 837
+  },
+  "genres": [
+    "lo-fi study"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb867a4881cd592350b7126601",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174867a4881cd592350b7126601",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178867a4881cd592350b7126601",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ExCrobB2mqThavegHEHeS"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7mDjgDtBjd0Qu4kRCoEyiP",
+  "name": "The Tisdale",
+  "uri": "spotify:artist:7mDjgDtBjd0Qu4kRCoEyiP",
+  "followers": {
+    "href": null,
+    "total": 35
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273adf121112396376b48e644d5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02adf121112396376b48e644d5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c53ec7a6d4242564dad64d28",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7mDjgDtBjd0Qu4kRCoEyiP"
+  }
+}

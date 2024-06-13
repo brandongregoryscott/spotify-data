@@ -1,0 +1,34 @@
+{
+  "id": "1IOxINdNqjjd3gaDP4gnQ5",
+  "name": "Armani Death Machine",
+  "uri": "spotify:artist:1IOxINdNqjjd3gaDP4gnQ5",
+  "followers": {
+    "href": null,
+    "total": 411
+  },
+  "genres": [
+    "alternative metalcore",
+    "rap metalcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cf8102f57176b4dbcbb07a2c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cf8102f57176b4dbcbb07a2c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cf8102f57176b4dbcbb07a2c",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1IOxINdNqjjd3gaDP4gnQ5"
+  }
+}

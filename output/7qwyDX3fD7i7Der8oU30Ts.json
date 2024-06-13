@@ -1,0 +1,33 @@
+{
+  "id": "7qwyDX3fD7i7Der8oU30Ts",
+  "name": "Pete Krebs",
+  "uri": "spotify:artist:7qwyDX3fD7i7Der8oU30Ts",
+  "followers": {
+    "href": null,
+    "total": 892
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaf3f7824028736e6cf4bb449",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174af3f7824028736e6cf4bb449",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178af3f7824028736e6cf4bb449",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7qwyDX3fD7i7Der8oU30Ts"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3VZo6WTw5cYzuxAKj71IKt",
+  "name": "Izzy Potter",
+  "uri": "spotify:artist:3VZo6WTw5cYzuxAKj71IKt",
+  "followers": {
+    "href": null,
+    "total": 1235
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb523ad98acb7497763e61ffa2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174523ad98acb7497763e61ffa2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178523ad98acb7497763e61ffa2",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3VZo6WTw5cYzuxAKj71IKt"
+  }
+}

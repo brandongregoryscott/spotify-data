@@ -1,0 +1,33 @@
+{
+  "id": "5Qg7V0CpqZOCksZdC5eGeM",
+  "name": "Choo Jackson",
+  "uri": "spotify:artist:5Qg7V0CpqZOCksZdC5eGeM",
+  "followers": {
+    "href": null,
+    "total": 3506
+  },
+  "genres": [
+    "pittsburgh rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb760cc2a7e965eeccf708d6d1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174760cc2a7e965eeccf708d6d1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178760cc2a7e965eeccf708d6d1",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Qg7V0CpqZOCksZdC5eGeM"
+  }
+}

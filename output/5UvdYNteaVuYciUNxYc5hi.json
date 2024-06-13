@@ -1,0 +1,33 @@
+{
+  "id": "5UvdYNteaVuYciUNxYc5hi",
+  "name": "Barely Blind",
+  "uri": "spotify:artist:5UvdYNteaVuYciUNxYc5hi",
+  "followers": {
+    "href": null,
+    "total": 229
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdb5db2a0a32500fe1b9fe66b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174db5db2a0a32500fe1b9fe66b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178db5db2a0a32500fe1b9fe66b",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5UvdYNteaVuYciUNxYc5hi"
+  }
+}

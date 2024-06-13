@@ -1,0 +1,34 @@
+{
+  "id": "6IPSnlQfZiEJxFG4oFAz7a",
+  "name": "The Wookies",
+  "uri": "spotify:artist:6IPSnlQfZiEJxFG4oFAz7a",
+  "followers": {
+    "href": null,
+    "total": 50316
+  },
+  "genres": [
+    "mexican indie",
+    "mexican rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb216eca34592e4547d8d48ed3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174216eca34592e4547d8d48ed3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178216eca34592e4547d8d48ed3",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "79HBbVB3ebJhK9q7gjcHW5",
+  "name": "Pack3",
+  "uri": "spotify:artist:79HBbVB3ebJhK9q7gjcHW5",
+  "followers": {
+    "href": null,
+    "total": 312
+  },
+  "genres": [
+    "japanese beats"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd3e7c796196dd1ba7a2b87c6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d3e7c796196dd1ba7a2b87c6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d3e7c796196dd1ba7a2b87c6",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/79HBbVB3ebJhK9q7gjcHW5"
+  }
+}

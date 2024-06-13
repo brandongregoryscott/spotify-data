@@ -1,0 +1,33 @@
+{
+  "id": "6ZBUFJUtIFfEAfiPKtsVsD",
+  "name": "LØUS",
+  "uri": "spotify:artist:6ZBUFJUtIFfEAfiPKtsVsD",
+  "followers": {
+    "href": null,
+    "total": 61
+  },
+  "genres": [
+    "nu gabber"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273af5f050af0b2427c798ebb4d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02af5f050af0b2427c798ebb4d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851af5f050af0b2427c798ebb4d",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ZBUFJUtIFfEAfiPKtsVsD"
+  }
+}

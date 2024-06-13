@@ -1,0 +1,33 @@
+{
+  "id": "2JUJ7dZ4TMRd64mSKKCzcr",
+  "name": "Rosemother",
+  "uri": "spotify:artist:2JUJ7dZ4TMRd64mSKKCzcr",
+  "followers": {
+    "href": null,
+    "total": 2048
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf0addd05edd6336a1e6d2496",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f0addd05edd6336a1e6d2496",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f0addd05edd6336a1e6d2496",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2JUJ7dZ4TMRd64mSKKCzcr"
+  }
+}

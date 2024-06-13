@@ -1,0 +1,33 @@
+{
+  "id": "6vJQ5ApzYgf9Is5ikYylht",
+  "name": "wydhoops",
+  "uri": "spotify:artist:6vJQ5ApzYgf9Is5ikYylht",
+  "followers": {
+    "href": null,
+    "total": 515
+  },
+  "genres": [
+    "sigilkore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcba95d28da0c9e94b9dc3ce2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cba95d28da0c9e94b9dc3ce2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cba95d28da0c9e94b9dc3ce2",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6vJQ5ApzYgf9Is5ikYylht"
+  }
+}

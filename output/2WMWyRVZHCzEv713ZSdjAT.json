@@ -1,0 +1,33 @@
+{
+  "id": "2WMWyRVZHCzEv713ZSdjAT",
+  "name": "ねじ式",
+  "uri": "spotify:artist:2WMWyRVZHCzEv713ZSdjAT",
+  "followers": {
+    "href": null,
+    "total": 10575
+  },
+  "genres": [
+    "vocaloid"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739029741611b456efa15fe40f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029029741611b456efa15fe40f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519029741611b456efa15fe40f",
+      "width": 64
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2WMWyRVZHCzEv713ZSdjAT"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2wEFIYl3hrCsgHtV1pkYTs",
+  "name": "Qioh",
+  "uri": "spotify:artist:2wEFIYl3hrCsgHtV1pkYTs",
+  "followers": {
+    "href": null,
+    "total": 404
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb49f854c5028c73c035acad9c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517449f854c5028c73c035acad9c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17849f854c5028c73c035acad9c",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2wEFIYl3hrCsgHtV1pkYTs"
+  }
+}

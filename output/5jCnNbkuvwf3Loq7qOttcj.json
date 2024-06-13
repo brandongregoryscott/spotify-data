@@ -1,0 +1,33 @@
+{
+  "id": "5jCnNbkuvwf3Loq7qOttcj",
+  "name": "Souland",
+  "uri": "spotify:artist:5jCnNbkuvwf3Loq7qOttcj",
+  "followers": {
+    "href": null,
+    "total": 367
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb53da455726a75ffd26c52978",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517453da455726a75ffd26c52978",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17853da455726a75ffd26c52978",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5jCnNbkuvwf3Loq7qOttcj"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2XGdcKsxwWx6UoRzBiY89k",
+  "name": "Artifact Generator",
+  "uri": "spotify:artist:2XGdcKsxwWx6UoRzBiY89k",
+  "followers": {
+    "href": null,
+    "total": 12
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273696c3da2fd532ec8ceb19b51",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02696c3da2fd532ec8ceb19b51",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851696c3da2fd532ec8ceb19b51",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2XGdcKsxwWx6UoRzBiY89k"
+  }
+}

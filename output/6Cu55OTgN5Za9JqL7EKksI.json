@@ -1,0 +1,33 @@
+{
+  "id": "6Cu55OTgN5Za9JqL7EKksI",
+  "name": "Libox",
+  "uri": "spotify:artist:6Cu55OTgN5Za9JqL7EKksI",
+  "followers": {
+    "href": null,
+    "total": 75
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6165b3823e356d3b45f7f7d2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051746165b3823e356d3b45f7f7d2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1786165b3823e356d3b45f7f7d2",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Cu55OTgN5Za9JqL7EKksI"
+  }
+}

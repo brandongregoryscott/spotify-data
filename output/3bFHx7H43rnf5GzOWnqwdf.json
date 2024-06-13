@@ -1,0 +1,34 @@
+{
+  "id": "3bFHx7H43rnf5GzOWnqwdf",
+  "name": "Majo",
+  "uri": "spotify:artist:3bFHx7H43rnf5GzOWnqwdf",
+  "followers": {
+    "href": null,
+    "total": 3798
+  },
+  "genres": [
+    "canadian contemporary r&b",
+    "indie r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcf11cd229beaf3351775a373",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cf11cd229beaf3351775a373",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cf11cd229beaf3351775a373",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf"
+  }
+}

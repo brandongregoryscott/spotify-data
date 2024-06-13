@@ -1,0 +1,33 @@
+{
+  "id": "5HZ1FsttY0nNyizkRoa0Gq",
+  "name": "Schmitty",
+  "uri": "spotify:artist:5HZ1FsttY0nNyizkRoa0Gq",
+  "followers": {
+    "href": null,
+    "total": 69
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a2acd30866bfbf53f05aa82d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a2acd30866bfbf53f05aa82d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a2acd30866bfbf53f05aa82d",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5HZ1FsttY0nNyizkRoa0Gq"
+  }
+}

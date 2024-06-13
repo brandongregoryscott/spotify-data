@@ -1,0 +1,33 @@
+{
+  "id": "0bW7sqdbfXR6M3P4yhOupC",
+  "name": "Udmo",
+  "uri": "spotify:artist:0bW7sqdbfXR6M3P4yhOupC",
+  "followers": {
+    "href": null,
+    "total": 746
+  },
+  "genres": [
+    "australian ambient"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cb8b84dca59831c53d81385f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cb8b84dca59831c53d81385f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cb8b84dca59831c53d81385f",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0bW7sqdbfXR6M3P4yhOupC"
+  }
+}

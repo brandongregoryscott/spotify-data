@@ -1,0 +1,33 @@
+{
+  "id": "2wqNvfj60soTsjflkJflPy",
+  "name": "yum3k0",
+  "uri": "spotify:artist:2wqNvfj60soTsjflkJflPy",
+  "followers": {
+    "href": null,
+    "total": 1828
+  },
+  "genres": [
+    "russian hyperpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb83aa8d9ce40000697a1f6136",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517483aa8d9ce40000697a1f6136",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17883aa8d9ce40000697a1f6136",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2wqNvfj60soTsjflkJflPy"
+  }
+}

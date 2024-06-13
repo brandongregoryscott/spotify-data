@@ -1,0 +1,34 @@
+{
+  "id": "0OmrAV3lcs88FhbEREgrYR",
+  "name": "Henning Stærk",
+  "uri": "spotify:artist:0OmrAV3lcs88FhbEREgrYR",
+  "followers": {
+    "href": null,
+    "total": 4444
+  },
+  "genres": [
+    "classic danish pop",
+    "dansktop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb73559d908e3d106d27cefa49",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517473559d908e3d106d27cefa49",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17873559d908e3d106d27cefa49",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0OmrAV3lcs88FhbEREgrYR"
+  }
+}

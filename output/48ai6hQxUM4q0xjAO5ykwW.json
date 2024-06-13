@@ -1,0 +1,33 @@
+{
+  "id": "48ai6hQxUM4q0xjAO5ykwW",
+  "name": "Sam Borek",
+  "uri": "spotify:artist:48ai6hQxUM4q0xjAO5ykwW",
+  "followers": {
+    "href": null,
+    "total": 57
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe183c7ec11f7c0bc02e96b82",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e183c7ec11f7c0bc02e96b82",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e183c7ec11f7c0bc02e96b82",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/48ai6hQxUM4q0xjAO5ykwW"
+  }
+}

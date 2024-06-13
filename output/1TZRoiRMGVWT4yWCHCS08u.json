@@ -1,0 +1,33 @@
+{
+  "id": "1TZRoiRMGVWT4yWCHCS08u",
+  "name": "Eric Lanham",
+  "uri": "spotify:artist:1TZRoiRMGVWT4yWCHCS08u",
+  "followers": {
+    "href": null,
+    "total": 200
+  },
+  "genres": [
+    "glitch"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736730357f4a5f757dd2a0c8ea",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026730357f4a5f757dd2a0c8ea",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516730357f4a5f757dd2a0c8ea",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1TZRoiRMGVWT4yWCHCS08u"
+  }
+}

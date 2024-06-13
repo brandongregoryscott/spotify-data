@@ -1,0 +1,33 @@
+{
+  "id": "7cU53yFxYswZ78zZOpMRHX",
+  "name": "Oona",
+  "uri": "spotify:artist:7cU53yFxYswZ78zZOpMRHX",
+  "followers": {
+    "href": null,
+    "total": 255
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738aa35d89590134b2b10d7e84",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02abc56a65af97eb4940113011",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851abc56a65af97eb4940113011",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7cU53yFxYswZ78zZOpMRHX"
+  }
+}

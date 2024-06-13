@@ -1,0 +1,34 @@
+{
+  "id": "5BnvA1wTJoYw1ckVzXZ2Wf",
+  "name": "Mele Marce",
+  "uri": "spotify:artist:5BnvA1wTJoYw1ckVzXZ2Wf",
+  "followers": {
+    "href": null,
+    "total": 435
+  },
+  "genres": [
+    "italian punk",
+    "punk rock italiano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736904c4070e0f6d173f7fe20d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026904c4070e0f6d173f7fe20d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516904c4070e0f6d173f7fe20d",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5BnvA1wTJoYw1ckVzXZ2Wf"
+  }
+}

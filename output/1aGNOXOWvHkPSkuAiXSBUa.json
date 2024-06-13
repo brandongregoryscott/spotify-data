@@ -1,0 +1,33 @@
+{
+  "id": "1aGNOXOWvHkPSkuAiXSBUa",
+  "name": "brinq",
+  "uri": "spotify:artist:1aGNOXOWvHkPSkuAiXSBUa",
+  "followers": {
+    "href": null,
+    "total": 1502
+  },
+  "genres": [
+    "japanese electropop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e534a6da63eb262ef658ed0c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e534a6da63eb262ef658ed0c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e534a6da63eb262ef658ed0c",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1aGNOXOWvHkPSkuAiXSBUa"
+  }
+}

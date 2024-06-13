@@ -1,0 +1,36 @@
+{
+  "id": "7s6SmrbyQvp26jN5EbnU9u",
+  "name": "Carnation",
+  "uri": "spotify:artist:7s6SmrbyQvp26jN5EbnU9u",
+  "followers": {
+    "href": null,
+    "total": 11361
+  },
+  "genres": [
+    "belgian death metal",
+    "belgian metal",
+    "dutch metal",
+    "voidgrind"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbea7b72afa392a07fcc13be7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bea7b72afa392a07fcc13be7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bea7b72afa392a07fcc13be7",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7s6SmrbyQvp26jN5EbnU9u"
+  }
+}

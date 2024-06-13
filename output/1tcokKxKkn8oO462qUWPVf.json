@@ -1,0 +1,33 @@
+{
+  "id": "1tcokKxKkn8oO462qUWPVf",
+  "name": "MoJo",
+  "uri": "spotify:artist:1tcokKxKkn8oO462qUWPVf",
+  "followers": {
+    "href": null,
+    "total": 1050
+  },
+  "genres": [
+    "classic anime"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732db78d94fd208486cf52e940",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022db78d94fd208486cf52e940",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512db78d94fd208486cf52e940",
+      "width": 64
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1tcokKxKkn8oO462qUWPVf"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "5IavF7GSc6uXoAabhSKMev",
+  "name": "Desgaraian",
+  "uri": "spotify:artist:5IavF7GSc6uXoAabhSKMev",
+  "followers": {
+    "href": null,
+    "total": 703
+  },
+  "genres": [
+    "euskal musica",
+    "euskal rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb83a902c96d76fbe4623940f1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517483a902c96d76fbe4623940f1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17883a902c96d76fbe4623940f1",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5IavF7GSc6uXoAabhSKMev"
+  }
+}

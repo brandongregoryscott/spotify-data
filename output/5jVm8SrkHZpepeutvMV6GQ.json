@@ -1,0 +1,34 @@
+{
+  "id": "5jVm8SrkHZpepeutvMV6GQ",
+  "name": "I TRIP",
+  "uri": "spotify:artist:5jVm8SrkHZpepeutvMV6GQ",
+  "followers": {
+    "href": null,
+    "total": 533
+  },
+  "genres": [
+    "alternative metalcore",
+    "rap metalcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736182f76ae38790219b642134",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026182f76ae38790219b642134",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516182f76ae38790219b642134",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5jVm8SrkHZpepeutvMV6GQ"
+  }
+}

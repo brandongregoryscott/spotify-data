@@ -1,0 +1,34 @@
+{
+  "id": "4YSG8kuMGPNPu9g68Qip24",
+  "name": "Modiga Agenter",
+  "uri": "spotify:artist:4YSG8kuMGPNPu9g68Qip24",
+  "followers": {
+    "href": null,
+    "total": 378
+  },
+  "genres": [
+    "swedish synth",
+    "swedish synthpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb57e2c91bd51fb606bbff670b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517457e2c91bd51fb606bbff670b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17857e2c91bd51fb606bbff670b",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4YSG8kuMGPNPu9g68Qip24"
+  }
+}

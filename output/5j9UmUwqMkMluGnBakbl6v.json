@@ -1,0 +1,33 @@
+{
+  "id": "5j9UmUwqMkMluGnBakbl6v",
+  "name": "Lucas",
+  "uri": "spotify:artist:5j9UmUwqMkMluGnBakbl6v",
+  "followers": {
+    "href": null,
+    "total": 160
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273be5b2b1f3256557f9e3e3c22",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02be5b2b1f3256557f9e3e3c22",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851be5b2b1f3256557f9e3e3c22",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5j9UmUwqMkMluGnBakbl6v"
+  }
+}

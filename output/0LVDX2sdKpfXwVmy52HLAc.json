@@ -1,0 +1,34 @@
+{
+  "id": "0LVDX2sdKpfXwVmy52HLAc",
+  "name": "25",
+  "uri": "spotify:artist:0LVDX2sdKpfXwVmy52HLAc",
+  "followers": {
+    "href": null,
+    "total": 8325
+  },
+  "genres": [
+    "swedish hip hop",
+    "swedish trap pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb346f3e80925f0e67a92acd88",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174346f3e80925f0e67a92acd88",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178346f3e80925f0e67a92acd88",
+      "width": 160
+    }
+  ],
+  "popularity": 44,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc"
+  }
+}

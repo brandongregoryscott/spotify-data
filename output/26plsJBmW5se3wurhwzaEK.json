@@ -1,0 +1,33 @@
+{
+  "id": "26plsJBmW5se3wurhwzaEK",
+  "name": "Eden Project",
+  "uri": "spotify:artist:26plsJBmW5se3wurhwzaEK",
+  "followers": {
+    "href": null,
+    "total": 190193
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27301ec392dd41fd0df6e229c06",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0201ec392dd41fd0df6e229c06",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485101ec392dd41fd0df6e229c06",
+      "width": 64
+    }
+  ],
+  "popularity": 43,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/26plsJBmW5se3wurhwzaEK"
+  }
+}

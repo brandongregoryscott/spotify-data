@@ -1,0 +1,33 @@
+{
+  "id": "6RL1sqV5BBMwTQAj5VwKLK",
+  "name": "Eräs",
+  "uri": "spotify:artist:6RL1sqV5BBMwTQAj5VwKLK",
+  "followers": {
+    "href": null,
+    "total": 330
+  },
+  "genres": [
+    "suomirap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcc06ae7cebd0dc9c3f7f36ed",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cc06ae7cebd0dc9c3f7f36ed",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cc06ae7cebd0dc9c3f7f36ed",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6RL1sqV5BBMwTQAj5VwKLK"
+  }
+}

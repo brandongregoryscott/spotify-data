@@ -1,0 +1,33 @@
+{
+  "id": "6ehyROzmcByS3y5sJLLfN8",
+  "name": "El Señor",
+  "uri": "spotify:artist:6ehyROzmcByS3y5sJLLfN8",
+  "followers": {
+    "href": null,
+    "total": 763
+  },
+  "genres": [
+    "portuguese rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb142327e750fa74851a787229",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174142327e750fa74851a787229",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178142327e750fa74851a787229",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ehyROzmcByS3y5sJLLfN8"
+  }
+}

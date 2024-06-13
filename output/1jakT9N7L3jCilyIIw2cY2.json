@@ -1,0 +1,34 @@
+{
+  "id": "1jakT9N7L3jCilyIIw2cY2",
+  "name": "Flipzyde",
+  "uri": "spotify:artist:1jakT9N7L3jCilyIIw2cY2",
+  "followers": {
+    "href": null,
+    "total": 787
+  },
+  "genres": [
+    "alternative metalcore",
+    "rap metalcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb18e84ac62a611c355c87c12f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517418e84ac62a611c355c87c12f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17818e84ac62a611c355c87c12f",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1jakT9N7L3jCilyIIw2cY2"
+  }
+}

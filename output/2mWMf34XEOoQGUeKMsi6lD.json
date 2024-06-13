@@ -1,0 +1,33 @@
+{
+  "id": "2mWMf34XEOoQGUeKMsi6lD",
+  "name": "Joshua Durant",
+  "uri": "spotify:artist:2mWMf34XEOoQGUeKMsi6lD",
+  "followers": {
+    "href": null,
+    "total": 277
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb95a390b86fdf473134238f77",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517495a390b86fdf473134238f77",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17895a390b86fdf473134238f77",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2mWMf34XEOoQGUeKMsi6lD"
+  }
+}

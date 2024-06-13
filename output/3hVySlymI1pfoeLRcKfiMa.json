@@ -1,0 +1,33 @@
+{
+  "id": "3hVySlymI1pfoeLRcKfiMa",
+  "name": "Old Cross",
+  "uri": "spotify:artist:3hVySlymI1pfoeLRcKfiMa",
+  "followers": {
+    "href": null,
+    "total": 310
+  },
+  "genres": [
+    "portland punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb78a84cfb28ab64f48b827365",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517478a84cfb28ab64f48b827365",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17878a84cfb28ab64f48b827365",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3hVySlymI1pfoeLRcKfiMa"
+  }
+}

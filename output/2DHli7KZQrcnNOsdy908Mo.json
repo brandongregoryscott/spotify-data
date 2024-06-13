@@ -1,0 +1,33 @@
+{
+  "id": "2DHli7KZQrcnNOsdy908Mo",
+  "name": "Imboys",
+  "uri": "spotify:artist:2DHli7KZQrcnNOsdy908Mo",
+  "followers": {
+    "href": null,
+    "total": 215
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb359dc3ea6f51f36b99d96dde",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174359dc3ea6f51f36b99d96dde",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178359dc3ea6f51f36b99d96dde",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2DHli7KZQrcnNOsdy908Mo"
+  }
+}

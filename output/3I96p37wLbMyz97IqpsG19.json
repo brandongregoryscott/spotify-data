@@ -1,0 +1,33 @@
+{
+  "id": "3I96p37wLbMyz97IqpsG19",
+  "name": "Coffee Run",
+  "uri": "spotify:artist:3I96p37wLbMyz97IqpsG19",
+  "followers": {
+    "href": null,
+    "total": 341
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf2e25526517d19f7d1867d73",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f2e25526517d19f7d1867d73",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f2e25526517d19f7d1867d73",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3I96p37wLbMyz97IqpsG19"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2t30gyxMsJTt4of7HMZoIi",
+  "name": "uk!yo",
+  "uri": "spotify:artist:2t30gyxMsJTt4of7HMZoIi",
+  "followers": {
+    "href": null,
+    "total": 2808
+  },
+  "genres": [
+    "aesthetic rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb026eb74bcd3a9820e08dda26",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174026eb74bcd3a9820e08dda26",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178026eb74bcd3a9820e08dda26",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2t30gyxMsJTt4of7HMZoIi"
+  }
+}

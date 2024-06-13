@@ -1,0 +1,33 @@
+{
+  "id": "2pF1jXDwFG5OrjnzSo516D",
+  "name": "Lázaros",
+  "uri": "spotify:artist:2pF1jXDwFG5OrjnzSo516D",
+  "followers": {
+    "href": null,
+    "total": 1179
+  },
+  "genres": [
+    "post-punk mexicano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdfafae13c5fc1990d7c4558a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dfafae13c5fc1990d7c4558a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dfafae13c5fc1990d7c4558a",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2pF1jXDwFG5OrjnzSo516D"
+  }
+}

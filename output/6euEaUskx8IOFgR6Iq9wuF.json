@@ -1,0 +1,33 @@
+{
+  "id": "6euEaUskx8IOFgR6Iq9wuF",
+  "name": "Henko",
+  "uri": "spotify:artist:6euEaUskx8IOFgR6Iq9wuF",
+  "followers": {
+    "href": null,
+    "total": 555
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebddccd5395ec44647ea58d121",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ddccd5395ec44647ea58d121",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ddccd5395ec44647ea58d121",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6euEaUskx8IOFgR6Iq9wuF"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "3fCxdiR6eGEUVGruslnovV",
+  "name": "Chico y Chica",
+  "uri": "spotify:artist:3fCxdiR6eGEUVGruslnovV",
+  "followers": {
+    "href": null,
+    "total": 7959
+  },
+  "genres": [
+    "spanish electropop",
+    "spanish indie pop",
+    "spanish synthpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfc5aa133a072ad555b3d8640",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fc5aa133a072ad555b3d8640",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fc5aa133a072ad555b3d8640",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3fCxdiR6eGEUVGruslnovV"
+  }
+}

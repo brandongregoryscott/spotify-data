@@ -1,0 +1,33 @@
+{
+  "id": "1LUk7HPRQLhBasl11Yyqdi",
+  "name": "Broadcaster",
+  "uri": "spotify:artist:1LUk7HPRQLhBasl11Yyqdi",
+  "followers": {
+    "href": null,
+    "total": 43
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c0a1648d3499e98ffbc14d0c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e2497ab214d3ac45b3a41fb7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e2497ab214d3ac45b3a41fb7",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1LUk7HPRQLhBasl11Yyqdi"
+  }
+}

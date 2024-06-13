@@ -1,0 +1,33 @@
+{
+  "id": "3CtbX0S8fC20EPFDnsYCal",
+  "name": "lustri",
+  "uri": "spotify:artist:3CtbX0S8fC20EPFDnsYCal",
+  "followers": {
+    "href": null,
+    "total": 233
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb41da0421946d07907f7e4652",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517441da0421946d07907f7e4652",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17841da0421946d07907f7e4652",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3CtbX0S8fC20EPFDnsYCal"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2NmaagpNE6lS1Pg5AZQAlH",
+  "name": "Chocolate Stash",
+  "uri": "spotify:artist:2NmaagpNE6lS1Pg5AZQAlH",
+  "followers": {
+    "href": null,
+    "total": 87
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27302d18e2338fe6e9ec6be995b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0202d18e2338fe6e9ec6be995b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485102d18e2338fe6e9ec6be995b",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2NmaagpNE6lS1Pg5AZQAlH"
+  }
+}

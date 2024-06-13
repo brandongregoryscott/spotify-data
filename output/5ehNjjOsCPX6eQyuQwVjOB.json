@@ -1,0 +1,33 @@
+{
+  "id": "5ehNjjOsCPX6eQyuQwVjOB",
+  "name": "luxior",
+  "uri": "spotify:artist:5ehNjjOsCPX6eQyuQwVjOB",
+  "followers": {
+    "href": null,
+    "total": 241
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27302120f0cee875c6cfd1af7ff",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0202120f0cee875c6cfd1af7ff",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485102120f0cee875c6cfd1af7ff",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ehNjjOsCPX6eQyuQwVjOB"
+  }
+}

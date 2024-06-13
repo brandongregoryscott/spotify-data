@@ -1,0 +1,33 @@
+{
+  "id": "3ejmDs01llsuj0zaCyVEFx",
+  "name": "Lord of Shadows",
+  "uri": "spotify:artist:3ejmDs01llsuj0zaCyVEFx",
+  "followers": {
+    "href": null,
+    "total": 1113
+  },
+  "genres": [
+    "gothic doom"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb96ce5f472400141eef505fc7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517496ce5f472400141eef505fc7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17896ce5f472400141eef505fc7",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ejmDs01llsuj0zaCyVEFx"
+  }
+}

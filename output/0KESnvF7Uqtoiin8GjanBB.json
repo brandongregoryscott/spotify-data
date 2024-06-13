@@ -1,0 +1,34 @@
+{
+  "id": "0KESnvF7Uqtoiin8GjanBB",
+  "name": "Bong",
+  "uri": "spotify:artist:0KESnvF7Uqtoiin8GjanBB",
+  "followers": {
+    "href": null,
+    "total": 4920
+  },
+  "genres": [
+    "drone metal",
+    "uk doom metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb48ace1b008202ebe8316f2ae",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517448ace1b008202ebe8316f2ae",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17848ace1b008202ebe8316f2ae",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0KESnvF7Uqtoiin8GjanBB"
+  }
+}

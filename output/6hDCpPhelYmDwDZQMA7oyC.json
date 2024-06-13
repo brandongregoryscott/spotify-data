@@ -1,0 +1,33 @@
+{
+  "id": "6hDCpPhelYmDwDZQMA7oyC",
+  "name": "Teeko",
+  "uri": "spotify:artist:6hDCpPhelYmDwDZQMA7oyC",
+  "followers": {
+    "href": null,
+    "total": 944
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe908c44fd6d7c04706ea4148",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e908c44fd6d7c04706ea4148",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e908c44fd6d7c04706ea4148",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6hDCpPhelYmDwDZQMA7oyC"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "3UGoJfjsENJ0x9rVckIuOg",
+  "name": "Art Zoyd",
+  "uri": "spotify:artist:3UGoJfjsENJ0x9rVckIuOg",
+  "followers": {
+    "href": null,
+    "total": 7612
+  },
+  "genres": [
+    "avant-prog",
+    "rock in opposition",
+    "rock progressif francais",
+    "zeuhl"
+  ],
+  "images": [
+    {
+      "height": 600,
+      "url": "https://i.scdn.co/image/ce9a849a3284db3e2c468dba85fe8eecc51a211a",
+      "width": 459
+    },
+    {
+      "height": 261,
+      "url": "https://i.scdn.co/image/0b2e7185e8b3641af03fbe5f17d2ca1736af317a",
+      "width": 200
+    },
+    {
+      "height": 84,
+      "url": "https://i.scdn.co/image/3dac3ce6ffbb2c6af9a537f199883c7ea241c24e",
+      "width": 64
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3UGoJfjsENJ0x9rVckIuOg"
+  }
+}

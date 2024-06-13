@@ -1,0 +1,33 @@
+{
+  "id": "3Pi1Q9bVKMJRc9mM80kwTY",
+  "name": "Belapalma",
+  "uri": "spotify:artist:3Pi1Q9bVKMJRc9mM80kwTY",
+  "followers": {
+    "href": null,
+    "total": 710
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba8a731eada861bad5ae062e8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a8a731eada861bad5ae062e8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a8a731eada861bad5ae062e8",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Pi1Q9bVKMJRc9mM80kwTY"
+  }
+}

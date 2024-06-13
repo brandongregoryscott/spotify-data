@@ -1,0 +1,33 @@
+{
+  "id": "3bbBVO98KWqFGfF2yIcMlp",
+  "name": "Stagbriar",
+  "uri": "spotify:artist:3bbBVO98KWqFGfF2yIcMlp",
+  "followers": {
+    "href": null,
+    "total": 925
+  },
+  "genres": [
+    "south carolina indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb25da0dd2e11751e79fc846c5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517425da0dd2e11751e79fc846c5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17825da0dd2e11751e79fc846c5",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3bbBVO98KWqFGfF2yIcMlp"
+  }
+}

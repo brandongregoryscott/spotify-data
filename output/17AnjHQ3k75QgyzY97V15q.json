@@ -1,0 +1,33 @@
+{
+  "id": "17AnjHQ3k75QgyzY97V15q",
+  "name": "Zamir",
+  "uri": "spotify:artist:17AnjHQ3k75QgyzY97V15q",
+  "followers": {
+    "href": null,
+    "total": 8184
+  },
+  "genres": [
+    "nigerian pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735c48839ad1606e124ccaacef",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025c48839ad1606e124ccaacef",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515c48839ad1606e124ccaacef",
+      "width": 64
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q"
+  }
+}
