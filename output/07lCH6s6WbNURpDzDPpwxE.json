@@ -1,0 +1,33 @@
+{
+  "id": "07lCH6s6WbNURpDzDPpwxE",
+  "name": "Project.R",
+  "uri": "spotify:artist:07lCH6s6WbNURpDzDPpwxE",
+  "followers": {
+    "href": null,
+    "total": 3181
+  },
+  "genres": [
+    "classic anime"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731fb60b64b053a2e40523b801",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021fb60b64b053a2e40523b801",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511fb60b64b053a2e40523b801",
+      "width": 64
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07lCH6s6WbNURpDzDPpwxE"
+  }
+}

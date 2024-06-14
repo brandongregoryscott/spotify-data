@@ -1,0 +1,33 @@
+{
+  "id": "0IiF7no58v62hXoqgDnZLY",
+  "name": "F.Y.E",
+  "uri": "spotify:artist:0IiF7no58v62hXoqgDnZLY",
+  "followers": {
+    "href": null,
+    "total": 255
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb62a8e5b477d347fd416cb6a7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517462a8e5b477d347fd416cb6a7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17862a8e5b477d347fd416cb6a7",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0IiF7no58v62hXoqgDnZLY"
+  }
+}

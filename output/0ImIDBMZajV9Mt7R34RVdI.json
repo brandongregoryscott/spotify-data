@@ -1,0 +1,33 @@
+{
+  "id": "0ImIDBMZajV9Mt7R34RVdI",
+  "name": "Head Honcho",
+  "uri": "spotify:artist:0ImIDBMZajV9Mt7R34RVdI",
+  "followers": {
+    "href": null,
+    "total": 405
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273364634ae1cd2be4dcb653944",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02364634ae1cd2be4dcb653944",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851364634ae1cd2be4dcb653944",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ImIDBMZajV9Mt7R34RVdI"
+  }
+}

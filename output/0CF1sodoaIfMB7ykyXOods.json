@@ -1,0 +1,33 @@
+{
+  "id": "0CF1sodoaIfMB7ykyXOods",
+  "name": "Second Base",
+  "uri": "spotify:artist:0CF1sodoaIfMB7ykyXOods",
+  "followers": {
+    "href": null,
+    "total": 181
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf8393649b146247a673b96f6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f8393649b146247a673b96f6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f8393649b146247a673b96f6",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0CF1sodoaIfMB7ykyXOods"
+  }
+}

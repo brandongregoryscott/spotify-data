@@ -1,0 +1,33 @@
+{
+  "id": "01OROriTDIhiFGIdbhDVaf",
+  "name": "TEGGI",
+  "uri": "spotify:artist:01OROriTDIhiFGIdbhDVaf",
+  "followers": {
+    "href": null,
+    "total": 83
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb14005d61cb0cc78549bf405a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517414005d61cb0cc78549bf405a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17814005d61cb0cc78549bf405a",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01OROriTDIhiFGIdbhDVaf"
+  }
+}

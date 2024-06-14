@@ -1,0 +1,33 @@
+{
+  "id": "01ZJ75ZqGJAMe1yhwfAvSm",
+  "name": "Asshats",
+  "uri": "spotify:artist:01ZJ75ZqGJAMe1yhwfAvSm",
+  "followers": {
+    "href": null,
+    "total": 36
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaa75e2fb7d19a338a39f0700",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aa75e2fb7d19a338a39f0700",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aa75e2fb7d19a338a39f0700",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01ZJ75ZqGJAMe1yhwfAvSm"
+  }
+}

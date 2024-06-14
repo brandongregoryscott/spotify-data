@@ -1,0 +1,33 @@
+{
+  "id": "0823FxAYBXOeMTOWPeH9HH",
+  "name": "Sam Ock",
+  "uri": "spotify:artist:0823FxAYBXOeMTOWPeH9HH",
+  "followers": {
+    "href": null,
+    "total": 48815
+  },
+  "genres": [
+    "ambeat"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb59e869ad63f711b8dafdad17",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517459e869ad63f711b8dafdad17",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17859e869ad63f711b8dafdad17",
+      "width": 160
+    }
+  ],
+  "popularity": 39,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH"
+  }
+}

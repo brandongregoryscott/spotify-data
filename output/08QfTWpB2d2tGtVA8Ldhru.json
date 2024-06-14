@@ -1,0 +1,33 @@
+{
+  "id": "08QfTWpB2d2tGtVA8Ldhru",
+  "name": "Split Iris",
+  "uri": "spotify:artist:08QfTWpB2d2tGtVA8Ldhru",
+  "followers": {
+    "href": null,
+    "total": 933
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba6e6a7f389ae7568b79aa3f0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a6e6a7f389ae7568b79aa3f0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a6e6a7f389ae7568b79aa3f0",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/08QfTWpB2d2tGtVA8Ldhru"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "014bW80BPmy5WVcFBoHwNq",
+  "name": "sajou no hana",
+  "uri": "spotify:artist:014bW80BPmy5WVcFBoHwNq",
+  "followers": {
+    "href": null,
+    "total": 37017
+  },
+  "genres": [
+    "anime"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc7a520e9509ae95b0a5ca455",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c7a520e9509ae95b0a5ca455",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c7a520e9509ae95b0a5ca455",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq"
+  }
+}
