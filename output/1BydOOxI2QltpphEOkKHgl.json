@@ -4,10 +4,11 @@
   "uri": "spotify:artist:1BydOOxI2QltpphEOkKHgl",
   "followers": {
     "href": null,
-    "total": 21647
+    "total": 21692
   },
   "genres": [
-    "j-rock"
+    "j-rock",
+    "japanese alternative rock"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 160
     }
   ],
-  "popularity": 31,
+  "popularity": 32,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl"
   }

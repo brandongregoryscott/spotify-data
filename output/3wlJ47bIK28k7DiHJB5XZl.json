@@ -4,10 +4,11 @@
   "uri": "spotify:artist:3wlJ47bIK28k7DiHJB5XZl",
   "followers": {
     "href": null,
-    "total": 7638
+    "total": 7639
   },
   "genres": [
-    "deep melodic metalcore"
+    "deep melodic metalcore",
+    "metallic hardcore"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 64
     }
   ],
-  "popularity": 9,
+  "popularity": 10,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/3wlJ47bIK28k7DiHJB5XZl"
   }
