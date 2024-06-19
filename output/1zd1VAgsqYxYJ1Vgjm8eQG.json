@@ -4,11 +4,12 @@
   "uri": "spotify:artist:1zd1VAgsqYxYJ1Vgjm8eQG",
   "followers": {
     "href": null,
-    "total": 861
+    "total": 864
   },
   "genres": [
     "chicago punk",
-    "indie emo"
+    "indie emo",
+    "indie emo rock"
   ],
   "images": [
     {
@@ -27,7 +28,7 @@
       "width": 160
     }
   ],
-  "popularity": 8,
+  "popularity": 9,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/1zd1VAgsqYxYJ1Vgjm8eQG"
   }
