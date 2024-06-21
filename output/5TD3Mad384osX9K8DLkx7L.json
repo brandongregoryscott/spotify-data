@@ -4,13 +4,14 @@
   "uri": "spotify:artist:5TD3Mad384osX9K8DLkx7L",
   "followers": {
     "href": null,
-    "total": 18185
+    "total": 18183
   },
   "genres": [
     "big band",
     "british dance band",
     "swing",
-    "tin pan alley"
+    "tin pan alley",
+    "vaudeville"
   ],
   "images": [
     {
@@ -29,7 +30,7 @@
       "width": 64
     }
   ],
-  "popularity": 25,
+  "popularity": 26,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/5TD3Mad384osX9K8DLkx7L"
   }
