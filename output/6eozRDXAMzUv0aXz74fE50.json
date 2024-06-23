@@ -4,10 +4,11 @@
   "uri": "spotify:artist:6eozRDXAMzUv0aXz74fE50",
   "followers": {
     "href": null,
-    "total": 4774
+    "total": 4765
   },
   "genres": [
-    "experimental percussion"
+    "experimental percussion",
+    "free improvisation"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 160
     }
   ],
-  "popularity": 14,
+  "popularity": 15,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/6eozRDXAMzUv0aXz74fE50"
   }
