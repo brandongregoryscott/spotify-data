@@ -24,7 +24,7 @@ def find_and_save_artists(artist_ids_chunk, attempt = 1)
   artists.each do |artist|
     save_artist_json_file(artist)
   end
-rescue RestClient::TooManyRequests, RestClient::ServiceUnavailable
+rescue RestClient::TooManyRequests, RestClient::ServiceUnavailable, RestClient::InternalServerError
   max_sleep_seconds = Float(2**attempt)
   sleep rand(0..max_sleep_seconds)
   authenticate(rand(0..7))
@@ -44,8 +44,8 @@ def authenticate(index = nil)
 end
 
 def current_hour
-  hour = DateTime.now.strftime('%H')
-  hour = hour.sub('0', '') if hour.start_with? '0'
+  # - flag drops then padding
+  hour = DateTime.now.strftime('%-H')
   Integer(hour)
 end
 
