@@ -4,27 +4,13 @@
   "uri": "spotify:artist:05obTNY4rag0r0mJsWNPB7",
   "followers": {
     "href": null,
-    "total": 1297
+    "total": 1301
   },
   "genres": [
     "mincecore"
   ],
   "images": [
-    {
-      "height": 640,
-      "url": "https://i.scdn.co/image/ab67616d0000b2735936e9f8f0b10237ba844f20",
-      "width": 640
-    },
-    {
-      "height": 300,
-      "url": "https://i.scdn.co/image/ab67616d00001e025936e9f8f0b10237ba844f20",
-      "width": 300
-    },
-    {
-      "height": 64,
-      "url": "https://i.scdn.co/image/ab67616d000048515936e9f8f0b10237ba844f20",
-      "width": 64
-    }
+
   ],
   "popularity": 5,
   "external_urls": {
