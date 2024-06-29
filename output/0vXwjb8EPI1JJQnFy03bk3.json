@@ -10,9 +10,23 @@
 
   ],
   "images": [
-
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27374939f60bc9da14650d04ed5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ad3dbf6578767e3446817428",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ad3dbf6578767e3446817428",
+      "width": 64
+    }
   ],
-  "popularity": 6,
+  "popularity": 5,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/0vXwjb8EPI1JJQnFy03bk3"
   }
