@@ -1,4 +1,4 @@
-# arthistory [![Sync](https://github.com/brandongregoryscott/arthistory/actions/workflows/sync.yml/badge.svg)](https://github.com/brandongregoryscott/arthistory/actions/workflows/sync.yml)
+# spotify-data [![Sync](https://github.com/brandongregoryscott/spotify-data/actions/workflows/sync.yml/badge.svg)](https://github.com/brandongregoryscott/spotify-data/actions/workflows/sync.yml)
 
 A repository for tracking Spotify artist changes over time.
 
