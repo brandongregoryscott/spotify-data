@@ -4,13 +4,27 @@
   "uri": "spotify:artist:6KSeYkvEiEb6V1yzKI7nrn",
   "followers": {
     "href": null,
-    "total": 3195
+    "total": 3197
   },
   "genres": [
     "st louis drill"
   ],
   "images": [
-
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b3ef7a7f8926f811295fd514",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b3ef7a7f8926f811295fd514",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b3ef7a7f8926f811295fd514",
+      "width": 64
+    }
   ],
   "popularity": 23,
   "external_urls": {

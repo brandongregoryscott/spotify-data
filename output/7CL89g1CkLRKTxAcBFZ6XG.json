@@ -4,11 +4,12 @@
   "uri": "spotify:artist:7CL89g1CkLRKTxAcBFZ6XG",
   "followers": {
     "href": null,
-    "total": 14768
+    "total": 14774
   },
   "genres": [
     "bossa nova",
-    "deep brazilian pop"
+    "deep brazilian pop",
+    "velha guarda"
   ],
   "images": [
     {
@@ -27,7 +28,7 @@
       "width": 160
     }
   ],
-  "popularity": 25,
+  "popularity": 26,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/7CL89g1CkLRKTxAcBFZ6XG"
   }

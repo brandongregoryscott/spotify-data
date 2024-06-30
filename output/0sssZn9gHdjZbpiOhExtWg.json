@@ -4,29 +4,15 @@
   "uri": "spotify:artist:0sssZn9gHdjZbpiOhExtWg",
   "followers": {
     "href": null,
-    "total": 3591
+    "total": 3592
   },
   "genres": [
     "brazilian boogie"
   ],
   "images": [
-    {
-      "height": 640,
-      "url": "https://i.scdn.co/image/ab67616d0000b27336d0b82d47820b172c1c712d",
-      "width": 640
-    },
-    {
-      "height": 300,
-      "url": "https://i.scdn.co/image/ab67616d00001e0236d0b82d47820b172c1c712d",
-      "width": 300
-    },
-    {
-      "height": 64,
-      "url": "https://i.scdn.co/image/ab67616d0000485136d0b82d47820b172c1c712d",
-      "width": 64
-    }
+
   ],
-  "popularity": 20,
+  "popularity": 12,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/0sssZn9gHdjZbpiOhExtWg"
   }
