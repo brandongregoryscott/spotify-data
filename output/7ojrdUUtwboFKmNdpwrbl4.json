@@ -4,10 +4,11 @@
   "uri": "spotify:artist:7ojrdUUtwboFKmNdpwrbl4",
   "followers": {
     "href": null,
-    "total": 7651
+    "total": 7655
   },
   "genres": [
-    "christian metalcore"
+    "christian metalcore",
+    "screamocore"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 64
     }
   ],
-  "popularity": 7,
+  "popularity": 8,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/7ojrdUUtwboFKmNdpwrbl4"
   }
