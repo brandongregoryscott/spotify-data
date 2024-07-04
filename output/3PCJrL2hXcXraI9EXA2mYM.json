@@ -4,11 +4,12 @@
   "uri": "spotify:artist:3PCJrL2hXcXraI9EXA2mYM",
   "followers": {
     "href": null,
-    "total": 22960
+    "total": 22969
   },
   "genres": [
     "chill r&b",
-    "indie r&b"
+    "indie r&b",
+    "pop r&b"
   ],
   "images": [
     {
@@ -27,7 +28,7 @@
       "width": 160
     }
   ],
-  "popularity": 33,
+  "popularity": 34,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/3PCJrL2hXcXraI9EXA2mYM"
   }
