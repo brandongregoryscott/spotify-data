@@ -4,10 +4,11 @@
   "uri": "spotify:artist:1mUgTcokhM7BSqp8mXhy8U",
   "followers": {
     "href": null,
-    "total": 22816
+    "total": 22823
   },
   "genres": [
     "classic garage rock",
+    "classic psychedelic rock",
     "freakbeat",
     "psychedelic rock"
   ],
@@ -28,7 +29,7 @@
       "width": 64
     }
   ],
-  "popularity": 22,
+  "popularity": 23,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/1mUgTcokhM7BSqp8mXhy8U"
   }
