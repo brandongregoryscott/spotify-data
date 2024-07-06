@@ -4,10 +4,11 @@
   "uri": "spotify:artist:6O5k8LLRfDK8v9jj1GazAQ",
   "followers": {
     "href": null,
-    "total": 105517
+    "total": 105545
   },
   "genres": [
-    "british jazz"
+    "british jazz",
+    "indie soul"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 160
     }
   ],
-  "popularity": 36,
+  "popularity": 37,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
   }
