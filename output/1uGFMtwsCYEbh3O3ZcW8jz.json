@@ -4,13 +4,27 @@
   "uri": "spotify:artist:1uGFMtwsCYEbh3O3ZcW8jz",
   "followers": {
     "href": null,
-    "total": 1977
+    "total": 1982
   },
   "genres": [
     "underground visual kei"
   ],
   "images": [
-
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737b9b7c79bf9ae413d9fb01eb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027b9b7c79bf9ae413d9fb01eb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517b9b7c79bf9ae413d9fb01eb",
+      "width": 64
+    }
   ],
   "popularity": 12,
   "external_urls": {
