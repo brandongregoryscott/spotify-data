@@ -4,10 +4,11 @@
   "uri": "spotify:artist:1QEXci2AN382xA0gdDD8wX",
   "followers": {
     "href": null,
-    "total": 232
+    "total": 233
   },
   "genres": [
-    "christian death metal"
+    "christian death metal",
+    "unblack metal"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 160
     }
   ],
-  "popularity": 3,
+  "popularity": 4,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/1QEXci2AN382xA0gdDD8wX"
   }
