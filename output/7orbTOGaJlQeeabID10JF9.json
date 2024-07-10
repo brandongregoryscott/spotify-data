@@ -4,12 +4,13 @@
   "uri": "spotify:artist:7orbTOGaJlQeeabID10JF9",
   "followers": {
     "href": null,
-    "total": 7552
+    "total": 7551
   },
   "genres": [
     "folk black metal",
     "folk metal",
-    "german pagan metal"
+    "german pagan metal",
+    "viking metal"
   ],
   "images": [
     {
@@ -28,7 +29,7 @@
       "width": 64
     }
   ],
-  "popularity": 18,
+  "popularity": 17,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/7orbTOGaJlQeeabID10JF9"
   }
