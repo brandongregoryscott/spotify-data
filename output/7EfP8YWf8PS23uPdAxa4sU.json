@@ -4,13 +4,27 @@
   "uri": "spotify:artist:7EfP8YWf8PS23uPdAxa4sU",
   "followers": {
     "href": null,
-    "total": 5101
+    "total": 5103
   },
   "genres": [
     "argentine punk"
   ],
   "images": [
-
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27302019b831d6db9f31ea05d75",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0202019b831d6db9f31ea05d75",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485149a3ef983b79621ee553df48",
+      "width": 64
+    }
   ],
   "popularity": 14,
   "external_urls": {

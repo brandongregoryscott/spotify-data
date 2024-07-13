@@ -10,9 +10,23 @@
     "baltimore hip hop"
   ],
   "images": [
-
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27364961974a5dbc1c93e4467d3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0238387e9bb0446723e8cbb78f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485138387e9bb0446723e8cbb78f",
+      "width": 64
+    }
   ],
-  "popularity": 0,
+  "popularity": 3,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/1PAsooQH7SmuQZHPn7VeSB"
   }
