@@ -4,10 +4,12 @@
   "uri": "spotify:artist:3NUsiT2JSyaWAnWaXxDzhQ",
   "followers": {
     "href": null,
-    "total": 211210
+    "total": 211259
   },
   "genres": [
-
+    "bebop",
+    "jazz",
+    "jazz saxophone"
   ],
   "images": [
     {
@@ -26,7 +28,7 @@
       "width": 160
     }
   ],
-  "popularity": 45,
+  "popularity": 46,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
   }

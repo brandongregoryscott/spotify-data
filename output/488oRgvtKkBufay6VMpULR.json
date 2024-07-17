@@ -4,10 +4,11 @@
   "uri": "spotify:artist:488oRgvtKkBufay6VMpULR",
   "followers": {
     "href": null,
-    "total": 15426
+    "total": 15429
   },
   "genres": [
-
+    "classic japanese jazz",
+    "japanese jazz"
   ],
   "images": [
     {
@@ -31,7 +32,7 @@
       "width": 64
     }
   ],
-  "popularity": 28,
+  "popularity": 29,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/488oRgvtKkBufay6VMpULR"
   }

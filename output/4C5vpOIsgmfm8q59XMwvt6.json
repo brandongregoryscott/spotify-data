@@ -4,10 +4,14 @@
   "uri": "spotify:artist:4C5vpOIsgmfm8q59XMwvt6",
   "followers": {
     "href": null,
-    "total": 21562
+    "total": 21564
   },
   "genres": [
-
+    "canadian hardcore",
+    "canadian metal",
+    "canadian metalcore",
+    "deathcore",
+    "melodic hardcore"
   ],
   "images": [
     {
@@ -26,7 +30,7 @@
       "width": 64
     }
   ],
-  "popularity": 21,
+  "popularity": 22,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/4C5vpOIsgmfm8q59XMwvt6"
   }

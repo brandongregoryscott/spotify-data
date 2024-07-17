@@ -4,10 +4,15 @@
   "uri": "spotify:artist:2aWNMyDPP58u8yalKahWXJ",
   "followers": {
     "href": null,
-    "total": 20297
+    "total": 20314
   },
   "genres": [
-
+    "black metal",
+    "gothenburg metal",
+    "melodic black metal",
+    "swedish black metal",
+    "swedish metal",
+    "symphonic black metal"
   ],
   "images": [
     {
@@ -31,7 +36,7 @@
       "width": 64
     }
   ],
-  "popularity": 19,
+  "popularity": 20,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/2aWNMyDPP58u8yalKahWXJ"
   }

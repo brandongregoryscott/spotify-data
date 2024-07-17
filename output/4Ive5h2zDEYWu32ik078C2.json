@@ -4,10 +4,12 @@
   "uri": "spotify:artist:4Ive5h2zDEYWu32ik078C2",
   "followers": {
     "href": null,
-    "total": 87374
+    "total": 87411
   },
   "genres": [
-
+    "deathcore",
+    "melodic metalcore",
+    "progressive deathcore"
   ],
   "images": [
     {
@@ -26,7 +28,7 @@
       "width": 160
     }
   ],
-  "popularity": 31,
+  "popularity": 32,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/4Ive5h2zDEYWu32ik078C2"
   }

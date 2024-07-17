@@ -4,26 +4,27 @@
   "uri": "spotify:artist:4iJf7GRdGbJS8GRf2TBFwQ",
   "followers": {
     "href": null,
-    "total": 3470
+    "total": 3513
   },
   "genres": [
-
+    "art punk",
+    "indie punk"
   ],
   "images": [
     {
       "height": 640,
-      "url": "https://i.scdn.co/image/ab67616d0000b27358a39c28398479e22d2a9340",
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe5be6bb1dc63f2d78b56bdf9",
       "width": 640
     },
     {
-      "height": 300,
-      "url": "https://i.scdn.co/image/ab67616d00001e0258a39c28398479e22d2a9340",
-      "width": 300
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e5be6bb1dc63f2d78b56bdf9",
+      "width": 320
     },
     {
-      "height": 64,
-      "url": "https://i.scdn.co/image/ab67616d0000485158a39c28398479e22d2a9340",
-      "width": 64
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e5be6bb1dc63f2d78b56bdf9",
+      "width": 160
     }
   ],
   "popularity": 13,

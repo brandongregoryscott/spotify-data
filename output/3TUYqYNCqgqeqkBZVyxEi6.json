@@ -4,10 +4,14 @@
   "uri": "spotify:artist:3TUYqYNCqgqeqkBZVyxEi6",
   "followers": {
     "href": null,
-    "total": 34241
+    "total": 34248
   },
   "genres": [
-
+    "appalachian folk",
+    "bluegrass",
+    "country gospel",
+    "traditional folk",
+    "western swing"
   ],
   "images": [
     {
@@ -31,7 +35,7 @@
       "width": 64
     }
   ],
-  "popularity": 32,
+  "popularity": 33,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/3TUYqYNCqgqeqkBZVyxEi6"
   }

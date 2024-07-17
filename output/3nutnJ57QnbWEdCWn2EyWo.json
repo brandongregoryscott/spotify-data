@@ -4,10 +4,13 @@
   "uri": "spotify:artist:3nutnJ57QnbWEdCWn2EyWo",
   "followers": {
     "href": null,
-    "total": 136400
+    "total": 136463
   },
   "genres": [
-
+    "stoner metal",
+    "stoner rock",
+    "uk doom metal",
+    "uk stoner rock"
   ],
   "images": [
     {
@@ -26,7 +29,7 @@
       "width": 160
     }
   ],
-  "popularity": 36,
+  "popularity": 37,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo"
   }

@@ -4,10 +4,11 @@
   "uri": "spotify:artist:2inX1svE5swPuIBIJdrFyo",
   "followers": {
     "href": null,
-    "total": 41133
+    "total": 41132
   },
   "genres": [
-
+    "indie soul",
+    "neo r&b"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 160
     }
   ],
-  "popularity": 35,
+  "popularity": 36,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo"
   }

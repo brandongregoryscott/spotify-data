@@ -4,10 +4,12 @@
   "uri": "spotify:artist:2qK0WzDIIgsdKdFDkdUCCl",
   "followers": {
     "href": null,
-    "total": 19122
+    "total": 19121
   },
   "genres": [
-
+    "baroque pop",
+    "belgian indie",
+    "belgian rock"
   ],
   "images": [
     {
@@ -26,7 +28,7 @@
       "width": 160
     }
   ],
-  "popularity": 29,
+  "popularity": 30,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/2qK0WzDIIgsdKdFDkdUCCl"
   }

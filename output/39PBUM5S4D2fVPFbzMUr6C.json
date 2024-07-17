@@ -4,25 +4,27 @@
   "uri": "spotify:artist:39PBUM5S4D2fVPFbzMUr6C",
   "followers": {
     "href": null,
-    "total": 5358
+    "total": 5398
   },
   "genres": [
-
+    "j-rap",
+    "japanese drill",
+    "japanese trap"
   ],
   "images": [
     {
       "height": 640,
-      "url": "https://i.scdn.co/image/ab6761610000e5ebdbe976c0e7b25eef5250c4ec",
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd80348f773e900d03934111a",
       "width": 640
     },
     {
       "height": 320,
-      "url": "https://i.scdn.co/image/ab67616100005174dbe976c0e7b25eef5250c4ec",
+      "url": "https://i.scdn.co/image/ab67616100005174d80348f773e900d03934111a",
       "width": 320
     },
     {
       "height": 160,
-      "url": "https://i.scdn.co/image/ab6761610000f178dbe976c0e7b25eef5250c4ec",
+      "url": "https://i.scdn.co/image/ab6761610000f178d80348f773e900d03934111a",
       "width": 160
     }
   ],

@@ -4,10 +4,14 @@
   "uri": "spotify:artist:421A23lYymEUE6SozCfWbr",
   "followers": {
     "href": null,
-    "total": 94858
+    "total": 94872
   },
   "genres": [
-
+    "glam punk",
+    "glam rock",
+    "instrumental surf",
+    "protopunk",
+    "punk"
   ],
   "images": [
     {
@@ -31,7 +35,7 @@
       "width": 64
     }
   ],
-  "popularity": 31,
+  "popularity": 32,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/421A23lYymEUE6SozCfWbr"
   }

@@ -4,10 +4,15 @@
   "uri": "spotify:artist:3ng7UwBECtnIlNIdufUagO",
   "followers": {
     "href": null,
-    "total": 6503
+    "total": 6502
   },
   "genres": [
-
+    "black death",
+    "canadian black metal",
+    "canadian metal",
+    "dissonant death metal",
+    "vancouver metal",
+    "voidgrind"
   ],
   "images": [
     {
@@ -26,7 +31,7 @@
       "width": 160
     }
   ],
-  "popularity": 4,
+  "popularity": 3,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/3ng7UwBECtnIlNIdufUagO"
   }

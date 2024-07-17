@@ -4,10 +4,11 @@
   "uri": "spotify:artist:4o1mf6VhPYeSoQkMcfB0HG",
   "followers": {
     "href": null,
-    "total": 23407
+    "total": 23406
   },
   "genres": [
-
+    "noise pop",
+    "nu gaze"
   ],
   "images": [
     {
@@ -31,7 +32,7 @@
       "width": 63
     }
   ],
-  "popularity": 15,
+  "popularity": 16,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/4o1mf6VhPYeSoQkMcfB0HG"
   }

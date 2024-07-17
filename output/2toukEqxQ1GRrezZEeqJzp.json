@@ -4,10 +4,11 @@
   "uri": "spotify:artist:2toukEqxQ1GRrezZEeqJzp",
   "followers": {
     "href": null,
-    "total": 650
+    "total": 651
   },
   "genres": [
-
+    "dungeon synth",
+    "fantasy synth"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 160
     }
   ],
-  "popularity": 9,
+  "popularity": 8,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/2toukEqxQ1GRrezZEeqJzp"
   }

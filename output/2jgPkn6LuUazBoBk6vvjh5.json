@@ -4,10 +4,14 @@
   "uri": "spotify:artist:2jgPkn6LuUazBoBk6vvjh5",
   "followers": {
     "href": null,
-    "total": 979126
+    "total": 979364
   },
   "genres": [
-
+    "baroque pop",
+    "british invasion",
+    "classic rock",
+    "folk rock",
+    "psychedelic rock"
   ],
   "images": [
     {
@@ -26,7 +30,7 @@
       "width": 160
     }
   ],
-  "popularity": 58,
+  "popularity": 59,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
   }

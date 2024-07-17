@@ -4,10 +4,13 @@
   "uri": "spotify:artist:2gYxwgFrlv0jvphFmL3PT0",
   "followers": {
     "href": null,
-    "total": 2957
+    "total": 2958
   },
   "genres": [
-
+    "avant-garde jazz",
+    "free improvisation",
+    "free jazz",
+    "german jazz"
   ],
   "images": [
     {
@@ -26,7 +29,7 @@
       "width": 64
     }
   ],
-  "popularity": 6,
+  "popularity": 5,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/2gYxwgFrlv0jvphFmL3PT0"
   }

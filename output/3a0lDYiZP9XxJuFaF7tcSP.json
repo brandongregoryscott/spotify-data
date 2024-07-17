@@ -4,10 +4,12 @@
   "uri": "spotify:artist:3a0lDYiZP9XxJuFaF7tcSP",
   "followers": {
     "href": null,
-    "total": 2491
+    "total": 2492
   },
   "genres": [
-
+    "electronicore",
+    "post-post-hardcore",
+    "trancecore"
   ],
   "images": [
     {
@@ -26,7 +28,7 @@
       "width": 160
     }
   ],
-  "popularity": 9,
+  "popularity": 8,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/3a0lDYiZP9XxJuFaF7tcSP"
   }

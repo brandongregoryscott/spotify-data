@@ -4,10 +4,15 @@
   "uri": "spotify:artist:4TvgUScBiJZP1P9V1tmMPi",
   "followers": {
     "href": null,
-    "total": 62551
+    "total": 62568
   },
   "genres": [
-
+    "american grindcore",
+    "brutal death metal",
+    "death metal",
+    "deathgrind",
+    "grindcore",
+    "new york death metal"
   ],
   "images": [
     {
@@ -31,7 +36,7 @@
       "width": 64
     }
   ],
-  "popularity": 30,
+  "popularity": 29,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/4TvgUScBiJZP1P9V1tmMPi"
   }

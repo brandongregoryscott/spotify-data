@@ -4,10 +4,15 @@
   "uri": "spotify:artist:2rhFzFmezpnW82MNqEKVry",
   "followers": {
     "href": null,
-    "total": 5874622
+    "total": 5875918
   },
   "genres": [
-
+    "hip hop",
+    "miami hip hop",
+    "pop rap",
+    "rap",
+    "trap",
+    "underground hip hop"
   ],
   "images": [
     {
@@ -26,7 +31,7 @@
       "width": 160
     }
   ],
-  "popularity": 74,
+  "popularity": 73,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
   }

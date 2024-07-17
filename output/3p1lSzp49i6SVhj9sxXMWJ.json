@@ -4,10 +4,12 @@
   "uri": "spotify:artist:3p1lSzp49i6SVhj9sxXMWJ",
   "followers": {
     "href": null,
-    "total": 5441
+    "total": 5442
   },
   "genres": [
-
+    "deep german punk",
+    "elektropunk",
+    "german punk"
   ],
   "images": [
     {
@@ -26,7 +28,7 @@
       "width": 64
     }
   ],
-  "popularity": 10,
+  "popularity": 11,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/3p1lSzp49i6SVhj9sxXMWJ"
   }

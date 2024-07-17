@@ -4,10 +4,11 @@
   "uri": "spotify:artist:3zZ88AwlTwfCJkowsFCvLA",
   "followers": {
     "href": null,
-    "total": 305874
+    "total": 306122
   },
   "genres": [
-
+    "detroit hip hop",
+    "detroit trap"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 160
     }
   ],
-  "popularity": 63,
+  "popularity": 64,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
   }

@@ -4,10 +4,11 @@
   "uri": "spotify:artist:3yke87s3oocT5my2YLulfe",
   "followers": {
     "href": null,
-    "total": 13626
+    "total": 13628
   },
   "genres": [
-
+    "classic finnish rock",
+    "suomi rock"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 64
     }
   ],
-  "popularity": 34,
+  "popularity": 33,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/3yke87s3oocT5my2YLulfe"
   }

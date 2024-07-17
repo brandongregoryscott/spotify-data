@@ -4,25 +4,30 @@
   "uri": "spotify:artist:3LkSiHbjqOHCKCqBfEZOTv",
   "followers": {
     "href": null,
-    "total": 954239
+    "total": 954425
   },
   "genres": [
-
+    "alternative metal",
+    "melodic metalcore",
+    "metalcore",
+    "nu metal",
+    "post-grunge",
+    "screamo"
   ],
   "images": [
     {
       "height": 640,
-      "url": "https://i.scdn.co/image/ab6761610000e5eb3ee9a84c7ec59fe25c8e9c6e",
+      "url": "https://i.scdn.co/image/ab6761610000e5eba941046b44c1212ca58815e3",
       "width": 640
     },
     {
       "height": 320,
-      "url": "https://i.scdn.co/image/ab676161000051743ee9a84c7ec59fe25c8e9c6e",
+      "url": "https://i.scdn.co/image/ab67616100005174a941046b44c1212ca58815e3",
       "width": 320
     },
     {
       "height": 160,
-      "url": "https://i.scdn.co/image/ab6761610000f1783ee9a84c7ec59fe25c8e9c6e",
+      "url": "https://i.scdn.co/image/ab6761610000f178a941046b44c1212ca58815e3",
       "width": 160
     }
   ],

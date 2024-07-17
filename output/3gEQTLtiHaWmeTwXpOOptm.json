@@ -4,25 +4,28 @@
   "uri": "spotify:artist:3gEQTLtiHaWmeTwXpOOptm",
   "followers": {
     "href": null,
-    "total": 7962
+    "total": 7963
   },
   "genres": [
-
+    "dubstep",
+    "gaming dubstep",
+    "riddim dubstep",
+    "tearout"
   ],
   "images": [
     {
       "height": 640,
-      "url": "https://i.scdn.co/image/ab6761610000e5eb5cde702fbd02fb59c986c52e",
+      "url": "https://i.scdn.co/image/ab6761610000e5eb99dff8d13634a162d6cb6821",
       "width": 640
     },
     {
       "height": 320,
-      "url": "https://i.scdn.co/image/ab676161000051745cde702fbd02fb59c986c52e",
+      "url": "https://i.scdn.co/image/ab6761610000517499dff8d13634a162d6cb6821",
       "width": 320
     },
     {
       "height": 160,
-      "url": "https://i.scdn.co/image/ab6761610000f1785cde702fbd02fb59c986c52e",
+      "url": "https://i.scdn.co/image/ab6761610000f17899dff8d13634a162d6cb6821",
       "width": 160
     }
   ],

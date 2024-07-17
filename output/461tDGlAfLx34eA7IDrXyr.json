@@ -4,10 +4,11 @@
   "uri": "spotify:artist:461tDGlAfLx34eA7IDrXyr",
   "followers": {
     "href": null,
-    "total": 3100
+    "total": 3103
   },
   "genres": [
-
+    "ethiopian pop",
+    "ethiopian traditional"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 64
     }
   ],
-  "popularity": 15,
+  "popularity": 16,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/461tDGlAfLx34eA7IDrXyr"
   }

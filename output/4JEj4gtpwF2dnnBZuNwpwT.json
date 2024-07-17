@@ -4,10 +4,12 @@
   "uri": "spotify:artist:4JEj4gtpwF2dnnBZuNwpwT",
   "followers": {
     "href": null,
-    "total": 12003
+    "total": 12005
   },
   "genres": [
-
+    "electro",
+    "electroclash",
+    "nu electro"
   ],
   "images": [
     {
@@ -26,7 +28,7 @@
       "width": 64
     }
   ],
-  "popularity": 17,
+  "popularity": 18,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/4JEj4gtpwF2dnnBZuNwpwT"
   }

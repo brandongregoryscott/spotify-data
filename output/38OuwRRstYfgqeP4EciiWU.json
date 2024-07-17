@@ -4,10 +4,11 @@
   "uri": "spotify:artist:38OuwRRstYfgqeP4EciiWU",
   "followers": {
     "href": null,
-    "total": 11224
+    "total": 11226
   },
   "genres": [
-
+    "danish electropop",
+    "danish pop"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 160
     }
   ],
-  "popularity": 31,
+  "popularity": 32,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/38OuwRRstYfgqeP4EciiWU"
   }

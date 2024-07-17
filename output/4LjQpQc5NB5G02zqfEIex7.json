@@ -4,10 +4,13 @@
   "uri": "spotify:artist:4LjQpQc5NB5G02zqfEIex7",
   "followers": {
     "href": null,
-    "total": 141190
+    "total": 141220
   },
   "genres": [
-
+    "deathcore",
+    "melodic deathcore",
+    "melodic metalcore",
+    "metalcore"
   ],
   "images": [
     {
@@ -31,7 +34,7 @@
       "width": 64
     }
   ],
-  "popularity": 36,
+  "popularity": 37,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/4LjQpQc5NB5G02zqfEIex7"
   }

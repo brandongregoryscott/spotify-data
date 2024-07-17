@@ -4,10 +4,17 @@
   "uri": "spotify:artist:4Nu0EL8c5d2vFHPOcNjlBP",
   "followers": {
     "href": null,
-    "total": 40397
+    "total": 40413
   },
   "genres": [
-
+    "c86",
+    "lo-fi",
+    "scottish indie",
+    "scottish new wave",
+    "scottish rock",
+    "tape club",
+    "twee pop",
+    "uk post-punk"
   ],
   "images": [
     {
@@ -26,7 +33,7 @@
       "width": 64
     }
   ],
-  "popularity": 31,
+  "popularity": 32,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/4Nu0EL8c5d2vFHPOcNjlBP"
   }

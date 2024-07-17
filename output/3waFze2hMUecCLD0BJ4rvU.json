@@ -4,10 +4,14 @@
   "uri": "spotify:artist:3waFze2hMUecCLD0BJ4rvU",
   "followers": {
     "href": null,
-    "total": 31417
+    "total": 31428
   },
   "genres": [
-
+    "dark wave",
+    "deathrock",
+    "ethereal wave",
+    "gothic rock",
+    "neoclassical darkwave"
   ],
   "images": [
     {
@@ -26,7 +30,7 @@
       "width": 64
     }
   ],
-  "popularity": 26,
+  "popularity": 25,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/3waFze2hMUecCLD0BJ4rvU"
   }

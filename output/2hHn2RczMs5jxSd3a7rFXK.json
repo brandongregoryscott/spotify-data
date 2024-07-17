@@ -4,10 +4,11 @@
   "uri": "spotify:artist:2hHn2RczMs5jxSd3a7rFXK",
   "followers": {
     "href": null,
-    "total": 13378
+    "total": 13380
   },
   "genres": [
-
+    "easy listening",
+    "romantico"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 64
     }
   ],
-  "popularity": 37,
+  "popularity": 38,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/2hHn2RczMs5jxSd3a7rFXK"
   }

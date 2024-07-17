@@ -4,10 +4,12 @@
   "uri": "spotify:artist:3YhoBaF7QKoydRlkscsdtr",
   "followers": {
     "href": null,
-    "total": 2263
+    "total": 2265
   },
   "genres": [
-
+    "hardgroove",
+    "industrial techno",
+    "minimal dub"
   ],
   "images": [
     {
@@ -31,7 +33,7 @@
       "width": 64
     }
   ],
-  "popularity": 8,
+  "popularity": 7,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/3YhoBaF7QKoydRlkscsdtr"
   }

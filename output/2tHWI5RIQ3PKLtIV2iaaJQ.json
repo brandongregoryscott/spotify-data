@@ -4,10 +4,12 @@
   "uri": "spotify:artist:2tHWI5RIQ3PKLtIV2iaaJQ",
   "followers": {
     "href": null,
-    "total": 3092
+    "total": 3093
   },
   "genres": [
-
+    "american post-rock",
+    "connecticut indie",
+    "instrumental post-rock"
   ],
   "images": [
     {
@@ -26,7 +28,7 @@
       "width": 160
     }
   ],
-  "popularity": 9,
+  "popularity": 10,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/2tHWI5RIQ3PKLtIV2iaaJQ"
   }

@@ -4,10 +4,11 @@
   "uri": "spotify:artist:2xV4z30ITk9LqUk1GKYlrR",
   "followers": {
     "href": null,
-    "total": 1677
+    "total": 1681
   },
   "genres": [
-
+    "experimental classical",
+    "experimental vocal"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 160
     }
   ],
-  "popularity": 21,
+  "popularity": 22,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
   }

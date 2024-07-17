@@ -4,10 +4,12 @@
   "uri": "spotify:artist:2dZXeCz6z59tKK13N0c8Vy",
   "followers": {
     "href": null,
-    "total": 4215
+    "total": 4217
   },
   "genres": [
-
+    "norwegian black metal",
+    "norwegian metal",
+    "symphonic black metal"
   ],
   "images": [
     {
@@ -26,7 +28,7 @@
       "width": 64
     }
   ],
-  "popularity": 8,
+  "popularity": 7,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/2dZXeCz6z59tKK13N0c8Vy"
   }

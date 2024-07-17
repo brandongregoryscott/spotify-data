@@ -4,10 +4,12 @@
   "uri": "spotify:artist:3fCxdiR6eGEUVGruslnovV",
   "followers": {
     "href": null,
-    "total": 7993
+    "total": 7995
   },
   "genres": [
-
+    "spanish electropop",
+    "spanish indie pop",
+    "spanish synthpop"
   ],
   "images": [
     {
@@ -26,7 +28,7 @@
       "width": 160
     }
   ],
-  "popularity": 14,
+  "popularity": 13,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/3fCxdiR6eGEUVGruslnovV"
   }

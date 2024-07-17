@@ -4,10 +4,12 @@
   "uri": "spotify:artist:4AhluimFPLNnran1jD354B",
   "followers": {
     "href": null,
-    "total": 7710
+    "total": 7712
   },
   "genres": [
-
+    "indie queretano",
+    "mexican hardcore",
+    "mexican metal"
   ],
   "images": [
     {
@@ -26,7 +28,7 @@
       "width": 160
     }
   ],
-  "popularity": 8,
+  "popularity": 9,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/4AhluimFPLNnran1jD354B"
   }

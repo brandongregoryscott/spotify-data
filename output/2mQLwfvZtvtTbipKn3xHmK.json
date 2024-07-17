@@ -4,10 +4,11 @@
   "uri": "spotify:artist:2mQLwfvZtvtTbipKn3xHmK",
   "followers": {
     "href": null,
-    "total": 178920
+    "total": 178973
   },
   "genres": [
-
+    "indie hip hop",
+    "underground hip hop"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 160
     }
   ],
-  "popularity": 60,
+  "popularity": 61,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
   }

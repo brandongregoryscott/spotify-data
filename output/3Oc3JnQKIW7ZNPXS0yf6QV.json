@@ -4,10 +4,15 @@
   "uri": "spotify:artist:3Oc3JnQKIW7ZNPXS0yf6QV",
   "followers": {
     "href": null,
-    "total": 15762
+    "total": 15772
   },
   "genres": [
-
+    "finnish metal",
+    "folk metal",
+    "melodic death metal",
+    "portuguese death metal",
+    "portuguese metal",
+    "viking metal"
   ],
   "images": [
     {
@@ -26,7 +31,7 @@
       "width": 160
     }
   ],
-  "popularity": 25,
+  "popularity": 24,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/3Oc3JnQKIW7ZNPXS0yf6QV"
   }

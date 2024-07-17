@@ -4,10 +4,13 @@
   "uri": "spotify:artist:4op0Vv2745lhZU9Mqxamh0",
   "followers": {
     "href": null,
-    "total": 3325
+    "total": 3326
   },
   "genres": [
-
+    "ballroom",
+    "easy listening",
+    "folklore ecuatoriano",
+    "romantico"
   ],
   "images": [
     {
@@ -26,7 +29,7 @@
       "width": 64
     }
   ],
-  "popularity": 32,
+  "popularity": 33,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/4op0Vv2745lhZU9Mqxamh0"
   }

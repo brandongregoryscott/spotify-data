@@ -4,10 +4,11 @@
   "uri": "spotify:artist:2ecIs55o71mEFMhkcaUnyB",
   "followers": {
     "href": null,
-    "total": 13324
+    "total": 13335
   },
   "genres": [
-
+    "hyperpop",
+    "pink noise"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 160
     }
   ],
-  "popularity": 27,
+  "popularity": 26,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/2ecIs55o71mEFMhkcaUnyB"
   }

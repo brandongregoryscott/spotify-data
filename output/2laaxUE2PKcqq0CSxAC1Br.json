@@ -4,10 +4,12 @@
   "uri": "spotify:artist:2laaxUE2PKcqq0CSxAC1Br",
   "followers": {
     "href": null,
-    "total": 435
+    "total": 436
   },
   "genres": [
-
+    "caracas indie",
+    "latin surf rock",
+    "venezuelan rock"
   ],
   "images": [
     {
@@ -26,7 +28,7 @@
       "width": 160
     }
   ],
-  "popularity": 2,
+  "popularity": 1,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/2laaxUE2PKcqq0CSxAC1Br"
   }
