@@ -4,12 +4,14 @@
   "uri": "spotify:artist:4p2Zeb9XclofoJDCXFSTp7",
   "followers": {
     "href": null,
-    "total": 13887
+    "total": 13892
   },
   "genres": [
+    "black sludge",
     "blackened crust",
     "drone metal",
-    "post-doom metal"
+    "post-doom metal",
+    "sludge metal"
   ],
   "images": [
     {
@@ -28,7 +30,7 @@
       "width": 160
     }
   ],
-  "popularity": 14,
+  "popularity": 15,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/4p2Zeb9XclofoJDCXFSTp7"
   }

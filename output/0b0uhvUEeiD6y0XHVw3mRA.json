@@ -4,10 +4,11 @@
   "uri": "spotify:artist:0b0uhvUEeiD6y0XHVw3mRA",
   "followers": {
     "href": null,
-    "total": 30433
+    "total": 30440
   },
   "genres": [
-    "brighton indie"
+    "brighton indie",
+    "garage psych"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 160
     }
   ],
-  "popularity": 18,
+  "popularity": 19,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/0b0uhvUEeiD6y0XHVw3mRA"
   }
