@@ -4,7 +4,7 @@
   "uri": "spotify:artist:7JKeBl6KfrPSBDthhJXbzR",
   "followers": {
     "href": null,
-    "total": 119
+    "total": 135
   },
   "genres": [
     "chinese classical"
@@ -12,21 +12,21 @@
   "images": [
     {
       "height": 640,
-      "url": "https://i.scdn.co/image/ab67616d0000b2733cb5d5006ce181692df27dd1",
+      "url": "https://i.scdn.co/image/ab67616d0000b2734cd268b0c6fc0afc19a4d977",
       "width": 640
     },
     {
       "height": 300,
-      "url": "https://i.scdn.co/image/ab67616d00001e023cb5d5006ce181692df27dd1",
+      "url": "https://i.scdn.co/image/ab67616d00001e024cd268b0c6fc0afc19a4d977",
       "width": 300
     },
     {
       "height": 64,
-      "url": "https://i.scdn.co/image/ab67616d000048513cb5d5006ce181692df27dd1",
+      "url": "https://i.scdn.co/image/ab67616d000048514cd268b0c6fc0afc19a4d977",
       "width": 64
     }
   ],
-  "popularity": 0,
+  "popularity": 1,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/7JKeBl6KfrPSBDthhJXbzR"
   }
