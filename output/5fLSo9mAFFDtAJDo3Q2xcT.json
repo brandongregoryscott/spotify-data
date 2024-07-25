@@ -4,7 +4,7 @@
   "uri": "spotify:artist:5fLSo9mAFFDtAJDo3Q2xcT",
   "followers": {
     "href": null,
-    "total": 55159
+    "total": 55189
   },
   "genres": [
     "dark plugg",
@@ -12,24 +12,19 @@
   ],
   "images": [
     {
-      "height": 1000,
-      "url": "https://i.scdn.co/image/ab6772690000c46c2059f6944b8db2abb1fda914",
-      "width": 1000
-    },
-    {
       "height": 640,
-      "url": "https://i.scdn.co/image/ab6772690000dd222059f6944b8db2abb1fda914",
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd54c60ef91fb3886fd37eef8",
       "width": 640
     },
     {
-      "height": 200,
-      "url": "https://i.scdn.co/image/ab6772690000bac32059f6944b8db2abb1fda914",
-      "width": 200
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d54c60ef91fb3886fd37eef8",
+      "width": 320
     },
     {
-      "height": 64,
-      "url": "https://i.scdn.co/image/ab67726900008f742059f6944b8db2abb1fda914",
-      "width": 64
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d54c60ef91fb3886fd37eef8",
+      "width": 160
     }
   ],
   "popularity": 46,
