@@ -1,0 +1,44 @@
+name: Sync
+
+on:
+  workflow_dispatch:
+    inputs:
+      skip:
+        type: number
+        description: Number of commits to skip
+      take:
+        type: number
+        description: Number of commits to take
+      verbose:
+        type: boolean
+        description: Run with logging output
+
+
+jobs:
+  build_sqlite_database:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+
+      - name: Install gems
+        run: bundle install
+
+      - name: Checkout sqlite branch
+        run: |
+          git checkout sqlite
+          git merge main
+
+      - name: Build sqlite database
+        run: ruby scripts/build_sqlite_database.rb --take ${{github.event.inputs.take}} --skip ${{github.event.inputs.skip}} --verbose ${{github.event.inputs.verbose}}
+
+      - name: Commit and push
+        run: |
+          git add output
+          git commit -m 'Updated sqlite database'
+          git push origin sqlite
