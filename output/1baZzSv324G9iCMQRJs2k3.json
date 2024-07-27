@@ -4,7 +4,7 @@
   "uri": "spotify:artist:1baZzSv324G9iCMQRJs2k3",
   "followers": {
     "href": null,
-    "total": 238
+    "total": 247
   },
   "genres": [
     "thai punk"
@@ -12,21 +12,21 @@
   "images": [
     {
       "height": 640,
-      "url": "https://i.scdn.co/image/ab67616d0000b273adde82799336b0358b4bf1d8",
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb2153a3ade45920d84573c31",
       "width": 640
     },
     {
-      "height": 300,
-      "url": "https://i.scdn.co/image/ab67616d00001e02adde82799336b0358b4bf1d8",
-      "width": 300
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b2153a3ade45920d84573c31",
+      "width": 320
     },
     {
-      "height": 64,
-      "url": "https://i.scdn.co/image/ab67616d0000485157f4c4bdcf44bd539c642b8e",
-      "width": 64
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b2153a3ade45920d84573c31",
+      "width": 160
     }
   ],
-  "popularity": 0,
+  "popularity": 1,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/1baZzSv324G9iCMQRJs2k3"
   }
