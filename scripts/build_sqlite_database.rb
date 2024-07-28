@@ -24,8 +24,6 @@ def main
     CREATE TABLE IF NOT EXISTS artist_snapshots (
       id TEXT,
       timestamp NUMERIC,
-      name TEXT,
-      genres TEXT,
       followers NUMERIC,
       popularity NUMERIC,
       UNIQUE (id, timestamp)
@@ -113,10 +111,9 @@ end
 def generate_insert_artist_snapshot_command(commit, file)
   timestamp = commit.date.to_i
   snapshot = JSON.parse(File.read(file.path))
-  genres = snapshot['genres'].join(',')
   followers = snapshot['followers']['total']
-  row = [snapshot['id'], timestamp, snapshot['name'], genres, snapshot['popularity'], followers]
-  ['INSERT INTO artist_snapshots (id, timestamp, name, genres, popularity, followers) VALUES (?, ?, ?, ?, ?, ?);', row]
+  row = [snapshot['id'], timestamp, snapshot['popularity'], followers]
+  ['INSERT INTO artist_snapshots (id, timestamp, popularity, followers) VALUES (?, ?, ?, ?);', row]
 end
 
 def insert_git_history(db, commit)
