@@ -6,14 +6,14 @@ require 'json'
 require 'date'
 
 def main
-  repo = Git.open('.')
+  git = Git.open('.')
 
   artist_id = ARGV.first
   input_path = "output/#{artist_id}.json"
   output_path = "output/history_#{artist_id}.json"
 
-  history = repo.log(1000).path(input_path).map do |item|
-    historical_object = JSON.parse(repo.show(item.sha, input_path))
+  history = git.log(1000).path(input_path).map do |item|
+    historical_object = JSON.parse(git.show(item.sha, input_path))
 
     timestamp = time_to_date(item.date)
     historical_object[:timestamp] = timestamp.iso8601
