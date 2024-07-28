@@ -136,11 +136,11 @@ def parse_options
       options[:verbose] = verbose.nil? ? true : verbose
     end
 
-    opts.on('-s <number>', '--skip <number>', Integer, 'Number of commits to skip') do |skip|
+    opts.on('-s [number]', '--skip [number]', Integer, 'Number of commits to skip') do |skip|
       options[:skip] = skip
     end
 
-    opts.on('-t <number>', '--take <number>', Integer, 'Number of commits to take') do |take|
+    opts.on('-t [number]', '--take [number]', Integer, 'Number of commits to take') do |take|
       options[:take] = take
     end
   end.parse!
