@@ -67,6 +67,7 @@ def main
       log("Generating snapshots for #{modified_files.length} files modified in commit #{commit.sha}")
     end
 
+    git.checkout(commit)
     modified_files.each do |file|
       insertion_command = generate_insert_artist_snapshot_command(commit, file)
       insertions.push(insertion_command)
