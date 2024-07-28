@@ -1,4 +1,4 @@
-name: Sync
+name: Build SQLite Database
 
 on:
   workflow_dispatch:
