@@ -8,7 +8,7 @@ require 'date'
 require 'json'
 require 'optparse'
 
-DEAULT_LOG_SIZE = 5000
+DEFAULT_LOG_SIZE = 5000
 $verbose = false
 
 def main
@@ -31,11 +31,20 @@ def main
   SQL
 
   db.execute <<-SQL
+    CREATE TABLE IF NOT EXISTS artists (
+      id TEXT PRIMARY KEY,
+      name TEXT
+    );
+  SQL
+
+  db.execute <<-SQL
     CREATE TABLE IF NOT EXISTS git_history (
       sha TEXT PRIMARY KEY,
       timestamp NUMERIC
     );
   SQL
+
+  save_artist_entries(db)
 
   stored_commits = db.execute('SELECT sha FROM git_history ORDER BY timestamp DESC;')
 
@@ -116,6 +125,15 @@ def generate_insert_artist_snapshot_command(commit, file)
   ['INSERT INTO artist_snapshots (id, timestamp, popularity, followers) VALUES (?, ?, ?, ?);', row]
 end
 
+def generate_insert_artist_command(file_path)
+  snapshot = JSON.parse(File.read(file_path))
+  row = [snapshot['id'], snapshot['name']]
+  [
+    'INSERT OR IGNORE INTO artists (id, name) VALUES (?, ?);', row
+  ]
+end
+
+
 def insert_git_history(db, commit)
   log("Inserting #{commit.sha} (#{commit.date}) into git_history table")
   db.execute('INSERT INTO git_history (sha, timestamp) VALUES (?, ?);', [commit.sha, commit.date.to_time.to_i])
@@ -146,13 +164,30 @@ def parse_options
 end
 
 def commits_to_process(git, options)
-  return git.log(DEAULT_LOG_SIZE).path('output').skip(options[:skip]).take(options[:take]) if options[:skip] && options[:take]
+  if options[:skip] && options[:take]
+    return git.log(DEFAULT_LOG_SIZE).path('output').skip(options[:skip]).take(options[:take])
+  end
 
-  return git.log(DEAULT_LOG_SIZE).path('output').skip(options[:skip]) if options[:skip]
+  return git.log(DEFAULT_LOG_SIZE).path('output').skip(options[:skip]) if options[:skip]
 
-  return git.log(DEAULT_LOG_SIZE).path('output').take(options[:take]) if options[:take]
+  return git.log(DEFAULT_LOG_SIZE).path('output').take(options[:take]) if options[:take]
 
-  git.log(DEAULT_LOG_SIZE).path('output')
+  git.log(DEFAULT_LOG_SIZE).path('output')
+end
+
+def artist_file_paths
+  Dir.entries('output').select { |f| File.file?(File.join('output', f)) && f.end_with?('.json') }.map { |f| File.join('output', f) }
+end
+
+def save_artist_entries(db)
+  insertions = []
+  artist_file_paths.each do |file_path|
+    insertion_command = generate_insert_artist_command(file_path)
+    insertions.push(insertion_command)
+    insertions.clear if flush_insertion_commands_if_needed(db, insertions)
+  end
+
+  flush_insertion_commands(db, insertions)
 end
 
 main
