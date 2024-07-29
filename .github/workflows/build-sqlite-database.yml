@@ -49,4 +49,4 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{secrets.AWS_SECRET_ACCESS_KEY}}
           AWS_DEFAULT_REGION: 'us-east-2'
         run: |
-          aws s3 cp output/_spotify-data.db s3://arthistory-spotify-data/_spotify-data-$(node -e "console.log(new Date().valueOf())")).db
+          aws s3 cp output/_spotify-data.db s3://arthistory-spotify-data/_spotify-data-$(node -e "console.log(new Date().valueOf())").db
