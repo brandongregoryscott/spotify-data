@@ -22,11 +22,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Configure git user
-        run: |
-          git config user.name "Github Actions"
-          git config user.email "actions@users.noreply.github.com"
-
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -36,16 +31,22 @@ jobs:
       - name: Install gems
         run: bundle install
 
-      - name: Checkout sqlite branch
-        run: |
-          git checkout sqlite
-          git merge main
+#      - name: Pull latest database
+#        env:
+#          AWS_ACCESS_KEY_ID: ${{secrets.AWS_ACCESS_KEY_ID}}
+#          AWS_SECRET_ACCESS_KEY: ${{secrets.AWS_SECRET_ACCESS_KEY}}
+#          AWS_DEFAULT_REGION: 'us-east-2'
+#        run: |
+#          LATEST_DB_FILENAME=$(aws s3 ls s3://arthistory-spotify-data | sort | tail -n 1 | awk '{print $4}')
+#          aws s3 cp s3://arthistory-spotify-data/$LATEST_DB_FILENAME output/_spotify-data.db
 
       - name: Build sqlite database
         run: ruby scripts/build_sqlite_database.rb --take ${{github.event.inputs.take}} --skip ${{github.event.inputs.skip}} --verbose ${{github.event.inputs.verbose}}
 
-      - name: Commit and push
+      - name: Push to S3
+        env:
+          AWS_ACCESS_KEY_ID: ${{secrets.AWS_ACCESS_KEY_ID}}
+          AWS_SECRET_ACCESS_KEY: ${{secrets.AWS_SECRET_ACCESS_KEY}}
+          AWS_DEFAULT_REGION: 'us-east-2'
         run: |
-          git add output
-          git commit -m 'Updated sqlite database'
-          git push origin sqlite
+          aws s3 cp output/_spotify-data.db s3://arthistory-spotify-data/_spotify-data-$(node -e "console.log(new Date().valueOf())")).db
