@@ -4,25 +4,26 @@
   "uri": "spotify:artist:4mcHKwboFDmpDBQ4fiOrf3",
   "followers": {
     "href": null,
-    "total": 29275
+    "total": 29303
   },
   "genres": [
-    "experimental club"
+    "experimental club",
+    "grimewave"
   ],
   "images": [
     {
       "height": 640,
-      "url": "https://i.scdn.co/image/ab6761610000e5ebd165b392a01dde44b78d8c49",
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd46d87e681236f1c74439260",
       "width": 640
     },
     {
       "height": 320,
-      "url": "https://i.scdn.co/image/ab67616100005174d165b392a01dde44b78d8c49",
+      "url": "https://i.scdn.co/image/ab67616100005174d46d87e681236f1c74439260",
       "width": 320
     },
     {
       "height": 160,
-      "url": "https://i.scdn.co/image/ab6761610000f178d165b392a01dde44b78d8c49",
+      "url": "https://i.scdn.co/image/ab6761610000f178d46d87e681236f1c74439260",
       "width": 160
     }
   ],
