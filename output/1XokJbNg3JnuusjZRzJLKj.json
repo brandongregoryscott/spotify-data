@@ -4,7 +4,7 @@
   "uri": "spotify:artist:1XokJbNg3JnuusjZRzJLKj",
   "followers": {
     "href": null,
-    "total": 2
+    "total": 3
   },
   "genres": [
 
@@ -12,21 +12,21 @@
   "images": [
     {
       "height": 640,
-      "url": "https://i.scdn.co/image/ab6761610000e5ebe9a42e33c541d150611216df",
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfe14bce0438e4ce64e4b19f2",
       "width": 640
     },
     {
       "height": 320,
-      "url": "https://i.scdn.co/image/ab67616100005174e9a42e33c541d150611216df",
+      "url": "https://i.scdn.co/image/ab67616100005174fe14bce0438e4ce64e4b19f2",
       "width": 320
     },
     {
       "height": 160,
-      "url": "https://i.scdn.co/image/ab6761610000f178e9a42e33c541d150611216df",
+      "url": "https://i.scdn.co/image/ab6761610000f178fe14bce0438e4ce64e4b19f2",
       "width": 160
     }
   ],
-  "popularity": 0,
+  "popularity": 1,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/1XokJbNg3JnuusjZRzJLKj"
   }
