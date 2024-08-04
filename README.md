@@ -36,6 +36,7 @@ The git history for all artists can be iterated to build a SQLite database for e
 To build the SQLite database, run the `build_sqlite_database.rb` script. You can optionally provide `skip` and `take` command-line arguments to generate a smaller subset of data for testing.
 
 ```sh
+# Generates a database for the entire git history
 ruby scripts/build_sqlite_database.rb
 
 # Only generate snapshots for the last 20 commits
