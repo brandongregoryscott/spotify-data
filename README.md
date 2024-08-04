@@ -29,6 +29,22 @@ To expand an artist's history, run the `expand_artist_history.rb` script with th
 ruby scripts/expand_artist_history.rb 6lcwlkAjBPSKnFBZjjZFJs
 ```
 
+## Building a SQLite database
+
+The git history for all artists can be iterated to build a SQLite database for embedding into your application, or using for local development with the [arthistory](https://github.com/brandongregoryscott/arthistory) app.
+
+To build the SQLite database, run the `build_sqlite_database.rb` script. You can optionally provide `skip` and `take` command-line arguments to generate a smaller subset of data for testing.
+
+```sh
+ruby scripts/build_sqlite_database.rb
+
+# Only generate snapshots for the last 20 commits
+ruby scripts/build_sqlite_database.rb --take 20
+
+# Run with logging output
+ruby scripts/build_sqlite_database.rb --verbose
+```
+
 ### Reference
 
 This repository was inspired by a project for tracking Spotify changes that I didn't end up finishing. A few years later, [_Git scraping: track changes over time by scraping to a Git repository_](https://simonwillison.net/2020/Oct/9/git-scraping/) by Simon Willison showed up on HackerNews and inspired me to implement the core of my idea.
