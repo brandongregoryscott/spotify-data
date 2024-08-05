@@ -1,0 +1,33 @@
+{
+  "id": "4lgoUoPxqxjZMtN0raCBVK",
+  "name": "YongYong",
+  "uri": "spotify:artist:4lgoUoPxqxjZMtN0raCBVK",
+  "followers": {
+    "href": null,
+    "total": 18280
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb80e0f64ca4123cbd6ce94f5b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517480e0f64ca4123cbd6ce94f5b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17880e0f64ca4123cbd6ce94f5b",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK"
+  }
+}

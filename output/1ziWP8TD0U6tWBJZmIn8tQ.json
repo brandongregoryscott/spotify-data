@@ -1,0 +1,33 @@
+{
+  "id": "1ziWP8TD0U6tWBJZmIn8tQ",
+  "name": "Daniela Legarda",
+  "uri": "spotify:artist:1ziWP8TD0U6tWBJZmIn8tQ",
+  "followers": {
+    "href": null,
+    "total": 51487
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb94b96bec29d7ea76ff81fb9d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517494b96bec29d7ea76ff81fb9d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17894b96bec29d7ea76ff81fb9d",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ziWP8TD0U6tWBJZmIn8tQ"
+  }
+}

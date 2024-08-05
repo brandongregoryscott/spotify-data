@@ -1,0 +1,33 @@
+{
+  "id": "3TAhTFekxaLAdEtfH7vXsZ",
+  "name": "Andrea Santalusía",
+  "uri": "spotify:artist:3TAhTFekxaLAdEtfH7vXsZ",
+  "followers": {
+    "href": null,
+    "total": 765
+  },
+  "genres": [
+    "flamenco electronica"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd71f89a7dd180e596f980af1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d71f89a7dd180e596f980af1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d71f89a7dd180e596f980af1",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3TAhTFekxaLAdEtfH7vXsZ"
+  }
+}

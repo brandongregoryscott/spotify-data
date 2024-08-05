@@ -1,0 +1,33 @@
+{
+  "id": "7BAMK92kltCeiRfE0BYSB3",
+  "name": "Eman",
+  "uri": "spotify:artist:7BAMK92kltCeiRfE0BYSB3",
+  "followers": {
+    "href": null,
+    "total": 171
+  },
+  "genres": [
+    "electro jazz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f34e8d5df0aa118c66c59c32",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f34e8d5df0aa118c66c59c32",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f34e8d5df0aa118c66c59c32",
+      "width": 64
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7BAMK92kltCeiRfE0BYSB3"
+  }
+}

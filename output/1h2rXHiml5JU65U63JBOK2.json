@@ -1,0 +1,33 @@
+{
+  "id": "1h2rXHiml5JU65U63JBOK2",
+  "name": "maryy",
+  "uri": "spotify:artist:1h2rXHiml5JU65U63JBOK2",
+  "followers": {
+    "href": null,
+    "total": 30
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27303583c272d8b48bd4352f977",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0203583c272d8b48bd4352f977",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485103583c272d8b48bd4352f977",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1h2rXHiml5JU65U63JBOK2"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7Kya3Rb2EUxioJuSn15pC6",
+  "name": "Lydìa",
+  "uri": "spotify:artist:7Kya3Rb2EUxioJuSn15pC6",
+  "followers": {
+    "href": null,
+    "total": 239
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebffed2df774abf0225e2f86d1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ffed2df774abf0225e2f86d1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ffed2df774abf0225e2f86d1",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7Kya3Rb2EUxioJuSn15pC6"
+  }
+}

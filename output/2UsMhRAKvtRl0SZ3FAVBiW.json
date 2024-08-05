@@ -1,0 +1,33 @@
+{
+  "id": "2UsMhRAKvtRl0SZ3FAVBiW",
+  "name": "Wave General",
+  "uri": "spotify:artist:2UsMhRAKvtRl0SZ3FAVBiW",
+  "followers": {
+    "href": null,
+    "total": 177
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb078a486bee4612e63bcdca2f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174078a486bee4612e63bcdca2f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178078a486bee4612e63bcdca2f",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2UsMhRAKvtRl0SZ3FAVBiW"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2CYVlOC4GmL0vpjXoKESpJ",
+  "name": "Eric Bolander",
+  "uri": "spotify:artist:2CYVlOC4GmL0vpjXoKESpJ",
+  "followers": {
+    "href": null,
+    "total": 2294
+  },
+  "genres": [
+    "kentucky roots",
+    "roots americana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd714728d81b4bc735ae48ee9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d714728d81b4bc735ae48ee9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d714728d81b4bc735ae48ee9",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2CYVlOC4GmL0vpjXoKESpJ"
+  }
+}

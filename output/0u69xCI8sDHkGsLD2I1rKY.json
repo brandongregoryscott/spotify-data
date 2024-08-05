@@ -1,0 +1,33 @@
+{
+  "id": "0u69xCI8sDHkGsLD2I1rKY",
+  "name": "PACE",
+  "uri": "spotify:artist:0u69xCI8sDHkGsLD2I1rKY",
+  "followers": {
+    "href": null,
+    "total": 105
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf573c9f1481b5a14768973bb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f573c9f1481b5a14768973bb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f573c9f1481b5a14768973bb",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0u69xCI8sDHkGsLD2I1rKY"
+  }
+}

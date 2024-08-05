@@ -1,0 +1,33 @@
+{
+  "id": "1XErHyc10VN8bfGKma1Yyc",
+  "name": "Leo Ieiri",
+  "uri": "spotify:artist:1XErHyc10VN8bfGKma1Yyc",
+  "followers": {
+    "href": null,
+    "total": 592632
+  },
+  "genres": [
+    "j-pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd153e086b4040f6f00c35cde",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d153e086b4040f6f00c35cde",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d153e086b4040f6f00c35cde",
+      "width": 160
+    }
+  ],
+  "popularity": 50,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc"
+  }
+}

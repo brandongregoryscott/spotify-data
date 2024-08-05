@@ -1,0 +1,33 @@
+{
+  "id": "5T0e5poGvNw2PmFOiMfwCO",
+  "name": "Beauts",
+  "uri": "spotify:artist:5T0e5poGvNw2PmFOiMfwCO",
+  "followers": {
+    "href": null,
+    "total": 695
+  },
+  "genres": [
+    "halifax indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb982f2003d858c4e2250bb107",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174982f2003d858c4e2250bb107",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178982f2003d858c4e2250bb107",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5T0e5poGvNw2PmFOiMfwCO"
+  }
+}

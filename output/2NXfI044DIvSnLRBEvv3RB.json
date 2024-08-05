@@ -1,0 +1,33 @@
+{
+  "id": "2NXfI044DIvSnLRBEvv3RB",
+  "name": "El Sur",
+  "uri": "spotify:artist:2NXfI044DIvSnLRBEvv3RB",
+  "followers": {
+    "href": null,
+    "total": 659
+  },
+  "genres": [
+    "argentine indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb56664c9012779f47a3a0e773",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517456664c9012779f47a3a0e773",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17856664c9012779f47a3a0e773",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2NXfI044DIvSnLRBEvv3RB"
+  }
+}

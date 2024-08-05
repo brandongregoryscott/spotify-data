@@ -1,0 +1,33 @@
+{
+  "id": "2dGNFyTG0iAVjoas6LpzhW",
+  "name": "Second Line",
+  "uri": "spotify:artist:2dGNFyTG0iAVjoas6LpzhW",
+  "followers": {
+    "href": null,
+    "total": 392
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb74eff939f03f436647be7bcf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517474eff939f03f436647be7bcf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17874eff939f03f436647be7bcf",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2dGNFyTG0iAVjoas6LpzhW"
+  }
+}

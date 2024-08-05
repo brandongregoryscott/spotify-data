@@ -1,0 +1,33 @@
+{
+  "id": "1yE4kWTi4zmIrWbGMQwL1v",
+  "name": "yourneck",
+  "uri": "spotify:artist:1yE4kWTi4zmIrWbGMQwL1v",
+  "followers": {
+    "href": null,
+    "total": 72
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273846b59f24aace579edba8505",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02846b59f24aace579edba8505",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851846b59f24aace579edba8505",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1yE4kWTi4zmIrWbGMQwL1v"
+  }
+}

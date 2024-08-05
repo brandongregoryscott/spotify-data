@@ -1,0 +1,33 @@
+{
+  "id": "6yOKjqw19uNH8btga5Xe9E",
+  "name": "Almetal",
+  "uri": "spotify:artist:6yOKjqw19uNH8btga5Xe9E",
+  "followers": {
+    "href": null,
+    "total": 206
+  },
+  "genres": [
+    "metal ecuatoriano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f832837519f56684cdb4f392",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f832837519f56684cdb4f392",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f832837519f56684cdb4f392",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6yOKjqw19uNH8btga5Xe9E"
+  }
+}

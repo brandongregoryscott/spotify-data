@@ -1,0 +1,33 @@
+{
+  "id": "44jDvu0NyeTxRxJIfCh7k2",
+  "name": "Us4",
+  "uri": "spotify:artist:44jDvu0NyeTxRxJIfCh7k2",
+  "followers": {
+    "href": null,
+    "total": 99
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb63a92c84ffae2ef83d76ba70",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517463a92c84ffae2ef83d76ba70",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17863a92c84ffae2ef83d76ba70",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/44jDvu0NyeTxRxJIfCh7k2"
+  }
+}

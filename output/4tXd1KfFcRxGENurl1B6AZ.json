@@ -1,0 +1,34 @@
+{
+  "id": "4tXd1KfFcRxGENurl1B6AZ",
+  "name": "Merauder",
+  "uri": "spotify:artist:4tXd1KfFcRxGENurl1B6AZ",
+  "followers": {
+    "href": null,
+    "total": 31690
+  },
+  "genres": [
+    "hardcore",
+    "nyhc"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732d0c331187a1fb2bd37c7102",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022d0c331187a1fb2bd37c7102",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512d0c331187a1fb2bd37c7102",
+      "width": 64
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4tXd1KfFcRxGENurl1B6AZ"
+  }
+}

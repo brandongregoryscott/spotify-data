@@ -1,0 +1,33 @@
+{
+  "id": "4TvxvS1Xbp7UVDVMitehSa",
+  "name": "BlooGoober",
+  "uri": "spotify:artist:4TvxvS1Xbp7UVDVMitehSa",
+  "followers": {
+    "href": null,
+    "total": 45
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd6afd30eb59254efe7fe7cb9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d6afd30eb59254efe7fe7cb9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d6afd30eb59254efe7fe7cb9",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4TvxvS1Xbp7UVDVMitehSa"
+  }
+}

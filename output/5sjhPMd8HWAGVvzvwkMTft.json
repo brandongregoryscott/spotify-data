@@ -1,0 +1,34 @@
+{
+  "id": "5sjhPMd8HWAGVvzvwkMTft",
+  "name": "Lovi",
+  "uri": "spotify:artist:5sjhPMd8HWAGVvzvwkMTft",
+  "followers": {
+    "href": null,
+    "total": 199
+  },
+  "genres": [
+    "fantasy synth",
+    "forest synth"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfc83e3f8d26197c9ef1d8a6e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fc83e3f8d26197c9ef1d8a6e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fc83e3f8d26197c9ef1d8a6e",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5sjhPMd8HWAGVvzvwkMTft"
+  }
+}

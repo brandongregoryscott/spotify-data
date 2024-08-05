@@ -1,0 +1,33 @@
+{
+  "id": "1g3Hry8ZApwaeykuMcYpXB",
+  "name": "Möwer",
+  "uri": "spotify:artist:1g3Hry8ZApwaeykuMcYpXB",
+  "followers": {
+    "href": null,
+    "total": 235
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaeb43163008c23927b536903",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aeb43163008c23927b536903",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aeb43163008c23927b536903",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1g3Hry8ZApwaeykuMcYpXB"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2V0omJdaJxIUSwnamXGccg",
+  "name": "Last Light",
+  "uri": "spotify:artist:2V0omJdaJxIUSwnamXGccg",
+  "followers": {
+    "href": null,
+    "total": 44
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf7bcaa04755cf1c2639dda0a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f7bcaa04755cf1c2639dda0a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f7bcaa04755cf1c2639dda0a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2V0omJdaJxIUSwnamXGccg"
+  }
+}

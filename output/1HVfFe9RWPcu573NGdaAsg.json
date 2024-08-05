@@ -1,0 +1,33 @@
+{
+  "id": "1HVfFe9RWPcu573NGdaAsg",
+  "name": "Axkan",
+  "uri": "spotify:artist:1HVfFe9RWPcu573NGdaAsg",
+  "followers": {
+    "href": null,
+    "total": 495
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb05b6e6ed5ed0d5f026fe1dba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517405b6e6ed5ed0d5f026fe1dba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17805b6e6ed5ed0d5f026fe1dba",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1HVfFe9RWPcu573NGdaAsg"
+  }
+}

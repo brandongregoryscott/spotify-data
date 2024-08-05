@@ -1,0 +1,33 @@
+{
+  "id": "5VgQ8fqAe1K3C7UQNAHCKt",
+  "name": "Ohly",
+  "uri": "spotify:artist:5VgQ8fqAe1K3C7UQNAHCKt",
+  "followers": {
+    "href": null,
+    "total": 1514
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebec16841950331badba1d95ab",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ec16841950331badba1d95ab",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ec16841950331badba1d95ab",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5VgQ8fqAe1K3C7UQNAHCKt"
+  }
+}

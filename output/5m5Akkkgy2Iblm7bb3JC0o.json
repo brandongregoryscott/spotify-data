@@ -1,0 +1,33 @@
+{
+  "id": "5m5Akkkgy2Iblm7bb3JC0o",
+  "name": "Blaq Santa",
+  "uri": "spotify:artist:5m5Akkkgy2Iblm7bb3JC0o",
+  "followers": {
+    "href": null,
+    "total": 1389
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f4cccbb2aa3c80a7cb835669",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f4cccbb2aa3c80a7cb835669",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f4cccbb2aa3c80a7cb835669",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5m5Akkkgy2Iblm7bb3JC0o"
+  }
+}

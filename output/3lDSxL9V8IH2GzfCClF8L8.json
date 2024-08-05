@@ -1,0 +1,33 @@
+{
+  "id": "3lDSxL9V8IH2GzfCClF8L8",
+  "name": "Dusknote",
+  "uri": "spotify:artist:3lDSxL9V8IH2GzfCClF8L8",
+  "followers": {
+    "href": null,
+    "total": 316
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb64a94087246d748014494c7f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517464a94087246d748014494c7f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17864a94087246d748014494c7f",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3lDSxL9V8IH2GzfCClF8L8"
+  }
+}

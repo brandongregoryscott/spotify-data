@@ -1,0 +1,33 @@
+{
+  "id": "0QOMRhN9BGfKI0O4cF3ng3",
+  "name": "NXCO",
+  "uri": "spotify:artist:0QOMRhN9BGfKI0O4cF3ng3",
+  "followers": {
+    "href": null,
+    "total": 12
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273696188b0a2fc20b72ed5fe9c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02696188b0a2fc20b72ed5fe9c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851696188b0a2fc20b72ed5fe9c",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0QOMRhN9BGfKI0O4cF3ng3"
+  }
+}

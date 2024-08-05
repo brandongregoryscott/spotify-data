@@ -1,0 +1,35 @@
+{
+  "id": "0u24i6ZS1dxwPzDPuM0qqT",
+  "name": "WIL",
+  "uri": "spotify:artist:0u24i6ZS1dxwPzDPuM0qqT",
+  "followers": {
+    "href": null,
+    "total": 3474
+  },
+  "genres": [
+    "finnish dance pop",
+    "finnish hip hop",
+    "finnish pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb70efd445427cab2f4ac9bf6d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517470efd445427cab2f4ac9bf6d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17870efd445427cab2f4ac9bf6d",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0u24i6ZS1dxwPzDPuM0qqT"
+  }
+}

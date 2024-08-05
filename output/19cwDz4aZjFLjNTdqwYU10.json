@@ -1,0 +1,33 @@
+{
+  "id": "19cwDz4aZjFLjNTdqwYU10",
+  "name": "Spliffjit",
+  "uri": "spotify:artist:19cwDz4aZjFLjNTdqwYU10",
+  "followers": {
+    "href": null,
+    "total": 5999
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273355dd9d2e76752187c8cb3ac",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02355dd9d2e76752187c8cb3ac",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851355dd9d2e76752187c8cb3ac",
+      "width": 64
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/19cwDz4aZjFLjNTdqwYU10"
+  }
+}

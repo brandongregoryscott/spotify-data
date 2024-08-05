@@ -1,0 +1,33 @@
+{
+  "id": "52G6EB7xvVYA8IzF1T335g",
+  "name": "Micky James",
+  "uri": "spotify:artist:52G6EB7xvVYA8IzF1T335g",
+  "followers": {
+    "href": null,
+    "total": 5536
+  },
+  "genres": [
+    "nyc indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb497d6c83540e719f10e5948",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b497d6c83540e719f10e5948",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b497d6c83540e719f10e5948",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/52G6EB7xvVYA8IzF1T335g"
+  }
+}

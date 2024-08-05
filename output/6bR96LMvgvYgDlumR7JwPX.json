@@ -1,0 +1,33 @@
+{
+  "id": "6bR96LMvgvYgDlumR7JwPX",
+  "name": "Yana",
+  "uri": "spotify:artist:6bR96LMvgvYgDlumR7JwPX",
+  "followers": {
+    "href": null,
+    "total": 8047
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb60b5f88d6e7f960ded5bd9ab",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517460b5f88d6e7f960ded5bd9ab",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17860b5f88d6e7f960ded5bd9ab",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
+  }
+}

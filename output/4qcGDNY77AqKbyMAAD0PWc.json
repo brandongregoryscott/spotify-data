@@ -1,0 +1,33 @@
+{
+  "id": "4qcGDNY77AqKbyMAAD0PWc",
+  "name": "DOA",
+  "uri": "spotify:artist:4qcGDNY77AqKbyMAAD0PWc",
+  "followers": {
+    "href": null,
+    "total": 220
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731179c33def5d9cd8f10d28cb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021179c33def5d9cd8f10d28cb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511179c33def5d9cd8f10d28cb",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4qcGDNY77AqKbyMAAD0PWc"
+  }
+}

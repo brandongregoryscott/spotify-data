@@ -1,0 +1,33 @@
+{
+  "id": "48Z7WUZq47MLHFd6zyBTdm",
+  "name": "1Trap",
+  "uri": "spotify:artist:48Z7WUZq47MLHFd6zyBTdm",
+  "followers": {
+    "href": null,
+    "total": 3204
+  },
+  "genres": [
+    "baton rouge rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4fb829eb10ffae6f84f32525",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744fb829eb10ffae6f84f32525",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784fb829eb10ffae6f84f32525",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/48Z7WUZq47MLHFd6zyBTdm"
+  }
+}

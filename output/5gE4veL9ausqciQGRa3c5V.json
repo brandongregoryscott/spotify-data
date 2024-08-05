@@ -1,0 +1,33 @@
+{
+  "id": "5gE4veL9ausqciQGRa3c5V",
+  "name": "Antreas",
+  "uri": "spotify:artist:5gE4veL9ausqciQGRa3c5V",
+  "followers": {
+    "href": null,
+    "total": 63
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb24ff5bdbfd0ab79809064f03",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517424ff5bdbfd0ab79809064f03",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17824ff5bdbfd0ab79809064f03",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5gE4veL9ausqciQGRa3c5V"
+  }
+}

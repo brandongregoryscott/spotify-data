@@ -1,0 +1,33 @@
+{
+  "id": "6DZwJIzF0uql7IFJ4CeEX4",
+  "name": "Su Su Su",
+  "uri": "spotify:artist:6DZwJIzF0uql7IFJ4CeEX4",
+  "followers": {
+    "href": null,
+    "total": 331
+  },
+  "genres": [
+    "chinese electronic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731f783e3925c583cb625bd921",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021f783e3925c583cb625bd921",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511f783e3925c583cb625bd921",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6DZwJIzF0uql7IFJ4CeEX4"
+  }
+}

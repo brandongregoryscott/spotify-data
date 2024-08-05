@@ -1,0 +1,35 @@
+{
+  "id": "4AT7XlLBevgZIiKvZQ83ye",
+  "name": "Trivecta",
+  "uri": "spotify:artist:4AT7XlLBevgZIiKvZQ83ye",
+  "followers": {
+    "href": null,
+    "total": 73599
+  },
+  "genres": [
+    "dubstep",
+    "melodic dubstep",
+    "pop edm"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb229845a1fe3c549046cfc0bc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174229845a1fe3c549046cfc0bc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178229845a1fe3c549046cfc0bc",
+      "width": 160
+    }
+  ],
+  "popularity": 49,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+  }
+}

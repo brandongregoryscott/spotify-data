@@ -1,0 +1,34 @@
+{
+  "id": "0LDFteo60bsWrBUrVGEoBO",
+  "name": "Eduardo Neves",
+  "uri": "spotify:artist:0LDFteo60bsWrBUrVGEoBO",
+  "followers": {
+    "href": null,
+    "total": 995
+  },
+  "genres": [
+    "choro",
+    "choro contemporaneo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e070d9f8f9e1124571fcba4f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e070d9f8f9e1124571fcba4f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e070d9f8f9e1124571fcba4f",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0LDFteo60bsWrBUrVGEoBO"
+  }
+}

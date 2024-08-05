@@ -1,0 +1,34 @@
+{
+  "id": "5GCo3Uypu0c9iwpfbMvpEb",
+  "name": "The Slippers",
+  "uri": "spotify:artist:5GCo3Uypu0c9iwpfbMvpEb",
+  "followers": {
+    "href": null,
+    "total": 717
+  },
+  "genres": [
+    "finnish rockabilly",
+    "neo-rockabilly"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27317f9ed44b14ff732a85d1c26",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0217f9ed44b14ff732a85d1c26",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485117f9ed44b14ff732a85d1c26",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5GCo3Uypu0c9iwpfbMvpEb"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5QIblf1VDPdDYxiI0ZCmnc",
+  "name": "Yvng Meem",
+  "uri": "spotify:artist:5QIblf1VDPdDYxiI0ZCmnc",
+  "followers": {
+    "href": null,
+    "total": 8159
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb09c38bf007def57f004ba506",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517409c38bf007def57f004ba506",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17809c38bf007def57f004ba506",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5QIblf1VDPdDYxiI0ZCmnc"
+  }
+}

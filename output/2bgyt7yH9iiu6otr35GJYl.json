@@ -1,0 +1,33 @@
+{
+  "id": "2bgyt7yH9iiu6otr35GJYl",
+  "name": "Pasítea",
+  "uri": "spotify:artist:2bgyt7yH9iiu6otr35GJYl",
+  "followers": {
+    "href": null,
+    "total": 68
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb181fec81f8ab421131238cb1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174181fec81f8ab421131238cb1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178181fec81f8ab421131238cb1",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2bgyt7yH9iiu6otr35GJYl"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7yKXgiwgIE8JWXFJaAxacm",
+  "name": "Dear Diego",
+  "uri": "spotify:artist:7yKXgiwgIE8JWXFJaAxacm",
+  "followers": {
+    "href": null,
+    "total": 43
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb408212fd2882ca671b0ff67a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174408212fd2882ca671b0ff67a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178408212fd2882ca671b0ff67a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7yKXgiwgIE8JWXFJaAxacm"
+  }
+}

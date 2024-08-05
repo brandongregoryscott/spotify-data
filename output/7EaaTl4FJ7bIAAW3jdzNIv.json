@@ -1,0 +1,33 @@
+{
+  "id": "7EaaTl4FJ7bIAAW3jdzNIv",
+  "name": "5th Boy",
+  "uri": "spotify:artist:7EaaTl4FJ7bIAAW3jdzNIv",
+  "followers": {
+    "href": null,
+    "total": 351
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27377b23b018fbc2f7b9fd3f8db",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0277b23b018fbc2f7b9fd3f8db",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485177b23b018fbc2f7b9fd3f8db",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7EaaTl4FJ7bIAAW3jdzNIv"
+  }
+}

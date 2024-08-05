@@ -1,0 +1,34 @@
+{
+  "id": "3LP4XtcdBxAaO3ZevTTppB",
+  "name": "Johann Vera",
+  "uri": "spotify:artist:3LP4XtcdBxAaO3ZevTTppB",
+  "followers": {
+    "href": null,
+    "total": 113172
+  },
+  "genres": [
+    "ecuadorian pop",
+    "latin viral pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebda140695a8431256a0f3d586",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174da140695a8431256a0f3d586",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178da140695a8431256a0f3d586",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3LP4XtcdBxAaO3ZevTTppB"
+  }
+}

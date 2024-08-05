@@ -1,0 +1,33 @@
+{
+  "id": "1Avnj2dCNPI83Ovw2df3zk",
+  "name": "Fika",
+  "uri": "spotify:artist:1Avnj2dCNPI83Ovw2df3zk",
+  "followers": {
+    "href": null,
+    "total": 146
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc5f16ff50d4bf4c2c133c1ad",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c5f16ff50d4bf4c2c133c1ad",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c5f16ff50d4bf4c2c133c1ad",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Avnj2dCNPI83Ovw2df3zk"
+  }
+}

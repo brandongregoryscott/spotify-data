@@ -1,0 +1,33 @@
+{
+  "id": "1R6woLAfHmlSVqt7cJPznK",
+  "name": "Brigyn",
+  "uri": "spotify:artist:1R6woLAfHmlSVqt7cJPznK",
+  "followers": {
+    "href": null,
+    "total": 742
+  },
+  "genres": [
+    "cymraeg"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb679fd4f1b4598be9e973026e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174679fd4f1b4598be9e973026e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178679fd4f1b4598be9e973026e",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1R6woLAfHmlSVqt7cJPznK"
+  }
+}

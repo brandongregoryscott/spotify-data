@@ -1,0 +1,34 @@
+{
+  "id": "5fEfx2KiJwt7kp2RzpbSvC",
+  "name": "Necrotype",
+  "uri": "spotify:artist:5fEfx2KiJwt7kp2RzpbSvC",
+  "followers": {
+    "href": null,
+    "total": 529
+  },
+  "genres": [
+    "breaks",
+    "modern jungle"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739a78d02f934816df775796bb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029a78d02f934816df775796bb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519a78d02f934816df775796bb",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5fEfx2KiJwt7kp2RzpbSvC"
+  }
+}

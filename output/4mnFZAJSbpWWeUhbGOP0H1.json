@@ -1,0 +1,33 @@
+{
+  "id": "4mnFZAJSbpWWeUhbGOP0H1",
+  "name": "Tye Henney",
+  "uri": "spotify:artist:4mnFZAJSbpWWeUhbGOP0H1",
+  "followers": {
+    "href": null,
+    "total": 1104
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcc612526a2e271b5ef2c8d3a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cc612526a2e271b5ef2c8d3a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cc612526a2e271b5ef2c8d3a",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4mnFZAJSbpWWeUhbGOP0H1"
+  }
+}

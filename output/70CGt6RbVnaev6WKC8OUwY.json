@@ -1,0 +1,33 @@
+{
+  "id": "70CGt6RbVnaev6WKC8OUwY",
+  "name": "NIK3",
+  "uri": "spotify:artist:70CGt6RbVnaev6WKC8OUwY",
+  "followers": {
+    "href": null,
+    "total": 12
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27311be1998f53d15b2296fbb7f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0211be1998f53d15b2296fbb7f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485111be1998f53d15b2296fbb7f",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/70CGt6RbVnaev6WKC8OUwY"
+  }
+}

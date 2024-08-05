@@ -1,0 +1,34 @@
+{
+  "id": "4hrhDZERJGecaY3Y9nnmRW",
+  "name": "Puagh",
+  "uri": "spotify:artist:4hrhDZERJGecaY3Y9nnmRW",
+  "followers": {
+    "href": null,
+    "total": 10454
+  },
+  "genres": [
+    "hardcore punk espanol",
+    "spanish punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebff33b94d4246f762a1863656",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ff33b94d4246f762a1863656",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ff33b94d4246f762a1863656",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4hrhDZERJGecaY3Y9nnmRW"
+  }
+}

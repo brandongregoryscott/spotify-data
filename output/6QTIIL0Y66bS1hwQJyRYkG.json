@@ -1,0 +1,33 @@
+{
+  "id": "6QTIIL0Y66bS1hwQJyRYkG",
+  "name": "Super Punk",
+  "uri": "spotify:artist:6QTIIL0Y66bS1hwQJyRYkG",
+  "followers": {
+    "href": null,
+    "total": 350
+  },
+  "genres": [
+    "quebec punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb29dfea919445718096ea2446",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517429dfea919445718096ea2446",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17829dfea919445718096ea2446",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6QTIIL0Y66bS1hwQJyRYkG"
+  }
+}

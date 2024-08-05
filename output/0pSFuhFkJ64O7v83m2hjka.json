@@ -1,0 +1,33 @@
+{
+  "id": "0pSFuhFkJ64O7v83m2hjka",
+  "name": "KURO",
+  "uri": "spotify:artist:0pSFuhFkJ64O7v83m2hjka",
+  "followers": {
+    "href": null,
+    "total": 633
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba4dd7a73c02adc68c0cf2d0d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a4dd7a73c02adc68c0cf2d0d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a4dd7a73c02adc68c0cf2d0d",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0pSFuhFkJ64O7v83m2hjka"
+  }
+}

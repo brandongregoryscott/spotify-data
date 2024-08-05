@@ -1,0 +1,34 @@
+{
+  "id": "1Y4l4YawNAZndGBSrZxb3N",
+  "name": "54-40",
+  "uri": "spotify:artist:1Y4l4YawNAZndGBSrZxb3N",
+  "followers": {
+    "href": null,
+    "total": 92742
+  },
+  "genres": [
+    "canadian indie",
+    "canadian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd56894c365ed80330cef6d89",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d56894c365ed80330cef6d89",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d56894c365ed80330cef6d89",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Y4l4YawNAZndGBSrZxb3N"
+  }
+}

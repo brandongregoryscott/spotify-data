@@ -1,0 +1,33 @@
+{
+  "id": "5KU91KWgcTLLRxccgT7Aht",
+  "name": "Miles Atmospheric",
+  "uri": "spotify:artist:5KU91KWgcTLLRxccgT7Aht",
+  "followers": {
+    "href": null,
+    "total": 500
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27319eed1605ea46b5e22aca632",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0219eed1605ea46b5e22aca632",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485119eed1605ea46b5e22aca632",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5KU91KWgcTLLRxccgT7Aht"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5Xfs99w0sm9t5pMcJ4OkK8",
+  "name": "Mr. Ivan",
+  "uri": "spotify:artist:5Xfs99w0sm9t5pMcJ4OkK8",
+  "followers": {
+    "href": null,
+    "total": 871
+  },
+  "genres": [
+    "dirty texas rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736dcb910eec4bdb9be2823e39",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026dcb910eec4bdb9be2823e39",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516dcb910eec4bdb9be2823e39",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Xfs99w0sm9t5pMcJ4OkK8"
+  }
+}

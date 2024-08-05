@@ -1,0 +1,33 @@
+{
+  "id": "5PfEtOwjIHGoHJBVTLtjFL",
+  "name": "BackHome",
+  "uri": "spotify:artist:5PfEtOwjIHGoHJBVTLtjFL",
+  "followers": {
+    "href": null,
+    "total": 425
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb75929b71f58b17167593a88",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b75929b71f58b17167593a88",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b75929b71f58b17167593a88",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5PfEtOwjIHGoHJBVTLtjFL"
+  }
+}

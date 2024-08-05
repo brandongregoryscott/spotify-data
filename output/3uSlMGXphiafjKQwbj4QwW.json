@@ -1,0 +1,34 @@
+{
+  "id": "3uSlMGXphiafjKQwbj4QwW",
+  "name": "Tape",
+  "uri": "spotify:artist:3uSlMGXphiafjKQwbj4QwW",
+  "followers": {
+    "href": null,
+    "total": 8132
+  },
+  "genres": [
+    "ambient post-rock",
+    "nordic post-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273307a78c0dac6068cb6a49b76",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02307a78c0dac6068cb6a49b76",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851307a78c0dac6068cb6a49b76",
+      "width": 64
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3uSlMGXphiafjKQwbj4QwW"
+  }
+}

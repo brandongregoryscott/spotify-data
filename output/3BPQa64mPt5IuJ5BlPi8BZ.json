@@ -1,0 +1,33 @@
+{
+  "id": "3BPQa64mPt5IuJ5BlPi8BZ",
+  "name": "Cauterized",
+  "uri": "spotify:artist:3BPQa64mPt5IuJ5BlPi8BZ",
+  "followers": {
+    "href": null,
+    "total": 303
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b4c93c31ccbfdd8dc1d1639c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b4c93c31ccbfdd8dc1d1639c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b4c93c31ccbfdd8dc1d1639c",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3BPQa64mPt5IuJ5BlPi8BZ"
+  }
+}

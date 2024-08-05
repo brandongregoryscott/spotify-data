@@ -1,0 +1,33 @@
+{
+  "id": "5tEtbIVVfrmMHiUhTYetsz",
+  "name": "Senior Citizen",
+  "uri": "spotify:artist:5tEtbIVVfrmMHiUhTYetsz",
+  "followers": {
+    "href": null,
+    "total": 302
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebebb9d911adfcd21d199871eb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ebb9d911adfcd21d199871eb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ebb9d911adfcd21d199871eb",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5tEtbIVVfrmMHiUhTYetsz"
+  }
+}

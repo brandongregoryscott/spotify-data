@@ -1,0 +1,33 @@
+{
+  "id": "3SZaRyvsPw2Wu7nEcUgAgD",
+  "name": "MERF",
+  "uri": "spotify:artist:3SZaRyvsPw2Wu7nEcUgAgD",
+  "followers": {
+    "href": null,
+    "total": 108
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb49ac4e073c106ea9c99c8eb2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517449ac4e073c106ea9c99c8eb2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17849ac4e073c106ea9c99c8eb2",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3SZaRyvsPw2Wu7nEcUgAgD"
+  }
+}

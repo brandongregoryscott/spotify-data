@@ -1,0 +1,33 @@
+{
+  "id": "6NdHwt2sLPmAWR8FNSDfJC",
+  "name": "Benchmarks",
+  "uri": "spotify:artist:6NdHwt2sLPmAWR8FNSDfJC",
+  "followers": {
+    "href": null,
+    "total": 755
+  },
+  "genres": [
+    "southern americana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb15498cb5570da627254be7fc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517415498cb5570da627254be7fc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17815498cb5570da627254be7fc",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6NdHwt2sLPmAWR8FNSDfJC"
+  }
+}

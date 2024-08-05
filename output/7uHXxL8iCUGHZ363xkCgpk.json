@@ -1,0 +1,33 @@
+{
+  "id": "7uHXxL8iCUGHZ363xkCgpk",
+  "name": "Hypothetical",
+  "uri": "spotify:artist:7uHXxL8iCUGHZ363xkCgpk",
+  "followers": {
+    "href": null,
+    "total": 2396
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb87126efafe2fd514481af390",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517487126efafe2fd514481af390",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17887126efafe2fd514481af390",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7uHXxL8iCUGHZ363xkCgpk"
+  }
+}

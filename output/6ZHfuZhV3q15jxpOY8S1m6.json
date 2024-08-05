@@ -1,0 +1,33 @@
+{
+  "id": "6ZHfuZhV3q15jxpOY8S1m6",
+  "name": "Balancing Act",
+  "uri": "spotify:artist:6ZHfuZhV3q15jxpOY8S1m6",
+  "followers": {
+    "href": null,
+    "total": 4352
+  },
+  "genres": [
+    "britpop revival"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb08db895fd3a33f8349872233",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517408db895fd3a33f8349872233",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17808db895fd3a33f8349872233",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6"
+  }
+}

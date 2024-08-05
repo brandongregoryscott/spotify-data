@@ -1,0 +1,33 @@
+{
+  "id": "7spYoollAuF0rLJbBHmiFW",
+  "name": "hiroshi",
+  "uri": "spotify:artist:7spYoollAuF0rLJbBHmiFW",
+  "followers": {
+    "href": null,
+    "total": 192
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaedce36c0523ca4ed246859d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aedce36c0523ca4ed246859d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aedce36c0523ca4ed246859d",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7spYoollAuF0rLJbBHmiFW"
+  }
+}

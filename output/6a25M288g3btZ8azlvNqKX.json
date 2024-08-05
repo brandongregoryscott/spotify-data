@@ -1,0 +1,33 @@
+{
+  "id": "6a25M288g3btZ8azlvNqKX",
+  "name": "BirdyHead",
+  "uri": "spotify:artist:6a25M288g3btZ8azlvNqKX",
+  "followers": {
+    "href": null,
+    "total": 968
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba881ea7a65d89bd9cd2fc37c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a881ea7a65d89bd9cd2fc37c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a881ea7a65d89bd9cd2fc37c",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6a25M288g3btZ8azlvNqKX"
+  }
+}

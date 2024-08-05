@@ -1,0 +1,33 @@
+{
+  "id": "7uGeDBa1LJ7T1X4fpl8mwk",
+  "name": "Bad Computer",
+  "uri": "spotify:artist:7uGeDBa1LJ7T1X4fpl8mwk",
+  "followers": {
+    "href": null,
+    "total": 41943
+  },
+  "genres": [
+    "complextro"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba04d5a598a26a69bce0c6262",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a04d5a598a26a69bce0c6262",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a04d5a598a26a69bce0c6262",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk"
+  }
+}

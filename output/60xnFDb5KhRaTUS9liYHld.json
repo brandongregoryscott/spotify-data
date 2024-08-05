@@ -1,0 +1,33 @@
+{
+  "id": "60xnFDb5KhRaTUS9liYHld",
+  "name": "Sophie Coran",
+  "uri": "spotify:artist:60xnFDb5KhRaTUS9liYHld",
+  "followers": {
+    "href": null,
+    "total": 807
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc0df5b35df187654cb99a06b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c0df5b35df187654cb99a06b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c0df5b35df187654cb99a06b",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/60xnFDb5KhRaTUS9liYHld"
+  }
+}

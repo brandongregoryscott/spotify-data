@@ -1,0 +1,33 @@
+{
+  "id": "3pGqMoEIJ7ZLLEmAbq6XuT",
+  "name": "Bruce White",
+  "uri": "spotify:artist:3pGqMoEIJ7ZLLEmAbq6XuT",
+  "followers": {
+    "href": null,
+    "total": 104
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27362eeae2d8c1e7a871d9df95e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0262eeae2d8c1e7a871d9df95e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485162eeae2d8c1e7a871d9df95e",
+      "width": 64
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3pGqMoEIJ7ZLLEmAbq6XuT"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5eOkeSZX1AY9Ted4BksGc3",
+  "name": "Kentaro Nishida",
+  "uri": "spotify:artist:5eOkeSZX1AY9Ted4BksGc3",
+  "followers": {
+    "href": null,
+    "total": 447
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737fdf89f45564147aeb31fb07",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027fdf89f45564147aeb31fb07",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485112694ce99c81ea65ec6cdc7b",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5eOkeSZX1AY9Ted4BksGc3"
+  }
+}

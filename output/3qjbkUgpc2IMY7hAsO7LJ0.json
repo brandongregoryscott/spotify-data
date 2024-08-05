@@ -1,0 +1,33 @@
+{
+  "id": "3qjbkUgpc2IMY7hAsO7LJ0",
+  "name": "Morgu",
+  "uri": "spotify:artist:3qjbkUgpc2IMY7hAsO7LJ0",
+  "followers": {
+    "href": null,
+    "total": 313
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf278e9ad01872e7b1b2cbaa4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f278e9ad01872e7b1b2cbaa4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f278e9ad01872e7b1b2cbaa4",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3qjbkUgpc2IMY7hAsO7LJ0"
+  }
+}

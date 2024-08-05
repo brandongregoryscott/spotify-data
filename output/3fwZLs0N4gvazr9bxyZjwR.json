@@ -1,0 +1,33 @@
+{
+  "id": "3fwZLs0N4gvazr9bxyZjwR",
+  "name": "Kroki",
+  "uri": "spotify:artist:3fwZLs0N4gvazr9bxyZjwR",
+  "followers": {
+    "href": null,
+    "total": 4127
+  },
+  "genres": [
+    "polish electronica"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf4ba21b37c1ae619811d4467",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f4ba21b37c1ae619811d4467",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f4ba21b37c1ae619811d4467",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3fwZLs0N4gvazr9bxyZjwR"
+  }
+}

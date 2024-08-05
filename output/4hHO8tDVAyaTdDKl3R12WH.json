@@ -1,0 +1,33 @@
+{
+  "id": "4hHO8tDVAyaTdDKl3R12WH",
+  "name": "Cidus",
+  "uri": "spotify:artist:4hHO8tDVAyaTdDKl3R12WH",
+  "followers": {
+    "href": null,
+    "total": 192
+  },
+  "genres": [
+    "lo-fi cover"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb34224836c317a23dd9a29574",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517434224836c317a23dd9a29574",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17834224836c317a23dd9a29574",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4hHO8tDVAyaTdDKl3R12WH"
+  }
+}

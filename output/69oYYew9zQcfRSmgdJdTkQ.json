@@ -1,0 +1,33 @@
+{
+  "id": "69oYYew9zQcfRSmgdJdTkQ",
+  "name": "Резидент",
+  "uri": "spotify:artist:69oYYew9zQcfRSmgdJdTkQ",
+  "followers": {
+    "href": null,
+    "total": 345
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27330eeeadc90c630db852b42b8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0230eeeadc90c630db852b42b8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485130eeeadc90c630db852b42b8",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/69oYYew9zQcfRSmgdJdTkQ"
+  }
+}

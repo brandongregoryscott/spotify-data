@@ -1,0 +1,33 @@
+{
+  "id": "3d5u8kOiMC9fjj1Flu7Evc",
+  "name": "Guest",
+  "uri": "spotify:artist:3d5u8kOiMC9fjj1Flu7Evc",
+  "followers": {
+    "href": null,
+    "total": 153
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb63eb93a1ba609f59995dd0af",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517463eb93a1ba609f59995dd0af",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17863eb93a1ba609f59995dd0af",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3d5u8kOiMC9fjj1Flu7Evc"
+  }
+}

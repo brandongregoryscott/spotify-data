@@ -1,0 +1,33 @@
+{
+  "id": "6PpwJ5fTBQbwa16HfDJaIz",
+  "name": "auby",
+  "uri": "spotify:artist:6PpwJ5fTBQbwa16HfDJaIz",
+  "followers": {
+    "href": null,
+    "total": 41
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1ced446c6526d07d4a81ca0a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051741ced446c6526d07d4a81ca0a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1781ced446c6526d07d4a81ca0a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6PpwJ5fTBQbwa16HfDJaIz"
+  }
+}

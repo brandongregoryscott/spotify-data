@@ -1,0 +1,33 @@
+{
+  "id": "6tlyNmvYttsFm44WqrYEf0",
+  "name": "Orax",
+  "uri": "spotify:artist:6tlyNmvYttsFm44WqrYEf0",
+  "followers": {
+    "href": null,
+    "total": 15175
+  },
+  "genres": [
+    "synthwave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb80977428a2f8a84a9fe95dbc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517480977428a2f8a84a9fe95dbc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17880977428a2f8a84a9fe95dbc",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6tlyNmvYttsFm44WqrYEf0"
+  }
+}

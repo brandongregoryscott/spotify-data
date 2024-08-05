@@ -1,0 +1,33 @@
+{
+  "id": "41ywwlieZydQxHC9ebturD",
+  "name": "Astral",
+  "uri": "spotify:artist:41ywwlieZydQxHC9ebturD",
+  "followers": {
+    "href": null,
+    "total": 364
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273494039aa7ebe1090ff247d88",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02494039aa7ebe1090ff247d88",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851494039aa7ebe1090ff247d88",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/41ywwlieZydQxHC9ebturD"
+  }
+}

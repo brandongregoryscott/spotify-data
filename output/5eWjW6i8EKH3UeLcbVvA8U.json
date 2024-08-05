@@ -1,0 +1,33 @@
+{
+  "id": "5eWjW6i8EKH3UeLcbVvA8U",
+  "name": "sahb",
+  "uri": "spotify:artist:5eWjW6i8EKH3UeLcbVvA8U",
+  "followers": {
+    "href": null,
+    "total": 699
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba159e8e2575af3065e8c7fa3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a159e8e2575af3065e8c7fa3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a159e8e2575af3065e8c7fa3",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5eWjW6i8EKH3UeLcbVvA8U"
+  }
+}

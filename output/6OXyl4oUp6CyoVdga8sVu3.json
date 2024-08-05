@@ -1,0 +1,33 @@
+{
+  "id": "6OXyl4oUp6CyoVdga8sVu3",
+  "name": "Princess Pulpit",
+  "uri": "spotify:artist:6OXyl4oUp6CyoVdga8sVu3",
+  "followers": {
+    "href": null,
+    "total": 640
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc82e1e4cf29b5bd9fec27210",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c82e1e4cf29b5bd9fec27210",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c82e1e4cf29b5bd9fec27210",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6OXyl4oUp6CyoVdga8sVu3"
+  }
+}

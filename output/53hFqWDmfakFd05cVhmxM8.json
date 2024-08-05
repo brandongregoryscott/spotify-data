@@ -1,0 +1,33 @@
+{
+  "id": "53hFqWDmfakFd05cVhmxM8",
+  "name": "Юрій Бондарчук",
+  "uri": "spotify:artist:53hFqWDmfakFd05cVhmxM8",
+  "followers": {
+    "href": null,
+    "total": 1130
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe16939e05ab5d601c39d9ec7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e16939e05ab5d601c39d9ec7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e16939e05ab5d601c39d9ec7",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/53hFqWDmfakFd05cVhmxM8"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "7lTfeboQP7amZ1e95hBJW5",
+  "name": "Wooly Mammoth",
+  "uri": "spotify:artist:7lTfeboQP7amZ1e95hBJW5",
+  "followers": {
+    "href": null,
+    "total": 1631
+  },
+  "genres": [
+    "australian indie rock",
+    "perth indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf5d39a0bf65ea42b941cd159",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f5d39a0bf65ea42b941cd159",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f5d39a0bf65ea42b941cd159",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7lTfeboQP7amZ1e95hBJW5"
+  }
+}

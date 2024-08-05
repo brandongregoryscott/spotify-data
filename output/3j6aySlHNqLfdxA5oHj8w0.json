@@ -1,0 +1,33 @@
+{
+  "id": "3j6aySlHNqLfdxA5oHj8w0",
+  "name": "James McCann",
+  "uri": "spotify:artist:3j6aySlHNqLfdxA5oHj8w0",
+  "followers": {
+    "href": null,
+    "total": 133
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734101802f1b437969e67cb2f6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024101802f1b437969e67cb2f6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514101802f1b437969e67cb2f6",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3j6aySlHNqLfdxA5oHj8w0"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6NL1zxSwq8t8pUbfokZdJB",
+  "name": "Observants",
+  "uri": "spotify:artist:6NL1zxSwq8t8pUbfokZdJB",
+  "followers": {
+    "href": null,
+    "total": 1081
+  },
+  "genres": [
+    "quebec metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb039723eb9f4cc6fc3084cad2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174039723eb9f4cc6fc3084cad2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178039723eb9f4cc6fc3084cad2",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6NL1zxSwq8t8pUbfokZdJB"
+  }
+}

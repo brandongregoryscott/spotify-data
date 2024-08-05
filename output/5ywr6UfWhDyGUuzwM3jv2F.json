@@ -1,0 +1,33 @@
+{
+  "id": "5ywr6UfWhDyGUuzwM3jv2F",
+  "name": "Circadia",
+  "uri": "spotify:artist:5ywr6UfWhDyGUuzwM3jv2F",
+  "followers": {
+    "href": null,
+    "total": 305
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb54b5e10725a8c8a4ec8bdff",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b54b5e10725a8c8a4ec8bdff",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b54b5e10725a8c8a4ec8bdff",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ywr6UfWhDyGUuzwM3jv2F"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1t518WVTxw07zcoRGoEL79",
+  "name": "KI-1",
+  "uri": "spotify:artist:1t518WVTxw07zcoRGoEL79",
+  "followers": {
+    "href": null,
+    "total": 241
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27319668838da3fba46b0425712",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02356f77cf9030b9548f3b5214",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485119668838da3fba46b0425712",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1t518WVTxw07zcoRGoEL79"
+  }
+}

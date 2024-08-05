@@ -1,0 +1,33 @@
+{
+  "id": "6I4SSqem4gFFBY3qNV8VAL",
+  "name": "Attürri",
+  "uri": "spotify:artist:6I4SSqem4gFFBY3qNV8VAL",
+  "followers": {
+    "href": null,
+    "total": 577
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738feb501bdadee3885c26a298",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028feb501bdadee3885c26a298",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518feb501bdadee3885c26a298",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6I4SSqem4gFFBY3qNV8VAL"
+  }
+}

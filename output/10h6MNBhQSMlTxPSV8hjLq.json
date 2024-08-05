@@ -1,0 +1,33 @@
+{
+  "id": "10h6MNBhQSMlTxPSV8hjLq",
+  "name": "Industrias94",
+  "uri": "spotify:artist:10h6MNBhQSMlTxPSV8hjLq",
+  "followers": {
+    "href": null,
+    "total": 1031
+  },
+  "genres": [
+    "flamenco electronica"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcd103cd3a651dee20b03a541",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cd103cd3a651dee20b03a541",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cd103cd3a651dee20b03a541",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/10h6MNBhQSMlTxPSV8hjLq"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4B5ZWohL49TTtqTTzbHDns",
+  "name": "Sean House",
+  "uri": "spotify:artist:4B5ZWohL49TTtqTTzbHDns",
+  "followers": {
+    "href": null,
+    "total": 1544
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273289362734bab3a3eb648906f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02289362734bab3a3eb648906f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517f4767dcb2bdc7dcc341332b",
+      "width": 64
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4B5ZWohL49TTtqTTzbHDns"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5VCS1RZ70wHnmq1o0v4Ten",
+  "name": "Uzzy",
+  "uri": "spotify:artist:5VCS1RZ70wHnmq1o0v4Ten",
+  "followers": {
+    "href": null,
+    "total": 130
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e625bedac61c6323cd4b7f02",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e625bedac61c6323cd4b7f02",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e625bedac61c6323cd4b7f02",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5VCS1RZ70wHnmq1o0v4Ten"
+  }
+}

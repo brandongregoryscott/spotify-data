@@ -1,0 +1,34 @@
+{
+  "id": "2QT4TbcWU1pKEIQKoHLjAt",
+  "name": "The Nilz",
+  "uri": "spotify:artist:2QT4TbcWU1pKEIQKoHLjAt",
+  "followers": {
+    "href": null,
+    "total": 357
+  },
+  "genres": [
+    "irish hardcore",
+    "irish punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb60673547ce7e81c5557d8f5f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517460673547ce7e81c5557d8f5f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17860673547ce7e81c5557d8f5f",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2QT4TbcWU1pKEIQKoHLjAt"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7ee7dtYPnmTZDPdqgeBbhC",
+  "name": "JJ Draper",
+  "uri": "spotify:artist:7ee7dtYPnmTZDPdqgeBbhC",
+  "followers": {
+    "href": null,
+    "total": 1608
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba233b2b5bf0e37c48446e650",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a233b2b5bf0e37c48446e650",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a233b2b5bf0e37c48446e650",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ee7dtYPnmTZDPdqgeBbhC"
+  }
+}

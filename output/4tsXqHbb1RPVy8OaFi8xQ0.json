@@ -1,0 +1,33 @@
+{
+  "id": "4tsXqHbb1RPVy8OaFi8xQ0",
+  "name": "GIMMY",
+  "uri": "spotify:artist:4tsXqHbb1RPVy8OaFi8xQ0",
+  "followers": {
+    "href": null,
+    "total": 979
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba8d1bd6f5e3d41b1eff0e99c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a8d1bd6f5e3d41b1eff0e99c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a8d1bd6f5e3d41b1eff0e99c",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4tsXqHbb1RPVy8OaFi8xQ0"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0xTdZQHVUY4rDofHw9SXht",
+  "name": "Tom VandenAvond",
+  "uri": "spotify:artist:0xTdZQHVUY4rDofHw9SXht",
+  "followers": {
+    "href": null,
+    "total": 1365
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27357abf99cf132ad8f1879c701",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0257abf99cf132ad8f1879c701",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485157abf99cf132ad8f1879c701",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0xTdZQHVUY4rDofHw9SXht"
+  }
+}

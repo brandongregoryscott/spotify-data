@@ -1,0 +1,33 @@
+{
+  "id": "2Hok7CfKXlY067EHGygA5r",
+  "name": "Joanne",
+  "uri": "spotify:artist:2Hok7CfKXlY067EHGygA5r",
+  "followers": {
+    "href": null,
+    "total": 133
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc0a0a7b209c9332a763e748e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c0a0a7b209c9332a763e748e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c0a0a7b209c9332a763e748e",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Hok7CfKXlY067EHGygA5r"
+  }
+}

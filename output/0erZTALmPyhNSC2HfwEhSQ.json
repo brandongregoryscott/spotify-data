@@ -1,0 +1,33 @@
+{
+  "id": "0erZTALmPyhNSC2HfwEhSQ",
+  "name": "City",
+  "uri": "spotify:artist:0erZTALmPyhNSC2HfwEhSQ",
+  "followers": {
+    "href": null,
+    "total": 271
+  },
+  "genres": [
+    "epic collage"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaa30ac6e2315ea1bf8a31d9a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aa30ac6e2315ea1bf8a31d9a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aa30ac6e2315ea1bf8a31d9a",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0erZTALmPyhNSC2HfwEhSQ"
+  }
+}

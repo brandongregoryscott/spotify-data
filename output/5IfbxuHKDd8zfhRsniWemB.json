@@ -1,0 +1,33 @@
+{
+  "id": "5IfbxuHKDd8zfhRsniWemB",
+  "name": "Octavian",
+  "uri": "spotify:artist:5IfbxuHKDd8zfhRsniWemB",
+  "followers": {
+    "href": null,
+    "total": 1373
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1023b5fa45cb58b654f7584f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051741023b5fa45cb58b654f7584f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1781023b5fa45cb58b654f7584f",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5IfbxuHKDd8zfhRsniWemB"
+  }
+}

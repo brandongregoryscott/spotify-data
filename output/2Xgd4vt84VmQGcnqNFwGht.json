@@ -1,0 +1,33 @@
+{
+  "id": "2Xgd4vt84VmQGcnqNFwGht",
+  "name": "Different Records",
+  "uri": "spotify:artist:2Xgd4vt84VmQGcnqNFwGht",
+  "followers": {
+    "href": null,
+    "total": 2658
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b8829ce94272dc90b2759c8f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b8829ce94272dc90b2759c8f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b8829ce94272dc90b2759c8f",
+      "width": 64
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Xgd4vt84VmQGcnqNFwGht"
+  }
+}

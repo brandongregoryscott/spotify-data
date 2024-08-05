@@ -1,0 +1,33 @@
+{
+  "id": "6l4dM3CsVSbKjo8KjaKMbj",
+  "name": "Nova Complex",
+  "uri": "spotify:artist:6l4dM3CsVSbKjo8KjaKMbj",
+  "followers": {
+    "href": null,
+    "total": 141
+  },
+  "genres": [
+    "lo-fi sleep"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738a97c19706908f33cda12d06",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028a97c19706908f33cda12d06",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518a97c19706908f33cda12d06",
+      "width": 64
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6l4dM3CsVSbKjo8KjaKMbj"
+  }
+}

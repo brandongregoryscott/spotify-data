@@ -1,0 +1,33 @@
+{
+  "id": "1FMvzksLC5QVN6ugj1NFdb",
+  "name": "GRUNK",
+  "uri": "spotify:artist:1FMvzksLC5QVN6ugj1NFdb",
+  "followers": {
+    "href": null,
+    "total": 178
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb60230b3cffbd51ca99ff609a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517460230b3cffbd51ca99ff609a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17860230b3cffbd51ca99ff609a",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1FMvzksLC5QVN6ugj1NFdb"
+  }
+}

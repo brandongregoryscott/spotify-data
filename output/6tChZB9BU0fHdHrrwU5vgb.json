@@ -1,0 +1,33 @@
+{
+  "id": "6tChZB9BU0fHdHrrwU5vgb",
+  "name": "Baby Cool",
+  "uri": "spotify:artist:6tChZB9BU0fHdHrrwU5vgb",
+  "followers": {
+    "href": null,
+    "total": 2516
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb94b8e00b805cb30538504c2d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517494b8e00b805cb30538504c2d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17894b8e00b805cb30538504c2d",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6tChZB9BU0fHdHrrwU5vgb"
+  }
+}

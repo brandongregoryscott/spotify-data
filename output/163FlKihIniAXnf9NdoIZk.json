@@ -1,0 +1,34 @@
+{
+  "id": "163FlKihIniAXnf9NdoIZk",
+  "name": "Sammal",
+  "uri": "spotify:artist:163FlKihIniAXnf9NdoIZk",
+  "followers": {
+    "href": null,
+    "total": 2458
+  },
+  "genres": [
+    "finnish progressive rock",
+    "finnish psychedelic rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b6ac3c6ade92b6cfd2e26437",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b6ac3c6ade92b6cfd2e26437",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b6ac3c6ade92b6cfd2e26437",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/163FlKihIniAXnf9NdoIZk"
+  }
+}

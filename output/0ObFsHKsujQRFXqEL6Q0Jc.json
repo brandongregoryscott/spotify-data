@@ -1,0 +1,34 @@
+{
+  "id": "0ObFsHKsujQRFXqEL6Q0Jc",
+  "name": "Edmond Hall",
+  "uri": "spotify:artist:0ObFsHKsujQRFXqEL6Q0Jc",
+  "followers": {
+    "href": null,
+    "total": 3435
+  },
+  "genres": [
+    "jazz clarinet",
+    "new orleans jazz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273881262cdbba976d9ff44837a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02881262cdbba976d9ff44837a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851881262cdbba976d9ff44837a",
+      "width": 64
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ObFsHKsujQRFXqEL6Q0Jc"
+  }
+}

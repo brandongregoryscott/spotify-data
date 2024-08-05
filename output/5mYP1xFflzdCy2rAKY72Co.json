@@ -1,0 +1,33 @@
+{
+  "id": "5mYP1xFflzdCy2rAKY72Co",
+  "name": "Ethan Senger",
+  "uri": "spotify:artist:5mYP1xFflzdCy2rAKY72Co",
+  "followers": {
+    "href": null,
+    "total": 3501
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb10987eb748e8d01c4a105c51",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517410987eb748e8d01c4a105c51",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17810987eb748e8d01c4a105c51",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5mYP1xFflzdCy2rAKY72Co"
+  }
+}

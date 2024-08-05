@@ -1,0 +1,33 @@
+{
+  "id": "3OOssKFBeb9o8IjFUvEZYC",
+  "name": "Fuzz Evil",
+  "uri": "spotify:artist:3OOssKFBeb9o8IjFUvEZYC",
+  "followers": {
+    "href": null,
+    "total": 970
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba85df2f6713cb9944a12a3f1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a85df2f6713cb9944a12a3f1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a85df2f6713cb9944a12a3f1",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3OOssKFBeb9o8IjFUvEZYC"
+  }
+}

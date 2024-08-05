@@ -1,0 +1,33 @@
+{
+  "id": "29kXF9GFahRYvhV949HLLF",
+  "name": "YLLGEN",
+  "uri": "spotify:artist:29kXF9GFahRYvhV949HLLF",
+  "followers": {
+    "href": null,
+    "total": 182
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb44612b7af081e9571340be14",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517444612b7af081e9571340be14",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17844612b7af081e9571340be14",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/29kXF9GFahRYvhV949HLLF"
+  }
+}

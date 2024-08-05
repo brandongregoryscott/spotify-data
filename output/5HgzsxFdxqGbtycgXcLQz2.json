@@ -1,0 +1,33 @@
+{
+  "id": "5HgzsxFdxqGbtycgXcLQz2",
+  "name": "Olivia Hale",
+  "uri": "spotify:artist:5HgzsxFdxqGbtycgXcLQz2",
+  "followers": {
+    "href": null,
+    "total": 190
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4ab63480aa27cf8138994566",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744ab63480aa27cf8138994566",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784ab63480aa27cf8138994566",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5HgzsxFdxqGbtycgXcLQz2"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "0i1kzner1XKAvSz62HEnge",
+  "name": "The Gardener",
+  "uri": "spotify:artist:0i1kzner1XKAvSz62HEnge",
+  "followers": {
+    "href": null,
+    "total": 12647
+  },
+  "genres": [
+    "flamenco electronica",
+    "spanish electronic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8acb6395a28048d383fd5ff3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051748acb6395a28048d383fd5ff3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1788acb6395a28048d383fd5ff3",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0i1kzner1XKAvSz62HEnge"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5a62AYAIig43OSc3PMaNvd",
+  "name": "Doni",
+  "uri": "spotify:artist:5a62AYAIig43OSc3PMaNvd",
+  "followers": {
+    "href": null,
+    "total": 13
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb150b11f1e7c4b08fe0b7f46f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174150b11f1e7c4b08fe0b7f46f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178150b11f1e7c4b08fe0b7f46f",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5a62AYAIig43OSc3PMaNvd"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7oGMRn09vxI6vSZEOzqytJ",
+  "name": "ANGVSTIA",
+  "uri": "spotify:artist:7oGMRn09vxI6vSZEOzqytJ",
+  "followers": {
+    "href": null,
+    "total": 283
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7bd4636706958693ede8d2cf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051747bd4636706958693ede8d2cf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1787bd4636706958693ede8d2cf",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7oGMRn09vxI6vSZEOzqytJ"
+  }
+}

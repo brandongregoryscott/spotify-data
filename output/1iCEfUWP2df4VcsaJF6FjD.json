@@ -1,0 +1,36 @@
+{
+  "id": "1iCEfUWP2df4VcsaJF6FjD",
+  "name": "Argatu'",
+  "uri": "spotify:artist:1iCEfUWP2df4VcsaJF6FjD",
+  "followers": {
+    "href": null,
+    "total": 15463
+  },
+  "genres": [
+    "neo-manele",
+    "romanian electronic",
+    "romanian rap",
+    "romanian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb16ce589637be0a94d3782e9a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517416ce589637be0a94d3782e9a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17816ce589637be0a94d3782e9a",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1iCEfUWP2df4VcsaJF6FjD"
+  }
+}

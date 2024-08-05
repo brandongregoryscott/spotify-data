@@ -1,0 +1,33 @@
+{
+  "id": "1i7YCFJ5wWwvEUl9sKCiyV",
+  "name": "Oso",
+  "uri": "spotify:artist:1i7YCFJ5wWwvEUl9sKCiyV",
+  "followers": {
+    "href": null,
+    "total": 3599
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb57ab28f26aa95dfc7229e2f1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517457ab28f26aa95dfc7229e2f1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17857ab28f26aa95dfc7229e2f1",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1i7YCFJ5wWwvEUl9sKCiyV"
+  }
+}

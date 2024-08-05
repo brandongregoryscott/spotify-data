@@ -1,0 +1,33 @@
+{
+  "id": "4l5bPIfkeGKaK4pi9U3udv",
+  "name": "Steelsip",
+  "uri": "spotify:artist:4l5bPIfkeGKaK4pi9U3udv",
+  "followers": {
+    "href": null,
+    "total": 82
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27357b216a23f04ca5a242fa2d7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0257b216a23f04ca5a242fa2d7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485157b216a23f04ca5a242fa2d7",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4l5bPIfkeGKaK4pi9U3udv"
+  }
+}

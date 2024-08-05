@@ -1,0 +1,33 @@
+{
+  "id": "25y8mMm20L04UYj7NOYSsX",
+  "name": "Nick Brower",
+  "uri": "spotify:artist:25y8mMm20L04UYj7NOYSsX",
+  "followers": {
+    "href": null,
+    "total": 175
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb44a37b07991fe18a9fdd7e3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b44a37b07991fe18a9fdd7e3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b44a37b07991fe18a9fdd7e3",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/25y8mMm20L04UYj7NOYSsX"
+  }
+}

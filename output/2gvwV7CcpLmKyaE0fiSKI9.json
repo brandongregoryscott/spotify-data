@@ -1,0 +1,35 @@
+{
+  "id": "2gvwV7CcpLmKyaE0fiSKI9",
+  "name": "Ebba Grön",
+  "uri": "spotify:artist:2gvwV7CcpLmKyaE0fiSKI9",
+  "followers": {
+    "href": null,
+    "total": 68902
+  },
+  "genres": [
+    "classic swedish pop",
+    "svensk progg",
+    "swedish punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27351bc0fd3287caac4c3a80bcf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0251bc0fd3287caac4c3a80bcf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485151bc0fd3287caac4c3a80bcf",
+      "width": 64
+    }
+  ],
+  "popularity": 43,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
+  }
+}

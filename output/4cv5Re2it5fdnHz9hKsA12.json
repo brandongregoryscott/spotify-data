@@ -1,0 +1,33 @@
+{
+  "id": "4cv5Re2it5fdnHz9hKsA12",
+  "name": "Griffon",
+  "uri": "spotify:artist:4cv5Re2it5fdnHz9hKsA12",
+  "followers": {
+    "href": null,
+    "total": 5538
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb141cb39a04bee0f483e165b2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174141cb39a04bee0f483e165b2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178141cb39a04bee0f483e165b2",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4cv5Re2it5fdnHz9hKsA12"
+  }
+}

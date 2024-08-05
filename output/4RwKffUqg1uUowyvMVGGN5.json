@@ -1,0 +1,33 @@
+{
+  "id": "4RwKffUqg1uUowyvMVGGN5",
+  "name": "Inselect",
+  "uri": "spotify:artist:4RwKffUqg1uUowyvMVGGN5",
+  "followers": {
+    "href": null,
+    "total": 39
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27395ba26d5303059b845ba6993",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0295ba26d5303059b845ba6993",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485195ba26d5303059b845ba6993",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4RwKffUqg1uUowyvMVGGN5"
+  }
+}

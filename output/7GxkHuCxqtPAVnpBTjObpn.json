@@ -1,0 +1,33 @@
+{
+  "id": "7GxkHuCxqtPAVnpBTjObpn",
+  "name": "Bobby Solo",
+  "uri": "spotify:artist:7GxkHuCxqtPAVnpBTjObpn",
+  "followers": {
+    "href": null,
+    "total": 72350
+  },
+  "genres": [
+    "classic italian pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731604d99c22205d994e08128d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021604d99c22205d994e08128d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511604d99c22205d994e08128d",
+      "width": 64
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7GxkHuCxqtPAVnpBTjObpn"
+  }
+}

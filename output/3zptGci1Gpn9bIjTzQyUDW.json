@@ -1,0 +1,33 @@
+{
+  "id": "3zptGci1Gpn9bIjTzQyUDW",
+  "name": "A//FECT",
+  "uri": "spotify:artist:3zptGci1Gpn9bIjTzQyUDW",
+  "followers": {
+    "href": null,
+    "total": 225
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ef5eba1d874ef487ae81810b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ef5eba1d874ef487ae81810b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ef5eba1d874ef487ae81810b",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3zptGci1Gpn9bIjTzQyUDW"
+  }
+}

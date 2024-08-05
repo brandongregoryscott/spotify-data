@@ -1,0 +1,33 @@
+{
+  "id": "5DZpySNNvHof6YI3q3AwPO",
+  "name": "Jericho Hill",
+  "uri": "spotify:artist:5DZpySNNvHof6YI3q3AwPO",
+  "followers": {
+    "href": null,
+    "total": 300
+  },
+  "genres": [
+    "washington indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb80cb372b4a122b3758e8cb0e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517480cb372b4a122b3758e8cb0e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17880cb372b4a122b3758e8cb0e",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5DZpySNNvHof6YI3q3AwPO"
+  }
+}

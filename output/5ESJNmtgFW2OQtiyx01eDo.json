@@ -1,0 +1,33 @@
+{
+  "id": "5ESJNmtgFW2OQtiyx01eDo",
+  "name": "Zenloaded",
+  "uri": "spotify:artist:5ESJNmtgFW2OQtiyx01eDo",
+  "followers": {
+    "href": null,
+    "total": 1726
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcb2c3c590aa025ebb08f58a9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cb2c3c590aa025ebb08f58a9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cb2c3c590aa025ebb08f58a9",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ESJNmtgFW2OQtiyx01eDo"
+  }
+}

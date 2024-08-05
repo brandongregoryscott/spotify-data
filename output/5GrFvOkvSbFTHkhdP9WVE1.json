@@ -1,0 +1,33 @@
+{
+  "id": "5GrFvOkvSbFTHkhdP9WVE1",
+  "name": "Gliss",
+  "uri": "spotify:artist:5GrFvOkvSbFTHkhdP9WVE1",
+  "followers": {
+    "href": null,
+    "total": 4543
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc413d4f9a1ff2a539b7ae551",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c413d4f9a1ff2a539b7ae551",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c413d4f9a1ff2a539b7ae551",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5GrFvOkvSbFTHkhdP9WVE1"
+  }
+}

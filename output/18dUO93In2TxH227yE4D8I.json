@@ -1,0 +1,33 @@
+{
+  "id": "18dUO93In2TxH227yE4D8I",
+  "name": "Joa",
+  "uri": "spotify:artist:18dUO93In2TxH227yE4D8I",
+  "followers": {
+    "href": null,
+    "total": 222
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf0bbfc699c58c7faba4f7db3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f0bbfc699c58c7faba4f7db3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f0bbfc699c58c7faba4f7db3",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/18dUO93In2TxH227yE4D8I"
+  }
+}

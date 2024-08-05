@@ -1,0 +1,33 @@
+{
+  "id": "6OmIk51WhiXbYhLwaqjuMp",
+  "name": "Hogni",
+  "uri": "spotify:artist:6OmIk51WhiXbYhLwaqjuMp",
+  "followers": {
+    "href": null,
+    "total": 4847
+  },
+  "genres": [
+    "faroese pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbf997839616a001e25a5fcd8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bf997839616a001e25a5fcd8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bf997839616a001e25a5fcd8",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6OmIk51WhiXbYhLwaqjuMp"
+  }
+}

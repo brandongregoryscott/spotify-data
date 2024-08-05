@@ -1,0 +1,33 @@
+{
+  "id": "2OXYl5DhQiIdq7ZeEULwRb",
+  "name": "El Bloque",
+  "uri": "spotify:artist:2OXYl5DhQiIdq7ZeEULwRb",
+  "followers": {
+    "href": null,
+    "total": 1775
+  },
+  "genres": [
+    "rap ecuatoriano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb15c68c09518671450cc315f1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517415c68c09518671450cc315f1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17815c68c09518671450cc315f1",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2OXYl5DhQiIdq7ZeEULwRb"
+  }
+}

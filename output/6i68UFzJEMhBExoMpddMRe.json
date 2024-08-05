@@ -1,0 +1,33 @@
+{
+  "id": "6i68UFzJEMhBExoMpddMRe",
+  "name": "August",
+  "uri": "spotify:artist:6i68UFzJEMhBExoMpddMRe",
+  "followers": {
+    "href": null,
+    "total": 35405
+  },
+  "genres": [
+    "russian emo rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3beda378533db0f3bb81ac40",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051743beda378533db0f3bb81ac40",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1783beda378533db0f3bb81ac40",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6i68UFzJEMhBExoMpddMRe"
+  }
+}

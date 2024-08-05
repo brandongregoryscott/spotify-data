@@ -1,0 +1,33 @@
+{
+  "id": "5AR722bU95YssJAISc48dI",
+  "name": "Karis",
+  "uri": "spotify:artist:5AR722bU95YssJAISc48dI",
+  "followers": {
+    "href": null,
+    "total": 31
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a23dd1f8c99b5d89f34be22b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a23dd1f8c99b5d89f34be22b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a23dd1f8c99b5d89f34be22b",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5AR722bU95YssJAISc48dI"
+  }
+}

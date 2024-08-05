@@ -1,0 +1,33 @@
+{
+  "id": "4WJvGAto8G37ernAJBhwIa",
+  "name": "Nostalgia Avenue",
+  "uri": "spotify:artist:4WJvGAto8G37ernAJBhwIa",
+  "followers": {
+    "href": null,
+    "total": 195
+  },
+  "genres": [
+    "lo-fi cover"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb818460742f9bd03c1796f6ef",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174818460742f9bd03c1796f6ef",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178818460742f9bd03c1796f6ef",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4WJvGAto8G37ernAJBhwIa"
+  }
+}

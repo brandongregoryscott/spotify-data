@@ -1,0 +1,33 @@
+{
+  "id": "3kemmb0OvLJXip0gtf8hld",
+  "name": "Side.Project",
+  "uri": "spotify:artist:3kemmb0OvLJXip0gtf8hld",
+  "followers": {
+    "href": null,
+    "total": 38
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6ce43c25004bd2b44d850bea",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051746ce43c25004bd2b44d850bea",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1786ce43c25004bd2b44d850bea",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3kemmb0OvLJXip0gtf8hld"
+  }
+}

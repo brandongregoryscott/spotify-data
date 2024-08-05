@@ -1,0 +1,33 @@
+{
+  "id": "0iiy1e6h3rFnpRm0DQwVEO",
+  "name": "Dolly & the Devil",
+  "uri": "spotify:artist:0iiy1e6h3rFnpRm0DQwVEO",
+  "followers": {
+    "href": null,
+    "total": 221
+  },
+  "genres": [
+    "string band"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeecebf59409264be31761049",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eecebf59409264be31761049",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eecebf59409264be31761049",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0iiy1e6h3rFnpRm0DQwVEO"
+  }
+}

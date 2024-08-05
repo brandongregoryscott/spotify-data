@@ -1,0 +1,35 @@
+{
+  "id": "3JaAGmSTpJK35DqWrDUzBz",
+  "name": "Sweet",
+  "uri": "spotify:artist:3JaAGmSTpJK35DqWrDUzBz",
+  "followers": {
+    "href": null,
+    "total": 467789
+  },
+  "genres": [
+    "album rock",
+    "glam rock",
+    "hard rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb29a247c0aac9cbe94bc47865",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517429a247c0aac9cbe94bc47865",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17829a247c0aac9cbe94bc47865",
+      "width": 160
+    }
+  ],
+  "popularity": 55,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6g48J2z9sTnZY4XFlN52Nx",
+  "name": "Aukusti Koivisto",
+  "uri": "spotify:artist:6g48J2z9sTnZY4XFlN52Nx",
+  "followers": {
+    "href": null,
+    "total": 744
+  },
+  "genres": [
+    "laulaja-lauluntekija"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdd463bc8f9accd549ceefe4c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dd463bc8f9accd549ceefe4c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dd463bc8f9accd549ceefe4c",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6g48J2z9sTnZY4XFlN52Nx"
+  }
+}

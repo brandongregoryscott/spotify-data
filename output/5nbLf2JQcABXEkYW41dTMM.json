@@ -1,0 +1,33 @@
+{
+  "id": "5nbLf2JQcABXEkYW41dTMM",
+  "name": "Electric Spoonful",
+  "uri": "spotify:artist:5nbLf2JQcABXEkYW41dTMM",
+  "followers": {
+    "href": null,
+    "total": 345
+  },
+  "genres": [
+    "cape breton indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc46c68ab76c95384413bd2ba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c46c68ab76c95384413bd2ba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c46c68ab76c95384413bd2ba",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5nbLf2JQcABXEkYW41dTMM"
+  }
+}

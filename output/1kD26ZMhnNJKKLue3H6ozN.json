@@ -1,0 +1,33 @@
+{
+  "id": "1kD26ZMhnNJKKLue3H6ozN",
+  "name": "Bunny",
+  "uri": "spotify:artist:1kD26ZMhnNJKKLue3H6ozN",
+  "followers": {
+    "href": null,
+    "total": 226
+  },
+  "genres": [
+    "hyperpop italiano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcc04f0281e18c19c95ad27da",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cc04f0281e18c19c95ad27da",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cc04f0281e18c19c95ad27da",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1kD26ZMhnNJKKLue3H6ozN"
+  }
+}

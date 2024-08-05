@@ -1,0 +1,33 @@
+{
+  "id": "5JgQcrUo0ITwfM6LBTKq5O",
+  "name": "PlemЯ",
+  "uri": "spotify:artist:5JgQcrUo0ITwfM6LBTKq5O",
+  "followers": {
+    "href": null,
+    "total": 351
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f806e2817dc578478e7fd58a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f806e2817dc578478e7fd58a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f806e2817dc578478e7fd58a",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5JgQcrUo0ITwfM6LBTKq5O"
+  }
+}

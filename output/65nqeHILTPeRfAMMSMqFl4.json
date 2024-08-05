@@ -1,0 +1,33 @@
+{
+  "id": "65nqeHILTPeRfAMMSMqFl4",
+  "name": "Jacoozy",
+  "uri": "spotify:artist:65nqeHILTPeRfAMMSMqFl4",
+  "followers": {
+    "href": null,
+    "total": 1440
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebffcf35e7ae9c08ab995b444b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ffcf35e7ae9c08ab995b444b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ffcf35e7ae9c08ab995b444b",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/65nqeHILTPeRfAMMSMqFl4"
+  }
+}

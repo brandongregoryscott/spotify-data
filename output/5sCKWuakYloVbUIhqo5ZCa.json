@@ -4,11 +4,12 @@
   "uri": "spotify:artist:5sCKWuakYloVbUIhqo5ZCa",
   "followers": {
     "href": null,
-    "total": 13181
+    "total": 13183
   },
   "genres": [
     "atl drill",
-    "atl hip hop"
+    "atl hip hop",
+    "atl trap"
   ],
   "images": [
     {
@@ -27,7 +28,7 @@
       "width": 160
     }
   ],
-  "popularity": 38,
+  "popularity": 39,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/5sCKWuakYloVbUIhqo5ZCa"
   }

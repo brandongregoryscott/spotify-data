@@ -1,0 +1,33 @@
+{
+  "id": "1mseZL28pMYrwLl2JPwjAS",
+  "name": "Han Grin",
+  "uri": "spotify:artist:1mseZL28pMYrwLl2JPwjAS",
+  "followers": {
+    "href": null,
+    "total": 124
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbbc242b0cd55ef3f57781075",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bbc242b0cd55ef3f57781075",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bbc242b0cd55ef3f57781075",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1mseZL28pMYrwLl2JPwjAS"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "75gfodR4i2KXKO5oiIgeNe",
+  "name": "Porphyria",
+  "uri": "spotify:artist:75gfodR4i2KXKO5oiIgeNe",
+  "followers": {
+    "href": null,
+    "total": 399
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe058b77b2340149936135ba7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e058b77b2340149936135ba7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e058b77b2340149936135ba7",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/75gfodR4i2KXKO5oiIgeNe"
+  }
+}

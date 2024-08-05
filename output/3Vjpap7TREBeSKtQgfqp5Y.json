@@ -1,0 +1,33 @@
+{
+  "id": "3Vjpap7TREBeSKtQgfqp5Y",
+  "name": "Kohey",
+  "uri": "spotify:artist:3Vjpap7TREBeSKtQgfqp5Y",
+  "followers": {
+    "href": null,
+    "total": 1444
+  },
+  "genres": [
+    "beatboxing"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb30bda65f79f420b9b0398947",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517430bda65f79f420b9b0398947",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17830bda65f79f420b9b0398947",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Vjpap7TREBeSKtQgfqp5Y"
+  }
+}

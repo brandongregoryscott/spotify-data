@@ -1,0 +1,33 @@
+{
+  "id": "5gxnAKdEdN6lETmtH2yY7I",
+  "name": "RabbitJ",
+  "uri": "spotify:artist:5gxnAKdEdN6lETmtH2yY7I",
+  "followers": {
+    "href": null,
+    "total": 983
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738e73b28b05372add0684dd71",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0276b4db63c84d02fd7ab407b1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518e73b28b05372add0684dd71",
+      "width": 64
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5gxnAKdEdN6lETmtH2yY7I"
+  }
+}

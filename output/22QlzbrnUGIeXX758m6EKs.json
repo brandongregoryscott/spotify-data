@@ -1,0 +1,33 @@
+{
+  "id": "22QlzbrnUGIeXX758m6EKs",
+  "name": "BASTARDA",
+  "uri": "spotify:artist:22QlzbrnUGIeXX758m6EKs",
+  "followers": {
+    "href": null,
+    "total": 2461
+  },
+  "genres": [
+    "polish jazz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27344bbb39c8350ac4db7f70923",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0244bbb39c8350ac4db7f70923",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485144bbb39c8350ac4db7f70923",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/22QlzbrnUGIeXX758m6EKs"
+  }
+}

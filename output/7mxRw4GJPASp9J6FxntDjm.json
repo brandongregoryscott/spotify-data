@@ -1,0 +1,33 @@
+{
+  "id": "7mxRw4GJPASp9J6FxntDjm",
+  "name": "Nya",
+  "uri": "spotify:artist:7mxRw4GJPASp9J6FxntDjm",
+  "followers": {
+    "href": null,
+    "total": 21364
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe91e928ba2ba5badf376d8b8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e91e928ba2ba5badf376d8b8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e91e928ba2ba5badf376d8b8",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7mxRw4GJPASp9J6FxntDjm"
+  }
+}

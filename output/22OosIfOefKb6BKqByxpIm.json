@@ -1,0 +1,33 @@
+{
+  "id": "22OosIfOefKb6BKqByxpIm",
+  "name": "Mellow Yoyo",
+  "uri": "spotify:artist:22OosIfOefKb6BKqByxpIm",
+  "followers": {
+    "href": null,
+    "total": 637
+  },
+  "genres": [
+    "lo-fi vgm"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb81f1b18287430fa796232857",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517481f1b18287430fa796232857",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17881f1b18287430fa796232857",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/22OosIfOefKb6BKqByxpIm"
+  }
+}

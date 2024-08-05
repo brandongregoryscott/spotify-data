@@ -1,0 +1,36 @@
+{
+  "id": "6loBF9iQdE11WSX29fNKqY",
+  "name": "Howard Jones",
+  "uri": "spotify:artist:6loBF9iQdE11WSX29fNKqY",
+  "followers": {
+    "href": null,
+    "total": 430335
+  },
+  "genres": [
+    "new romantic",
+    "new wave",
+    "new wave pop",
+    "synthpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb81c1534a3a9cf64fd6deb02f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517481c1534a3a9cf64fd6deb02f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17881c1534a3a9cf64fd6deb02f",
+      "width": 160
+    }
+  ],
+  "popularity": 50,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY"
+  }
+}

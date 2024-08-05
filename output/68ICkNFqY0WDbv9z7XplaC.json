@@ -1,0 +1,33 @@
+{
+  "id": "68ICkNFqY0WDbv9z7XplaC",
+  "name": "Severnica",
+  "uri": "spotify:artist:68ICkNFqY0WDbv9z7XplaC",
+  "followers": {
+    "href": null,
+    "total": 558
+  },
+  "genres": [
+    "fallen angel"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273362ab84fb26c09aa49febb2b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02362ab84fb26c09aa49febb2b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851362ab84fb26c09aa49febb2b",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/68ICkNFqY0WDbv9z7XplaC"
+  }
+}

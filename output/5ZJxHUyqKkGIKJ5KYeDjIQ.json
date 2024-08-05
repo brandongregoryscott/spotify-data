@@ -1,0 +1,33 @@
+{
+  "id": "5ZJxHUyqKkGIKJ5KYeDjIQ",
+  "name": "Zona Cero",
+  "uri": "spotify:artist:5ZJxHUyqKkGIKJ5KYeDjIQ",
+  "followers": {
+    "href": null,
+    "total": 3564
+  },
+  "genres": [
+    "punk colombiano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdaa0e93369cac9bc58a38b78",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174daa0e93369cac9bc58a38b78",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178daa0e93369cac9bc58a38b78",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ZJxHUyqKkGIKJ5KYeDjIQ"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1X2EViSjqWIO1qGPhuyOea",
+  "name": "IZZY",
+  "uri": "spotify:artist:1X2EViSjqWIO1qGPhuyOea",
+  "followers": {
+    "href": null,
+    "total": 253
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb00d376253750b7b64e50aa25",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517400d376253750b7b64e50aa25",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17800d376253750b7b64e50aa25",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1X2EViSjqWIO1qGPhuyOea"
+  }
+}

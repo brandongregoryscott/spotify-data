@@ -1,0 +1,35 @@
+{
+  "id": "1BAdSa5cdtCNLbvT7gWmtJ",
+  "name": "Conro",
+  "uri": "spotify:artist:1BAdSa5cdtCNLbvT7gWmtJ",
+  "followers": {
+    "href": null,
+    "total": 56198
+  },
+  "genres": [
+    "canadian electronic",
+    "future bass",
+    "pop edm"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbfa0f25d3d775e4892e0add3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bfa0f25d3d775e4892e0add3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bfa0f25d3d775e4892e0add3",
+      "width": 160
+    }
+  ],
+  "popularity": 46,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+  }
+}

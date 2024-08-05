@@ -1,0 +1,33 @@
+{
+  "id": "7xxqOrJSWPm5aIoYdLcbDk",
+  "name": "Chelo G",
+  "uri": "spotify:artist:7xxqOrJSWPm5aIoYdLcbDk",
+  "followers": {
+    "href": null,
+    "total": 33
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd6df349e2c170e0036d48ebe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d6df349e2c170e0036d48ebe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d6df349e2c170e0036d48ebe",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7xxqOrJSWPm5aIoYdLcbDk"
+  }
+}

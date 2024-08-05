@@ -1,0 +1,33 @@
+{
+  "id": "7mrApzkgf5y9eKDgC1HAEN",
+  "name": "Beau Cheval",
+  "uri": "spotify:artist:7mrApzkgf5y9eKDgC1HAEN",
+  "followers": {
+    "href": null,
+    "total": 291
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcfbf4e32f6eb119ab730e2be",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cfbf4e32f6eb119ab730e2be",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cfbf4e32f6eb119ab730e2be",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7mrApzkgf5y9eKDgC1HAEN"
+  }
+}

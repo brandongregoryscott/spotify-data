@@ -1,0 +1,33 @@
+{
+  "id": "14kTTs4B8Qlc8seEDybLPZ",
+  "name": "Roberto Rico",
+  "uri": "spotify:artist:14kTTs4B8Qlc8seEDybLPZ",
+  "followers": {
+    "href": null,
+    "total": 95
+  },
+  "genres": [
+    "modern swing"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f0bffff575cfd8151dab0e17",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f0bffff575cfd8151dab0e17",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f0bffff575cfd8151dab0e17",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/14kTTs4B8Qlc8seEDybLPZ"
+  }
+}

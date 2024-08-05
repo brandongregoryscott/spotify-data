@@ -1,0 +1,33 @@
+{
+  "id": "7rNfsJlUymFkc6djiwAWMg",
+  "name": "Konrad Kucz",
+  "uri": "spotify:artist:7rNfsJlUymFkc6djiwAWMg",
+  "followers": {
+    "href": null,
+    "total": 222
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d671eb057a96a339c5b5825d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d671eb057a96a339c5b5825d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d671eb057a96a339c5b5825d",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7rNfsJlUymFkc6djiwAWMg"
+  }
+}

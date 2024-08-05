@@ -1,0 +1,33 @@
+{
+  "id": "1oxcUPeLKSOn7PtMQSNPcM",
+  "name": "Gavin Mac",
+  "uri": "spotify:artist:1oxcUPeLKSOn7PtMQSNPcM",
+  "followers": {
+    "href": null,
+    "total": 111
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd691cd8afbd3ed1c5e250299",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d691cd8afbd3ed1c5e250299",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d691cd8afbd3ed1c5e250299",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1oxcUPeLKSOn7PtMQSNPcM"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6tlAOedcOvdDTlZXBuusdp",
+  "name": "WEUX",
+  "uri": "spotify:artist:6tlAOedcOvdDTlZXBuusdp",
+  "followers": {
+    "href": null,
+    "total": 975
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730fa6c84951fd6b3112bffeaf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020fa6c84951fd6b3112bffeaf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510fa6c84951fd6b3112bffeaf",
+      "width": 64
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6tlAOedcOvdDTlZXBuusdp"
+  }
+}

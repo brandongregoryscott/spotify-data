@@ -1,0 +1,33 @@
+{
+  "id": "3XA4LLL4CW8h4VWRY1EVbB",
+  "name": "Charles Fox",
+  "uri": "spotify:artist:3XA4LLL4CW8h4VWRY1EVbB",
+  "followers": {
+    "href": null,
+    "total": 1318
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734b9dadca8cb158c38305a22b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024b9dadca8cb158c38305a22b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514b9dadca8cb158c38305a22b",
+      "width": 64
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3XA4LLL4CW8h4VWRY1EVbB"
+  }
+}

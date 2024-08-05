@@ -1,0 +1,33 @@
+{
+  "id": "0NqpjctWIfQRkntp2G0GAa",
+  "name": "Dj Pound",
+  "uri": "spotify:artist:0NqpjctWIfQRkntp2G0GAa",
+  "followers": {
+    "href": null,
+    "total": 265
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd515a5dff23468eba1dd4272",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d515a5dff23468eba1dd4272",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d515a5dff23468eba1dd4272",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0NqpjctWIfQRkntp2G0GAa"
+  }
+}

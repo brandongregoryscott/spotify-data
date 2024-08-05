@@ -1,0 +1,33 @@
+{
+  "id": "7mbxECrkKzOUyiEsIEMXPQ",
+  "name": "Nina Mya",
+  "uri": "spotify:artist:7mbxECrkKzOUyiEsIEMXPQ",
+  "followers": {
+    "href": null,
+    "total": 418
+  },
+  "genres": [
+    "finnish modern jazz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb726d57acc0520244e21ac8e2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174726d57acc0520244e21ac8e2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178726d57acc0520244e21ac8e2",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7mbxECrkKzOUyiEsIEMXPQ"
+  }
+}

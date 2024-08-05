@@ -1,0 +1,33 @@
+{
+  "id": "3CtogfgamUizgteA10dzgM",
+  "name": "Jonas",
+  "uri": "spotify:artist:3CtogfgamUizgteA10dzgM",
+  "followers": {
+    "href": null,
+    "total": 209
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebff1917a501459321b4a2975a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ff1917a501459321b4a2975a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ff1917a501459321b4a2975a",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3CtogfgamUizgteA10dzgM"
+  }
+}

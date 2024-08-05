@@ -1,0 +1,33 @@
+{
+  "id": "3Chg16F5OR4qSf1zE4vywa",
+  "name": "MATCH",
+  "uri": "spotify:artist:3Chg16F5OR4qSf1zE4vywa",
+  "followers": {
+    "href": null,
+    "total": 177
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737ef81cd6d2ffa3c2100abdd8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027ef81cd6d2ffa3c2100abdd8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517ef81cd6d2ffa3c2100abdd8",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Chg16F5OR4qSf1zE4vywa"
+  }
+}

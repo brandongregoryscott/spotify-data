@@ -1,0 +1,33 @@
+{
+  "id": "5AzRrbF5nyizbUhr7L4fPe",
+  "name": "Middleneck",
+  "uri": "spotify:artist:5AzRrbF5nyizbUhr7L4fPe",
+  "followers": {
+    "href": null,
+    "total": 789
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd02176136e961bbd00fcbe77",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d02176136e961bbd00fcbe77",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d02176136e961bbd00fcbe77",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5AzRrbF5nyizbUhr7L4fPe"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2AQUSLowQ7TWguiNIqnije",
+  "name": "Rob Malaski",
+  "uri": "spotify:artist:2AQUSLowQ7TWguiNIqnije",
+  "followers": {
+    "href": null,
+    "total": 256
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb62e57c35e15c478cf6c97d94",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517462e57c35e15c478cf6c97d94",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17862e57c35e15c478cf6c97d94",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2AQUSLowQ7TWguiNIqnije"
+  }
+}

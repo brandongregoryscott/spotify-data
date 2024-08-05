@@ -1,0 +1,33 @@
+{
+  "id": "2ZJTM7KeBdMbbbUykwZXDN",
+  "name": "George Forrest",
+  "uri": "spotify:artist:2ZJTM7KeBdMbbbUykwZXDN",
+  "followers": {
+    "href": null,
+    "total": 53
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27349e8d79459d9256c96e4c05c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0249e8d79459d9256c96e4c05c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485149e8d79459d9256c96e4c05c",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ZJTM7KeBdMbbbUykwZXDN"
+  }
+}

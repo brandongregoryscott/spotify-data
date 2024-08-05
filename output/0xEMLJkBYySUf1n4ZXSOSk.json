@@ -1,0 +1,33 @@
+{
+  "id": "0xEMLJkBYySUf1n4ZXSOSk",
+  "name": "emerson.",
+  "uri": "spotify:artist:0xEMLJkBYySUf1n4ZXSOSk",
+  "followers": {
+    "href": null,
+    "total": 332
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730d05b954a302d413fe1d57fb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020d05b954a302d413fe1d57fb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510d05b954a302d413fe1d57fb",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0xEMLJkBYySUf1n4ZXSOSk"
+  }
+}

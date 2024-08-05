@@ -1,0 +1,33 @@
+{
+  "id": "0d8NOXVpGBRaiIIxy6sbIP",
+  "name": "Popcorn Kid",
+  "uri": "spotify:artist:0d8NOXVpGBRaiIIxy6sbIP",
+  "followers": {
+    "href": null,
+    "total": 581
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebece52fd555f533d8300797e7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ece52fd555f533d8300797e7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ece52fd555f533d8300797e7",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0d8NOXVpGBRaiIIxy6sbIP"
+  }
+}

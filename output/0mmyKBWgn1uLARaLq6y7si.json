@@ -1,0 +1,33 @@
+{
+  "id": "0mmyKBWgn1uLARaLq6y7si",
+  "name": "JJ",
+  "uri": "spotify:artist:0mmyKBWgn1uLARaLq6y7si",
+  "followers": {
+    "href": null,
+    "total": 4615
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb85a654767c9e7afedf4e7609",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517485a654767c9e7afedf4e7609",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17885a654767c9e7afedf4e7609",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0mmyKBWgn1uLARaLq6y7si"
+  }
+}

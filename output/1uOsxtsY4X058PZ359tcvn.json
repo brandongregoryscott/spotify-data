@@ -1,0 +1,33 @@
+{
+  "id": "1uOsxtsY4X058PZ359tcvn",
+  "name": "Joe Abbott",
+  "uri": "spotify:artist:1uOsxtsY4X058PZ359tcvn",
+  "followers": {
+    "href": null,
+    "total": 506
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd4f01ea170ec31fc10c1b11f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d4f01ea170ec31fc10c1b11f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d4f01ea170ec31fc10c1b11f",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1uOsxtsY4X058PZ359tcvn"
+  }
+}

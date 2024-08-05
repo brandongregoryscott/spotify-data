@@ -1,0 +1,34 @@
+{
+  "id": "3A7sZMxNjhJWX7apY1UpQO",
+  "name": "Dreamshade",
+  "uri": "spotify:artist:3A7sZMxNjhJWX7apY1UpQO",
+  "followers": {
+    "href": null,
+    "total": 33806
+  },
+  "genres": [
+    "swedish metalcore",
+    "swiss metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb089f83cac28c1fbe11fd4d48",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174089f83cac28c1fbe11fd4d48",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178089f83cac28c1fbe11fd4d48",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3A7sZMxNjhJWX7apY1UpQO"
+  }
+}

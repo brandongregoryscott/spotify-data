@@ -1,0 +1,33 @@
+{
+  "id": "0kr8s0cWSfqcR5U7zdUJyi",
+  "name": "Gameness",
+  "uri": "spotify:artist:0kr8s0cWSfqcR5U7zdUJyi",
+  "followers": {
+    "href": null,
+    "total": 490
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273767b39c1aab8fa3d6874a2a2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02767b39c1aab8fa3d6874a2a2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851767b39c1aab8fa3d6874a2a2",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0kr8s0cWSfqcR5U7zdUJyi"
+  }
+}

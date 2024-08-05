@@ -1,0 +1,33 @@
+{
+  "id": "5uosMg0bUbmZIlQpzTAPc7",
+  "name": "Sebastián Orellana",
+  "uri": "spotify:artist:5uosMg0bUbmZIlQpzTAPc7",
+  "followers": {
+    "href": null,
+    "total": 1203
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb98bded16b67707dd4daca40d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517498bded16b67707dd4daca40d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17898bded16b67707dd4daca40d",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5uosMg0bUbmZIlQpzTAPc7"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2lAWSanx1jdxqvk87fYsCe",
+  "name": "Opto Music",
+  "uri": "spotify:artist:2lAWSanx1jdxqvk87fYsCe",
+  "followers": {
+    "href": null,
+    "total": 479
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb53401bf58e89117ddb77829a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517453401bf58e89117ddb77829a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17853401bf58e89117ddb77829a",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2lAWSanx1jdxqvk87fYsCe"
+  }
+}

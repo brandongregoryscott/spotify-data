@@ -1,0 +1,33 @@
+{
+  "id": "1JL3JvqNgLxd2S0q5m29Ei",
+  "name": "Amesyt",
+  "uri": "spotify:artist:1JL3JvqNgLxd2S0q5m29Ei",
+  "followers": {
+    "href": null,
+    "total": 1096
+  },
+  "genres": [
+    "lo-fi sleep"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb529005aef6ddaf4651f923a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b529005aef6ddaf4651f923a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b529005aef6ddaf4651f923a",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1JL3JvqNgLxd2S0q5m29Ei"
+  }
+}

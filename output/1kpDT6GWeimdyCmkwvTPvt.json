@@ -1,0 +1,33 @@
+{
+  "id": "1kpDT6GWeimdyCmkwvTPvt",
+  "name": "Cleveland",
+  "uri": "spotify:artist:1kpDT6GWeimdyCmkwvTPvt",
+  "followers": {
+    "href": null,
+    "total": 1726
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27370a2f5d414d302a2377c5c42",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0270a2f5d414d302a2377c5c42",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485170a2f5d414d302a2377c5c42",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1kpDT6GWeimdyCmkwvTPvt"
+  }
+}

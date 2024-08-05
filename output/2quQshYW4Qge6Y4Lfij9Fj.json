@@ -1,0 +1,33 @@
+{
+  "id": "2quQshYW4Qge6Y4Lfij9Fj",
+  "name": "3ASiC",
+  "uri": "spotify:artist:2quQshYW4Qge6Y4Lfij9Fj",
+  "followers": {
+    "href": null,
+    "total": 1505
+  },
+  "genres": [
+    "chinese electronic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0188cda0f051476bcfe4bf25",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051740188cda0f051476bcfe4bf25",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1780188cda0f051476bcfe4bf25",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2quQshYW4Qge6Y4Lfij9Fj"
+  }
+}

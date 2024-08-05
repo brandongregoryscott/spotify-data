@@ -1,0 +1,33 @@
+{
+  "id": "202HjOlAThiMBecJjZiHpp",
+  "name": "Roberto Crippa",
+  "uri": "spotify:artist:202HjOlAThiMBecJjZiHpp",
+  "followers": {
+    "href": null,
+    "total": 259
+  },
+  "genres": [
+    "modern electroacoustic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb42f3cfcb9b7eb7359d60b880",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517442f3cfcb9b7eb7359d60b880",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17842f3cfcb9b7eb7359d60b880",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/202HjOlAThiMBecJjZiHpp"
+  }
+}

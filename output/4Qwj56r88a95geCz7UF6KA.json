@@ -1,0 +1,33 @@
+{
+  "id": "4Qwj56r88a95geCz7UF6KA",
+  "name": "Hot Heros",
+  "uri": "spotify:artist:4Qwj56r88a95geCz7UF6KA",
+  "followers": {
+    "href": null,
+    "total": 432
+  },
+  "genres": [
+    "finnish modern jazz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfd9d389cd50a13fbe49d3460",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fd9d389cd50a13fbe49d3460",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fd9d389cd50a13fbe49d3460",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Qwj56r88a95geCz7UF6KA"
+  }
+}

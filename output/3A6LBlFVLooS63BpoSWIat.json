@@ -1,0 +1,33 @@
+{
+  "id": "3A6LBlFVLooS63BpoSWIat",
+  "name": "lofi.dealer",
+  "uri": "spotify:artist:3A6LBlFVLooS63BpoSWIat",
+  "followers": {
+    "href": null,
+    "total": 274
+  },
+  "genres": [
+    "lo-fi cover"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731cd6faa3694cc12422fd67e6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0224131affa8f7bffbb8880027",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511cd6faa3694cc12422fd67e6",
+      "width": 64
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3A6LBlFVLooS63BpoSWIat"
+  }
+}

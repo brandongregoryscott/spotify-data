@@ -1,0 +1,33 @@
+{
+  "id": "26EuK5ESLBjKNvR9lAIOG5",
+  "name": "Waterstone",
+  "uri": "spotify:artist:26EuK5ESLBjKNvR9lAIOG5",
+  "followers": {
+    "href": null,
+    "total": 339
+  },
+  "genres": [
+    "funky house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb06c1cadd4997ac7d0d5e3787",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517406c1cadd4997ac7d0d5e3787",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17806c1cadd4997ac7d0d5e3787",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/26EuK5ESLBjKNvR9lAIOG5"
+  }
+}

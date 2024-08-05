@@ -1,0 +1,35 @@
+{
+  "id": "2PBhJmRqee1QAyQU2kBu1H",
+  "name": "Thåström",
+  "uri": "spotify:artist:2PBhJmRqee1QAyQU2kBu1H",
+  "followers": {
+    "href": null,
+    "total": 101528
+  },
+  "genres": [
+    "classic swedish pop",
+    "swedish americana",
+    "swedish punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba70f7b89c407b75774911a30",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a70f7b89c407b75774911a30",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a70f7b89c407b75774911a30",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
+  }
+}

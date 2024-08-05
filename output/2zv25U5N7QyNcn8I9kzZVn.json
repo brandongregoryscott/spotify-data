@@ -1,0 +1,33 @@
+{
+  "id": "2zv25U5N7QyNcn8I9kzZVn",
+  "name": "Nakimushi",
+  "uri": "spotify:artist:2zv25U5N7QyNcn8I9kzZVn",
+  "followers": {
+    "href": null,
+    "total": 40564
+  },
+  "genres": [
+    "j-indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb592759d82db8961b0b55be49",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174592759d82db8961b0b55be49",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178592759d82db8961b0b55be49",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn"
+  }
+}

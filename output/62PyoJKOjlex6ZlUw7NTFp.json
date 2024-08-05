@@ -1,0 +1,33 @@
+{
+  "id": "62PyoJKOjlex6ZlUw7NTFp",
+  "name": "Vanatice",
+  "uri": "spotify:artist:62PyoJKOjlex6ZlUw7NTFp",
+  "followers": {
+    "href": null,
+    "total": 2109
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb78cd0fd94648a57fcc3987ee",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517478cd0fd94648a57fcc3987ee",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17878cd0fd94648a57fcc3987ee",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/62PyoJKOjlex6ZlUw7NTFp"
+  }
+}

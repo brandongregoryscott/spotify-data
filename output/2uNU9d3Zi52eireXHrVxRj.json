@@ -1,0 +1,33 @@
+{
+  "id": "2uNU9d3Zi52eireXHrVxRj",
+  "name": "Ändi",
+  "uri": "spotify:artist:2uNU9d3Zi52eireXHrVxRj",
+  "followers": {
+    "href": null,
+    "total": 171
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf53b15cf19e08af4ee52a1d8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f53b15cf19e08af4ee52a1d8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f53b15cf19e08af4ee52a1d8",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2uNU9d3Zi52eireXHrVxRj"
+  }
+}

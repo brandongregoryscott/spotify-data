@@ -1,0 +1,33 @@
+{
+  "id": "55MX0Vy3fvVStnKZAaA1kp",
+  "name": "HTP",
+  "uri": "spotify:artist:55MX0Vy3fvVStnKZAaA1kp",
+  "followers": {
+    "href": null,
+    "total": 363
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc8a51fb3909ec0cfb95b3f05",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c8a51fb3909ec0cfb95b3f05",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c8a51fb3909ec0cfb95b3f05",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/55MX0Vy3fvVStnKZAaA1kp"
+  }
+}

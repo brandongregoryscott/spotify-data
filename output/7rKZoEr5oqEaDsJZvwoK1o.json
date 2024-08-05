@@ -1,0 +1,33 @@
+{
+  "id": "7rKZoEr5oqEaDsJZvwoK1o",
+  "name": "IamRxge",
+  "uri": "spotify:artist:7rKZoEr5oqEaDsJZvwoK1o",
+  "followers": {
+    "href": null,
+    "total": 326
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba217d94bd7303b40ad5b659c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a217d94bd7303b40ad5b659c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a217d94bd7303b40ad5b659c",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7rKZoEr5oqEaDsJZvwoK1o"
+  }
+}

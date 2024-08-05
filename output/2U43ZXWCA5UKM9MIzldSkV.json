@@ -1,0 +1,33 @@
+{
+  "id": "2U43ZXWCA5UKM9MIzldSkV",
+  "name": "The Burns Unit",
+  "uri": "spotify:artist:2U43ZXWCA5UKM9MIzldSkV",
+  "followers": {
+    "href": null,
+    "total": 930
+  },
+  "genres": [
+    "scottish rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273da93c6815e96164e5e8e8fe6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02da93c6815e96164e5e8e8fe6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851da93c6815e96164e5e8e8fe6",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2U43ZXWCA5UKM9MIzldSkV"
+  }
+}

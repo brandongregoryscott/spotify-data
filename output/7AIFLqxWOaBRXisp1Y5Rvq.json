@@ -1,0 +1,33 @@
+{
+  "id": "7AIFLqxWOaBRXisp1Y5Rvq",
+  "name": "dogtooth",
+  "uri": "spotify:artist:7AIFLqxWOaBRXisp1Y5Rvq",
+  "followers": {
+    "href": null,
+    "total": 153
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb26bea377c76f3cd286476cf3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517426bea377c76f3cd286476cf3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17826bea377c76f3cd286476cf3",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7AIFLqxWOaBRXisp1Y5Rvq"
+  }
+}

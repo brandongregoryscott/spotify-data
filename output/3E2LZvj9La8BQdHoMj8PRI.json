@@ -1,0 +1,35 @@
+{
+  "id": "3E2LZvj9La8BQdHoMj8PRI",
+  "name": "Aghast View",
+  "uri": "spotify:artist:3E2LZvj9La8BQdHoMj8PRI",
+  "followers": {
+    "href": null,
+    "total": 1529
+  },
+  "genres": [
+    "ebm",
+    "electro-industrial",
+    "power noise"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737b9c302719616de0b1666014",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027b9c302719616de0b1666014",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517b9c302719616de0b1666014",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3E2LZvj9La8BQdHoMj8PRI"
+  }
+}

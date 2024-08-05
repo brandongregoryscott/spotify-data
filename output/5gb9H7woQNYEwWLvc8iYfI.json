@@ -1,0 +1,33 @@
+{
+  "id": "5gb9H7woQNYEwWLvc8iYfI",
+  "name": "LIFER",
+  "uri": "spotify:artist:5gb9H7woQNYEwWLvc8iYfI",
+  "followers": {
+    "href": null,
+    "total": 1115
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb63867d670df1023ef1859a4d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517463867d670df1023ef1859a4d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17863867d670df1023ef1859a4d",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5gb9H7woQNYEwWLvc8iYfI"
+  }
+}

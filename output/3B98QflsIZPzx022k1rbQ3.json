@@ -1,0 +1,33 @@
+{
+  "id": "3B98QflsIZPzx022k1rbQ3",
+  "name": "Omer Koren",
+  "uri": "spotify:artist:3B98QflsIZPzx022k1rbQ3",
+  "followers": {
+    "href": null,
+    "total": 319
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb42337b235d91b90c46c61210",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517442337b235d91b90c46c61210",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17842337b235d91b90c46c61210",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3B98QflsIZPzx022k1rbQ3"
+  }
+}

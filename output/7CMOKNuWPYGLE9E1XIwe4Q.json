@@ -1,0 +1,33 @@
+{
+  "id": "7CMOKNuWPYGLE9E1XIwe4Q",
+  "name": "Praetorian",
+  "uri": "spotify:artist:7CMOKNuWPYGLE9E1XIwe4Q",
+  "followers": {
+    "href": null,
+    "total": 111
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbb773a8523bb2e56124c87ae",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bb773a8523bb2e56124c87ae",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bb773a8523bb2e56124c87ae",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7CMOKNuWPYGLE9E1XIwe4Q"
+  }
+}

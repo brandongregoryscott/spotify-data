@@ -1,0 +1,33 @@
+{
+  "id": "1g9yRvtG4oSy1NbfxO6Gwb",
+  "name": "R de Nexo",
+  "uri": "spotify:artist:1g9yRvtG4oSy1NbfxO6Gwb",
+  "followers": {
+    "href": null,
+    "total": 3194
+  },
+  "genres": [
+    "rap ecuatoriano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb653c1d47f630884792d1f4c0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174653c1d47f630884792d1f4c0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178653c1d47f630884792d1f4c0",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1g9yRvtG4oSy1NbfxO6Gwb"
+  }
+}
