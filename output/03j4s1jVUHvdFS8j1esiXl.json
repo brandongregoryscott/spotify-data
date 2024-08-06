@@ -1,0 +1,33 @@
+{
+  "id": "03j4s1jVUHvdFS8j1esiXl",
+  "name": "Yunglink",
+  "uri": "spotify:artist:03j4s1jVUHvdFS8j1esiXl",
+  "followers": {
+    "href": null,
+    "total": 295
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5500c033c769367a937a8e96",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051745500c033c769367a937a8e96",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1785500c033c769367a937a8e96",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03j4s1jVUHvdFS8j1esiXl"
+  }
+}

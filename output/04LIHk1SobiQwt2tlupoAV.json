@@ -1,0 +1,34 @@
+{
+  "id": "04LIHk1SobiQwt2tlupoAV",
+  "name": "Leo Sayer",
+  "uri": "spotify:artist:04LIHk1SobiQwt2tlupoAV",
+  "followers": {
+    "href": null,
+    "total": 553529
+  },
+  "genres": [
+    "mellow gold",
+    "soft rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebefe4bdbd3d0222742ef14692",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174efe4bdbd3d0222742ef14692",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178efe4bdbd3d0222742ef14692",
+      "width": 160
+    }
+  ],
+  "popularity": 57,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
+  }
+}

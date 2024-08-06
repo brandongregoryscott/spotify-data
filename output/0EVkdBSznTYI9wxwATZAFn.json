@@ -1,0 +1,33 @@
+{
+  "id": "0EVkdBSznTYI9wxwATZAFn",
+  "name": "Aarpa",
+  "uri": "spotify:artist:0EVkdBSznTYI9wxwATZAFn",
+  "followers": {
+    "href": null,
+    "total": 226
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbad7c03e85928e79d75bf864",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bad7c03e85928e79d75bf864",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bad7c03e85928e79d75bf864",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0EVkdBSznTYI9wxwATZAFn"
+  }
+}

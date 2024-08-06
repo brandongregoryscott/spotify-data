@@ -1,0 +1,33 @@
+{
+  "id": "01T3M1CfiAX8AWkFcfNnZR",
+  "name": "Roshii",
+  "uri": "spotify:artist:01T3M1CfiAX8AWkFcfNnZR",
+  "followers": {
+    "href": null,
+    "total": 469
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cf3a0bbadb2ce3070d0c9fc6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cf3a0bbadb2ce3070d0c9fc6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cf3a0bbadb2ce3070d0c9fc6",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01T3M1CfiAX8AWkFcfNnZR"
+  }
+}

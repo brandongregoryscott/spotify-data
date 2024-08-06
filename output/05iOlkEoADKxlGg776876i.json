@@ -1,0 +1,33 @@
+{
+  "id": "05iOlkEoADKxlGg776876i",
+  "name": "Hirshy",
+  "uri": "spotify:artist:05iOlkEoADKxlGg776876i",
+  "followers": {
+    "href": null,
+    "total": 102
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1243ebd9428cbc3162386e05",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051741243ebd9428cbc3162386e05",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1781243ebd9428cbc3162386e05",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05iOlkEoADKxlGg776876i"
+  }
+}

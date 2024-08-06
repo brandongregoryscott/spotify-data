@@ -1,0 +1,33 @@
+{
+  "id": "0DcJ6gLClrIcPa64gJ2P5I",
+  "name": "Limerence",
+  "uri": "spotify:artist:0DcJ6gLClrIcPa64gJ2P5I",
+  "followers": {
+    "href": null,
+    "total": 125
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba03dce4a8b668a384d5f9eca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a03dce4a8b668a384d5f9eca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a03dce4a8b668a384d5f9eca",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0DcJ6gLClrIcPa64gJ2P5I"
+  }
+}

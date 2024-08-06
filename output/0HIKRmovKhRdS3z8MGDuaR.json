@@ -1,0 +1,33 @@
+{
+  "id": "0HIKRmovKhRdS3z8MGDuaR",
+  "name": "Yanaja",
+  "uri": "spotify:artist:0HIKRmovKhRdS3z8MGDuaR",
+  "followers": {
+    "href": null,
+    "total": 146
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb93a99f2fe8e7fdc66e744e3c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517493a99f2fe8e7fdc66e744e3c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17893a99f2fe8e7fdc66e744e3c",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0HIKRmovKhRdS3z8MGDuaR"
+  }
+}

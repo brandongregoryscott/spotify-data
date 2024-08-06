@@ -1,0 +1,33 @@
+{
+  "id": "0GyIcNWs230XWbcs4EKgPz",
+  "name": "venks",
+  "uri": "spotify:artist:0GyIcNWs230XWbcs4EKgPz",
+  "followers": {
+    "href": null,
+    "total": 200
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcc12673225cd5fd7d38702f6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cc12673225cd5fd7d38702f6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cc12673225cd5fd7d38702f6",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0GyIcNWs230XWbcs4EKgPz"
+  }
+}

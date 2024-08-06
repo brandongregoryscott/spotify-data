@@ -4,10 +4,11 @@
   "uri": "spotify:artist:06oBqfYO8ddG6Spl9PDzk0",
   "followers": {
     "href": null,
-    "total": 1174
+    "total": 1175
   },
   "genres": [
-    "brazilian hardcore"
+    "brazilian hardcore",
+    "brazilian punk"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 64
     }
   ],
-  "popularity": 8,
+  "popularity": 9,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/06oBqfYO8ddG6Spl9PDzk0"
   }

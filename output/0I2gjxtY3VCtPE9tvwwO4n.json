@@ -1,0 +1,33 @@
+{
+  "id": "0I2gjxtY3VCtPE9tvwwO4n",
+  "name": "waants",
+  "uri": "spotify:artist:0I2gjxtY3VCtPE9tvwwO4n",
+  "followers": {
+    "href": null,
+    "total": 878
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf2bb090c136d9870d65a18d9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f2bb090c136d9870d65a18d9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f2bb090c136d9870d65a18d9",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0I2gjxtY3VCtPE9tvwwO4n"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "097yGPrMNUWZwI3g5ImxEJ",
+  "name": "Taranoya",
+  "uri": "spotify:artist:097yGPrMNUWZwI3g5ImxEJ",
+  "followers": {
+    "href": null,
+    "total": 207
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdd85751fe3f1021a155b97ff",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dd85751fe3f1021a155b97ff",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dd85751fe3f1021a155b97ff",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/097yGPrMNUWZwI3g5ImxEJ"
+  }
+}

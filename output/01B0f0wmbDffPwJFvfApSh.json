@@ -1,0 +1,33 @@
+{
+  "id": "01B0f0wmbDffPwJFvfApSh",
+  "name": "Javier Rodríguez Barrera",
+  "uri": "spotify:artist:01B0f0wmbDffPwJFvfApSh",
+  "followers": {
+    "href": null,
+    "total": 101
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730ed56564b04c80415c36fd5f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020ed56564b04c80415c36fd5f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510ed56564b04c80415c36fd5f",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01B0f0wmbDffPwJFvfApSh"
+  }
+}

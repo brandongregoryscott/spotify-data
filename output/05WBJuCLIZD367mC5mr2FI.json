@@ -1,0 +1,33 @@
+{
+  "id": "05WBJuCLIZD367mC5mr2FI",
+  "name": "TigerFoo",
+  "uri": "spotify:artist:05WBJuCLIZD367mC5mr2FI",
+  "followers": {
+    "href": null,
+    "total": 137
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb22372e5632e2d8a425d090ed",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517422372e5632e2d8a425d090ed",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17822372e5632e2d8a425d090ed",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05WBJuCLIZD367mC5mr2FI"
+  }
+}

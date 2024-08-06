@@ -4,10 +4,11 @@
   "uri": "spotify:artist:76CBEXXdaHcY4wuECRK5ho",
   "followers": {
     "href": null,
-    "total": 467
+    "total": 468
   },
   "genres": [
-    "hard glam"
+    "hard glam",
+    "sleaze rock"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 64
     }
   ],
-  "popularity": 0,
+  "popularity": 1,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/76CBEXXdaHcY4wuECRK5ho"
   }
