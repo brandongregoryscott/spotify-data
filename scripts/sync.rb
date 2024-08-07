@@ -14,7 +14,7 @@ def main
   artist_ids = read_artists_json_file
   chunk = chunk_artist_ids_by_current_hour(artist_ids)
 
-  chunk.each_slice(50).with_index do |artist_ids_chunk, index|
+  chunk.each_slice(50) do |artist_ids_chunk|
     find_and_save_artists(artist_ids_chunk)
   end
 end
@@ -24,23 +24,29 @@ def find_and_save_artists(artist_ids_chunk, attempt = 1)
   artists.each do |artist|
     save_artist_json_file(artist)
   end
-rescue RestClient::TooManyRequests, RestClient::ServiceUnavailable, RestClient::InternalServerError
+rescue RestClient::TooManyRequests, RestClient::ServiceUnavailable, RestClient::InternalServerError,
+       RestClient::GatewayTimeout
   max_sleep_seconds = Float(2**attempt)
   sleep rand(0..max_sleep_seconds)
   authenticate(rand(0..7))
   find_and_save_artists(artist_ids_chunk, attempt + 1) if attempt < MAX_RETRIES
 end
 
-def authenticate(index = nil)
+def authenticate(index = nil, attempt = 1)
   client_ids = ENV['CLIENT_IDS'].split(',')
   client_secrets = ENV['CLIENT_SECRETS'].split(',')
 
-  secret_index = index != nil ? index : current_hour % 8
+  secret_index = !index.nil? ? index : current_hour % 8
 
   client_id = client_ids.at(secret_index) || client_ids.first
   client_secret = client_secrets.at(secret_index) || client_secrets.first
 
   RSpotify.authenticate(client_id, client_secret)
+rescue RestClient::TooManyRequests, RestClient::ServiceUnavailable, RestClient::InternalServerError,
+       RestClient::GatewayTimeout
+  max_sleep_seconds = Float(2**attempt)
+  sleep rand(0..max_sleep_seconds)
+  authenticate(index, attempt + 1) if attempt < MAX_RETRIES
 end
 
 def current_hour
