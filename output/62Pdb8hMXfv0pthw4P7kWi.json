@@ -4,13 +4,27 @@
   "uri": "spotify:artist:62Pdb8hMXfv0pthw4P7kWi",
   "followers": {
     "href": null,
-    "total": 239
+    "total": 240
   },
   "genres": [
     "trap beats"
   ],
   "images": [
-
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27307da12b1a9a535f4400bb09f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0207da12b1a9a535f4400bb09f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485107da12b1a9a535f4400bb09f",
+      "width": 64
+    }
   ],
   "popularity": 14,
   "external_urls": {
