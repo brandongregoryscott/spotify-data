@@ -1,0 +1,33 @@
+{
+  "id": "7qgI5zbn2SzcXP0sKOWS9M",
+  "name": "SoBe",
+  "uri": "spotify:artist:7qgI5zbn2SzcXP0sKOWS9M",
+  "followers": {
+    "href": null,
+    "total": 672
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb125d06fa0e253f246fb4b0de",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174125d06fa0e253f246fb4b0de",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178125d06fa0e253f246fb4b0de",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7qgI5zbn2SzcXP0sKOWS9M"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7yfxCG4tkTzKVt8JvVzQWt",
+  "name": "River",
+  "uri": "spotify:artist:7yfxCG4tkTzKVt8JvVzQWt",
+  "followers": {
+    "href": null,
+    "total": 168
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb303e0bd9ca5d988e330e89f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b303e0bd9ca5d988e330e89f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b303e0bd9ca5d988e330e89f",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7yfxCG4tkTzKVt8JvVzQWt"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7ga9gLjv22EF7h3bh3waMQ",
+  "name": "user714",
+  "uri": "spotify:artist:7ga9gLjv22EF7h3bh3waMQ",
+  "followers": {
+    "href": null,
+    "total": 101
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730d37934098b989c304efb39e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020d37934098b989c304efb39e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510d37934098b989c304efb39e",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ga9gLjv22EF7h3bh3waMQ"
+  }
+}

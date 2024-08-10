@@ -4,10 +4,11 @@
   "uri": "spotify:artist:5rnoA4GlPQE4s15Si3oi6m",
   "followers": {
     "href": null,
-    "total": 3264
+    "total": 3263
   },
   "genres": [
-    "christian punk"
+    "christian punk",
+    "deep christian rock"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 160
     }
   ],
-  "popularity": 11,
+  "popularity": 12,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/5rnoA4GlPQE4s15Si3oi6m"
   }

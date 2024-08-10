@@ -1,0 +1,33 @@
+{
+  "id": "7j535epH1t3CSUTRW9x0bI",
+  "name": "VTB",
+  "uri": "spotify:artist:7j535epH1t3CSUTRW9x0bI",
+  "followers": {
+    "href": null,
+    "total": 960
+  },
+  "genres": [
+    "dark trap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe341762ebec8bbb445ee602d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e341762ebec8bbb445ee602d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e341762ebec8bbb445ee602d",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7j535epH1t3CSUTRW9x0bI"
+  }
+}

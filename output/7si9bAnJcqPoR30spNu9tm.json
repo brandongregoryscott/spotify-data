@@ -1,0 +1,36 @@
+{
+  "id": "7si9bAnJcqPoR30spNu9tm",
+  "name": "The Grascals",
+  "uri": "spotify:artist:7si9bAnJcqPoR30spNu9tm",
+  "followers": {
+    "href": null,
+    "total": 17182
+  },
+  "genres": [
+    "banjo",
+    "bluegrass",
+    "bluegrass gospel",
+    "neo-traditional bluegrass"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb543f6086b2a085d086b34b18",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174543f6086b2a085d086b34b18",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178543f6086b2a085d086b34b18",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
+  }
+}

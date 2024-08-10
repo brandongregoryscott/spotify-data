@@ -1,0 +1,33 @@
+{
+  "id": "7pM91eqefsGu05lcnVexuJ",
+  "name": "Marco No Polo",
+  "uri": "spotify:artist:7pM91eqefsGu05lcnVexuJ",
+  "followers": {
+    "href": null,
+    "total": 142
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb45bbd0b49882d87a7b2bf20d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517445bbd0b49882d87a7b2bf20d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17845bbd0b49882d87a7b2bf20d",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7pM91eqefsGu05lcnVexuJ"
+  }
+}

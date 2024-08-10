@@ -1,0 +1,33 @@
+{
+  "id": "7tsCZ1FYP63JTWAhlkgSUx",
+  "name": "The Löve",
+  "uri": "spotify:artist:7tsCZ1FYP63JTWAhlkgSUx",
+  "followers": {
+    "href": null,
+    "total": 133
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb787645d8d956324ac2eb17f6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174787645d8d956324ac2eb17f6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178787645d8d956324ac2eb17f6",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7tsCZ1FYP63JTWAhlkgSUx"
+  }
+}

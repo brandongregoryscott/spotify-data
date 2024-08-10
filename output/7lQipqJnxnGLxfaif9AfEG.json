@@ -1,0 +1,33 @@
+{
+  "id": "7lQipqJnxnGLxfaif9AfEG",
+  "name": "Pibefrio",
+  "uri": "spotify:artist:7lQipqJnxnGLxfaif9AfEG",
+  "followers": {
+    "href": null,
+    "total": 707
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba65f4303227839c48b1985eb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a65f4303227839c48b1985eb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a65f4303227839c48b1985eb",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7lQipqJnxnGLxfaif9AfEG"
+  }
+}

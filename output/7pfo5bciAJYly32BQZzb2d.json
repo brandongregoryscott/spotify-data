@@ -1,0 +1,33 @@
+{
+  "id": "7pfo5bciAJYly32BQZzb2d",
+  "name": "Split Vision",
+  "uri": "spotify:artist:7pfo5bciAJYly32BQZzb2d",
+  "followers": {
+    "href": null,
+    "total": 217
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb190816f2d2a089e7f8dafd4f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174190816f2d2a089e7f8dafd4f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178190816f2d2a089e7f8dafd4f",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7pfo5bciAJYly32BQZzb2d"
+  }
+}

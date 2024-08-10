@@ -1,0 +1,33 @@
+{
+  "id": "7fnGQtfTGswQS3T0tMZ0xZ",
+  "name": "sekai",
+  "uri": "spotify:artist:7fnGQtfTGswQS3T0tMZ0xZ",
+  "followers": {
+    "href": null,
+    "total": 18284
+  },
+  "genres": [
+    "jirai kei"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27302b5f240d38b90209cf82432",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0202b5f240d38b90209cf82432",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485102b5f240d38b90209cf82432",
+      "width": 64
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7fnGQtfTGswQS3T0tMZ0xZ"
+  }
+}
