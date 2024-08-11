@@ -1,0 +1,33 @@
+{
+  "id": "1ErRqO2BUqksEykEyRXXdi",
+  "name": "Slice",
+  "uri": "spotify:artist:1ErRqO2BUqksEykEyRXXdi",
+  "followers": {
+    "href": null,
+    "total": 182
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb619be7a35d50dbcac6cbd162",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174619be7a35d50dbcac6cbd162",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178619be7a35d50dbcac6cbd162",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ErRqO2BUqksEykEyRXXdi"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0h2Psgc7oQbWdvGCJrq2ew",
+  "name": "Miquminad",
+  "uri": "spotify:artist:0h2Psgc7oQbWdvGCJrq2ew",
+  "followers": {
+    "href": null,
+    "total": 828
+  },
+  "genres": [
+    "suomirap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc43c3f18bdedfee76414bcca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c43c3f18bdedfee76414bcca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c43c3f18bdedfee76414bcca",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0h2Psgc7oQbWdvGCJrq2ew"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1RqyczNCadZ1LsMskCEEoO",
+  "name": "Glory Of This",
+  "uri": "spotify:artist:1RqyczNCadZ1LsMskCEEoO",
+  "followers": {
+    "href": null,
+    "total": 1395
+  },
+  "genres": [
+    "screamocore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3c6a2d05837e670f0d47b953",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051743c6a2d05837e670f0d47b953",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1783c6a2d05837e670f0d47b953",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1RqyczNCadZ1LsMskCEEoO"
+  }
+}

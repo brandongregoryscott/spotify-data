@@ -1,0 +1,34 @@
+{
+  "id": "1vSN1fsvrzpbttOYGsliDr",
+  "name": "Tori Kelly",
+  "uri": "spotify:artist:1vSN1fsvrzpbttOYGsliDr",
+  "followers": {
+    "href": null,
+    "total": 2139064
+  },
+  "genres": [
+    "pop",
+    "post-teen pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb544ba0da8dbe879efa20bcb9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174544ba0da8dbe879efa20bcb9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178544ba0da8dbe879efa20bcb9",
+      "width": 160
+    }
+  ],
+  "popularity": 65,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+  }
+}

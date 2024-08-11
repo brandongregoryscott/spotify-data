@@ -1,0 +1,33 @@
+{
+  "id": "41QCsaCZb8WIW63ITUP8pl",
+  "name": "Sousade",
+  "uri": "spotify:artist:41QCsaCZb8WIW63ITUP8pl",
+  "followers": {
+    "href": null,
+    "total": 433
+  },
+  "genres": [
+    "bogor indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb83ec9256621718c5e71c504d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517483ec9256621718c5e71c504d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17883ec9256621718c5e71c504d",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/41QCsaCZb8WIW63ITUP8pl"
+  }
+}

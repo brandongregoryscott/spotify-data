@@ -1,0 +1,33 @@
+{
+  "id": "1Sz2XF3WnHhSUQc29VEvfA",
+  "name": "Nae Paugh",
+  "uri": "spotify:artist:1Sz2XF3WnHhSUQc29VEvfA",
+  "followers": {
+    "href": null,
+    "total": 98
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe46123d3a59e1f4fa7d5b41a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e46123d3a59e1f4fa7d5b41a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e46123d3a59e1f4fa7d5b41a",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Sz2XF3WnHhSUQc29VEvfA"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2Mfj799s6kJwbtvd3GJRWu",
+  "name": "Jerry Barker",
+  "uri": "spotify:artist:2Mfj799s6kJwbtvd3GJRWu",
+  "followers": {
+    "href": null,
+    "total": 112
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd41bf9cd1e896943c6cbdd18",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d41bf9cd1e896943c6cbdd18",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d41bf9cd1e896943c6cbdd18",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Mfj799s6kJwbtvd3GJRWu"
+  }
+}

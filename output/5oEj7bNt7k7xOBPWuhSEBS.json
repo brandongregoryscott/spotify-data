@@ -1,0 +1,33 @@
+{
+  "id": "5oEj7bNt7k7xOBPWuhSEBS",
+  "name": "Second String",
+  "uri": "spotify:artist:5oEj7bNt7k7xOBPWuhSEBS",
+  "followers": {
+    "href": null,
+    "total": 89
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe06fcb8721ba5ebafd8217e4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e06fcb8721ba5ebafd8217e4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e06fcb8721ba5ebafd8217e4",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5oEj7bNt7k7xOBPWuhSEBS"
+  }
+}

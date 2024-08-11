@@ -1,0 +1,33 @@
+{
+  "id": "0wqh1zyimDOeXUej4VxLd5",
+  "name": "Azatoth",
+  "uri": "spotify:artist:0wqh1zyimDOeXUej4VxLd5",
+  "followers": {
+    "href": null,
+    "total": 1341
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebefaee8675e4f497dd52a736d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174efaee8675e4f497dd52a736d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178efaee8675e4f497dd52a736d",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0wqh1zyimDOeXUej4VxLd5"
+  }
+}

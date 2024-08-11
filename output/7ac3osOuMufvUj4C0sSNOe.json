@@ -1,0 +1,33 @@
+{
+  "id": "7ac3osOuMufvUj4C0sSNOe",
+  "name": "Embrasa",
+  "uri": "spotify:artist:7ac3osOuMufvUj4C0sSNOe",
+  "followers": {
+    "href": null,
+    "total": 210
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1ca6f2fabafa9cb8fc36d6a8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051741ca6f2fabafa9cb8fc36d6a8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1781ca6f2fabafa9cb8fc36d6a8",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ac3osOuMufvUj4C0sSNOe"
+  }
+}

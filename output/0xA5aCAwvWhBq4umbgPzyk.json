@@ -1,0 +1,33 @@
+{
+  "id": "0xA5aCAwvWhBq4umbgPzyk",
+  "name": "Foundlings",
+  "uri": "spotify:artist:0xA5aCAwvWhBq4umbgPzyk",
+  "followers": {
+    "href": null,
+    "total": 239
+  },
+  "genres": [
+    "uk post-punk revival"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf0bd976296e70c214e5ab5b4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f0bd976296e70c214e5ab5b4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f0bd976296e70c214e5ab5b4",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0xA5aCAwvWhBq4umbgPzyk"
+  }
+}

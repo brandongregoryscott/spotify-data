@@ -1,0 +1,33 @@
+{
+  "id": "5bXXbEDeVuOXRAQVN2Ut4j",
+  "name": "Confined",
+  "uri": "spotify:artist:5bXXbEDeVuOXRAQVN2Ut4j",
+  "followers": {
+    "href": null,
+    "total": 101
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733702adabd5236b5922b6b23c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023702adabd5236b5922b6b23c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513702adabd5236b5922b6b23c",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5bXXbEDeVuOXRAQVN2Ut4j"
+  }
+}

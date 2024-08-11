@@ -1,0 +1,33 @@
+{
+  "id": "2JLR7zLrB0ybP54e91pncW",
+  "name": "Dee Goodz",
+  "uri": "spotify:artist:2JLR7zLrB0ybP54e91pncW",
+  "followers": {
+    "href": null,
+    "total": 1848
+  },
+  "genres": [
+    "nashville hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd352772d625326f0af3c2ab7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d352772d625326f0af3c2ab7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d352772d625326f0af3c2ab7",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2JLR7zLrB0ybP54e91pncW"
+  }
+}

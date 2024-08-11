@@ -1,0 +1,33 @@
+{
+  "id": "28HLIB1HGgiMtzausyFWGu",
+  "name": "телеэкран",
+  "uri": "spotify:artist:28HLIB1HGgiMtzausyFWGu",
+  "followers": {
+    "href": null,
+    "total": 1840
+  },
+  "genres": [
+    "russian post-punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c17e1c7fb1756d4efe471a9b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c17e1c7fb1756d4efe471a9b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c17e1c7fb1756d4efe471a9b",
+      "width": 64
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/28HLIB1HGgiMtzausyFWGu"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "3BwLOoUpPMBe5iZo9b2Cuc",
+  "name": "Siop",
+  "uri": "spotify:artist:3BwLOoUpPMBe5iZo9b2Cuc",
+  "followers": {
+    "href": null,
+    "total": 371
+  },
+  "genres": [
+    "alternative metalcore",
+    "rap metalcore"
+  ],
+  "images": [
+    {
+      "height": 1087,
+      "url": "https://i.scdn.co/image/15c0f4af548ddd2d516729bc86519b2b7d781f4f",
+      "width": 1000
+    },
+    {
+      "height": 696,
+      "url": "https://i.scdn.co/image/b552b2e8be2ba42b592212f38db508e4ec8b60aa",
+      "width": 640
+    },
+    {
+      "height": 217,
+      "url": "https://i.scdn.co/image/6dd8f11be3aea961b0e9b3d955523d1ca4004901",
+      "width": 200
+    },
+    {
+      "height": 70,
+      "url": "https://i.scdn.co/image/8b28ec4a61fa1543fad52d82179695e0c87946bc",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3BwLOoUpPMBe5iZo9b2Cuc"
+  }
+}

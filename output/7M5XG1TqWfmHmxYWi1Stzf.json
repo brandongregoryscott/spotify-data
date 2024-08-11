@@ -1,0 +1,33 @@
+{
+  "id": "7M5XG1TqWfmHmxYWi1Stzf",
+  "name": "Players",
+  "uri": "spotify:artist:7M5XG1TqWfmHmxYWi1Stzf",
+  "followers": {
+    "href": null,
+    "total": 1094
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b55e630b5d4823a96d4453ca",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0273347edf6ab488686c47b7ad",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485173347edf6ab488686c47b7ad",
+      "width": 64
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7M5XG1TqWfmHmxYWi1Stzf"
+  }
+}

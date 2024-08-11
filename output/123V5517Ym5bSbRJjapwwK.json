@@ -1,0 +1,33 @@
+{
+  "id": "123V5517Ym5bSbRJjapwwK",
+  "name": "MISAJHU",
+  "uri": "spotify:artist:123V5517Ym5bSbRJjapwwK",
+  "followers": {
+    "href": null,
+    "total": 16
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb21b8e6d4e6dc2ef90e7b38ee",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517421b8e6d4e6dc2ef90e7b38ee",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17821b8e6d4e6dc2ef90e7b38ee",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/123V5517Ym5bSbRJjapwwK"
+  }
+}

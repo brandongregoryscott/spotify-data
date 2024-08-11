@@ -1,0 +1,33 @@
+{
+  "id": "59SbhD8wbUuxxV3YfM7Ddf",
+  "name": "Enoq",
+  "uri": "spotify:artist:59SbhD8wbUuxxV3YfM7Ddf",
+  "followers": {
+    "href": null,
+    "total": 7805
+  },
+  "genres": [
+    "german boom bap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb218d6e2baaab9b910714d990",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174218d6e2baaab9b910714d990",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178218d6e2baaab9b910714d990",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/59SbhD8wbUuxxV3YfM7Ddf"
+  }
+}

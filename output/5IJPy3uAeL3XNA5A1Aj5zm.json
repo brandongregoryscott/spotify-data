@@ -1,0 +1,33 @@
+{
+  "id": "5IJPy3uAeL3XNA5A1Aj5zm",
+  "name": "adluci",
+  "uri": "spotify:artist:5IJPy3uAeL3XNA5A1Aj5zm",
+  "followers": {
+    "href": null,
+    "total": 38
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb16f339383fb6d60332bc9fa8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517416f339383fb6d60332bc9fa8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17816f339383fb6d60332bc9fa8",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5IJPy3uAeL3XNA5A1Aj5zm"
+  }
+}

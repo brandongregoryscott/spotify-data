@@ -1,0 +1,33 @@
+{
+  "id": "22luOoez28tXjOdhoaFk4h",
+  "name": "Exz",
+  "uri": "spotify:artist:22luOoez28tXjOdhoaFk4h",
+  "followers": {
+    "href": null,
+    "total": 1260
+  },
+  "genres": [
+    "brazilian techno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb89be30ea9c274d2ec45c68eb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517489be30ea9c274d2ec45c68eb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17889be30ea9c274d2ec45c68eb",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/22luOoez28tXjOdhoaFk4h"
+  }
+}

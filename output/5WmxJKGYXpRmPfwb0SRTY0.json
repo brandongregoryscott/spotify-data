@@ -1,0 +1,34 @@
+{
+  "id": "5WmxJKGYXpRmPfwb0SRTY0",
+  "name": "Sweet Jane",
+  "uri": "spotify:artist:5WmxJKGYXpRmPfwb0SRTY0",
+  "followers": {
+    "href": null,
+    "total": 492
+  },
+  "genres": [
+    "dublin indie",
+    "psych gaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27359b138f3b33615556a0b9c51",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0259b138f3b33615556a0b9c51",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485159b138f3b33615556a0b9c51",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5WmxJKGYXpRmPfwb0SRTY0"
+  }
+}

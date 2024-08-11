@@ -1,0 +1,33 @@
+{
+  "id": "01Ker9fzZKketdIhqDuTbX",
+  "name": "Fényan",
+  "uri": "spotify:artist:01Ker9fzZKketdIhqDuTbX",
+  "followers": {
+    "href": null,
+    "total": 789
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdbd9fb212fa4bf2bf7f4eb59",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dbd9fb212fa4bf2bf7f4eb59",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dbd9fb212fa4bf2bf7f4eb59",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01Ker9fzZKketdIhqDuTbX"
+  }
+}

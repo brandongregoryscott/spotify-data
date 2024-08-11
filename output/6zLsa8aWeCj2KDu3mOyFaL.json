@@ -1,0 +1,33 @@
+{
+  "id": "6zLsa8aWeCj2KDu3mOyFaL",
+  "name": "Razen",
+  "uri": "spotify:artist:6zLsa8aWeCj2KDu3mOyFaL",
+  "followers": {
+    "href": null,
+    "total": 535
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27358d9cb1c71b38894f74774cd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02252ecfcc9bac527122cfaf21",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dbb12d23828dcaa501934595",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6zLsa8aWeCj2KDu3mOyFaL"
+  }
+}

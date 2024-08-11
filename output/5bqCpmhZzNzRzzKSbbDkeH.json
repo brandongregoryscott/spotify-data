@@ -1,0 +1,35 @@
+{
+  "id": "5bqCpmhZzNzRzzKSbbDkeH",
+  "name": "Hi-STANDARD",
+  "uri": "spotify:artist:5bqCpmhZzNzRzzKSbbDkeH",
+  "followers": {
+    "href": null,
+    "total": 190191
+  },
+  "genres": [
+    "j-punk",
+    "j-rock",
+    "japanese pop punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe55347ee0c152cf37b5cb391",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e55347ee0c152cf37b5cb391",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e55347ee0c152cf37b5cb391",
+      "width": 160
+    }
+  ],
+  "popularity": 46,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
+  }
+}

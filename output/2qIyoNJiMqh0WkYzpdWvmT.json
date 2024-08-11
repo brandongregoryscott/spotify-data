@@ -1,0 +1,33 @@
+{
+  "id": "2qIyoNJiMqh0WkYzpdWvmT",
+  "name": "Yummie",
+  "uri": "spotify:artist:2qIyoNJiMqh0WkYzpdWvmT",
+  "followers": {
+    "href": null,
+    "total": 318
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fba1979c1eda01888518c6be",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fba1979c1eda01888518c6be",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fba1979c1eda01888518c6be",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2qIyoNJiMqh0WkYzpdWvmT"
+  }
+}

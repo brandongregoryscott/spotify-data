@@ -1,0 +1,33 @@
+{
+  "id": "5CSMGDyOeNLyizI30QafN8",
+  "name": "Los Surfer Compadres",
+  "uri": "spotify:artist:5CSMGDyOeNLyizI30QafN8",
+  "followers": {
+    "href": null,
+    "total": 374
+  },
+  "genres": [
+    "latin surf rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfeb9f2e0b6a8b8de0195358a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174feb9f2e0b6a8b8de0195358a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178feb9f2e0b6a8b8de0195358a",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5CSMGDyOeNLyizI30QafN8"
+  }
+}

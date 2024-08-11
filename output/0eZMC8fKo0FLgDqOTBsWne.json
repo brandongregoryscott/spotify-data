@@ -1,0 +1,33 @@
+{
+  "id": "0eZMC8fKo0FLgDqOTBsWne",
+  "name": "NND",
+  "uri": "spotify:artist:0eZMC8fKo0FLgDqOTBsWne",
+  "followers": {
+    "href": null,
+    "total": 86
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb73cfcfaf87fac8db49780daa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517473cfcfaf87fac8db49780daa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17873cfcfaf87fac8db49780daa",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0eZMC8fKo0FLgDqOTBsWne"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4YqjVOkNsHEuChwGqbtiKh",
+  "name": "prodbyhr",
+  "uri": "spotify:artist:4YqjVOkNsHEuChwGqbtiKh",
+  "followers": {
+    "href": null,
+    "total": 212
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c8f032d28ddb7066010dff6d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c8f032d28ddb7066010dff6d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c8f032d28ddb7066010dff6d",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4YqjVOkNsHEuChwGqbtiKh"
+  }
+}

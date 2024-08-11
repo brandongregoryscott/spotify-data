@@ -1,0 +1,33 @@
+{
+  "id": "3Nx7D89Xt54ut15c4rfgnv",
+  "name": "BadB",
+  "uri": "spotify:artist:3Nx7D89Xt54ut15c4rfgnv",
+  "followers": {
+    "href": null,
+    "total": 532
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb04d78ea9c276841f0ad9b241",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517404d78ea9c276841f0ad9b241",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17804d78ea9c276841f0ad9b241",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Nx7D89Xt54ut15c4rfgnv"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0yKwBiAKD64U9DPtdHI4BF",
+  "name": "The Sentiments",
+  "uri": "spotify:artist:0yKwBiAKD64U9DPtdHI4BF",
+  "followers": {
+    "href": null,
+    "total": 1774
+  },
+  "genres": [
+    "souldies"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27344fe7b5522d78290276b7938",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0244fe7b5522d78290276b7938",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485144fe7b5522d78290276b7938",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0yKwBiAKD64U9DPtdHI4BF"
+  }
+}

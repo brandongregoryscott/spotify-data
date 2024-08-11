@@ -1,0 +1,33 @@
+{
+  "id": "03YHZxhMJ1D5PuwQokae0R",
+  "name": "The Twist Connection",
+  "uri": "spotify:artist:03YHZxhMJ1D5PuwQokae0R",
+  "followers": {
+    "href": null,
+    "total": 1562
+  },
+  "genres": [
+    "portuguese rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf0c3fd820fc4ef3aa187a65d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f0c3fd820fc4ef3aa187a65d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f0c3fd820fc4ef3aa187a65d",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03YHZxhMJ1D5PuwQokae0R"
+  }
+}

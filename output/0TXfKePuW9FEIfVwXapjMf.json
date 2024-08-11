@@ -1,0 +1,33 @@
+{
+  "id": "0TXfKePuW9FEIfVwXapjMf",
+  "name": "LaMiel",
+  "uri": "spotify:artist:0TXfKePuW9FEIfVwXapjMf",
+  "followers": {
+    "href": null,
+    "total": 113
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebad8c0647dcf78e25ba03fe43",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ad8c0647dcf78e25ba03fe43",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ad8c0647dcf78e25ba03fe43",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0TXfKePuW9FEIfVwXapjMf"
+  }
+}

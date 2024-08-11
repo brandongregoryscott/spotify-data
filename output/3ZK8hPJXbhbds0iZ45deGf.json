@@ -1,0 +1,33 @@
+{
+  "id": "3ZK8hPJXbhbds0iZ45deGf",
+  "name": "Fotre",
+  "uri": "spotify:artist:3ZK8hPJXbhbds0iZ45deGf",
+  "followers": {
+    "href": null,
+    "total": 52
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27375ae488f5a56fee314a68d2d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0275ae488f5a56fee314a68d2d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485175ae488f5a56fee314a68d2d",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ZK8hPJXbhbds0iZ45deGf"
+  }
+}

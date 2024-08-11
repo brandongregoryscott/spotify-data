@@ -1,0 +1,33 @@
+{
+  "id": "1pysdJYQUHmXeDPFuJqxAF",
+  "name": "Onsa Media",
+  "uri": "spotify:artist:1pysdJYQUHmXeDPFuJqxAF",
+  "followers": {
+    "href": null,
+    "total": 15458
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd601acd3c3d9e7e8f8ddf0b9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d601acd3c3d9e7e8f8ddf0b9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d601acd3c3d9e7e8f8ddf0b9",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1pysdJYQUHmXeDPFuJqxAF"
+  }
+}

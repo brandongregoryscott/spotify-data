@@ -1,0 +1,33 @@
+{
+  "id": "7Esfcz7eoxBTXURnDgh3AA",
+  "name": "Chill Bard",
+  "uri": "spotify:artist:7Esfcz7eoxBTXURnDgh3AA",
+  "followers": {
+    "href": null,
+    "total": 380
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb74e9e77837d5e759e6d4e578",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517474e9e77837d5e759e6d4e578",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17874e9e77837d5e759e6d4e578",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7Esfcz7eoxBTXURnDgh3AA"
+  }
+}

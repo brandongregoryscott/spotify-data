@@ -1,0 +1,33 @@
+{
+  "id": "0CYhPbeLjCnAjQZ2UqRU2g",
+  "name": "BK-One",
+  "uri": "spotify:artist:0CYhPbeLjCnAjQZ2UqRU2g",
+  "followers": {
+    "href": null,
+    "total": 2121
+  },
+  "genres": [
+    "minnesota hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273da71ed5b4ca6c7dbe873243c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02da71ed5b4ca6c7dbe873243c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851da71ed5b4ca6c7dbe873243c",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0CYhPbeLjCnAjQZ2UqRU2g"
+  }
+}

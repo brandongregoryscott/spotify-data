@@ -1,0 +1,35 @@
+{
+  "id": "0bXDktUgihGHdyqpwF86TG",
+  "name": "Jordin Post",
+  "uri": "spotify:artist:0bXDktUgihGHdyqpwF86TG",
+  "followers": {
+    "href": null,
+    "total": 5607
+  },
+  "genres": [
+    "melodic house",
+    "progressive house",
+    "progressive trance"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb58c80c932ed0d789b1b44aa2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517458c80c932ed0d789b1b44aa2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17858c80c932ed0d789b1b44aa2",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0bXDktUgihGHdyqpwF86TG"
+  }
+}

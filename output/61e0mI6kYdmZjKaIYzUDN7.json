@@ -1,0 +1,33 @@
+{
+  "id": "61e0mI6kYdmZjKaIYzUDN7",
+  "name": "Müsic World",
+  "uri": "spotify:artist:61e0mI6kYdmZjKaIYzUDN7",
+  "followers": {
+    "href": null,
+    "total": 22
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273787edcd70763d89362d61094",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02787edcd70763d89362d61094",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851787edcd70763d89362d61094",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/61e0mI6kYdmZjKaIYzUDN7"
+  }
+}

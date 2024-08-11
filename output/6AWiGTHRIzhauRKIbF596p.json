@@ -1,0 +1,33 @@
+{
+  "id": "6AWiGTHRIzhauRKIbF596p",
+  "name": "Jason Williams",
+  "uri": "spotify:artist:6AWiGTHRIzhauRKIbF596p",
+  "followers": {
+    "href": null,
+    "total": 67
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd4c1204df4d043e21e2fa9ff",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d4c1204df4d043e21e2fa9ff",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d4c1204df4d043e21e2fa9ff",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6AWiGTHRIzhauRKIbF596p"
+  }
+}

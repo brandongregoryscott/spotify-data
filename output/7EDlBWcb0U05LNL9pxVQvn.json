@@ -1,0 +1,35 @@
+{
+  "id": "7EDlBWcb0U05LNL9pxVQvn",
+  "name": "Mason",
+  "uri": "spotify:artist:7EDlBWcb0U05LNL9pxVQvn",
+  "followers": {
+    "href": null,
+    "total": 1823
+  },
+  "genres": [
+    "australian metal",
+    "australian thrash metal",
+    "new wave of thrash metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaee286e2183670b3ec16892b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aee286e2183670b3ec16892b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aee286e2183670b3ec16892b",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7EDlBWcb0U05LNL9pxVQvn"
+  }
+}

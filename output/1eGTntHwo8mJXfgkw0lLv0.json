@@ -1,0 +1,33 @@
+{
+  "id": "1eGTntHwo8mJXfgkw0lLv0",
+  "name": "Iván Barajas",
+  "uri": "spotify:artist:1eGTntHwo8mJXfgkw0lLv0",
+  "followers": {
+    "href": null,
+    "total": 63
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb36b3f110bea117f654d65824",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517436b3f110bea117f654d65824",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17836b3f110bea117f654d65824",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1eGTntHwo8mJXfgkw0lLv0"
+  }
+}

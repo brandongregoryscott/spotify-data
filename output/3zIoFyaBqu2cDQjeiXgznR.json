@@ -1,0 +1,33 @@
+{
+  "id": "3zIoFyaBqu2cDQjeiXgznR",
+  "name": "Domul",
+  "uri": "spotify:artist:3zIoFyaBqu2cDQjeiXgznR",
+  "followers": {
+    "href": null,
+    "total": 145
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb36bbb011b4792edeb5d49b74",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517436bbb011b4792edeb5d49b74",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17836bbb011b4792edeb5d49b74",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3zIoFyaBqu2cDQjeiXgznR"
+  }
+}

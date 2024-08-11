@@ -1,0 +1,34 @@
+{
+  "id": "0zdDQPBwdooqgEkMGe7Fdw",
+  "name": "Joonas Hauveli",
+  "uri": "spotify:artist:0zdDQPBwdooqgEkMGe7Fdw",
+  "followers": {
+    "href": null,
+    "total": 670
+  },
+  "genres": [
+    "finnish reggae",
+    "musiikkia lapista"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb088ba03944916bef10ef4cf2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174088ba03944916bef10ef4cf2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178088ba03944916bef10ef4cf2",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0zdDQPBwdooqgEkMGe7Fdw"
+  }
+}

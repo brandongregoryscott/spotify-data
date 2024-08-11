@@ -1,0 +1,33 @@
+{
+  "id": "6t7OhIfqAQP30UX4we9jXN",
+  "name": "Alf",
+  "uri": "spotify:artist:6t7OhIfqAQP30UX4we9jXN",
+  "followers": {
+    "href": null,
+    "total": 82
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e6e031c30f962bbf4df3f630",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e6e031c30f962bbf4df3f630",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e6e031c30f962bbf4df3f630",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6t7OhIfqAQP30UX4we9jXN"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "07rtdSVEyEvyrZi7waTyKq",
+  "name": "ioio!",
+  "uri": "spotify:artist:07rtdSVEyEvyrZi7waTyKq",
+  "followers": {
+    "href": null,
+    "total": 546
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb04b66c80d89854bdacebc289",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517404b66c80d89854bdacebc289",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17804b66c80d89854bdacebc289",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07rtdSVEyEvyrZi7waTyKq"
+  }
+}

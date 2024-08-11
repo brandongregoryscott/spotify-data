@@ -1,0 +1,33 @@
+{
+  "id": "7e93vjiprjbTTwS7p3Equk",
+  "name": "Byterz",
+  "uri": "spotify:artist:7e93vjiprjbTTwS7p3Equk",
+  "followers": {
+    "href": null,
+    "total": 123
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd875ac03ae0335fa137d4494",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d875ac03ae0335fa137d4494",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d875ac03ae0335fa137d4494",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7e93vjiprjbTTwS7p3Equk"
+  }
+}

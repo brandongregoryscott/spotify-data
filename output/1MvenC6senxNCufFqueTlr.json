@@ -1,0 +1,35 @@
+{
+  "id": "1MvenC6senxNCufFqueTlr",
+  "name": "Sven Weisemann",
+  "uri": "spotify:artist:1MvenC6senxNCufFqueTlr",
+  "followers": {
+    "href": null,
+    "total": 9490
+  },
+  "genres": [
+    "ambient dub techno",
+    "dub techno",
+    "german house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a182950e7a06650d71046e43",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a182950e7a06650d71046e43",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a182950e7a06650d71046e43",
+      "width": 64
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1MvenC6senxNCufFqueTlr"
+  }
+}

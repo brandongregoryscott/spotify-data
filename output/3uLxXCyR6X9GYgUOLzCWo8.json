@@ -1,0 +1,33 @@
+{
+  "id": "3uLxXCyR6X9GYgUOLzCWo8",
+  "name": "DAUNT",
+  "uri": "spotify:artist:3uLxXCyR6X9GYgUOLzCWo8",
+  "followers": {
+    "href": null,
+    "total": 881
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f83b301cf211eb1374924002",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f83b301cf211eb1374924002",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f83b301cf211eb1374924002",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3uLxXCyR6X9GYgUOLzCWo8"
+  }
+}

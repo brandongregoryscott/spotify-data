@@ -1,0 +1,33 @@
+{
+  "id": "02VydFHWNoCiYZe04j4Khr",
+  "name": "Trippo",
+  "uri": "spotify:artist:02VydFHWNoCiYZe04j4Khr",
+  "followers": {
+    "href": null,
+    "total": 27
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba50e472ae0c6bad80fdde046",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a50e472ae0c6bad80fdde046",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a50e472ae0c6bad80fdde046",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/02VydFHWNoCiYZe04j4Khr"
+  }
+}

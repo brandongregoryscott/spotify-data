@@ -1,0 +1,33 @@
+{
+  "id": "3dT8eOvvsMchlcFtIXS9zo",
+  "name": "ARTBABE",
+  "uri": "spotify:artist:3dT8eOvvsMchlcFtIXS9zo",
+  "followers": {
+    "href": null,
+    "total": 457
+  },
+  "genres": [
+    "schweizer rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf5babec37f11acd74f004489",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f5babec37f11acd74f004489",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f5babec37f11acd74f004489",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3dT8eOvvsMchlcFtIXS9zo"
+  }
+}

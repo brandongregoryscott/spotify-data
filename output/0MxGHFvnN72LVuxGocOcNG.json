@@ -1,0 +1,33 @@
+{
+  "id": "0MxGHFvnN72LVuxGocOcNG",
+  "name": "Kratzen",
+  "uri": "spotify:artist:0MxGHFvnN72LVuxGocOcNG",
+  "followers": {
+    "href": null,
+    "total": 509
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb44e9a71179924d9d7d92613f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517444e9a71179924d9d7d92613f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17844e9a71179924d9d7d92613f",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0MxGHFvnN72LVuxGocOcNG"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "282zbZdRTnT3vVaBV3ZNRY",
+  "name": "Moway",
+  "uri": "spotify:artist:282zbZdRTnT3vVaBV3ZNRY",
+  "followers": {
+    "href": null,
+    "total": 995
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb649db2edbddb6ce5e43aa32c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174649db2edbddb6ce5e43aa32c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178649db2edbddb6ce5e43aa32c",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/282zbZdRTnT3vVaBV3ZNRY"
+  }
+}

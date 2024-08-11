@@ -1,0 +1,33 @@
+{
+  "id": "6IuIhkCK8SjoSJskiCZdp0",
+  "name": "Tripp St.",
+  "uri": "spotify:artist:6IuIhkCK8SjoSJskiCZdp0",
+  "followers": {
+    "href": null,
+    "total": 15484
+  },
+  "genres": [
+    "glitch hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebda5309954ce6fe21d00ed492",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174da5309954ce6fe21d00ed492",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178da5309954ce6fe21d00ed492",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6IuIhkCK8SjoSJskiCZdp0"
+  }
+}

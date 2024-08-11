@@ -1,0 +1,33 @@
+{
+  "id": "1f6v2C8HdRMY9v9e9QTUvu",
+  "name": "Potter",
+  "uri": "spotify:artist:1f6v2C8HdRMY9v9e9QTUvu",
+  "followers": {
+    "href": null,
+    "total": 329
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb95e1262a242ef2d44a25f3cd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517495e1262a242ef2d44a25f3cd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17895e1262a242ef2d44a25f3cd",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1f6v2C8HdRMY9v9e9QTUvu"
+  }
+}

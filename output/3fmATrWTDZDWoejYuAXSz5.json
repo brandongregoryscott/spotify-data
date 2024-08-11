@@ -1,0 +1,33 @@
+{
+  "id": "3fmATrWTDZDWoejYuAXSz5",
+  "name": "Media South",
+  "uri": "spotify:artist:3fmATrWTDZDWoejYuAXSz5",
+  "followers": {
+    "href": null,
+    "total": 30
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfda051bf08ad420d809467dd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fda051bf08ad420d809467dd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fda051bf08ad420d809467dd",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3fmATrWTDZDWoejYuAXSz5"
+  }
+}

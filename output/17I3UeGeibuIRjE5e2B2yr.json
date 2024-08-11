@@ -1,0 +1,33 @@
+{
+  "id": "17I3UeGeibuIRjE5e2B2yr",
+  "name": "Wildr",
+  "uri": "spotify:artist:17I3UeGeibuIRjE5e2B2yr",
+  "followers": {
+    "href": null,
+    "total": 139
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb73837e77d61db57fff8fff60",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517473837e77d61db57fff8fff60",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17873837e77d61db57fff8fff60",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/17I3UeGeibuIRjE5e2B2yr"
+  }
+}

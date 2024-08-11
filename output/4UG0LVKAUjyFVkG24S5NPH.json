@@ -1,0 +1,33 @@
+{
+  "id": "4UG0LVKAUjyFVkG24S5NPH",
+  "name": "Aaron Wolf",
+  "uri": "spotify:artist:4UG0LVKAUjyFVkG24S5NPH",
+  "followers": {
+    "href": null,
+    "total": 1830
+  },
+  "genres": [
+    "west coast reggae"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb73ab27181a06c77cebb845d9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517473ab27181a06c77cebb845d9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17873ab27181a06c77cebb845d9",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4UG0LVKAUjyFVkG24S5NPH"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "70NnkGhZ3c3r4pzdS0NjKy",
+  "name": "Peckerhead",
+  "uri": "spotify:artist:70NnkGhZ3c3r4pzdS0NjKy",
+  "followers": {
+    "href": null,
+    "total": 2097
+  },
+  "genres": [
+    "gabber"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cbc9954260e8dc9274a5addf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cbc9954260e8dc9274a5addf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cbc9954260e8dc9274a5addf",
+      "width": 64
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/70NnkGhZ3c3r4pzdS0NjKy"
+  }
+}

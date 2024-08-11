@@ -1,0 +1,33 @@
+{
+  "id": "1dxpUa9vJcG4EFSxXTt9hR",
+  "name": "Backend4p",
+  "uri": "spotify:artist:1dxpUa9vJcG4EFSxXTt9hR",
+  "followers": {
+    "href": null,
+    "total": 220
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c3002379138ede7d910e00ef",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c3002379138ede7d910e00ef",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c0f53d53ce0bfeaa0a6f431b",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1dxpUa9vJcG4EFSxXTt9hR"
+  }
+}

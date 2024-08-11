@@ -1,0 +1,34 @@
+{
+  "id": "6QspqPUkgFTqdCEeenG4dt",
+  "name": "Look What I Did",
+  "uri": "spotify:artist:6QspqPUkgFTqdCEeenG4dt",
+  "followers": {
+    "href": null,
+    "total": 1872
+  },
+  "genres": [
+    "mathcore",
+    "tennessee metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd7d724f0b2242909a46a527c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d7d724f0b2242909a46a527c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d7d724f0b2242909a46a527c",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6QspqPUkgFTqdCEeenG4dt"
+  }
+}

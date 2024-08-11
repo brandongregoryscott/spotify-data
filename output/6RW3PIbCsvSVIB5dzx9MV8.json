@@ -1,0 +1,39 @@
+{
+  "id": "6RW3PIbCsvSVIB5dzx9MV8",
+  "name": "Secret Sphere",
+  "uri": "spotify:artist:6RW3PIbCsvSVIB5dzx9MV8",
+  "followers": {
+    "href": null,
+    "total": 23653
+  },
+  "genres": [
+    "italian metal",
+    "italian power metal",
+    "melodic metal",
+    "power metal",
+    "progressive metal",
+    "symphonic metal",
+    "symphonic power metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb01585e993481369c52358e71",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517401585e993481369c52358e71",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17801585e993481369c52358e71",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6RW3PIbCsvSVIB5dzx9MV8"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "3nDZWi1wEZpaiEEa9jFLwI",
+  "name": "Jack Rabbit Slim",
+  "uri": "spotify:artist:3nDZWi1wEZpaiEEa9jFLwI",
+  "followers": {
+    "href": null,
+    "total": 7030
+  },
+  "genres": [
+    "neo-rockabilly",
+    "uk rockabilly"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273aab8f02a761f954972576204",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02aab8f02a761f954972576204",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851aab8f02a761f954972576204",
+      "width": 64
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3nDZWi1wEZpaiEEa9jFLwI"
+  }
+}

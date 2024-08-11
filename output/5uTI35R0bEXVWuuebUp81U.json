@@ -1,0 +1,33 @@
+{
+  "id": "5uTI35R0bEXVWuuebUp81U",
+  "name": "DISET",
+  "uri": "spotify:artist:5uTI35R0bEXVWuuebUp81U",
+  "followers": {
+    "href": null,
+    "total": 135
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb36ad26c9583211681af4e02c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517436ad26c9583211681af4e02c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17836ad26c9583211681af4e02c",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5uTI35R0bEXVWuuebUp81U"
+  }
+}

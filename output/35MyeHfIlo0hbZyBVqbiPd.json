@@ -1,0 +1,34 @@
+{
+  "id": "35MyeHfIlo0hbZyBVqbiPd",
+  "name": "Nova Koma",
+  "uri": "spotify:artist:35MyeHfIlo0hbZyBVqbiPd",
+  "followers": {
+    "href": null,
+    "total": 968
+  },
+  "genres": [
+    "latvian indie",
+    "latvian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeeffdcad8cb16ae8f5539c52",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eeffdcad8cb16ae8f5539c52",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eeffdcad8cb16ae8f5539c52",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/35MyeHfIlo0hbZyBVqbiPd"
+  }
+}

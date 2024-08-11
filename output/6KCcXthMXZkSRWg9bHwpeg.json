@@ -1,0 +1,33 @@
+{
+  "id": "6KCcXthMXZkSRWg9bHwpeg",
+  "name": "Capicua",
+  "uri": "spotify:artist:6KCcXthMXZkSRWg9bHwpeg",
+  "followers": {
+    "href": null,
+    "total": 58
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cad3daeecedaaff16a2a227d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cad3daeecedaaff16a2a227d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cad3daeecedaaff16a2a227d",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6KCcXthMXZkSRWg9bHwpeg"
+  }
+}

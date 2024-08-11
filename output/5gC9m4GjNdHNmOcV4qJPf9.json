@@ -1,0 +1,33 @@
+{
+  "id": "5gC9m4GjNdHNmOcV4qJPf9",
+  "name": "Geistform",
+  "uri": "spotify:artist:5gC9m4GjNdHNmOcV4qJPf9",
+  "followers": {
+    "href": null,
+    "total": 2217
+  },
+  "genres": [
+    "power noise"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d823b6e256c27ff4ac808271",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d823b6e256c27ff4ac808271",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d823b6e256c27ff4ac808271",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5gC9m4GjNdHNmOcV4qJPf9"
+  }
+}

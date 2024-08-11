@@ -1,0 +1,33 @@
+{
+  "id": "4JvdwPl98s6el8d8TSkz5Y",
+  "name": "Arken",
+  "uri": "spotify:artist:4JvdwPl98s6el8d8TSkz5Y",
+  "followers": {
+    "href": null,
+    "total": 183
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb67d1110a9389ab368adf65e4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517467d1110a9389ab368adf65e4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17867d1110a9389ab368adf65e4",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4JvdwPl98s6el8d8TSkz5Y"
+  }
+}

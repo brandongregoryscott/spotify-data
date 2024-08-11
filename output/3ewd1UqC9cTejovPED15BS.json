@@ -1,0 +1,33 @@
+{
+  "id": "3ewd1UqC9cTejovPED15BS",
+  "name": "Heartist",
+  "uri": "spotify:artist:3ewd1UqC9cTejovPED15BS",
+  "followers": {
+    "href": null,
+    "total": 29592
+  },
+  "genres": [
+    "post-screamo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb55b0ac9672a5ea1aff06dbc6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517455b0ac9672a5ea1aff06dbc6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17855b0ac9672a5ea1aff06dbc6",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ewd1UqC9cTejovPED15BS"
+  }
+}

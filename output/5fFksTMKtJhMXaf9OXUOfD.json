@@ -1,0 +1,34 @@
+{
+  "id": "5fFksTMKtJhMXaf9OXUOfD",
+  "name": "Resolute",
+  "uri": "spotify:artist:5fFksTMKtJhMXaf9OXUOfD",
+  "followers": {
+    "href": null,
+    "total": 1438
+  },
+  "genres": [
+    "hardstyle",
+    "rawstyle"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfd81dfac311d9abf7756d7b9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fd81dfac311d9abf7756d7b9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fd81dfac311d9abf7756d7b9",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5fFksTMKtJhMXaf9OXUOfD"
+  }
+}

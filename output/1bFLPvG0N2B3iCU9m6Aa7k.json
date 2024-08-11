@@ -1,0 +1,33 @@
+{
+  "id": "1bFLPvG0N2B3iCU9m6Aa7k",
+  "name": "Hi-5",
+  "uri": "spotify:artist:1bFLPvG0N2B3iCU9m6Aa7k",
+  "followers": {
+    "href": null,
+    "total": 126
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27383e3b515f972c19d236dd627",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0283e3b515f972c19d236dd627",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485183e3b515f972c19d236dd627",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1bFLPvG0N2B3iCU9m6Aa7k"
+  }
+}

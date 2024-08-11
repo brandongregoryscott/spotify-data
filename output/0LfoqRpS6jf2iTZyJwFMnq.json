@@ -1,0 +1,33 @@
+{
+  "id": "0LfoqRpS6jf2iTZyJwFMnq",
+  "name": "FK Elliot",
+  "uri": "spotify:artist:0LfoqRpS6jf2iTZyJwFMnq",
+  "followers": {
+    "href": null,
+    "total": 310
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb83eff5992c184ef934fe6cc9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517483eff5992c184ef934fe6cc9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17883eff5992c184ef934fe6cc9",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0LfoqRpS6jf2iTZyJwFMnq"
+  }
+}

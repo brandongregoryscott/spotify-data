@@ -1,0 +1,34 @@
+{
+  "id": "6KZN67WFv4KQC5kWnCJePK",
+  "name": "Rapaz Ego",
+  "uri": "spotify:artist:6KZN67WFv4KQC5kWnCJePK",
+  "followers": {
+    "href": null,
+    "total": 5043
+  },
+  "genres": [
+    "portuguese indie",
+    "portuguese rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdc66f5f3a591765f37c2cd25",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dc66f5f3a591765f37c2cd25",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dc66f5f3a591765f37c2cd25",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6KZN67WFv4KQC5kWnCJePK"
+  }
+}

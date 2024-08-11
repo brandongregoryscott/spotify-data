@@ -1,0 +1,33 @@
+{
+  "id": "3AHGVrmdT8WxncUfz25Iwq",
+  "name": "Syphoned",
+  "uri": "spotify:artist:3AHGVrmdT8WxncUfz25Iwq",
+  "followers": {
+    "href": null,
+    "total": 85
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd1126c5de0e9c8514fc73d23",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d1126c5de0e9c8514fc73d23",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d1126c5de0e9c8514fc73d23",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3AHGVrmdT8WxncUfz25Iwq"
+  }
+}

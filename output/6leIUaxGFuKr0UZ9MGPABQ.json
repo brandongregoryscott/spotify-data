@@ -1,0 +1,33 @@
+{
+  "id": "6leIUaxGFuKr0UZ9MGPABQ",
+  "name": "Clayton King",
+  "uri": "spotify:artist:6leIUaxGFuKr0UZ9MGPABQ",
+  "followers": {
+    "href": null,
+    "total": 11202
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf20948668145cbc1559f085a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f20948668145cbc1559f085a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f20948668145cbc1559f085a",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6leIUaxGFuKr0UZ9MGPABQ"
+  }
+}

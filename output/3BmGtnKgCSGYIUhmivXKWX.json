@@ -1,0 +1,35 @@
+{
+  "id": "3BmGtnKgCSGYIUhmivXKWX",
+  "name": "Kelly Clarkson",
+  "uri": "spotify:artist:3BmGtnKgCSGYIUhmivXKWX",
+  "followers": {
+    "href": null,
+    "total": 10540012
+  },
+  "genres": [
+    "dance pop",
+    "pop",
+    "talent show"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb305a7cc6760b53a67aaae19d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174305a7cc6760b53a67aaae19d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178305a7cc6760b53a67aaae19d",
+      "width": 160
+    }
+  ],
+  "popularity": 72,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+  }
+}

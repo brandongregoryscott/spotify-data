@@ -1,0 +1,36 @@
+{
+  "id": "01lz5VBfkMFDteSA9pKJuP",
+  "name": "The Click Five",
+  "uri": "spotify:artist:01lz5VBfkMFDteSA9pKJuP",
+  "followers": {
+    "href": null,
+    "total": 246742
+  },
+  "genres": [
+    "boy band",
+    "neon pop punk",
+    "pixie",
+    "pop punk"
+  ],
+  "images": [
+    {
+      "height": 402,
+      "url": "https://i.scdn.co/image/91a8ed07a93bda12047370631501e8138a56ba79",
+      "width": 500
+    },
+    {
+      "height": 161,
+      "url": "https://i.scdn.co/image/94b947cd16c706cc0b9cf671eabb48fc874f0032",
+      "width": 200
+    },
+    {
+      "height": 51,
+      "url": "https://i.scdn.co/image/198e4fe7c7aadbc612ca55da43ca342652f162c3",
+      "width": 63
+    }
+  ],
+  "popularity": 48,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01lz5VBfkMFDteSA9pKJuP"
+  }
+}

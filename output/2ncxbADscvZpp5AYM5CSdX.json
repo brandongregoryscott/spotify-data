@@ -1,0 +1,34 @@
+{
+  "id": "2ncxbADscvZpp5AYM5CSdX",
+  "name": "Solutio",
+  "uri": "spotify:artist:2ncxbADscvZpp5AYM5CSdX",
+  "followers": {
+    "href": null,
+    "total": 1112
+  },
+  "genres": [
+    "euphoric hardstyle",
+    "rawstyle"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcb7cf99ccf2ed5cd29ae67e4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cb7cf99ccf2ed5cd29ae67e4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cb7cf99ccf2ed5cd29ae67e4",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ncxbADscvZpp5AYM5CSdX"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1GBQ45lJ5LdDRnJUahdEu4",
+  "name": "Michael Pos",
+  "uri": "spotify:artist:1GBQ45lJ5LdDRnJUahdEu4",
+  "followers": {
+    "href": null,
+    "total": 156
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb82550cee0768a278ab90aec8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517482550cee0768a278ab90aec8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17882550cee0768a278ab90aec8",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1GBQ45lJ5LdDRnJUahdEu4"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "465eDCqhy75fmeqc4L0RNU",
+  "name": "Eyes of Others",
+  "uri": "spotify:artist:465eDCqhy75fmeqc4L0RNU",
+  "followers": {
+    "href": null,
+    "total": 1376
+  },
+  "genres": [
+    "scottish techno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb216253c3c3a28bd3b5ddef3d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174216253c3c3a28bd3b5ddef3d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178216253c3c3a28bd3b5ddef3d",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/465eDCqhy75fmeqc4L0RNU"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "0i5OIadiQAb6i5RVLUt8Fk",
+  "name": "Samesugas",
+  "uri": "spotify:artist:0i5OIadiQAb6i5RVLUt8Fk",
+  "followers": {
+    "href": null,
+    "total": 264
+  },
+  "genres": [
+    "galego",
+    "punk galego"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb93a316d3bee0c6105a7c8a09",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517493a316d3bee0c6105a7c8a09",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17893a316d3bee0c6105a7c8a09",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0i5OIadiQAb6i5RVLUt8Fk"
+  }
+}

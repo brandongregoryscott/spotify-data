@@ -1,0 +1,33 @@
+{
+  "id": "6XyZEbc0xyFDQS5OAtdnrV",
+  "name": "Syndie",
+  "uri": "spotify:artist:6XyZEbc0xyFDQS5OAtdnrV",
+  "followers": {
+    "href": null,
+    "total": 130
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebff1bd54d527e30177d26f4b6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ff1bd54d527e30177d26f4b6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ff1bd54d527e30177d26f4b6",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6XyZEbc0xyFDQS5OAtdnrV"
+  }
+}

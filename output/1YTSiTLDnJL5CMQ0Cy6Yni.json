@@ -1,0 +1,33 @@
+{
+  "id": "1YTSiTLDnJL5CMQ0Cy6Yni",
+  "name": "marode",
+  "uri": "spotify:artist:1YTSiTLDnJL5CMQ0Cy6Yni",
+  "followers": {
+    "href": null,
+    "total": 309
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb883290add1aa0449658f3197",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174883290add1aa0449658f3197",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178883290add1aa0449658f3197",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1YTSiTLDnJL5CMQ0Cy6Yni"
+  }
+}

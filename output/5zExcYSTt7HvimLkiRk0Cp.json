@@ -1,0 +1,33 @@
+{
+  "id": "5zExcYSTt7HvimLkiRk0Cp",
+  "name": "Blue Slate",
+  "uri": "spotify:artist:5zExcYSTt7HvimLkiRk0Cp",
+  "followers": {
+    "href": null,
+    "total": 521
+  },
+  "genres": [
+    "irish shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb75dead8fff50b680ed9f47c9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517475dead8fff50b680ed9f47c9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17875dead8fff50b680ed9f47c9",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5zExcYSTt7HvimLkiRk0Cp"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "44ocyaoesOgc5KjTR3D2Ob",
+  "name": "Art Themen",
+  "uri": "spotify:artist:44ocyaoesOgc5KjTR3D2Ob",
+  "followers": {
+    "href": null,
+    "total": 345
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27381ae129745659a3a08573bcc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0281ae129745659a3a08573bcc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485181ae129745659a3a08573bcc",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/44ocyaoesOgc5KjTR3D2Ob"
+  }
+}

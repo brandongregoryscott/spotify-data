@@ -1,0 +1,33 @@
+{
+  "id": "60rRASfjRQDHGKsnmef9oN",
+  "name": "薄荷葉",
+  "uri": "spotify:artist:60rRASfjRQDHGKsnmef9oN",
+  "followers": {
+    "href": null,
+    "total": 591
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb86fc420fd0130f57949582ad",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517486fc420fd0130f57949582ad",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17886fc420fd0130f57949582ad",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/60rRASfjRQDHGKsnmef9oN"
+  }
+}

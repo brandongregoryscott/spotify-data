@@ -1,0 +1,33 @@
+{
+  "id": "4wL43zal5A0AOJwhlYsJZ1",
+  "name": "The Dreggs",
+  "uri": "spotify:artist:4wL43zal5A0AOJwhlYsJZ1",
+  "followers": {
+    "href": null,
+    "total": 64710
+  },
+  "genres": [
+    "australian indie folk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfed5fe357c3b2d70d1b4917a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fed5fe357c3b2d70d1b4917a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fed5fe357c3b2d70d1b4917a",
+      "width": 160
+    }
+  ],
+  "popularity": 51,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
+  }
+}

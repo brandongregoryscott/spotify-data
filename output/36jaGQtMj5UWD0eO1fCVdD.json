@@ -1,0 +1,34 @@
+{
+  "id": "36jaGQtMj5UWD0eO1fCVdD",
+  "name": "Joel Adams",
+  "uri": "spotify:artist:36jaGQtMj5UWD0eO1fCVdD",
+  "followers": {
+    "href": null,
+    "total": 194103
+  },
+  "genres": [
+    "australian pop",
+    "pop soul"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb87462cbff7c782a4147b2e8f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517487462cbff7c782a4147b2e8f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17887462cbff7c782a4147b2e8f",
+      "width": 160
+    }
+  ],
+  "popularity": 49,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/36jaGQtMj5UWD0eO1fCVdD"
+  }
+}

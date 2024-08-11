@@ -1,0 +1,33 @@
+{
+  "id": "1aYt7enuXEgkix8BMeUdUs",
+  "name": "Form Constant",
+  "uri": "spotify:artist:1aYt7enuXEgkix8BMeUdUs",
+  "followers": {
+    "href": null,
+    "total": 83
+  },
+  "genres": [
+    "alabama indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e0ffbde48b21a50d9eb3f008",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e0ffbde48b21a50d9eb3f008",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e0ffbde48b21a50d9eb3f008",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1aYt7enuXEgkix8BMeUdUs"
+  }
+}

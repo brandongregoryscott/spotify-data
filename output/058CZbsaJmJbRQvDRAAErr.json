@@ -1,0 +1,33 @@
+{
+  "id": "058CZbsaJmJbRQvDRAAErr",
+  "name": "Maxx",
+  "uri": "spotify:artist:058CZbsaJmJbRQvDRAAErr",
+  "followers": {
+    "href": null,
+    "total": 413
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb247d3f984c34606386954aed",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174247d3f984c34606386954aed",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178247d3f984c34606386954aed",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr"
+  }
+}

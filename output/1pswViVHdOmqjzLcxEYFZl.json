@@ -1,0 +1,33 @@
+{
+  "id": "1pswViVHdOmqjzLcxEYFZl",
+  "name": "The Prolets",
+  "uri": "spotify:artist:1pswViVHdOmqjzLcxEYFZl",
+  "followers": {
+    "href": null,
+    "total": 585
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ff24a313affa08b993dc5c93",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ff24a313affa08b993dc5c93",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ff24a313affa08b993dc5c93",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1pswViVHdOmqjzLcxEYFZl"
+  }
+}

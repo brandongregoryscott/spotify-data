@@ -1,0 +1,33 @@
+{
+  "id": "0ARMiIHgQ8wrrs4wrax6LY",
+  "name": "Una Vida",
+  "uri": "spotify:artist:0ARMiIHgQ8wrrs4wrax6LY",
+  "followers": {
+    "href": null,
+    "total": 278
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb02333bbd6f2f1e4ec293d009",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517402333bbd6f2f1e4ec293d009",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17802333bbd6f2f1e4ec293d009",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ARMiIHgQ8wrrs4wrax6LY"
+  }
+}

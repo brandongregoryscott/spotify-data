@@ -1,0 +1,33 @@
+{
+  "id": "2JOagIjMl7sxPMUppGNQ5j",
+  "name": "Hey Slow",
+  "uri": "spotify:artist:2JOagIjMl7sxPMUppGNQ5j",
+  "followers": {
+    "href": null,
+    "total": 84
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd3555d0edff62a1555db02cd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d3555d0edff62a1555db02cd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d3555d0edff62a1555db02cd",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2JOagIjMl7sxPMUppGNQ5j"
+  }
+}

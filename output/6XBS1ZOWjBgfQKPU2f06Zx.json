@@ -1,0 +1,33 @@
+{
+  "id": "6XBS1ZOWjBgfQKPU2f06Zx",
+  "name": "Kate Nord",
+  "uri": "spotify:artist:6XBS1ZOWjBgfQKPU2f06Zx",
+  "followers": {
+    "href": null,
+    "total": 584
+  },
+  "genres": [
+    "fallen angel"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb95f3a31d405c7e52eee39fb4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517495f3a31d405c7e52eee39fb4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17895f3a31d405c7e52eee39fb4",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6XBS1ZOWjBgfQKPU2f06Zx"
+  }
+}

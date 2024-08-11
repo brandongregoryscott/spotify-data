@@ -1,0 +1,33 @@
+{
+  "id": "1hymAvQpXitw9D1vkkzRY0",
+  "name": "Psilo",
+  "uri": "spotify:artist:1hymAvQpXitw9D1vkkzRY0",
+  "followers": {
+    "href": null,
+    "total": 331
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb446f0227220221809fe8707d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174446f0227220221809fe8707d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178446f0227220221809fe8707d",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1hymAvQpXitw9D1vkkzRY0"
+  }
+}

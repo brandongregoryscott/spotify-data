@@ -1,0 +1,33 @@
+{
+  "id": "42swKjMv1tj0BxYCHNkLez",
+  "name": "MU!",
+  "uri": "spotify:artist:42swKjMv1tj0BxYCHNkLez",
+  "followers": {
+    "href": null,
+    "total": 15
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb36fffcaa1c46cf31e4a36c0a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517436fffcaa1c46cf31e4a36c0a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17836fffcaa1c46cf31e4a36c0a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/42swKjMv1tj0BxYCHNkLez"
+  }
+}

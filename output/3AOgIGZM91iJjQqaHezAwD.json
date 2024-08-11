@@ -1,0 +1,33 @@
+{
+  "id": "3AOgIGZM91iJjQqaHezAwD",
+  "name": "Nevertheless",
+  "uri": "spotify:artist:3AOgIGZM91iJjQqaHezAwD",
+  "followers": {
+    "href": null,
+    "total": 13192
+  },
+  "genres": [
+    "alternative pop rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735c791c766cbdc9d1e2e5321e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025c791c766cbdc9d1e2e5321e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515c791c766cbdc9d1e2e5321e",
+      "width": 64
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3AOgIGZM91iJjQqaHezAwD"
+  }
+}

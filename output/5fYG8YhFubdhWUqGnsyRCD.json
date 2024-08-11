@@ -1,0 +1,33 @@
+{
+  "id": "5fYG8YhFubdhWUqGnsyRCD",
+  "name": "Goodbye Sky Harbour",
+  "uri": "spotify:artist:5fYG8YhFubdhWUqGnsyRCD",
+  "followers": {
+    "href": null,
+    "total": 1124
+  },
+  "genres": [
+    "pop emo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736fa50272cbb0504b645b120b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026fa50272cbb0504b645b120b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516fa50272cbb0504b645b120b",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5fYG8YhFubdhWUqGnsyRCD"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0teVTDtWrhqfHAJO2vlSRr",
+  "name": "John Hancock",
+  "uri": "spotify:artist:0teVTDtWrhqfHAJO2vlSRr",
+  "followers": {
+    "href": null,
+    "total": 113
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273da7ecc8a6eafb9e0b99c75a4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02da7ecc8a6eafb9e0b99c75a4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851da7ecc8a6eafb9e0b99c75a4",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0teVTDtWrhqfHAJO2vlSRr"
+  }
+}

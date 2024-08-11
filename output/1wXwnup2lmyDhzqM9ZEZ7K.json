@@ -1,0 +1,33 @@
+{
+  "id": "1wXwnup2lmyDhzqM9ZEZ7K",
+  "name": "Subcon",
+  "uri": "spotify:artist:1wXwnup2lmyDhzqM9ZEZ7K",
+  "followers": {
+    "href": null,
+    "total": 1197
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcbbeefaae0c2ce05ed8d2701",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cbbeefaae0c2ce05ed8d2701",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cbbeefaae0c2ce05ed8d2701",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1wXwnup2lmyDhzqM9ZEZ7K"
+  }
+}

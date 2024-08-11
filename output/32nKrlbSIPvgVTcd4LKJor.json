@@ -1,0 +1,33 @@
+{
+  "id": "32nKrlbSIPvgVTcd4LKJor",
+  "name": "Lil Saint",
+  "uri": "spotify:artist:32nKrlbSIPvgVTcd4LKJor",
+  "followers": {
+    "href": null,
+    "total": 1861
+  },
+  "genres": [
+    "dutch trap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb24cc3da096ef01f54b19c333",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517424cc3da096ef01f54b19c333",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17824cc3da096ef01f54b19c333",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/32nKrlbSIPvgVTcd4LKJor"
+  }
+}

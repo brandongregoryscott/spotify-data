@@ -1,0 +1,33 @@
+{
+  "id": "3RN62o4V2ICCud4wWdDCrq",
+  "name": "Saskin S",
+  "uri": "spotify:artist:3RN62o4V2ICCud4wWdDCrq",
+  "followers": {
+    "href": null,
+    "total": 131
+  },
+  "genres": [
+    "norwegian house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb975578d6c94ac0541ef4e757",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174975578d6c94ac0541ef4e757",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178975578d6c94ac0541ef4e757",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3RN62o4V2ICCud4wWdDCrq"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7qV2eOES5TDJzM9ShXo6Dp",
+  "name": "Seriously Fun",
+  "uri": "spotify:artist:7qV2eOES5TDJzM9ShXo6Dp",
+  "followers": {
+    "href": null,
+    "total": 208
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb792620c9b09f59281214ff8c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174792620c9b09f59281214ff8c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178792620c9b09f59281214ff8c",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7qV2eOES5TDJzM9ShXo6Dp"
+  }
+}

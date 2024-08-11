@@ -1,0 +1,33 @@
+{
+  "id": "2kNd4eUHYgktppMZNRswrz",
+  "name": "Afonso Cabral",
+  "uri": "spotify:artist:2kNd4eUHYgktppMZNRswrz",
+  "followers": {
+    "href": null,
+    "total": 1215
+  },
+  "genres": [
+    "portuguese indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb582b0ae10e10e30ae369ba02",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174582b0ae10e10e30ae369ba02",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178582b0ae10e10e30ae369ba02",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2kNd4eUHYgktppMZNRswrz"
+  }
+}

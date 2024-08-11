@@ -1,0 +1,34 @@
+{
+  "id": "2OHv7sOf5ut7lDKGpHR3nC",
+  "name": "NVM",
+  "uri": "spotify:artist:2OHv7sOf5ut7lDKGpHR3nC",
+  "followers": {
+    "href": null,
+    "total": 5086
+  },
+  "genres": [
+    "vietnamese hip hop",
+    "vietnamese melodic rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb345942ade0bdb4a7ff8a5bda",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174345942ade0bdb4a7ff8a5bda",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178345942ade0bdb4a7ff8a5bda",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2OHv7sOf5ut7lDKGpHR3nC"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "35vIc2ouHmc44KLI5aLbfi",
+  "name": "Mosaic Light",
+  "uri": "spotify:artist:35vIc2ouHmc44KLI5aLbfi",
+  "followers": {
+    "href": null,
+    "total": 161
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb135e4abb7df0e3c3eb12e4f4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174135e4abb7df0e3c3eb12e4f4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178135e4abb7df0e3c3eb12e4f4",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/35vIc2ouHmc44KLI5aLbfi"
+  }
+}

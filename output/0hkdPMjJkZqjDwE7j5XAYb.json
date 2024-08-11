@@ -1,0 +1,33 @@
+{
+  "id": "0hkdPMjJkZqjDwE7j5XAYb",
+  "name": "Bon Enfant",
+  "uri": "spotify:artist:0hkdPMjJkZqjDwE7j5XAYb",
+  "followers": {
+    "href": null,
+    "total": 9770
+  },
+  "genres": [
+    "indie quebecois"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebece4c330230e9ea93c23a5f8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ece4c330230e9ea93c23a5f8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ece4c330230e9ea93c23a5f8",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
+  }
+}

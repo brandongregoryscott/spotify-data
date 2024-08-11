@@ -1,0 +1,33 @@
+{
+  "id": "476Si1KDn4xlsFMT4lfkIc",
+  "name": "Marz One",
+  "uri": "spotify:artist:476Si1KDn4xlsFMT4lfkIc",
+  "followers": {
+    "href": null,
+    "total": 195
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb923cbb0ddb746554dd687990",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174923cbb0ddb746554dd687990",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178923cbb0ddb746554dd687990",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/476Si1KDn4xlsFMT4lfkIc"
+  }
+}

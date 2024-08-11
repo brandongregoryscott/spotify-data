@@ -1,0 +1,33 @@
+{
+  "id": "1i3qNzYiZUYIrOQyw1VlFJ",
+  "name": "La Chaparralta",
+  "uri": "spotify:artist:1i3qNzYiZUYIrOQyw1VlFJ",
+  "followers": {
+    "href": null,
+    "total": 599
+  },
+  "genres": [
+    "baja indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd7947de22fe631d58bda5397",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d7947de22fe631d58bda5397",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d7947de22fe631d58bda5397",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1i3qNzYiZUYIrOQyw1VlFJ"
+  }
+}

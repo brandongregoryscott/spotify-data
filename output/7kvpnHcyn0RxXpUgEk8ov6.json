@@ -1,0 +1,34 @@
+{
+  "id": "7kvpnHcyn0RxXpUgEk8ov6",
+  "name": "xicu",
+  "uri": "spotify:artist:7kvpnHcyn0RxXpUgEk8ov6",
+  "followers": {
+    "href": null,
+    "total": 1960
+  },
+  "genres": [
+    "indie catala",
+    "musica catalana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc51101ea4c6fcf4fe7b9b0f1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c51101ea4c6fcf4fe7b9b0f1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c51101ea4c6fcf4fe7b9b0f1",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7kvpnHcyn0RxXpUgEk8ov6"
+  }
+}

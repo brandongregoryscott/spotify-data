@@ -1,0 +1,34 @@
+{
+  "id": "1XOKresOiQtBmduOEskf4s",
+  "name": "Aquaserge",
+  "uri": "spotify:artist:1XOKresOiQtBmduOEskf4s",
+  "followers": {
+    "href": null,
+    "total": 7765
+  },
+  "genres": [
+    "experimental jazz",
+    "french psychedelic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb54477e80847764f2d92f3bda",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517454477e80847764f2d92f3bda",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17854477e80847764f2d92f3bda",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1XOKresOiQtBmduOEskf4s"
+  }
+}

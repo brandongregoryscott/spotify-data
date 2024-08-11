@@ -1,0 +1,33 @@
+{
+  "id": "0WQ4oYgcC9efKqrly7QGzv",
+  "name": "Twin Red",
+  "uri": "spotify:artist:0WQ4oYgcC9efKqrly7QGzv",
+  "followers": {
+    "href": null,
+    "total": 1189
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb429a16adbea20f10399d8076",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174429a16adbea20f10399d8076",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178429a16adbea20f10399d8076",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0WQ4oYgcC9efKqrly7QGzv"
+  }
+}

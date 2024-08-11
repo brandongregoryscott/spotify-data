@@ -1,0 +1,33 @@
+{
+  "id": "61ujJZ3ZFI12rT2Ug9CiLh",
+  "name": "Data Memory Access",
+  "uri": "spotify:artist:61ujJZ3ZFI12rT2Ug9CiLh",
+  "followers": {
+    "href": null,
+    "total": 1036
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb34304d53de87906d9667f16d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517434304d53de87906d9667f16d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17834304d53de87906d9667f16d",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/61ujJZ3ZFI12rT2Ug9CiLh"
+  }
+}

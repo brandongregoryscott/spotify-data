@@ -1,0 +1,38 @@
+{
+  "id": "6fpItKr3zIfj9KKlaAQtPN",
+  "name": "My Sister's Machine",
+  "uri": "spotify:artist:6fpItKr3zIfj9KKlaAQtPN",
+  "followers": {
+    "href": null,
+    "total": 1699
+  },
+  "genres": [
+    "underground grunge"
+  ],
+  "images": [
+    {
+      "height": 1000,
+      "url": "https://i.scdn.co/image/629adf26c78dbe4b16eb3dddf83fdccc7028f306",
+      "width": 1000
+    },
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/7e2186e880381457e2e94e36fca9fcbffc7a9b04",
+      "width": 640
+    },
+    {
+      "height": 200,
+      "url": "https://i.scdn.co/image/2409e139e4e2b92adf7bb586a760cc8e9a40fbaa",
+      "width": 200
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/16c8bc50cdab1f26889f8bf8c0e7c90eeec98655",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6fpItKr3zIfj9KKlaAQtPN"
+  }
+}

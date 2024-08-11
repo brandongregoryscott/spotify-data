@@ -1,0 +1,33 @@
+{
+  "id": "1LZMxlOG8RAFRMCTTDpxDW",
+  "name": "Thio",
+  "uri": "spotify:artist:1LZMxlOG8RAFRMCTTDpxDW",
+  "followers": {
+    "href": null,
+    "total": 79
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebddadd9e260f21cd14118945d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ddadd9e260f21cd14118945d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ddadd9e260f21cd14118945d",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1LZMxlOG8RAFRMCTTDpxDW"
+  }
+}

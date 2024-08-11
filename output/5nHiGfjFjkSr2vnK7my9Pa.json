@@ -1,0 +1,33 @@
+{
+  "id": "5nHiGfjFjkSr2vnK7my9Pa",
+  "name": "Anna Luther",
+  "uri": "spotify:artist:5nHiGfjFjkSr2vnK7my9Pa",
+  "followers": {
+    "href": null,
+    "total": 1484
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb31d6323b4a089dbf12be8fc1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517431d6323b4a089dbf12be8fc1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17831d6323b4a089dbf12be8fc1",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5nHiGfjFjkSr2vnK7my9Pa"
+  }
+}

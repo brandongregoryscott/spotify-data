@@ -1,0 +1,33 @@
+{
+  "id": "4xIyWQNUJfqfWPZiyo30xx",
+  "name": "Vincent Crowley",
+  "uri": "spotify:artist:4xIyWQNUJfqfWPZiyo30xx",
+  "followers": {
+    "href": null,
+    "total": 822
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739748035c316a1ee0b855503e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029748035c316a1ee0b855503e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519748035c316a1ee0b855503e",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4xIyWQNUJfqfWPZiyo30xx"
+  }
+}

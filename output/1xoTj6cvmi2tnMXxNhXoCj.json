@@ -1,0 +1,33 @@
+{
+  "id": "1xoTj6cvmi2tnMXxNhXoCj",
+  "name": "Kiwy",
+  "uri": "spotify:artist:1xoTj6cvmi2tnMXxNhXoCj",
+  "followers": {
+    "href": null,
+    "total": 73
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb27ad41de606f8204caf0ee55",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517427ad41de606f8204caf0ee55",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17827ad41de606f8204caf0ee55",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1xoTj6cvmi2tnMXxNhXoCj"
+  }
+}

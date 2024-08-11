@@ -1,0 +1,33 @@
+{
+  "id": "04GXo6z6x1KLMG9weDPayK",
+  "name": "The Holy Mountain",
+  "uri": "spotify:artist:04GXo6z6x1KLMG9weDPayK",
+  "followers": {
+    "href": null,
+    "total": 440
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfa200649fa79f9ee260ffb26",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fa200649fa79f9ee260ffb26",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fa200649fa79f9ee260ffb26",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/04GXo6z6x1KLMG9weDPayK"
+  }
+}

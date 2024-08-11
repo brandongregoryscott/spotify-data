@@ -1,0 +1,33 @@
+{
+  "id": "6whvmU5FI4pOh6kGHAQPIN",
+  "name": "The Quins",
+  "uri": "spotify:artist:6whvmU5FI4pOh6kGHAQPIN",
+  "followers": {
+    "href": null,
+    "total": 1335
+  },
+  "genres": [
+    "boston indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb65e88837acff42fe5003789",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b65e88837acff42fe5003789",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b65e88837acff42fe5003789",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6whvmU5FI4pOh6kGHAQPIN"
+  }
+}

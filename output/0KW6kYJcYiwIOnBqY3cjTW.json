@@ -1,0 +1,33 @@
+{
+  "id": "0KW6kYJcYiwIOnBqY3cjTW",
+  "name": "Sinsearr",
+  "uri": "spotify:artist:0KW6kYJcYiwIOnBqY3cjTW",
+  "followers": {
+    "href": null,
+    "total": 171
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd5428587a3c0eb6a959ca84e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d5428587a3c0eb6a959ca84e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d5428587a3c0eb6a959ca84e",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0KW6kYJcYiwIOnBqY3cjTW"
+  }
+}

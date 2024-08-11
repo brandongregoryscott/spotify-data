@@ -1,0 +1,33 @@
+{
+  "id": "3sHS70DMNgPxRqx2fUNrRA",
+  "name": "QUIN",
+  "uri": "spotify:artist:3sHS70DMNgPxRqx2fUNrRA",
+  "followers": {
+    "href": null,
+    "total": 45003
+  },
+  "genres": [
+    "indie r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba3a7b2e3fbc33e79765760fe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a3a7b2e3fbc33e79765760fe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a3a7b2e3fbc33e79765760fe",
+      "width": 160
+    }
+  ],
+  "popularity": 41,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3sHS70DMNgPxRqx2fUNrRA"
+  }
+}

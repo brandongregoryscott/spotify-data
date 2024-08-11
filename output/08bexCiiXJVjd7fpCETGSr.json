@@ -1,0 +1,33 @@
+{
+  "id": "08bexCiiXJVjd7fpCETGSr",
+  "name": "bod",
+  "uri": "spotify:artist:08bexCiiXJVjd7fpCETGSr",
+  "followers": {
+    "href": null,
+    "total": 148
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bb0c5a1987ed4def83bb3d7b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bb0c5a1987ed4def83bb3d7b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bb0c5a1987ed4def83bb3d7b",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/08bexCiiXJVjd7fpCETGSr"
+  }
+}

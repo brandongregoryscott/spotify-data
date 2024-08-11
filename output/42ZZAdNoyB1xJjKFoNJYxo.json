@@ -1,0 +1,33 @@
+{
+  "id": "42ZZAdNoyB1xJjKFoNJYxo",
+  "name": "Humble Grumble",
+  "uri": "spotify:artist:42ZZAdNoyB1xJjKFoNJYxo",
+  "followers": {
+    "href": null,
+    "total": 569
+  },
+  "genres": [
+    "rock in opposition"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f50541f83049307814a41aed",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f50541f83049307814a41aed",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f50541f83049307814a41aed",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/42ZZAdNoyB1xJjKFoNJYxo"
+  }
+}

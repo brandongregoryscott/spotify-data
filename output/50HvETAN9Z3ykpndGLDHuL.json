@@ -1,0 +1,33 @@
+{
+  "id": "50HvETAN9Z3ykpndGLDHuL",
+  "name": "Swomp",
+  "uri": "spotify:artist:50HvETAN9Z3ykpndGLDHuL",
+  "followers": {
+    "href": null,
+    "total": 744
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe582862a73f1ba89853fc1ab",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e582862a73f1ba89853fc1ab",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e582862a73f1ba89853fc1ab",
+      "width": 160
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/50HvETAN9Z3ykpndGLDHuL"
+  }
+}

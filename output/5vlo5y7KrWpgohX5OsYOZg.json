@@ -1,0 +1,33 @@
+{
+  "id": "5vlo5y7KrWpgohX5OsYOZg",
+  "name": "Pim",
+  "uri": "spotify:artist:5vlo5y7KrWpgohX5OsYOZg",
+  "followers": {
+    "href": null,
+    "total": 56
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb52e6ccf8bc6dcac7e32000b7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517452e6ccf8bc6dcac7e32000b7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17852e6ccf8bc6dcac7e32000b7",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5vlo5y7KrWpgohX5OsYOZg"
+  }
+}

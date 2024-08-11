@@ -1,0 +1,33 @@
+{
+  "id": "7hmEhkYfvg1FUGg7bvc6Db",
+  "name": "End Path",
+  "uri": "spotify:artist:7hmEhkYfvg1FUGg7bvc6Db",
+  "followers": {
+    "href": null,
+    "total": 858
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdf5768da09c09e0be09e4992",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174df5768da09c09e0be09e4992",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178df5768da09c09e0be09e4992",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7hmEhkYfvg1FUGg7bvc6Db"
+  }
+}

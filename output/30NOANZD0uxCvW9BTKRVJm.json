@@ -1,0 +1,33 @@
+{
+  "id": "30NOANZD0uxCvW9BTKRVJm",
+  "name": "Warphole",
+  "uri": "spotify:artist:30NOANZD0uxCvW9BTKRVJm",
+  "followers": {
+    "href": null,
+    "total": 303
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb04de7df188f6305c1cb71871",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517404de7df188f6305c1cb71871",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17804de7df188f6305c1cb71871",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/30NOANZD0uxCvW9BTKRVJm"
+  }
+}

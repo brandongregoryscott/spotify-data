@@ -1,0 +1,33 @@
+{
+  "id": "6WApYmZLE3W3YD89SWf3hX",
+  "name": "KINLEY",
+  "uri": "spotify:artist:6WApYmZLE3W3YD89SWf3hX",
+  "followers": {
+    "href": null,
+    "total": 2416
+  },
+  "genres": [
+    "pei indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb36358e1e27cb3208009a0d00",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517436358e1e27cb3208009a0d00",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17836358e1e27cb3208009a0d00",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6WApYmZLE3W3YD89SWf3hX"
+  }
+}

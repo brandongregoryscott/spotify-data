@@ -1,0 +1,34 @@
+{
+  "id": "74ecEiKzoaQbziaY85mINp",
+  "name": "Black Sunshine",
+  "uri": "spotify:artist:74ecEiKzoaQbziaY85mINp",
+  "followers": {
+    "href": null,
+    "total": 1244
+  },
+  "genres": [
+    "heavy alternative",
+    "instrumental soul"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27343ab500aa42b212f2ac51797",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0243ab500aa42b212f2ac51797",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485143ab500aa42b212f2ac51797",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/74ecEiKzoaQbziaY85mINp"
+  }
+}

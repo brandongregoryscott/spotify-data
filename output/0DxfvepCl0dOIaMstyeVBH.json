@@ -1,0 +1,34 @@
+{
+  "id": "0DxfvepCl0dOIaMstyeVBH",
+  "name": "Johnny Mauser",
+  "uri": "spotify:artist:0DxfvepCl0dOIaMstyeVBH",
+  "followers": {
+    "href": null,
+    "total": 9332
+  },
+  "genres": [
+    "antideutsche",
+    "german alternative rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb24cf284cee44debb5b476ec5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517424cf284cee44debb5b476ec5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17824cf284cee44debb5b476ec5",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0DxfvepCl0dOIaMstyeVBH"
+  }
+}

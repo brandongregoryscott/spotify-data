@@ -1,0 +1,33 @@
+{
+  "id": "6WZUGL4ioInlABxJ0GAPAU",
+  "name": "Call Me Malcolm",
+  "uri": "spotify:artist:6WZUGL4ioInlABxJ0GAPAU",
+  "followers": {
+    "href": null,
+    "total": 7712
+  },
+  "genres": [
+    "modern ska punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb585a961b28c90a1d733835ba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174585a961b28c90a1d733835ba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178585a961b28c90a1d733835ba",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6WZUGL4ioInlABxJ0GAPAU"
+  }
+}

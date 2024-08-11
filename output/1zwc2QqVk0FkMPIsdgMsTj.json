@@ -1,0 +1,33 @@
+{
+  "id": "1zwc2QqVk0FkMPIsdgMsTj",
+  "name": "calemt",
+  "uri": "spotify:artist:1zwc2QqVk0FkMPIsdgMsTj",
+  "followers": {
+    "href": null,
+    "total": 177
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb37768b4a0c2204bba933829a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517437768b4a0c2204bba933829a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17837768b4a0c2204bba933829a",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1zwc2QqVk0FkMPIsdgMsTj"
+  }
+}

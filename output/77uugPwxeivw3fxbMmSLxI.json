@@ -1,0 +1,33 @@
+{
+  "id": "77uugPwxeivw3fxbMmSLxI",
+  "name": "Diagnose",
+  "uri": "spotify:artist:77uugPwxeivw3fxbMmSLxI",
+  "followers": {
+    "href": null,
+    "total": 428
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb7cf93e7c78ad24653c8b160",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b7cf93e7c78ad24653c8b160",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b7cf93e7c78ad24653c8b160",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/77uugPwxeivw3fxbMmSLxI"
+  }
+}

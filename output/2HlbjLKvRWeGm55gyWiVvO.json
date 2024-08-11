@@ -1,0 +1,33 @@
+{
+  "id": "2HlbjLKvRWeGm55gyWiVvO",
+  "name": "むた",
+  "uri": "spotify:artist:2HlbjLKvRWeGm55gyWiVvO",
+  "followers": {
+    "href": null,
+    "total": 83
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27311f76ba8119e5bb3d86bb494",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0211f76ba8119e5bb3d86bb494",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485111f76ba8119e5bb3d86bb494",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2HlbjLKvRWeGm55gyWiVvO"
+  }
+}

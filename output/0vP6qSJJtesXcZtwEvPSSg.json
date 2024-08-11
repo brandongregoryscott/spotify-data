@@ -1,0 +1,34 @@
+{
+  "id": "0vP6qSJJtesXcZtwEvPSSg",
+  "name": "Los Torrealberos",
+  "uri": "spotify:artist:0vP6qSJJtesXcZtwEvPSSg",
+  "followers": {
+    "href": null,
+    "total": 447
+  },
+  "genres": [
+    "classic venezuelan pop",
+    "folklore venezolano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730e65c0e6c1e5a93ad8cadb5f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020e65c0e6c1e5a93ad8cadb5f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510e65c0e6c1e5a93ad8cadb5f",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0vP6qSJJtesXcZtwEvPSSg"
+  }
+}

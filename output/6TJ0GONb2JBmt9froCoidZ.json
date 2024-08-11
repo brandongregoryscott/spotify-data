@@ -1,0 +1,33 @@
+{
+  "id": "6TJ0GONb2JBmt9froCoidZ",
+  "name": "Krytika",
+  "uri": "spotify:artist:6TJ0GONb2JBmt9froCoidZ",
+  "followers": {
+    "href": null,
+    "total": 206
+  },
+  "genres": [
+    "german dnb"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb35e44a6652f162603a278059",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517435e44a6652f162603a278059",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17835e44a6652f162603a278059",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6TJ0GONb2JBmt9froCoidZ"
+  }
+}

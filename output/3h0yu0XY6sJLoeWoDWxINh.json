@@ -1,0 +1,33 @@
+{
+  "id": "3h0yu0XY6sJLoeWoDWxINh",
+  "name": "Motylki",
+  "uri": "spotify:artist:3h0yu0XY6sJLoeWoDWxINh",
+  "followers": {
+    "href": null,
+    "total": 42
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba03510428b993417f857e54b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a03510428b993417f857e54b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a03510428b993417f857e54b",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3h0yu0XY6sJLoeWoDWxINh"
+  }
+}

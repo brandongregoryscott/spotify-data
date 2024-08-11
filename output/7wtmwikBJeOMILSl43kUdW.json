@@ -1,0 +1,33 @@
+{
+  "id": "7wtmwikBJeOMILSl43kUdW",
+  "name": "The Wonderful Now",
+  "uri": "spotify:artist:7wtmwikBJeOMILSl43kUdW",
+  "followers": {
+    "href": null,
+    "total": 242
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebefa11dbff4e3e70f459c7cad",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174efa11dbff4e3e70f459c7cad",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178efa11dbff4e3e70f459c7cad",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7wtmwikBJeOMILSl43kUdW"
+  }
+}

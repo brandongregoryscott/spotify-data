@@ -1,0 +1,33 @@
+{
+  "id": "3LGdyOgDXcluUfod9dH71z",
+  "name": "Rabu",
+  "uri": "spotify:artist:3LGdyOgDXcluUfod9dH71z",
+  "followers": {
+    "href": null,
+    "total": 735
+  },
+  "genres": [
+    "indonesian experimental"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb93de6da850f5f21113b51bbe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517493de6da850f5f21113b51bbe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17893de6da850f5f21113b51bbe",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3LGdyOgDXcluUfod9dH71z"
+  }
+}

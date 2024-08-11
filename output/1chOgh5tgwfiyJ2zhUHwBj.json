@@ -1,0 +1,33 @@
+{
+  "id": "1chOgh5tgwfiyJ2zhUHwBj",
+  "name": "Dionela",
+  "uri": "spotify:artist:1chOgh5tgwfiyJ2zhUHwBj",
+  "followers": {
+    "href": null,
+    "total": 414197
+  },
+  "genres": [
+    "opm"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb50069ac992d74c5610ecb9cc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517450069ac992d74c5610ecb9cc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17850069ac992d74c5610ecb9cc",
+      "width": 160
+    }
+  ],
+  "popularity": 72,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1ZWSfG082HstrFHZVbjI9h",
+  "name": "Toy Box",
+  "uri": "spotify:artist:1ZWSfG082HstrFHZVbjI9h",
+  "followers": {
+    "href": null,
+    "total": 59
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebde8f6ea951163c668f45b240",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174de8f6ea951163c668f45b240",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178de8f6ea951163c668f45b240",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ZWSfG082HstrFHZVbjI9h"
+  }
+}

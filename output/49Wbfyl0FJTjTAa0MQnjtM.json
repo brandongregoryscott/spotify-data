@@ -1,0 +1,33 @@
+{
+  "id": "49Wbfyl0FJTjTAa0MQnjtM",
+  "name": "Teste",
+  "uri": "spotify:artist:49Wbfyl0FJTjTAa0MQnjtM",
+  "followers": {
+    "href": null,
+    "total": 1346
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732bfca076f923ecb1dbea2115",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022bfca076f923ecb1dbea2115",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512bfca076f923ecb1dbea2115",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/49Wbfyl0FJTjTAa0MQnjtM"
+  }
+}

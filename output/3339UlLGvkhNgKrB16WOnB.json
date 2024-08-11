@@ -1,0 +1,33 @@
+{
+  "id": "3339UlLGvkhNgKrB16WOnB",
+  "name": "NDGO",
+  "uri": "spotify:artist:3339UlLGvkhNgKrB16WOnB",
+  "followers": {
+    "href": null,
+    "total": 1116
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb44411eaf969d268a4d408eeb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517444411eaf969d268a4d408eeb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17844411eaf969d268a4d408eeb",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3339UlLGvkhNgKrB16WOnB"
+  }
+}

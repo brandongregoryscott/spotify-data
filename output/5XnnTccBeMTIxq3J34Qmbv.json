@@ -1,0 +1,33 @@
+{
+  "id": "5XnnTccBeMTIxq3J34Qmbv",
+  "name": "Sunset People",
+  "uri": "spotify:artist:5XnnTccBeMTIxq3J34Qmbv",
+  "followers": {
+    "href": null,
+    "total": 139
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27346a391dcec3bc3a3443042dd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0246a391dcec3bc3a3443042dd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485146a391dcec3bc3a3443042dd",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5XnnTccBeMTIxq3J34Qmbv"
+  }
+}

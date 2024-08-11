@@ -1,0 +1,33 @@
+{
+  "id": "1zLR47Dgv8ab7NZyoPi2ay",
+  "name": "New Gate",
+  "uri": "spotify:artist:1zLR47Dgv8ab7NZyoPi2ay",
+  "followers": {
+    "href": null,
+    "total": 23
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f2cb8bad471859859bd4692a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f2cb8bad471859859bd4692a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f2cb8bad471859859bd4692a",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1zLR47Dgv8ab7NZyoPi2ay"
+  }
+}

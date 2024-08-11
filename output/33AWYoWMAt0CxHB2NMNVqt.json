@@ -1,0 +1,33 @@
+{
+  "id": "33AWYoWMAt0CxHB2NMNVqt",
+  "name": "Amederia",
+  "uri": "spotify:artist:33AWYoWMAt0CxHB2NMNVqt",
+  "followers": {
+    "href": null,
+    "total": 1695
+  },
+  "genres": [
+    "gothic doom"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ebda3f4424039253e633f2db",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ebda3f4424039253e633f2db",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ebda3f4424039253e633f2db",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/33AWYoWMAt0CxHB2NMNVqt"
+  }
+}

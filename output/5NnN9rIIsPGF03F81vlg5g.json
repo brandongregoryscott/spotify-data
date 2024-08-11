@@ -1,0 +1,33 @@
+{
+  "id": "5NnN9rIIsPGF03F81vlg5g",
+  "name": "ChamaKaze",
+  "uri": "spotify:artist:5NnN9rIIsPGF03F81vlg5g",
+  "followers": {
+    "href": null,
+    "total": 350
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc876072b8041860e4368fd4e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c876072b8041860e4368fd4e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c876072b8041860e4368fd4e",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5NnN9rIIsPGF03F81vlg5g"
+  }
+}

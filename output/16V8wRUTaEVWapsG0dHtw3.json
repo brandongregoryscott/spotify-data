@@ -1,0 +1,33 @@
+{
+  "id": "16V8wRUTaEVWapsG0dHtw3",
+  "name": "Ben Lepper",
+  "uri": "spotify:artist:16V8wRUTaEVWapsG0dHtw3",
+  "followers": {
+    "href": null,
+    "total": 404
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb73e1ff12f266a8383bba5b95",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517473e1ff12f266a8383bba5b95",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17873e1ff12f266a8383bba5b95",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/16V8wRUTaEVWapsG0dHtw3"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6UeiLmf0mCkpQQG4fu1rZm",
+  "name": "BLEO",
+  "uri": "spotify:artist:6UeiLmf0mCkpQQG4fu1rZm",
+  "followers": {
+    "href": null,
+    "total": 54
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb69bc8eb89508d5c9f464b0cb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517469bc8eb89508d5c9f464b0cb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17869bc8eb89508d5c9f464b0cb",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6UeiLmf0mCkpQQG4fu1rZm"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "3yrkuc99URznjwVvVFtN78",
+  "name": "COSMIC",
+  "uri": "spotify:artist:3yrkuc99URznjwVvVFtN78",
+  "followers": {
+    "href": null,
+    "total": 16368
+  },
+  "genres": [
+    "traprun",
+    "wave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb96ed3fb2f750b20834fd252a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517496ed3fb2f750b20834fd252a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17896ed3fb2f750b20834fd252a",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3yrkuc99URznjwVvVFtN78"
+  }
+}

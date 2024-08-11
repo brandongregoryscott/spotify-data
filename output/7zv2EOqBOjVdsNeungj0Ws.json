@@ -1,0 +1,33 @@
+{
+  "id": "7zv2EOqBOjVdsNeungj0Ws",
+  "name": "Aerosky",
+  "uri": "spotify:artist:7zv2EOqBOjVdsNeungj0Ws",
+  "followers": {
+    "href": null,
+    "total": 73
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb34d258dfd33b77de69d1c401",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517434d258dfd33b77de69d1c401",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17834d258dfd33b77de69d1c401",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7zv2EOqBOjVdsNeungj0Ws"
+  }
+}

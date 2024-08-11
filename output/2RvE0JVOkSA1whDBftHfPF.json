@@ -1,0 +1,33 @@
+{
+  "id": "2RvE0JVOkSA1whDBftHfPF",
+  "name": "40 Llama",
+  "uri": "spotify:artist:2RvE0JVOkSA1whDBftHfPF",
+  "followers": {
+    "href": null,
+    "total": 22
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb977b873f45219ebc3fed0489",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174977b873f45219ebc3fed0489",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178977b873f45219ebc3fed0489",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2RvE0JVOkSA1whDBftHfPF"
+  }
+}

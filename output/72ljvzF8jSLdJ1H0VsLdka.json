@@ -1,0 +1,36 @@
+{
+  "id": "72ljvzF8jSLdJ1H0VsLdka",
+  "name": "En Esch",
+  "uri": "spotify:artist:72ljvzF8jSLdJ1H0VsLdka",
+  "followers": {
+    "href": null,
+    "total": 4665
+  },
+  "genres": [
+    "electro-industrial",
+    "industrial",
+    "industrial metal",
+    "industrial rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fd76d0f254349282057ee80b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fd76d0f254349282057ee80b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fd76d0f254349282057ee80b",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/72ljvzF8jSLdJ1H0VsLdka"
+  }
+}

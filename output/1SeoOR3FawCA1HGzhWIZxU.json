@@ -1,0 +1,33 @@
+{
+  "id": "1SeoOR3FawCA1HGzhWIZxU",
+  "name": "Hydrous",
+  "uri": "spotify:artist:1SeoOR3FawCA1HGzhWIZxU",
+  "followers": {
+    "href": null,
+    "total": 220
+  },
+  "genres": [
+    "hypnotic techno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcbe9cdd4ec854aa18f224271",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cbe9cdd4ec854aa18f224271",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cbe9cdd4ec854aa18f224271",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1SeoOR3FawCA1HGzhWIZxU"
+  }
+}

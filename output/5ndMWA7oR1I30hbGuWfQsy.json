@@ -1,0 +1,33 @@
+{
+  "id": "5ndMWA7oR1I30hbGuWfQsy",
+  "name": "Gutlocker",
+  "uri": "spotify:artist:5ndMWA7oR1I30hbGuWfQsy",
+  "followers": {
+    "href": null,
+    "total": 480
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb270a111fb8c4a4ac9080a36",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b270a111fb8c4a4ac9080a36",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b270a111fb8c4a4ac9080a36",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ndMWA7oR1I30hbGuWfQsy"
+  }
+}

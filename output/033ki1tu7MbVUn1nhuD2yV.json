@@ -1,0 +1,33 @@
+{
+  "id": "033ki1tu7MbVUn1nhuD2yV",
+  "name": "Juan Solo",
+  "uri": "spotify:artist:033ki1tu7MbVUn1nhuD2yV",
+  "followers": {
+    "href": null,
+    "total": 66536
+  },
+  "genres": [
+    "mexican pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd0d32cca2bdcd0225f7bafb4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d0d32cca2bdcd0225f7bafb4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d0d32cca2bdcd0225f7bafb4",
+      "width": 160
+    }
+  ],
+  "popularity": 41,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV"
+  }
+}

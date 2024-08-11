@@ -1,0 +1,33 @@
+{
+  "id": "0MrN8mIBO80rDPdOiNYPIR",
+  "name": "Lys",
+  "uri": "spotify:artist:0MrN8mIBO80rDPdOiNYPIR",
+  "followers": {
+    "href": null,
+    "total": 660
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb11d3893e39516139492f0bbf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517411d3893e39516139492f0bbf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17811d3893e39516139492f0bbf",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0MrN8mIBO80rDPdOiNYPIR"
+  }
+}

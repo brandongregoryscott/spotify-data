@@ -1,0 +1,36 @@
+{
+  "id": "3bcLBxvaI7GsBzGp3WHnwQ",
+  "name": "Nickel Creek",
+  "uri": "spotify:artist:3bcLBxvaI7GsBzGp3WHnwQ",
+  "followers": {
+    "href": null,
+    "total": 186850
+  },
+  "genres": [
+    "bluegrass",
+    "instrumental bluegrass",
+    "mandolin",
+    "progressive bluegrass"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfec9ac812e7db017a9cbdc98",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fec9ac812e7db017a9cbdc98",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fec9ac812e7db017a9cbdc98",
+      "width": 160
+    }
+  ],
+  "popularity": 46,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+  }
+}

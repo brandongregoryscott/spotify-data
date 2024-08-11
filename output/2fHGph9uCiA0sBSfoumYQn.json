@@ -1,0 +1,34 @@
+{
+  "id": "2fHGph9uCiA0sBSfoumYQn",
+  "name": "Nouveau Vélo",
+  "uri": "spotify:artist:2fHGph9uCiA0sBSfoumYQn",
+  "followers": {
+    "href": null,
+    "total": 849
+  },
+  "genres": [
+    "dutch indie",
+    "dutch indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8c1c5565a17d2d30417bf6ea",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051748c1c5565a17d2d30417bf6ea",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1788c1c5565a17d2d30417bf6ea",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2fHGph9uCiA0sBSfoumYQn"
+  }
+}

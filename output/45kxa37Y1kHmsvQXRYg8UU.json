@@ -1,0 +1,33 @@
+{
+  "id": "45kxa37Y1kHmsvQXRYg8UU",
+  "name": "Amber Música",
+  "uri": "spotify:artist:45kxa37Y1kHmsvQXRYg8UU",
+  "followers": {
+    "href": null,
+    "total": 85
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb405b2cd638760bcd4238c67a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174405b2cd638760bcd4238c67a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178405b2cd638760bcd4238c67a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/45kxa37Y1kHmsvQXRYg8UU"
+  }
+}

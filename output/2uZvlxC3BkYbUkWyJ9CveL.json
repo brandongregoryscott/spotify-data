@@ -1,0 +1,33 @@
+{
+  "id": "2uZvlxC3BkYbUkWyJ9CveL",
+  "name": "João Lyra",
+  "uri": "spotify:artist:2uZvlxC3BkYbUkWyJ9CveL",
+  "followers": {
+    "href": null,
+    "total": 295
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735c4b752e744a4a55fa9dae47",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025c4b752e744a4a55fa9dae47",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515c4b752e744a4a55fa9dae47",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2uZvlxC3BkYbUkWyJ9CveL"
+  }
+}

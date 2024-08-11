@@ -1,0 +1,33 @@
+{
+  "id": "2ZUPzJYmN6VpSbLOhO7Kgw",
+  "name": "Cam1K",
+  "uri": "spotify:artist:2ZUPzJYmN6VpSbLOhO7Kgw",
+  "followers": {
+    "href": null,
+    "total": 37
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbfe1153b59c04dab6ca0f5da",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bfe1153b59c04dab6ca0f5da",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bfe1153b59c04dab6ca0f5da",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ZUPzJYmN6VpSbLOhO7Kgw"
+  }
+}

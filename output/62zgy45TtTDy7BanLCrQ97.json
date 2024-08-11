@@ -1,0 +1,33 @@
+{
+  "id": "62zgy45TtTDy7BanLCrQ97",
+  "name": "yellowish",
+  "uri": "spotify:artist:62zgy45TtTDy7BanLCrQ97",
+  "followers": {
+    "href": null,
+    "total": 141
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba82afb6031a698fbb533220f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a82afb6031a698fbb533220f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a82afb6031a698fbb533220f",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/62zgy45TtTDy7BanLCrQ97"
+  }
+}

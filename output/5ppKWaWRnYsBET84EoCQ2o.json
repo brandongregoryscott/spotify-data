@@ -1,0 +1,33 @@
+{
+  "id": "5ppKWaWRnYsBET84EoCQ2o",
+  "name": "Dave Shanaé",
+  "uri": "spotify:artist:5ppKWaWRnYsBET84EoCQ2o",
+  "followers": {
+    "href": null,
+    "total": 549
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb99738183d2f8bc8d92337e0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b99738183d2f8bc8d92337e0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b99738183d2f8bc8d92337e0",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ppKWaWRnYsBET84EoCQ2o"
+  }
+}

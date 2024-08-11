@@ -1,0 +1,33 @@
+{
+  "id": "07meA88eH6ED3YAajeWPBL",
+  "name": "Burgundee",
+  "uri": "spotify:artist:07meA88eH6ED3YAajeWPBL",
+  "followers": {
+    "href": null,
+    "total": 573
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf21e570e6842640a82b0ef7e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f21e570e6842640a82b0ef7e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f21e570e6842640a82b0ef7e",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07meA88eH6ED3YAajeWPBL"
+  }
+}

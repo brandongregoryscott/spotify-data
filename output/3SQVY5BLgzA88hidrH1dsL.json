@@ -1,0 +1,33 @@
+{
+  "id": "3SQVY5BLgzA88hidrH1dsL",
+  "name": "Electric Darling",
+  "uri": "spotify:artist:3SQVY5BLgzA88hidrH1dsL",
+  "followers": {
+    "href": null,
+    "total": 211
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcbda5a8b45bc941e2ab83134",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cbda5a8b45bc941e2ab83134",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cbda5a8b45bc941e2ab83134",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3SQVY5BLgzA88hidrH1dsL"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2xhlo9ueEmaXOz4IGwa1T2",
+  "name": "Jeesh",
+  "uri": "spotify:artist:2xhlo9ueEmaXOz4IGwa1T2",
+  "followers": {
+    "href": null,
+    "total": 3172
+  },
+  "genres": [
+    "anime rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb549bb666742f8cc9fe411172",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174549bb666742f8cc9fe411172",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178549bb666742f8cc9fe411172",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2xhlo9ueEmaXOz4IGwa1T2"
+  }
+}

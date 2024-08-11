@@ -1,0 +1,35 @@
+{
+  "id": "4tqAAab5kwc7pNYSWzlFGX",
+  "name": "The Killjoys",
+  "uri": "spotify:artist:4tqAAab5kwc7pNYSWzlFGX",
+  "followers": {
+    "href": null,
+    "total": 3949
+  },
+  "genres": [
+    "canadian indie",
+    "canadian rock",
+    "hamilton on indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733af1d1a35162a6fa0853539a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023af1d1a35162a6fa0853539a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513af1d1a35162a6fa0853539a",
+      "width": 64
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4tqAAab5kwc7pNYSWzlFGX"
+  }
+}

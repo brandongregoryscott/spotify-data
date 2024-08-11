@@ -1,0 +1,33 @@
+{
+  "id": "0oIZQ4omcUZWzqtGuAMKNZ",
+  "name": "TYO",
+  "uri": "spotify:artist:0oIZQ4omcUZWzqtGuAMKNZ",
+  "followers": {
+    "href": null,
+    "total": 256
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736cef21f11fb9566e3c911fed",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026cef21f11fb9566e3c911fed",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b7ba9bc6d9938401e1bb7bb8",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0oIZQ4omcUZWzqtGuAMKNZ"
+  }
+}

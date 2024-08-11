@@ -1,0 +1,33 @@
+{
+  "id": "1SkvK24D0OftUdg4X6sQ6U",
+  "name": "Searr",
+  "uri": "spotify:artist:1SkvK24D0OftUdg4X6sQ6U",
+  "followers": {
+    "href": null,
+    "total": 265
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb884d74c01743fa8e7b443efe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174884d74c01743fa8e7b443efe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178884d74c01743fa8e7b443efe",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1SkvK24D0OftUdg4X6sQ6U"
+  }
+}

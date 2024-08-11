@@ -1,0 +1,33 @@
+{
+  "id": "4jFYeZM7rRrKBpflzD3TfS",
+  "name": "Fakir",
+  "uri": "spotify:artist:4jFYeZM7rRrKBpflzD3TfS",
+  "followers": {
+    "href": null,
+    "total": 547
+  },
+  "genres": [
+    "rap tico"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc3e4728233fa15a50b11fcef",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c3e4728233fa15a50b11fcef",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c3e4728233fa15a50b11fcef",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4jFYeZM7rRrKBpflzD3TfS"
+  }
+}

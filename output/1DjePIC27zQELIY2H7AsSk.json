@@ -1,0 +1,33 @@
+{
+  "id": "1DjePIC27zQELIY2H7AsSk",
+  "name": "guchiry",
+  "uri": "spotify:artist:1DjePIC27zQELIY2H7AsSk",
+  "followers": {
+    "href": null,
+    "total": 866
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27306ca1a3c5d3ec781bf66876a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0206ca1a3c5d3ec781bf66876a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485106ca1a3c5d3ec781bf66876a",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1DjePIC27zQELIY2H7AsSk"
+  }
+}

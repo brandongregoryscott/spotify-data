@@ -1,0 +1,33 @@
+{
+  "id": "01DSnqT4D8CHCbIkYQhVoP",
+  "name": "Alma Animo",
+  "uri": "spotify:artist:01DSnqT4D8CHCbIkYQhVoP",
+  "followers": {
+    "href": null,
+    "total": 2060
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebca7e0ec7c03a5ccf33db9ad8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ca7e0ec7c03a5ccf33db9ad8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ca7e0ec7c03a5ccf33db9ad8",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01DSnqT4D8CHCbIkYQhVoP"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "7bykcg3a4exhrIgiffIR2Q",
+  "name": "maggio",
+  "uri": "spotify:artist:7bykcg3a4exhrIgiffIR2Q",
+  "followers": {
+    "href": null,
+    "total": 3182
+  },
+  "genres": [
+    "hyperpop italiano",
+    "r&b italiano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc759c3691983cfb232d8f777",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c759c3691983cfb232d8f777",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c759c3691983cfb232d8f777",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7bykcg3a4exhrIgiffIR2Q"
+  }
+}

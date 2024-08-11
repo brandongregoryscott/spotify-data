@@ -1,0 +1,36 @@
+{
+  "id": "2DQyJGCJQPSrZKhwCnoBGA",
+  "name": "Catavento",
+  "uri": "spotify:artist:2DQyJGCJQPSrZKhwCnoBGA",
+  "followers": {
+    "href": null,
+    "total": 6197
+  },
+  "genres": [
+    "brazilian indie rock",
+    "neo-psicodelia brasileira",
+    "novo rock gaucho",
+    "shoegaze brasileiro"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcd5802d0987899ec34eb251c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cd5802d0987899ec34eb251c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cd5802d0987899ec34eb251c",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2DQyJGCJQPSrZKhwCnoBGA"
+  }
+}

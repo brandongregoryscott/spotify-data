@@ -1,0 +1,35 @@
+{
+  "id": "6ndYL76BaiwMAFdrpZsM5C",
+  "name": "Main",
+  "uri": "spotify:artist:6ndYL76BaiwMAFdrpZsM5C",
+  "followers": {
+    "href": null,
+    "total": 2020
+  },
+  "genres": [
+    "ambient industrial",
+    "ambient post-rock",
+    "british experimental"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f8141ac100037a3676ff4919",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f8141ac100037a3676ff4919",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f8141ac100037a3676ff4919",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ndYL76BaiwMAFdrpZsM5C"
+  }
+}

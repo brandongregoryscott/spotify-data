@@ -1,0 +1,33 @@
+{
+  "id": "09S3SWJhaCCtoisNNshB0R",
+  "name": "Tate CR",
+  "uri": "spotify:artist:09S3SWJhaCCtoisNNshB0R",
+  "followers": {
+    "href": null,
+    "total": 509
+  },
+  "genres": [
+    "rap tico"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba7594470c077d98731053958",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a7594470c077d98731053958",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a7594470c077d98731053958",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/09S3SWJhaCCtoisNNshB0R"
+  }
+}

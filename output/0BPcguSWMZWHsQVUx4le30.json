@@ -1,0 +1,33 @@
+{
+  "id": "0BPcguSWMZWHsQVUx4le30",
+  "name": "El Da2",
+  "uri": "spotify:artist:0BPcguSWMZWHsQVUx4le30",
+  "followers": {
+    "href": null,
+    "total": 134
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc95ba1545d20e962db78d400",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c95ba1545d20e962db78d400",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c95ba1545d20e962db78d400",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0BPcguSWMZWHsQVUx4le30"
+  }
+}

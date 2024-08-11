@@ -1,0 +1,33 @@
+{
+  "id": "1eWWEE2RmO1OOG4t3WGjYm",
+  "name": "The Chapter",
+  "uri": "spotify:artist:1eWWEE2RmO1OOG4t3WGjYm",
+  "followers": {
+    "href": null,
+    "total": 523
+  },
+  "genres": [
+    "portuguese metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebca6652743c438c19b24e1101",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ca6652743c438c19b24e1101",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ca6652743c438c19b24e1101",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1eWWEE2RmO1OOG4t3WGjYm"
+  }
+}

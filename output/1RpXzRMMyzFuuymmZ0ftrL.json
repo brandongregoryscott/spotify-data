@@ -1,0 +1,33 @@
+{
+  "id": "1RpXzRMMyzFuuymmZ0ftrL",
+  "name": "MNA",
+  "uri": "spotify:artist:1RpXzRMMyzFuuymmZ0ftrL",
+  "followers": {
+    "href": null,
+    "total": 250
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd5fbb74c17b0839fa8b5a7df",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d5fbb74c17b0839fa8b5a7df",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d5fbb74c17b0839fa8b5a7df",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1RpXzRMMyzFuuymmZ0ftrL"
+  }
+}

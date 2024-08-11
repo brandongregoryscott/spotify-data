@@ -1,0 +1,33 @@
+{
+  "id": "47US9Pkrf3I0gelU1lFXeC",
+  "name": "Jake Wells",
+  "uri": "spotify:artist:47US9Pkrf3I0gelU1lFXeC",
+  "followers": {
+    "href": null,
+    "total": 3471
+  },
+  "genres": [
+    "kc indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb63f202a93ee1903deec23cd5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517463f202a93ee1903deec23cd5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17863f202a93ee1903deec23cd5",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/47US9Pkrf3I0gelU1lFXeC"
+  }
+}

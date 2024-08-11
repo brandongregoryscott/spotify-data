@@ -1,0 +1,33 @@
+{
+  "id": "425zLTPcp673F9ybc3Zcja",
+  "name": "7ebra",
+  "uri": "spotify:artist:425zLTPcp673F9ybc3Zcja",
+  "followers": {
+    "href": null,
+    "total": 2732
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe4f4351e2a8e8214b3ca1f8f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e4f4351e2a8e8214b3ca1f8f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e4f4351e2a8e8214b3ca1f8f",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/425zLTPcp673F9ybc3Zcja"
+  }
+}

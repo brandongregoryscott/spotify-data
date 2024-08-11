@@ -1,0 +1,33 @@
+{
+  "id": "3IbpBuf1QrkXMYmAyfhepe",
+  "name": "ZDAN",
+  "uri": "spotify:artist:3IbpBuf1QrkXMYmAyfhepe",
+  "followers": {
+    "href": null,
+    "total": 1136
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe2cc3ab6084dc269726108af",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e2cc3ab6084dc269726108af",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e2cc3ab6084dc269726108af",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3IbpBuf1QrkXMYmAyfhepe"
+  }
+}

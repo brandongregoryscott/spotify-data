@@ -1,0 +1,33 @@
+{
+  "id": "3C48DLtQb0jnf121VAvnmR",
+  "name": "Tonguebyte",
+  "uri": "spotify:artist:3C48DLtQb0jnf121VAvnmR",
+  "followers": {
+    "href": null,
+    "total": 599
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5df4eee077ff02776f03fdfe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051745df4eee077ff02776f03fdfe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1785df4eee077ff02776f03fdfe",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3C48DLtQb0jnf121VAvnmR"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "309tavTO8A4awjPhytwtnM",
+  "name": "Magno Garcia",
+  "uri": "spotify:artist:309tavTO8A4awjPhytwtnM",
+  "followers": {
+    "href": null,
+    "total": 401
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfb60d70df239682b30a8f2bd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fb60d70df239682b30a8f2bd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fb60d70df239682b30a8f2bd",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/309tavTO8A4awjPhytwtnM"
+  }
+}

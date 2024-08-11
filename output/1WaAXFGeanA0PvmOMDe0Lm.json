@@ -1,0 +1,33 @@
+{
+  "id": "1WaAXFGeanA0PvmOMDe0Lm",
+  "name": "零三号",
+  "uri": "spotify:artist:1WaAXFGeanA0PvmOMDe0Lm",
+  "followers": {
+    "href": null,
+    "total": 64
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27313b43aa7e9c0c432e7ef41b8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0213b43aa7e9c0c432e7ef41b8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485113b43aa7e9c0c432e7ef41b8",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1WaAXFGeanA0PvmOMDe0Lm"
+  }
+}

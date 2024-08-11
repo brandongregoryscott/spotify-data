@@ -1,0 +1,33 @@
+{
+  "id": "7x9dgKNOqskk2exnmjOEKo",
+  "name": "Hello Nico",
+  "uri": "spotify:artist:7x9dgKNOqskk2exnmjOEKo",
+  "followers": {
+    "href": null,
+    "total": 74897
+  },
+  "genres": [
+    "taiwan indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb83faca99aa6bb605dea2349d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517483faca99aa6bb605dea2349d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17883faca99aa6bb605dea2349d",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7x9dgKNOqskk2exnmjOEKo"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4fUgNfbrHrnghjWek55xwc",
+  "name": "Following The Signs",
+  "uri": "spotify:artist:4fUgNfbrHrnghjWek55xwc",
+  "followers": {
+    "href": null,
+    "total": 220
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba527327bf371a9b02c5725c8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a527327bf371a9b02c5725c8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a527327bf371a9b02c5725c8",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4fUgNfbrHrnghjWek55xwc"
+  }
+}

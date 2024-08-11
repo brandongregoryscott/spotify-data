@@ -1,0 +1,33 @@
+{
+  "id": "3pFmVHsgu8MAibAs0sEhDL",
+  "name": "Leo",
+  "uri": "spotify:artist:3pFmVHsgu8MAibAs0sEhDL",
+  "followers": {
+    "href": null,
+    "total": 222
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ae53b3db0a5266c8c505b534",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ae53b3db0a5266c8c505b534",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ae53b3db0a5266c8c505b534",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3pFmVHsgu8MAibAs0sEhDL"
+  }
+}

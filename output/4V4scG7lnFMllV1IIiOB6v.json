@@ -1,0 +1,33 @@
+{
+  "id": "4V4scG7lnFMllV1IIiOB6v",
+  "name": "Pedro999",
+  "uri": "spotify:artist:4V4scG7lnFMllV1IIiOB6v",
+  "followers": {
+    "href": null,
+    "total": 60
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb89526e245df74e34f9d4d5e3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517489526e245df74e34f9d4d5e3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17889526e245df74e34f9d4d5e3",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4V4scG7lnFMllV1IIiOB6v"
+  }
+}

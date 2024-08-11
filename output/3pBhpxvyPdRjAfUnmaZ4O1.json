@@ -1,0 +1,33 @@
+{
+  "id": "3pBhpxvyPdRjAfUnmaZ4O1",
+  "name": "Grasp",
+  "uri": "spotify:artist:3pBhpxvyPdRjAfUnmaZ4O1",
+  "followers": {
+    "href": null,
+    "total": 134
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb024828bc9aaaffe981a2fc4a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174024828bc9aaaffe981a2fc4a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178024828bc9aaaffe981a2fc4a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3pBhpxvyPdRjAfUnmaZ4O1"
+  }
+}

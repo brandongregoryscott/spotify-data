@@ -1,0 +1,33 @@
+{
+  "id": "5zXglINIoynKUlgVJLi11W",
+  "name": "Tuff Luck",
+  "uri": "spotify:artist:5zXglINIoynKUlgVJLi11W",
+  "followers": {
+    "href": null,
+    "total": 404
+  },
+  "genres": [
+    "hard glam"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27321fb93237faa86d9011f377c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0221fb93237faa86d9011f377c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485121fb93237faa86d9011f377c",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5zXglINIoynKUlgVJLi11W"
+  }
+}

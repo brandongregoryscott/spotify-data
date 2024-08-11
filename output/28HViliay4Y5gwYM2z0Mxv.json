@@ -1,0 +1,34 @@
+{
+  "id": "28HViliay4Y5gwYM2z0Mxv",
+  "name": "Garolou",
+  "uri": "spotify:artist:28HViliay4Y5gwYM2z0Mxv",
+  "followers": {
+    "href": null,
+    "total": 6746
+  },
+  "genres": [
+    "chanson quebecois",
+    "prog quebec"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebacd9c3c62fe76ac4fc21fc42",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174acd9c3c62fe76ac4fc21fc42",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178acd9c3c62fe76ac4fc21fc42",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/28HViliay4Y5gwYM2z0Mxv"
+  }
+}

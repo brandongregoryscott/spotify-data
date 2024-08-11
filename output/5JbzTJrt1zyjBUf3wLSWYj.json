@@ -1,0 +1,33 @@
+{
+  "id": "5JbzTJrt1zyjBUf3wLSWYj",
+  "name": "Los Ataúdes",
+  "uri": "spotify:artist:5JbzTJrt1zyjBUf3wLSWYj",
+  "followers": {
+    "href": null,
+    "total": 268
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf3681116fd04d9068b26b369",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f3681116fd04d9068b26b369",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f3681116fd04d9068b26b369",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5JbzTJrt1zyjBUf3wLSWYj"
+  }
+}

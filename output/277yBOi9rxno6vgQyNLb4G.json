@@ -1,0 +1,33 @@
+{
+  "id": "277yBOi9rxno6vgQyNLb4G",
+  "name": "Nadergrinder",
+  "uri": "spotify:artist:277yBOi9rxno6vgQyNLb4G",
+  "followers": {
+    "href": null,
+    "total": 48
+  },
+  "genres": [
+    "corecore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27399cb7c424ca6ab909fae0725",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0299cb7c424ca6ab909fae0725",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485199cb7c424ca6ab909fae0725",
+      "width": 64
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/277yBOi9rxno6vgQyNLb4G"
+  }
+}

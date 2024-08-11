@@ -1,0 +1,33 @@
+{
+  "id": "18ZiM1zKj24fJxeFM4UDlg",
+  "name": "MARTE",
+  "uri": "spotify:artist:18ZiM1zKj24fJxeFM4UDlg",
+  "followers": {
+    "href": null,
+    "total": 460
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb122d24fe6f25a424d0f3e33c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174122d24fe6f25a424d0f3e33c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178122d24fe6f25a424d0f3e33c",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/18ZiM1zKj24fJxeFM4UDlg"
+  }
+}

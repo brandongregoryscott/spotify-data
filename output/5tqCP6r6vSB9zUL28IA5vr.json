@@ -1,0 +1,33 @@
+{
+  "id": "5tqCP6r6vSB9zUL28IA5vr",
+  "name": "James Edward",
+  "uri": "spotify:artist:5tqCP6r6vSB9zUL28IA5vr",
+  "followers": {
+    "href": null,
+    "total": 96
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb77978c674953d57c8afb620",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b77978c674953d57c8afb620",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b77978c674953d57c8afb620",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5tqCP6r6vSB9zUL28IA5vr"
+  }
+}

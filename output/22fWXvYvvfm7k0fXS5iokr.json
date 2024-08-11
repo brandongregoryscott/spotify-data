@@ -1,0 +1,33 @@
+{
+  "id": "22fWXvYvvfm7k0fXS5iokr",
+  "name": "유연하",
+  "uri": "spotify:artist:22fWXvYvvfm7k0fXS5iokr",
+  "followers": {
+    "href": null,
+    "total": 306
+  },
+  "genres": [
+    "ballet class"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dea5cc6fecf3e749ac559095",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dea5cc6fecf3e749ac559095",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dea5cc6fecf3e749ac559095",
+      "width": 64
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/22fWXvYvvfm7k0fXS5iokr"
+  }
+}

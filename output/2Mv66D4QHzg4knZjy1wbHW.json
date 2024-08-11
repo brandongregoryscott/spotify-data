@@ -1,0 +1,33 @@
+{
+  "id": "2Mv66D4QHzg4knZjy1wbHW",
+  "name": "Tristan",
+  "uri": "spotify:artist:2Mv66D4QHzg4knZjy1wbHW",
+  "followers": {
+    "href": null,
+    "total": 1481
+  },
+  "genres": [
+    "belgian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb25cf7d2ae1e6af8bcfc4acbc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517425cf7d2ae1e6af8bcfc4acbc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17825cf7d2ae1e6af8bcfc4acbc",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Mv66D4QHzg4knZjy1wbHW"
+  }
+}

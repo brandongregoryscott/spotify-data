@@ -1,0 +1,33 @@
+{
+  "id": "5yD3wtXDmbOloiFzO3km1M",
+  "name": "LUNA KI",
+  "uri": "spotify:artist:5yD3wtXDmbOloiFzO3km1M",
+  "followers": {
+    "href": null,
+    "total": 56507
+  },
+  "genres": [
+    "urbano espanol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3da636b04651a9aa885d82cf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051743da636b04651a9aa885d82cf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1783da636b04651a9aa885d82cf",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "3LcTRexbqQDGKaZg5or33v",
+  "name": "430 Steps",
+  "uri": "spotify:artist:3LcTRexbqQDGKaZg5or33v",
+  "followers": {
+    "href": null,
+    "total": 1423
+  },
+  "genres": [
+    "florida hardcore",
+    "orlando indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb25e0cf8538bd5727191eaac6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517425e0cf8538bd5727191eaac6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17825e0cf8538bd5727191eaac6",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3LcTRexbqQDGKaZg5or33v"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0D2k4HGf6qVxlp7nFftUCE",
+  "name": "Clara y Mario",
+  "uri": "spotify:artist:0D2k4HGf6qVxlp7nFftUCE",
+  "followers": {
+    "href": null,
+    "total": 939
+  },
+  "genres": [
+    "bolero cubano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738a72dc14c0bf0abec6c48e5e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028a72dc14c0bf0abec6c48e5e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518a72dc14c0bf0abec6c48e5e",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0D2k4HGf6qVxlp7nFftUCE"
+  }
+}

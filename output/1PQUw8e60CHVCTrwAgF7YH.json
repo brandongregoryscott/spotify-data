@@ -1,0 +1,33 @@
+{
+  "id": "1PQUw8e60CHVCTrwAgF7YH",
+  "name": "Upia",
+  "uri": "spotify:artist:1PQUw8e60CHVCTrwAgF7YH",
+  "followers": {
+    "href": null,
+    "total": 76
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd76448fd152a2433bd0549fb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d76448fd152a2433bd0549fb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d76448fd152a2433bd0549fb",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1PQUw8e60CHVCTrwAgF7YH"
+  }
+}

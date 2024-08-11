@@ -1,0 +1,33 @@
+{
+  "id": "53oN1YlW6nthC1RRQcW0c9",
+  "name": "Action3",
+  "uri": "spotify:artist:53oN1YlW6nthC1RRQcW0c9",
+  "followers": {
+    "href": null,
+    "total": 152
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733758d578e6a5cb75705d8b6c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023758d578e6a5cb75705d8b6c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513758d578e6a5cb75705d8b6c",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/53oN1YlW6nthC1RRQcW0c9"
+  }
+}

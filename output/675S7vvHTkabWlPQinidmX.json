@@ -1,0 +1,33 @@
+{
+  "id": "675S7vvHTkabWlPQinidmX",
+  "name": "Nenashi",
+  "uri": "spotify:artist:675S7vvHTkabWlPQinidmX",
+  "followers": {
+    "href": null,
+    "total": 7232
+  },
+  "genres": [
+    "japanese r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe97e3713df0bf8b9d5098537",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e97e3713df0bf8b9d5098537",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e97e3713df0bf8b9d5098537",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX"
+  }
+}

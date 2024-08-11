@@ -1,0 +1,33 @@
+{
+  "id": "6jZl6risV5vg6O83zKSHHs",
+  "name": "Oddity",
+  "uri": "spotify:artist:6jZl6risV5vg6O83zKSHHs",
+  "followers": {
+    "href": null,
+    "total": 1312
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcc5ff6124e58caa3eda970ab",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cc5ff6124e58caa3eda970ab",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cc5ff6124e58caa3eda970ab",
+      "width": 160
+    }
+  ],
+  "popularity": 44,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6jZl6risV5vg6O83zKSHHs"
+  }
+}

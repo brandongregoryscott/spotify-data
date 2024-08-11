@@ -1,0 +1,33 @@
+{
+  "id": "4Dn3cxlu20yI7PwSXqHOTh",
+  "name": "Add-2",
+  "uri": "spotify:artist:4Dn3cxlu20yI7PwSXqHOTh",
+  "followers": {
+    "href": null,
+    "total": 7317
+  },
+  "genres": [
+    "soul flow"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cadba663d9578a81ad9caaff",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cadba663d9578a81ad9caaff",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cadba663d9578a81ad9caaff",
+      "width": 64
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Dn3cxlu20yI7PwSXqHOTh"
+  }
+}

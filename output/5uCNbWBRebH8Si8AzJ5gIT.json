@@ -1,0 +1,33 @@
+{
+  "id": "5uCNbWBRebH8Si8AzJ5gIT",
+  "name": "Varju",
+  "uri": "spotify:artist:5uCNbWBRebH8Si8AzJ5gIT",
+  "followers": {
+    "href": null,
+    "total": 2218
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb83c899594c81aef52c4a0add",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517483c899594c81aef52c4a0add",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17883c899594c81aef52c4a0add",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5uCNbWBRebH8Si8AzJ5gIT"
+  }
+}

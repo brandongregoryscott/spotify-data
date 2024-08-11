@@ -1,0 +1,33 @@
+{
+  "id": "1FNTSQqdfsocgU2fWszUjt",
+  "name": "Jimmy Mustang",
+  "uri": "spotify:artist:1FNTSQqdfsocgU2fWszUjt",
+  "followers": {
+    "href": null,
+    "total": 26
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaf551d5413fc0f7d0e4fda50",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174af551d5413fc0f7d0e4fda50",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178af551d5413fc0f7d0e4fda50",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1FNTSQqdfsocgU2fWszUjt"
+  }
+}

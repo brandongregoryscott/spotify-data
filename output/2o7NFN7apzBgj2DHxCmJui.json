@@ -1,0 +1,33 @@
+{
+  "id": "2o7NFN7apzBgj2DHxCmJui",
+  "name": "Roberto Aurelio",
+  "uri": "spotify:artist:2o7NFN7apzBgj2DHxCmJui",
+  "followers": {
+    "href": null,
+    "total": 312
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba009a591b3fe68531f449534",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a009a591b3fe68531f449534",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a009a591b3fe68531f449534",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2o7NFN7apzBgj2DHxCmJui"
+  }
+}

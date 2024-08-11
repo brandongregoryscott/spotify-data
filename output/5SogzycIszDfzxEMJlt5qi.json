@@ -1,0 +1,33 @@
+{
+  "id": "5SogzycIszDfzxEMJlt5qi",
+  "name": "Banda Cítrica",
+  "uri": "spotify:artist:5SogzycIszDfzxEMJlt5qi",
+  "followers": {
+    "href": null,
+    "total": 187
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb59d8b570c20d5cc0e9af3f13",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517459d8b570c20d5cc0e9af3f13",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17859d8b570c20d5cc0e9af3f13",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5SogzycIszDfzxEMJlt5qi"
+  }
+}

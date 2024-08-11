@@ -1,0 +1,33 @@
+{
+  "id": "1zZPRWlCs4cePPf6VBDgYk",
+  "name": "The Ferdy Mayne",
+  "uri": "spotify:artist:1zZPRWlCs4cePPf6VBDgYk",
+  "followers": {
+    "href": null,
+    "total": 308
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb919aab28a820b6ff276a15de",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174919aab28a820b6ff276a15de",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178919aab28a820b6ff276a15de",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1zZPRWlCs4cePPf6VBDgYk"
+  }
+}

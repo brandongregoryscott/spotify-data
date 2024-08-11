@@ -1,0 +1,33 @@
+{
+  "id": "1KQesxZ3C3lWen8JRLoIlD",
+  "name": "KIMURA",
+  "uri": "spotify:artist:1KQesxZ3C3lWen8JRLoIlD",
+  "followers": {
+    "href": null,
+    "total": 3
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273046683774f92a18bf7109384",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02046683774f92a18bf7109384",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851046683774f92a18bf7109384",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1KQesxZ3C3lWen8JRLoIlD"
+  }
+}

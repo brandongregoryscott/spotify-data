@@ -1,0 +1,33 @@
+{
+  "id": "4Ee4pZJB0SAQwfKqb31mem",
+  "name": "Ryan",
+  "uri": "spotify:artist:4Ee4pZJB0SAQwfKqb31mem",
+  "followers": {
+    "href": null,
+    "total": 13527
+  },
+  "genres": [
+    "movie tunes"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb32a58d4902a9d22d9c58ba79",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517432a58d4902a9d22d9c58ba79",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17832a58d4902a9d22d9c58ba79",
+      "width": 160
+    }
+  ],
+  "popularity": 50,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Ee4pZJB0SAQwfKqb31mem"
+  }
+}

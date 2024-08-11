@@ -1,0 +1,33 @@
+{
+  "id": "3GE7twykUyR6EBq60aFvGj",
+  "name": "anecso",
+  "uri": "spotify:artist:3GE7twykUyR6EBq60aFvGj",
+  "followers": {
+    "href": null,
+    "total": 51
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbb7246c91daeef0ca4d33ea8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bb7246c91daeef0ca4d33ea8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bb7246c91daeef0ca4d33ea8",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3GE7twykUyR6EBq60aFvGj"
+  }
+}

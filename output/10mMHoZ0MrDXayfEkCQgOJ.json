@@ -1,0 +1,33 @@
+{
+  "id": "10mMHoZ0MrDXayfEkCQgOJ",
+  "name": "44BOINEAR",
+  "uri": "spotify:artist:10mMHoZ0MrDXayfEkCQgOJ",
+  "followers": {
+    "href": null,
+    "total": 78
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb69c9c34cb5c64baf5bea44f4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517469c9c34cb5c64baf5bea44f4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17869c9c34cb5c64baf5bea44f4",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/10mMHoZ0MrDXayfEkCQgOJ"
+  }
+}

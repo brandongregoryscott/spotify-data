@@ -1,0 +1,33 @@
+{
+  "id": "2icjFSAPBlBWW9h3akEKeE",
+  "name": "No Tan Humano",
+  "uri": "spotify:artist:2icjFSAPBlBWW9h3akEKeE",
+  "followers": {
+    "href": null,
+    "total": 461
+  },
+  "genres": [
+    "shoegaze chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb933246d2f8a12f2d47ed7e67",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174933246d2f8a12f2d47ed7e67",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178933246d2f8a12f2d47ed7e67",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2icjFSAPBlBWW9h3akEKeE"
+  }
+}

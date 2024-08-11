@@ -1,0 +1,33 @@
+{
+  "id": "2yNQi8wEiMTMlYAVnQDWxI",
+  "name": "GRUNKO",
+  "uri": "spotify:artist:2yNQi8wEiMTMlYAVnQDWxI",
+  "followers": {
+    "href": null,
+    "total": 164
+  },
+  "genres": [
+    "eugene indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd2034d273a9c0338ac58fde1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d2034d273a9c0338ac58fde1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d2034d273a9c0338ac58fde1",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2yNQi8wEiMTMlYAVnQDWxI"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7262AnGZqQJTcwoHWsSkUE",
+  "name": "aeter vault",
+  "uri": "spotify:artist:7262AnGZqQJTcwoHWsSkUE",
+  "followers": {
+    "href": null,
+    "total": 1305
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb097f0ab37de7f4551b1f6e42",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174097f0ab37de7f4551b1f6e42",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178097f0ab37de7f4551b1f6e42",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7262AnGZqQJTcwoHWsSkUE"
+  }
+}

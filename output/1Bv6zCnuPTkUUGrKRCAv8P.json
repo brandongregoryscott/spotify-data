@@ -1,0 +1,34 @@
+{
+  "id": "1Bv6zCnuPTkUUGrKRCAv8P",
+  "name": "Benjamin Enroth",
+  "uri": "spotify:artist:1Bv6zCnuPTkUUGrKRCAv8P",
+  "followers": {
+    "href": null,
+    "total": 986
+  },
+  "genres": [
+    "finnish tango",
+    "iskelma"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf539b8ad1cfb12258d09cd1e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f539b8ad1cfb12258d09cd1e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f539b8ad1cfb12258d09cd1e",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Bv6zCnuPTkUUGrKRCAv8P"
+  }
+}

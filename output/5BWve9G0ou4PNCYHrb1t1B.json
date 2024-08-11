@@ -1,0 +1,33 @@
+{
+  "id": "5BWve9G0ou4PNCYHrb1t1B",
+  "name": "Tom 12",
+  "uri": "spotify:artist:5BWve9G0ou4PNCYHrb1t1B",
+  "followers": {
+    "href": null,
+    "total": 521
+  },
+  "genres": [
+    "norwegian hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe6e298ae9a25f9a0c4cf59ca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e6e298ae9a25f9a0c4cf59ca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e6e298ae9a25f9a0c4cf59ca",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5BWve9G0ou4PNCYHrb1t1B"
+  }
+}

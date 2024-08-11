@@ -1,0 +1,34 @@
+{
+  "id": "0WIle18b5uevJXaeivvj2z",
+  "name": "Mintzkov",
+  "uri": "spotify:artist:0WIle18b5uevJXaeivvj2z",
+  "followers": {
+    "href": null,
+    "total": 8031
+  },
+  "genres": [
+    "belgian indie",
+    "belgian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbf03fc6e234e4021fcb88cf8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bf03fc6e234e4021fcb88cf8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bf03fc6e234e4021fcb88cf8",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0WIle18b5uevJXaeivvj2z"
+  }
+}

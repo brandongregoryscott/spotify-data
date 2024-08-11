@@ -1,0 +1,33 @@
+{
+  "id": "53VmpT7qQJar95aqflhMpb",
+  "name": "Capeccapa",
+  "uri": "spotify:artist:53VmpT7qQJar95aqflhMpb",
+  "followers": {
+    "href": null,
+    "total": 2140
+  },
+  "genres": [
+    "rap napoletano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27352109c27729772e7d0ae14ec",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0252109c27729772e7d0ae14ec",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485152109c27729772e7d0ae14ec",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/53VmpT7qQJar95aqflhMpb"
+  }
+}

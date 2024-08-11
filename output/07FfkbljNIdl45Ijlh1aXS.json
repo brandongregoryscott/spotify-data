@@ -1,0 +1,34 @@
+{
+  "id": "07FfkbljNIdl45Ijlh1aXS",
+  "name": "RHODES",
+  "uri": "spotify:artist:07FfkbljNIdl45Ijlh1aXS",
+  "followers": {
+    "href": null,
+    "total": 126587
+  },
+  "genres": [
+    "indie anthem-folk",
+    "uk pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb97d3ee01b27caa14d4af2d63",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517497d3ee01b27caa14d4af2d63",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17897d3ee01b27caa14d4af2d63",
+      "width": 160
+    }
+  ],
+  "popularity": 56,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS"
+  }
+}

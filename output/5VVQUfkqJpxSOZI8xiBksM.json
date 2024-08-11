@@ -1,0 +1,33 @@
+{
+  "id": "5VVQUfkqJpxSOZI8xiBksM",
+  "name": "HuskyMe",
+  "uri": "spotify:artist:5VVQUfkqJpxSOZI8xiBksM",
+  "followers": {
+    "href": null,
+    "total": 1250
+  },
+  "genres": [
+    "pop folk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb74b6d9e4e6bc063ad59c72a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b74b6d9e4e6bc063ad59c72a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b74b6d9e4e6bc063ad59c72a",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5VVQUfkqJpxSOZI8xiBksM"
+  }
+}

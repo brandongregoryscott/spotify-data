@@ -1,0 +1,33 @@
+{
+  "id": "1gmZS91715o8IEx65UQBtt",
+  "name": "The Night Hour",
+  "uri": "spotify:artist:1gmZS91715o8IEx65UQBtt",
+  "followers": {
+    "href": null,
+    "total": 802
+  },
+  "genres": [
+    "popwave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb46f1baf728d8e0f5c2c54f03",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517446f1baf728d8e0f5c2c54f03",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17846f1baf728d8e0f5c2c54f03",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1gmZS91715o8IEx65UQBtt"
+  }
+}

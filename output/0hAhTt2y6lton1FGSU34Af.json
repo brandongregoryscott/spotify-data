@@ -1,0 +1,33 @@
+{
+  "id": "0hAhTt2y6lton1FGSU34Af",
+  "name": "1999",
+  "uri": "spotify:artist:0hAhTt2y6lton1FGSU34Af",
+  "followers": {
+    "href": null,
+    "total": 245
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f6fbaf325236b8dcbe91da1f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f6fbaf325236b8dcbe91da1f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f6fbaf325236b8dcbe91da1f",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0hAhTt2y6lton1FGSU34Af"
+  }
+}

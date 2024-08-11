@@ -1,0 +1,33 @@
+{
+  "id": "2ZpK8jtlu8EnNAZZnMyYLk",
+  "name": "Suhail Ahmad",
+  "uri": "spotify:artist:2ZpK8jtlu8EnNAZZnMyYLk",
+  "followers": {
+    "href": null,
+    "total": 209
+  },
+  "genres": [
+    "trap beats"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfd8dd36e5ca6710634eb4082",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fd8dd36e5ca6710634eb4082",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fd8dd36e5ca6710634eb4082",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ZpK8jtlu8EnNAZZnMyYLk"
+  }
+}

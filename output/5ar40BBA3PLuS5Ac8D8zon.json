@@ -1,0 +1,35 @@
+{
+  "id": "5ar40BBA3PLuS5Ac8D8zon",
+  "name": "Monte Casino",
+  "uri": "spotify:artist:5ar40BBA3PLuS5Ac8D8zon",
+  "followers": {
+    "href": null,
+    "total": 12450
+  },
+  "genres": [
+    "latin rock",
+    "mexican indie",
+    "oaxaca indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb46fc431cfe153d2016664cc2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517446fc431cfe153d2016664cc2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17846fc431cfe153d2016664cc2",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ar40BBA3PLuS5Ac8D8zon"
+  }
+}

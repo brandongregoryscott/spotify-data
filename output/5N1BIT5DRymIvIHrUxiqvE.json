@@ -1,0 +1,33 @@
+{
+  "id": "5N1BIT5DRymIvIHrUxiqvE",
+  "name": "Grilo",
+  "uri": "spotify:artist:5N1BIT5DRymIvIHrUxiqvE",
+  "followers": {
+    "href": null,
+    "total": 269
+  },
+  "genres": [
+    "galego"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb64eec11e368d0f1981ba1461",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517464eec11e368d0f1981ba1461",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17864eec11e368d0f1981ba1461",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5N1BIT5DRymIvIHrUxiqvE"
+  }
+}

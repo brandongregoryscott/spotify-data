@@ -1,0 +1,33 @@
+{
+  "id": "3SSMWOv4oxoSrm1lJP5kfc",
+  "name": "Bomshot",
+  "uri": "spotify:artist:3SSMWOv4oxoSrm1lJP5kfc",
+  "followers": {
+    "href": null,
+    "total": 522
+  },
+  "genres": [
+    "flick hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f222e9605ff194f51069cdc7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f222e9605ff194f51069cdc7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f222e9605ff194f51069cdc7",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3SSMWOv4oxoSrm1lJP5kfc"
+  }
+}

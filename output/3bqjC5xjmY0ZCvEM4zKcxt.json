@@ -1,0 +1,33 @@
+{
+  "id": "3bqjC5xjmY0ZCvEM4zKcxt",
+  "name": "TACIT",
+  "uri": "spotify:artist:3bqjC5xjmY0ZCvEM4zKcxt",
+  "followers": {
+    "href": null,
+    "total": 780
+  },
+  "genres": [
+    "aesthetic rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb43f75bf1b04c16eeb28559e1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517443f75bf1b04c16eeb28559e1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17843f75bf1b04c16eeb28559e1",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3bqjC5xjmY0ZCvEM4zKcxt"
+  }
+}

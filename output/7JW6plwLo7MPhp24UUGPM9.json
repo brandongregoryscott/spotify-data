@@ -1,0 +1,33 @@
+{
+  "id": "7JW6plwLo7MPhp24UUGPM9",
+  "name": "Helkan",
+  "uri": "spotify:artist:7JW6plwLo7MPhp24UUGPM9",
+  "followers": {
+    "href": null,
+    "total": 176
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb32cf142b31e5a15469880feb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517432cf142b31e5a15469880feb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17832cf142b31e5a15469880feb",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7JW6plwLo7MPhp24UUGPM9"
+  }
+}

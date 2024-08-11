@@ -1,0 +1,33 @@
+{
+  "id": "7ufZdjYTNe1vzA9Z6Fek14",
+  "name": "Saint Sister",
+  "uri": "spotify:artist:7ufZdjYTNe1vzA9Z6Fek14",
+  "followers": {
+    "href": null,
+    "total": 29847
+  },
+  "genres": [
+    "irish indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb45d0eb13ec727079bcc969ab",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517445d0eb13ec727079bcc969ab",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17845d0eb13ec727079bcc969ab",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
+  }
+}

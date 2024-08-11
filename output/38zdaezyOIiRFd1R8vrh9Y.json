@@ -1,0 +1,33 @@
+{
+  "id": "38zdaezyOIiRFd1R8vrh9Y",
+  "name": "Worsty",
+  "uri": "spotify:artist:38zdaezyOIiRFd1R8vrh9Y",
+  "followers": {
+    "href": null,
+    "total": 427
+  },
+  "genres": [
+    "hyperpop francais"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb60a9450add98a26200b42e8f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517460a9450add98a26200b42e8f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17860a9450add98a26200b42e8f",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/38zdaezyOIiRFd1R8vrh9Y"
+  }
+}

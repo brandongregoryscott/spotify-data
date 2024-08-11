@@ -1,0 +1,33 @@
+{
+  "id": "0LkVrMXbtCVfgbUvFbVfKa",
+  "name": "To Rest",
+  "uri": "spotify:artist:0LkVrMXbtCVfgbUvFbVfKa",
+  "followers": {
+    "href": null,
+    "total": 158
+  },
+  "genres": [
+    "bleakgaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736cefe05f2ca01d6c5b2e050e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026cefe05f2ca01d6c5b2e050e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516cefe05f2ca01d6c5b2e050e",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0LkVrMXbtCVfgbUvFbVfKa"
+  }
+}

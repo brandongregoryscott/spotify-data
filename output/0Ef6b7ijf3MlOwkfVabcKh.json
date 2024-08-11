@@ -1,0 +1,33 @@
+{
+  "id": "0Ef6b7ijf3MlOwkfVabcKh",
+  "name": "Child's Play",
+  "uri": "spotify:artist:0Ef6b7ijf3MlOwkfVabcKh",
+  "followers": {
+    "href": null,
+    "total": 1944
+  },
+  "genres": [
+    "hard glam"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb50e3e9668c5277bb16d4c1df",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517450e3e9668c5277bb16d4c1df",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17850e3e9668c5277bb16d4c1df",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Ef6b7ijf3MlOwkfVabcKh"
+  }
+}

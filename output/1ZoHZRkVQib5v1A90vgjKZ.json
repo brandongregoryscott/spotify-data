@@ -1,0 +1,33 @@
+{
+  "id": "1ZoHZRkVQib5v1A90vgjKZ",
+  "name": "Slvmber",
+  "uri": "spotify:artist:1ZoHZRkVQib5v1A90vgjKZ",
+  "followers": {
+    "href": null,
+    "total": 1588
+  },
+  "genres": [
+    "synthwave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebafc08cd3e5feefb07dad50a6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174afc08cd3e5feefb07dad50a6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178afc08cd3e5feefb07dad50a6",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ZoHZRkVQib5v1A90vgjKZ"
+  }
+}

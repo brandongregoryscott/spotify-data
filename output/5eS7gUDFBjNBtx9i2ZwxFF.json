@@ -1,0 +1,33 @@
+{
+  "id": "5eS7gUDFBjNBtx9i2ZwxFF",
+  "name": "The Shivvies",
+  "uri": "spotify:artist:5eS7gUDFBjNBtx9i2ZwxFF",
+  "followers": {
+    "href": null,
+    "total": 975
+  },
+  "genres": [
+    "ramonescore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273179da036f01db7aa6e4bdedc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02179da036f01db7aa6e4bdedc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851179da036f01db7aa6e4bdedc",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5eS7gUDFBjNBtx9i2ZwxFF"
+  }
+}

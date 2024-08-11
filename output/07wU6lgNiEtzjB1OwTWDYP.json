@@ -1,0 +1,33 @@
+{
+  "id": "07wU6lgNiEtzjB1OwTWDYP",
+  "name": "HouseCat",
+  "uri": "spotify:artist:07wU6lgNiEtzjB1OwTWDYP",
+  "followers": {
+    "href": null,
+    "total": 291
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebde4ceb0b471cd78f92dec5b6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174de4ceb0b471cd78f92dec5b6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178de4ceb0b471cd78f92dec5b6",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07wU6lgNiEtzjB1OwTWDYP"
+  }
+}

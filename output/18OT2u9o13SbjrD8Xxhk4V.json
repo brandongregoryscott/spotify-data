@@ -1,0 +1,34 @@
+{
+  "id": "18OT2u9o13SbjrD8Xxhk4V",
+  "name": "Frank Wright",
+  "uri": "spotify:artist:18OT2u9o13SbjrD8Xxhk4V",
+  "followers": {
+    "href": null,
+    "total": 1042
+  },
+  "genres": [
+    "avant-garde jazz",
+    "free jazz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fabea33de9b9c6dcba6b50b9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fabea33de9b9c6dcba6b50b9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fabea33de9b9c6dcba6b50b9",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/18OT2u9o13SbjrD8Xxhk4V"
+  }
+}

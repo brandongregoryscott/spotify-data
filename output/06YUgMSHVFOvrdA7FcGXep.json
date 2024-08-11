@@ -1,0 +1,33 @@
+{
+  "id": "06YUgMSHVFOvrdA7FcGXep",
+  "name": "Simon Ginger",
+  "uri": "spotify:artist:06YUgMSHVFOvrdA7FcGXep",
+  "followers": {
+    "href": null,
+    "total": 14
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731ace1b2390d93fa5343838fa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021ace1b2390d93fa5343838fa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511ace1b2390d93fa5343838fa",
+      "width": 64
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/06YUgMSHVFOvrdA7FcGXep"
+  }
+}

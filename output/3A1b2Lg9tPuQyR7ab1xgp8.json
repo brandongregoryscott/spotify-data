@@ -1,0 +1,33 @@
+{
+  "id": "3A1b2Lg9tPuQyR7ab1xgp8",
+  "name": "untell",
+  "uri": "spotify:artist:3A1b2Lg9tPuQyR7ab1xgp8",
+  "followers": {
+    "href": null,
+    "total": 5629
+  },
+  "genres": [
+    "k-rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbd2d63756878300d1b5117fe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bd2d63756878300d1b5117fe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bd2d63756878300d1b5117fe",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8"
+  }
+}

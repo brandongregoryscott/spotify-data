@@ -1,0 +1,33 @@
+{
+  "id": "5UwaC5cOCmQ253xkuOJPBq",
+  "name": "The PVP",
+  "uri": "spotify:artist:5UwaC5cOCmQ253xkuOJPBq",
+  "followers": {
+    "href": null,
+    "total": 86
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc834d1c3e5142039e2aae278",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c834d1c3e5142039e2aae278",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c834d1c3e5142039e2aae278",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5UwaC5cOCmQ253xkuOJPBq"
+  }
+}

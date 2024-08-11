@@ -1,0 +1,33 @@
+{
+  "id": "2G4IIjmO9zh6b0bCvHfIzF",
+  "name": "sha",
+  "uri": "spotify:artist:2G4IIjmO9zh6b0bCvHfIzF",
+  "followers": {
+    "href": null,
+    "total": 21
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb79ef1fd5ca77265d9d59025e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517479ef1fd5ca77265d9d59025e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17879ef1fd5ca77265d9d59025e",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2G4IIjmO9zh6b0bCvHfIzF"
+  }
+}

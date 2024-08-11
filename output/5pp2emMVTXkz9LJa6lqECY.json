@@ -1,0 +1,33 @@
+{
+  "id": "5pp2emMVTXkz9LJa6lqECY",
+  "name": "Dave Shoemaker",
+  "uri": "spotify:artist:5pp2emMVTXkz9LJa6lqECY",
+  "followers": {
+    "href": null,
+    "total": 247
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb07cf168cba4263423001b184",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517407cf168cba4263423001b184",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17807cf168cba4263423001b184",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5pp2emMVTXkz9LJa6lqECY"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5CabSa1gfFir9jQL64ZHcv",
+  "name": "PROMETHEU$",
+  "uri": "spotify:artist:5CabSa1gfFir9jQL64ZHcv",
+  "followers": {
+    "href": null,
+    "total": 186
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf135d49bf265ac6683de57dd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f135d49bf265ac6683de57dd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f135d49bf265ac6683de57dd",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5CabSa1gfFir9jQL64ZHcv"
+  }
+}

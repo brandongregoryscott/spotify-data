@@ -1,0 +1,33 @@
+{
+  "id": "6mSYM5j2vpS86lv0fpWwIR",
+  "name": "Crazy Boy.",
+  "uri": "spotify:artist:6mSYM5j2vpS86lv0fpWwIR",
+  "followers": {
+    "href": null,
+    "total": 1247
+  },
+  "genres": [
+    "chicano rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f46caabe98d20cd20f7b1068",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f46caabe98d20cd20f7b1068",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f46caabe98d20cd20f7b1068",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6mSYM5j2vpS86lv0fpWwIR"
+  }
+}

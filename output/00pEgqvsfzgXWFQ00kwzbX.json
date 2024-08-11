@@ -1,0 +1,34 @@
+{
+  "id": "00pEgqvsfzgXWFQ00kwzbX",
+  "name": "Electric Company",
+  "uri": "spotify:artist:00pEgqvsfzgXWFQ00kwzbX",
+  "followers": {
+    "href": null,
+    "total": 821
+  },
+  "genres": [
+    "ambient pop",
+    "deep idm"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cd37586666cd058cdaefb0ee",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cd37586666cd058cdaefb0ee",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cd37586666cd058cdaefb0ee",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/00pEgqvsfzgXWFQ00kwzbX"
+  }
+}

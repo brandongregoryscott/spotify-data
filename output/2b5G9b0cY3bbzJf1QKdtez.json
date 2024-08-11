@@ -1,0 +1,34 @@
+{
+  "id": "2b5G9b0cY3bbzJf1QKdtez",
+  "name": "Kinkajous",
+  "uri": "spotify:artist:2b5G9b0cY3bbzJf1QKdtez",
+  "followers": {
+    "href": null,
+    "total": 4964
+  },
+  "genres": [
+    "progressive jazz fusion",
+    "uk contemporary jazz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb84efe32a87815417eb4d2e78",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517484efe32a87815417eb4d2e78",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17884efe32a87815417eb4d2e78",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2b5G9b0cY3bbzJf1QKdtez"
+  }
+}

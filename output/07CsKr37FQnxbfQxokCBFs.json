@@ -1,0 +1,33 @@
+{
+  "id": "07CsKr37FQnxbfQxokCBFs",
+  "name": "Black Peppa",
+  "uri": "spotify:artist:07CsKr37FQnxbfQxokCBFs",
+  "followers": {
+    "href": null,
+    "total": 918
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb803d5fb5498c2a89886b122a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174803d5fb5498c2a89886b122a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178803d5fb5498c2a89886b122a",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07CsKr37FQnxbfQxokCBFs"
+  }
+}

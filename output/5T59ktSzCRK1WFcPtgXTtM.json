@@ -1,0 +1,33 @@
+{
+  "id": "5T59ktSzCRK1WFcPtgXTtM",
+  "name": "ACHES ph",
+  "uri": "spotify:artist:5T59ktSzCRK1WFcPtgXTtM",
+  "followers": {
+    "href": null,
+    "total": 149
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb094ba9df55a4bd809b25bcdc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174094ba9df55a4bd809b25bcdc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178094ba9df55a4bd809b25bcdc",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5T59ktSzCRK1WFcPtgXTtM"
+  }
+}

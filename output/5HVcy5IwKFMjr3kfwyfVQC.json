@@ -1,0 +1,33 @@
+{
+  "id": "5HVcy5IwKFMjr3kfwyfVQC",
+  "name": "The Medinas",
+  "uri": "spotify:artist:5HVcy5IwKFMjr3kfwyfVQC",
+  "followers": {
+    "href": null,
+    "total": 689
+  },
+  "genres": [
+    "dundee indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbe77e457020a423eb7058649",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174be77e457020a423eb7058649",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178be77e457020a423eb7058649",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5HVcy5IwKFMjr3kfwyfVQC"
+  }
+}

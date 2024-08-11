@@ -1,0 +1,33 @@
+{
+  "id": "1wgPzCpOzzvtBxkW64UFid",
+  "name": "Full Earth",
+  "uri": "spotify:artist:1wgPzCpOzzvtBxkW64UFid",
+  "followers": {
+    "href": null,
+    "total": 890
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb203c80053896a005d68bc239",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174203c80053896a005d68bc239",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178203c80053896a005d68bc239",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1wgPzCpOzzvtBxkW64UFid"
+  }
+}

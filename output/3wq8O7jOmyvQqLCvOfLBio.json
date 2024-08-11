@@ -1,0 +1,33 @@
+{
+  "id": "3wq8O7jOmyvQqLCvOfLBio",
+  "name": "PHANTANONIK",
+  "uri": "spotify:artist:3wq8O7jOmyvQqLCvOfLBio",
+  "followers": {
+    "href": null,
+    "total": 784
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba927045badc7ec5fc144db98",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a927045badc7ec5fc144db98",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a927045badc7ec5fc144db98",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3wq8O7jOmyvQqLCvOfLBio"
+  }
+}

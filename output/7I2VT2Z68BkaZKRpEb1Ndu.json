@@ -1,0 +1,33 @@
+{
+  "id": "7I2VT2Z68BkaZKRpEb1Ndu",
+  "name": "Bar Bar Pole",
+  "uri": "spotify:artist:7I2VT2Z68BkaZKRpEb1Ndu",
+  "followers": {
+    "href": null,
+    "total": 142
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d4aa350b1e469238e1c44070",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d4aa350b1e469238e1c44070",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d4aa350b1e469238e1c44070",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7I2VT2Z68BkaZKRpEb1Ndu"
+  }
+}

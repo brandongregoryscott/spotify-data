@@ -1,0 +1,33 @@
+{
+  "id": "5cYLUzoshWfZP3MxdYHRhg",
+  "name": "The Valdons",
+  "uri": "spotify:artist:5cYLUzoshWfZP3MxdYHRhg",
+  "followers": {
+    "href": null,
+    "total": 8216
+  },
+  "genres": [
+    "souldies"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0360b0bd2650059d54328d61",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051740360b0bd2650059d54328d61",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1780360b0bd2650059d54328d61",
+      "width": 160
+    }
+  ],
+  "popularity": 45,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5cYLUzoshWfZP3MxdYHRhg"
+  }
+}

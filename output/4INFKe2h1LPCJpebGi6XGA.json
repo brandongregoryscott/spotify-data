@@ -1,0 +1,33 @@
+{
+  "id": "4INFKe2h1LPCJpebGi6XGA",
+  "name": "vaelatist",
+  "uri": "spotify:artist:4INFKe2h1LPCJpebGi6XGA",
+  "followers": {
+    "href": null,
+    "total": 62
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb1505ba749dcb3de5114d03b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b1505ba749dcb3de5114d03b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b1505ba749dcb3de5114d03b",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4INFKe2h1LPCJpebGi6XGA"
+  }
+}

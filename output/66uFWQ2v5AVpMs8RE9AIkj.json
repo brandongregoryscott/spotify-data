@@ -1,0 +1,33 @@
+{
+  "id": "66uFWQ2v5AVpMs8RE9AIkj",
+  "name": "Mart Avi",
+  "uri": "spotify:artist:66uFWQ2v5AVpMs8RE9AIkj",
+  "followers": {
+    "href": null,
+    "total": 868
+  },
+  "genres": [
+    "estonian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba22a6eb033af774b351c36e9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a22a6eb033af774b351c36e9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a22a6eb033af774b351c36e9",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/66uFWQ2v5AVpMs8RE9AIkj"
+  }
+}

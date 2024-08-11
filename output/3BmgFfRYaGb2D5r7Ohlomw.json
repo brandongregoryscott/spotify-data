@@ -1,0 +1,33 @@
+{
+  "id": "3BmgFfRYaGb2D5r7Ohlomw",
+  "name": "Ehoff",
+  "uri": "spotify:artist:3BmgFfRYaGb2D5r7Ohlomw",
+  "followers": {
+    "href": null,
+    "total": 485
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdd1ecf2d38690078366fd31c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dd1ecf2d38690078366fd31c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dd1ecf2d38690078366fd31c",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3BmgFfRYaGb2D5r7Ohlomw"
+  }
+}

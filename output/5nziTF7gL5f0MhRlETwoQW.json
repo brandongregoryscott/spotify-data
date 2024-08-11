@@ -1,0 +1,33 @@
+{
+  "id": "5nziTF7gL5f0MhRlETwoQW",
+  "name": "bewilder",
+  "uri": "spotify:artist:5nziTF7gL5f0MhRlETwoQW",
+  "followers": {
+    "href": null,
+    "total": 1903
+  },
+  "genres": [
+    "dutch indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb87bcb5e7972bf2a9f054ed1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b87bcb5e7972bf2a9f054ed1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b87bcb5e7972bf2a9f054ed1",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5nziTF7gL5f0MhRlETwoQW"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2swtrFNn2AvJO9PG9udxTb",
+  "name": "Eclipse",
+  "uri": "spotify:artist:2swtrFNn2AvJO9PG9udxTb",
+  "followers": {
+    "href": null,
+    "total": 64
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd053ecd2c6978c0641e58fea",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d053ecd2c6978c0641e58fea",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d053ecd2c6978c0641e58fea",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2swtrFNn2AvJO9PG9udxTb"
+  }
+}

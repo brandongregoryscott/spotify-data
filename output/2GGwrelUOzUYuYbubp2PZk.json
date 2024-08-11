@@ -1,0 +1,33 @@
+{
+  "id": "2GGwrelUOzUYuYbubp2PZk",
+  "name": "deepState",
+  "uri": "spotify:artist:2GGwrelUOzUYuYbubp2PZk",
+  "followers": {
+    "href": null,
+    "total": 839
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb211a8802f716cea8426b7815",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174211a8802f716cea8426b7815",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178211a8802f716cea8426b7815",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2GGwrelUOzUYuYbubp2PZk"
+  }
+}

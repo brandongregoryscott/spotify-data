@@ -1,0 +1,33 @@
+{
+  "id": "3waE27H5ulMP2AdznLCX2c",
+  "name": "nerdylanguage",
+  "uri": "spotify:artist:3waE27H5ulMP2AdznLCX2c",
+  "followers": {
+    "href": null,
+    "total": 566
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf0b54e57af70920f25a23125",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f0b54e57af70920f25a23125",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f0b54e57af70920f25a23125",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3waE27H5ulMP2AdznLCX2c"
+  }
+}

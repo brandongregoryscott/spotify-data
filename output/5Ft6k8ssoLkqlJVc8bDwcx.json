@@ -1,0 +1,33 @@
+{
+  "id": "5Ft6k8ssoLkqlJVc8bDwcx",
+  "name": "La Volpe Band",
+  "uri": "spotify:artist:5Ft6k8ssoLkqlJVc8bDwcx",
+  "followers": {
+    "href": null,
+    "total": 194
+  },
+  "genres": [
+    "indie canario"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb06ec13f529680035add48ebb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517406ec13f529680035add48ebb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17806ec13f529680035add48ebb",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Ft6k8ssoLkqlJVc8bDwcx"
+  }
+}

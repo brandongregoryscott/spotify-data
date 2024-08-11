@@ -1,0 +1,33 @@
+{
+  "id": "0tOolCdSdiJiFHu05tf7mO",
+  "name": "Miltrick",
+  "uri": "spotify:artist:0tOolCdSdiJiFHu05tf7mO",
+  "followers": {
+    "href": null,
+    "total": 633
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb90880d3d7182fc7d762b0d2c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517490880d3d7182fc7d762b0d2c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17890880d3d7182fc7d762b0d2c",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0tOolCdSdiJiFHu05tf7mO"
+  }
+}

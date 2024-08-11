@@ -1,0 +1,33 @@
+{
+  "id": "0AozPFs98kDNb4wBlQItiN",
+  "name": "Wiley",
+  "uri": "spotify:artist:0AozPFs98kDNb4wBlQItiN",
+  "followers": {
+    "href": null,
+    "total": 1540
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb39b736ac2da9e68a3f7bfe9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b39b736ac2da9e68a3f7bfe9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b39b736ac2da9e68a3f7bfe9",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0AozPFs98kDNb4wBlQItiN"
+  }
+}

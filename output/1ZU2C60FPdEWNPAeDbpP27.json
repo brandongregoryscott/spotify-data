@@ -1,0 +1,33 @@
+{
+  "id": "1ZU2C60FPdEWNPAeDbpP27",
+  "name": "Wonky Donkey",
+  "uri": "spotify:artist:1ZU2C60FPdEWNPAeDbpP27",
+  "followers": {
+    "href": null,
+    "total": 59
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb64c8988f41999c017eefd121",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517464c8988f41999c017eefd121",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17864c8988f41999c017eefd121",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ZU2C60FPdEWNPAeDbpP27"
+  }
+}

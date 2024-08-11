@@ -1,0 +1,33 @@
+{
+  "id": "6OKqACDcueVWJc2yoYmWrx",
+  "name": "Stacey Hersh",
+  "uri": "spotify:artist:6OKqACDcueVWJc2yoYmWrx",
+  "followers": {
+    "href": null,
+    "total": 924
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb60aa71fde41d43e2c3265f0d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517460aa71fde41d43e2c3265f0d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17860aa71fde41d43e2c3265f0d",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6OKqACDcueVWJc2yoYmWrx"
+  }
+}

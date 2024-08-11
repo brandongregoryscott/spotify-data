@@ -1,0 +1,33 @@
+{
+  "id": "2KatuLnF5okbW0hH9qtqEC",
+  "name": "Possible People",
+  "uri": "spotify:artist:2KatuLnF5okbW0hH9qtqEC",
+  "followers": {
+    "href": null,
+    "total": 143
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb79d99e76466d4f2d0f76c5a2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517479d99e76466d4f2d0f76c5a2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17879d99e76466d4f2d0f76c5a2",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2KatuLnF5okbW0hH9qtqEC"
+  }
+}

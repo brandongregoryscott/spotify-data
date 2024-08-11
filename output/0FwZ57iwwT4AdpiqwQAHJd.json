@@ -1,0 +1,33 @@
+{
+  "id": "0FwZ57iwwT4AdpiqwQAHJd",
+  "name": "Enchantya",
+  "uri": "spotify:artist:0FwZ57iwwT4AdpiqwQAHJd",
+  "followers": {
+    "href": null,
+    "total": 752
+  },
+  "genres": [
+    "fallen angel"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731156e9d041a899121edf5461",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021156e9d041a899121edf5461",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511156e9d041a899121edf5461",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0FwZ57iwwT4AdpiqwQAHJd"
+  }
+}

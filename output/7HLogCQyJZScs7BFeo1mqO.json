@@ -1,0 +1,33 @@
+{
+  "id": "7HLogCQyJZScs7BFeo1mqO",
+  "name": "Amusement",
+  "uri": "spotify:artist:7HLogCQyJZScs7BFeo1mqO",
+  "followers": {
+    "href": null,
+    "total": 40
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273493920605668c3040b8b13bf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02493920605668c3040b8b13bf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510c01545cf6bdd34cb1f77c9a",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7HLogCQyJZScs7BFeo1mqO"
+  }
+}

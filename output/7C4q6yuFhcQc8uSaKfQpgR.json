@@ -1,0 +1,33 @@
+{
+  "id": "7C4q6yuFhcQc8uSaKfQpgR",
+  "name": "Foxy Grandpa",
+  "uri": "spotify:artist:7C4q6yuFhcQc8uSaKfQpgR",
+  "followers": {
+    "href": null,
+    "total": 155
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc4b72fa3bd83bc15bc55f918",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c4b72fa3bd83bc15bc55f918",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c4b72fa3bd83bc15bc55f918",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7C4q6yuFhcQc8uSaKfQpgR"
+  }
+}

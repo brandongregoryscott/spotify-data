@@ -1,0 +1,36 @@
+{
+  "id": "38C3okxv3fyyOIQUVPCdGX",
+  "name": "Lee Morgan",
+  "uri": "spotify:artist:38C3okxv3fyyOIQUVPCdGX",
+  "followers": {
+    "href": null,
+    "total": 144931
+  },
+  "genres": [
+    "bebop",
+    "hard bop",
+    "jazz",
+    "jazz trumpet"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe214842fe87630b113bd8df6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e214842fe87630b113bd8df6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e214842fe87630b113bd8df6",
+      "width": 160
+    }
+  ],
+  "popularity": 44,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+  }
+}

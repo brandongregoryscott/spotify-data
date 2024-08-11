@@ -1,0 +1,35 @@
+{
+  "id": "5lGYZDnboio9Gzxod8J1I6",
+  "name": "Subs",
+  "uri": "spotify:artist:5lGYZDnboio9Gzxod8J1I6",
+  "followers": {
+    "href": null,
+    "total": 180
+  },
+  "genres": [
+    "chinese indie rock",
+    "chinese post-punk",
+    "chinese punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738c4be76fb27447fa6d71563c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028c4be76fb27447fa6d71563c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518c4be76fb27447fa6d71563c",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5lGYZDnboio9Gzxod8J1I6"
+  }
+}

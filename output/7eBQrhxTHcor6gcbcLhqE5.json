@@ -1,0 +1,38 @@
+{
+  "id": "7eBQrhxTHcor6gcbcLhqE5",
+  "name": "Porter",
+  "uri": "spotify:artist:7eBQrhxTHcor6gcbcLhqE5",
+  "followers": {
+    "href": null,
+    "total": 389542
+  },
+  "genres": [
+    "guadalajara indie",
+    "indie rock mexicano",
+    "latin alternative",
+    "latin rock",
+    "mexican indie",
+    "mexican rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf95b68852e0c6c6a2278be59",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f95b68852e0c6c6a2278be59",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f95b68852e0c6c6a2278be59",
+      "width": 160
+    }
+  ],
+  "popularity": 54,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+  }
+}

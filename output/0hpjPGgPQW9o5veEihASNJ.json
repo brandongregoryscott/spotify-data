@@ -1,0 +1,33 @@
+{
+  "id": "0hpjPGgPQW9o5veEihASNJ",
+  "name": "Bill Brown",
+  "uri": "spotify:artist:0hpjPGgPQW9o5veEihASNJ",
+  "followers": {
+    "href": null,
+    "total": 8179
+  },
+  "genres": [
+    "video game music"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb96da7b1c66e73a1316145a03",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517496da7b1c66e73a1316145a03",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17896da7b1c66e73a1316145a03",
+      "width": 160
+    }
+  ],
+  "popularity": 47,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0hpjPGgPQW9o5veEihASNJ"
+  }
+}

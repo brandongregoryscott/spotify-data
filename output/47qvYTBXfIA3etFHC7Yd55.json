@@ -1,0 +1,33 @@
+{
+  "id": "47qvYTBXfIA3etFHC7Yd55",
+  "name": "WCX",
+  "uri": "spotify:artist:47qvYTBXfIA3etFHC7Yd55",
+  "followers": {
+    "href": null,
+    "total": 331
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba5144797920f5bc2fe3510e1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a5144797920f5bc2fe3510e1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a5144797920f5bc2fe3510e1",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/47qvYTBXfIA3etFHC7Yd55"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "78vks70wilDSE1qbFDqzNQ",
+  "name": "Mütherload",
+  "uri": "spotify:artist:78vks70wilDSE1qbFDqzNQ",
+  "followers": {
+    "href": null,
+    "total": 139
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733875512760dfeac44b2cdd21",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023875512760dfeac44b2cdd21",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513875512760dfeac44b2cdd21",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/78vks70wilDSE1qbFDqzNQ"
+  }
+}

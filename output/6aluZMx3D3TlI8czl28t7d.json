@@ -1,0 +1,33 @@
+{
+  "id": "6aluZMx3D3TlI8czl28t7d",
+  "name": "Kayjo",
+  "uri": "spotify:artist:6aluZMx3D3TlI8czl28t7d",
+  "followers": {
+    "href": null,
+    "total": 300
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737a30cc07bfb3935bcf70f06a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027a30cc07bfb3935bcf70f06a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517a30cc07bfb3935bcf70f06a",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6aluZMx3D3TlI8czl28t7d"
+  }
+}

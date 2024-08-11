@@ -1,0 +1,33 @@
+{
+  "id": "0to958zlk3gG2usisZLmBM",
+  "name": "Nathan Kent",
+  "uri": "spotify:artist:0to958zlk3gG2usisZLmBM",
+  "followers": {
+    "href": null,
+    "total": 266
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb46f760d49d4dd5ac9ec4ae0a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517446f760d49d4dd5ac9ec4ae0a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17846f760d49d4dd5ac9ec4ae0a",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0to958zlk3gG2usisZLmBM"
+  }
+}

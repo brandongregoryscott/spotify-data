@@ -1,0 +1,33 @@
+{
+  "id": "3S79khDmqHqH3SudDjO6dV",
+  "name": "NO:EL",
+  "uri": "spotify:artist:3S79khDmqHqH3SudDjO6dV",
+  "followers": {
+    "href": null,
+    "total": 132377
+  },
+  "genres": [
+    "k-rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebee72742721ae76347ec30fc1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ee72742721ae76347ec30fc1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ee72742721ae76347ec30fc1",
+      "width": 160
+    }
+  ],
+  "popularity": 41,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3S79khDmqHqH3SudDjO6dV"
+  }
+}

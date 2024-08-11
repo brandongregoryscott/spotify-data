@@ -1,0 +1,33 @@
+{
+  "id": "3oJiQN3zS7CsUrTDzCLtNo",
+  "name": "Sebastian Gille",
+  "uri": "spotify:artist:3oJiQN3zS7CsUrTDzCLtNo",
+  "followers": {
+    "href": null,
+    "total": 160
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ff24140763c8bd2ac7f2b75e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ff24140763c8bd2ac7f2b75e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ff24140763c8bd2ac7f2b75e",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3oJiQN3zS7CsUrTDzCLtNo"
+  }
+}

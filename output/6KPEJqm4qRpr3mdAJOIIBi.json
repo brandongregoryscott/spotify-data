@@ -1,0 +1,33 @@
+{
+  "id": "6KPEJqm4qRpr3mdAJOIIBi",
+  "name": "Ben Stinson",
+  "uri": "spotify:artist:6KPEJqm4qRpr3mdAJOIIBi",
+  "followers": {
+    "href": null,
+    "total": 104
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcc0f2038f5733cb6594db79f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cc0f2038f5733cb6594db79f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cc0f2038f5733cb6594db79f",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6KPEJqm4qRpr3mdAJOIIBi"
+  }
+}

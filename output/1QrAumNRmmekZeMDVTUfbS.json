@@ -1,0 +1,33 @@
+{
+  "id": "1QrAumNRmmekZeMDVTUfbS",
+  "name": "Phi11a",
+  "uri": "spotify:artist:1QrAumNRmmekZeMDVTUfbS",
+  "followers": {
+    "href": null,
+    "total": 5090
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb64db53b5e0ddb9e4d6ddade",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b64db53b5e0ddb9e4d6ddade",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b64db53b5e0ddb9e4d6ddade",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS"
+  }
+}

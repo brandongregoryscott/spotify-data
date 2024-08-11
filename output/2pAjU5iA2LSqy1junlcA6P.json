@@ -1,0 +1,33 @@
+{
+  "id": "2pAjU5iA2LSqy1junlcA6P",
+  "name": "FINLAY",
+  "uri": "spotify:artist:2pAjU5iA2LSqy1junlcA6P",
+  "followers": {
+    "href": null,
+    "total": 7543
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb04972ee64ac514181e8c38cb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517404972ee64ac514181e8c38cb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17804972ee64ac514181e8c38cb",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2pAjU5iA2LSqy1junlcA6P"
+  }
+}

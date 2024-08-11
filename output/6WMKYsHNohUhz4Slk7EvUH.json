@@ -1,0 +1,33 @@
+{
+  "id": "6WMKYsHNohUhz4Slk7EvUH",
+  "name": "Brutus",
+  "uri": "spotify:artist:6WMKYsHNohUhz4Slk7EvUH",
+  "followers": {
+    "href": null,
+    "total": 7952
+  },
+  "genres": [
+    "swedish stoner rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb154cf1e6303b55b2ed346894",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174154cf1e6303b55b2ed346894",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178154cf1e6303b55b2ed346894",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6WMKYsHNohUhz4Slk7EvUH"
+  }
+}

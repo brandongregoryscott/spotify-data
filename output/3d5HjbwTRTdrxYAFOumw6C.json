@@ -1,0 +1,33 @@
+{
+  "id": "3d5HjbwTRTdrxYAFOumw6C",
+  "name": "SunMa",
+  "uri": "spotify:artist:3d5HjbwTRTdrxYAFOumw6C",
+  "followers": {
+    "href": null,
+    "total": 363
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb10d2081abf08cbd16287c7d3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517410d2081abf08cbd16287c7d3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17810d2081abf08cbd16287c7d3",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3d5HjbwTRTdrxYAFOumw6C"
+  }
+}

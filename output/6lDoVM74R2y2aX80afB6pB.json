@@ -1,0 +1,33 @@
+{
+  "id": "6lDoVM74R2y2aX80afB6pB",
+  "name": "A Band Called Ma",
+  "uri": "spotify:artist:6lDoVM74R2y2aX80afB6pB",
+  "followers": {
+    "href": null,
+    "total": 174
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb22ff532ea12898b905af3d0d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517422ff532ea12898b905af3d0d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17822ff532ea12898b905af3d0d",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6lDoVM74R2y2aX80afB6pB"
+  }
+}

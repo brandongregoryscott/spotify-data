@@ -1,0 +1,33 @@
+{
+  "id": "6CmLfFtsXQElZHMpNBXm0S",
+  "name": "XIMEUA",
+  "uri": "spotify:artist:6CmLfFtsXQElZHMpNBXm0S",
+  "followers": {
+    "href": null,
+    "total": 427
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe7a661cc7bd423d2edc139f6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e7a661cc7bd423d2edc139f6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e7a661cc7bd423d2edc139f6",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6CmLfFtsXQElZHMpNBXm0S"
+  }
+}

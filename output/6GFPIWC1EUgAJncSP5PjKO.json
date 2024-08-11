@@ -1,0 +1,33 @@
+{
+  "id": "6GFPIWC1EUgAJncSP5PjKO",
+  "name": "evrymeN",
+  "uri": "spotify:artist:6GFPIWC1EUgAJncSP5PjKO",
+  "followers": {
+    "href": null,
+    "total": 69
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb10f12778fe63b0d9fd3c315b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517410f12778fe63b0d9fd3c315b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17810f12778fe63b0d9fd3c315b",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6GFPIWC1EUgAJncSP5PjKO"
+  }
+}

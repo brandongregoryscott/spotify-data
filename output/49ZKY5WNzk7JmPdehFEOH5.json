@@ -1,0 +1,33 @@
+{
+  "id": "49ZKY5WNzk7JmPdehFEOH5",
+  "name": "Los Hotpants",
+  "uri": "spotify:artist:49ZKY5WNzk7JmPdehFEOH5",
+  "followers": {
+    "href": null,
+    "total": 775
+  },
+  "genres": [
+    "colombian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba5d642a5dd476a295b039101",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a5d642a5dd476a295b039101",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a5d642a5dd476a295b039101",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/49ZKY5WNzk7JmPdehFEOH5"
+  }
+}

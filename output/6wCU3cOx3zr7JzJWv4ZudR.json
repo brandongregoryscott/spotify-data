@@ -1,0 +1,33 @@
+{
+  "id": "6wCU3cOx3zr7JzJWv4ZudR",
+  "name": "greatestredefined",
+  "uri": "spotify:artist:6wCU3cOx3zr7JzJWv4ZudR",
+  "followers": {
+    "href": null,
+    "total": 4324
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebead1af1201c75c45b79f9d02",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ead1af1201c75c45b79f9d02",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ead1af1201c75c45b79f9d02",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6wCU3cOx3zr7JzJWv4ZudR"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "03mIySfdVDYhgTr9h25X7G",
+  "name": "Carl Pariso",
+  "uri": "spotify:artist:03mIySfdVDYhgTr9h25X7G",
+  "followers": {
+    "href": null,
+    "total": 106
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb52a5d750ea44519b8455f710",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517452a5d750ea44519b8455f710",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17852a5d750ea44519b8455f710",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03mIySfdVDYhgTr9h25X7G"
+  }
+}

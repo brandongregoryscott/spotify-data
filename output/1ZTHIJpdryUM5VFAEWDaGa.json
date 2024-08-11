@@ -1,0 +1,33 @@
+{
+  "id": "1ZTHIJpdryUM5VFAEWDaGa",
+  "name": "Jurell",
+  "uri": "spotify:artist:1ZTHIJpdryUM5VFAEWDaGa",
+  "followers": {
+    "href": null,
+    "total": 68
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb00c11d1c53aad8f94315f02f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517400c11d1c53aad8f94315f02f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17800c11d1c53aad8f94315f02f",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ZTHIJpdryUM5VFAEWDaGa"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5FiWc3b8Ad1o6FPdcpI2fC",
+  "name": "Rodriguez Rodriguez",
+  "uri": "spotify:artist:5FiWc3b8Ad1o6FPdcpI2fC",
+  "followers": {
+    "href": null,
+    "total": 219
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb59b8abd3fb4067c94ab4e76",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b59b8abd3fb4067c94ab4e76",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b59b8abd3fb4067c94ab4e76",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5FiWc3b8Ad1o6FPdcpI2fC"
+  }
+}

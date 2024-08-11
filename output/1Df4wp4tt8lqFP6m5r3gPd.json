@@ -1,0 +1,33 @@
+{
+  "id": "1Df4wp4tt8lqFP6m5r3gPd",
+  "name": "Kila",
+  "uri": "spotify:artist:1Df4wp4tt8lqFP6m5r3gPd",
+  "followers": {
+    "href": null,
+    "total": 74
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3e33e50966beef2a18611078",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051743e33e50966beef2a18611078",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1783e33e50966beef2a18611078",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Df4wp4tt8lqFP6m5r3gPd"
+  }
+}

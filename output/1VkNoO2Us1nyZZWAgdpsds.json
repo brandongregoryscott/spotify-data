@@ -1,0 +1,33 @@
+{
+  "id": "1VkNoO2Us1nyZZWAgdpsds",
+  "name": "Kalle Ahola",
+  "uri": "spotify:artist:1VkNoO2Us1nyZZWAgdpsds",
+  "followers": {
+    "href": null,
+    "total": 1048
+  },
+  "genres": [
+    "laulaja-lauluntekija"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdee1a7a1b0f3dd87c1a415e5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dee1a7a1b0f3dd87c1a415e5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dee1a7a1b0f3dd87c1a415e5",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1VkNoO2Us1nyZZWAgdpsds"
+  }
+}

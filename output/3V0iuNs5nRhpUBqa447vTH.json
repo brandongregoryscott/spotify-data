@@ -1,0 +1,33 @@
+{
+  "id": "3V0iuNs5nRhpUBqa447vTH",
+  "name": "Forrester Grey",
+  "uri": "spotify:artist:3V0iuNs5nRhpUBqa447vTH",
+  "followers": {
+    "href": null,
+    "total": 165
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb37c9255e4c851dcae7790d4d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517437c9255e4c851dcae7790d4d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17837c9255e4c851dcae7790d4d",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3V0iuNs5nRhpUBqa447vTH"
+  }
+}

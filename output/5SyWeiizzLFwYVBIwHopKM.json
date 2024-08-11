@@ -1,0 +1,33 @@
+{
+  "id": "5SyWeiizzLFwYVBIwHopKM",
+  "name": "Jack Funk",
+  "uri": "spotify:artist:5SyWeiizzLFwYVBIwHopKM",
+  "followers": {
+    "href": null,
+    "total": 99
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb03025210d6dcefac652a76a8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517403025210d6dcefac652a76a8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17803025210d6dcefac652a76a8",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5SyWeiizzLFwYVBIwHopKM"
+  }
+}

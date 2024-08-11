@@ -1,0 +1,33 @@
+{
+  "id": "1ERPZiUKiUlEbYMkdI7TXa",
+  "name": "El Ray",
+  "uri": "spotify:artist:1ERPZiUKiUlEbYMkdI7TXa",
+  "followers": {
+    "href": null,
+    "total": 658
+  },
+  "genres": [
+    "instrumental surf"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27314c2218d5eea8a88159a54e8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0214c2218d5eea8a88159a54e8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485114c2218d5eea8a88159a54e8",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ERPZiUKiUlEbYMkdI7TXa"
+  }
+}

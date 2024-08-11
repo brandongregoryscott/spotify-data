@@ -1,0 +1,35 @@
+{
+  "id": "3ovMVfc0goF4SEurQ6rgAF",
+  "name": "I:gor",
+  "uri": "spotify:artist:3ovMVfc0goF4SEurQ6rgAF",
+  "followers": {
+    "href": null,
+    "total": 8562
+  },
+  "genres": [
+    "darkstep",
+    "industrial hardcore",
+    "uptempo hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738a808287924ed68f4f0ab1ff",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028a808287924ed68f4f0ab1ff",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518a808287924ed68f4f0ab1ff",
+      "width": 64
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ovMVfc0goF4SEurQ6rgAF"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2oPPuIRXZ5gCKBtbt3dcsb",
+  "name": "Summer Flake",
+  "uri": "spotify:artist:2oPPuIRXZ5gCKBtbt3dcsb",
+  "followers": {
+    "href": null,
+    "total": 1388
+  },
+  "genres": [
+    "australian indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc0053f4c64c7589addd24cc5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c0053f4c64c7589addd24cc5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c0053f4c64c7589addd24cc5",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2oPPuIRXZ5gCKBtbt3dcsb"
+  }
+}

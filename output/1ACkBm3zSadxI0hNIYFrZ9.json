@@ -1,0 +1,33 @@
+{
+  "id": "1ACkBm3zSadxI0hNIYFrZ9",
+  "name": "Los Años Rojos",
+  "uri": "spotify:artist:1ACkBm3zSadxI0hNIYFrZ9",
+  "followers": {
+    "href": null,
+    "total": 185
+  },
+  "genres": [
+    "indie platense"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd921c64643542f31c786e130",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d921c64643542f31c786e130",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d921c64643542f31c786e130",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ACkBm3zSadxI0hNIYFrZ9"
+  }
+}

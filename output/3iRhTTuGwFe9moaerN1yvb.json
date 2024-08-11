@@ -1,0 +1,33 @@
+{
+  "id": "3iRhTTuGwFe9moaerN1yvb",
+  "name": "One Sentence. Supervisor",
+  "uri": "spotify:artist:3iRhTTuGwFe9moaerN1yvb",
+  "followers": {
+    "href": null,
+    "total": 4120
+  },
+  "genres": [
+    "swiss indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba8535bf94cbf74e31f5772e4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a8535bf94cbf74e31f5772e4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a8535bf94cbf74e31f5772e4",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3iRhTTuGwFe9moaerN1yvb"
+  }
+}

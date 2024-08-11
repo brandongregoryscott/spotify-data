@@ -1,0 +1,33 @@
+{
+  "id": "1e4dPzUzkomVbku2fY65uJ",
+  "name": "$age",
+  "uri": "spotify:artist:1e4dPzUzkomVbku2fY65uJ",
+  "followers": {
+    "href": null,
+    "total": 19
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb74e763ff7cb2d0145085f22e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517474e763ff7cb2d0145085f22e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17874e763ff7cb2d0145085f22e",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1e4dPzUzkomVbku2fY65uJ"
+  }
+}

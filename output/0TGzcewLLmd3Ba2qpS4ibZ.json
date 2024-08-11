@@ -1,0 +1,33 @@
+{
+  "id": "0TGzcewLLmd3Ba2qpS4ibZ",
+  "name": "Noel Goff",
+  "uri": "spotify:artist:0TGzcewLLmd3Ba2qpS4ibZ",
+  "followers": {
+    "href": null,
+    "total": 187
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf8fa64446d11fafa848691f6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f8fa64446d11fafa848691f6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f8fa64446d11fafa848691f6",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0TGzcewLLmd3Ba2qpS4ibZ"
+  }
+}

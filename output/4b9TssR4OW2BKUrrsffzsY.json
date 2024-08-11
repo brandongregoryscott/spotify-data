@@ -1,0 +1,33 @@
+{
+  "id": "4b9TssR4OW2BKUrrsffzsY",
+  "name": "ELI GABLE",
+  "uri": "spotify:artist:4b9TssR4OW2BKUrrsffzsY",
+  "followers": {
+    "href": null,
+    "total": 3657
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5e5cf7a541d2d6607ac6b61c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051745e5cf7a541d2d6607ac6b61c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1785e5cf7a541d2d6607ac6b61c",
+      "width": 160
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4b9TssR4OW2BKUrrsffzsY"
+  }
+}

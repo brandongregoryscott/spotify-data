@@ -1,0 +1,33 @@
+{
+  "id": "1lWoCfgK39pYMw54c6d72O",
+  "name": "Håndgemeng",
+  "uri": "spotify:artist:1lWoCfgK39pYMw54c6d72O",
+  "followers": {
+    "href": null,
+    "total": 1840
+  },
+  "genres": [
+    "norwegian alternative rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe82695562338daaced316b7e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e82695562338daaced316b7e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e82695562338daaced316b7e",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1lWoCfgK39pYMw54c6d72O"
+  }
+}

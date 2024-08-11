@@ -1,0 +1,33 @@
+{
+  "id": "003A21oEyc5t39CvAfzxpF",
+  "name": "Hombre sin Nombre",
+  "uri": "spotify:artist:003A21oEyc5t39CvAfzxpF",
+  "followers": {
+    "href": null,
+    "total": 34
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273954046bb825a2a10d7b200e3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02954046bb825a2a10d7b200e3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851954046bb825a2a10d7b200e3",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/003A21oEyc5t39CvAfzxpF"
+  }
+}

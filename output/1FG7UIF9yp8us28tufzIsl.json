@@ -1,0 +1,33 @@
+{
+  "id": "1FG7UIF9yp8us28tufzIsl",
+  "name": "Wolf Gordon",
+  "uri": "spotify:artist:1FG7UIF9yp8us28tufzIsl",
+  "followers": {
+    "href": null,
+    "total": 248
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273419991df20a69ead131c1ed2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02419991df20a69ead131c1ed2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851419991df20a69ead131c1ed2",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1FG7UIF9yp8us28tufzIsl"
+  }
+}

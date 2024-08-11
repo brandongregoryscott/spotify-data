@@ -1,0 +1,33 @@
+{
+  "id": "33kHhOrdqFOL6dZGmuoKdT",
+  "name": "[Meteor]",
+  "uri": "spotify:artist:33kHhOrdqFOL6dZGmuoKdT",
+  "followers": {
+    "href": null,
+    "total": 592
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb248d8817a5124db7abbe7da",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b248d8817a5124db7abbe7da",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b248d8817a5124db7abbe7da",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/33kHhOrdqFOL6dZGmuoKdT"
+  }
+}

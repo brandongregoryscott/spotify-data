@@ -1,0 +1,33 @@
+{
+  "id": "3EwtOLCqfnvcF2CY9b64gN",
+  "name": "SJAY Music",
+  "uri": "spotify:artist:3EwtOLCqfnvcF2CY9b64gN",
+  "followers": {
+    "href": null,
+    "total": 698
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273310efe19b40a12bfcd492a35",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02310efe19b40a12bfcd492a35",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851310efe19b40a12bfcd492a35",
+      "width": 64
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3EwtOLCqfnvcF2CY9b64gN"
+  }
+}

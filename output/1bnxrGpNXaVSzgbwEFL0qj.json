@@ -1,0 +1,33 @@
+{
+  "id": "1bnxrGpNXaVSzgbwEFL0qj",
+  "name": "Alter Ego",
+  "uri": "spotify:artist:1bnxrGpNXaVSzgbwEFL0qj",
+  "followers": {
+    "href": null,
+    "total": 8774
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738796b945e8b4be47d0d0400a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028796b945e8b4be47d0d0400a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518796b945e8b4be47d0d0400a",
+      "width": 64
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1bnxrGpNXaVSzgbwEFL0qj"
+  }
+}

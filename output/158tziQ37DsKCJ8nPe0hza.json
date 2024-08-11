@@ -1,0 +1,33 @@
+{
+  "id": "158tziQ37DsKCJ8nPe0hza",
+  "name": "JOBIM",
+  "uri": "spotify:artist:158tziQ37DsKCJ8nPe0hza",
+  "followers": {
+    "href": null,
+    "total": 130
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb29f4b6972020190ecbcf81d4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517429f4b6972020190ecbcf81d4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17829f4b6972020190ecbcf81d4",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/158tziQ37DsKCJ8nPe0hza"
+  }
+}

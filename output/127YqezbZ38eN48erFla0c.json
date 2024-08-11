@@ -1,0 +1,33 @@
+{
+  "id": "127YqezbZ38eN48erFla0c",
+  "name": "feellove",
+  "uri": "spotify:artist:127YqezbZ38eN48erFla0c",
+  "followers": {
+    "href": null,
+    "total": 148
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb59efe974101b1723ff3f387c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517459efe974101b1723ff3f387c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17859efe974101b1723ff3f387c",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/127YqezbZ38eN48erFla0c"
+  }
+}

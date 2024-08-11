@@ -1,0 +1,33 @@
+{
+  "id": "365GHgSqCgSZNjVoVeAcjU",
+  "name": "Brian Quirk",
+  "uri": "spotify:artist:365GHgSqCgSZNjVoVeAcjU",
+  "followers": {
+    "href": null,
+    "total": 1000
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe59c4a8084938e88d81e69e6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e59c4a8084938e88d81e69e6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e59c4a8084938e88d81e69e6",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/365GHgSqCgSZNjVoVeAcjU"
+  }
+}

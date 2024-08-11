@@ -1,0 +1,33 @@
+{
+  "id": "3M88SItH1gVwQFKoswyaIB",
+  "name": "Bridge Dog",
+  "uri": "spotify:artist:3M88SItH1gVwQFKoswyaIB",
+  "followers": {
+    "href": null,
+    "total": 3386
+  },
+  "genres": [
+    "australian shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb56efc5a89ff893406025ea7b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517456efc5a89ff893406025ea7b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17856efc5a89ff893406025ea7b",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3M88SItH1gVwQFKoswyaIB"
+  }
+}

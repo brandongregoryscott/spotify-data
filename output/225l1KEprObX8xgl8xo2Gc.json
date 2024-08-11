@@ -1,0 +1,34 @@
+{
+  "id": "225l1KEprObX8xgl8xo2Gc",
+  "name": "BluntOne",
+  "uri": "spotify:artist:225l1KEprObX8xgl8xo2Gc",
+  "followers": {
+    "href": null,
+    "total": 23803
+  },
+  "genres": [
+    "chillhop",
+    "lo-fi beats"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb62c3fe29c434f8dccbcb88ea",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517462c3fe29c434f8dccbcb88ea",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17862c3fe29c434f8dccbcb88ea",
+      "width": 160
+    }
+  ],
+  "popularity": 54,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc"
+  }
+}

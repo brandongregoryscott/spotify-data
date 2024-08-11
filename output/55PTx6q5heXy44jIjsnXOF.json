@@ -1,0 +1,33 @@
+{
+  "id": "55PTx6q5heXy44jIjsnXOF",
+  "name": "Uwaprods",
+  "uri": "spotify:artist:55PTx6q5heXy44jIjsnXOF",
+  "followers": {
+    "href": null,
+    "total": 76
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb99c9de0fb0ac2427114bcbb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b99c9de0fb0ac2427114bcbb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b99c9de0fb0ac2427114bcbb",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/55PTx6q5heXy44jIjsnXOF"
+  }
+}

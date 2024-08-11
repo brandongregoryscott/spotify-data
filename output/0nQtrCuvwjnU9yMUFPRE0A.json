@@ -1,0 +1,33 @@
+{
+  "id": "0nQtrCuvwjnU9yMUFPRE0A",
+  "name": "マリ",
+  "uri": "spotify:artist:0nQtrCuvwjnU9yMUFPRE0A",
+  "followers": {
+    "href": null,
+    "total": 258
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27334e4f09dcfc45159750c5965",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0234e4f09dcfc45159750c5965",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485134e4f09dcfc45159750c5965",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0nQtrCuvwjnU9yMUFPRE0A"
+  }
+}

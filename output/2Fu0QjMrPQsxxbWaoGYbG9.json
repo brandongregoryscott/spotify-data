@@ -1,0 +1,33 @@
+{
+  "id": "2Fu0QjMrPQsxxbWaoGYbG9",
+  "name": "Les Blondes",
+  "uri": "spotify:artist:2Fu0QjMrPQsxxbWaoGYbG9",
+  "followers": {
+    "href": null,
+    "total": 270
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdbf624218867fc1569987dbc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dbf624218867fc1569987dbc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dbf624218867fc1569987dbc",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Fu0QjMrPQsxxbWaoGYbG9"
+  }
+}

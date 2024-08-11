@@ -1,0 +1,33 @@
+{
+  "id": "3UWC0gxw7NDCJArxQ1Otnu",
+  "name": "Dekel",
+  "uri": "spotify:artist:3UWC0gxw7NDCJArxQ1Otnu",
+  "followers": {
+    "href": null,
+    "total": 258
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27336e2bab204f9f7fdea96c2cd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0236e2bab204f9f7fdea96c2cd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485136e2bab204f9f7fdea96c2cd",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3UWC0gxw7NDCJArxQ1Otnu"
+  }
+}

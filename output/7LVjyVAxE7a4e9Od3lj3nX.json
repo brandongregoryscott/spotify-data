@@ -1,0 +1,35 @@
+{
+  "id": "7LVjyVAxE7a4e9Od3lj3nX",
+  "name": "Arzachel",
+  "uri": "spotify:artist:7LVjyVAxE7a4e9Od3lj3nX",
+  "followers": {
+    "href": null,
+    "total": 15206
+  },
+  "genres": [
+    "canterbury scene",
+    "psychedelic blues-rock",
+    "psychedelic rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735de8b1e831848b4fd66db8ce",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025de8b1e831848b4fd66db8ce",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515de8b1e831848b4fd66db8ce",
+      "width": 64
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7LVjyVAxE7a4e9Od3lj3nX"
+  }
+}

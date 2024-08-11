@@ -1,0 +1,33 @@
+{
+  "id": "3bsXMylKpWFULtdMNYf53q",
+  "name": "SEAK",
+  "uri": "spotify:artist:3bsXMylKpWFULtdMNYf53q",
+  "followers": {
+    "href": null,
+    "total": 33
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebda46f25f3de78f6284519269",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174da46f25f3de78f6284519269",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178da46f25f3de78f6284519269",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3bsXMylKpWFULtdMNYf53q"
+  }
+}

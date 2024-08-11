@@ -1,0 +1,34 @@
+{
+  "id": "1LbjPFhFXSLc5ec466XADm",
+  "name": "Ландыши",
+  "uri": "spotify:artist:1LbjPFhFXSLc5ec466XADm",
+  "followers": {
+    "href": null,
+    "total": 4134
+  },
+  "genres": [
+    "russian punk",
+    "russian ska"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf11f326a3125314eba3b69c1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f11f326a3125314eba3b69c1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f11f326a3125314eba3b69c1",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1LbjPFhFXSLc5ec466XADm"
+  }
+}

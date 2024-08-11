@@ -1,0 +1,33 @@
+{
+  "id": "6BznTITRfI9GS7advm1gH8",
+  "name": "YKD",
+  "uri": "spotify:artist:6BznTITRfI9GS7advm1gH8",
+  "followers": {
+    "href": null,
+    "total": 571
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb96453b5396bcc34b75d02e9e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517496453b5396bcc34b75d02e9e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17896453b5396bcc34b75d02e9e",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6BznTITRfI9GS7advm1gH8"
+  }
+}

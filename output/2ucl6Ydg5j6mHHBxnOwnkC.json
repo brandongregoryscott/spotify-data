@@ -1,0 +1,33 @@
+{
+  "id": "2ucl6Ydg5j6mHHBxnOwnkC",
+  "name": "Gitai",
+  "uri": "spotify:artist:2ucl6Ydg5j6mHHBxnOwnkC",
+  "followers": {
+    "href": null,
+    "total": 236
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb59e2b5fe0c48ee88b1211ed1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517459e2b5fe0c48ee88b1211ed1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17859e2b5fe0c48ee88b1211ed1",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ucl6Ydg5j6mHHBxnOwnkC"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7GNeoUvT0lHoLNwM1VACoY",
+  "name": "SAD BUT TRUE",
+  "uri": "spotify:artist:7GNeoUvT0lHoLNwM1VACoY",
+  "followers": {
+    "href": null,
+    "total": 204
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb708a8e57da0cda64ddd3d8ec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174708a8e57da0cda64ddd3d8ec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178708a8e57da0cda64ddd3d8ec",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7GNeoUvT0lHoLNwM1VACoY"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20qV6nfkXjTMiIvIaptSsE",
+  "name": "The Lumes",
+  "uri": "spotify:artist:20qV6nfkXjTMiIvIaptSsE",
+  "followers": {
+    "href": null,
+    "total": 329
+  },
+  "genres": [
+    "rotterdam indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcc657add6ed1b2e80aab51e1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cc657add6ed1b2e80aab51e1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cc657add6ed1b2e80aab51e1",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/20qV6nfkXjTMiIvIaptSsE"
+  }
+}

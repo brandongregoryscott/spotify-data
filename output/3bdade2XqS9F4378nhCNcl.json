@@ -1,0 +1,33 @@
+{
+  "id": "3bdade2XqS9F4378nhCNcl",
+  "name": "Slodown",
+  "uri": "spotify:artist:3bdade2XqS9F4378nhCNcl",
+  "followers": {
+    "href": null,
+    "total": 4126
+  },
+  "genres": [
+    "singaporean pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9b2a7866f881903c6d36c8a9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051749b2a7866f881903c6d36c8a9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1789b2a7866f881903c6d36c8a9",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3bdade2XqS9F4378nhCNcl"
+  }
+}

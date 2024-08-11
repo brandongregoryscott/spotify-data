@@ -1,0 +1,33 @@
+{
+  "id": "3HnHMLbkU8okWNdx9i2abj",
+  "name": "Bright Sun",
+  "uri": "spotify:artist:3HnHMLbkU8okWNdx9i2abj",
+  "followers": {
+    "href": null,
+    "total": 46
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cd5399770e897948ad68c959",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cd5399770e897948ad68c959",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cd5399770e897948ad68c959",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3HnHMLbkU8okWNdx9i2abj"
+  }
+}

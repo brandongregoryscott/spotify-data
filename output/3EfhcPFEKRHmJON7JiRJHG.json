@@ -1,0 +1,33 @@
+{
+  "id": "3EfhcPFEKRHmJON7JiRJHG",
+  "name": "Francesc",
+  "uri": "spotify:artist:3EfhcPFEKRHmJON7JiRJHG",
+  "followers": {
+    "href": null,
+    "total": 431
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdd9205e9429da80a706bffc5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dd9205e9429da80a706bffc5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dd9205e9429da80a706bffc5",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3EfhcPFEKRHmJON7JiRJHG"
+  }
+}

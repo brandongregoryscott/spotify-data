@@ -1,0 +1,33 @@
+{
+  "id": "1AcPX3hBe2sVJTKlHCGzWr",
+  "name": "Desolation",
+  "uri": "spotify:artist:1AcPX3hBe2sVJTKlHCGzWr",
+  "followers": {
+    "href": null,
+    "total": 289
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd3cf8b742816322bdcc7d0da",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d3cf8b742816322bdcc7d0da",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d3cf8b742816322bdcc7d0da",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1AcPX3hBe2sVJTKlHCGzWr"
+  }
+}

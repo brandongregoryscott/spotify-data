@@ -1,0 +1,33 @@
+{
+  "id": "6jlKK6jwCQOcdsNlNfKlMq",
+  "name": "Dinis",
+  "uri": "spotify:artist:6jlKK6jwCQOcdsNlNfKlMq",
+  "followers": {
+    "href": null,
+    "total": 1698
+  },
+  "genres": [
+    "lo-fi study"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba79a48c34a8bcc1490041758",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a79a48c34a8bcc1490041758",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a79a48c34a8bcc1490041758",
+      "width": 160
+    }
+  ],
+  "popularity": 48,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq"
+  }
+}

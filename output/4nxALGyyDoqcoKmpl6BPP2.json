@@ -1,0 +1,33 @@
+{
+  "id": "4nxALGyyDoqcoKmpl6BPP2",
+  "name": "Pollinator",
+  "uri": "spotify:artist:4nxALGyyDoqcoKmpl6BPP2",
+  "followers": {
+    "href": null,
+    "total": 446
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcf4e1624e20fd5b199ebdfec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cf4e1624e20fd5b199ebdfec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cf4e1624e20fd5b199ebdfec",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4nxALGyyDoqcoKmpl6BPP2"
+  }
+}

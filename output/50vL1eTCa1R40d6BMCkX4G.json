@@ -1,0 +1,33 @@
+{
+  "id": "50vL1eTCa1R40d6BMCkX4G",
+  "name": "Pixie Cola",
+  "uri": "spotify:artist:50vL1eTCa1R40d6BMCkX4G",
+  "followers": {
+    "href": null,
+    "total": 603
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc666f8db4e1f9ae47cf2da1f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c666f8db4e1f9ae47cf2da1f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c666f8db4e1f9ae47cf2da1f",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/50vL1eTCa1R40d6BMCkX4G"
+  }
+}

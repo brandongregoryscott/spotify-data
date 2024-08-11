@@ -1,0 +1,33 @@
+{
+  "id": "5PFWmR0MnukKyEDc5dCmqO",
+  "name": "Colorbred",
+  "uri": "spotify:artist:5PFWmR0MnukKyEDc5dCmqO",
+  "followers": {
+    "href": null,
+    "total": 130
+  },
+  "genres": [
+    "swancore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbdaa662f73a6b427e802f788",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bdaa662f73a6b427e802f788",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bdaa662f73a6b427e802f788",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5PFWmR0MnukKyEDc5dCmqO"
+  }
+}

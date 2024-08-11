@@ -1,0 +1,36 @@
+{
+  "id": "5cbutZUQE7SUCA6MsEMbBv",
+  "name": "Hank Mobley",
+  "uri": "spotify:artist:5cbutZUQE7SUCA6MsEMbBv",
+  "followers": {
+    "href": null,
+    "total": 93653
+  },
+  "genres": [
+    "bebop",
+    "hard bop",
+    "jazz",
+    "jazz saxophone"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb58136a57ebcbd783ab43d363",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517458136a57ebcbd783ab43d363",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17858136a57ebcbd783ab43d363",
+      "width": 160
+    }
+  ],
+  "popularity": 47,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+  }
+}

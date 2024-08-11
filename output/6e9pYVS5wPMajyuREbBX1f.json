@@ -1,0 +1,33 @@
+{
+  "id": "6e9pYVS5wPMajyuREbBX1f",
+  "name": "CD",
+  "uri": "spotify:artist:6e9pYVS5wPMajyuREbBX1f",
+  "followers": {
+    "href": null,
+    "total": 1345
+  },
+  "genres": [
+    "australian r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb228e61e30716c3dba6736131",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174228e61e30716c3dba6736131",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178228e61e30716c3dba6736131",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6e9pYVS5wPMajyuREbBX1f"
+  }
+}

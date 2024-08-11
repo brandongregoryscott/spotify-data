@@ -1,0 +1,33 @@
+{
+  "id": "0UdJNSNaidFc1CkeTtFknv",
+  "name": "Jude Bradshaw",
+  "uri": "spotify:artist:0UdJNSNaidFc1CkeTtFknv",
+  "followers": {
+    "href": null,
+    "total": 449
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb76591d311f6668bf582212f9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517476591d311f6668bf582212f9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17876591d311f6668bf582212f9",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0UdJNSNaidFc1CkeTtFknv"
+  }
+}

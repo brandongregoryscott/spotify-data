@@ -1,0 +1,33 @@
+{
+  "id": "1dOgFQ3ysmqiyKVmQVevQe",
+  "name": "Mackenzie Roark",
+  "uri": "spotify:artist:1dOgFQ3ysmqiyKVmQVevQe",
+  "followers": {
+    "href": null,
+    "total": 528
+  },
+  "genres": [
+    "rva indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb60fe7cbbc51735c7e96eec15",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517460fe7cbbc51735c7e96eec15",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17860fe7cbbc51735c7e96eec15",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1dOgFQ3ysmqiyKVmQVevQe"
+  }
+}

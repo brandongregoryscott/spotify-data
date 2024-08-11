@@ -1,0 +1,33 @@
+{
+  "id": "5rSdZyA70EXiS6mh9YtpPc",
+  "name": "Twenty Below",
+  "uri": "spotify:artist:5rSdZyA70EXiS6mh9YtpPc",
+  "followers": {
+    "href": null,
+    "total": 348
+  },
+  "genres": [
+    "swancore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb41dcd203b5469444bbbfd5d6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517441dcd203b5469444bbbfd5d6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17841dcd203b5469444bbbfd5d6",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5rSdZyA70EXiS6mh9YtpPc"
+  }
+}

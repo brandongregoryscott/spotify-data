@@ -1,0 +1,33 @@
+{
+  "id": "0htgktSLdayuoAUTUHfBlq",
+  "name": "Hilo",
+  "uri": "spotify:artist:0htgktSLdayuoAUTUHfBlq",
+  "followers": {
+    "href": null,
+    "total": 219
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ed48b8246c6e389c1c5bc3dc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ed48b8246c6e389c1c5bc3dc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ed48b8246c6e389c1c5bc3dc",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0htgktSLdayuoAUTUHfBlq"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "1nXozCqFtfbR32WccVAkNZ",
+  "name": "Djp",
+  "uri": "spotify:artist:1nXozCqFtfbR32WccVAkNZ",
+  "followers": {
+    "href": null,
+    "total": 3328
+  },
+  "genres": [
+    "pop costarricense",
+    "rap tico"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb87f3c58b99bd28326ec2eab8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517487f3c58b99bd28326ec2eab8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17887f3c58b99bd28326ec2eab8",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1nXozCqFtfbR32WccVAkNZ"
+  }
+}

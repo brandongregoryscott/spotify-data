@@ -1,0 +1,33 @@
+{
+  "id": "6rk0B0VcWH7YxKl5b9hoYJ",
+  "name": "Abramowicz",
+  "uri": "spotify:artist:6rk0B0VcWH7YxKl5b9hoYJ",
+  "followers": {
+    "href": null,
+    "total": 4801
+  },
+  "genres": [
+    "german punk rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb71d4ce780fdfb1beae883f08",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517471d4ce780fdfb1beae883f08",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17871d4ce780fdfb1beae883f08",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6rk0B0VcWH7YxKl5b9hoYJ"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0vLYr1Mv8ZysSwJIOxFlMI",
+  "name": "Juberlee",
+  "uri": "spotify:artist:0vLYr1Mv8ZysSwJIOxFlMI",
+  "followers": {
+    "href": null,
+    "total": 56
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a471854c1f7e256705b05652",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a471854c1f7e256705b05652",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a471854c1f7e256705b05652",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0vLYr1Mv8ZysSwJIOxFlMI"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "3Dhh3KGwP2XmiRdMqDLVhQ",
+  "name": "La Doble A",
+  "uri": "spotify:artist:3Dhh3KGwP2XmiRdMqDLVhQ",
+  "followers": {
+    "href": null,
+    "total": 9411
+  },
+  "genres": [
+    "colombian rock",
+    "punk colombiano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb52e169a2c881e0c86d00b92",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b52e169a2c881e0c86d00b92",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b52e169a2c881e0c86d00b92",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Dhh3KGwP2XmiRdMqDLVhQ"
+  }
+}

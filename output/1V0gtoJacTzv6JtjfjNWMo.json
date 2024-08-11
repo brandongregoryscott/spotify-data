@@ -1,0 +1,33 @@
+{
+  "id": "1V0gtoJacTzv6JtjfjNWMo",
+  "name": "The Bold",
+  "uri": "spotify:artist:1V0gtoJacTzv6JtjfjNWMo",
+  "followers": {
+    "href": null,
+    "total": 69
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731b97d3c6229281e7e99f9a09",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021b97d3c6229281e7e99f9a09",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511b97d3c6229281e7e99f9a09",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1V0gtoJacTzv6JtjfjNWMo"
+  }
+}

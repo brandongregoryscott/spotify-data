@@ -1,0 +1,33 @@
+{
+  "id": "6w77l1vpTg3FFz0nriB7ET",
+  "name": "Iravera",
+  "uri": "spotify:artist:6w77l1vpTg3FFz0nriB7ET",
+  "followers": {
+    "href": null,
+    "total": 867
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb50b07e840049183ac543ff0f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517450b07e840049183ac543ff0f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17850b07e840049183ac543ff0f",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6w77l1vpTg3FFz0nriB7ET"
+  }
+}

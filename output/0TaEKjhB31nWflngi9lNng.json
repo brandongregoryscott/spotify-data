@@ -1,0 +1,33 @@
+{
+  "id": "0TaEKjhB31nWflngi9lNng",
+  "name": "Heckmann",
+  "uri": "spotify:artist:0TaEKjhB31nWflngi9lNng",
+  "followers": {
+    "href": null,
+    "total": 138
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb84040e0cf2b9e9372240f38a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517484040e0cf2b9e9372240f38a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17884040e0cf2b9e9372240f38a",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0TaEKjhB31nWflngi9lNng"
+  }
+}

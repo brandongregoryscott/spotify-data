@@ -1,0 +1,34 @@
+{
+  "id": "0e8lGM4QUHGjgzCf69Trbh",
+  "name": "East West Blast Test",
+  "uri": "spotify:artist:0e8lGM4QUHGjgzCf69Trbh",
+  "followers": {
+    "href": null,
+    "total": 500
+  },
+  "genres": [
+    "american grindcore",
+    "brutal prog"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dee6f1a1648aab335a9abaa0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dee6f1a1648aab335a9abaa0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dee6f1a1648aab335a9abaa0",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0e8lGM4QUHGjgzCf69Trbh"
+  }
+}

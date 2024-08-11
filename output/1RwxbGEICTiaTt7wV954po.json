@@ -1,0 +1,33 @@
+{
+  "id": "1RwxbGEICTiaTt7wV954po",
+  "name": "Estuary",
+  "uri": "spotify:artist:1RwxbGEICTiaTt7wV954po",
+  "followers": {
+    "href": null,
+    "total": 107
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebabb11e2c1aed9e3aed319a66",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174abb11e2c1aed9e3aed319a66",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178abb11e2c1aed9e3aed319a66",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1RwxbGEICTiaTt7wV954po"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5CyIGnIFcil87HD9ppK7Io",
+  "name": "Bradford",
+  "uri": "spotify:artist:5CyIGnIFcil87HD9ppK7Io",
+  "followers": {
+    "href": null,
+    "total": 53
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba3306e3e0f1742a37d7ee1be",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a3306e3e0f1742a37d7ee1be",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a3306e3e0f1742a37d7ee1be",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5CyIGnIFcil87HD9ppK7Io"
+  }
+}

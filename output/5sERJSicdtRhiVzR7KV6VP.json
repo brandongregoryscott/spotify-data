@@ -1,0 +1,33 @@
+{
+  "id": "5sERJSicdtRhiVzR7KV6VP",
+  "name": "C.D.E.",
+  "uri": "spotify:artist:5sERJSicdtRhiVzR7KV6VP",
+  "followers": {
+    "href": null,
+    "total": 98
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb98b90a14c23c3b6f6aac4824",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517498b90a14c23c3b6f6aac4824",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17898b90a14c23c3b6f6aac4824",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5sERJSicdtRhiVzR7KV6VP"
+  }
+}

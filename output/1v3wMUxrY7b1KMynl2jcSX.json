@@ -1,0 +1,33 @@
+{
+  "id": "1v3wMUxrY7b1KMynl2jcSX",
+  "name": "Inolvidable",
+  "uri": "spotify:artist:1v3wMUxrY7b1KMynl2jcSX",
+  "followers": {
+    "href": null,
+    "total": 1695
+  },
+  "genres": [
+    "argentine punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb421fd71a34b0f62e59288142",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174421fd71a34b0f62e59288142",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178421fd71a34b0f62e59288142",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1v3wMUxrY7b1KMynl2jcSX"
+  }
+}

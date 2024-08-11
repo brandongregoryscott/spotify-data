@@ -1,0 +1,33 @@
+{
+  "id": "3R76r81STNsUeH9l5KjDDU",
+  "name": "Alma Une",
+  "uri": "spotify:artist:3R76r81STNsUeH9l5KjDDU",
+  "followers": {
+    "href": null,
+    "total": 75
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738aa42297cc1c63e1621e4560",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028aa42297cc1c63e1621e4560",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518aa42297cc1c63e1621e4560",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3R76r81STNsUeH9l5KjDDU"
+  }
+}

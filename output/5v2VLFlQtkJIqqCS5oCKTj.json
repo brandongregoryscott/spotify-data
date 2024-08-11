@@ -1,0 +1,33 @@
+{
+  "id": "5v2VLFlQtkJIqqCS5oCKTj",
+  "name": "Starcrazy",
+  "uri": "spotify:artist:5v2VLFlQtkJIqqCS5oCKTj",
+  "followers": {
+    "href": null,
+    "total": 889
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebefe014bf4a3bdb731c46bf37",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174efe014bf4a3bdb731c46bf37",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178efe014bf4a3bdb731c46bf37",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5v2VLFlQtkJIqqCS5oCKTj"
+  }
+}

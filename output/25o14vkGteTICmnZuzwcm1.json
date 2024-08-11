@@ -1,0 +1,33 @@
+{
+  "id": "25o14vkGteTICmnZuzwcm1",
+  "name": "BabyBoo",
+  "uri": "spotify:artist:25o14vkGteTICmnZuzwcm1",
+  "followers": {
+    "href": null,
+    "total": 617
+  },
+  "genres": [
+    "hyperpop francais"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb82d2c62462b0b453b22a18ed",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517482d2c62462b0b453b22a18ed",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17882d2c62462b0b453b22a18ed",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/25o14vkGteTICmnZuzwcm1"
+  }
+}

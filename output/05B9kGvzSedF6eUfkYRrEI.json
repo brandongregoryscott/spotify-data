@@ -1,0 +1,33 @@
+{
+  "id": "05B9kGvzSedF6eUfkYRrEI",
+  "name": "Disco 2",
+  "uri": "spotify:artist:05B9kGvzSedF6eUfkYRrEI",
+  "followers": {
+    "href": null,
+    "total": 479
+  },
+  "genres": [
+    "sadcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb80f54d33516ef176ede71a84",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517480f54d33516ef176ede71a84",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17880f54d33516ef176ede71a84",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05B9kGvzSedF6eUfkYRrEI"
+  }
+}

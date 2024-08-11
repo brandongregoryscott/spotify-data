@@ -1,0 +1,34 @@
+{
+  "id": "00httbeJHKrKd9Hngr9nfa",
+  "name": "José M. Sánchez-Verdú",
+  "uri": "spotify:artist:00httbeJHKrKd9Hngr9nfa",
+  "followers": {
+    "href": null,
+    "total": 400
+  },
+  "genres": [
+    "21st century classical",
+    "spanish contemporary classical"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e04ef0d8094aaea89f20cc51",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e04ef0d8094aaea89f20cc51",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e04ef0d8094aaea89f20cc51",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/00httbeJHKrKd9Hngr9nfa"
+  }
+}

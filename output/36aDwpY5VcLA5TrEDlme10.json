@@ -1,0 +1,33 @@
+{
+  "id": "36aDwpY5VcLA5TrEDlme10",
+  "name": "nauh",
+  "uri": "spotify:artist:36aDwpY5VcLA5TrEDlme10",
+  "followers": {
+    "href": null,
+    "total": 503
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcf14137314f1656a685c554e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cf14137314f1656a685c554e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cf14137314f1656a685c554e",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/36aDwpY5VcLA5TrEDlme10"
+  }
+}

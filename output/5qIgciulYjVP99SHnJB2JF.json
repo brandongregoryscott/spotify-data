@@ -1,0 +1,33 @@
+{
+  "id": "5qIgciulYjVP99SHnJB2JF",
+  "name": "Matti Korkiala",
+  "uri": "spotify:artist:5qIgciulYjVP99SHnJB2JF",
+  "followers": {
+    "href": null,
+    "total": 258
+  },
+  "genres": [
+    "finnish tango"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273aceb7604a47673f331ba9b8d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02aceb7604a47673f331ba9b8d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851aceb7604a47673f331ba9b8d",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5qIgciulYjVP99SHnJB2JF"
+  }
+}

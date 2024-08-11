@@ -1,0 +1,33 @@
+{
+  "id": "2PmMtCp5CZixZV7StJM9EF",
+  "name": "North Bloom",
+  "uri": "spotify:artist:2PmMtCp5CZixZV7StJM9EF",
+  "followers": {
+    "href": null,
+    "total": 3797
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf365c99f56705594896fd737",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f365c99f56705594896fd737",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f365c99f56705594896fd737",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2PmMtCp5CZixZV7StJM9EF"
+  }
+}

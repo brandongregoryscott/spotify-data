@@ -1,0 +1,33 @@
+{
+  "id": "2u24jOJ9KbArx5AGwXzn2z",
+  "name": "Kinetik",
+  "uri": "spotify:artist:2u24jOJ9KbArx5AGwXzn2z",
+  "followers": {
+    "href": null,
+    "total": 300
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733de300d3ea4a0f38288c6bde",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023de300d3ea4a0f38288c6bde",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513de300d3ea4a0f38288c6bde",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2u24jOJ9KbArx5AGwXzn2z"
+  }
+}

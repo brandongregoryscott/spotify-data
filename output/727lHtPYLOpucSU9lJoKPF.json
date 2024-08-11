@@ -1,0 +1,33 @@
+{
+  "id": "727lHtPYLOpucSU9lJoKPF",
+  "name": "Chai",
+  "uri": "spotify:artist:727lHtPYLOpucSU9lJoKPF",
+  "followers": {
+    "href": null,
+    "total": 2444
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb86fd453cf23bbc7645150f04",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517486fd453cf23bbc7645150f04",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17886fd453cf23bbc7645150f04",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/727lHtPYLOpucSU9lJoKPF"
+  }
+}

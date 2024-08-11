@@ -1,0 +1,33 @@
+{
+  "id": "4aEfAGyE4KpgjvBXB1Ar6E",
+  "name": "Strawberry Jam",
+  "uri": "spotify:artist:4aEfAGyE4KpgjvBXB1Ar6E",
+  "followers": {
+    "href": null,
+    "total": 299
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebca77045fda7a8dd72f957a0e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ca77045fda7a8dd72f957a0e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ca77045fda7a8dd72f957a0e",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4aEfAGyE4KpgjvBXB1Ar6E"
+  }
+}

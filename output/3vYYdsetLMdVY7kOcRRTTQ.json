@@ -1,0 +1,33 @@
+{
+  "id": "3vYYdsetLMdVY7kOcRRTTQ",
+  "name": "Toadvine",
+  "uri": "spotify:artist:3vYYdsetLMdVY7kOcRRTTQ",
+  "followers": {
+    "href": null,
+    "total": 139
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebad40a9c4fdc18724d0323c4d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ad40a9c4fdc18724d0323c4d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ad40a9c4fdc18724d0323c4d",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3vYYdsetLMdVY7kOcRRTTQ"
+  }
+}

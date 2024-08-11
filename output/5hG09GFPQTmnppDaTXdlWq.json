@@ -1,0 +1,33 @@
+{
+  "id": "5hG09GFPQTmnppDaTXdlWq",
+  "name": "Monere",
+  "uri": "spotify:artist:5hG09GFPQTmnppDaTXdlWq",
+  "followers": {
+    "href": null,
+    "total": 304
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd389cbba3d7a43a8a0453bcd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d389cbba3d7a43a8a0453bcd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d389cbba3d7a43a8a0453bcd",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5hG09GFPQTmnppDaTXdlWq"
+  }
+}

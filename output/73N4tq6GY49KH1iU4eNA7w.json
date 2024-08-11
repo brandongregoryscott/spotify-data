@@ -1,0 +1,33 @@
+{
+  "id": "73N4tq6GY49KH1iU4eNA7w",
+  "name": "el joint",
+  "uri": "spotify:artist:73N4tq6GY49KH1iU4eNA7w",
+  "followers": {
+    "href": null,
+    "total": 617
+  },
+  "genres": [
+    "russian hyperpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb919cd5e4b2b472befbd8f7c2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174919cd5e4b2b472befbd8f7c2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178919cd5e4b2b472befbd8f7c2",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/73N4tq6GY49KH1iU4eNA7w"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5kHE9YDfEixAX5sXzrFlos",
+  "name": "Josh Nichols",
+  "uri": "spotify:artist:5kHE9YDfEixAX5sXzrFlos",
+  "followers": {
+    "href": null,
+    "total": 9934
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcdc40d73746fc9f0e61ee8db",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cdc40d73746fc9f0e61ee8db",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cdc40d73746fc9f0e61ee8db",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5kHE9YDfEixAX5sXzrFlos"
+  }
+}

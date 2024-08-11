@@ -1,0 +1,33 @@
+{
+  "id": "1jrzKVTQrPyFMTH6uEUhZS",
+  "name": "Linus Hillborg",
+  "uri": "spotify:artist:1jrzKVTQrPyFMTH6uEUhZS",
+  "followers": {
+    "href": null,
+    "total": 471
+  },
+  "genres": [
+    "nordic ambient"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb578206aa7532f327fa0d4b96",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174578206aa7532f327fa0d4b96",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178578206aa7532f327fa0d4b96",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1jrzKVTQrPyFMTH6uEUhZS"
+  }
+}

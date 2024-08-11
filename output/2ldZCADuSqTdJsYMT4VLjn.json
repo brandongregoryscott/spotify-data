@@ -1,0 +1,33 @@
+{
+  "id": "2ldZCADuSqTdJsYMT4VLjn",
+  "name": "Vaiken",
+  "uri": "spotify:artist:2ldZCADuSqTdJsYMT4VLjn",
+  "followers": {
+    "href": null,
+    "total": 27
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb793f7cf0825233f65f6fb848",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174793f7cf0825233f65f6fb848",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178793f7cf0825233f65f6fb848",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ldZCADuSqTdJsYMT4VLjn"
+  }
+}

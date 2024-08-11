@@ -1,0 +1,33 @@
+{
+  "id": "2TZHKCGcjmQRnMTPJrYVWq",
+  "name": "frdm",
+  "uri": "spotify:artist:2TZHKCGcjmQRnMTPJrYVWq",
+  "followers": {
+    "href": null,
+    "total": 879
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebea1b06bd0b621af9e95d3d26",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ea1b06bd0b621af9e95d3d26",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ea1b06bd0b621af9e95d3d26",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2TZHKCGcjmQRnMTPJrYVWq"
+  }
+}

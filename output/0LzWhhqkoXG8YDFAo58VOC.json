@@ -1,0 +1,33 @@
+{
+  "id": "0LzWhhqkoXG8YDFAo58VOC",
+  "name": "Injúria",
+  "uri": "spotify:artist:0LzWhhqkoXG8YDFAo58VOC",
+  "followers": {
+    "href": null,
+    "total": 90
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb27d28b120ef5ee84ee6adcc8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517427d28b120ef5ee84ee6adcc8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17827d28b120ef5ee84ee6adcc8",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0LzWhhqkoXG8YDFAo58VOC"
+  }
+}

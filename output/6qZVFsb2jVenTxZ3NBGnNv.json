@@ -1,0 +1,33 @@
+{
+  "id": "6qZVFsb2jVenTxZ3NBGnNv",
+  "name": "Amador",
+  "uri": "spotify:artist:6qZVFsb2jVenTxZ3NBGnNv",
+  "followers": {
+    "href": null,
+    "total": 4007
+  },
+  "genres": [
+    "trap mexicano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb76009b4cab1574f1dea81e2d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517476009b4cab1574f1dea81e2d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17876009b4cab1574f1dea81e2d",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6qZVFsb2jVenTxZ3NBGnNv"
+  }
+}

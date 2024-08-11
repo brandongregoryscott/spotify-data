@@ -1,0 +1,34 @@
+{
+  "id": "08ct2eZF5lUPdJpHwNKWof",
+  "name": "Hootie & The Blowfish",
+  "uri": "spotify:artist:08ct2eZF5lUPdJpHwNKWof",
+  "followers": {
+    "href": null,
+    "total": 1139900
+  },
+  "genres": [
+    "pop rock",
+    "post-grunge"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaa3847bf8005c31dc44010b3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aa3847bf8005c31dc44010b3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aa3847bf8005c31dc44010b3",
+      "width": 160
+    }
+  ],
+  "popularity": 61,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "6d2cna6ab3mL140jbRNXqV",
+  "name": "Dilemma",
+  "uri": "spotify:artist:6d2cna6ab3mL140jbRNXqV",
+  "followers": {
+    "href": null,
+    "total": 6072
+  },
+  "genres": [
+    "finnish dance pop",
+    "finnish hip hop",
+    "finnish pop",
+    "iskelma"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb79051f0edde29d965696e427",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517479051f0edde29d965696e427",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17879051f0edde29d965696e427",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV"
+  }
+}

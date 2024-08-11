@@ -1,0 +1,33 @@
+{
+  "id": "2cIiivDGTDkt9aQVeJYCAt",
+  "name": "Favourite People",
+  "uri": "spotify:artist:2cIiivDGTDkt9aQVeJYCAt",
+  "followers": {
+    "href": null,
+    "total": 6424
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfded2db92ae7ca9e0d378a3b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fded2db92ae7ca9e0d378a3b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fded2db92ae7ca9e0d378a3b",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
+  }
+}

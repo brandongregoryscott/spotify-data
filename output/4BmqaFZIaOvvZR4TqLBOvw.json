@@ -1,0 +1,33 @@
+{
+  "id": "4BmqaFZIaOvvZR4TqLBOvw",
+  "name": "Federico",
+  "uri": "spotify:artist:4BmqaFZIaOvvZR4TqLBOvw",
+  "followers": {
+    "href": null,
+    "total": 208
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb107ff3aafa99b1675f38e600",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174107ff3aafa99b1675f38e600",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178107ff3aafa99b1675f38e600",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4BmqaFZIaOvvZR4TqLBOvw"
+  }
+}

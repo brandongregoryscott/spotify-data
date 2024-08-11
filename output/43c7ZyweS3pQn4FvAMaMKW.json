@@ -1,0 +1,33 @@
+{
+  "id": "43c7ZyweS3pQn4FvAMaMKW",
+  "name": "Los Frankis",
+  "uri": "spotify:artist:43c7ZyweS3pQn4FvAMaMKW",
+  "followers": {
+    "href": null,
+    "total": 244
+  },
+  "genres": [
+    "baja indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbb7636869fede041eff528d2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bb7636869fede041eff528d2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bb7636869fede041eff528d2",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/43c7ZyweS3pQn4FvAMaMKW"
+  }
+}

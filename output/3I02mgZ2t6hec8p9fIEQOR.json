@@ -1,0 +1,33 @@
+{
+  "id": "3I02mgZ2t6hec8p9fIEQOR",
+  "name": "V416",
+  "uri": "spotify:artist:3I02mgZ2t6hec8p9fIEQOR",
+  "followers": {
+    "href": null,
+    "total": 109
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb89e57661992d5f5ad643db77",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517489e57661992d5f5ad643db77",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17889e57661992d5f5ad643db77",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3I02mgZ2t6hec8p9fIEQOR"
+  }
+}

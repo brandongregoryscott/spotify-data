@@ -1,0 +1,33 @@
+{
+  "id": "0DTpsTLFViygxRyO94uDql",
+  "name": "Tiger & Träden",
+  "uri": "spotify:artist:0DTpsTLFViygxRyO94uDql",
+  "followers": {
+    "href": null,
+    "total": 302
+  },
+  "genres": [
+    "gothenburg indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb535443082ab07b5eba7e4c7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b535443082ab07b5eba7e4c7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b535443082ab07b5eba7e4c7",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0DTpsTLFViygxRyO94uDql"
+  }
+}

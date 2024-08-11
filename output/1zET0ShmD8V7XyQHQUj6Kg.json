@@ -1,0 +1,33 @@
+{
+  "id": "1zET0ShmD8V7XyQHQUj6Kg",
+  "name": "Bromma Disco",
+  "uri": "spotify:artist:1zET0ShmD8V7XyQHQUj6Kg",
+  "followers": {
+    "href": null,
+    "total": 595
+  },
+  "genres": [
+    "stockholm indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ee695fc82e0519445515d22f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ee695fc82e0519445515d22f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ee695fc82e0519445515d22f",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1zET0ShmD8V7XyQHQUj6Kg"
+  }
+}

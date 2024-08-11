@@ -1,0 +1,34 @@
+{
+  "id": "1wWSNOst6HSnNNUtH4RekE",
+  "name": "Cordovas",
+  "uri": "spotify:artist:1wWSNOst6HSnNNUtH4RekE",
+  "followers": {
+    "href": null,
+    "total": 13037
+  },
+  "genres": [
+    "deep new americana",
+    "southern americana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc639441ab07276e16c158c9a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c639441ab07276e16c158c9a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c639441ab07276e16c158c9a",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1wWSNOst6HSnNNUtH4RekE"
+  }
+}

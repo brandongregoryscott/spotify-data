@@ -1,0 +1,34 @@
+{
+  "id": "5qDorluwjJoYGYfPo1skgs",
+  "name": "Lee Rocker",
+  "uri": "spotify:artist:5qDorluwjJoYGYfPo1skgs",
+  "followers": {
+    "href": null,
+    "total": 27685
+  },
+  "genres": [
+    "psychobilly",
+    "rockabilly"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba0a21cd411b046118c5bd89a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a0a21cd411b046118c5bd89a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a0a21cd411b046118c5bd89a",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5qDorluwjJoYGYfPo1skgs"
+  }
+}

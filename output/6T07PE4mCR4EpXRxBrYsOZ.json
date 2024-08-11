@@ -1,0 +1,33 @@
+{
+  "id": "6T07PE4mCR4EpXRxBrYsOZ",
+  "name": "Aodela",
+  "uri": "spotify:artist:6T07PE4mCR4EpXRxBrYsOZ",
+  "followers": {
+    "href": null,
+    "total": 146
+  },
+  "genres": [
+    "punk melodico chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbac8f1e3857e45f016853e01",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bac8f1e3857e45f016853e01",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bac8f1e3857e45f016853e01",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6T07PE4mCR4EpXRxBrYsOZ"
+  }
+}

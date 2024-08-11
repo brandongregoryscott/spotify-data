@@ -1,0 +1,33 @@
+{
+  "id": "1nCP3fozBTYJdvNrdVhatf",
+  "name": "Kay Dee",
+  "uri": "spotify:artist:1nCP3fozBTYJdvNrdVhatf",
+  "followers": {
+    "href": null,
+    "total": 64
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bc250d79c6653852cf2598d6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bc250d79c6653852cf2598d6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bc250d79c6653852cf2598d6",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1nCP3fozBTYJdvNrdVhatf"
+  }
+}

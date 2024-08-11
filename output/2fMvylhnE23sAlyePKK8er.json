@@ -1,0 +1,36 @@
+{
+  "id": "2fMvylhnE23sAlyePKK8er",
+  "name": "Kenny Dorham",
+  "uri": "spotify:artist:2fMvylhnE23sAlyePKK8er",
+  "followers": {
+    "href": null,
+    "total": 81204
+  },
+  "genres": [
+    "bebop",
+    "hard bop",
+    "jazz",
+    "jazz trumpet"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273028ede8b512bcdad84b887e1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02028ede8b512bcdad84b887e1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851028ede8b512bcdad84b887e1",
+      "width": 64
+    }
+  ],
+  "popularity": 44,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+  }
+}

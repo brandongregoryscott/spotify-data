@@ -1,0 +1,33 @@
+{
+  "id": "5IPoBF5S0rT6TOlsJ1zzKX",
+  "name": "Namesis",
+  "uri": "spotify:artist:5IPoBF5S0rT6TOlsJ1zzKX",
+  "followers": {
+    "href": null,
+    "total": 540
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b0e143830a79c2e745ca6a6f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029d478f98088a15b5797bb71f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519d478f98088a15b5797bb71f",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5IPoBF5S0rT6TOlsJ1zzKX"
+  }
+}

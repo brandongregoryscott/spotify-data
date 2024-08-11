@@ -1,0 +1,34 @@
+{
+  "id": "2useEnhlzYOXvuvIteaTed",
+  "name": "Perez",
+  "uri": "spotify:artist:2useEnhlzYOXvuvIteaTed",
+  "followers": {
+    "href": null,
+    "total": 11747
+  },
+  "genres": [
+    "argentine indie",
+    "indie platense"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb08806a24ea8a0d7a57b521c3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517408806a24ea8a0d7a57b521c3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17808806a24ea8a0d7a57b521c3",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2useEnhlzYOXvuvIteaTed"
+  }
+}

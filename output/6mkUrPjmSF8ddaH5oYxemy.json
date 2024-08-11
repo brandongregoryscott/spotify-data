@@ -1,0 +1,33 @@
+{
+  "id": "6mkUrPjmSF8ddaH5oYxemy",
+  "name": "The DUO",
+  "uri": "spotify:artist:6mkUrPjmSF8ddaH5oYxemy",
+  "followers": {
+    "href": null,
+    "total": 596
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738fd66019f00fd5be53a26c30",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028fd66019f00fd5be53a26c30",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518fd66019f00fd5be53a26c30",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6mkUrPjmSF8ddaH5oYxemy"
+  }
+}

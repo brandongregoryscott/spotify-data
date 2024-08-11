@@ -1,0 +1,33 @@
+{
+  "id": "2CttwfySLQ1LvyIDgaDDzF",
+  "name": "Ben Larsen",
+  "uri": "spotify:artist:2CttwfySLQ1LvyIDgaDDzF",
+  "followers": {
+    "href": null,
+    "total": 530
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb683a21ce6b36148a252bde2a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174683a21ce6b36148a252bde2a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178683a21ce6b36148a252bde2a",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2CttwfySLQ1LvyIDgaDDzF"
+  }
+}

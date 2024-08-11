@@ -1,0 +1,33 @@
+{
+  "id": "4gshptkxPkuRhUA9HwpwsH",
+  "name": "Daily Funk",
+  "uri": "spotify:artist:4gshptkxPkuRhUA9HwpwsH",
+  "followers": {
+    "href": null,
+    "total": 275
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f087e04e070bf700f35b943f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f087e04e070bf700f35b943f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f087e04e070bf700f35b943f",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4gshptkxPkuRhUA9HwpwsH"
+  }
+}

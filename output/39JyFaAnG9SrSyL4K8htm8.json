@@ -1,0 +1,33 @@
+{
+  "id": "39JyFaAnG9SrSyL4K8htm8",
+  "name": "TaughtMe",
+  "uri": "spotify:artist:39JyFaAnG9SrSyL4K8htm8",
+  "followers": {
+    "href": null,
+    "total": 236
+  },
+  "genres": [
+    "slc indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe3b300d9ec8c4c5423f08816",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e3b300d9ec8c4c5423f08816",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e3b300d9ec8c4c5423f08816",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/39JyFaAnG9SrSyL4K8htm8"
+  }
+}

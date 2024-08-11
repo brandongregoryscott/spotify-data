@@ -1,0 +1,33 @@
+{
+  "id": "78zmVDVBs9ARnQNI6Qrx6P",
+  "name": "DKaos",
+  "uri": "spotify:artist:78zmVDVBs9ARnQNI6Qrx6P",
+  "followers": {
+    "href": null,
+    "total": 1500
+  },
+  "genres": [
+    "darkstep"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d28656ee4172d4950431b2fa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d28656ee4172d4950431b2fa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d28656ee4172d4950431b2fa",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/78zmVDVBs9ARnQNI6Qrx6P"
+  }
+}

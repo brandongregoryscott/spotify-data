@@ -1,0 +1,33 @@
+{
+  "id": "0g8mK5lk8PBWAVAcfuGMDN",
+  "name": "D4L",
+  "uri": "spotify:artist:0g8mK5lk8PBWAVAcfuGMDN",
+  "followers": {
+    "href": null,
+    "total": 108
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27352351018014b979712c982fe",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0252351018014b979712c982fe",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485152351018014b979712c982fe",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0g8mK5lk8PBWAVAcfuGMDN"
+  }
+}

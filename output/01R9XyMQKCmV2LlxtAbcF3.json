@@ -1,0 +1,33 @@
+{
+  "id": "01R9XyMQKCmV2LlxtAbcF3",
+  "name": "Untides",
+  "uri": "spotify:artist:01R9XyMQKCmV2LlxtAbcF3",
+  "followers": {
+    "href": null,
+    "total": 97
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273abe98fc43cd6dc5e41bfcedb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02abe98fc43cd6dc5e41bfcedb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851abe98fc43cd6dc5e41bfcedb",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01R9XyMQKCmV2LlxtAbcF3"
+  }
+}

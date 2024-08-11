@@ -1,0 +1,33 @@
+{
+  "id": "4zUyPPPaQZvxdA8fP5GJfC",
+  "name": "Ras",
+  "uri": "spotify:artist:4zUyPPPaQZvxdA8fP5GJfC",
+  "followers": {
+    "href": null,
+    "total": 154
+  },
+  "genres": [
+    "japanese drill"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfac47cc804140352b13470ec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fac47cc804140352b13470ec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fac47cc804140352b13470ec",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4zUyPPPaQZvxdA8fP5GJfC"
+  }
+}

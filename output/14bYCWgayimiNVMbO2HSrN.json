@@ -1,0 +1,33 @@
+{
+  "id": "14bYCWgayimiNVMbO2HSrN",
+  "name": "Saux",
+  "uri": "spotify:artist:14bYCWgayimiNVMbO2HSrN",
+  "followers": {
+    "href": null,
+    "total": 5295
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba531d87dbebc42ff59fc7af0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a531d87dbebc42ff59fc7af0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a531d87dbebc42ff59fc7af0",
+      "width": 160
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/14bYCWgayimiNVMbO2HSrN"
+  }
+}

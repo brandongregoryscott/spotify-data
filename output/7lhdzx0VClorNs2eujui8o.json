@@ -1,0 +1,33 @@
+{
+  "id": "7lhdzx0VClorNs2eujui8o",
+  "name": "pan",
+  "uri": "spotify:artist:7lhdzx0VClorNs2eujui8o",
+  "followers": {
+    "href": null,
+    "total": 97
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733e029ed073d107e57a359c0e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023e029ed073d107e57a359c0e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513e029ed073d107e57a359c0e",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7lhdzx0VClorNs2eujui8o"
+  }
+}

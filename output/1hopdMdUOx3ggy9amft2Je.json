@@ -1,0 +1,33 @@
+{
+  "id": "1hopdMdUOx3ggy9amft2Je",
+  "name": "Nonfic",
+  "uri": "spotify:artist:1hopdMdUOx3ggy9amft2Je",
+  "followers": {
+    "href": null,
+    "total": 181
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b7786496911b509d4a4d3752",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b7786496911b509d4a4d3752",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b7786496911b509d4a4d3752",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1hopdMdUOx3ggy9amft2Je"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2O2MkryTBPpyHhiU5iRiFB",
+  "name": "Andrew Fletcher",
+  "uri": "spotify:artist:2O2MkryTBPpyHhiU5iRiFB",
+  "followers": {
+    "href": null,
+    "total": 403
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb03ea9cf51c53423265e81a64",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517403ea9cf51c53423265e81a64",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17803ea9cf51c53423265e81a64",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2O2MkryTBPpyHhiU5iRiFB"
+  }
+}

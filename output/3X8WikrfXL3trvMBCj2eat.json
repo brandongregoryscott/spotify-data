@@ -1,0 +1,33 @@
+{
+  "id": "3X8WikrfXL3trvMBCj2eat",
+  "name": "Gina Savino",
+  "uri": "spotify:artist:3X8WikrfXL3trvMBCj2eat",
+  "followers": {
+    "href": null,
+    "total": 1356
+  },
+  "genres": [
+    "jazz colombiano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebefb5185bea0aab5fafaf8233",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174efb5185bea0aab5fafaf8233",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178efb5185bea0aab5fafaf8233",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3X8WikrfXL3trvMBCj2eat"
+  }
+}

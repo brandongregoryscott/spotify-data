@@ -1,0 +1,34 @@
+{
+  "id": "2oX42qP5ineK3hrhBECLmj",
+  "name": "Andy Grammer",
+  "uri": "spotify:artist:2oX42qP5ineK3hrhBECLmj",
+  "followers": {
+    "href": null,
+    "total": 1228708
+  },
+  "genres": [
+    "neo mellow",
+    "post-teen pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcd5b6023d6b9ed5873c843e9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cd5b6023d6b9ed5873c843e9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cd5b6023d6b9ed5873c843e9",
+      "width": 160
+    }
+  ],
+  "popularity": 68,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+  }
+}

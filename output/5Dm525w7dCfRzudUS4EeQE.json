@@ -1,0 +1,33 @@
+{
+  "id": "5Dm525w7dCfRzudUS4EeQE",
+  "name": "Fliptrix",
+  "uri": "spotify:artist:5Dm525w7dCfRzudUS4EeQE",
+  "followers": {
+    "href": null,
+    "total": 43614
+  },
+  "genres": [
+    "uk hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb332628adc8f7b1d223fadd9b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174332628adc8f7b1d223fadd9b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178332628adc8f7b1d223fadd9b",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Dm525w7dCfRzudUS4EeQE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2BEmt7ansqaWab4bPOB7zy",
+  "name": "Billy Angel",
+  "uri": "spotify:artist:2BEmt7ansqaWab4bPOB7zy",
+  "followers": {
+    "href": null,
+    "total": 92
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27377ddabe1aa633f959dd82eae",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0277ddabe1aa633f959dd82eae",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485177ddabe1aa633f959dd82eae",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2BEmt7ansqaWab4bPOB7zy"
+  }
+}

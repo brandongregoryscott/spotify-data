@@ -1,0 +1,33 @@
+{
+  "id": "5WmuOMm936GTO4AZ4oj7Uq",
+  "name": "Bloss",
+  "uri": "spotify:artist:5WmuOMm936GTO4AZ4oj7Uq",
+  "followers": {
+    "href": null,
+    "total": 401
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebed689ffb71dd4287aeb9dbe7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ed689ffb71dd4287aeb9dbe7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ed689ffb71dd4287aeb9dbe7",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5WmuOMm936GTO4AZ4oj7Uq"
+  }
+}

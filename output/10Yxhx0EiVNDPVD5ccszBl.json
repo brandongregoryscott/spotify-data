@@ -1,0 +1,33 @@
+{
+  "id": "10Yxhx0EiVNDPVD5ccszBl",
+  "name": "Kavitch",
+  "uri": "spotify:artist:10Yxhx0EiVNDPVD5ccszBl",
+  "followers": {
+    "href": null,
+    "total": 510
+  },
+  "genres": [
+    "armenian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb69a3ff957e13c1d08821e99e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517469a3ff957e13c1d08821e99e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17869a3ff957e13c1d08821e99e",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/10Yxhx0EiVNDPVD5ccszBl"
+  }
+}

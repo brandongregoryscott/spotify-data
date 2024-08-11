@@ -1,0 +1,33 @@
+{
+  "id": "3jmQzcoD7XU2QkFQGP6wUN",
+  "name": "No More Clothes",
+  "uri": "spotify:artist:3jmQzcoD7XU2QkFQGP6wUN",
+  "followers": {
+    "href": null,
+    "total": 142
+  },
+  "genres": [
+    "finnish pop punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb114d4b72b5e0251d06018d49",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174114d4b72b5e0251d06018d49",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178114d4b72b5e0251d06018d49",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3jmQzcoD7XU2QkFQGP6wUN"
+  }
+}

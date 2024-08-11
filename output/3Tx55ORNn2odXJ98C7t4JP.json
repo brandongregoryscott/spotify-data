@@ -1,0 +1,33 @@
+{
+  "id": "3Tx55ORNn2odXJ98C7t4JP",
+  "name": "Eskoria",
+  "uri": "spotify:artist:3Tx55ORNn2odXJ98C7t4JP",
+  "followers": {
+    "href": null,
+    "total": 252
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27361d3b7c6c29126ebee447a0e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0261d3b7c6c29126ebee447a0e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485161d3b7c6c29126ebee447a0e",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Tx55ORNn2odXJ98C7t4JP"
+  }
+}

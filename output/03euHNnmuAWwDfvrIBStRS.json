@@ -1,0 +1,33 @@
+{
+  "id": "03euHNnmuAWwDfvrIBStRS",
+  "name": "Tori",
+  "uri": "spotify:artist:03euHNnmuAWwDfvrIBStRS",
+  "followers": {
+    "href": null,
+    "total": 3111
+  },
+  "genres": [
+    "musica sergipana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebda8694878af37aa2087eb0cc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174da8694878af37aa2087eb0cc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178da8694878af37aa2087eb0cc",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03euHNnmuAWwDfvrIBStRS"
+  }
+}

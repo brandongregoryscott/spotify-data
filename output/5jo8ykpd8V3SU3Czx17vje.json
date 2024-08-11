@@ -1,0 +1,33 @@
+{
+  "id": "5jo8ykpd8V3SU3Czx17vje",
+  "name": "Tenn",
+  "uri": "spotify:artist:5jo8ykpd8V3SU3Czx17vje",
+  "followers": {
+    "href": null,
+    "total": 16
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf23cd6c5f9c5e969ddc4c479",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f23cd6c5f9c5e969ddc4c479",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f23cd6c5f9c5e969ddc4c479",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5jo8ykpd8V3SU3Czx17vje"
+  }
+}

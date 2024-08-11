@@ -1,0 +1,33 @@
+{
+  "id": "1ZS9Lqsif02pFBAMqYFHXq",
+  "name": "A Moment's Worth",
+  "uri": "spotify:artist:1ZS9Lqsif02pFBAMqYFHXq",
+  "followers": {
+    "href": null,
+    "total": 347
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273367d8be0b32a65499777bcfe",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02367d8be0b32a65499777bcfe",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851367d8be0b32a65499777bcfe",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ZS9Lqsif02pFBAMqYFHXq"
+  }
+}

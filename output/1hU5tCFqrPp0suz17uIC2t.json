@@ -1,0 +1,33 @@
+{
+  "id": "1hU5tCFqrPp0suz17uIC2t",
+  "name": "Thrilljard",
+  "uri": "spotify:artist:1hU5tCFqrPp0suz17uIC2t",
+  "followers": {
+    "href": null,
+    "total": 85
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfddaeb2619c2fac8b253e427",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fddaeb2619c2fac8b253e427",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fddaeb2619c2fac8b253e427",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1hU5tCFqrPp0suz17uIC2t"
+  }
+}

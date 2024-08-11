@@ -1,0 +1,33 @@
+{
+  "id": "2GVuANgGnCXO2qviEZKl2Q",
+  "name": "Pininga",
+  "uri": "spotify:artist:2GVuANgGnCXO2qviEZKl2Q",
+  "followers": {
+    "href": null,
+    "total": 223
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc961dca6af742819f20eb54e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c961dca6af742819f20eb54e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c961dca6af742819f20eb54e",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2GVuANgGnCXO2qviEZKl2Q"
+  }
+}

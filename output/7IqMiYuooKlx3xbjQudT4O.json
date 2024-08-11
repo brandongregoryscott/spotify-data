@@ -1,0 +1,33 @@
+{
+  "id": "7IqMiYuooKlx3xbjQudT4O",
+  "name": "Enemy",
+  "uri": "spotify:artist:7IqMiYuooKlx3xbjQudT4O",
+  "followers": {
+    "href": null,
+    "total": 230
+  },
+  "genres": [
+    "spacegrunge"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27303a27f4c2537722eebaf2485",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0217dfb802c959feaf30dc5571",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485103a27f4c2537722eebaf2485",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7IqMiYuooKlx3xbjQudT4O"
+  }
+}

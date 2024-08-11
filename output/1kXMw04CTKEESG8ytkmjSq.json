@@ -1,0 +1,33 @@
+{
+  "id": "1kXMw04CTKEESG8ytkmjSq",
+  "name": "Taxi Lotta",
+  "uri": "spotify:artist:1kXMw04CTKEESG8ytkmjSq",
+  "followers": {
+    "href": null,
+    "total": 156
+  },
+  "genres": [
+    "nurnberg indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe8405ed000019713146b10ab",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e8405ed000019713146b10ab",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e8405ed000019713146b10ab",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1kXMw04CTKEESG8ytkmjSq"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4saTFwjZocHKVyficxXKJW",
+  "name": "Épona HD",
+  "uri": "spotify:artist:4saTFwjZocHKVyficxXKJW",
+  "followers": {
+    "href": null,
+    "total": 480
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0c0c93d625aefdaf1ca9f2fd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051740c0c93d625aefdaf1ca9f2fd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1780c0c93d625aefdaf1ca9f2fd",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4saTFwjZocHKVyficxXKJW"
+  }
+}

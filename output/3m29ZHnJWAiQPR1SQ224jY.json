@@ -1,0 +1,33 @@
+{
+  "id": "3m29ZHnJWAiQPR1SQ224jY",
+  "name": "Lil Shay",
+  "uri": "spotify:artist:3m29ZHnJWAiQPR1SQ224jY",
+  "followers": {
+    "href": null,
+    "total": 1221
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbab1a81b162c72d7417e59c9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bab1a81b162c72d7417e59c9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bab1a81b162c72d7417e59c9",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3m29ZHnJWAiQPR1SQ224jY"
+  }
+}

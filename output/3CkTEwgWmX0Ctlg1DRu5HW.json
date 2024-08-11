@@ -1,0 +1,33 @@
+{
+  "id": "3CkTEwgWmX0Ctlg1DRu5HW",
+  "name": "yuuma",
+  "uri": "spotify:artist:3CkTEwgWmX0Ctlg1DRu5HW",
+  "followers": {
+    "href": null,
+    "total": 381
+  },
+  "genres": [
+    "hyperpop francais"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf5d45346710e5ac3e2bf29bc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f5d45346710e5ac3e2bf29bc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f5d45346710e5ac3e2bf29bc",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3CkTEwgWmX0Ctlg1DRu5HW"
+  }
+}

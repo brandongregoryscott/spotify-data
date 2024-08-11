@@ -1,0 +1,33 @@
+{
+  "id": "1kxntofW9gEkjdN4aflOYU",
+  "name": "Gallows Bird",
+  "uri": "spotify:artist:1kxntofW9gEkjdN4aflOYU",
+  "followers": {
+    "href": null,
+    "total": 260
+  },
+  "genres": [
+    "midwest shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdbba3e4743c89d1d7412b835",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dbba3e4743c89d1d7412b835",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dbba3e4743c89d1d7412b835",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1kxntofW9gEkjdN4aflOYU"
+  }
+}

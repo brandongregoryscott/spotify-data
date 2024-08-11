@@ -1,0 +1,33 @@
+{
+  "id": "1MIfUzoY2n15mLL9NAfcUR",
+  "name": "Agustin Casulo",
+  "uri": "spotify:artist:1MIfUzoY2n15mLL9NAfcUR",
+  "followers": {
+    "href": null,
+    "total": 1188
+  },
+  "genres": [
+    "rap uruguayo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb83740def73c89381139f25eb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517483740def73c89381139f25eb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17883740def73c89381139f25eb",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1MIfUzoY2n15mLL9NAfcUR"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "4Z82ZQELVx9SitSEOKHtcE",
+  "name": "Donny",
+  "uri": "spotify:artist:4Z82ZQELVx9SitSEOKHtcE",
+  "followers": {
+    "href": null,
+    "total": 5644
+  },
+  "genres": [
+    "darkstep",
+    "neurofunk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb21b1706d632edd2dbc244270",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517421b1706d632edd2dbc244270",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17821b1706d632edd2dbc244270",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Z82ZQELVx9SitSEOKHtcE"
+  }
+}

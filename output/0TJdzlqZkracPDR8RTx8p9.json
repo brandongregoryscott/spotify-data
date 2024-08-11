@@ -1,0 +1,33 @@
+{
+  "id": "0TJdzlqZkracPDR8RTx8p9",
+  "name": "Caströl",
+  "uri": "spotify:artist:0TJdzlqZkracPDR8RTx8p9",
+  "followers": {
+    "href": null,
+    "total": 127
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3bd8bc2c9a6cfd42e67c67fc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051743bd8bc2c9a6cfd42e67c67fc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1783bd8bc2c9a6cfd42e67c67fc",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0TJdzlqZkracPDR8RTx8p9"
+  }
+}

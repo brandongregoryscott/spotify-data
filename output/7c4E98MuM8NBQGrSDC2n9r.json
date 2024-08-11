@@ -1,0 +1,33 @@
+{
+  "id": "7c4E98MuM8NBQGrSDC2n9r",
+  "name": "Leox",
+  "uri": "spotify:artist:7c4E98MuM8NBQGrSDC2n9r",
+  "followers": {
+    "href": null,
+    "total": 542
+  },
+  "genres": [
+    "corecore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfe1d8edaf0bcd6195c3d175d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fe1d8edaf0bcd6195c3d175d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fe1d8edaf0bcd6195c3d175d",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7c4E98MuM8NBQGrSDC2n9r"
+  }
+}

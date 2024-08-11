@@ -1,0 +1,33 @@
+{
+  "id": "6WnCnGe06iOO6fTPYAPF03",
+  "name": "Gemaine",
+  "uri": "spotify:artist:6WnCnGe06iOO6fTPYAPF03",
+  "followers": {
+    "href": null,
+    "total": 20440
+  },
+  "genres": [
+    "pop r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe7bd4f17c72b613683a2e59d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e7bd4f17c72b613683a2e59d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e7bd4f17c72b613683a2e59d",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
+  }
+}

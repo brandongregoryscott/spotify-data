@@ -1,0 +1,33 @@
+{
+  "id": "5EXnte7IASYN4huX6AritI",
+  "name": "Syrinx",
+  "uri": "spotify:artist:5EXnte7IASYN4huX6AritI",
+  "followers": {
+    "href": null,
+    "total": 472
+  },
+  "genres": [
+    "darkstep"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733f7fab194ec09ff7840bfb8c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023f7fab194ec09ff7840bfb8c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513f7fab194ec09ff7840bfb8c",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5EXnte7IASYN4huX6AritI"
+  }
+}

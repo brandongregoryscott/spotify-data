@@ -1,0 +1,34 @@
+{
+  "id": "5GEq7RIcofr6ktsq45xpOg",
+  "name": "Claude Léveillée",
+  "uri": "spotify:artist:5GEq7RIcofr6ktsq45xpOg",
+  "followers": {
+    "href": null,
+    "total": 12678
+  },
+  "genres": [
+    "auteur-compositeur-interprete quebecois",
+    "chanson quebecois"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27339e18ff50a2059a3a3de22e2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0239e18ff50a2059a3a3de22e2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485139e18ff50a2059a3a3de22e2",
+      "width": 64
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5GEq7RIcofr6ktsq45xpOg"
+  }
+}

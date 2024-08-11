@@ -1,0 +1,35 @@
+{
+  "id": "1vijrgfXFKezyravtKnn2Z",
+  "name": "Ava Inferi",
+  "uri": "spotify:artist:1vijrgfXFKezyravtKnn2Z",
+  "followers": {
+    "href": null,
+    "total": 6801
+  },
+  "genres": [
+    "gothic doom",
+    "neoclassical darkwave",
+    "portuguese metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737ad9aba9ec414df10bc9f58d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027ad9aba9ec414df10bc9f58d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517ad9aba9ec414df10bc9f58d",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1vijrgfXFKezyravtKnn2Z"
+  }
+}

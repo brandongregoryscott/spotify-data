@@ -1,0 +1,33 @@
+{
+  "id": "7MjOUry4TrNhJShdTVy0JQ",
+  "name": "Hound",
+  "uri": "spotify:artist:7MjOUry4TrNhJShdTVy0JQ",
+  "followers": {
+    "href": null,
+    "total": 61
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb471e87940038f19da5eafa12",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174471e87940038f19da5eafa12",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178471e87940038f19da5eafa12",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7MjOUry4TrNhJShdTVy0JQ"
+  }
+}

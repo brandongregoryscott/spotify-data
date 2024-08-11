@@ -1,0 +1,33 @@
+{
+  "id": "5WIXXPkyVYncLscyUbDrpi",
+  "name": "Tota",
+  "uri": "spotify:artist:5WIXXPkyVYncLscyUbDrpi",
+  "followers": {
+    "href": null,
+    "total": 38955
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebda67782338ce871c23100d27",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174da67782338ce871c23100d27",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178da67782338ce871c23100d27",
+      "width": 160
+    }
+  ],
+  "popularity": 46,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2zkkk3pD8gy7NY6n2rMFpS",
+  "name": "Eggstone",
+  "uri": "spotify:artist:2zkkk3pD8gy7NY6n2rMFpS",
+  "followers": {
+    "href": null,
+    "total": 4342
+  },
+  "genres": [
+    "swedish indie pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfb59ef7234ab8db172d11ba1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fb59ef7234ab8db172d11ba1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fb59ef7234ab8db172d11ba1",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2zkkk3pD8gy7NY6n2rMFpS"
+  }
+}

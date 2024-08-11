@@ -1,0 +1,33 @@
+{
+  "id": "5JIsZpSNb1MfGpSwtpWRP1",
+  "name": "Hados",
+  "uri": "spotify:artist:5JIsZpSNb1MfGpSwtpWRP1",
+  "followers": {
+    "href": null,
+    "total": 382
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe5fdb4aab95e1c3137b9078d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e5fdb4aab95e1c3137b9078d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e5fdb4aab95e1c3137b9078d",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5JIsZpSNb1MfGpSwtpWRP1"
+  }
+}

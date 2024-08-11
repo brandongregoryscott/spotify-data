@@ -1,0 +1,33 @@
+{
+  "id": "50pnm8dt9HjGWa86qh9J48",
+  "name": "Shuzin",
+  "uri": "spotify:artist:50pnm8dt9HjGWa86qh9J48",
+  "followers": {
+    "href": null,
+    "total": 1725
+  },
+  "genres": [
+    "israeli indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaeb0b2d7491a670a9cbbb859",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aeb0b2d7491a670a9cbbb859",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aeb0b2d7491a670a9cbbb859",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/50pnm8dt9HjGWa86qh9J48"
+  }
+}

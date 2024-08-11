@@ -1,0 +1,33 @@
+{
+  "id": "2x3n60ukOull9yln5m080E",
+  "name": "Senser",
+  "uri": "spotify:artist:2x3n60ukOull9yln5m080E",
+  "followers": {
+    "href": null,
+    "total": 22287
+  },
+  "genres": [
+    "rap rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736f3266d2557957dc12c906cc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026f3266d2557957dc12c906cc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516f3266d2557957dc12c906cc",
+      "width": 64
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2x3n60ukOull9yln5m080E"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4quStFmDD9EH5uSJQz4oLS",
+  "name": "The Terrys",
+  "uri": "spotify:artist:4quStFmDD9EH5uSJQz4oLS",
+  "followers": {
+    "href": null,
+    "total": 28394
+  },
+  "genres": [
+    "australian surf rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb20188c762ce96b233ef090e5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517420188c762ce96b233ef090e5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17820188c762ce96b233ef090e5",
+      "width": 160
+    }
+  ],
+  "popularity": 48,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS"
+  }
+}

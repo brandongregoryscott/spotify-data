@@ -1,0 +1,33 @@
+{
+  "id": "0QkH9HUgfMJiAX4BtrhCGp",
+  "name": "Ryder",
+  "uri": "spotify:artist:0QkH9HUgfMJiAX4BtrhCGp",
+  "followers": {
+    "href": null,
+    "total": 217
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb568d70444f0b74d3c44381b2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174568d70444f0b74d3c44381b2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178568d70444f0b74d3c44381b2",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0QkH9HUgfMJiAX4BtrhCGp"
+  }
+}

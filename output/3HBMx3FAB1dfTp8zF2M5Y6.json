@@ -1,0 +1,33 @@
+{
+  "id": "3HBMx3FAB1dfTp8zF2M5Y6",
+  "name": "JustNoble",
+  "uri": "spotify:artist:3HBMx3FAB1dfTp8zF2M5Y6",
+  "followers": {
+    "href": null,
+    "total": 500
+  },
+  "genres": [
+    "anime piano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb478e3503f3f80949969606d3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174478e3503f3f80949969606d3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178478e3503f3f80949969606d3",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3HBMx3FAB1dfTp8zF2M5Y6"
+  }
+}

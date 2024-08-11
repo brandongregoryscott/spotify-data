@@ -1,0 +1,33 @@
+{
+  "id": "2204MN9UoJk55zPXFvoQUz",
+  "name": "Virtanen",
+  "uri": "spotify:artist:2204MN9UoJk55zPXFvoQUz",
+  "followers": {
+    "href": null,
+    "total": 519
+  },
+  "genres": [
+    "classic finnish rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733325f961af064b1622edf82b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023325f961af064b1622edf82b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513325f961af064b1622edf82b",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2204MN9UoJk55zPXFvoQUz"
+  }
+}

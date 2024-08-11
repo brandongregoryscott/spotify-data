@@ -1,0 +1,33 @@
+{
+  "id": "0k4q1bzX9gP8SP1itwO7ED",
+  "name": "Rubin",
+  "uri": "spotify:artist:0k4q1bzX9gP8SP1itwO7ED",
+  "followers": {
+    "href": null,
+    "total": 363
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb585fb8de46922b59f9eb7b8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b585fb8de46922b59f9eb7b8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b585fb8de46922b59f9eb7b8",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0k4q1bzX9gP8SP1itwO7ED"
+  }
+}

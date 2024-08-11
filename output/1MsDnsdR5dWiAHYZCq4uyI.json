@@ -1,0 +1,33 @@
+{
+  "id": "1MsDnsdR5dWiAHYZCq4uyI",
+  "name": "Supercluster",
+  "uri": "spotify:artist:1MsDnsdR5dWiAHYZCq4uyI",
+  "followers": {
+    "href": null,
+    "total": 99
+  },
+  "genres": [
+    "elephant 6"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730f18ce6d7af433411e622608",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020f18ce6d7af433411e622608",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510f18ce6d7af433411e622608",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1MsDnsdR5dWiAHYZCq4uyI"
+  }
+}

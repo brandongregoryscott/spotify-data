@@ -1,0 +1,33 @@
+{
+  "id": "0JTXZ4jKQUyabf3umbSjVe",
+  "name": "Chuck",
+  "uri": "spotify:artist:0JTXZ4jKQUyabf3umbSjVe",
+  "followers": {
+    "href": null,
+    "total": 286
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb15ff135fd0de76e56c538118",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517415ff135fd0de76e56c538118",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17815ff135fd0de76e56c538118",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0JTXZ4jKQUyabf3umbSjVe"
+  }
+}

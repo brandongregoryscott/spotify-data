@@ -1,0 +1,33 @@
+{
+  "id": "3Ta3oqjbBsm59o4yK0ajqw",
+  "name": "Shredd",
+  "uri": "spotify:artist:3Ta3oqjbBsm59o4yK0ajqw",
+  "followers": {
+    "href": null,
+    "total": 650
+  },
+  "genres": [
+    "scottish indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb343c4d5f4eeac02ddb8e1776",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174343c4d5f4eeac02ddb8e1776",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178343c4d5f4eeac02ddb8e1776",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Ta3oqjbBsm59o4yK0ajqw"
+  }
+}

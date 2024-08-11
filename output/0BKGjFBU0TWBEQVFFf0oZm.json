@@ -1,0 +1,33 @@
+{
+  "id": "0BKGjFBU0TWBEQVFFf0oZm",
+  "name": "Mikanello",
+  "uri": "spotify:artist:0BKGjFBU0TWBEQVFFf0oZm",
+  "followers": {
+    "href": null,
+    "total": 71
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd1cae7d350fb4df73ac266a9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d1cae7d350fb4df73ac266a9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d1cae7d350fb4df73ac266a9",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0BKGjFBU0TWBEQVFFf0oZm"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3rR2DhQuqHHII4kaSS0bDD",
+  "name": "Los de Ramon",
+  "uri": "spotify:artist:3rR2DhQuqHHII4kaSS0bDD",
+  "followers": {
+    "href": null,
+    "total": 4136
+  },
+  "genres": [
+    "nueva cancion"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b3e484791915714794ecac4b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b3e484791915714794ecac4b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b3e484791915714794ecac4b",
+      "width": 64
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3rR2DhQuqHHII4kaSS0bDD"
+  }
+}

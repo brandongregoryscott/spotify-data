@@ -1,0 +1,33 @@
+{
+  "id": "43J6iItIIExbh3sEHISaD6",
+  "name": "CAVA",
+  "uri": "spotify:artist:43J6iItIIExbh3sEHISaD6",
+  "followers": {
+    "href": null,
+    "total": 1598
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb90a1b56ef931643e128cd0cd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517490a1b56ef931643e128cd0cd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17890a1b56ef931643e128cd0cd",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/43J6iItIIExbh3sEHISaD6"
+  }
+}

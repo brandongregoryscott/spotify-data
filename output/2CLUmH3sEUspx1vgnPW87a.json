@@ -1,0 +1,33 @@
+{
+  "id": "2CLUmH3sEUspx1vgnPW87a",
+  "name": "Orchadia",
+  "uri": "spotify:artist:2CLUmH3sEUspx1vgnPW87a",
+  "followers": {
+    "href": null,
+    "total": 798
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd94fe1180792477e205d80d3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d94fe1180792477e205d80d3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d94fe1180792477e205d80d3",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2CLUmH3sEUspx1vgnPW87a"
+  }
+}

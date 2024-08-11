@@ -1,0 +1,33 @@
+{
+  "id": "1t9h9FknndxGe1PtzpxQek",
+  "name": "Cycle",
+  "uri": "spotify:artist:1t9h9FknndxGe1PtzpxQek",
+  "followers": {
+    "href": null,
+    "total": 16371
+  },
+  "genres": [
+    "latin rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d8b49f5b47cb838ccc30ac45",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d8b49f5b47cb838ccc30ac45",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d8b49f5b47cb838ccc30ac45",
+      "width": 64
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1t9h9FknndxGe1PtzpxQek"
+  }
+}

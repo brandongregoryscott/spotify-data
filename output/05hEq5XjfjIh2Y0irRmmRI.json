@@ -1,0 +1,33 @@
+{
+  "id": "05hEq5XjfjIh2Y0irRmmRI",
+  "name": "Sitňan",
+  "uri": "spotify:artist:05hEq5XjfjIh2Y0irRmmRI",
+  "followers": {
+    "href": null,
+    "total": 283
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273567476290d34440e4fbddb36",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02567476290d34440e4fbddb36",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851567476290d34440e4fbddb36",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05hEq5XjfjIh2Y0irRmmRI"
+  }
+}

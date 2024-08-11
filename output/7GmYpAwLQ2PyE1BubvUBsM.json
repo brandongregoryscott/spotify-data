@@ -1,0 +1,33 @@
+{
+  "id": "7GmYpAwLQ2PyE1BubvUBsM",
+  "name": "Antonio Sol",
+  "uri": "spotify:artist:7GmYpAwLQ2PyE1BubvUBsM",
+  "followers": {
+    "href": null,
+    "total": 2239
+  },
+  "genres": [
+    "movie tunes"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738b8e5ae158c3b8ac78de842e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028b8e5ae158c3b8ac78de842e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518b8e5ae158c3b8ac78de842e",
+      "width": 64
+    }
+  ],
+  "popularity": 44,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7GmYpAwLQ2PyE1BubvUBsM"
+  }
+}

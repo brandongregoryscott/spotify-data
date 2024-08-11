@@ -1,0 +1,33 @@
+{
+  "id": "3b7JXyaZHZknJwvfaiPYsi",
+  "name": "Raphox",
+  "uri": "spotify:artist:3b7JXyaZHZknJwvfaiPYsi",
+  "followers": {
+    "href": null,
+    "total": 290
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb557de04f7d17e3f301bfcea3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174557de04f7d17e3f301bfcea3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178557de04f7d17e3f301bfcea3",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3b7JXyaZHZknJwvfaiPYsi"
+  }
+}

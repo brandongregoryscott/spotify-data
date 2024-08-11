@@ -1,0 +1,33 @@
+{
+  "id": "56ExcnihInBOiZnW4hDGsI",
+  "name": "M-rod",
+  "uri": "spotify:artist:56ExcnihInBOiZnW4hDGsI",
+  "followers": {
+    "href": null,
+    "total": 419
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb759ecef88c76a3c922cdbf1d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174759ecef88c76a3c922cdbf1d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178759ecef88c76a3c922cdbf1d",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/56ExcnihInBOiZnW4hDGsI"
+  }
+}

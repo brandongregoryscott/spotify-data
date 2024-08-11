@@ -1,0 +1,33 @@
+{
+  "id": "6oazXzq1MxTor9zKbvWw2z",
+  "name": "Daliah",
+  "uri": "spotify:artist:6oazXzq1MxTor9zKbvWw2z",
+  "followers": {
+    "href": null,
+    "total": 98
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb45ad395f2feb77512b5801a9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517445ad395f2feb77512b5801a9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17845ad395f2feb77512b5801a9",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6oazXzq1MxTor9zKbvWw2z"
+  }
+}

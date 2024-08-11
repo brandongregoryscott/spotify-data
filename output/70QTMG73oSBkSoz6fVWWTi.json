@@ -1,0 +1,33 @@
+{
+  "id": "70QTMG73oSBkSoz6fVWWTi",
+  "name": "microtub",
+  "uri": "spotify:artist:70QTMG73oSBkSoz6fVWWTi",
+  "followers": {
+    "href": null,
+    "total": 351
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb75926ed45ac56406325be9d2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517475926ed45ac56406325be9d2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17875926ed45ac56406325be9d2",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/70QTMG73oSBkSoz6fVWWTi"
+  }
+}

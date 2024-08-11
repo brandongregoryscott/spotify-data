@@ -1,0 +1,33 @@
+{
+  "id": "1pdMPDKON61uMrPRzr7ClI",
+  "name": "Ruby Lou",
+  "uri": "spotify:artist:1pdMPDKON61uMrPRzr7ClI",
+  "followers": {
+    "href": null,
+    "total": 21
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736e98e08001e08d25e1f65a80",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026e98e08001e08d25e1f65a80",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516e98e08001e08d25e1f65a80",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1pdMPDKON61uMrPRzr7ClI"
+  }
+}

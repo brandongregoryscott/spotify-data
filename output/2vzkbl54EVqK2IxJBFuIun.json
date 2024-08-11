@@ -1,0 +1,33 @@
+{
+  "id": "2vzkbl54EVqK2IxJBFuIun",
+  "name": "txtsu",
+  "uri": "spotify:artist:2vzkbl54EVqK2IxJBFuIun",
+  "followers": {
+    "href": null,
+    "total": 4633
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd034d8cd339e642c51bb6cec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d034d8cd339e642c51bb6cec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d034d8cd339e642c51bb6cec",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2vzkbl54EVqK2IxJBFuIun"
+  }
+}

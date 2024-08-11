@@ -1,0 +1,35 @@
+{
+  "id": "3lH5FSOvM1KtubPVQnre3v",
+  "name": "Anthriel",
+  "uri": "spotify:artist:3lH5FSOvM1KtubPVQnre3v",
+  "followers": {
+    "href": null,
+    "total": 4000
+  },
+  "genres": [
+    "finnish progressive metal",
+    "melodic progressive metal",
+    "progressive power metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731013b304a31795b48f6a40f8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021013b304a31795b48f6a40f8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511013b304a31795b48f6a40f8",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3lH5FSOvM1KtubPVQnre3v"
+  }
+}

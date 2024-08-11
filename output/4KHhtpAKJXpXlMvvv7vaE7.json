@@ -1,0 +1,34 @@
+{
+  "id": "4KHhtpAKJXpXlMvvv7vaE7",
+  "name": "Rainbow Ffolly",
+  "uri": "spotify:artist:4KHhtpAKJXpXlMvvv7vaE7",
+  "followers": {
+    "href": null,
+    "total": 5310
+  },
+  "genres": [
+    "classic psychedelic rock",
+    "freakbeat"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f4809142d8b55ba954d8e8eb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f4809142d8b55ba954d8e8eb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f4809142d8b55ba954d8e8eb",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4KHhtpAKJXpXlMvvv7vaE7"
+  }
+}

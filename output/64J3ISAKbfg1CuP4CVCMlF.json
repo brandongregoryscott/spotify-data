@@ -1,0 +1,33 @@
+{
+  "id": "64J3ISAKbfg1CuP4CVCMlF",
+  "name": "Nabález",
+  "uri": "spotify:artist:64J3ISAKbfg1CuP4CVCMlF",
+  "followers": {
+    "href": null,
+    "total": 30156
+  },
+  "genres": [
+    "colombian pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb59dcf6e8fd393102b5bc52af",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517459dcf6e8fd393102b5bc52af",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17859dcf6e8fd393102b5bc52af",
+      "width": 160
+    }
+  ],
+  "popularity": 49,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
+  }
+}

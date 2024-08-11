@@ -1,0 +1,33 @@
+{
+  "id": "15AbrSm4VL7Ng1Vre9ABhq",
+  "name": "namea",
+  "uri": "spotify:artist:15AbrSm4VL7Ng1Vre9ABhq",
+  "followers": {
+    "href": null,
+    "total": 75
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb161b1e0f2d4ee806a4e427e0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174161b1e0f2d4ee806a4e427e0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178161b1e0f2d4ee806a4e427e0",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/15AbrSm4VL7Ng1Vre9ABhq"
+  }
+}

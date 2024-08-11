@@ -1,0 +1,33 @@
+{
+  "id": "3PY6zDyOCKCQTGChShgDrM",
+  "name": "The Globs",
+  "uri": "spotify:artist:3PY6zDyOCKCQTGChShgDrM",
+  "followers": {
+    "href": null,
+    "total": 172
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27308f13f8ecacdaeca0d0fb0c3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0208f13f8ecacdaeca0d0fb0c3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485108f13f8ecacdaeca0d0fb0c3",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3PY6zDyOCKCQTGChShgDrM"
+  }
+}

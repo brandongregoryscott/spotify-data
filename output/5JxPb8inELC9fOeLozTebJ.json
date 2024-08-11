@@ -1,0 +1,33 @@
+{
+  "id": "5JxPb8inELC9fOeLozTebJ",
+  "name": "Elijah Kealy",
+  "uri": "spotify:artist:5JxPb8inELC9fOeLozTebJ",
+  "followers": {
+    "href": null,
+    "total": 181
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb367fd66789741480414b1889",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174367fd66789741480414b1889",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178367fd66789741480414b1889",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5JxPb8inELC9fOeLozTebJ"
+  }
+}

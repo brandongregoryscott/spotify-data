@@ -1,0 +1,33 @@
+{
+  "id": "6DGg3vOIAiIgpMsbU7x4b9",
+  "name": "AR the Eternal",
+  "uri": "spotify:artist:6DGg3vOIAiIgpMsbU7x4b9",
+  "followers": {
+    "href": null,
+    "total": 260
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb04ce6d3088479e970e2af481",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517404ce6d3088479e970e2af481",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17804ce6d3088479e970e2af481",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6DGg3vOIAiIgpMsbU7x4b9"
+  }
+}

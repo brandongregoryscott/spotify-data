@@ -1,0 +1,33 @@
+{
+  "id": "2rPfQmSRDqyemU4AyHM4DS",
+  "name": "Mooncha",
+  "uri": "spotify:artist:2rPfQmSRDqyemU4AyHM4DS",
+  "followers": {
+    "href": null,
+    "total": 81
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe877a9838cb745e9a2050442",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e877a9838cb745e9a2050442",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e877a9838cb745e9a2050442",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2rPfQmSRDqyemU4AyHM4DS"
+  }
+}

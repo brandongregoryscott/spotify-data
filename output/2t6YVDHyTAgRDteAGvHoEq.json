@@ -1,0 +1,33 @@
+{
+  "id": "2t6YVDHyTAgRDteAGvHoEq",
+  "name": "Party Van",
+  "uri": "spotify:artist:2t6YVDHyTAgRDteAGvHoEq",
+  "followers": {
+    "href": null,
+    "total": 704
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb34c8e8ee7d4549428f593af",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b34c8e8ee7d4549428f593af",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b34c8e8ee7d4549428f593af",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2t6YVDHyTAgRDteAGvHoEq"
+  }
+}

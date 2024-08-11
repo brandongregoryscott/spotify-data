@@ -1,0 +1,33 @@
+{
+  "id": "1ql0CBqNeVybGSr8NRnn6Q",
+  "name": "Stress Actual",
+  "uri": "spotify:artist:1ql0CBqNeVybGSr8NRnn6Q",
+  "followers": {
+    "href": null,
+    "total": 128
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd31ff4e327af8245964ef906",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d31ff4e327af8245964ef906",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d31ff4e327af8245964ef906",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ql0CBqNeVybGSr8NRnn6Q"
+  }
+}

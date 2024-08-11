@@ -1,0 +1,33 @@
+{
+  "id": "6CIxoER4KddNrnocyShRhS",
+  "name": "HeyMen",
+  "uri": "spotify:artist:6CIxoER4KddNrnocyShRhS",
+  "followers": {
+    "href": null,
+    "total": 3304
+  },
+  "genres": [
+    "k-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb15a2215a49c30ecb89782308",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517415a2215a49c30ecb89782308",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17815a2215a49c30ecb89782308",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6CIxoER4KddNrnocyShRhS"
+  }
+}

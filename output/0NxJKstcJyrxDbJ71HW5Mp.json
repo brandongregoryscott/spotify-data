@@ -1,0 +1,33 @@
+{
+  "id": "0NxJKstcJyrxDbJ71HW5Mp",
+  "name": "Jhon Nikolson",
+  "uri": "spotify:artist:0NxJKstcJyrxDbJ71HW5Mp",
+  "followers": {
+    "href": null,
+    "total": 30
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27310b1ce2a020570095605aed3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0210b1ce2a020570095605aed3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485110b1ce2a020570095605aed3",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0NxJKstcJyrxDbJ71HW5Mp"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2GWVTgLw3Qtw9T8HJUppLa",
+  "name": "BØW",
+  "uri": "spotify:artist:2GWVTgLw3Qtw9T8HJUppLa",
+  "followers": {
+    "href": null,
+    "total": 367
+  },
+  "genres": [
+    "portuguese hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe91aa7fded3d754002a0e098",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e91aa7fded3d754002a0e098",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e91aa7fded3d754002a0e098",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2GWVTgLw3Qtw9T8HJUppLa"
+  }
+}

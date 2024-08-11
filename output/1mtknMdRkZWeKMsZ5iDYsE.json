@@ -1,0 +1,36 @@
+{
+  "id": "1mtknMdRkZWeKMsZ5iDYsE",
+  "name": "The Lens",
+  "uri": "spotify:artist:1mtknMdRkZWeKMsZ5iDYsE",
+  "followers": {
+    "href": null,
+    "total": 2265
+  },
+  "genres": [
+    "crossover prog",
+    "deep progressive rock",
+    "neo-progressive",
+    "progressive rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273490bd09adb71b5f56700eb99",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02490bd09adb71b5f56700eb99",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851490bd09adb71b5f56700eb99",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1mtknMdRkZWeKMsZ5iDYsE"
+  }
+}

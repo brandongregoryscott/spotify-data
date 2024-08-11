@@ -1,0 +1,33 @@
+{
+  "id": "5JrJlOrJbH9DtLLM0OXX3M",
+  "name": "softpest",
+  "uri": "spotify:artist:5JrJlOrJbH9DtLLM0OXX3M",
+  "followers": {
+    "href": null,
+    "total": 344
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb430cde9ac01039b53c07a889",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174430cde9ac01039b53c07a889",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178430cde9ac01039b53c07a889",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5JrJlOrJbH9DtLLM0OXX3M"
+  }
+}

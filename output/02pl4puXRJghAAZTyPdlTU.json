@@ -1,0 +1,33 @@
+{
+  "id": "02pl4puXRJghAAZTyPdlTU",
+  "name": "The Boils",
+  "uri": "spotify:artist:02pl4puXRJghAAZTyPdlTU",
+  "followers": {
+    "href": null,
+    "total": 2229
+  },
+  "genres": [
+    "american oi"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c51414663d33b36af0090bdf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0272612babdc976fe8753dec70",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485172612babdc976fe8753dec70",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/02pl4puXRJghAAZTyPdlTU"
+  }
+}

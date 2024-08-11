@@ -1,0 +1,33 @@
+{
+  "id": "21wAefivDbnQMQpjVY2tKZ",
+  "name": "Cresil",
+  "uri": "spotify:artist:21wAefivDbnQMQpjVY2tKZ",
+  "followers": {
+    "href": null,
+    "total": 319
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd42bf553b7c2a58cccd22f6e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d42bf553b7c2a58cccd22f6e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d42bf553b7c2a58cccd22f6e",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/21wAefivDbnQMQpjVY2tKZ"
+  }
+}

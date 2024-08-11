@@ -1,0 +1,33 @@
+{
+  "id": "00Ej9IBAAdWLGEjApDsHWI",
+  "name": "이범용",
+  "uri": "spotify:artist:00Ej9IBAAdWLGEjApDsHWI",
+  "followers": {
+    "href": null,
+    "total": 174
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27340eca019a8935084b655226b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0240eca019a8935084b655226b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485140eca019a8935084b655226b",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/00Ej9IBAAdWLGEjApDsHWI"
+  }
+}

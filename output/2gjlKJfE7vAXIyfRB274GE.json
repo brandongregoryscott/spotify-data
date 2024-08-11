@@ -1,0 +1,33 @@
+{
+  "id": "2gjlKJfE7vAXIyfRB274GE",
+  "name": "Geeky",
+  "uri": "spotify:artist:2gjlKJfE7vAXIyfRB274GE",
+  "followers": {
+    "href": null,
+    "total": 201
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeb764d40efdb19c5ec34d61c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eb764d40efdb19c5ec34d61c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eb764d40efdb19c5ec34d61c",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2gjlKJfE7vAXIyfRB274GE"
+  }
+}

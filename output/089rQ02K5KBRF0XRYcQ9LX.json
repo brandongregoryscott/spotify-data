@@ -1,0 +1,33 @@
+{
+  "id": "089rQ02K5KBRF0XRYcQ9LX",
+  "name": "Blazo",
+  "uri": "spotify:artist:089rQ02K5KBRF0XRYcQ9LX",
+  "followers": {
+    "href": null,
+    "total": 33787
+  },
+  "genres": [
+    "ambeat"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736b7d9181210b26d0c8c85c46",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025d8ed81d9b3fe51c67b28b6f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515d8ed81d9b3fe51c67b28b6f",
+      "width": 64
+    }
+  ],
+  "popularity": 34,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/089rQ02K5KBRF0XRYcQ9LX"
+  }
+}

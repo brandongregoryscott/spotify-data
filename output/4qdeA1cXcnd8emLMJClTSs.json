@@ -1,0 +1,33 @@
+{
+  "id": "4qdeA1cXcnd8emLMJClTSs",
+  "name": "No Matter What",
+  "uri": "spotify:artist:4qdeA1cXcnd8emLMJClTSs",
+  "followers": {
+    "href": null,
+    "total": 245
+  },
+  "genres": [
+    "french hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb84351de15592adc16e7dd341",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517484351de15592adc16e7dd341",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17884351de15592adc16e7dd341",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4qdeA1cXcnd8emLMJClTSs"
+  }
+}

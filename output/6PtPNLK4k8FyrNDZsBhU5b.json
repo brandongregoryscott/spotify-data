@@ -1,0 +1,33 @@
+{
+  "id": "6PtPNLK4k8FyrNDZsBhU5b",
+  "name": "fQYl",
+  "uri": "spotify:artist:6PtPNLK4k8FyrNDZsBhU5b",
+  "followers": {
+    "href": null,
+    "total": 112
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb685afb56916bbb8c936ceb71",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174685afb56916bbb8c936ceb71",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178685afb56916bbb8c936ceb71",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6PtPNLK4k8FyrNDZsBhU5b"
+  }
+}

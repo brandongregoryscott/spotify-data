@@ -1,0 +1,33 @@
+{
+  "id": "5suuNt88tCUMssqbW06ss7",
+  "name": "Jeffrey Donger",
+  "uri": "spotify:artist:5suuNt88tCUMssqbW06ss7",
+  "followers": {
+    "href": null,
+    "total": 45
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbf280f9330c6eb04864e73fa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bf280f9330c6eb04864e73fa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bf280f9330c6eb04864e73fa",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5suuNt88tCUMssqbW06ss7"
+  }
+}

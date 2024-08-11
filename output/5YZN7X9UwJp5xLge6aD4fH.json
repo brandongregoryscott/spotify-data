@@ -1,0 +1,33 @@
+{
+  "id": "5YZN7X9UwJp5xLge6aD4fH",
+  "name": "Tähtiportti",
+  "uri": "spotify:artist:5YZN7X9UwJp5xLge6aD4fH",
+  "followers": {
+    "href": null,
+    "total": 1249
+  },
+  "genres": [
+    "finnish experimental"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735a647695afad5b2962dcb62e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025a647695afad5b2962dcb62e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515a647695afad5b2962dcb62e",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5YZN7X9UwJp5xLge6aD4fH"
+  }
+}

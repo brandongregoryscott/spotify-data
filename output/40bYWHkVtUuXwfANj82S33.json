@@ -1,0 +1,33 @@
+{
+  "id": "40bYWHkVtUuXwfANj82S33",
+  "name": "León Daniel",
+  "uri": "spotify:artist:40bYWHkVtUuXwfANj82S33",
+  "followers": {
+    "href": null,
+    "total": 58
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb592bd82e1e9e1c4924e4edc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b592bd82e1e9e1c4924e4edc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b592bd82e1e9e1c4924e4edc",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/40bYWHkVtUuXwfANj82S33"
+  }
+}

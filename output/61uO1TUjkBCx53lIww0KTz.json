@@ -1,0 +1,33 @@
+{
+  "id": "61uO1TUjkBCx53lIww0KTz",
+  "name": "Angu",
+  "uri": "spotify:artist:61uO1TUjkBCx53lIww0KTz",
+  "followers": {
+    "href": null,
+    "total": 116
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf4f9c2052eb7dcc33ba5ff57",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f4f9c2052eb7dcc33ba5ff57",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f4f9c2052eb7dcc33ba5ff57",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/61uO1TUjkBCx53lIww0KTz"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2BMbi1uFlg20gJkDN6qhCM",
+  "name": "Gvidas",
+  "uri": "spotify:artist:2BMbi1uFlg20gJkDN6qhCM",
+  "followers": {
+    "href": null,
+    "total": 825
+  },
+  "genres": [
+    "lithuanian trap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb88a6b2e92a62a21d86201ac",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b88a6b2e92a62a21d86201ac",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b88a6b2e92a62a21d86201ac",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2BMbi1uFlg20gJkDN6qhCM"
+  }
+}

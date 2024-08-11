@@ -1,0 +1,33 @@
+{
+  "id": "43kdmy4QQiH8wI3MYVWFUJ",
+  "name": "Pablie",
+  "uri": "spotify:artist:43kdmy4QQiH8wI3MYVWFUJ",
+  "followers": {
+    "href": null,
+    "total": 785
+  },
+  "genres": [
+    "rap catala"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27367bb60c1bc41b13f9f92499d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0267bb60c1bc41b13f9f92499d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485167bb60c1bc41b13f9f92499d",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/43kdmy4QQiH8wI3MYVWFUJ"
+  }
+}

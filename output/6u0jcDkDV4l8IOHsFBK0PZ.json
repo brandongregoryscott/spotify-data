@@ -1,0 +1,33 @@
+{
+  "id": "6u0jcDkDV4l8IOHsFBK0PZ",
+  "name": "Thom Antoni",
+  "uri": "spotify:artist:6u0jcDkDV4l8IOHsFBK0PZ",
+  "followers": {
+    "href": null,
+    "total": 115
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb24f88cb6d53a0f28d526257c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517424f88cb6d53a0f28d526257c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17824f88cb6d53a0f28d526257c",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6u0jcDkDV4l8IOHsFBK0PZ"
+  }
+}

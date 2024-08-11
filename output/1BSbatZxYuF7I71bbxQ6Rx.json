@@ -1,0 +1,33 @@
+{
+  "id": "1BSbatZxYuF7I71bbxQ6Rx",
+  "name": "Gator, The Alligator",
+  "uri": "spotify:artist:1BSbatZxYuF7I71bbxQ6Rx",
+  "followers": {
+    "href": null,
+    "total": 1840
+  },
+  "genres": [
+    "portuguese indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc73203685f5cf53966acfa8a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c73203685f5cf53966acfa8a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c73203685f5cf53966acfa8a",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1BSbatZxYuF7I71bbxQ6Rx"
+  }
+}

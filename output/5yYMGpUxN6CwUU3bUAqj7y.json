@@ -1,0 +1,33 @@
+{
+  "id": "5yYMGpUxN6CwUU3bUAqj7y",
+  "name": "maaks",
+  "uri": "spotify:artist:5yYMGpUxN6CwUU3bUAqj7y",
+  "followers": {
+    "href": null,
+    "total": 2223
+  },
+  "genres": [
+    "german hyperpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe47ed30053d9a3c0f46cb8e4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e47ed30053d9a3c0f46cb8e4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e47ed30053d9a3c0f46cb8e4",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5yYMGpUxN6CwUU3bUAqj7y"
+  }
+}

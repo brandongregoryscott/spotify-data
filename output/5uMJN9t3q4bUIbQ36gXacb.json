@@ -1,0 +1,33 @@
+{
+  "id": "5uMJN9t3q4bUIbQ36gXacb",
+  "name": "O Dawg",
+  "uri": "spotify:artist:5uMJN9t3q4bUIbQ36gXacb",
+  "followers": {
+    "href": null,
+    "total": 2221
+  },
+  "genres": [
+    "dmv rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736efce88be820d1ffb0a7d5c6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026efce88be820d1ffb0a7d5c6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516efce88be820d1ffb0a7d5c6",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5uMJN9t3q4bUIbQ36gXacb"
+  }
+}

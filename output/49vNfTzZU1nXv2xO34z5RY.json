@@ -1,0 +1,33 @@
+{
+  "id": "49vNfTzZU1nXv2xO34z5RY",
+  "name": "CloudNone",
+  "uri": "spotify:artist:49vNfTzZU1nXv2xO34z5RY",
+  "followers": {
+    "href": null,
+    "total": 25760
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcd3e7b18d588a04d288013a4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cd3e7b18d588a04d288013a4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cd3e7b18d588a04d288013a4",
+      "width": 160
+    }
+  ],
+  "popularity": 37,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY"
+  }
+}

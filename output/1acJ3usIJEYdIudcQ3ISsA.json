@@ -1,0 +1,33 @@
+{
+  "id": "1acJ3usIJEYdIudcQ3ISsA",
+  "name": "Popterror",
+  "uri": "spotify:artist:1acJ3usIJEYdIudcQ3ISsA",
+  "followers": {
+    "href": null,
+    "total": 517
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735d62f672f0a5794b9359491f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025d62f672f0a5794b9359491f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515d62f672f0a5794b9359491f",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1acJ3usIJEYdIudcQ3ISsA"
+  }
+}

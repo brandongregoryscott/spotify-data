@@ -1,0 +1,33 @@
+{
+  "id": "65m6UOB4ekojjqf7FOYqPo",
+  "name": "Idknoou",
+  "uri": "spotify:artist:65m6UOB4ekojjqf7FOYqPo",
+  "followers": {
+    "href": null,
+    "total": 168
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf2efbcc10e772898ccbd493f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f2efbcc10e772898ccbd493f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f2efbcc10e772898ccbd493f",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/65m6UOB4ekojjqf7FOYqPo"
+  }
+}

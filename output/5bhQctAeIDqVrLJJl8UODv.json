@@ -1,0 +1,33 @@
+{
+  "id": "5bhQctAeIDqVrLJJl8UODv",
+  "name": "Tru Trilla",
+  "uri": "spotify:artist:5bhQctAeIDqVrLJJl8UODv",
+  "followers": {
+    "href": null,
+    "total": 1275
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb085a37cc01893db2febeaade",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174085a37cc01893db2febeaade",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178085a37cc01893db2febeaade",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5bhQctAeIDqVrLJJl8UODv"
+  }
+}

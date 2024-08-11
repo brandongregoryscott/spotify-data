@@ -1,0 +1,33 @@
+{
+  "id": "1rM1tjoyMHPddYQ85y8quM",
+  "name": "The Rallies",
+  "uri": "spotify:artist:1rM1tjoyMHPddYQ85y8quM",
+  "followers": {
+    "href": null,
+    "total": 540
+  },
+  "genres": [
+    "modern power pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbe0aee8cf964fd41ec9636f4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174be0aee8cf964fd41ec9636f4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178be0aee8cf964fd41ec9636f4",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1rM1tjoyMHPddYQ85y8quM"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4wBi1E6mZ9FvLNqLyD7Y8H",
+  "name": "Failure Protocol",
+  "uri": "spotify:artist:4wBi1E6mZ9FvLNqLyD7Y8H",
+  "followers": {
+    "href": null,
+    "total": 45
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd61293892db5b07034636f6c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d61293892db5b07034636f6c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d61293892db5b07034636f6c",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4wBi1E6mZ9FvLNqLyD7Y8H"
+  }
+}

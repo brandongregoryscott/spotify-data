@@ -1,0 +1,33 @@
+{
+  "id": "1AklxrEk7i9wiWijLX9pjg",
+  "name": "오승근",
+  "uri": "spotify:artist:1AklxrEk7i9wiWijLX9pjg",
+  "followers": {
+    "href": null,
+    "total": 1721
+  },
+  "genres": [
+    "trot"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27324073c8d94d99118e908bb9f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0224073c8d94d99118e908bb9f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485124073c8d94d99118e908bb9f",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1AklxrEk7i9wiWijLX9pjg"
+  }
+}

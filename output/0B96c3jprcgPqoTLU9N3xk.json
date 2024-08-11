@@ -1,0 +1,33 @@
+{
+  "id": "0B96c3jprcgPqoTLU9N3xk",
+  "name": "SageBeats",
+  "uri": "spotify:artist:0B96c3jprcgPqoTLU9N3xk",
+  "followers": {
+    "href": null,
+    "total": 2505
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb520d2ea69003a30f8fbf5ffc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174520d2ea69003a30f8fbf5ffc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178520d2ea69003a30f8fbf5ffc",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0B96c3jprcgPqoTLU9N3xk"
+  }
+}

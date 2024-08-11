@@ -1,0 +1,33 @@
+{
+  "id": "1FTgNTRIOgPdtxyDF11itL",
+  "name": "Motormark",
+  "uri": "spotify:artist:1FTgNTRIOgPdtxyDF11itL",
+  "followers": {
+    "href": null,
+    "total": 1050
+  },
+  "genres": [
+    "digital hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738a3424904453d6c27439dc78",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028a3424904453d6c27439dc78",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518a3424904453d6c27439dc78",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1FTgNTRIOgPdtxyDF11itL"
+  }
+}

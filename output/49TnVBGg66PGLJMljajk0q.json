@@ -1,0 +1,33 @@
+{
+  "id": "49TnVBGg66PGLJMljajk0q",
+  "name": "Eno",
+  "uri": "spotify:artist:49TnVBGg66PGLJMljajk0q",
+  "followers": {
+    "href": null,
+    "total": 245
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3465970c1e7344bfe7a2c433",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051743465970c1e7344bfe7a2c433",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1783465970c1e7344bfe7a2c433",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/49TnVBGg66PGLJMljajk0q"
+  }
+}

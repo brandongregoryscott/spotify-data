@@ -1,0 +1,33 @@
+{
+  "id": "5AnJUFFEeADzcAgdeXdjo0",
+  "name": "Freddy Mendizabal",
+  "uri": "spotify:artist:5AnJUFFEeADzcAgdeXdjo0",
+  "followers": {
+    "href": null,
+    "total": 66
+  },
+  "genres": [
+    "jazz boliviano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f7ec7488f853cbef5f26d6ae",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f7ec7488f853cbef5f26d6ae",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f7ec7488f853cbef5f26d6ae",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5AnJUFFEeADzcAgdeXdjo0"
+  }
+}

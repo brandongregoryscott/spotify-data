@@ -1,0 +1,33 @@
+{
+  "id": "2jWxiZ8OhI1PEGCSkgltjv",
+  "name": "Big Gulp",
+  "uri": "spotify:artist:2jWxiZ8OhI1PEGCSkgltjv",
+  "followers": {
+    "href": null,
+    "total": 89
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273414b9fd39a962dbf8b9c529d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0248cb3b8d78fe49c696c09b02",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485148cb3b8d78fe49c696c09b02",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2jWxiZ8OhI1PEGCSkgltjv"
+  }
+}

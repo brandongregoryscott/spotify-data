@@ -1,0 +1,33 @@
+{
+  "id": "5R13oxVwJRwvPJToBTOVJw",
+  "name": "James Willows",
+  "uri": "spotify:artist:5R13oxVwJRwvPJToBTOVJw",
+  "followers": {
+    "href": null,
+    "total": 419
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe9bd0dc9cba4ac7bfa6936fa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e9bd0dc9cba4ac7bfa6936fa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e9bd0dc9cba4ac7bfa6936fa",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5R13oxVwJRwvPJToBTOVJw"
+  }
+}

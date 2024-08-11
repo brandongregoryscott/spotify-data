@@ -1,0 +1,33 @@
+{
+  "id": "1Dcimzuf8peOxUab4Usm1E",
+  "name": "Same old Same old",
+  "uri": "spotify:artist:1Dcimzuf8peOxUab4Usm1E",
+  "followers": {
+    "href": null,
+    "total": 137
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc4e746d56dbaf91ab165bca1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c4e746d56dbaf91ab165bca1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c4e746d56dbaf91ab165bca1",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Dcimzuf8peOxUab4Usm1E"
+  }
+}

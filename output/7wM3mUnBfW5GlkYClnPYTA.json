@@ -1,0 +1,34 @@
+{
+  "id": "7wM3mUnBfW5GlkYClnPYTA",
+  "name": "Ortinho",
+  "uri": "spotify:artist:7wM3mUnBfW5GlkYClnPYTA",
+  "followers": {
+    "href": null,
+    "total": 2160
+  },
+  "genres": [
+    "frevo",
+    "nova musica pernambucana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe808adf24ef00259f51057ba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e808adf24ef00259f51057ba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e808adf24ef00259f51057ba",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7wM3mUnBfW5GlkYClnPYTA"
+  }
+}

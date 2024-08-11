@@ -1,0 +1,34 @@
+{
+  "id": "6bx7CY2nCaAzqptbHQvXRW",
+  "name": "Angelica",
+  "uri": "spotify:artist:6bx7CY2nCaAzqptbHQvXRW",
+  "followers": {
+    "href": null,
+    "total": 3038
+  },
+  "genres": [
+    "christian metal",
+    "deep christian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ebbfacdc2cec2c212d15f2ed",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ebbfacdc2cec2c212d15f2ed",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ebbfacdc2cec2c212d15f2ed",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6bx7CY2nCaAzqptbHQvXRW"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4J7r3svJQFNZos0P4KZWfu",
+  "name": "Rooney",
+  "uri": "spotify:artist:4J7r3svJQFNZos0P4KZWfu",
+  "followers": {
+    "href": null,
+    "total": 97
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebab6fff66f45c5e14c9ae5e47",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ab6fff66f45c5e14c9ae5e47",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ab6fff66f45c5e14c9ae5e47",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4J7r3svJQFNZos0P4KZWfu"
+  }
+}

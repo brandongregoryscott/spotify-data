@@ -1,0 +1,33 @@
+{
+  "id": "1ilSzdc5YSojM19wphb7X4",
+  "name": "In Letter Form",
+  "uri": "spotify:artist:1ilSzdc5YSojM19wphb7X4",
+  "followers": {
+    "href": null,
+    "total": 4811
+  },
+  "genres": [
+    "dark post-punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738ca55b1ad65e8af7fe14931a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028ca55b1ad65e8af7fe14931a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518ca55b1ad65e8af7fe14931a",
+      "width": 64
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ilSzdc5YSojM19wphb7X4"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "14CtALWVNL2IsuvjO27qBd",
+  "name": "Mark Harrison",
+  "uri": "spotify:artist:14CtALWVNL2IsuvjO27qBd",
+  "followers": {
+    "href": null,
+    "total": 395
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaac45ed25ae8b17a1730621c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aac45ed25ae8b17a1730621c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aac45ed25ae8b17a1730621c",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/14CtALWVNL2IsuvjO27qBd"
+  }
+}

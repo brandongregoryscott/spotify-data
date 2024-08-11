@@ -1,0 +1,33 @@
+{
+  "id": "56rPodQd6QLxF9ckc6TQVA",
+  "name": "Tom Nethersole",
+  "uri": "spotify:artist:56rPodQd6QLxF9ckc6TQVA",
+  "followers": {
+    "href": null,
+    "total": 527
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb516dff31c9793cafa0c797b7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174516dff31c9793cafa0c797b7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178516dff31c9793cafa0c797b7",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/56rPodQd6QLxF9ckc6TQVA"
+  }
+}

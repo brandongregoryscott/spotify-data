@@ -1,0 +1,33 @@
+{
+  "id": "6ZPvkQi5av5OyzwmrW7G8Q",
+  "name": "Kson",
+  "uri": "spotify:artist:6ZPvkQi5av5OyzwmrW7G8Q",
+  "followers": {
+    "href": null,
+    "total": 1298
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ef31bd8ea046729ea3d84080",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ef31bd8ea046729ea3d84080",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ef31bd8ea046729ea3d84080",
+      "width": 64
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ZPvkQi5av5OyzwmrW7G8Q"
+  }
+}

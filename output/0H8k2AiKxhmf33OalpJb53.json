@@ -1,0 +1,35 @@
+{
+  "id": "0H8k2AiKxhmf33OalpJb53",
+  "name": "A Cor Do Som",
+  "uri": "spotify:artist:0H8k2AiKxhmf33OalpJb53",
+  "followers": {
+    "href": null,
+    "total": 101080
+  },
+  "genres": [
+    "bossa nova",
+    "mpb",
+    "pop nacional antigas"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf93726bf8c50bba2e6e3ec7b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f93726bf8c50bba2e6e3ec7b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f93726bf8c50bba2e6e3ec7b",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0H8k2AiKxhmf33OalpJb53"
+  }
+}

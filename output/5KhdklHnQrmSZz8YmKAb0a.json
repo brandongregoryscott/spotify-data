@@ -1,0 +1,33 @@
+{
+  "id": "5KhdklHnQrmSZz8YmKAb0a",
+  "name": "$WAMI",
+  "uri": "spotify:artist:5KhdklHnQrmSZz8YmKAb0a",
+  "followers": {
+    "href": null,
+    "total": 544
+  },
+  "genres": [
+    "aesthetic rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe1cbc59dd7864cffc1dc83b0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e1cbc59dd7864cffc1dc83b0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e1cbc59dd7864cffc1dc83b0",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5KhdklHnQrmSZz8YmKAb0a"
+  }
+}

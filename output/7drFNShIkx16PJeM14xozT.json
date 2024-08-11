@@ -1,0 +1,33 @@
+{
+  "id": "7drFNShIkx16PJeM14xozT",
+  "name": "Unknown Refuge",
+  "uri": "spotify:artist:7drFNShIkx16PJeM14xozT",
+  "followers": {
+    "href": null,
+    "total": 957
+  },
+  "genres": [
+    "nwocr"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb829dc6cdbe0f09d946762add",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174829dc6cdbe0f09d946762add",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178829dc6cdbe0f09d946762add",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7drFNShIkx16PJeM14xozT"
+  }
+}

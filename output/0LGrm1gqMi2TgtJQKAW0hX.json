@@ -1,0 +1,33 @@
+{
+  "id": "0LGrm1gqMi2TgtJQKAW0hX",
+  "name": "Nara Baby",
+  "uri": "spotify:artist:0LGrm1gqMi2TgtJQKAW0hX",
+  "followers": {
+    "href": null,
+    "total": 25
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273946ebab953b09e49da981747",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025fc957f2f428e86d5afa184c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515fc957f2f428e86d5afa184c",
+      "width": 64
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0LGrm1gqMi2TgtJQKAW0hX"
+  }
+}

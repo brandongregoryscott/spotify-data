@@ -1,0 +1,33 @@
+{
+  "id": "439bceWgF9P4pyFmvUCN1p",
+  "name": "MBLoaded",
+  "uri": "spotify:artist:439bceWgF9P4pyFmvUCN1p",
+  "followers": {
+    "href": null,
+    "total": 50
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb296057de7dccb4a89c698992",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174296057de7dccb4a89c698992",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178296057de7dccb4a89c698992",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/439bceWgF9P4pyFmvUCN1p"
+  }
+}

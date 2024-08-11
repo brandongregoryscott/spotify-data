@@ -1,0 +1,33 @@
+{
+  "id": "7x1s8A0PdEvXjWUcC4Rc5U",
+  "name": "Lenroh",
+  "uri": "spotify:artist:7x1s8A0PdEvXjWUcC4Rc5U",
+  "followers": {
+    "href": null,
+    "total": 596
+  },
+  "genres": [
+    "traprun"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebab07db7b72dd08d9d91f20c7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ab07db7b72dd08d9d91f20c7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ab07db7b72dd08d9d91f20c7",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7x1s8A0PdEvXjWUcC4Rc5U"
+  }
+}

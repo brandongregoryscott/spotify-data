@@ -1,0 +1,33 @@
+{
+  "id": "0ebeOgKWCmul9kv5N9Xf5K",
+  "name": "Don Sucio",
+  "uri": "spotify:artist:0ebeOgKWCmul9kv5N9Xf5K",
+  "followers": {
+    "href": null,
+    "total": 65
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb56aae323088d39f4918c8edb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517456aae323088d39f4918c8edb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17856aae323088d39f4918c8edb",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ebeOgKWCmul9kv5N9Xf5K"
+  }
+}

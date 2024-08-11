@@ -1,0 +1,33 @@
+{
+  "id": "1K426ILjunbQImRUwpIDHl",
+  "name": "Argion",
+  "uri": "spotify:artist:1K426ILjunbQImRUwpIDHl",
+  "followers": {
+    "href": null,
+    "total": 2875
+  },
+  "genres": [
+    "spanish metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe44d110900eff0dc1492e53a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e44d110900eff0dc1492e53a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e44d110900eff0dc1492e53a",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1K426ILjunbQImRUwpIDHl"
+  }
+}

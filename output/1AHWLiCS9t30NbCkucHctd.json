@@ -1,0 +1,33 @@
+{
+  "id": "1AHWLiCS9t30NbCkucHctd",
+  "name": "Laura Airaksinen",
+  "uri": "spotify:artist:1AHWLiCS9t30NbCkucHctd",
+  "followers": {
+    "href": null,
+    "total": 275
+  },
+  "genres": [
+    "finnish indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe5dd799b98807d479b276529",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e5dd799b98807d479b276529",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e5dd799b98807d479b276529",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1AHWLiCS9t30NbCkucHctd"
+  }
+}

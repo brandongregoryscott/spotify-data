@@ -1,0 +1,34 @@
+{
+  "id": "7gcCQIlkkfbul5Mt0jBQkg",
+  "name": "Dave Stewart",
+  "uri": "spotify:artist:7gcCQIlkkfbul5Mt0jBQkg",
+  "followers": {
+    "href": null,
+    "total": 43039
+  },
+  "genres": [
+    "new wave pop",
+    "rock keyboard"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb94fdf3ac086d95c63d93772e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517494fdf3ac086d95c63d93772e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17894fdf3ac086d95c63d93772e",
+      "width": 160
+    }
+  ],
+  "popularity": 70,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
+  }
+}

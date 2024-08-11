@@ -1,0 +1,33 @@
+{
+  "id": "4LqmQnMZaVLCJ3MkZuVY4t",
+  "name": "Looming",
+  "uri": "spotify:artist:4LqmQnMZaVLCJ3MkZuVY4t",
+  "followers": {
+    "href": null,
+    "total": 229
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb07773350ef11cc6837ec67ff",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517407773350ef11cc6837ec67ff",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17807773350ef11cc6837ec67ff",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4LqmQnMZaVLCJ3MkZuVY4t"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3I2ldC61mN9KRqnOU6JIbn",
+  "name": "Mergemelt",
+  "uri": "spotify:artist:3I2ldC61mN9KRqnOU6JIbn",
+  "followers": {
+    "href": null,
+    "total": 468
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27335b69ce09cd9655d21c7f3df",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0235b69ce09cd9655d21c7f3df",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485135b69ce09cd9655d21c7f3df",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3I2ldC61mN9KRqnOU6JIbn"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5SBFpt9Gz53LckT9guA7AS",
+  "name": "shye.",
+  "uri": "spotify:artist:5SBFpt9Gz53LckT9guA7AS",
+  "followers": {
+    "href": null,
+    "total": 1236
+  },
+  "genres": [
+    "gen z singer-songwriter"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcd4b4f30fa9d1f8e62b512ca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cd4b4f30fa9d1f8e62b512ca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cd4b4f30fa9d1f8e62b512ca",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5SBFpt9Gz53LckT9guA7AS"
+  }
+}

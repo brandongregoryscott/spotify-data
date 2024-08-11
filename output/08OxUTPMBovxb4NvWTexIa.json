@@ -1,0 +1,33 @@
+{
+  "id": "08OxUTPMBovxb4NvWTexIa",
+  "name": "dormant",
+  "uri": "spotify:artist:08OxUTPMBovxb4NvWTexIa",
+  "followers": {
+    "href": null,
+    "total": 103
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb07aa4436e856a109b854818d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517407aa4436e856a109b854818d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17807aa4436e856a109b854818d",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/08OxUTPMBovxb4NvWTexIa"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6nErMLR4xNAGkmGu2HEpYS",
+  "name": "Аут",
+  "uri": "spotify:artist:6nErMLR4xNAGkmGu2HEpYS",
+  "followers": {
+    "href": null,
+    "total": 3037
+  },
+  "genres": [
+    "russian post-punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe63289c2a2ca6ea4b4db50b0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e63289c2a2ca6ea4b4db50b0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e63289c2a2ca6ea4b4db50b0",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6nErMLR4xNAGkmGu2HEpYS"
+  }
+}

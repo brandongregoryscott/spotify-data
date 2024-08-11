@@ -1,0 +1,34 @@
+{
+  "id": "6lPUCJOqqK3BMABNKJhPn7",
+  "name": "Artús",
+  "uri": "spotify:artist:6lPUCJOqqK3BMABNKJhPn7",
+  "followers": {
+    "href": null,
+    "total": 590
+  },
+  "genres": [
+    "avant-prog",
+    "rock in opposition"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732510022137bf4e9e2f6281e8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022510022137bf4e9e2f6281e8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512510022137bf4e9e2f6281e8",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6lPUCJOqqK3BMABNKJhPn7"
+  }
+}

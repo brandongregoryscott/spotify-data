@@ -1,0 +1,33 @@
+{
+  "id": "5uxkcHbgyNbyzq1nyChvCa",
+  "name": "Sandie Shaw",
+  "uri": "spotify:artist:5uxkcHbgyNbyzq1nyChvCa",
+  "followers": {
+    "href": null,
+    "total": 91368
+  },
+  "genres": [
+    "british invasion"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb46e6930003cf283bfe0aec7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b46e6930003cf283bfe0aec7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b46e6930003cf283bfe0aec7",
+      "width": 160
+    }
+  ],
+  "popularity": 39,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5uxkcHbgyNbyzq1nyChvCa"
+  }
+}

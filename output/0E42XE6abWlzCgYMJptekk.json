@@ -1,0 +1,35 @@
+{
+  "id": "0E42XE6abWlzCgYMJptekk",
+  "name": "Va-Bank",
+  "uri": "spotify:artist:0E42XE6abWlzCgYMJptekk",
+  "followers": {
+    "href": null,
+    "total": 3076
+  },
+  "genres": [
+    "classic russian rock",
+    "russian punk",
+    "russian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27390ed02ef1cd8754c3ed21f1b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0290ed02ef1cd8754c3ed21f1b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485190ed02ef1cd8754c3ed21f1b",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0E42XE6abWlzCgYMJptekk"
+  }
+}

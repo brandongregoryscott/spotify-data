@@ -1,0 +1,33 @@
+{
+  "id": "0DAA1By7FZlx94U5BO4d6Q",
+  "name": "J18",
+  "uri": "spotify:artist:0DAA1By7FZlx94U5BO4d6Q",
+  "followers": {
+    "href": null,
+    "total": 11525
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbd61fea61bee254815c711f3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bd61fea61bee254815c711f3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bd61fea61bee254815c711f3",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
+  }
+}

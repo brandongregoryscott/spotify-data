@@ -1,0 +1,33 @@
+{
+  "id": "6q3u2ursNaFEwnnc4aDRxa",
+  "name": "ULNA",
+  "uri": "spotify:artist:6q3u2ursNaFEwnnc4aDRxa",
+  "followers": {
+    "href": null,
+    "total": 305
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb48044d2efa9fa59e40a9b672",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517448044d2efa9fa59e40a9b672",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17848044d2efa9fa59e40a9b672",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6q3u2ursNaFEwnnc4aDRxa"
+  }
+}

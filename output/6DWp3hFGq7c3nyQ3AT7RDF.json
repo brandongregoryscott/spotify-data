@@ -1,0 +1,33 @@
+{
+  "id": "6DWp3hFGq7c3nyQ3AT7RDF",
+  "name": "Malaki",
+  "uri": "spotify:artist:6DWp3hFGq7c3nyQ3AT7RDF",
+  "followers": {
+    "href": null,
+    "total": 16430
+  },
+  "genres": [
+    "irish hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb829f554ada4b42fd549cab06",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174829f554ada4b42fd549cab06",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178829f554ada4b42fd549cab06",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
+  }
+}

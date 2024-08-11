@@ -1,0 +1,33 @@
+{
+  "id": "6s2V4UjNcp30prONKKEoJo",
+  "name": "$anfak",
+  "uri": "spotify:artist:6s2V4UjNcp30prONKKEoJo",
+  "followers": {
+    "href": null,
+    "total": 282
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb41e49575d8d5ba267668738c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517441e49575d8d5ba267668738c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17841e49575d8d5ba267668738c",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6s2V4UjNcp30prONKKEoJo"
+  }
+}

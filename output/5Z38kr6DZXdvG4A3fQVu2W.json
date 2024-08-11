@@ -1,0 +1,33 @@
+{
+  "id": "5Z38kr6DZXdvG4A3fQVu2W",
+  "name": "Yo Diablo",
+  "uri": "spotify:artist:5Z38kr6DZXdvG4A3fQVu2W",
+  "followers": {
+    "href": null,
+    "total": 2987
+  },
+  "genres": [
+    "spanish psychedelic rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf90e4a1e3f7caa431f851926",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f90e4a1e3f7caa431f851926",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f90e4a1e3f7caa431f851926",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Z38kr6DZXdvG4A3fQVu2W"
+  }
+}

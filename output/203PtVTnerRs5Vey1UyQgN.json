@@ -1,0 +1,33 @@
+{
+  "id": "203PtVTnerRs5Vey1UyQgN",
+  "name": "KIMMIC",
+  "uri": "spotify:artist:203PtVTnerRs5Vey1UyQgN",
+  "followers": {
+    "href": null,
+    "total": 8744
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdaf28f1940bfbac9348fa715",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174daf28f1940bfbac9348fa715",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178daf28f1940bfbac9348fa715",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/203PtVTnerRs5Vey1UyQgN"
+  }
+}

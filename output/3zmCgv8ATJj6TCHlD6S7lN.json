@@ -1,0 +1,34 @@
+{
+  "id": "3zmCgv8ATJj6TCHlD6S7lN",
+  "name": "Alexandre Désilets",
+  "uri": "spotify:artist:3zmCgv8ATJj6TCHlD6S7lN",
+  "followers": {
+    "href": null,
+    "total": 5829
+  },
+  "genres": [
+    "indie quebecois",
+    "pop quebecois"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb415458706b215f9f64d6ee22",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174415458706b215f9f64d6ee22",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178415458706b215f9f64d6ee22",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3zmCgv8ATJj6TCHlD6S7lN"
+  }
+}

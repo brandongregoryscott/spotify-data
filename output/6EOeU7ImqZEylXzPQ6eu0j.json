@@ -1,0 +1,34 @@
+{
+  "id": "6EOeU7ImqZEylXzPQ6eu0j",
+  "name": "BlackWaters",
+  "uri": "spotify:artist:6EOeU7ImqZEylXzPQ6eu0j",
+  "followers": {
+    "href": null,
+    "total": 8363
+  },
+  "genres": [
+    "action rock",
+    "english indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb493ace87eede232b86968ed3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174493ace87eede232b86968ed3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178493ace87eede232b86968ed3",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6EOeU7ImqZEylXzPQ6eu0j"
+  }
+}

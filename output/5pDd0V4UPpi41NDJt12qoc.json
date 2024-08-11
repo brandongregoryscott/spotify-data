@@ -1,0 +1,33 @@
+{
+  "id": "5pDd0V4UPpi41NDJt12qoc",
+  "name": "Sanador",
+  "uri": "spotify:artist:5pDd0V4UPpi41NDJt12qoc",
+  "followers": {
+    "href": null,
+    "total": 140
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb67300ce5f5dd20ec4826fa25",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517467300ce5f5dd20ec4826fa25",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17867300ce5f5dd20ec4826fa25",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5pDd0V4UPpi41NDJt12qoc"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2bolDnhLrBd5xMGAccxYZs",
+  "name": "Butte",
+  "uri": "spotify:artist:2bolDnhLrBd5xMGAccxYZs",
+  "followers": {
+    "href": null,
+    "total": 188
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd3c20f1d3a30fb4e9b77037c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d3c20f1d3a30fb4e9b77037c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d3c20f1d3a30fb4e9b77037c",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2bolDnhLrBd5xMGAccxYZs"
+  }
+}

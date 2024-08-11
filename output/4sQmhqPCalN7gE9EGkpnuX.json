@@ -1,0 +1,33 @@
+{
+  "id": "4sQmhqPCalN7gE9EGkpnuX",
+  "name": "The Photophonics",
+  "uri": "spotify:artist:4sQmhqPCalN7gE9EGkpnuX",
+  "followers": {
+    "href": null,
+    "total": 104
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb59858d43675fd467df91d899",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517459858d43675fd467df91d899",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17859858d43675fd467df91d899",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4sQmhqPCalN7gE9EGkpnuX"
+  }
+}

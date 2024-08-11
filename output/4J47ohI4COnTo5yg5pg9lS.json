@@ -1,0 +1,33 @@
+{
+  "id": "4J47ohI4COnTo5yg5pg9lS",
+  "name": "Cool Yon",
+  "uri": "spotify:artist:4J47ohI4COnTo5yg5pg9lS",
+  "followers": {
+    "href": null,
+    "total": 40
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb73a427efbd1ef537a576e501",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517473a427efbd1ef537a576e501",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17873a427efbd1ef537a576e501",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4J47ohI4COnTo5yg5pg9lS"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2jXVjnPz1cOgcbzawlVMDL",
+  "name": "Chris Russell",
+  "uri": "spotify:artist:2jXVjnPz1cOgcbzawlVMDL",
+  "followers": {
+    "href": null,
+    "total": 888
+  },
+  "genres": [
+    "deep ambient",
+    "drift"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbf8186a9f78abbb9b5ffdf40",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bf8186a9f78abbb9b5ffdf40",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bf8186a9f78abbb9b5ffdf40",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2jXVjnPz1cOgcbzawlVMDL"
+  }
+}

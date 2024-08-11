@@ -1,0 +1,34 @@
+{
+  "id": "1Azg0okIA7BY6CMwRBLmud",
+  "name": "Hwaji",
+  "uri": "spotify:artist:1Azg0okIA7BY6CMwRBLmud",
+  "followers": {
+    "href": null,
+    "total": 4221
+  },
+  "genres": [
+    "k-rap",
+    "korean underground rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebddb7f5e8638b0da6c2859f81",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ddb7f5e8638b0da6c2859f81",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ddb7f5e8638b0da6c2859f81",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Azg0okIA7BY6CMwRBLmud"
+  }
+}

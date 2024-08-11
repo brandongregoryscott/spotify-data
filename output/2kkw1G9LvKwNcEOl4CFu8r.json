@@ -1,0 +1,33 @@
+{
+  "id": "2kkw1G9LvKwNcEOl4CFu8r",
+  "name": "IONA",
+  "uri": "spotify:artist:2kkw1G9LvKwNcEOl4CFu8r",
+  "followers": {
+    "href": null,
+    "total": 733
+  },
+  "genres": [
+    "lo-fi jazzhop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb96d26e3488a1021eb5e5b92a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517496d26e3488a1021eb5e5b92a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17896d26e3488a1021eb5e5b92a",
+      "width": 160
+    }
+  ],
+  "popularity": 43,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2kkw1G9LvKwNcEOl4CFu8r"
+  }
+}

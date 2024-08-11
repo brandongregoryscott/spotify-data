@@ -1,0 +1,33 @@
+{
+  "id": "01ycQSPdw38BZhDhjOdZNt",
+  "name": "Restl3ss",
+  "uri": "spotify:artist:01ycQSPdw38BZhDhjOdZNt",
+  "followers": {
+    "href": null,
+    "total": 454
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb925e6e00f767d7541f1cebff",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174925e6e00f767d7541f1cebff",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178925e6e00f767d7541f1cebff",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01ycQSPdw38BZhDhjOdZNt"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6TI6DzBeAx6eDZAVfw90VE",
+  "name": "Elenco de Música Peruana UPC",
+  "uri": "spotify:artist:6TI6DzBeAx6eDZAVfw90VE",
+  "followers": {
+    "href": null,
+    "total": 340
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273898825d218b7e340021cc787",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02898825d218b7e340021cc787",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851898825d218b7e340021cc787",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6TI6DzBeAx6eDZAVfw90VE"
+  }
+}

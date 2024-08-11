@@ -1,0 +1,34 @@
+{
+  "id": "6XIrm40xfvwQX248FbHxLN",
+  "name": "demanufacturer",
+  "uri": "spotify:artist:6XIrm40xfvwQX248FbHxLN",
+  "followers": {
+    "href": null,
+    "total": 224
+  },
+  "genres": [
+    "doomcore",
+    "industrial hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732a508cb5d5419b556406ea0b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022a508cb5d5419b556406ea0b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512a508cb5d5419b556406ea0b",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6XIrm40xfvwQX248FbHxLN"
+  }
+}

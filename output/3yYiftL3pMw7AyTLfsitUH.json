@@ -1,0 +1,33 @@
+{
+  "id": "3yYiftL3pMw7AyTLfsitUH",
+  "name": "Mia Zeta",
+  "uri": "spotify:artist:3yYiftL3pMw7AyTLfsitUH",
+  "followers": {
+    "href": null,
+    "total": 2020
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb87c803dfc803ca2fbbec7944",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517487c803dfc803ca2fbbec7944",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17887c803dfc803ca2fbbec7944",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3yYiftL3pMw7AyTLfsitUH"
+  }
+}

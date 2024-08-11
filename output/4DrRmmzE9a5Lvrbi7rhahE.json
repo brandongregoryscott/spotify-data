@@ -1,0 +1,34 @@
+{
+  "id": "4DrRmmzE9a5Lvrbi7rhahE",
+  "name": "2zio",
+  "uri": "spotify:artist:4DrRmmzE9a5Lvrbi7rhahE",
+  "followers": {
+    "href": null,
+    "total": 923
+  },
+  "genres": [
+    "euskal indie",
+    "rap euskera"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27338dc341052f9147fd9ac9ecc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0238dc341052f9147fd9ac9ecc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485138dc341052f9147fd9ac9ecc",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4DrRmmzE9a5Lvrbi7rhahE"
+  }
+}

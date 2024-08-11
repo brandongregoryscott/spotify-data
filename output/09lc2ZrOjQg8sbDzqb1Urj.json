@@ -1,0 +1,33 @@
+{
+  "id": "09lc2ZrOjQg8sbDzqb1Urj",
+  "name": "Djak",
+  "uri": "spotify:artist:09lc2ZrOjQg8sbDzqb1Urj",
+  "followers": {
+    "href": null,
+    "total": 288
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27340af30655d5f64b07f7a4ffc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0239dad3909555d8b54e8d5bfc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485139dad3909555d8b54e8d5bfc",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/09lc2ZrOjQg8sbDzqb1Urj"
+  }
+}

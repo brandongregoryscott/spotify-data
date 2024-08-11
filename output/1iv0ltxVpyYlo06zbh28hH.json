@@ -1,0 +1,33 @@
+{
+  "id": "1iv0ltxVpyYlo06zbh28hH",
+  "name": "Suonuotio",
+  "uri": "spotify:artist:1iv0ltxVpyYlo06zbh28hH",
+  "followers": {
+    "href": null,
+    "total": 76
+  },
+  "genres": [
+    "finnish experimental"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb17e111fa340add7be106f818",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517417e111fa340add7be106f818",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17817e111fa340add7be106f818",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1iv0ltxVpyYlo06zbh28hH"
+  }
+}

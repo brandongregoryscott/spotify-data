@@ -1,0 +1,33 @@
+{
+  "id": "0iyVCP8MJAOJ90MfRMVplI",
+  "name": "Caution",
+  "uri": "spotify:artist:0iyVCP8MJAOJ90MfRMVplI",
+  "followers": {
+    "href": null,
+    "total": 596
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb53067ff12ce32552a37f540f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517453067ff12ce32552a37f540f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17853067ff12ce32552a37f540f",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0iyVCP8MJAOJ90MfRMVplI"
+  }
+}

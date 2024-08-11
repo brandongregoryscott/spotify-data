@@ -1,0 +1,33 @@
+{
+  "id": "7sRtI3bMrrgSFkNs2jFHrl",
+  "name": "María Escarmiento",
+  "uri": "spotify:artist:7sRtI3bMrrgSFkNs2jFHrl",
+  "followers": {
+    "href": null,
+    "total": 48530
+  },
+  "genres": [
+    "latin talent show"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb16dd8560ec485ab54a36bead",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517416dd8560ec485ab54a36bead",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17816dd8560ec485ab54a36bead",
+      "width": 160
+    }
+  ],
+  "popularity": 48,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7sRtI3bMrrgSFkNs2jFHrl"
+  }
+}

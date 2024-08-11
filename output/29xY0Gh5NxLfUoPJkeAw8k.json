@@ -1,0 +1,33 @@
+{
+  "id": "29xY0Gh5NxLfUoPJkeAw8k",
+  "name": "Phamily Foto",
+  "uri": "spotify:artist:29xY0Gh5NxLfUoPJkeAw8k",
+  "followers": {
+    "href": null,
+    "total": 12
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb83d71ae55e5b0cddf542606f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517483d71ae55e5b0cddf542606f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17883d71ae55e5b0cddf542606f",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/29xY0Gh5NxLfUoPJkeAw8k"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1QJg1qFbnRwpxW80D2Zjmh",
+  "name": "Neuma",
+  "uri": "spotify:artist:1QJg1qFbnRwpxW80D2Zjmh",
+  "followers": {
+    "href": null,
+    "total": 779
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27366b3fea6d0a8c3f27e42dc0a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0266b3fea6d0a8c3f27e42dc0a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485166b3fea6d0a8c3f27e42dc0a",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1QJg1qFbnRwpxW80D2Zjmh"
+  }
+}

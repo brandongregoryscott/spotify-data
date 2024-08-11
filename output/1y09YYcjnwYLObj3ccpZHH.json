@@ -1,0 +1,33 @@
+{
+  "id": "1y09YYcjnwYLObj3ccpZHH",
+  "name": "Rob Falgiano",
+  "uri": "spotify:artist:1y09YYcjnwYLObj3ccpZHH",
+  "followers": {
+    "href": null,
+    "total": 42
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bafc8a779549f7a54b1f2512",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bafc8a779549f7a54b1f2512",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bafc8a779549f7a54b1f2512",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1y09YYcjnwYLObj3ccpZHH"
+  }
+}

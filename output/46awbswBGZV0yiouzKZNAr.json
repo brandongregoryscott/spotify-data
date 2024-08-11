@@ -1,0 +1,33 @@
+{
+  "id": "46awbswBGZV0yiouzKZNAr",
+  "name": "Eddiela",
+  "uri": "spotify:artist:46awbswBGZV0yiouzKZNAr",
+  "followers": {
+    "href": null,
+    "total": 24
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba1ee84bbeab8f47f87730984",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a1ee84bbeab8f47f87730984",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a1ee84bbeab8f47f87730984",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/46awbswBGZV0yiouzKZNAr"
+  }
+}

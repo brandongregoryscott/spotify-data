@@ -1,0 +1,33 @@
+{
+  "id": "0UVkWkCHcVNb5XB5geXDNX",
+  "name": "Blaze Olsen",
+  "uri": "spotify:artist:0UVkWkCHcVNb5XB5geXDNX",
+  "followers": {
+    "href": null,
+    "total": 4434
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc06a285b0d00880c29b8d34a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c06a285b0d00880c29b8d34a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c06a285b0d00880c29b8d34a",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0UVkWkCHcVNb5XB5geXDNX"
+  }
+}

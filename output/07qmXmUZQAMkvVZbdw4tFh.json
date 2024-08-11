@@ -1,0 +1,33 @@
+{
+  "id": "07qmXmUZQAMkvVZbdw4tFh",
+  "name": "The Eternal Youth",
+  "uri": "spotify:artist:07qmXmUZQAMkvVZbdw4tFh",
+  "followers": {
+    "href": null,
+    "total": 615
+  },
+  "genres": [
+    "french punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb57b56e1ebdf9d85f7e12bcbe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517457b56e1ebdf9d85f7e12bcbe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17857b56e1ebdf9d85f7e12bcbe",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07qmXmUZQAMkvVZbdw4tFh"
+  }
+}

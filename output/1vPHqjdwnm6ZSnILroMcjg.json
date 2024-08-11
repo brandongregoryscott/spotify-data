@@ -1,0 +1,33 @@
+{
+  "id": "1vPHqjdwnm6ZSnILroMcjg",
+  "name": "CTC",
+  "uri": "spotify:artist:1vPHqjdwnm6ZSnILroMcjg",
+  "followers": {
+    "href": null,
+    "total": 460
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fe9dcaae6be8e9803f4da77b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fe9dcaae6be8e9803f4da77b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fe9dcaae6be8e9803f4da77b",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1vPHqjdwnm6ZSnILroMcjg"
+  }
+}

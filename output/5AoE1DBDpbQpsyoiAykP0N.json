@@ -1,0 +1,33 @@
+{
+  "id": "5AoE1DBDpbQpsyoiAykP0N",
+  "name": "Seth Jones",
+  "uri": "spotify:artist:5AoE1DBDpbQpsyoiAykP0N",
+  "followers": {
+    "href": null,
+    "total": 1738
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb50d11220a430326e7f489548",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517450d11220a430326e7f489548",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17850d11220a430326e7f489548",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5AoE1DBDpbQpsyoiAykP0N"
+  }
+}

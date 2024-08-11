@@ -1,0 +1,33 @@
+{
+  "id": "4tEEe9pQaUi1qy5txJEDHt",
+  "name": "Seeg",
+  "uri": "spotify:artist:4tEEe9pQaUi1qy5txJEDHt",
+  "followers": {
+    "href": null,
+    "total": 82
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb79981055b699e26097a96623",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517479981055b699e26097a96623",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17879981055b699e26097a96623",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4tEEe9pQaUi1qy5txJEDHt"
+  }
+}

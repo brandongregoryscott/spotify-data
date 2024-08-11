@@ -1,0 +1,33 @@
+{
+  "id": "6xPnoPAsMrJ5zUDyOnyD6x",
+  "name": "Hot Pants",
+  "uri": "spotify:artist:6xPnoPAsMrJ5zUDyOnyD6x",
+  "followers": {
+    "href": null,
+    "total": 1811
+  },
+  "genres": [
+    "french rock-and-roll"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e16d0995f2e6f4439640d90c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e16d0995f2e6f4439640d90c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e16d0995f2e6f4439640d90c",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6xPnoPAsMrJ5zUDyOnyD6x"
+  }
+}

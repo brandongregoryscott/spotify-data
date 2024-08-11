@@ -1,0 +1,33 @@
+{
+  "id": "2edDMZSglhNmjytJPdkSbZ",
+  "name": "Toledo",
+  "uri": "spotify:artist:2edDMZSglhNmjytJPdkSbZ",
+  "followers": {
+    "href": null,
+    "total": 59587
+  },
+  "genres": [
+    "pop costarricense"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc568cad4d24c060d0cbc84c4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c568cad4d24c060d0cbc84c4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c568cad4d24c060d0cbc84c4",
+      "width": 160
+    }
+  ],
+  "popularity": 44,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2edDMZSglhNmjytJPdkSbZ"
+  }
+}

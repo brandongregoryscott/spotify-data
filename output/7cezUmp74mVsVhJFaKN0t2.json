@@ -1,0 +1,33 @@
+{
+  "id": "7cezUmp74mVsVhJFaKN0t2",
+  "name": "Yazed",
+  "uri": "spotify:artist:7cezUmp74mVsVhJFaKN0t2",
+  "followers": {
+    "href": null,
+    "total": 733
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf82546366e60bebbfd21f6cc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f82546366e60bebbfd21f6cc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f82546366e60bebbfd21f6cc",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7cezUmp74mVsVhJFaKN0t2"
+  }
+}

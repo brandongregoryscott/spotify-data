@@ -1,0 +1,33 @@
+{
+  "id": "2y5kJGqADUydSBgyhhrvjq",
+  "name": "Simon Isogai",
+  "uri": "spotify:artist:2y5kJGqADUydSBgyhhrvjq",
+  "followers": {
+    "href": null,
+    "total": 590
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27323ea74dd0c55314f758e0ccb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0223ea74dd0c55314f758e0ccb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485123ea74dd0c55314f758e0ccb",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2y5kJGqADUydSBgyhhrvjq"
+  }
+}

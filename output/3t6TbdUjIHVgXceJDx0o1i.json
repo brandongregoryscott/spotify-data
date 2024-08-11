@@ -1,0 +1,33 @@
+{
+  "id": "3t6TbdUjIHVgXceJDx0o1i",
+  "name": "Bruh Bruh",
+  "uri": "spotify:artist:3t6TbdUjIHVgXceJDx0o1i",
+  "followers": {
+    "href": null,
+    "total": 963
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd14389f8f30b0f7a2e8778c1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d14389f8f30b0f7a2e8778c1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d14389f8f30b0f7a2e8778c1",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3t6TbdUjIHVgXceJDx0o1i"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1rXFyGhHzd1bTmaqXeihuM",
+  "name": "Archie Edwards",
+  "uri": "spotify:artist:1rXFyGhHzd1bTmaqXeihuM",
+  "followers": {
+    "href": null,
+    "total": 562
+  },
+  "genres": [
+    "piedmont blues"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cb699e5caa8e57e9eafe24ed",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cb699e5caa8e57e9eafe24ed",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cb699e5caa8e57e9eafe24ed",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1rXFyGhHzd1bTmaqXeihuM"
+  }
+}

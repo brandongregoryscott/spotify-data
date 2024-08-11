@@ -1,0 +1,33 @@
+{
+  "id": "4FF3ieTk6CNPHLERdkttto",
+  "name": "Brian Harden",
+  "uri": "spotify:artist:4FF3ieTk6CNPHLERdkttto",
+  "followers": {
+    "href": null,
+    "total": 793
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733a39a4843bb95887a89ad2cd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023a39a4843bb95887a89ad2cd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513a39a4843bb95887a89ad2cd",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4FF3ieTk6CNPHLERdkttto"
+  }
+}

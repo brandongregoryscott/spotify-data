@@ -1,0 +1,33 @@
+{
+  "id": "15DfhnRR2i6kgI4Ab67Ik9",
+  "name": "Hey, Chroma",
+  "uri": "spotify:artist:15DfhnRR2i6kgI4Ab67Ik9",
+  "followers": {
+    "href": null,
+    "total": 243
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb90d87a7b4f77de4debd7df5a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517490d87a7b4f77de4debd7df5a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17890d87a7b4f77de4debd7df5a",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/15DfhnRR2i6kgI4Ab67Ik9"
+  }
+}

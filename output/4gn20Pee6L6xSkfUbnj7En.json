@@ -1,0 +1,33 @@
+{
+  "id": "4gn20Pee6L6xSkfUbnj7En",
+  "name": "Mac Tempo",
+  "uri": "spotify:artist:4gn20Pee6L6xSkfUbnj7En",
+  "followers": {
+    "href": null,
+    "total": 1223
+  },
+  "genres": [
+    "rap ecuatoriano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb923795c89f376b742462cc16",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174923795c89f376b742462cc16",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178923795c89f376b742462cc16",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4gn20Pee6L6xSkfUbnj7En"
+  }
+}

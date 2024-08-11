@@ -1,0 +1,33 @@
+{
+  "id": "4kUQuMxV2qISuwwsFTfnyo",
+  "name": "Diary",
+  "uri": "spotify:artist:4kUQuMxV2qISuwwsFTfnyo",
+  "followers": {
+    "href": null,
+    "total": 709
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcc9cb59276f199a498cf5096",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cc9cb59276f199a498cf5096",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cc9cb59276f199a498cf5096",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4kUQuMxV2qISuwwsFTfnyo"
+  }
+}

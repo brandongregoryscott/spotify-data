@@ -1,0 +1,33 @@
+{
+  "id": "5L1SdeG9JS8cmL742IYBIy",
+  "name": "Sully Erna",
+  "uri": "spotify:artist:5L1SdeG9JS8cmL742IYBIy",
+  "followers": {
+    "href": null,
+    "total": 44586
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb35955a103d09f4b20abd759a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517435955a103d09f4b20abd759a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17835955a103d09f4b20abd759a",
+      "width": 160
+    }
+  ],
+  "popularity": 44,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5L1SdeG9JS8cmL742IYBIy"
+  }
+}

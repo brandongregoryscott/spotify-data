@@ -1,0 +1,33 @@
+{
+  "id": "2tVZzwKgZ1DSg1YsmPydnU",
+  "name": "Mike Snatchers",
+  "uri": "spotify:artist:2tVZzwKgZ1DSg1YsmPydnU",
+  "followers": {
+    "href": null,
+    "total": 123
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe34c180b6c8ae43c7c01a8da",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e34c180b6c8ae43c7c01a8da",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e34c180b6c8ae43c7c01a8da",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2tVZzwKgZ1DSg1YsmPydnU"
+  }
+}

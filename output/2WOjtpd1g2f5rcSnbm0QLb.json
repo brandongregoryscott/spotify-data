@@ -1,0 +1,33 @@
+{
+  "id": "2WOjtpd1g2f5rcSnbm0QLb",
+  "name": "Empty Hands",
+  "uri": "spotify:artist:2WOjtpd1g2f5rcSnbm0QLb",
+  "followers": {
+    "href": null,
+    "total": 423
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb571f4fcc07e03fb3e811efda",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174571f4fcc07e03fb3e811efda",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178571f4fcc07e03fb3e811efda",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2WOjtpd1g2f5rcSnbm0QLb"
+  }
+}

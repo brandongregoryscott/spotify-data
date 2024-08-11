@@ -1,0 +1,33 @@
+{
+  "id": "6ISKEbi78bJq6OMd0FJqeA",
+  "name": "AutoReverse",
+  "uri": "spotify:artist:6ISKEbi78bJq6OMd0FJqeA",
+  "followers": {
+    "href": null,
+    "total": 805
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdb245b488219e0a4ebb1d3df",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174db245b488219e0a4ebb1d3df",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178db245b488219e0a4ebb1d3df",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ISKEbi78bJq6OMd0FJqeA"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "32nhI3ll4lpXNb5cnwwyr0",
+  "name": "KADOLEAF",
+  "uri": "spotify:artist:32nhI3ll4lpXNb5cnwwyr0",
+  "followers": {
+    "href": null,
+    "total": 410
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb4e812e67cf4bec9d6541878",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b4e812e67cf4bec9d6541878",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b4e812e67cf4bec9d6541878",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/32nhI3ll4lpXNb5cnwwyr0"
+  }
+}

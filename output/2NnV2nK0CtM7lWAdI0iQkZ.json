@@ -1,0 +1,33 @@
+{
+  "id": "2NnV2nK0CtM7lWAdI0iQkZ",
+  "name": "N'Jiru",
+  "uri": "spotify:artist:2NnV2nK0CtM7lWAdI0iQkZ",
+  "followers": {
+    "href": null,
+    "total": 929
+  },
+  "genres": [
+    "kenyan alternative"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd0c39a21f1b0d1c436e0d562",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d0c39a21f1b0d1c436e0d562",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d0c39a21f1b0d1c436e0d562",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2NnV2nK0CtM7lWAdI0iQkZ"
+  }
+}

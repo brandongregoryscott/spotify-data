@@ -1,0 +1,33 @@
+{
+  "id": "49HoaKcpasE0zDDZRUnYfk",
+  "name": "DJ Design",
+  "uri": "spotify:artist:49HoaKcpasE0zDDZRUnYfk",
+  "followers": {
+    "href": null,
+    "total": 402
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbe3602d0f1c96795ef3244a9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174be3602d0f1c96795ef3244a9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178be3602d0f1c96795ef3244a9",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/49HoaKcpasE0zDDZRUnYfk"
+  }
+}

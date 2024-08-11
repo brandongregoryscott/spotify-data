@@ -1,0 +1,33 @@
+{
+  "id": "1WtXrRRhsZJHJ2TNCCWSeU",
+  "name": "Marina Stolyar",
+  "uri": "spotify:artist:1WtXrRRhsZJHJ2TNCCWSeU",
+  "followers": {
+    "href": null,
+    "total": 66
+  },
+  "genres": [
+    "ballet class"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734fe924963f1b942eceef55dc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024fe924963f1b942eceef55dc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514fe924963f1b942eceef55dc",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1WtXrRRhsZJHJ2TNCCWSeU"
+  }
+}

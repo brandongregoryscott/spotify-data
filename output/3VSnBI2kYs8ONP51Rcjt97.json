@@ -1,0 +1,33 @@
+{
+  "id": "3VSnBI2kYs8ONP51Rcjt97",
+  "name": "DigDog",
+  "uri": "spotify:artist:3VSnBI2kYs8ONP51Rcjt97",
+  "followers": {
+    "href": null,
+    "total": 231
+  },
+  "genres": [
+    "jacksonville indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb6e5592922ed0ea76f802b55",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b6e5592922ed0ea76f802b55",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b6e5592922ed0ea76f802b55",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3VSnBI2kYs8ONP51Rcjt97"
+  }
+}

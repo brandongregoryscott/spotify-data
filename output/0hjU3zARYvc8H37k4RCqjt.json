@@ -1,0 +1,33 @@
+{
+  "id": "0hjU3zARYvc8H37k4RCqjt",
+  "name": "mou",
+  "uri": "spotify:artist:0hjU3zARYvc8H37k4RCqjt",
+  "followers": {
+    "href": null,
+    "total": 844
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb98bf851416f456c9d267685b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517498bf851416f456c9d267685b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17898bf851416f456c9d267685b",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt"
+  }
+}

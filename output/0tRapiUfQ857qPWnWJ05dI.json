@@ -1,0 +1,33 @@
+{
+  "id": "0tRapiUfQ857qPWnWJ05dI",
+  "name": "Museum Pieces",
+  "uri": "spotify:artist:0tRapiUfQ857qPWnWJ05dI",
+  "followers": {
+    "href": null,
+    "total": 377
+  },
+  "genres": [
+    "halifax indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb56a2b5aee4d06eeedc3f1fa7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517456a2b5aee4d06eeedc3f1fa7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17856a2b5aee4d06eeedc3f1fa7",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0tRapiUfQ857qPWnWJ05dI"
+  }
+}

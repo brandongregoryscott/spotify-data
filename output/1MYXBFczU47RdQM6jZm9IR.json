@@ -1,0 +1,33 @@
+{
+  "id": "1MYXBFczU47RdQM6jZm9IR",
+  "name": "JahWahZoo",
+  "uri": "spotify:artist:1MYXBFczU47RdQM6jZm9IR",
+  "followers": {
+    "href": null,
+    "total": 1822
+  },
+  "genres": [
+    "chinese reggae"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fb86333a584c998fecad2ebf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fb86333a584c998fecad2ebf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fb86333a584c998fecad2ebf",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1MYXBFczU47RdQM6jZm9IR"
+  }
+}

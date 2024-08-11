@@ -1,0 +1,33 @@
+{
+  "id": "3BHTeKlq6JiG33XXyYRoSr",
+  "name": "JP2",
+  "uri": "spotify:artist:3BHTeKlq6JiG33XXyYRoSr",
+  "followers": {
+    "href": null,
+    "total": 233
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc4a9f31aaa25de3f459bd0b5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c4a9f31aaa25de3f459bd0b5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c4a9f31aaa25de3f459bd0b5",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3BHTeKlq6JiG33XXyYRoSr"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6Ls6gOeudldLCGkNCgUMTG",
+  "name": "Kollaba",
+  "uri": "spotify:artist:6Ls6gOeudldLCGkNCgUMTG",
+  "followers": {
+    "href": null,
+    "total": 490
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb67e190ec2a32f0bbbcc8245e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517467e190ec2a32f0bbbcc8245e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17867e190ec2a32f0bbbcc8245e",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Ls6gOeudldLCGkNCgUMTG"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0WRiAL9O56jOZxuos5cdAB",
+  "name": "Markku",
+  "uri": "spotify:artist:0WRiAL9O56jOZxuos5cdAB",
+  "followers": {
+    "href": null,
+    "total": 398
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb095c0b450aa91ef8bfafe566",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174095c0b450aa91ef8bfafe566",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178095c0b450aa91ef8bfafe566",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0WRiAL9O56jOZxuos5cdAB"
+  }
+}

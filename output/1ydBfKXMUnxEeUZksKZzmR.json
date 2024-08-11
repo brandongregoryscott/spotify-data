@@ -1,0 +1,33 @@
+{
+  "id": "1ydBfKXMUnxEeUZksKZzmR",
+  "name": "MiicSoul",
+  "uri": "spotify:artist:1ydBfKXMUnxEeUZksKZzmR",
+  "followers": {
+    "href": null,
+    "total": 569
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf4ab0e1ad2e6fe70a9886795",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f4ab0e1ad2e6fe70a9886795",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f4ab0e1ad2e6fe70a9886795",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ydBfKXMUnxEeUZksKZzmR"
+  }
+}

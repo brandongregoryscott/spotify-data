@@ -1,0 +1,33 @@
+{
+  "id": "4AA3FTzV3C9bDZACdBG1f6",
+  "name": "Arcalyde",
+  "uri": "spotify:artist:4AA3FTzV3C9bDZACdBG1f6",
+  "followers": {
+    "href": null,
+    "total": 125
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe593473ea33bf4570b8db096",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e593473ea33bf4570b8db096",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e593473ea33bf4570b8db096",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4AA3FTzV3C9bDZACdBG1f6"
+  }
+}

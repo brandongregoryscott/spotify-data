@@ -1,0 +1,33 @@
+{
+  "id": "6Li9gxqNXSjwXdqinl4sAD",
+  "name": "Thea Dora",
+  "uri": "spotify:artist:6Li9gxqNXSjwXdqinl4sAD",
+  "followers": {
+    "href": null,
+    "total": 253
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe10f4cc3a108c8fdb9c8868b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e10f4cc3a108c8fdb9c8868b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e10f4cc3a108c8fdb9c8868b",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD"
+  }
+}

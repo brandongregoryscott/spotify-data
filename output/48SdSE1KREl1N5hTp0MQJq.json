@@ -1,0 +1,33 @@
+{
+  "id": "48SdSE1KREl1N5hTp0MQJq",
+  "name": "Full",
+  "uri": "spotify:artist:48SdSE1KREl1N5hTp0MQJq",
+  "followers": {
+    "href": null,
+    "total": 68
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27305482b3a70b21c65d06a2a1c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0205482b3a70b21c65d06a2a1c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485105482b3a70b21c65d06a2a1c",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/48SdSE1KREl1N5hTp0MQJq"
+  }
+}

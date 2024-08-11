@@ -1,0 +1,33 @@
+{
+  "id": "20AEnzpwvk8VKFhLFydlGN",
+  "name": "lonegore",
+  "uri": "spotify:artist:20AEnzpwvk8VKFhLFydlGN",
+  "followers": {
+    "href": null,
+    "total": 1690
+  },
+  "genres": [
+    "scenecore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb79d3a64ae2d6c353c6fcc214",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517479d3a64ae2d6c353c6fcc214",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17879d3a64ae2d6c353c6fcc214",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/20AEnzpwvk8VKFhLFydlGN"
+  }
+}

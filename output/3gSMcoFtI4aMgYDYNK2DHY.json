@@ -1,0 +1,33 @@
+{
+  "id": "3gSMcoFtI4aMgYDYNK2DHY",
+  "name": "Totem Uruguay",
+  "uri": "spotify:artist:3gSMcoFtI4aMgYDYNK2DHY",
+  "followers": {
+    "href": null,
+    "total": 8210
+  },
+  "genres": [
+    "rock uruguayo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734e4c48e0e4fbda4b89f4e78f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024e4c48e0e4fbda4b89f4e78f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514e4c48e0e4fbda4b89f4e78f",
+      "width": 64
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3gSMcoFtI4aMgYDYNK2DHY"
+  }
+}

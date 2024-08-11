@@ -1,0 +1,33 @@
+{
+  "id": "1yOf0GbMOo9zdD2FF0rUoK",
+  "name": "Charlie Shavers",
+  "uri": "spotify:artist:1yOf0GbMOo9zdD2FF0rUoK",
+  "followers": {
+    "href": null,
+    "total": 2319
+  },
+  "genres": [
+    "jazz trumpet"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273928bc244c5b1e9305c5ec417",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02928bc244c5b1e9305c5ec417",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851928bc244c5b1e9305c5ec417",
+      "width": 64
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1yOf0GbMOo9zdD2FF0rUoK"
+  }
+}

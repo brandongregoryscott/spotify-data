@@ -1,0 +1,33 @@
+{
+  "id": "2bmVSRT9QNZimMLzxYjZYr",
+  "name": "Extraordinary",
+  "uri": "spotify:artist:2bmVSRT9QNZimMLzxYjZYr",
+  "followers": {
+    "href": null,
+    "total": 828
+  },
+  "genres": [
+    "fort wayne indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfe11e5eb45f8122f3980beba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fe11e5eb45f8122f3980beba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fe11e5eb45f8122f3980beba",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2bmVSRT9QNZimMLzxYjZYr"
+  }
+}

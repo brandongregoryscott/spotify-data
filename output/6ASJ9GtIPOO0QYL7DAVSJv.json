@@ -1,0 +1,33 @@
+{
+  "id": "6ASJ9GtIPOO0QYL7DAVSJv",
+  "name": "Rose Paradise",
+  "uri": "spotify:artist:6ASJ9GtIPOO0QYL7DAVSJv",
+  "followers": {
+    "href": null,
+    "total": 1527
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb647471627e26556dc15437df",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174647471627e26556dc15437df",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178647471627e26556dc15437df",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ASJ9GtIPOO0QYL7DAVSJv"
+  }
+}

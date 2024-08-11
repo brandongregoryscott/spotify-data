@@ -1,0 +1,33 @@
+{
+  "id": "6JMGrupbzJZ3yuQhTGyeHr",
+  "name": "Year 200X",
+  "uri": "spotify:artist:6JMGrupbzJZ3yuQhTGyeHr",
+  "followers": {
+    "href": null,
+    "total": 5363
+  },
+  "genres": [
+    "scorecore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736657927418fe0aee0ea4d05c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026657927418fe0aee0ea4d05c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516657927418fe0aee0ea4d05c",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6JMGrupbzJZ3yuQhTGyeHr"
+  }
+}

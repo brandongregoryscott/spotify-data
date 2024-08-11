@@ -1,0 +1,33 @@
+{
+  "id": "0OwTyVQiap8vAsOr2AwZsV",
+  "name": "Rodri B",
+  "uri": "spotify:artist:0OwTyVQiap8vAsOr2AwZsV",
+  "followers": {
+    "href": null,
+    "total": 446
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf2f4e93d746a87fd3b69b7ab",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f2f4e93d746a87fd3b69b7ab",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f2f4e93d746a87fd3b69b7ab",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0OwTyVQiap8vAsOr2AwZsV"
+  }
+}

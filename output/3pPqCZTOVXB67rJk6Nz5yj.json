@@ -1,0 +1,33 @@
+{
+  "id": "3pPqCZTOVXB67rJk6Nz5yj",
+  "name": "RMBO",
+  "uri": "spotify:artist:3pPqCZTOVXB67rJk6Nz5yj",
+  "followers": {
+    "href": null,
+    "total": 114
+  },
+  "genres": [
+    "sesotho pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcc7e619933a10eb50007fe89",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cc7e619933a10eb50007fe89",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cc7e619933a10eb50007fe89",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3pPqCZTOVXB67rJk6Nz5yj"
+  }
+}

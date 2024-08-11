@@ -1,0 +1,33 @@
+{
+  "id": "0g8uxjRwfqDA0dgoUGfObD",
+  "name": "dusah",
+  "uri": "spotify:artist:0g8uxjRwfqDA0dgoUGfObD",
+  "followers": {
+    "href": null,
+    "total": 174
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3fa6d976090761cfc6f40fac",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051743fa6d976090761cfc6f40fac",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1783fa6d976090761cfc6f40fac",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0g8uxjRwfqDA0dgoUGfObD"
+  }
+}

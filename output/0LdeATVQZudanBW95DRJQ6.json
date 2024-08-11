@@ -1,0 +1,33 @@
+{
+  "id": "0LdeATVQZudanBW95DRJQ6",
+  "name": "ronin",
+  "uri": "spotify:artist:0LdeATVQZudanBW95DRJQ6",
+  "followers": {
+    "href": null,
+    "total": 8253
+  },
+  "genres": [
+    "scenecore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb35858bc6aff88e1d2ff59a6a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517435858bc6aff88e1d2ff59a6a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17835858bc6aff88e1d2ff59a6a",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0LdeATVQZudanBW95DRJQ6"
+  }
+}

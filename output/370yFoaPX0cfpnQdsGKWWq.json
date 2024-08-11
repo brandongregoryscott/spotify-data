@@ -1,0 +1,33 @@
+{
+  "id": "370yFoaPX0cfpnQdsGKWWq",
+  "name": "Shaka",
+  "uri": "spotify:artist:370yFoaPX0cfpnQdsGKWWq",
+  "followers": {
+    "href": null,
+    "total": 249
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb23a47d763b7b6acd206d8997",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517423a47d763b7b6acd206d8997",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17823a47d763b7b6acd206d8997",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/370yFoaPX0cfpnQdsGKWWq"
+  }
+}

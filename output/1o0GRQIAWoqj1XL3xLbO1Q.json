@@ -1,0 +1,33 @@
+{
+  "id": "1o0GRQIAWoqj1XL3xLbO1Q",
+  "name": "Sam Astaroth",
+  "uri": "spotify:artist:1o0GRQIAWoqj1XL3xLbO1Q",
+  "followers": {
+    "href": null,
+    "total": 2526
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe021a1051ebca326f834e695",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e021a1051ebca326f834e695",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e021a1051ebca326f834e695",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1o0GRQIAWoqj1XL3xLbO1Q"
+  }
+}

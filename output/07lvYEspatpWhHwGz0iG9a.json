@@ -1,0 +1,33 @@
+{
+  "id": "07lvYEspatpWhHwGz0iG9a",
+  "name": "Atlas",
+  "uri": "spotify:artist:07lvYEspatpWhHwGz0iG9a",
+  "followers": {
+    "href": null,
+    "total": 28
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe7862ca2e18410a18bbfdce0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e7862ca2e18410a18bbfdce0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e7862ca2e18410a18bbfdce0",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07lvYEspatpWhHwGz0iG9a"
+  }
+}

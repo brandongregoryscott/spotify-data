@@ -1,0 +1,33 @@
+{
+  "id": "33NCKIT7EyxLSz3ZDaag6s",
+  "name": "The Dismal",
+  "uri": "spotify:artist:33NCKIT7EyxLSz3ZDaag6s",
+  "followers": {
+    "href": null,
+    "total": 319
+  },
+  "genres": [
+    "rap metal espanol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ac940e0c51ebee9a4c9641cf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ac940e0c51ebee9a4c9641cf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ac940e0c51ebee9a4c9641cf",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/33NCKIT7EyxLSz3ZDaag6s"
+  }
+}

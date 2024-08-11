@@ -1,0 +1,33 @@
+{
+  "id": "6rouro6xhJxK6NxCHLp26n",
+  "name": "Blue Cactus",
+  "uri": "spotify:artist:6rouro6xhJxK6NxCHLp26n",
+  "followers": {
+    "href": null,
+    "total": 1337
+  },
+  "genres": [
+    "north carolina roots"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba772efcbe746eb8edcb72ec6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a772efcbe746eb8edcb72ec6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a772efcbe746eb8edcb72ec6",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6rouro6xhJxK6NxCHLp26n"
+  }
+}

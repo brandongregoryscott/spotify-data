@@ -1,0 +1,33 @@
+{
+  "id": "1j8X2yjzNblEeXGky35ykf",
+  "name": "ANTÜ",
+  "uri": "spotify:artist:1j8X2yjzNblEeXGky35ykf",
+  "followers": {
+    "href": null,
+    "total": 325
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfb14048e986a309729119750",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fb14048e986a309729119750",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fb14048e986a309729119750",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1j8X2yjzNblEeXGky35ykf"
+  }
+}

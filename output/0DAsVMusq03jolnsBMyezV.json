@@ -1,0 +1,33 @@
+{
+  "id": "0DAsVMusq03jolnsBMyezV",
+  "name": "Napo",
+  "uri": "spotify:artist:0DAsVMusq03jolnsBMyezV",
+  "followers": {
+    "href": null,
+    "total": 274
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27389d190328bea8dffe5076d3b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0289d190328bea8dffe5076d3b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485189d190328bea8dffe5076d3b",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0DAsVMusq03jolnsBMyezV"
+  }
+}

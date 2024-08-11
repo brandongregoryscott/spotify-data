@@ -1,0 +1,33 @@
+{
+  "id": "3VoTdWGvylVl7Op8Y89rZr",
+  "name": "Carter B",
+  "uri": "spotify:artist:3VoTdWGvylVl7Op8Y89rZr",
+  "followers": {
+    "href": null,
+    "total": 444
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736719c9b5097f733460b5b98a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026719c9b5097f733460b5b98a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516719c9b5097f733460b5b98a",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3VoTdWGvylVl7Op8Y89rZr"
+  }
+}

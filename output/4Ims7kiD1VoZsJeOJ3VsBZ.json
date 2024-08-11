@@ -1,0 +1,33 @@
+{
+  "id": "4Ims7kiD1VoZsJeOJ3VsBZ",
+  "name": "Noble",
+  "uri": "spotify:artist:4Ims7kiD1VoZsJeOJ3VsBZ",
+  "followers": {
+    "href": null,
+    "total": 26
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735d0862813fdf643200f8fe02",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025d0862813fdf643200f8fe02",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515d0862813fdf643200f8fe02",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Ims7kiD1VoZsJeOJ3VsBZ"
+  }
+}

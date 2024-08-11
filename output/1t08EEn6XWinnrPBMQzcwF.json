@@ -1,0 +1,33 @@
+{
+  "id": "1t08EEn6XWinnrPBMQzcwF",
+  "name": "Parker Rose",
+  "uri": "spotify:artist:1t08EEn6XWinnrPBMQzcwF",
+  "followers": {
+    "href": null,
+    "total": 1436
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb83e1b569b9100417fdc714e0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517483e1b569b9100417fdc714e0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17883e1b569b9100417fdc714e0",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1t08EEn6XWinnrPBMQzcwF"
+  }
+}

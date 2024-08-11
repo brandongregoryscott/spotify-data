@@ -1,0 +1,33 @@
+{
+  "id": "4Rs0SN67gI5mZFY63kAFsJ",
+  "name": "Paco",
+  "uri": "spotify:artist:4Rs0SN67gI5mZFY63kAFsJ",
+  "followers": {
+    "href": null,
+    "total": 62
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebae04f7a2c833bea4585d42c6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ae04f7a2c833bea4585d42c6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ae04f7a2c833bea4585d42c6",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Rs0SN67gI5mZFY63kAFsJ"
+  }
+}

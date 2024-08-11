@@ -1,0 +1,33 @@
+{
+  "id": "4LusHFSVBAT2oQP40X9NLZ",
+  "name": "Antoine Sy",
+  "uri": "spotify:artist:4LusHFSVBAT2oQP40X9NLZ",
+  "followers": {
+    "href": null,
+    "total": 80
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dc6d3ecbafb17cd3204a2f1c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dc6d3ecbafb17cd3204a2f1c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dc6d3ecbafb17cd3204a2f1c",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4LusHFSVBAT2oQP40X9NLZ"
+  }
+}

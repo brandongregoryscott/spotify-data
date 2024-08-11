@@ -1,0 +1,33 @@
+{
+  "id": "0yGRgPiwbWQcQsMf7H7DmK",
+  "name": "Yimeeka",
+  "uri": "spotify:artist:0yGRgPiwbWQcQsMf7H7DmK",
+  "followers": {
+    "href": null,
+    "total": 937
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf63b544c072debd6377337e4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f63b544c072debd6377337e4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f63b544c072debd6377337e4",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "111CR4KHEjzsHshYE6K5Zh",
+  "name": "Oliva trencada",
+  "uri": "spotify:artist:111CR4KHEjzsHshYE6K5Zh",
+  "followers": {
+    "href": null,
+    "total": 482
+  },
+  "genres": [
+    "indie catala",
+    "musica mallorquina"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f1cc45f89c6a2fc6a0c6c6cf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f1cc45f89c6a2fc6a0c6c6cf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f1cc45f89c6a2fc6a0c6c6cf",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/111CR4KHEjzsHshYE6K5Zh"
+  }
+}

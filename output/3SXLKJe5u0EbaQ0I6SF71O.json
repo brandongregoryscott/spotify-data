@@ -1,0 +1,33 @@
+{
+  "id": "3SXLKJe5u0EbaQ0I6SF71O",
+  "name": "Eugene",
+  "uri": "spotify:artist:3SXLKJe5u0EbaQ0I6SF71O",
+  "followers": {
+    "href": null,
+    "total": 106
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273de3cdcbc10dbd851059c59e6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02de3cdcbc10dbd851059c59e6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851de3cdcbc10dbd851059c59e6",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3SXLKJe5u0EbaQ0I6SF71O"
+  }
+}

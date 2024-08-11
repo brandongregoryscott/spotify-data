@@ -1,0 +1,33 @@
+{
+  "id": "5l6UwumAeamXnOmWJJYKcM",
+  "name": "Blazy Green",
+  "uri": "spotify:artist:5l6UwumAeamXnOmWJJYKcM",
+  "followers": {
+    "href": null,
+    "total": 215
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e00cfd1b9bc7f1d4749242e4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e00cfd1b9bc7f1d4749242e4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e00cfd1b9bc7f1d4749242e4",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5l6UwumAeamXnOmWJJYKcM"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "3FtuTq3oY78SW4vaK7FhDt",
+  "name": "The Supersonics",
+  "uri": "spotify:artist:3FtuTq3oY78SW4vaK7FhDt",
+  "followers": {
+    "href": null,
+    "total": 1735
+  },
+  "genres": [
+    "early reggae",
+    "rocksteady"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27326f5a54b331006d5f7619f02",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0226f5a54b331006d5f7619f02",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485126f5a54b331006d5f7619f02",
+      "width": 64
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3FtuTq3oY78SW4vaK7FhDt"
+  }
+}

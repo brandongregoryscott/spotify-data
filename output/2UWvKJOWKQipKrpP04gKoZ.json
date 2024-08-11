@@ -1,0 +1,33 @@
+{
+  "id": "2UWvKJOWKQipKrpP04gKoZ",
+  "name": "saviø-1",
+  "uri": "spotify:artist:2UWvKJOWKQipKrpP04gKoZ",
+  "followers": {
+    "href": null,
+    "total": 44
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd188c4af0686a7556580ab71",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d188c4af0686a7556580ab71",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d188c4af0686a7556580ab71",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2UWvKJOWKQipKrpP04gKoZ"
+  }
+}

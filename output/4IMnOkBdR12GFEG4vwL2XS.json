@@ -1,0 +1,34 @@
+{
+  "id": "4IMnOkBdR12GFEG4vwL2XS",
+  "name": "Hilda Parra",
+  "uri": "spotify:artist:4IMnOkBdR12GFEG4vwL2XS",
+  "followers": {
+    "href": null,
+    "total": 1047
+  },
+  "genres": [
+    "cueca chilena",
+    "folklore chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27306343d054c6111da150925fc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0206343d054c6111da150925fc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485106343d054c6111da150925fc",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4IMnOkBdR12GFEG4vwL2XS"
+  }
+}

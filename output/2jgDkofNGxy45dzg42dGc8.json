@@ -1,0 +1,33 @@
+{
+  "id": "2jgDkofNGxy45dzg42dGc8",
+  "name": "Jacuzzi Suite",
+  "uri": "spotify:artist:2jgDkofNGxy45dzg42dGc8",
+  "followers": {
+    "href": null,
+    "total": 133
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9b684508ce117ee8949e93cb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051749b684508ce117ee8949e93cb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1789b684508ce117ee8949e93cb",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2jgDkofNGxy45dzg42dGc8"
+  }
+}

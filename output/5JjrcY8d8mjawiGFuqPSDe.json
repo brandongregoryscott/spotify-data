@@ -1,0 +1,33 @@
+{
+  "id": "5JjrcY8d8mjawiGFuqPSDe",
+  "name": "Capistrano",
+  "uri": "spotify:artist:5JjrcY8d8mjawiGFuqPSDe",
+  "followers": {
+    "href": null,
+    "total": 95
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fe9222aaaacdc025bd76754f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fe9222aaaacdc025bd76754f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fe9222aaaacdc025bd76754f",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5JjrcY8d8mjawiGFuqPSDe"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6gGIbdcyO4V1QP6iJpKcb5",
+  "name": "Trypd",
+  "uri": "spotify:artist:6gGIbdcyO4V1QP6iJpKcb5",
+  "followers": {
+    "href": null,
+    "total": 1418
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb46ffa930b556ad0d69aac59c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517446ffa930b556ad0d69aac59c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17846ffa930b556ad0d69aac59c",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6gGIbdcyO4V1QP6iJpKcb5"
+  }
+}

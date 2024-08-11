@@ -1,0 +1,33 @@
+{
+  "id": "6LCWRvzqIxpLNLeqpilyHo",
+  "name": "SHAO",
+  "uri": "spotify:artist:6LCWRvzqIxpLNLeqpilyHo",
+  "followers": {
+    "href": null,
+    "total": 1411
+  },
+  "genres": [
+    "chinese electronic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ac55caf5abdfbd1035c93b15",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ac55caf5abdfbd1035c93b15",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ac55caf5abdfbd1035c93b15",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6LCWRvzqIxpLNLeqpilyHo"
+  }
+}

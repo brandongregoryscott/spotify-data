@@ -1,0 +1,33 @@
+{
+  "id": "5ADSXoAtIh6I7AUO3bTZfX",
+  "name": "DABBLER",
+  "uri": "spotify:artist:5ADSXoAtIh6I7AUO3bTZfX",
+  "followers": {
+    "href": null,
+    "total": 114
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb624c3a58697e147d063e1e91",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174624c3a58697e147d063e1e91",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178624c3a58697e147d063e1e91",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ADSXoAtIh6I7AUO3bTZfX"
+  }
+}

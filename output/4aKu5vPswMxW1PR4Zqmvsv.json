@@ -1,0 +1,33 @@
+{
+  "id": "4aKu5vPswMxW1PR4Zqmvsv",
+  "name": "Kaiser",
+  "uri": "spotify:artist:4aKu5vPswMxW1PR4Zqmvsv",
+  "followers": {
+    "href": null,
+    "total": 983
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736f8d246b3aa9954be287a4a6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026f8d246b3aa9954be287a4a6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516f8d246b3aa9954be287a4a6",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4aKu5vPswMxW1PR4Zqmvsv"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "05zZr6xyHFX5GM0ecRvHRI",
+  "name": "Ardillas",
+  "uri": "spotify:artist:05zZr6xyHFX5GM0ecRvHRI",
+  "followers": {
+    "href": null,
+    "total": 1846
+  },
+  "genres": [
+    "puerto rican indie",
+    "puerto rican rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc068e2b7cff4bd570b6e27f0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c068e2b7cff4bd570b6e27f0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c068e2b7cff4bd570b6e27f0",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05zZr6xyHFX5GM0ecRvHRI"
+  }
+}

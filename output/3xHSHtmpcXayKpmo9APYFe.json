@@ -1,0 +1,33 @@
+{
+  "id": "3xHSHtmpcXayKpmo9APYFe",
+  "name": "Árni Vil",
+  "uri": "spotify:artist:3xHSHtmpcXayKpmo9APYFe",
+  "followers": {
+    "href": null,
+    "total": 152
+  },
+  "genres": [
+    "icelandic indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273034aa584128e54642cd54c7e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02034aa584128e54642cd54c7e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851034aa584128e54642cd54c7e",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3xHSHtmpcXayKpmo9APYFe"
+  }
+}

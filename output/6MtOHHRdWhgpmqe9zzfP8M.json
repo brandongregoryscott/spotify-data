@@ -1,0 +1,33 @@
+{
+  "id": "6MtOHHRdWhgpmqe9zzfP8M",
+  "name": "Pablo Sanders",
+  "uri": "spotify:artist:6MtOHHRdWhgpmqe9zzfP8M",
+  "followers": {
+    "href": null,
+    "total": 1046
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc08206d05ba06297ac663efc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c08206d05ba06297ac663efc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c08206d05ba06297ac663efc",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6MtOHHRdWhgpmqe9zzfP8M"
+  }
+}

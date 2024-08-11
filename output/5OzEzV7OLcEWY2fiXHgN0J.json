@@ -1,0 +1,33 @@
+{
+  "id": "5OzEzV7OLcEWY2fiXHgN0J",
+  "name": "Dusty Roach",
+  "uri": "spotify:artist:5OzEzV7OLcEWY2fiXHgN0J",
+  "followers": {
+    "href": null,
+    "total": 191
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb13ec59b8de8dcca8f275b41",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b13ec59b8de8dcca8f275b41",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b13ec59b8de8dcca8f275b41",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5OzEzV7OLcEWY2fiXHgN0J"
+  }
+}

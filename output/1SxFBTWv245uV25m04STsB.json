@@ -1,0 +1,33 @@
+{
+  "id": "1SxFBTWv245uV25m04STsB",
+  "name": "Alex Wilke",
+  "uri": "spotify:artist:1SxFBTWv245uV25m04STsB",
+  "followers": {
+    "href": null,
+    "total": 190
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb38ccb605bcf10948c2f4e0d6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517438ccb605bcf10948c2f4e0d6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17838ccb605bcf10948c2f4e0d6",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1SxFBTWv245uV25m04STsB"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1IoFjHa1ryRDvckLz1bD7r",
+  "name": "Port Salut",
+  "uri": "spotify:artist:1IoFjHa1ryRDvckLz1bD7r",
+  "followers": {
+    "href": null,
+    "total": 139
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27330ae155b58835ed5a9d545f0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0230ae155b58835ed5a9d545f0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485130ae155b58835ed5a9d545f0",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1IoFjHa1ryRDvckLz1bD7r"
+  }
+}

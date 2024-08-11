@@ -1,0 +1,33 @@
+{
+  "id": "122C2l8zmy843xIROlbtxU",
+  "name": "Honey Mustard",
+  "uri": "spotify:artist:122C2l8zmy843xIROlbtxU",
+  "followers": {
+    "href": null,
+    "total": 89
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd89be668ef806a6a5252f05e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d89be668ef806a6a5252f05e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d89be668ef806a6a5252f05e",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/122C2l8zmy843xIROlbtxU"
+  }
+}

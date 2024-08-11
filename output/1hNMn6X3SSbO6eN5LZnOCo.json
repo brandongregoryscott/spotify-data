@@ -1,0 +1,33 @@
+{
+  "id": "1hNMn6X3SSbO6eN5LZnOCo",
+  "name": "Kajzer",
+  "uri": "spotify:artist:1hNMn6X3SSbO6eN5LZnOCo",
+  "followers": {
+    "href": null,
+    "total": 410
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb14026825decd74e1bdaee0c8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517414026825decd74e1bdaee0c8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17814026825decd74e1bdaee0c8",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1hNMn6X3SSbO6eN5LZnOCo"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "51DHDevdQD7ojtceeDFZVP",
+  "name": "Kerka",
+  "uri": "spotify:artist:51DHDevdQD7ojtceeDFZVP",
+  "followers": {
+    "href": null,
+    "total": 2079
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb07bf57768cd85fdaa0c03bba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517407bf57768cd85fdaa0c03bba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17807bf57768cd85fdaa0c03bba",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/51DHDevdQD7ojtceeDFZVP"
+  }
+}

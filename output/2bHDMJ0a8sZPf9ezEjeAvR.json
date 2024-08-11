@@ -1,0 +1,33 @@
+{
+  "id": "2bHDMJ0a8sZPf9ezEjeAvR",
+  "name": "PePe",
+  "uri": "spotify:artist:2bHDMJ0a8sZPf9ezEjeAvR",
+  "followers": {
+    "href": null,
+    "total": 37
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd418b036638b1143200b2557",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d418b036638b1143200b2557",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d418b036638b1143200b2557",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2bHDMJ0a8sZPf9ezEjeAvR"
+  }
+}

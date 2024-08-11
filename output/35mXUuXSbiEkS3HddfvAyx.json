@@ -1,0 +1,33 @@
+{
+  "id": "35mXUuXSbiEkS3HddfvAyx",
+  "name": "domino",
+  "uri": "spotify:artist:35mXUuXSbiEkS3HddfvAyx",
+  "followers": {
+    "href": null,
+    "total": 612
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe686c72fcbe87b78a5bd4c73",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e686c72fcbe87b78a5bd4c73",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e686c72fcbe87b78a5bd4c73",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/35mXUuXSbiEkS3HddfvAyx"
+  }
+}

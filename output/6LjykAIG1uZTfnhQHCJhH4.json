@@ -1,0 +1,33 @@
+{
+  "id": "6LjykAIG1uZTfnhQHCJhH4",
+  "name": "Michael Møller",
+  "uri": "spotify:artist:6LjykAIG1uZTfnhQHCJhH4",
+  "followers": {
+    "href": null,
+    "total": 1049
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a1e6d3e2f97417d19947456f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a1e6d3e2f97417d19947456f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a1e6d3e2f97417d19947456f",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6LjykAIG1uZTfnhQHCJhH4"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5s3BBxhMgGdmFBxwnvbM4R",
+  "name": "Apotheke",
+  "uri": "spotify:artist:5s3BBxhMgGdmFBxwnvbM4R",
+  "followers": {
+    "href": null,
+    "total": 228
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba44324ecd917ebab46979c9e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a44324ecd917ebab46979c9e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a44324ecd917ebab46979c9e",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5s3BBxhMgGdmFBxwnvbM4R"
+  }
+}

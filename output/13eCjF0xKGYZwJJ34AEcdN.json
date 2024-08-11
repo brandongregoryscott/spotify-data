@@ -1,0 +1,33 @@
+{
+  "id": "13eCjF0xKGYZwJJ34AEcdN",
+  "name": "VOVO",
+  "uri": "spotify:artist:13eCjF0xKGYZwJJ34AEcdN",
+  "followers": {
+    "href": null,
+    "total": 534
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdb466c74b1d060998e34dc36",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174db466c74b1d060998e34dc36",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178db466c74b1d060998e34dc36",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/13eCjF0xKGYZwJJ34AEcdN"
+  }
+}

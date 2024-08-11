@@ -1,0 +1,33 @@
+{
+  "id": "6UyXXWDT6RXcavyZzQfIcp",
+  "name": "KRPL",
+  "uri": "spotify:artist:6UyXXWDT6RXcavyZzQfIcp",
+  "followers": {
+    "href": null,
+    "total": 197
+  },
+  "genres": [
+    "austrian stoner rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27318fda0228f6bf905f0ab6135",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0218fda0228f6bf905f0ab6135",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485118fda0228f6bf905f0ab6135",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6UyXXWDT6RXcavyZzQfIcp"
+  }
+}

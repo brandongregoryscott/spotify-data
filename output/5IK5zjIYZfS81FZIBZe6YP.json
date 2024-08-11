@@ -1,0 +1,33 @@
+{
+  "id": "5IK5zjIYZfS81FZIBZe6YP",
+  "name": "Infra Gang",
+  "uri": "spotify:artist:5IK5zjIYZfS81FZIBZe6YP",
+  "followers": {
+    "href": null,
+    "total": 232
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdadd50bfb50a87f337b4352b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dadd50bfb50a87f337b4352b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dadd50bfb50a87f337b4352b",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5IK5zjIYZfS81FZIBZe6YP"
+  }
+}

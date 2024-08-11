@@ -1,0 +1,33 @@
+{
+  "id": "0k2LHfRiHCGrhX3OAUodiB",
+  "name": "Presidio",
+  "uri": "spotify:artist:0k2LHfRiHCGrhX3OAUodiB",
+  "followers": {
+    "href": null,
+    "total": 1102
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb80b3bd73e36dc6ed92da4370",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517480b3bd73e36dc6ed92da4370",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17880b3bd73e36dc6ed92da4370",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0k2LHfRiHCGrhX3OAUodiB"
+  }
+}

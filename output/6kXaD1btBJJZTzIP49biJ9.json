@@ -1,0 +1,34 @@
+{
+  "id": "6kXaD1btBJJZTzIP49biJ9",
+  "name": "The Foreign Resort",
+  "uri": "spotify:artist:6kXaD1btBJJZTzIP49biJ9",
+  "followers": {
+    "href": null,
+    "total": 6059
+  },
+  "genres": [
+    "danish post-punk",
+    "dark post-punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcd4ccb301f63eb3b301dc25e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cd4ccb301f63eb3b301dc25e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cd4ccb301f63eb3b301dc25e",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6kXaD1btBJJZTzIP49biJ9"
+  }
+}

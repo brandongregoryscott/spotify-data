@@ -1,0 +1,33 @@
+{
+  "id": "1ZMubx8ajwdosQCKH18aSq",
+  "name": "jamieJ",
+  "uri": "spotify:artist:1ZMubx8ajwdosQCKH18aSq",
+  "followers": {
+    "href": null,
+    "total": 370
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb6fc53ff3d2dbd4a97b6bed0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b6fc53ff3d2dbd4a97b6bed0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b6fc53ff3d2dbd4a97b6bed0",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ZMubx8ajwdosQCKH18aSq"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5F2tBYdsm7ECucmdbWpjTu",
+  "name": "Baston",
+  "uri": "spotify:artist:5F2tBYdsm7ECucmdbWpjTu",
+  "followers": {
+    "href": null,
+    "total": 1590
+  },
+  "genres": [
+    "french psychedelic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc2f11f0a4bcfe111a1bbcddb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c2f11f0a4bcfe111a1bbcddb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c2f11f0a4bcfe111a1bbcddb",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5F2tBYdsm7ECucmdbWpjTu"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3JAbgKW3FFHdhZRBZ8f83y",
+  "name": "Jank",
+  "uri": "spotify:artist:3JAbgKW3FFHdhZRBZ8f83y",
+  "followers": {
+    "href": null,
+    "total": 320
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d40f7e89c29b61dadcf2881c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d40f7e89c29b61dadcf2881c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d40f7e89c29b61dadcf2881c",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3JAbgKW3FFHdhZRBZ8f83y"
+  }
+}

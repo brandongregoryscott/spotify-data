@@ -1,0 +1,33 @@
+{
+  "id": "52YpyQGFR3B4JFNTWqFxrN",
+  "name": "Nice World",
+  "uri": "spotify:artist:52YpyQGFR3B4JFNTWqFxrN",
+  "followers": {
+    "href": null,
+    "total": 336
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb218ca40ae843ea71a859d53",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b218ca40ae843ea71a859d53",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b218ca40ae843ea71a859d53",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/52YpyQGFR3B4JFNTWqFxrN"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7grFJvqwCclBqOR4GQA3cz",
+  "name": "Jucha",
+  "uri": "spotify:artist:7grFJvqwCclBqOR4GQA3cz",
+  "followers": {
+    "href": null,
+    "total": 106
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1739d6ee1438c2f166ccad97",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051741739d6ee1438c2f166ccad97",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1781739d6ee1438c2f166ccad97",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7grFJvqwCclBqOR4GQA3cz"
+  }
+}

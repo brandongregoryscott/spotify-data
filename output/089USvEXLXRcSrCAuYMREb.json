@@ -1,0 +1,33 @@
+{
+  "id": "089USvEXLXRcSrCAuYMREb",
+  "name": "Glass Domain",
+  "uri": "spotify:artist:089USvEXLXRcSrCAuYMREb",
+  "followers": {
+    "href": null,
+    "total": 2192
+  },
+  "genres": [
+    "nu electro"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731027745c57c88dcea883a3a7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021027745c57c88dcea883a3a7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511027745c57c88dcea883a3a7",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/089USvEXLXRcSrCAuYMREb"
+  }
+}

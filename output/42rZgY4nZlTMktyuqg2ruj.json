@@ -1,0 +1,33 @@
+{
+  "id": "42rZgY4nZlTMktyuqg2ruj",
+  "name": "Ester",
+  "uri": "spotify:artist:42rZgY4nZlTMktyuqg2ruj",
+  "followers": {
+    "href": null,
+    "total": 261
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc7504cc061aacf00f6c757c9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c7504cc061aacf00f6c757c9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c7504cc061aacf00f6c757c9",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/42rZgY4nZlTMktyuqg2ruj"
+  }
+}

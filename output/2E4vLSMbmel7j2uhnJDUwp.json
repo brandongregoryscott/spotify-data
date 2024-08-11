@@ -1,0 +1,33 @@
+{
+  "id": "2E4vLSMbmel7j2uhnJDUwp",
+  "name": "ZIS",
+  "uri": "spotify:artist:2E4vLSMbmel7j2uhnJDUwp",
+  "followers": {
+    "href": null,
+    "total": 90
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7b0e13e6323f0c1536255cd2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051747b0e13e6323f0c1536255cd2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1787b0e13e6323f0c1536255cd2",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2E4vLSMbmel7j2uhnJDUwp"
+  }
+}

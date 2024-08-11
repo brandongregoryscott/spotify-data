@@ -1,0 +1,33 @@
+{
+  "id": "7C140iva1iNIjqJW6Tf5cN",
+  "name": "Big Leaf",
+  "uri": "spotify:artist:7C140iva1iNIjqJW6Tf5cN",
+  "followers": {
+    "href": null,
+    "total": 138
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27376e05d82a1901d1a09f7e727",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0276e05d82a1901d1a09f7e727",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485176e05d82a1901d1a09f7e727",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7C140iva1iNIjqJW6Tf5cN"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "37PpNqaNKhMqjSnEXx8ret",
+  "name": "Greazus",
+  "uri": "spotify:artist:37PpNqaNKhMqjSnEXx8ret",
+  "followers": {
+    "href": null,
+    "total": 1178
+  },
+  "genres": [
+    "breaks"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf74b349a9191ad0ccb190390",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f74b349a9191ad0ccb190390",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f74b349a9191ad0ccb190390",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/37PpNqaNKhMqjSnEXx8ret"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1wpYeAyfkGs4OHfm1hHczU",
+  "name": "Seyed Ali",
+  "uri": "spotify:artist:1wpYeAyfkGs4OHfm1hHczU",
+  "followers": {
+    "href": null,
+    "total": 259
+  },
+  "genres": [
+    "suomirap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb12eb770fce46ed0c2ef93921",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517412eb770fce46ed0c2ef93921",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17812eb770fce46ed0c2ef93921",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1wpYeAyfkGs4OHfm1hHczU"
+  }
+}

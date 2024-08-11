@@ -1,0 +1,33 @@
+{
+  "id": "0fsLwKIy2fRcqau5VK8jpu",
+  "name": "patient",
+  "uri": "spotify:artist:0fsLwKIy2fRcqau5VK8jpu",
+  "followers": {
+    "href": null,
+    "total": 536
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb73fbb6da847409e0635a0570",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517473fbb6da847409e0635a0570",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17873fbb6da847409e0635a0570",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0fsLwKIy2fRcqau5VK8jpu"
+  }
+}

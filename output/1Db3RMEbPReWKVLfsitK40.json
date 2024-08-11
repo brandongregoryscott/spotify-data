@@ -1,0 +1,33 @@
+{
+  "id": "1Db3RMEbPReWKVLfsitK40",
+  "name": "The Samplers",
+  "uri": "spotify:artist:1Db3RMEbPReWKVLfsitK40",
+  "followers": {
+    "href": null,
+    "total": 208
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739319c81f7b9dc269a64c0fd5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029319c81f7b9dc269a64c0fd5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519319c81f7b9dc269a64c0fd5",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Db3RMEbPReWKVLfsitK40"
+  }
+}

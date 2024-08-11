@@ -1,0 +1,33 @@
+{
+  "id": "0JxSyjK5Tlztc9fIh6WSbn",
+  "name": "Dole",
+  "uri": "spotify:artist:0JxSyjK5Tlztc9fIh6WSbn",
+  "followers": {
+    "href": null,
+    "total": 245
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf0e5292166d658e6102952a6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f0e5292166d658e6102952a6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f0e5292166d658e6102952a6",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0JxSyjK5Tlztc9fIh6WSbn"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5WofMFbuU64VLqQ4qfEADF",
+  "name": "MICH",
+  "uri": "spotify:artist:5WofMFbuU64VLqQ4qfEADF",
+  "followers": {
+    "href": null,
+    "total": 573
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb83552e242cf5524f127e9d9a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517483552e242cf5524f127e9d9a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17883552e242cf5524f127e9d9a",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5WofMFbuU64VLqQ4qfEADF"
+  }
+}

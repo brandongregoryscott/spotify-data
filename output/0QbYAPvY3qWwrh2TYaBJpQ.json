@@ -1,0 +1,33 @@
+{
+  "id": "0QbYAPvY3qWwrh2TYaBJpQ",
+  "name": "deqo!",
+  "uri": "spotify:artist:0QbYAPvY3qWwrh2TYaBJpQ",
+  "followers": {
+    "href": null,
+    "total": 225
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd506472733fd66407bfea65c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d506472733fd66407bfea65c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d506472733fd66407bfea65c",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0QbYAPvY3qWwrh2TYaBJpQ"
+  }
+}

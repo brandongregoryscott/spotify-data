@@ -1,0 +1,33 @@
+{
+  "id": "3jjbX9cm5Np3ekAypS71si",
+  "name": "Cliff",
+  "uri": "spotify:artist:3jjbX9cm5Np3ekAypS71si",
+  "followers": {
+    "href": null,
+    "total": 11464
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebffb8a4f443f9288640413efb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ffb8a4f443f9288640413efb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ffb8a4f443f9288640413efb",
+      "width": 160
+    }
+  ],
+  "popularity": 43,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3jjbX9cm5Np3ekAypS71si"
+  }
+}

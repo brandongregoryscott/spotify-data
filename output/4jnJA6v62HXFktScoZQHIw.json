@@ -1,0 +1,33 @@
+{
+  "id": "4jnJA6v62HXFktScoZQHIw",
+  "name": "SOULIFY",
+  "uri": "spotify:artist:4jnJA6v62HXFktScoZQHIw",
+  "followers": {
+    "href": null,
+    "total": 1159
+  },
+  "genres": [
+    "chill phonk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd27b8fb0263b8f2e10acd13c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d27b8fb0263b8f2e10acd13c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d27b8fb0263b8f2e10acd13c",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4jnJA6v62HXFktScoZQHIw"
+  }
+}

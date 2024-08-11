@@ -1,0 +1,33 @@
+{
+  "id": "28HoBTB1xbZ4855KPVvZ8Z",
+  "name": "Ira",
+  "uri": "spotify:artist:28HoBTB1xbZ4855KPVvZ8Z",
+  "followers": {
+    "href": null,
+    "total": 183
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba0ded5f4862855ba83c77b25",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a0ded5f4862855ba83c77b25",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a0ded5f4862855ba83c77b25",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/28HoBTB1xbZ4855KPVvZ8Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4PtDUXf3DipwPyxwhfzVUx",
+  "name": "Mary Chan",
+  "uri": "spotify:artist:4PtDUXf3DipwPyxwhfzVUx",
+  "followers": {
+    "href": null,
+    "total": 472
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb820672514f2651054fcf5ff",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b820672514f2651054fcf5ff",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b820672514f2651054fcf5ff",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4PtDUXf3DipwPyxwhfzVUx"
+  }
+}

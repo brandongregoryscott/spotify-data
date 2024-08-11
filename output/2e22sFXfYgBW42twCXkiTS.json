@@ -1,0 +1,33 @@
+{
+  "id": "2e22sFXfYgBW42twCXkiTS",
+  "name": "Good Call",
+  "uri": "spotify:artist:2e22sFXfYgBW42twCXkiTS",
+  "followers": {
+    "href": null,
+    "total": 678
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb03a6d07bfb12da90f102cbd4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517403a6d07bfb12da90f102cbd4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17803a6d07bfb12da90f102cbd4",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2e22sFXfYgBW42twCXkiTS"
+  }
+}

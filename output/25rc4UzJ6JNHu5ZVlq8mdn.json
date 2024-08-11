@@ -1,0 +1,33 @@
+{
+  "id": "25rc4UzJ6JNHu5ZVlq8mdn",
+  "name": "WHiSANT",
+  "uri": "spotify:artist:25rc4UzJ6JNHu5ZVlq8mdn",
+  "followers": {
+    "href": null,
+    "total": 161
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738e299f62ab9c2edc95e89bdc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028e299f62ab9c2edc95e89bdc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518e299f62ab9c2edc95e89bdc",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/25rc4UzJ6JNHu5ZVlq8mdn"
+  }
+}

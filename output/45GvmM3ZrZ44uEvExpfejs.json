@@ -1,0 +1,33 @@
+{
+  "id": "45GvmM3ZrZ44uEvExpfejs",
+  "name": "Jemmy Button",
+  "uri": "spotify:artist:45GvmM3ZrZ44uEvExpfejs",
+  "followers": {
+    "href": null,
+    "total": 1140
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8453f74895bf016e4330bc23",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051748453f74895bf016e4330bc23",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1788453f74895bf016e4330bc23",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/45GvmM3ZrZ44uEvExpfejs"
+  }
+}

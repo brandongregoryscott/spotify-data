@@ -1,0 +1,33 @@
+{
+  "id": "1DEXcGR2gbPNXsoV5KW9rF",
+  "name": "Charles Left",
+  "uri": "spotify:artist:1DEXcGR2gbPNXsoV5KW9rF",
+  "followers": {
+    "href": null,
+    "total": 34
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb059b6d22b4e54005f498723d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174059b6d22b4e54005f498723d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178059b6d22b4e54005f498723d",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1DEXcGR2gbPNXsoV5KW9rF"
+  }
+}

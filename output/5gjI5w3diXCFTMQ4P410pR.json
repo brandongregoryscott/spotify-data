@@ -1,0 +1,33 @@
+{
+  "id": "5gjI5w3diXCFTMQ4P410pR",
+  "name": "LM",
+  "uri": "spotify:artist:5gjI5w3diXCFTMQ4P410pR",
+  "followers": {
+    "href": null,
+    "total": 241
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbfc364161d64d5274a77d740",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bfc364161d64d5274a77d740",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bfc364161d64d5274a77d740",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5gjI5w3diXCFTMQ4P410pR"
+  }
+}

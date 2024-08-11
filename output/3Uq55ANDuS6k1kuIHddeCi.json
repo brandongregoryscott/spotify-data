@@ -1,0 +1,33 @@
+{
+  "id": "3Uq55ANDuS6k1kuIHddeCi",
+  "name": "Simon Reich",
+  "uri": "spotify:artist:3Uq55ANDuS6k1kuIHddeCi",
+  "followers": {
+    "href": null,
+    "total": 500
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fe0d309ef0eeabc60300747b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fe0d309ef0eeabc60300747b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fe0d309ef0eeabc60300747b",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Uq55ANDuS6k1kuIHddeCi"
+  }
+}

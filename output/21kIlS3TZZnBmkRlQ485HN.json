@@ -1,0 +1,33 @@
+{
+  "id": "21kIlS3TZZnBmkRlQ485HN",
+  "name": "LinQQty",
+  "uri": "spotify:artist:21kIlS3TZZnBmkRlQ485HN",
+  "followers": {
+    "href": null,
+    "total": 353
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27302e472f0c487cbad2d8155df",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0202e472f0c487cbad2d8155df",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485102e472f0c487cbad2d8155df",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/21kIlS3TZZnBmkRlQ485HN"
+  }
+}

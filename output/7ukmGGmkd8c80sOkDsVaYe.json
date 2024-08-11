@@ -1,0 +1,33 @@
+{
+  "id": "7ukmGGmkd8c80sOkDsVaYe",
+  "name": "Jamie Lee Starling",
+  "uri": "spotify:artist:7ukmGGmkd8c80sOkDsVaYe",
+  "followers": {
+    "href": null,
+    "total": 123
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273614322c21914e533b1aee665",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02016debb1061a25aba627ea3f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851614322c21914e533b1aee665",
+      "width": 64
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ukmGGmkd8c80sOkDsVaYe"
+  }
+}

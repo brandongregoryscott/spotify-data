@@ -1,0 +1,33 @@
+{
+  "id": "0XCBNB27OOd4P42WgcdgPD",
+  "name": "Orlando",
+  "uri": "spotify:artist:0XCBNB27OOd4P42WgcdgPD",
+  "followers": {
+    "href": null,
+    "total": 254
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb39f214c2cb6da38de05dffe7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517439f214c2cb6da38de05dffe7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17839f214c2cb6da38de05dffe7",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0XCBNB27OOd4P42WgcdgPD"
+  }
+}

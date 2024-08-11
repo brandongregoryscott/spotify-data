@@ -1,0 +1,33 @@
+{
+  "id": "4438TGYUM3b3u4k7wXu1Hm",
+  "name": "Morty",
+  "uri": "spotify:artist:4438TGYUM3b3u4k7wXu1Hm",
+  "followers": {
+    "href": null,
+    "total": 2999
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb258f7fc31f9089ea220e36a1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174258f7fc31f9089ea220e36a1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178258f7fc31f9089ea220e36a1",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4438TGYUM3b3u4k7wXu1Hm"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5nMPrBafdSeBCx5GAWns4s",
+  "name": "Dokuga",
+  "uri": "spotify:artist:5nMPrBafdSeBCx5GAWns4s",
+  "followers": {
+    "href": null,
+    "total": 396
+  },
+  "genres": [
+    "portuguese hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27341da9eec5cdace3c5bc3ea62",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0241da9eec5cdace3c5bc3ea62",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485141da9eec5cdace3c5bc3ea62",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5nMPrBafdSeBCx5GAWns4s"
+  }
+}

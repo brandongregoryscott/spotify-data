@@ -1,0 +1,33 @@
+{
+  "id": "65XDKFQnYV3kOkf0txtbUX",
+  "name": "juls",
+  "uri": "spotify:artist:65XDKFQnYV3kOkf0txtbUX",
+  "followers": {
+    "href": null,
+    "total": 338
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb38b19687f6986d5b53fec413",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517438b19687f6986d5b53fec413",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17838b19687f6986d5b53fec413",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/65XDKFQnYV3kOkf0txtbUX"
+  }
+}

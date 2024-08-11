@@ -1,0 +1,33 @@
+{
+  "id": "2n7tUIeULpqEweNoyaNJ7v",
+  "name": "Janey Jacké",
+  "uri": "spotify:artist:2n7tUIeULpqEweNoyaNJ7v",
+  "followers": {
+    "href": null,
+    "total": 500
+  },
+  "genres": [
+    "strut"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb40d851742c02e77cc806ad92",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517440d851742c02e77cc806ad92",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17840d851742c02e77cc806ad92",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v"
+  }
+}

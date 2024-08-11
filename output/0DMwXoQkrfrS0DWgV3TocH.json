@@ -1,0 +1,33 @@
+{
+  "id": "0DMwXoQkrfrS0DWgV3TocH",
+  "name": "La Veinte Uñas",
+  "uri": "spotify:artist:0DMwXoQkrfrS0DWgV3TocH",
+  "followers": {
+    "href": null,
+    "total": 117
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a0386fe6aec129e730ecf71c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a0386fe6aec129e730ecf71c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a0386fe6aec129e730ecf71c",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0DMwXoQkrfrS0DWgV3TocH"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "5EFPvX3wSwHyaYAFwrkJPl",
+  "name": "Acho Estol",
+  "uri": "spotify:artist:5EFPvX3wSwHyaYAFwrkJPl",
+  "followers": {
+    "href": null,
+    "total": 1583
+  },
+  "genres": [
+    "nuevo folklore argentino",
+    "tango"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb696b8efe56f771e2d6ea9047",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174696b8efe56f771e2d6ea9047",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178696b8efe56f771e2d6ea9047",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5EFPvX3wSwHyaYAFwrkJPl"
+  }
+}

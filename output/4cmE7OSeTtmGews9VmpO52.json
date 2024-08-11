@@ -1,0 +1,33 @@
+{
+  "id": "4cmE7OSeTtmGews9VmpO52",
+  "name": "Güaits",
+  "uri": "spotify:artist:4cmE7OSeTtmGews9VmpO52",
+  "followers": {
+    "href": null,
+    "total": 8
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27343354a7cd4800a20cfd92465",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f80702613530eeb0e15e07c2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f80702613530eeb0e15e07c2",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4cmE7OSeTtmGews9VmpO52"
+  }
+}

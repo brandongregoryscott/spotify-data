@@ -1,0 +1,33 @@
+{
+  "id": "2xXOq35UCrY7y2IAx1P8fp",
+  "name": "Juanjo Gómez",
+  "uri": "spotify:artist:2xXOq35UCrY7y2IAx1P8fp",
+  "followers": {
+    "href": null,
+    "total": 1332
+  },
+  "genres": [
+    "jazz mexicano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27308c3414c86202e9ec9a181c0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0208c3414c86202e9ec9a181c0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485108c3414c86202e9ec9a181c0",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2xXOq35UCrY7y2IAx1P8fp"
+  }
+}

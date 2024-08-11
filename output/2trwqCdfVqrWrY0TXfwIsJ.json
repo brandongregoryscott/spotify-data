@@ -1,0 +1,33 @@
+{
+  "id": "2trwqCdfVqrWrY0TXfwIsJ",
+  "name": "Lityo",
+  "uri": "spotify:artist:2trwqCdfVqrWrY0TXfwIsJ",
+  "followers": {
+    "href": null,
+    "total": 748
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb97a732c938c1338a0f75d31b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517497a732c938c1338a0f75d31b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17897a732c938c1338a0f75d31b",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2trwqCdfVqrWrY0TXfwIsJ"
+  }
+}

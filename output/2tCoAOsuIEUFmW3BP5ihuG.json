@@ -1,0 +1,33 @@
+{
+  "id": "2tCoAOsuIEUFmW3BP5ihuG",
+  "name": "Chalé",
+  "uri": "spotify:artist:2tCoAOsuIEUFmW3BP5ihuG",
+  "followers": {
+    "href": null,
+    "total": 191
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebea50d4f108688ca40bf5487a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ea50d4f108688ca40bf5487a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ea50d4f108688ca40bf5487a",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2tCoAOsuIEUFmW3BP5ihuG"
+  }
+}

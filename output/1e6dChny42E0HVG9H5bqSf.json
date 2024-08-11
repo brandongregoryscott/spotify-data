@@ -1,0 +1,33 @@
+{
+  "id": "1e6dChny42E0HVG9H5bqSf",
+  "name": "Melodia",
+  "uri": "spotify:artist:1e6dChny42E0HVG9H5bqSf",
+  "followers": {
+    "href": null,
+    "total": 137
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ec55828b8314c31297169e40",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ec55828b8314c31297169e40",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ec55828b8314c31297169e40",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1e6dChny42E0HVG9H5bqSf"
+  }
+}

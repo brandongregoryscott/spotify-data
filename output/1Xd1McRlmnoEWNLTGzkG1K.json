@@ -1,0 +1,33 @@
+{
+  "id": "1Xd1McRlmnoEWNLTGzkG1K",
+  "name": "blurhie",
+  "uri": "spotify:artist:1Xd1McRlmnoEWNLTGzkG1K",
+  "followers": {
+    "href": null,
+    "total": 4038
+  },
+  "genres": [
+    "zoomergaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb999ef4f1d2e724b923756622",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174999ef4f1d2e724b923756622",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178999ef4f1d2e724b923756622",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Xd1McRlmnoEWNLTGzkG1K"
+  }
+}

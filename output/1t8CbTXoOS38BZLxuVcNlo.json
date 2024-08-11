@@ -1,0 +1,33 @@
+{
+  "id": "1t8CbTXoOS38BZLxuVcNlo",
+  "name": "Bellwether",
+  "uri": "spotify:artist:1t8CbTXoOS38BZLxuVcNlo",
+  "followers": {
+    "href": null,
+    "total": 3166
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb12ee40b362b5b806fc247c75",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517412ee40b362b5b806fc247c75",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17812ee40b362b5b806fc247c75",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1t8CbTXoOS38BZLxuVcNlo"
+  }
+}

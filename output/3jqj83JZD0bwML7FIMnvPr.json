@@ -1,0 +1,33 @@
+{
+  "id": "3jqj83JZD0bwML7FIMnvPr",
+  "name": "Kulana",
+  "uri": "spotify:artist:3jqj83JZD0bwML7FIMnvPr",
+  "followers": {
+    "href": null,
+    "total": 131
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f004d8a9efc5094c99bc79f6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f004d8a9efc5094c99bc79f6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f004d8a9efc5094c99bc79f6",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3jqj83JZD0bwML7FIMnvPr"
+  }
+}

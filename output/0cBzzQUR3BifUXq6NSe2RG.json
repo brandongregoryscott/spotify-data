@@ -1,0 +1,33 @@
+{
+  "id": "0cBzzQUR3BifUXq6NSe2RG",
+  "name": "Manhandle",
+  "uri": "spotify:artist:0cBzzQUR3BifUXq6NSe2RG",
+  "followers": {
+    "href": null,
+    "total": 75
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733af9818d251a5b20ea82544b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023af9818d251a5b20ea82544b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513af9818d251a5b20ea82544b",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0cBzzQUR3BifUXq6NSe2RG"
+  }
+}

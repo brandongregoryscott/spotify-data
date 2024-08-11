@@ -1,0 +1,33 @@
+{
+  "id": "1oCoCRsVA2XrTf5qULHRpq",
+  "name": "Bob Citrus",
+  "uri": "spotify:artist:1oCoCRsVA2XrTf5qULHRpq",
+  "followers": {
+    "href": null,
+    "total": 71
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273354701c70d225d5a96d91060",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02354701c70d225d5a96d91060",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851354701c70d225d5a96d91060",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1oCoCRsVA2XrTf5qULHRpq"
+  }
+}

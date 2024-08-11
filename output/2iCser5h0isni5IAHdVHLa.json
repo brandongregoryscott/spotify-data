@@ -1,0 +1,33 @@
+{
+  "id": "2iCser5h0isni5IAHdVHLa",
+  "name": "Turquoise Mansion",
+  "uri": "spotify:artist:2iCser5h0isni5IAHdVHLa",
+  "followers": {
+    "href": null,
+    "total": 205
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb29c861f61d84f19d3e5d67a2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517429c861f61d84f19d3e5d67a2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17829c861f61d84f19d3e5d67a2",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2iCser5h0isni5IAHdVHLa"
+  }
+}

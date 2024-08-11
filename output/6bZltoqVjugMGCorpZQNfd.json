@@ -1,0 +1,33 @@
+{
+  "id": "6bZltoqVjugMGCorpZQNfd",
+  "name": "Tha Soloist",
+  "uri": "spotify:artist:6bZltoqVjugMGCorpZQNfd",
+  "followers": {
+    "href": null,
+    "total": 493
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdffa37f457d26da9eb5b2d04",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dffa37f457d26da9eb5b2d04",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dffa37f457d26da9eb5b2d04",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6bZltoqVjugMGCorpZQNfd"
+  }
+}

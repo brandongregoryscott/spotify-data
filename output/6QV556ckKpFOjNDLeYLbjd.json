@@ -1,0 +1,33 @@
+{
+  "id": "6QV556ckKpFOjNDLeYLbjd",
+  "name": "Ricky Bobby",
+  "uri": "spotify:artist:6QV556ckKpFOjNDLeYLbjd",
+  "followers": {
+    "href": null,
+    "total": 89
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731602b779a57e5f6a0abf6f2e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021602b779a57e5f6a0abf6f2e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511602b779a57e5f6a0abf6f2e",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6QV556ckKpFOjNDLeYLbjd"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "21hQXTE0E6b7glGgSMMpUu",
+  "name": "relms",
+  "uri": "spotify:artist:21hQXTE0E6b7glGgSMMpUu",
+  "followers": {
+    "href": null,
+    "total": 46
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf9db068a7f3b03281f38582c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f9db068a7f3b03281f38582c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f9db068a7f3b03281f38582c",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/21hQXTE0E6b7glGgSMMpUu"
+  }
+}

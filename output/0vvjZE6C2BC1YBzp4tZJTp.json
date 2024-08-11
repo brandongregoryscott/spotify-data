@@ -1,0 +1,33 @@
+{
+  "id": "0vvjZE6C2BC1YBzp4tZJTp",
+  "name": "Ferry",
+  "uri": "spotify:artist:0vvjZE6C2BC1YBzp4tZJTp",
+  "followers": {
+    "href": null,
+    "total": 16830
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd824880770738a08ebd20b04",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d824880770738a08ebd20b04",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d824880770738a08ebd20b04",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0vvjZE6C2BC1YBzp4tZJTp"
+  }
+}

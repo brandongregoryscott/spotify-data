@@ -1,0 +1,33 @@
+{
+  "id": "6dIwSdnbb2L8BfKtpUQAej",
+  "name": "Agitator",
+  "uri": "spotify:artist:6dIwSdnbb2L8BfKtpUQAej",
+  "followers": {
+    "href": null,
+    "total": 769
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb43a6055ebb32c3a58fc14520",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517443a6055ebb32c3a58fc14520",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17843a6055ebb32c3a58fc14520",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6dIwSdnbb2L8BfKtpUQAej"
+  }
+}

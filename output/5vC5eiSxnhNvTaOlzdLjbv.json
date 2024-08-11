@@ -1,0 +1,33 @@
+{
+  "id": "5vC5eiSxnhNvTaOlzdLjbv",
+  "name": "Escape Artists",
+  "uri": "spotify:artist:5vC5eiSxnhNvTaOlzdLjbv",
+  "followers": {
+    "href": null,
+    "total": 255
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf5b4e8b1b393443eac62ccba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f5b4e8b1b393443eac62ccba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f5b4e8b1b393443eac62ccba",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5vC5eiSxnhNvTaOlzdLjbv"
+  }
+}

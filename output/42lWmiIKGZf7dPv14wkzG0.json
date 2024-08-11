@@ -1,0 +1,33 @@
+{
+  "id": "42lWmiIKGZf7dPv14wkzG0",
+  "name": "Twin Color",
+  "uri": "spotify:artist:42lWmiIKGZf7dPv14wkzG0",
+  "followers": {
+    "href": null,
+    "total": 422
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb160f423b5f37bcc14cd9e7be",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174160f423b5f37bcc14cd9e7be",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178160f423b5f37bcc14cd9e7be",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/42lWmiIKGZf7dPv14wkzG0"
+  }
+}

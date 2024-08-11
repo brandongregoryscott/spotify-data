@@ -1,0 +1,34 @@
+{
+  "id": "5tJwZkGyiMumm81fN1aM0p",
+  "name": "Kekkonen",
+  "uri": "spotify:artist:5tJwZkGyiMumm81fN1aM0p",
+  "followers": {
+    "href": null,
+    "total": 1811
+  },
+  "genres": [
+    "finnish dance pop",
+    "finnish hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba2f30e11fda95fe6a094b099",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a2f30e11fda95fe6a094b099",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a2f30e11fda95fe6a094b099",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5tJwZkGyiMumm81fN1aM0p"
+  }
+}

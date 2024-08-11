@@ -1,0 +1,33 @@
+{
+  "id": "0ldT4zCoqjmUnLxgLkpogp",
+  "name": "OAM-CAM",
+  "uri": "spotify:artist:0ldT4zCoqjmUnLxgLkpogp",
+  "followers": {
+    "href": null,
+    "total": 1024
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba94c4e93ca347bbc6cc759e1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a94c4e93ca347bbc6cc759e1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a94c4e93ca347bbc6cc759e1",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ldT4zCoqjmUnLxgLkpogp"
+  }
+}

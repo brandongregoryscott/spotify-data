@@ -1,0 +1,33 @@
+{
+  "id": "2Ud1gSSDQOCW05fDu5rhVG",
+  "name": "user714",
+  "uri": "spotify:artist:2Ud1gSSDQOCW05fDu5rhVG",
+  "followers": {
+    "href": null,
+    "total": 231
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27347003d02d51e34f43ef9182b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0247003d02d51e34f43ef9182b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485147003d02d51e34f43ef9182b",
+      "width": 64
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Ud1gSSDQOCW05fDu5rhVG"
+  }
+}

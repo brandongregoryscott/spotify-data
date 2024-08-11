@@ -1,0 +1,33 @@
+{
+  "id": "66acnNQH0qnzcmWh1DiE11",
+  "name": "Winningshot",
+  "uri": "spotify:artist:66acnNQH0qnzcmWh1DiE11",
+  "followers": {
+    "href": null,
+    "total": 482
+  },
+  "genres": [
+    "korean punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba6c74358befa744ff265fc75",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a6c74358befa744ff265fc75",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a6c74358befa744ff265fc75",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/66acnNQH0qnzcmWh1DiE11"
+  }
+}

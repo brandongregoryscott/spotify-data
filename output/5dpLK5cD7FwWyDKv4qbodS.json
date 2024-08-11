@@ -1,0 +1,33 @@
+{
+  "id": "5dpLK5cD7FwWyDKv4qbodS",
+  "name": "Samantha Crain",
+  "uri": "spotify:artist:5dpLK5cD7FwWyDKv4qbodS",
+  "followers": {
+    "href": null,
+    "total": 32711
+  },
+  "genres": [
+    "stomp and holler"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb57dd89faf542a378eff075ef",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517457dd89faf542a378eff075ef",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17857dd89faf542a378eff075ef",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
+  }
+}

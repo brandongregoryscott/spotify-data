@@ -1,0 +1,34 @@
+{
+  "id": "6beLuXzMKO2cWSMdy1gP7s",
+  "name": "Santo Barrio",
+  "uri": "spotify:artist:6beLuXzMKO2cWSMdy1gP7s",
+  "followers": {
+    "href": null,
+    "total": 1749
+  },
+  "genres": [
+    "punk chileno",
+    "ska chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27388bcb2c6f6a4cb9495ce3f0f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0288bcb2c6f6a4cb9495ce3f0f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485188bcb2c6f6a4cb9495ce3f0f",
+      "width": 64
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6beLuXzMKO2cWSMdy1gP7s"
+  }
+}

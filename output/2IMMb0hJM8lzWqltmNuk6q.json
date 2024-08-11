@@ -1,0 +1,33 @@
+{
+  "id": "2IMMb0hJM8lzWqltmNuk6q",
+  "name": "Ryhki",
+  "uri": "spotify:artist:2IMMb0hJM8lzWqltmNuk6q",
+  "followers": {
+    "href": null,
+    "total": 291
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb00b869f227e1139bc18fd608",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517400b869f227e1139bc18fd608",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17800b869f227e1139bc18fd608",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2IMMb0hJM8lzWqltmNuk6q"
+  }
+}

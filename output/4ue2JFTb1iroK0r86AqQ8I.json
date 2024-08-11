@@ -1,0 +1,33 @@
+{
+  "id": "4ue2JFTb1iroK0r86AqQ8I",
+  "name": "Bangover",
+  "uri": "spotify:artist:4ue2JFTb1iroK0r86AqQ8I",
+  "followers": {
+    "href": null,
+    "total": 485
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc9056ec821e8a44178c14256",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c9056ec821e8a44178c14256",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c9056ec821e8a44178c14256",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4ue2JFTb1iroK0r86AqQ8I"
+  }
+}

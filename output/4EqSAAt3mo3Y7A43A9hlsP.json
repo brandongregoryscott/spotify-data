@@ -1,0 +1,34 @@
+{
+  "id": "4EqSAAt3mo3Y7A43A9hlsP",
+  "name": "Wizzerd",
+  "uri": "spotify:artist:4EqSAAt3mo3Y7A43A9hlsP",
+  "followers": {
+    "href": null,
+    "total": 2362
+  },
+  "genres": [
+    "indie psychedelic rock",
+    "montana metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb207ff55f1d2e26c0cd65995e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174207ff55f1d2e26c0cd65995e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178207ff55f1d2e26c0cd65995e",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4EqSAAt3mo3Y7A43A9hlsP"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5nzPUdWEtj8FMCI5HEFg8o",
+  "name": "Akkilles",
+  "uri": "spotify:artist:5nzPUdWEtj8FMCI5HEFg8o",
+  "followers": {
+    "href": null,
+    "total": 1653
+  },
+  "genres": [
+    "kc indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb339f9357267fe2c7d0c97e66",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174339f9357267fe2c7d0c97e66",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178339f9357267fe2c7d0c97e66",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5nzPUdWEtj8FMCI5HEFg8o"
+  }
+}

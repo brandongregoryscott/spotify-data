@@ -1,0 +1,33 @@
+{
+  "id": "5JazaFnq1PH0HUakCZK7tZ",
+  "name": "bed",
+  "uri": "spotify:artist:5JazaFnq1PH0HUakCZK7tZ",
+  "followers": {
+    "href": null,
+    "total": 25
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbd92c4d23df7e2ebec87dc0a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bd92c4d23df7e2ebec87dc0a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bd92c4d23df7e2ebec87dc0a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5JazaFnq1PH0HUakCZK7tZ"
+  }
+}

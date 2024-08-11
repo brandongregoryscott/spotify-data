@@ -1,0 +1,33 @@
+{
+  "id": "05FbaV2QkbVQoHri4l491N",
+  "name": "amin",
+  "uri": "spotify:artist:05FbaV2QkbVQoHri4l491N",
+  "followers": {
+    "href": null,
+    "total": 15200
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb69dcad7a0f5d20991a658e54",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517469dcad7a0f5d20991a658e54",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17869dcad7a0f5d20991a658e54",
+      "width": 160
+    }
+  ],
+  "popularity": 41,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N"
+  }
+}

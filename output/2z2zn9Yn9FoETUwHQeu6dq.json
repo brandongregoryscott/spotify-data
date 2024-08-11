@@ -1,0 +1,33 @@
+{
+  "id": "2z2zn9Yn9FoETUwHQeu6dq",
+  "name": "Live Now!",
+  "uri": "spotify:artist:2z2zn9Yn9FoETUwHQeu6dq",
+  "followers": {
+    "href": null,
+    "total": 42
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb25ed9d57537c5c4a72bd06c5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517425ed9d57537c5c4a72bd06c5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17825ed9d57537c5c4a72bd06c5",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2z2zn9Yn9FoETUwHQeu6dq"
+  }
+}

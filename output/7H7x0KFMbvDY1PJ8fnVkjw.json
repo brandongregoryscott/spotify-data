@@ -1,0 +1,33 @@
+{
+  "id": "7H7x0KFMbvDY1PJ8fnVkjw",
+  "name": "omen",
+  "uri": "spotify:artist:7H7x0KFMbvDY1PJ8fnVkjw",
+  "followers": {
+    "href": null,
+    "total": 46
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27302a1da4e0b81284b9116c92e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0202a1da4e0b81284b9116c92e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485102a1da4e0b81284b9116c92e",
+      "width": 64
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7H7x0KFMbvDY1PJ8fnVkjw"
+  }
+}

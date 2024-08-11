@@ -1,0 +1,33 @@
+{
+  "id": "5JUk1csOD43qGAfl5dFnus",
+  "name": "MATOKI",
+  "uri": "spotify:artist:5JUk1csOD43qGAfl5dFnus",
+  "followers": {
+    "href": null,
+    "total": 6863
+  },
+  "genres": [
+    "pinoy shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaff4582f487e053454fa1109",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aff4582f487e053454fa1109",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aff4582f487e053454fa1109",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5JUk1csOD43qGAfl5dFnus"
+  }
+}

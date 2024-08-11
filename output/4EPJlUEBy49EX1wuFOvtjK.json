@@ -1,0 +1,36 @@
+{
+  "id": "4EPJlUEBy49EX1wuFOvtjK",
+  "name": "Becky Hill",
+  "uri": "spotify:artist:4EPJlUEBy49EX1wuFOvtjK",
+  "followers": {
+    "href": null,
+    "total": 835754
+  },
+  "genres": [
+    "pop dance",
+    "pop house",
+    "uk dance",
+    "uk pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd6f6bf343b8bf12f12dc1a25",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d6f6bf343b8bf12f12dc1a25",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d6f6bf343b8bf12f12dc1a25",
+      "width": 160
+    }
+  ],
+  "popularity": 74,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+  }
+}

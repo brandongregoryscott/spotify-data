@@ -1,0 +1,34 @@
+{
+  "id": "2tIqInS49Hrak4q0Om3BUH",
+  "name": "Negrø",
+  "uri": "spotify:artist:2tIqInS49Hrak4q0Om3BUH",
+  "followers": {
+    "href": null,
+    "total": 42571
+  },
+  "genres": [
+    "indie michoacano",
+    "mexican indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb2862da0c7f16a1627ab51fa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b2862da0c7f16a1627ab51fa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b2862da0c7f16a1627ab51fa",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2tIqInS49Hrak4q0Om3BUH"
+  }
+}

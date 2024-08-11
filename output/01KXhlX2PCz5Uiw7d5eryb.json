@@ -1,0 +1,33 @@
+{
+  "id": "01KXhlX2PCz5Uiw7d5eryb",
+  "name": "Altameda",
+  "uri": "spotify:artist:01KXhlX2PCz5Uiw7d5eryb",
+  "followers": {
+    "href": null,
+    "total": 2730
+  },
+  "genres": [
+    "edmonton indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb74534809411fb858caf316b8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517474534809411fb858caf316b8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17874534809411fb858caf316b8",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01KXhlX2PCz5Uiw7d5eryb"
+  }
+}

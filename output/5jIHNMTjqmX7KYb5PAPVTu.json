@@ -1,0 +1,33 @@
+{
+  "id": "5jIHNMTjqmX7KYb5PAPVTu",
+  "name": "Mad Complex",
+  "uri": "spotify:artist:5jIHNMTjqmX7KYb5PAPVTu",
+  "followers": {
+    "href": null,
+    "total": 145
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273320250b92c749c006056f111",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02320250b92c749c006056f111",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851320250b92c749c006056f111",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5jIHNMTjqmX7KYb5PAPVTu"
+  }
+}

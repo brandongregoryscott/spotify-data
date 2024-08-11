@@ -1,0 +1,33 @@
+{
+  "id": "6t5xnCosOLmlmQG9ZqnUJN",
+  "name": "Tena Tenpo",
+  "uri": "spotify:artist:6t5xnCosOLmlmQG9ZqnUJN",
+  "followers": {
+    "href": null,
+    "total": 2144
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1ba7c69c513a46a145106a3a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051741ba7c69c513a46a145106a3a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1781ba7c69c513a46a145106a3a",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6t5xnCosOLmlmQG9ZqnUJN"
+  }
+}

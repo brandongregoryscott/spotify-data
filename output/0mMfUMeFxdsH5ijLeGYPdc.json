@@ -1,0 +1,34 @@
+{
+  "id": "0mMfUMeFxdsH5ijLeGYPdc",
+  "name": "The Motorleague",
+  "uri": "spotify:artist:0mMfUMeFxdsH5ijLeGYPdc",
+  "followers": {
+    "href": null,
+    "total": 5539
+  },
+  "genres": [
+    "canadian rock",
+    "new brunswick indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb875f69e46d0d178527d57ed",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b875f69e46d0d178527d57ed",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b875f69e46d0d178527d57ed",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0mMfUMeFxdsH5ijLeGYPdc"
+  }
+}

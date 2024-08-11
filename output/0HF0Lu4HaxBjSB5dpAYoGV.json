@@ -1,0 +1,33 @@
+{
+  "id": "0HF0Lu4HaxBjSB5dpAYoGV",
+  "name": "ENA",
+  "uri": "spotify:artist:0HF0Lu4HaxBjSB5dpAYoGV",
+  "followers": {
+    "href": null,
+    "total": 399
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273448cb11e336c80fc6fdae936",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02448cb11e336c80fc6fdae936",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851448cb11e336c80fc6fdae936",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0HF0Lu4HaxBjSB5dpAYoGV"
+  }
+}

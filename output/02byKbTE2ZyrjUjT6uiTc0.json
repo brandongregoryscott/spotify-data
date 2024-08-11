@@ -1,0 +1,33 @@
+{
+  "id": "02byKbTE2ZyrjUjT6uiTc0",
+  "name": "Alexander Rudd",
+  "uri": "spotify:artist:02byKbTE2ZyrjUjT6uiTc0",
+  "followers": {
+    "href": null,
+    "total": 347
+  },
+  "genres": [
+    "british soundtrack"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb44dafe9bc395a02eddd27cfc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517444dafe9bc395a02eddd27cfc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17844dafe9bc395a02eddd27cfc",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/02byKbTE2ZyrjUjT6uiTc0"
+  }
+}

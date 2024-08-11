@@ -1,0 +1,33 @@
+{
+  "id": "3miFC9yziLV7ldCtDIBMky",
+  "name": "Zepidix",
+  "uri": "spotify:artist:3miFC9yziLV7ldCtDIBMky",
+  "followers": {
+    "href": null,
+    "total": 396
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb210d8e95aa0e1ab905cb80f6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174210d8e95aa0e1ab905cb80f6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178210d8e95aa0e1ab905cb80f6",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3miFC9yziLV7ldCtDIBMky"
+  }
+}

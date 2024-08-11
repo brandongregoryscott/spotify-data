@@ -1,0 +1,34 @@
+{
+  "id": "0OoVMnkWpCsxFSl1WIrzz4",
+  "name": "amphee",
+  "uri": "spotify:artist:0OoVMnkWpCsxFSl1WIrzz4",
+  "followers": {
+    "href": null,
+    "total": 2873
+  },
+  "genres": [
+    "lo-fi beats",
+    "lo-fi vgm"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb83e8cdccd4866b57e5ba6bc7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517483e8cdccd4866b57e5ba6bc7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17883e8cdccd4866b57e5ba6bc7",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0OoVMnkWpCsxFSl1WIrzz4"
+  }
+}

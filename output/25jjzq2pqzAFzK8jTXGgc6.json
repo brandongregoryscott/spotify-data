@@ -1,0 +1,33 @@
+{
+  "id": "25jjzq2pqzAFzK8jTXGgc6",
+  "name": "Somos 3",
+  "uri": "spotify:artist:25jjzq2pqzAFzK8jTXGgc6",
+  "followers": {
+    "href": null,
+    "total": 51946
+  },
+  "genres": [
+    "mexican pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdfc6def333b84bc7c828f0e2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dfc6def333b84bc7c828f0e2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dfc6def333b84bc7c828f0e2",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/25jjzq2pqzAFzK8jTXGgc6"
+  }
+}

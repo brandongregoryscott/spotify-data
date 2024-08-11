@@ -1,0 +1,33 @@
+{
+  "id": "7FVrkZcfwIc1ZwlQPatdUw",
+  "name": "See-Saw",
+  "uri": "spotify:artist:7FVrkZcfwIc1ZwlQPatdUw",
+  "followers": {
+    "href": null,
+    "total": 23740
+  },
+  "genres": [
+    "mecha"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdb662eea1c29ff25a911641c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174db662eea1c29ff25a911641c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178db662eea1c29ff25a911641c",
+      "width": 160
+    }
+  ],
+  "popularity": 41,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw"
+  }
+}

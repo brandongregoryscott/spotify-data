@@ -1,0 +1,33 @@
+{
+  "id": "268U5WSlhXDQsBoyf4psTb",
+  "name": "2 Headed Dogs",
+  "uri": "spotify:artist:268U5WSlhXDQsBoyf4psTb",
+  "followers": {
+    "href": null,
+    "total": 131
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb036fe9033d45d14c7cc57a20",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174036fe9033d45d14c7cc57a20",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178036fe9033d45d14c7cc57a20",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/268U5WSlhXDQsBoyf4psTb"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4kubwrCcS0BlAq6b9TCn7T",
+  "name": "Xzela",
+  "uri": "spotify:artist:4kubwrCcS0BlAq6b9TCn7T",
+  "followers": {
+    "href": null,
+    "total": 134
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4c79ad21e8f0c55960d53294",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744c79ad21e8f0c55960d53294",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784c79ad21e8f0c55960d53294",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4kubwrCcS0BlAq6b9TCn7T"
+  }
+}

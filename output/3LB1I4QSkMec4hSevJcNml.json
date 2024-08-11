@@ -1,0 +1,33 @@
+{
+  "id": "3LB1I4QSkMec4hSevJcNml",
+  "name": "KONG",
+  "uri": "spotify:artist:3LB1I4QSkMec4hSevJcNml",
+  "followers": {
+    "href": null,
+    "total": 776
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebef27f0b23ee5d5df78aae49a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ef27f0b23ee5d5df78aae49a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ef27f0b23ee5d5df78aae49a",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3LB1I4QSkMec4hSevJcNml"
+  }
+}

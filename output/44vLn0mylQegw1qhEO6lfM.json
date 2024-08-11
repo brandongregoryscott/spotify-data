@@ -1,0 +1,33 @@
+{
+  "id": "44vLn0mylQegw1qhEO6lfM",
+  "name": "Blue Feel",
+  "uri": "spotify:artist:44vLn0mylQegw1qhEO6lfM",
+  "followers": {
+    "href": null,
+    "total": 205
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb35aa0ffa64bf2e5ce71388fc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517435aa0ffa64bf2e5ce71388fc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17835aa0ffa64bf2e5ce71388fc",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/44vLn0mylQegw1qhEO6lfM"
+  }
+}

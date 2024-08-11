@@ -1,0 +1,33 @@
+{
+  "id": "0wQTDyeftap7DWi0pAcFl9",
+  "name": "Colectivo Colombia",
+  "uri": "spotify:artist:0wQTDyeftap7DWi0pAcFl9",
+  "followers": {
+    "href": null,
+    "total": 668
+  },
+  "genres": [
+    "jazz colombiano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738f9fa660bd35d1b5106cf148",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028f9fa660bd35d1b5106cf148",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518f9fa660bd35d1b5106cf148",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0wQTDyeftap7DWi0pAcFl9"
+  }
+}

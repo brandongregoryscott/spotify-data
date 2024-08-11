@@ -1,0 +1,33 @@
+{
+  "id": "1lAuC9RSDQ3HdZXoqDcxzO",
+  "name": "Skye",
+  "uri": "spotify:artist:1lAuC9RSDQ3HdZXoqDcxzO",
+  "followers": {
+    "href": null,
+    "total": 39
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732e3f846ea32c6db7325a4b07",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022e3f846ea32c6db7325a4b07",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512e3f846ea32c6db7325a4b07",
+      "width": 64
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1lAuC9RSDQ3HdZXoqDcxzO"
+  }
+}

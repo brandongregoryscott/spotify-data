@@ -1,0 +1,33 @@
+{
+  "id": "0ndnLLYqns8Gb0SAUAwPXG",
+  "name": "Living Pictures",
+  "uri": "spotify:artist:0ndnLLYqns8Gb0SAUAwPXG",
+  "followers": {
+    "href": null,
+    "total": 3293
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb340fa01a49b05e8d8d716dba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174340fa01a49b05e8d8d716dba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178340fa01a49b05e8d8d716dba",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ndnLLYqns8Gb0SAUAwPXG"
+  }
+}

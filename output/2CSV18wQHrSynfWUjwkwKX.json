@@ -1,0 +1,33 @@
+{
+  "id": "2CSV18wQHrSynfWUjwkwKX",
+  "name": "SAAS",
+  "uri": "spotify:artist:2CSV18wQHrSynfWUjwkwKX",
+  "followers": {
+    "href": null,
+    "total": 1759
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb38bfe3447db6867e27509ef3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517438bfe3447db6867e27509ef3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17838bfe3447db6867e27509ef3",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2CSV18wQHrSynfWUjwkwKX"
+  }
+}

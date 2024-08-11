@@ -1,0 +1,33 @@
+{
+  "id": "6muGce8lKX6FPc1MXJw4m3",
+  "name": "suroor",
+  "uri": "spotify:artist:6muGce8lKX6FPc1MXJw4m3",
+  "followers": {
+    "href": null,
+    "total": 160
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb88e84c8e1ed93037b3faa64e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517488e84c8e1ed93037b3faa64e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17888e84c8e1ed93037b3faa64e",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6muGce8lKX6FPc1MXJw4m3"
+  }
+}

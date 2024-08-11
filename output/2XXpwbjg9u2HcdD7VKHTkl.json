@@ -1,0 +1,33 @@
+{
+  "id": "2XXpwbjg9u2HcdD7VKHTkl",
+  "name": "Dead Cool",
+  "uri": "spotify:artist:2XXpwbjg9u2HcdD7VKHTkl",
+  "followers": {
+    "href": null,
+    "total": 1339
+  },
+  "genres": [
+    "modern darkwave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdd4c2ebae45c9a4533c8f58b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dd4c2ebae45c9a4533c8f58b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dd4c2ebae45c9a4533c8f58b",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2XXpwbjg9u2HcdD7VKHTkl"
+  }
+}

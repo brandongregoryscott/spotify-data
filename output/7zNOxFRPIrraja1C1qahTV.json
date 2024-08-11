@@ -1,0 +1,33 @@
+{
+  "id": "7zNOxFRPIrraja1C1qahTV",
+  "name": "Oyhra",
+  "uri": "spotify:artist:7zNOxFRPIrraja1C1qahTV",
+  "followers": {
+    "href": null,
+    "total": 123
+  },
+  "genres": [
+    "belarusian metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732b466c5be444dabe4e7e948c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022b466c5be444dabe4e7e948c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512b466c5be444dabe4e7e948c",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7zNOxFRPIrraja1C1qahTV"
+  }
+}

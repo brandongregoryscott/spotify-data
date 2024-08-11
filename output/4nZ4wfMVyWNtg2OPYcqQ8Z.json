@@ -1,0 +1,33 @@
+{
+  "id": "4nZ4wfMVyWNtg2OPYcqQ8Z",
+  "name": "FOQL",
+  "uri": "spotify:artist:4nZ4wfMVyWNtg2OPYcqQ8Z",
+  "followers": {
+    "href": null,
+    "total": 290
+  },
+  "genres": [
+    "polish experimental electronic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb75be75a6c3988bb6fb239eff",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517475be75a6c3988bb6fb239eff",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17875be75a6c3988bb6fb239eff",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4nZ4wfMVyWNtg2OPYcqQ8Z"
+  }
+}

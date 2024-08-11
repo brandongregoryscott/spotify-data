@@ -1,0 +1,33 @@
+{
+  "id": "2s7J50PetMBAiRA9vBHynx",
+  "name": "Psandwich",
+  "uri": "spotify:artist:2s7J50PetMBAiRA9vBHynx",
+  "followers": {
+    "href": null,
+    "total": 44
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27384ce86334947e2270de3aa9e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0284ce86334947e2270de3aa9e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485184ce86334947e2270de3aa9e",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2s7J50PetMBAiRA9vBHynx"
+  }
+}

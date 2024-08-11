@@ -1,0 +1,33 @@
+{
+  "id": "6kg7ExXj7lGhtR88COtKPc",
+  "name": "2Pack",
+  "uri": "spotify:artist:6kg7ExXj7lGhtR88COtKPc",
+  "followers": {
+    "href": null,
+    "total": 411
+  },
+  "genres": [
+    "norwegian pop rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb007ca27c56b9bbc59edb46d5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174007ca27c56b9bbc59edb46d5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178007ca27c56b9bbc59edb46d5",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6kg7ExXj7lGhtR88COtKPc"
+  }
+}

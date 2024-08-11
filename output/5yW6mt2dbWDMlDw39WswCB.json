@@ -1,0 +1,33 @@
+{
+  "id": "5yW6mt2dbWDMlDw39WswCB",
+  "name": "Princ€ss",
+  "uri": "spotify:artist:5yW6mt2dbWDMlDw39WswCB",
+  "followers": {
+    "href": null,
+    "total": 367
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736d4c2c72da01ae6f2db1194d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026d4c2c72da01ae6f2db1194d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516d4c2c72da01ae6f2db1194d",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5yW6mt2dbWDMlDw39WswCB"
+  }
+}

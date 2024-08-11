@@ -1,0 +1,34 @@
+{
+  "id": "6qDmksevSHEWFnazGSeLHg",
+  "name": "Pantanum",
+  "uri": "spotify:artist:6qDmksevSHEWFnazGSeLHg",
+  "followers": {
+    "href": null,
+    "total": 550
+  },
+  "genres": [
+    "brazilian stoner rock",
+    "metal paranaense"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cc82003b45d941ec75ff7372",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cc82003b45d941ec75ff7372",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cc82003b45d941ec75ff7372",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6qDmksevSHEWFnazGSeLHg"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6hXacRHlh6r4wZQsWu46UK",
+  "name": "María Celeste",
+  "uri": "spotify:artist:6hXacRHlh6r4wZQsWu46UK",
+  "followers": {
+    "href": null,
+    "total": 42
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5d5fe8ebe2bb29e577d2eed4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051745d5fe8ebe2bb29e577d2eed4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1785d5fe8ebe2bb29e577d2eed4",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6hXacRHlh6r4wZQsWu46UK"
+  }
+}

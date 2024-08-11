@@ -1,0 +1,33 @@
+{
+  "id": "2tc4lUJha3fZcqbnSOqFAW",
+  "name": "Manny.",
+  "uri": "spotify:artist:2tc4lUJha3fZcqbnSOqFAW",
+  "followers": {
+    "href": null,
+    "total": 3325
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebac13643e57e5e26b9ed1015b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ac13643e57e5e26b9ed1015b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ac13643e57e5e26b9ed1015b",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2tc4lUJha3fZcqbnSOqFAW"
+  }
+}

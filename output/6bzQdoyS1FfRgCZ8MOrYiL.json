@@ -1,0 +1,33 @@
+{
+  "id": "6bzQdoyS1FfRgCZ8MOrYiL",
+  "name": "Kero",
+  "uri": "spotify:artist:6bzQdoyS1FfRgCZ8MOrYiL",
+  "followers": {
+    "href": null,
+    "total": 831
+  },
+  "genres": [
+    "deep idm"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdef66279bbc4990953f0f0f2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174def66279bbc4990953f0f0f2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178def66279bbc4990953f0f0f2",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6bzQdoyS1FfRgCZ8MOrYiL"
+  }
+}

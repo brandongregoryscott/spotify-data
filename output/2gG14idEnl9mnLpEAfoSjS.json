@@ -1,0 +1,33 @@
+{
+  "id": "2gG14idEnl9mnLpEAfoSjS",
+  "name": "Hell Awaits",
+  "uri": "spotify:artist:2gG14idEnl9mnLpEAfoSjS",
+  "followers": {
+    "href": null,
+    "total": 73
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba594c12e29607d7627dbf611",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a594c12e29607d7627dbf611",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a594c12e29607d7627dbf611",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2gG14idEnl9mnLpEAfoSjS"
+  }
+}

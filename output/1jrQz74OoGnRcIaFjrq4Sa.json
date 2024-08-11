@@ -1,0 +1,33 @@
+{
+  "id": "1jrQz74OoGnRcIaFjrq4Sa",
+  "name": "Joyce Street",
+  "uri": "spotify:artist:1jrQz74OoGnRcIaFjrq4Sa",
+  "followers": {
+    "href": null,
+    "total": 1575
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb098828d2d5100cafaeca9530",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174098828d2d5100cafaeca9530",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178098828d2d5100cafaeca9530",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1jrQz74OoGnRcIaFjrq4Sa"
+  }
+}

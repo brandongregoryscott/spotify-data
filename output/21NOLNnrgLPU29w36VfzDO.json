@@ -1,0 +1,33 @@
+{
+  "id": "21NOLNnrgLPU29w36VfzDO",
+  "name": "NYMF",
+  "uri": "spotify:artist:21NOLNnrgLPU29w36VfzDO",
+  "followers": {
+    "href": null,
+    "total": 178
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c37688f19f2b37690695a616",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c37688f19f2b37690695a616",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c37688f19f2b37690695a616",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/21NOLNnrgLPU29w36VfzDO"
+  }
+}

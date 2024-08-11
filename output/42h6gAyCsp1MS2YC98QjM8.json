@@ -1,0 +1,33 @@
+{
+  "id": "42h6gAyCsp1MS2YC98QjM8",
+  "name": "Ebot",
+  "uri": "spotify:artist:42h6gAyCsp1MS2YC98QjM8",
+  "followers": {
+    "href": null,
+    "total": 93
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27375a4b22dcc6b9f89f7a7c87b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0275a4b22dcc6b9f89f7a7c87b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485175a4b22dcc6b9f89f7a7c87b",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/42h6gAyCsp1MS2YC98QjM8"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6DNkBmIq2VeCP4rIOp6equ",
+  "name": "Hela",
+  "uri": "spotify:artist:6DNkBmIq2VeCP4rIOp6equ",
+  "followers": {
+    "href": null,
+    "total": 1842
+  },
+  "genres": [
+    "polish alternative"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba5b32080d491120fede1088e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a5b32080d491120fede1088e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a5b32080d491120fede1088e",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6DNkBmIq2VeCP4rIOp6equ"
+  }
+}

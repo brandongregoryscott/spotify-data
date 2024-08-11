@@ -1,0 +1,33 @@
+{
+  "id": "0lUTE6qzOxQBCjbEKzAjOP",
+  "name": "Taylor Hughes",
+  "uri": "spotify:artist:0lUTE6qzOxQBCjbEKzAjOP",
+  "followers": {
+    "href": null,
+    "total": 956
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc330f93505262a1c648bacb1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c330f93505262a1c648bacb1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c330f93505262a1c648bacb1",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0lUTE6qzOxQBCjbEKzAjOP"
+  }
+}

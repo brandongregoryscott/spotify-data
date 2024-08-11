@@ -1,0 +1,33 @@
+{
+  "id": "0zPbUB0KrxbXqs35ej0f9B",
+  "name": "Leno",
+  "uri": "spotify:artist:0zPbUB0KrxbXqs35ej0f9B",
+  "followers": {
+    "href": null,
+    "total": 1318
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273abfd9df3410e5db4ca17c346",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02abfd9df3410e5db4ca17c346",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851abfd9df3410e5db4ca17c346",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0zPbUB0KrxbXqs35ej0f9B"
+  }
+}

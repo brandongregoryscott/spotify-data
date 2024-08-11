@@ -1,0 +1,33 @@
+{
+  "id": "6wNhwooRBHJN55ISn8KiNq",
+  "name": "Marc Melià",
+  "uri": "spotify:artist:6wNhwooRBHJN55ISn8KiNq",
+  "followers": {
+    "href": null,
+    "total": 1808
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe35e1975c779a09e6e50d38f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e35e1975c779a09e6e50d38f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e35e1975c779a09e6e50d38f",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6wNhwooRBHJN55ISn8KiNq"
+  }
+}

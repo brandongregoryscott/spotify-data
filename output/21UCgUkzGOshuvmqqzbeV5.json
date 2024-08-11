@@ -1,0 +1,33 @@
+{
+  "id": "21UCgUkzGOshuvmqqzbeV5",
+  "name": "Neon Novo",
+  "uri": "spotify:artist:21UCgUkzGOshuvmqqzbeV5",
+  "followers": {
+    "href": null,
+    "total": 25
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7262f9f70b8682c31c88333b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051747262f9f70b8682c31c88333b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1787262f9f70b8682c31c88333b",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/21UCgUkzGOshuvmqqzbeV5"
+  }
+}

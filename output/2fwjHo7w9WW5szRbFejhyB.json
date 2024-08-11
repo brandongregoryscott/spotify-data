@@ -1,0 +1,33 @@
+{
+  "id": "2fwjHo7w9WW5szRbFejhyB",
+  "name": "SLACK",
+  "uri": "spotify:artist:2fwjHo7w9WW5szRbFejhyB",
+  "followers": {
+    "href": null,
+    "total": 174
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27369f6fe7c5903b82d67584187",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0269f6fe7c5903b82d67584187",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485169f6fe7c5903b82d67584187",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2fwjHo7w9WW5szRbFejhyB"
+  }
+}

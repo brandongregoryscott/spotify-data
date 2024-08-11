@@ -1,0 +1,33 @@
+{
+  "id": "1fYzd3mtaUKKJPIOOiqhRI",
+  "name": "Carmelida",
+  "uri": "spotify:artist:1fYzd3mtaUKKJPIOOiqhRI",
+  "followers": {
+    "href": null,
+    "total": 86
+  },
+  "genres": [
+    "punk ecuatoriano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb69b1697e7910ba3e485560e3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517469b1697e7910ba3e485560e3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17869b1697e7910ba3e485560e3",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1fYzd3mtaUKKJPIOOiqhRI"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "78N17JZ4NPjyCNHPDfKT0g",
+  "name": "samp filtra",
+  "uri": "spotify:artist:78N17JZ4NPjyCNHPDfKT0g",
+  "followers": {
+    "href": null,
+    "total": 3017
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeb86fb7cd64f3255ff288605",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eb86fb7cd64f3255ff288605",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eb86fb7cd64f3255ff288605",
+      "width": 160
+    }
+  ],
+  "popularity": 44,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/78N17JZ4NPjyCNHPDfKT0g"
+  }
+}

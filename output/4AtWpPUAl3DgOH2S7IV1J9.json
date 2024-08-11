@@ -1,0 +1,33 @@
+{
+  "id": "4AtWpPUAl3DgOH2S7IV1J9",
+  "name": "YANAtheartist",
+  "uri": "spotify:artist:4AtWpPUAl3DgOH2S7IV1J9",
+  "followers": {
+    "href": null,
+    "total": 3475
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27341d00e108b3418e46b102ccd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f9b4f7bb2ed47f262030c057",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ba575be3d1628e137230bd41",
+      "width": 64
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4AtWpPUAl3DgOH2S7IV1J9"
+  }
+}

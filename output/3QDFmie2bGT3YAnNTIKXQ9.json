@@ -1,0 +1,33 @@
+{
+  "id": "3QDFmie2bGT3YAnNTIKXQ9",
+  "name": "Muy Poca Gente",
+  "uri": "spotify:artist:3QDFmie2bGT3YAnNTIKXQ9",
+  "followers": {
+    "href": null,
+    "total": 325
+  },
+  "genres": [
+    "musica aragonesa"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/2e64b63b519eabcc2bb9847cfff8d9d11eb8563d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/0955feac438accfaed219baa4498f9fd4e7e5c8a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/24f977103a2787e5427ba496703f6f3cf572fca0",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3QDFmie2bGT3YAnNTIKXQ9"
+  }
+}

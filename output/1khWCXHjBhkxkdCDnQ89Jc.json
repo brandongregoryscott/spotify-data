@@ -1,0 +1,33 @@
+{
+  "id": "1khWCXHjBhkxkdCDnQ89Jc",
+  "name": "Weedow",
+  "uri": "spotify:artist:1khWCXHjBhkxkdCDnQ89Jc",
+  "followers": {
+    "href": null,
+    "total": 518
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb89bc90bb95ff1da724f8e4d0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517489bc90bb95ff1da724f8e4d0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17889bc90bb95ff1da724f8e4d0",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1khWCXHjBhkxkdCDnQ89Jc"
+  }
+}

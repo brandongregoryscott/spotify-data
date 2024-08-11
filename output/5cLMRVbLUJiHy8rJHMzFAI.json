@@ -1,0 +1,33 @@
+{
+  "id": "5cLMRVbLUJiHy8rJHMzFAI",
+  "name": "Michael Millions",
+  "uri": "spotify:artist:5cLMRVbLUJiHy8rJHMzFAI",
+  "followers": {
+    "href": null,
+    "total": 884
+  },
+  "genres": [
+    "virginia hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb38271251693dc8a360b9b3cc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517438271251693dc8a360b9b3cc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17838271251693dc8a360b9b3cc",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5cLMRVbLUJiHy8rJHMzFAI"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3zQc4ru1NhlRyFuwHyCu9v",
+  "name": "Her Ex",
+  "uri": "spotify:artist:3zQc4ru1NhlRyFuwHyCu9v",
+  "followers": {
+    "href": null,
+    "total": 685
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb256631cb10501800279468cf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174256631cb10501800279468cf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178256631cb10501800279468cf",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3zQc4ru1NhlRyFuwHyCu9v"
+  }
+}

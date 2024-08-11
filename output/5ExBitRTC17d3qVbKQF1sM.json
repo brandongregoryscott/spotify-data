@@ -1,0 +1,33 @@
+{
+  "id": "5ExBitRTC17d3qVbKQF1sM",
+  "name": "MAGZ",
+  "uri": "spotify:artist:5ExBitRTC17d3qVbKQF1sM",
+  "followers": {
+    "href": null,
+    "total": 253
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf69ec4a660413b742e62f5aa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f69ec4a660413b742e62f5aa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f69ec4a660413b742e62f5aa",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ExBitRTC17d3qVbKQF1sM"
+  }
+}

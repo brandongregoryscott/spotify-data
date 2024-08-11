@@ -1,0 +1,33 @@
+{
+  "id": "61bebDre9hjK7zZ5b89cqA",
+  "name": "Tres Leches",
+  "uri": "spotify:artist:61bebDre9hjK7zZ5b89cqA",
+  "followers": {
+    "href": null,
+    "total": 1709
+  },
+  "genres": [
+    "seattle indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfb8171f4d6659d784d58f1c1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fb8171f4d6659d784d58f1c1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fb8171f4d6659d784d58f1c1",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/61bebDre9hjK7zZ5b89cqA"
+  }
+}

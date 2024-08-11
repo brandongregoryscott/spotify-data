@@ -1,0 +1,33 @@
+{
+  "id": "4wOmR6WqMrZVIsP4J1iklY",
+  "name": "GERU",
+  "uri": "spotify:artist:4wOmR6WqMrZVIsP4J1iklY",
+  "followers": {
+    "href": null,
+    "total": 2967
+  },
+  "genres": [
+    "mexican edm"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe384edc15a37336fa51fdeb8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e384edc15a37336fa51fdeb8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e384edc15a37336fa51fdeb8",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4wOmR6WqMrZVIsP4J1iklY"
+  }
+}

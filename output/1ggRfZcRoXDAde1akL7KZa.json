@@ -1,0 +1,33 @@
+{
+  "id": "1ggRfZcRoXDAde1akL7KZa",
+  "name": "Pa2k",
+  "uri": "spotify:artist:1ggRfZcRoXDAde1akL7KZa",
+  "followers": {
+    "href": null,
+    "total": 17866
+  },
+  "genres": [
+    "plugg en espanol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb58402b2f76a3b07b0dcdfa6d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517458402b2f76a3b07b0dcdfa6d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17858402b2f76a3b07b0dcdfa6d",
+      "width": 160
+    }
+  ],
+  "popularity": 45,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ggRfZcRoXDAde1akL7KZa"
+  }
+}

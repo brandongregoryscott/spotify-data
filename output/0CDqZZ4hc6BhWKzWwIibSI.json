@@ -1,0 +1,33 @@
+{
+  "id": "0CDqZZ4hc6BhWKzWwIibSI",
+  "name": "MacMalone",
+  "uri": "spotify:artist:0CDqZZ4hc6BhWKzWwIibSI",
+  "followers": {
+    "href": null,
+    "total": 482
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb036301da78171509617e5d25",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174036301da78171509617e5d25",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178036301da78171509617e5d25",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0CDqZZ4hc6BhWKzWwIibSI"
+  }
+}

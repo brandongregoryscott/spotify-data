@@ -1,0 +1,33 @@
+{
+  "id": "1g4vp5fuodWVRS47OBOYUm",
+  "name": "Jessie Brown",
+  "uri": "spotify:artist:1g4vp5fuodWVRS47OBOYUm",
+  "followers": {
+    "href": null,
+    "total": 215
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb23087693d5a6123ad099c85",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b23087693d5a6123ad099c85",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b23087693d5a6123ad099c85",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1g4vp5fuodWVRS47OBOYUm"
+  }
+}

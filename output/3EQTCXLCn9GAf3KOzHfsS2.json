@@ -1,0 +1,33 @@
+{
+  "id": "3EQTCXLCn9GAf3KOzHfsS2",
+  "name": "Cláudio Rabeca",
+  "uri": "spotify:artist:3EQTCXLCn9GAf3KOzHfsS2",
+  "followers": {
+    "href": null,
+    "total": 4617
+  },
+  "genres": [
+    "musica pernambucana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f835dbbc827859b2afb81bee",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f835dbbc827859b2afb81bee",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f835dbbc827859b2afb81bee",
+      "width": 64
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3EQTCXLCn9GAf3KOzHfsS2"
+  }
+}

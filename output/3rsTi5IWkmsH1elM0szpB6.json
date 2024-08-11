@@ -1,0 +1,33 @@
+{
+  "id": "3rsTi5IWkmsH1elM0szpB6",
+  "name": "Luna Roja",
+  "uri": "spotify:artist:3rsTi5IWkmsH1elM0szpB6",
+  "followers": {
+    "href": null,
+    "total": 40
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b7f5706e309e33340630b853",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b7f5706e309e33340630b853",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b7f5706e309e33340630b853",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3rsTi5IWkmsH1elM0szpB6"
+  }
+}

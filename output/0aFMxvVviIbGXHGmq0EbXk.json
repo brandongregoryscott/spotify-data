@@ -1,0 +1,33 @@
+{
+  "id": "0aFMxvVviIbGXHGmq0EbXk",
+  "name": "Zorn",
+  "uri": "spotify:artist:0aFMxvVviIbGXHGmq0EbXk",
+  "followers": {
+    "href": null,
+    "total": 102
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb06a37a9516f53d5c6d75696d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517406a37a9516f53d5c6d75696d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17806a37a9516f53d5c6d75696d",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0aFMxvVviIbGXHGmq0EbXk"
+  }
+}

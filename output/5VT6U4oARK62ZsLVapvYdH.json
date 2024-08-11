@@ -1,0 +1,33 @@
+{
+  "id": "5VT6U4oARK62ZsLVapvYdH",
+  "name": "Henry Clarke",
+  "uri": "spotify:artist:5VT6U4oARK62ZsLVapvYdH",
+  "followers": {
+    "href": null,
+    "total": 1694
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb5f419627d94fe13ad7f71cf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b5f419627d94fe13ad7f71cf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b5f419627d94fe13ad7f71cf",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5VT6U4oARK62ZsLVapvYdH"
+  }
+}

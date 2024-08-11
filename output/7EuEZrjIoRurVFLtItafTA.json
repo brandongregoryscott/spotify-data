@@ -1,0 +1,33 @@
+{
+  "id": "7EuEZrjIoRurVFLtItafTA",
+  "name": "MIMI",
+  "uri": "spotify:artist:7EuEZrjIoRurVFLtItafTA",
+  "followers": {
+    "href": null,
+    "total": 9483
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738f2844888397c72fe814cafe",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028f2844888397c72fe814cafe",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518f2844888397c72fe814cafe",
+      "width": 64
+    }
+  ],
+  "popularity": 39,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7EuEZrjIoRurVFLtItafTA"
+  }
+}

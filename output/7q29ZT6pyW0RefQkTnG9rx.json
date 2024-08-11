@@ -1,0 +1,34 @@
+{
+  "id": "7q29ZT6pyW0RefQkTnG9rx",
+  "name": "Antigone",
+  "uri": "spotify:artist:7q29ZT6pyW0RefQkTnG9rx",
+  "followers": {
+    "href": null,
+    "total": 15442
+  },
+  "genres": [
+    "french techno",
+    "minimal dub"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebba145cb11d8b09241b758aca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ba145cb11d8b09241b758aca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ba145cb11d8b09241b758aca",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7q29ZT6pyW0RefQkTnG9rx"
+  }
+}

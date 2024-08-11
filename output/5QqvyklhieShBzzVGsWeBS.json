@@ -1,0 +1,33 @@
+{
+  "id": "5QqvyklhieShBzzVGsWeBS",
+  "name": "zya",
+  "uri": "spotify:artist:5QqvyklhieShBzzVGsWeBS",
+  "followers": {
+    "href": null,
+    "total": 67
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d56f80df53fa6de3d616a2d8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d56f80df53fa6de3d616a2d8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d56f80df53fa6de3d616a2d8",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5QqvyklhieShBzzVGsWeBS"
+  }
+}

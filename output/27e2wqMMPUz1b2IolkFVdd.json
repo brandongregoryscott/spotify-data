@@ -1,0 +1,33 @@
+{
+  "id": "27e2wqMMPUz1b2IolkFVdd",
+  "name": "Mr. Husband",
+  "uri": "spotify:artist:27e2wqMMPUz1b2IolkFVdd",
+  "followers": {
+    "href": null,
+    "total": 537
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebccdb6d032d729a2d5823ce5e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ccdb6d032d729a2d5823ce5e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ccdb6d032d729a2d5823ce5e",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/27e2wqMMPUz1b2IolkFVdd"
+  }
+}

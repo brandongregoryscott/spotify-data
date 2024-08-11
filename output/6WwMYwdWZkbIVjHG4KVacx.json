@@ -1,0 +1,33 @@
+{
+  "id": "6WwMYwdWZkbIVjHG4KVacx",
+  "name": "Red Lokust",
+  "uri": "spotify:artist:6WwMYwdWZkbIVjHG4KVacx",
+  "followers": {
+    "href": null,
+    "total": 279
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273982ab52fa5f9fd8e2ba0b60a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02982ab52fa5f9fd8e2ba0b60a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851982ab52fa5f9fd8e2ba0b60a",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6WwMYwdWZkbIVjHG4KVacx"
+  }
+}

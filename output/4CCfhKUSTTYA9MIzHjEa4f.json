@@ -1,0 +1,33 @@
+{
+  "id": "4CCfhKUSTTYA9MIzHjEa4f",
+  "name": "Mai",
+  "uri": "spotify:artist:4CCfhKUSTTYA9MIzHjEa4f",
+  "followers": {
+    "href": null,
+    "total": 100
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb910042ab6749e4871f8ff9fb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174910042ab6749e4871f8ff9fb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178910042ab6749e4871f8ff9fb",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4CCfhKUSTTYA9MIzHjEa4f"
+  }
+}

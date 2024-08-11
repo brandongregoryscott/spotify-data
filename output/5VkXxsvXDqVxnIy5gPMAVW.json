@@ -1,0 +1,33 @@
+{
+  "id": "5VkXxsvXDqVxnIy5gPMAVW",
+  "name": "The Spelling Club",
+  "uri": "spotify:artist:5VkXxsvXDqVxnIy5gPMAVW",
+  "followers": {
+    "href": null,
+    "total": 154
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb40d01a8d660cc09f4cd34a2c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517440d01a8d660cc09f4cd34a2c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17840d01a8d660cc09f4cd34a2c",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5VkXxsvXDqVxnIy5gPMAVW"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1nr9uwf9OCDMh6aCc3e1BT",
+  "name": "Von Corleone",
+  "uri": "spotify:artist:1nr9uwf9OCDMh6aCc3e1BT",
+  "followers": {
+    "href": null,
+    "total": 855
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb207cfb7f5a8481ad380a9b5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b207cfb7f5a8481ad380a9b5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b207cfb7f5a8481ad380a9b5",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1nr9uwf9OCDMh6aCc3e1BT"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6Qr15I8JZjHazP5OWvCVJb",
+  "name": "Tempogeist",
+  "uri": "spotify:artist:6Qr15I8JZjHazP5OWvCVJb",
+  "followers": {
+    "href": null,
+    "total": 343
+  },
+  "genres": [
+    "nu disco"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d395afc7cbf7e6e8e664f7e8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d395afc7cbf7e6e8e664f7e8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d395afc7cbf7e6e8e664f7e8",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Qr15I8JZjHazP5OWvCVJb"
+  }
+}

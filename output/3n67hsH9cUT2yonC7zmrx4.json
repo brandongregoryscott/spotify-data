@@ -1,0 +1,33 @@
+{
+  "id": "3n67hsH9cUT2yonC7zmrx4",
+  "name": "ATY",
+  "uri": "spotify:artist:3n67hsH9cUT2yonC7zmrx4",
+  "followers": {
+    "href": null,
+    "total": 479
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb336c630eae504a5efbe8cfba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174336c630eae504a5efbe8cfba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178336c630eae504a5efbe8cfba",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3n67hsH9cUT2yonC7zmrx4"
+  }
+}

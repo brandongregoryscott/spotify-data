@@ -1,0 +1,33 @@
+{
+  "id": "6mCzmQmgbOUnNZ3r6syo1C",
+  "name": "Marker710",
+  "uri": "spotify:artist:6mCzmQmgbOUnNZ3r6syo1C",
+  "followers": {
+    "href": null,
+    "total": 116
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd845197b5e80f64e8e6f1b13",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d845197b5e80f64e8e6f1b13",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d845197b5e80f64e8e6f1b13",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6mCzmQmgbOUnNZ3r6syo1C"
+  }
+}

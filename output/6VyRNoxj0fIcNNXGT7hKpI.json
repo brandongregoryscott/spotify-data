@@ -1,0 +1,33 @@
+{
+  "id": "6VyRNoxj0fIcNNXGT7hKpI",
+  "name": "Linda Briceño",
+  "uri": "spotify:artist:6VyRNoxj0fIcNNXGT7hKpI",
+  "followers": {
+    "href": null,
+    "total": 1875
+  },
+  "genres": [
+    "jazz venezolano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb92a223e81f375e95c2f0f5b3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517492a223e81f375e95c2f0f5b3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17892a223e81f375e95c2f0f5b3",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6VyRNoxj0fIcNNXGT7hKpI"
+  }
+}

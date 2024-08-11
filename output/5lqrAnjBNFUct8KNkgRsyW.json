@@ -1,0 +1,33 @@
+{
+  "id": "5lqrAnjBNFUct8KNkgRsyW",
+  "name": "Altar",
+  "uri": "spotify:artist:5lqrAnjBNFUct8KNkgRsyW",
+  "followers": {
+    "href": null,
+    "total": 3783
+  },
+  "genres": [
+    "circuit"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfbd7e405707a9895af5f9003",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fbd7e405707a9895af5f9003",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fbd7e405707a9895af5f9003",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5lqrAnjBNFUct8KNkgRsyW"
+  }
+}

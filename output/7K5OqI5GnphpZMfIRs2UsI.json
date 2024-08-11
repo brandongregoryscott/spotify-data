@@ -1,0 +1,33 @@
+{
+  "id": "7K5OqI5GnphpZMfIRs2UsI",
+  "name": "Mar Lucas",
+  "uri": "spotify:artist:7K5OqI5GnphpZMfIRs2UsI",
+  "followers": {
+    "href": null,
+    "total": 30137
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5fa82c340e4cf19852daad78",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051745fa82c340e4cf19852daad78",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1785fa82c340e4cf19852daad78",
+      "width": 160
+    }
+  ],
+  "popularity": 55,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
+  }
+}

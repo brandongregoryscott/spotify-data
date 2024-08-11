@@ -1,0 +1,33 @@
+{
+  "id": "5EhwAsphmyCzzTyKExXF9y",
+  "name": "Nicholas Williams",
+  "uri": "spotify:artist:5EhwAsphmyCzzTyKExXF9y",
+  "followers": {
+    "href": null,
+    "total": 101
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273143a6ac1ebc6f20108725f87",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02143a6ac1ebc6f20108725f87",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851143a6ac1ebc6f20108725f87",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5EhwAsphmyCzzTyKExXF9y"
+  }
+}

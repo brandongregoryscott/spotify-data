@@ -1,0 +1,33 @@
+{
+  "id": "1Gzh7OUGMyvzTy2jlJx1N5",
+  "name": "Os Ingênuos",
+  "uri": "spotify:artist:1Gzh7OUGMyvzTy2jlJx1N5",
+  "followers": {
+    "href": null,
+    "total": 138
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738f22d86a0bb631def2987770",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028f22d86a0bb631def2987770",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518f22d86a0bb631def2987770",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Gzh7OUGMyvzTy2jlJx1N5"
+  }
+}

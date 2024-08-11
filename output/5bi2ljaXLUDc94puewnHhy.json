@@ -1,0 +1,33 @@
+{
+  "id": "5bi2ljaXLUDc94puewnHhy",
+  "name": "El Parcito",
+  "uri": "spotify:artist:5bi2ljaXLUDc94puewnHhy",
+  "followers": {
+    "href": null,
+    "total": 796
+  },
+  "genres": [
+    "cueca chilena"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27313de0bf304d6cf862beba54d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0213de0bf304d6cf862beba54d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485113de0bf304d6cf862beba54d",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5bi2ljaXLUDc94puewnHhy"
+  }
+}

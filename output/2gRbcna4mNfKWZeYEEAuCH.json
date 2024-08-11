@@ -1,0 +1,33 @@
+{
+  "id": "2gRbcna4mNfKWZeYEEAuCH",
+  "name": "arya",
+  "uri": "spotify:artist:2gRbcna4mNfKWZeYEEAuCH",
+  "followers": {
+    "href": null,
+    "total": 1760
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb711ddc3b6dd13c9aa107ce8d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174711ddc3b6dd13c9aa107ce8d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178711ddc3b6dd13c9aa107ce8d",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2gRbcna4mNfKWZeYEEAuCH"
+  }
+}

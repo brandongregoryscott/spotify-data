@@ -1,0 +1,33 @@
+{
+  "id": "1kAJRjMaArV5kbL7ZExu62",
+  "name": "Travolta",
+  "uri": "spotify:artist:1kAJRjMaArV5kbL7ZExu62",
+  "followers": {
+    "href": null,
+    "total": 636
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b4ab82037a316c9c8918850d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b4ab82037a316c9c8918850d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b4ab82037a316c9c8918850d",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1kAJRjMaArV5kbL7ZExu62"
+  }
+}

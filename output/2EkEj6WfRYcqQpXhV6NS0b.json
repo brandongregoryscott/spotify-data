@@ -1,0 +1,33 @@
+{
+  "id": "2EkEj6WfRYcqQpXhV6NS0b",
+  "name": "Doremi",
+  "uri": "spotify:artist:2EkEj6WfRYcqQpXhV6NS0b",
+  "followers": {
+    "href": null,
+    "total": 40
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273397237a8d5ae0b237714921d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02397237a8d5ae0b237714921d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851397237a8d5ae0b237714921d",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2EkEj6WfRYcqQpXhV6NS0b"
+  }
+}

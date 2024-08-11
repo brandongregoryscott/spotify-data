@@ -1,0 +1,33 @@
+{
+  "id": "2ESCcRJQsh3nQVwkhTbYJP",
+  "name": "Dias De Blues",
+  "uri": "spotify:artist:2ESCcRJQsh3nQVwkhTbYJP",
+  "followers": {
+    "href": null,
+    "total": 2488
+  },
+  "genres": [
+    "rock uruguayo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f9bca52a7ab9c49f6414bac2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f9bca52a7ab9c49f6414bac2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f9bca52a7ab9c49f6414bac2",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ESCcRJQsh3nQVwkhTbYJP"
+  }
+}

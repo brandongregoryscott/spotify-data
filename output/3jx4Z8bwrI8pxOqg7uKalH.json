@@ -1,0 +1,33 @@
+{
+  "id": "3jx4Z8bwrI8pxOqg7uKalH",
+  "name": "Battery",
+  "uri": "spotify:artist:3jx4Z8bwrI8pxOqg7uKalH",
+  "followers": {
+    "href": null,
+    "total": 494
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27347045350459bf9a9545909b8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0247045350459bf9a9545909b8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485147045350459bf9a9545909b8",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3jx4Z8bwrI8pxOqg7uKalH"
+  }
+}

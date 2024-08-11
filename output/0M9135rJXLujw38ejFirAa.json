@@ -1,0 +1,33 @@
+{
+  "id": "0M9135rJXLujw38ejFirAa",
+  "name": "Josh Diamond",
+  "uri": "spotify:artist:0M9135rJXLujw38ejFirAa",
+  "followers": {
+    "href": null,
+    "total": 86
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f7bfe10353749591193c3cef",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f7bfe10353749591193c3cef",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f7bfe10353749591193c3cef",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0M9135rJXLujw38ejFirAa"
+  }
+}

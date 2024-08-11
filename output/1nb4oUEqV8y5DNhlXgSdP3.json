@@ -1,0 +1,33 @@
+{
+  "id": "1nb4oUEqV8y5DNhlXgSdP3",
+  "name": "Die Seilschaft",
+  "uri": "spotify:artist:1nb4oUEqV8y5DNhlXgSdP3",
+  "followers": {
+    "href": null,
+    "total": 667
+  },
+  "genres": [
+    "ostrock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273558400650e095bc45c851b09",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02558400650e095bc45c851b09",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851558400650e095bc45c851b09",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1nb4oUEqV8y5DNhlXgSdP3"
+  }
+}

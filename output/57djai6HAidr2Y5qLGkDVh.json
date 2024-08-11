@@ -1,0 +1,33 @@
+{
+  "id": "57djai6HAidr2Y5qLGkDVh",
+  "name": "LoPi",
+  "uri": "spotify:artist:57djai6HAidr2Y5qLGkDVh",
+  "followers": {
+    "href": null,
+    "total": 43
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb357de62193754f8ef809f158",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174357de62193754f8ef809f158",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178357de62193754f8ef809f158",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/57djai6HAidr2Y5qLGkDVh"
+  }
+}

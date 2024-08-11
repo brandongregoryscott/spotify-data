@@ -1,0 +1,33 @@
+{
+  "id": "5iJ70tKBMdjtcC3ozMgSxm",
+  "name": "Nom Tunes",
+  "uri": "spotify:artist:5iJ70tKBMdjtcC3ozMgSxm",
+  "followers": {
+    "href": null,
+    "total": 16126
+  },
+  "genres": [
+    "kawaii future bass"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb1f023dafb81b9432fb0bab5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b1f023dafb81b9432fb0bab5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b1f023dafb81b9432fb0bab5",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5iJ70tKBMdjtcC3ozMgSxm"
+  }
+}

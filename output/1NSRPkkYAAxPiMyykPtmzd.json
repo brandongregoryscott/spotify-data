@@ -1,0 +1,33 @@
+{
+  "id": "1NSRPkkYAAxPiMyykPtmzd",
+  "name": "Anna Wang",
+  "uri": "spotify:artist:1NSRPkkYAAxPiMyykPtmzd",
+  "followers": {
+    "href": null,
+    "total": 255
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf4ff61aba412ea84c19ef616",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f4ff61aba412ea84c19ef616",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f4ff61aba412ea84c19ef616",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1NSRPkkYAAxPiMyykPtmzd"
+  }
+}

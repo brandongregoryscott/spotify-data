@@ -1,0 +1,33 @@
+{
+  "id": "3Xrvm9IGcJMmwMXe3qLEZO",
+  "name": "Chillaid",
+  "uri": "spotify:artist:3Xrvm9IGcJMmwMXe3qLEZO",
+  "followers": {
+    "href": null,
+    "total": 99
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbd5615df0e2260a8f1817b75",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bd5615df0e2260a8f1817b75",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bd5615df0e2260a8f1817b75",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Xrvm9IGcJMmwMXe3qLEZO"
+  }
+}

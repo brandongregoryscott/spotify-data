@@ -1,0 +1,33 @@
+{
+  "id": "1HnkWsttgLahMeX7TIcvHE",
+  "name": "Surflamingo",
+  "uri": "spotify:artist:1HnkWsttgLahMeX7TIcvHE",
+  "followers": {
+    "href": null,
+    "total": 390
+  },
+  "genres": [
+    "latin surf rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27315432995f3310fc6ac7377e9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0286129dc7c9d6ac6f94da4ff2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485115432995f3310fc6ac7377e9",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1HnkWsttgLahMeX7TIcvHE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "65EeWaAJe2bLKypuj3qwem",
+  "name": "Express",
+  "uri": "spotify:artist:65EeWaAJe2bLKypuj3qwem",
+  "followers": {
+    "href": null,
+    "total": 134
+  },
+  "genres": [
+    "australian hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731e3137c305ff69dcf82125ad",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021e3137c305ff69dcf82125ad",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511e3137c305ff69dcf82125ad",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/65EeWaAJe2bLKypuj3qwem"
+  }
+}

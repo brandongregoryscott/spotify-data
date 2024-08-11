@@ -1,0 +1,33 @@
+{
+  "id": "7o4jUmg3xAzo6IYUawh2YE",
+  "name": "Token Black",
+  "uri": "spotify:artist:7o4jUmg3xAzo6IYUawh2YE",
+  "followers": {
+    "href": null,
+    "total": 4492
+  },
+  "genres": [
+    "anime rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb517debe6f05cd8fff0bfa9ce",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174517debe6f05cd8fff0bfa9ce",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178517debe6f05cd8fff0bfa9ce",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7o4jUmg3xAzo6IYUawh2YE"
+  }
+}

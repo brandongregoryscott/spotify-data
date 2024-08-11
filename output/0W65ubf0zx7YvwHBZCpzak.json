@@ -1,0 +1,33 @@
+{
+  "id": "0W65ubf0zx7YvwHBZCpzak",
+  "name": "EKL",
+  "uri": "spotify:artist:0W65ubf0zx7YvwHBZCpzak",
+  "followers": {
+    "href": null,
+    "total": 42
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f192b9624699ca9496e16e2b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f192b9624699ca9496e16e2b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f192b9624699ca9496e16e2b",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0W65ubf0zx7YvwHBZCpzak"
+  }
+}

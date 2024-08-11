@@ -1,0 +1,33 @@
+{
+  "id": "38pzhHTZcKbXZ7xQeKb6ul",
+  "name": "LOOSE",
+  "uri": "spotify:artist:38pzhHTZcKbXZ7xQeKb6ul",
+  "followers": {
+    "href": null,
+    "total": 29
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27328d0546adb6e0e1ccaa55f5d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0228d0546adb6e0e1ccaa55f5d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485128d0546adb6e0e1ccaa55f5d",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/38pzhHTZcKbXZ7xQeKb6ul"
+  }
+}

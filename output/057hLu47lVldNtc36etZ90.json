@@ -1,0 +1,33 @@
+{
+  "id": "057hLu47lVldNtc36etZ90",
+  "name": "Súper Gegant",
+  "uri": "spotify:artist:057hLu47lVldNtc36etZ90",
+  "followers": {
+    "href": null,
+    "total": 699
+  },
+  "genres": [
+    "indie catala"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf0ffbd2797daf5eeed78d890",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f0ffbd2797daf5eeed78d890",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f0ffbd2797daf5eeed78d890",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/057hLu47lVldNtc36etZ90"
+  }
+}

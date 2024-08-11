@@ -1,0 +1,33 @@
+{
+  "id": "4jCVVgIbO1ilGC8UU03rLT",
+  "name": "yoku",
+  "uri": "spotify:artist:4jCVVgIbO1ilGC8UU03rLT",
+  "followers": {
+    "href": null,
+    "total": 72
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebca72e1f07db17c0dc5d9958e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ca72e1f07db17c0dc5d9958e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ca72e1f07db17c0dc5d9958e",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4jCVVgIbO1ilGC8UU03rLT"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5MjM5vzJrf9VOfP9v7cFuY",
+  "name": "Montek",
+  "uri": "spotify:artist:5MjM5vzJrf9VOfP9v7cFuY",
+  "followers": {
+    "href": null,
+    "total": 344
+  },
+  "genres": [
+    "schranz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273089beac26dbb1cbc88f41476",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02089beac26dbb1cbc88f41476",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851089beac26dbb1cbc88f41476",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5MjM5vzJrf9VOfP9v7cFuY"
+  }
+}

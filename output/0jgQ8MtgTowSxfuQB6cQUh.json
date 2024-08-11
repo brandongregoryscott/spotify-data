@@ -1,0 +1,33 @@
+{
+  "id": "0jgQ8MtgTowSxfuQB6cQUh",
+  "name": "Visitor",
+  "uri": "spotify:artist:0jgQ8MtgTowSxfuQB6cQUh",
+  "followers": {
+    "href": null,
+    "total": 276
+  },
+  "genres": [
+    "modern ebm"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27382c26b508762461db4ec134e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f9c4eb13fabb09cd50e88826",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f9c4eb13fabb09cd50e88826",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0jgQ8MtgTowSxfuQB6cQUh"
+  }
+}

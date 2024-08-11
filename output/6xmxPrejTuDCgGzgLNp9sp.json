@@ -1,0 +1,33 @@
+{
+  "id": "6xmxPrejTuDCgGzgLNp9sp",
+  "name": "Snow",
+  "uri": "spotify:artist:6xmxPrejTuDCgGzgLNp9sp",
+  "followers": {
+    "href": null,
+    "total": 4423
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe5e9d9f1ace672dc6d659135",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e5e9d9f1ace672dc6d659135",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e5e9d9f1ace672dc6d659135",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6xmxPrejTuDCgGzgLNp9sp"
+  }
+}

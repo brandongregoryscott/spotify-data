@@ -1,0 +1,33 @@
+{
+  "id": "5uyax2wwNysrJleiAD44ru",
+  "name": "San Jesus",
+  "uri": "spotify:artist:5uyax2wwNysrJleiAD44ru",
+  "followers": {
+    "href": null,
+    "total": 6239
+  },
+  "genres": [
+    "detroit trap brasileiro"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba79cffda62fec82945316cea",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a79cffda62fec82945316cea",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a79cffda62fec82945316cea",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5uyax2wwNysrJleiAD44ru"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3CioJ4easWhXe2RsRwwmPr",
+  "name": "Bennie",
+  "uri": "spotify:artist:3CioJ4easWhXe2RsRwwmPr",
+  "followers": {
+    "href": null,
+    "total": 2697
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebefb94e947f1601a9ecdc2867",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174efb94e947f1601a9ecdc2867",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178efb94e947f1601a9ecdc2867",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3CioJ4easWhXe2RsRwwmPr"
+  }
+}

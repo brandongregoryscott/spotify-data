@@ -1,0 +1,33 @@
+{
+  "id": "2C8yQE8zg3bCsKfRLqlAW2",
+  "name": "IVERY",
+  "uri": "spotify:artist:2C8yQE8zg3bCsKfRLqlAW2",
+  "followers": {
+    "href": null,
+    "total": 76
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf2460a8a7c6f6b76c365099c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f2460a8a7c6f6b76c365099c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f2460a8a7c6f6b76c365099c",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2C8yQE8zg3bCsKfRLqlAW2"
+  }
+}

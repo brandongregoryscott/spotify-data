@@ -1,0 +1,33 @@
+{
+  "id": "6Cnoqp3c2jvqqBBGjei2ab",
+  "name": "Gns",
+  "uri": "spotify:artist:6Cnoqp3c2jvqqBBGjei2ab",
+  "followers": {
+    "href": null,
+    "total": 5758
+  },
+  "genres": [
+    "rap cristiano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbf52a8789cf74636257d4702",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bf52a8789cf74636257d4702",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bf52a8789cf74636257d4702",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Cnoqp3c2jvqqBBGjei2ab"
+  }
+}

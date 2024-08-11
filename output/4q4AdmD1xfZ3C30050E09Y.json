@@ -1,0 +1,33 @@
+{
+  "id": "4q4AdmD1xfZ3C30050E09Y",
+  "name": "Скубут",
+  "uri": "spotify:artist:4q4AdmD1xfZ3C30050E09Y",
+  "followers": {
+    "href": null,
+    "total": 1722
+  },
+  "genres": [
+    "russian post-punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb30b7c349e5de78d23062f167",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517430b7c349e5de78d23062f167",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17830b7c349e5de78d23062f167",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4q4AdmD1xfZ3C30050E09Y"
+  }
+}

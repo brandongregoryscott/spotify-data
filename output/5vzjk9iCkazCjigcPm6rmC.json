@@ -1,0 +1,33 @@
+{
+  "id": "5vzjk9iCkazCjigcPm6rmC",
+  "name": "GUCCIGARETTE",
+  "uri": "spotify:artist:5vzjk9iCkazCjigcPm6rmC",
+  "followers": {
+    "href": null,
+    "total": 3109
+  },
+  "genres": [
+    "phonk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd86c7c9dfe49ef11a05d7a7d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d86c7c9dfe49ef11a05d7a7d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d86c7c9dfe49ef11a05d7a7d",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5vzjk9iCkazCjigcPm6rmC"
+  }
+}

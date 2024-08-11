@@ -1,0 +1,33 @@
+{
+  "id": "2YbwA4lRq7OOxMSmg0bf5U",
+  "name": "Scarfold",
+  "uri": "spotify:artist:2YbwA4lRq7OOxMSmg0bf5U",
+  "followers": {
+    "href": null,
+    "total": 185
+  },
+  "genres": [
+    "quebec punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dcadeb06b6e7aef73d7ca9c5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dcadeb06b6e7aef73d7ca9c5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dcadeb06b6e7aef73d7ca9c5",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2YbwA4lRq7OOxMSmg0bf5U"
+  }
+}

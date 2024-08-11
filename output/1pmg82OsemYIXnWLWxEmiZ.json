@@ -1,0 +1,34 @@
+{
+  "id": "1pmg82OsemYIXnWLWxEmiZ",
+  "name": "Bola De Nieve",
+  "uri": "spotify:artist:1pmg82OsemYIXnWLWxEmiZ",
+  "followers": {
+    "href": null,
+    "total": 23283
+  },
+  "genres": [
+    "musica tradicional cubana",
+    "trova"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27307d9f145dd21a4686323d798",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0207d9f145dd21a4686323d798",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485107d9f145dd21a4686323d798",
+      "width": 64
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1pmg82OsemYIXnWLWxEmiZ"
+  }
+}

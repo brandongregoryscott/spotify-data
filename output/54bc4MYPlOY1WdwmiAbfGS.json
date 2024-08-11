@@ -1,0 +1,34 @@
+{
+  "id": "54bc4MYPlOY1WdwmiAbfGS",
+  "name": "Lookin Up",
+  "uri": "spotify:artist:54bc4MYPlOY1WdwmiAbfGS",
+  "followers": {
+    "href": null,
+    "total": 271
+  },
+  "genres": [
+    "nz hardcore",
+    "nz punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfd7a9e2c00be2dd2c22bb545",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fd7a9e2c00be2dd2c22bb545",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fd7a9e2c00be2dd2c22bb545",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/54bc4MYPlOY1WdwmiAbfGS"
+  }
+}

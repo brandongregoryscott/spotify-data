@@ -1,0 +1,33 @@
+{
+  "id": "6nkpXEyK68V25HsCX7AVKb",
+  "name": "ETEREA",
+  "uri": "spotify:artist:6nkpXEyK68V25HsCX7AVKb",
+  "followers": {
+    "href": null,
+    "total": 370
+  },
+  "genres": [
+    "fallen angel"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb72bd710969f3516ba641e543",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517472bd710969f3516ba641e543",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17872bd710969f3516ba641e543",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6nkpXEyK68V25HsCX7AVKb"
+  }
+}

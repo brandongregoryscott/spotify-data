@@ -1,0 +1,33 @@
+{
+  "id": "6i4Ei7or2Kmhe4H7wv6fSU",
+  "name": "C2six",
+  "uri": "spotify:artist:6i4Ei7or2Kmhe4H7wv6fSU",
+  "followers": {
+    "href": null,
+    "total": 1024
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb39e80cf91add46e2337a6bac",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517439e80cf91add46e2337a6bac",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17839e80cf91add46e2337a6bac",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6i4Ei7or2Kmhe4H7wv6fSU"
+  }
+}

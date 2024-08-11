@@ -1,0 +1,33 @@
+{
+  "id": "78MZdCUZl9RHYuH5SUvTIP",
+  "name": "Yes Dear",
+  "uri": "spotify:artist:78MZdCUZl9RHYuH5SUvTIP",
+  "followers": {
+    "href": null,
+    "total": 710
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb185bfac9db254d6a8ca4ca9c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174185bfac9db254d6a8ca4ca9c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178185bfac9db254d6a8ca4ca9c",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/78MZdCUZl9RHYuH5SUvTIP"
+  }
+}

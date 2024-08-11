@@ -1,0 +1,33 @@
+{
+  "id": "4S1LP7hAx0XpSg4nSJKuGq",
+  "name": "Anelogi",
+  "uri": "spotify:artist:4S1LP7hAx0XpSg4nSJKuGq",
+  "followers": {
+    "href": null,
+    "total": 151
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc8500700e5c28d544ec62a21",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c8500700e5c28d544ec62a21",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c8500700e5c28d544ec62a21",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4S1LP7hAx0XpSg4nSJKuGq"
+  }
+}

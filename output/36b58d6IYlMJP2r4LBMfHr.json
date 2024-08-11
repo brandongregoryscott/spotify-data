@@ -1,0 +1,33 @@
+{
+  "id": "36b58d6IYlMJP2r4LBMfHr",
+  "name": "Sydänpuu",
+  "uri": "spotify:artist:36b58d6IYlMJP2r4LBMfHr",
+  "followers": {
+    "href": null,
+    "total": 212
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739d46518ff000cac9f1e93943",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029d46518ff000cac9f1e93943",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519d46518ff000cac9f1e93943",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/36b58d6IYlMJP2r4LBMfHr"
+  }
+}

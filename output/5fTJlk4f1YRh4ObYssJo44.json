@@ -1,0 +1,35 @@
+{
+  "id": "5fTJlk4f1YRh4ObYssJo44",
+  "name": "Silverada",
+  "uri": "spotify:artist:5fTJlk4f1YRh4ObYssJo44",
+  "followers": {
+    "href": null,
+    "total": 41482
+  },
+  "genres": [
+    "classic texas country",
+    "red dirt",
+    "roots americana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb970333ebdb0b324dccfd2cd6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174970333ebdb0b324dccfd2cd6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178970333ebdb0b324dccfd2cd6",
+      "width": 160
+    }
+  ],
+  "popularity": 43,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5fTJlk4f1YRh4ObYssJo44"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6ASSkPsPphC3dNNDJDbmJf",
+  "name": "Creative Self",
+  "uri": "spotify:artist:6ASSkPsPphC3dNNDJDbmJf",
+  "followers": {
+    "href": null,
+    "total": 2258
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfab86125d12b83060989c5f5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fab86125d12b83060989c5f5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fab86125d12b83060989c5f5",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ASSkPsPphC3dNNDJDbmJf"
+  }
+}

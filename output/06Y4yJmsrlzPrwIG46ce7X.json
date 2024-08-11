@@ -1,0 +1,35 @@
+{
+  "id": "06Y4yJmsrlzPrwIG46ce7X",
+  "name": "The Black Lillies",
+  "uri": "spotify:artist:06Y4yJmsrlzPrwIG46ce7X",
+  "followers": {
+    "href": null,
+    "total": 15188
+  },
+  "genres": [
+    "knoxville indie",
+    "new americana",
+    "southern americana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcf183a223dfc3c816c818f71",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cf183a223dfc3c816c818f71",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cf183a223dfc3c816c818f71",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/06Y4yJmsrlzPrwIG46ce7X"
+  }
+}

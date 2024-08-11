@@ -1,0 +1,33 @@
+{
+  "id": "622npgpbeV4qVEn9CNwpKM",
+  "name": "Somegirl",
+  "uri": "spotify:artist:622npgpbeV4qVEn9CNwpKM",
+  "followers": {
+    "href": null,
+    "total": 447
+  },
+  "genres": [
+    "neo-synthpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd77afbcc0a895b9d41181f4a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d77afbcc0a895b9d41181f4a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d77afbcc0a895b9d41181f4a",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/622npgpbeV4qVEn9CNwpKM"
+  }
+}

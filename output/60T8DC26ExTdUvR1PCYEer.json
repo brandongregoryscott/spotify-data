@@ -1,0 +1,33 @@
+{
+  "id": "60T8DC26ExTdUvR1PCYEer",
+  "name": "Nova Rex",
+  "uri": "spotify:artist:60T8DC26ExTdUvR1PCYEer",
+  "followers": {
+    "href": null,
+    "total": 457
+  },
+  "genres": [
+    "hard glam"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273319d5fc62774ec0651036dc1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02319d5fc62774ec0651036dc1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851319d5fc62774ec0651036dc1",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/60T8DC26ExTdUvR1PCYEer"
+  }
+}

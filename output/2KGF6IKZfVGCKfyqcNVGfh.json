@@ -1,0 +1,35 @@
+{
+  "id": "2KGF6IKZfVGCKfyqcNVGfh",
+  "name": "Antibalas",
+  "uri": "spotify:artist:2KGF6IKZfVGCKfyqcNVGfh",
+  "followers": {
+    "href": null,
+    "total": 74116
+  },
+  "genres": [
+    "afrobeat",
+    "latin afrobeat",
+    "world"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfcfde8f058c7a7e42facfe09",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fcfde8f058c7a7e42facfe09",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fcfde8f058c7a7e42facfe09",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh"
+  }
+}

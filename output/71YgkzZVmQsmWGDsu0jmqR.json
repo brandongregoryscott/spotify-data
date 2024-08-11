@@ -1,0 +1,35 @@
+{
+  "id": "71YgkzZVmQsmWGDsu0jmqR",
+  "name": "EOTO",
+  "uri": "spotify:artist:71YgkzZVmQsmWGDsu0jmqR",
+  "followers": {
+    "href": null,
+    "total": 26975
+  },
+  "genres": [
+    "jam band",
+    "jamtronica",
+    "livetronica"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273477cfb66e82ea55e50da446d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02477cfb66e82ea55e50da446d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851477cfb66e82ea55e50da446d",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/71YgkzZVmQsmWGDsu0jmqR"
+  }
+}

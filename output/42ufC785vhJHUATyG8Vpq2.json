@@ -1,0 +1,33 @@
+{
+  "id": "42ufC785vhJHUATyG8Vpq2",
+  "name": "Any Given Reason",
+  "uri": "spotify:artist:42ufC785vhJHUATyG8Vpq2",
+  "followers": {
+    "href": null,
+    "total": 142
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb021ae43c970cec69685d2baa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174021ae43c970cec69685d2baa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178021ae43c970cec69685d2baa",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/42ufC785vhJHUATyG8Vpq2"
+  }
+}

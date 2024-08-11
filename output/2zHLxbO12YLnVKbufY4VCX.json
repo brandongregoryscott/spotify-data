@@ -1,0 +1,33 @@
+{
+  "id": "2zHLxbO12YLnVKbufY4VCX",
+  "name": "Les Perres",
+  "uri": "spotify:artist:2zHLxbO12YLnVKbufY4VCX",
+  "followers": {
+    "href": null,
+    "total": 62
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfe9244298cfcf4cda7b8d212",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fe9244298cfcf4cda7b8d212",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fe9244298cfcf4cda7b8d212",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2zHLxbO12YLnVKbufY4VCX"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1L2X2sI9GoWexsIWV9XkQg",
+  "name": "Feline",
+  "uri": "spotify:artist:1L2X2sI9GoWexsIWV9XkQg",
+  "followers": {
+    "href": null,
+    "total": 337
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebad54aef0d9124c1a0c65ed96",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ad54aef0d9124c1a0c65ed96",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ad54aef0d9124c1a0c65ed96",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1L2X2sI9GoWexsIWV9XkQg"
+  }
+}

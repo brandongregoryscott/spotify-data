@@ -1,0 +1,33 @@
+{
+  "id": "4MNb4Sg2SIGiCeeNrOBObG",
+  "name": "Little Junior",
+  "uri": "spotify:artist:4MNb4Sg2SIGiCeeNrOBObG",
+  "followers": {
+    "href": null,
+    "total": 2736
+  },
+  "genres": [
+    "toronto indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb58d3097d933d2efb87f96ccf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517458d3097d933d2efb87f96ccf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17858d3097d933d2efb87f96ccf",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4MNb4Sg2SIGiCeeNrOBObG"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2e8cQfFufvGVSoEATHH8Cx",
+  "name": "Bomfim",
+  "uri": "spotify:artist:2e8cQfFufvGVSoEATHH8Cx",
+  "followers": {
+    "href": null,
+    "total": 447
+  },
+  "genres": [
+    "rock catarinense"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf0b9205b9144d57445bab639",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f0b9205b9144d57445bab639",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f0b9205b9144d57445bab639",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2e8cQfFufvGVSoEATHH8Cx"
+  }
+}

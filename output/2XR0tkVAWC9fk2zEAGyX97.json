@@ -1,0 +1,33 @@
+{
+  "id": "2XR0tkVAWC9fk2zEAGyX97",
+  "name": "Left or Right",
+  "uri": "spotify:artist:2XR0tkVAWC9fk2zEAGyX97",
+  "followers": {
+    "href": null,
+    "total": 946
+  },
+  "genres": [
+    "dunedin indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb869b4bff7fe3c833b2b29397",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174869b4bff7fe3c833b2b29397",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178869b4bff7fe3c833b2b29397",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2XR0tkVAWC9fk2zEAGyX97"
+  }
+}

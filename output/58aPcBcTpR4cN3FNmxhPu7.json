@@ -1,0 +1,33 @@
+{
+  "id": "58aPcBcTpR4cN3FNmxhPu7",
+  "name": "The Waiting List",
+  "uri": "spotify:artist:58aPcBcTpR4cN3FNmxhPu7",
+  "followers": {
+    "href": null,
+    "total": 165
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe2e2c405325b6fdc3f23fdfa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e2e2c405325b6fdc3f23fdfa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e2e2c405325b6fdc3f23fdfa",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/58aPcBcTpR4cN3FNmxhPu7"
+  }
+}

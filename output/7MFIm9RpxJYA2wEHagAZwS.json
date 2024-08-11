@@ -1,0 +1,33 @@
+{
+  "id": "7MFIm9RpxJYA2wEHagAZwS",
+  "name": "Portonovo",
+  "uri": "spotify:artist:7MFIm9RpxJYA2wEHagAZwS",
+  "followers": {
+    "href": null,
+    "total": 750
+  },
+  "genres": [
+    "spanish indie pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f0ae01acdcc8f96b055fffb7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f0ae01acdcc8f96b055fffb7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f0ae01acdcc8f96b055fffb7",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7MFIm9RpxJYA2wEHagAZwS"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0C7KQ6M6GFEcLvjtE6LmmE",
+  "name": "PARiPiA",
+  "uri": "spotify:artist:0C7KQ6M6GFEcLvjtE6LmmE",
+  "followers": {
+    "href": null,
+    "total": 112
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738759c0b0825879013fd7f223",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028759c0b0825879013fd7f223",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518759c0b0825879013fd7f223",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0C7KQ6M6GFEcLvjtE6LmmE"
+  }
+}

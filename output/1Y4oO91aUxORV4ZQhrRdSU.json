@@ -1,0 +1,33 @@
+{
+  "id": "1Y4oO91aUxORV4ZQhrRdSU",
+  "name": "Delp",
+  "uri": "spotify:artist:1Y4oO91aUxORV4ZQhrRdSU",
+  "followers": {
+    "href": null,
+    "total": 386
+  },
+  "genres": [
+    "traprun"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a134e4d3968c6a1bc1daeafc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a134e4d3968c6a1bc1daeafc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a134e4d3968c6a1bc1daeafc",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Y4oO91aUxORV4ZQhrRdSU"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "2ajlVatyUeVIlfZmaWnp8Q",
+  "name": "Binary Park",
+  "uri": "spotify:artist:2ajlVatyUeVIlfZmaWnp8Q",
+  "followers": {
+    "href": null,
+    "total": 2622
+  },
+  "genres": [
+    "cyberpunk",
+    "dark electro",
+    "electro-industrial",
+    "futurepop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730c3406c54dd5111d9bb689b1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020c3406c54dd5111d9bb689b1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510c3406c54dd5111d9bb689b1",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ajlVatyUeVIlfZmaWnp8Q"
+  }
+}

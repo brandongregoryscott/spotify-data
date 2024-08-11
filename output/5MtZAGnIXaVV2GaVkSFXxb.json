@@ -1,0 +1,34 @@
+{
+  "id": "5MtZAGnIXaVV2GaVkSFXxb",
+  "name": "Aron Burton",
+  "uri": "spotify:artist:5MtZAGnIXaVV2GaVkSFXxb",
+  "followers": {
+    "href": null,
+    "total": 1322
+  },
+  "genres": [
+    "chicago blues",
+    "electric blues"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27338872bb5fa48c113cce74f89",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0238872bb5fa48c113cce74f89",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485138872bb5fa48c113cce74f89",
+      "width": 64
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5MtZAGnIXaVV2GaVkSFXxb"
+  }
+}

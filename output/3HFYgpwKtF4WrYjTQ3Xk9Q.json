@@ -1,0 +1,33 @@
+{
+  "id": "3HFYgpwKtF4WrYjTQ3Xk9Q",
+  "name": "Farado",
+  "uri": "spotify:artist:3HFYgpwKtF4WrYjTQ3Xk9Q",
+  "followers": {
+    "href": null,
+    "total": 173
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfc4619cdaef82c4aec5fd05a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fc4619cdaef82c4aec5fd05a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fc4619cdaef82c4aec5fd05a",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3HFYgpwKtF4WrYjTQ3Xk9Q"
+  }
+}

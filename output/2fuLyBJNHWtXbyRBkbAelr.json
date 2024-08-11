@@ -1,0 +1,34 @@
+{
+  "id": "2fuLyBJNHWtXbyRBkbAelr",
+  "name": "Archaic",
+  "uri": "spotify:artist:2fuLyBJNHWtXbyRBkbAelr",
+  "followers": {
+    "href": null,
+    "total": 1316
+  },
+  "genres": [
+    "hungarian metal",
+    "hungarian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb99aa4051d60dce9fd60b672d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517499aa4051d60dce9fd60b672d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17899aa4051d60dce9fd60b672d",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2fuLyBJNHWtXbyRBkbAelr"
+  }
+}

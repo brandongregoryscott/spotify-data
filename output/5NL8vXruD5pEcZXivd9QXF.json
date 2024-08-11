@@ -1,0 +1,34 @@
+{
+  "id": "5NL8vXruD5pEcZXivd9QXF",
+  "name": "Elisa Rego",
+  "uri": "spotify:artist:5NL8vXruD5pEcZXivd9QXF",
+  "followers": {
+    "href": null,
+    "total": 19357
+  },
+  "genres": [
+    "classic venezuelan pop",
+    "venezuelan rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb205fe87899585b8c33553c01",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174205fe87899585b8c33553c01",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178205fe87899585b8c33553c01",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5NL8vXruD5pEcZXivd9QXF"
+  }
+}

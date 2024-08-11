@@ -1,0 +1,33 @@
+{
+  "id": "2SYmvaU9yUWwbsMdrsd4LX",
+  "name": "Madeleine Mayi",
+  "uri": "spotify:artist:2SYmvaU9yUWwbsMdrsd4LX",
+  "followers": {
+    "href": null,
+    "total": 2184
+  },
+  "genres": [
+    "la indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb88d838997ff85dfb6fe60609",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517488d838997ff85dfb6fe60609",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17888d838997ff85dfb6fe60609",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2SYmvaU9yUWwbsMdrsd4LX"
+  }
+}

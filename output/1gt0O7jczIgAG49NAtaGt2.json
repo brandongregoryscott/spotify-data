@@ -1,0 +1,33 @@
+{
+  "id": "1gt0O7jczIgAG49NAtaGt2",
+  "name": "agile",
+  "uri": "spotify:artist:1gt0O7jczIgAG49NAtaGt2",
+  "followers": {
+    "href": null,
+    "total": 243
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8bb28bc38a3c4dd0bedcd656",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051748bb28bc38a3c4dd0bedcd656",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1788bb28bc38a3c4dd0bedcd656",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1gt0O7jczIgAG49NAtaGt2"
+  }
+}

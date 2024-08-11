@@ -1,0 +1,33 @@
+{
+  "id": "37ceJLFZ8KPMHBIqgXOFQX",
+  "name": "lostkid",
+  "uri": "spotify:artist:37ceJLFZ8KPMHBIqgXOFQX",
+  "followers": {
+    "href": null,
+    "total": 258
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcdad6b28ee832b1f877d0d0e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cdad6b28ee832b1f877d0d0e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cdad6b28ee832b1f877d0d0e",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/37ceJLFZ8KPMHBIqgXOFQX"
+  }
+}

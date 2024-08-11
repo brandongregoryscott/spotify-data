@@ -1,0 +1,33 @@
+{
+  "id": "3o4rAN073ZRpjraMl3Ro4v",
+  "name": "MELLOW",
+  "uri": "spotify:artist:3o4rAN073ZRpjraMl3Ro4v",
+  "followers": {
+    "href": null,
+    "total": 109
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfd3728ef9760c59b62b49558",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fd3728ef9760c59b62b49558",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fd3728ef9760c59b62b49558",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3o4rAN073ZRpjraMl3Ro4v"
+  }
+}

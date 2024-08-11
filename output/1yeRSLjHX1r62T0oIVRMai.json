@@ -1,0 +1,33 @@
+{
+  "id": "1yeRSLjHX1r62T0oIVRMai",
+  "name": "nvrmnd",
+  "uri": "spotify:artist:1yeRSLjHX1r62T0oIVRMai",
+  "followers": {
+    "href": null,
+    "total": 67
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb215934a22e0c99c98fa46928",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174215934a22e0c99c98fa46928",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178215934a22e0c99c98fa46928",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1yeRSLjHX1r62T0oIVRMai"
+  }
+}

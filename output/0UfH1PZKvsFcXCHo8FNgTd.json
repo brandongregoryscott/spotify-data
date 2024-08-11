@@ -1,0 +1,33 @@
+{
+  "id": "0UfH1PZKvsFcXCHo8FNgTd",
+  "name": "tiredrnn",
+  "uri": "spotify:artist:0UfH1PZKvsFcXCHo8FNgTd",
+  "followers": {
+    "href": null,
+    "total": 387
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb96ad417c0b5a8a6eda013462",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517496ad417c0b5a8a6eda013462",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17896ad417c0b5a8a6eda013462",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0UfH1PZKvsFcXCHo8FNgTd"
+  }
+}

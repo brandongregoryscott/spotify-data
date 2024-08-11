@@ -1,0 +1,33 @@
+{
+  "id": "3jNxIeBYMqK9bZSKB4EZNe",
+  "name": "Bon Cantina",
+  "uri": "spotify:artist:3jNxIeBYMqK9bZSKB4EZNe",
+  "followers": {
+    "href": null,
+    "total": 502
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb362ba373addeb6d5e991a7be",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174362ba373addeb6d5e991a7be",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178362ba373addeb6d5e991a7be",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3jNxIeBYMqK9bZSKB4EZNe"
+  }
+}

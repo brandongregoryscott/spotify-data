@@ -1,0 +1,33 @@
+{
+  "id": "04MIqRfXYsL5etRhGl81NM",
+  "name": "Ring",
+  "uri": "spotify:artist:04MIqRfXYsL5etRhGl81NM",
+  "followers": {
+    "href": null,
+    "total": 464
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273879f3d8dc52dc0e0043ae3a3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02879f3d8dc52dc0e0043ae3a3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851879f3d8dc52dc0e0043ae3a3",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/04MIqRfXYsL5etRhGl81NM"
+  }
+}

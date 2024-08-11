@@ -1,0 +1,34 @@
+{
+  "id": "0CSX6WG03U6ZqfTo3ibKbo",
+  "name": "Subb",
+  "uri": "spotify:artist:0CSX6WG03U6ZqfTo3ibKbo",
+  "followers": {
+    "href": null,
+    "total": 2428
+  },
+  "genres": [
+    "canadian punk",
+    "quebec punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27398324ac92a07232ccf8f6daf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0298324ac92a07232ccf8f6daf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485198324ac92a07232ccf8f6daf",
+      "width": 64
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0CSX6WG03U6ZqfTo3ibKbo"
+  }
+}

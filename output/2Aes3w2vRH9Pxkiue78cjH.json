@@ -1,0 +1,33 @@
+{
+  "id": "2Aes3w2vRH9Pxkiue78cjH",
+  "name": "Kristof",
+  "uri": "spotify:artist:2Aes3w2vRH9Pxkiue78cjH",
+  "followers": {
+    "href": null,
+    "total": 1073
+  },
+  "genres": [
+    "greek indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb48bd251e9790972b2dbdebd8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517448bd251e9790972b2dbdebd8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17848bd251e9790972b2dbdebd8",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Aes3w2vRH9Pxkiue78cjH"
+  }
+}

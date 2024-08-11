@@ -1,0 +1,33 @@
+{
+  "id": "3YdW6ASVpjAxO4LWPuq1YI",
+  "name": "Benshi",
+  "uri": "spotify:artist:3YdW6ASVpjAxO4LWPuq1YI",
+  "followers": {
+    "href": null,
+    "total": 145
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebddb51e2382e3f6445684a102",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ddb51e2382e3f6445684a102",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ddb51e2382e3f6445684a102",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3YdW6ASVpjAxO4LWPuq1YI"
+  }
+}

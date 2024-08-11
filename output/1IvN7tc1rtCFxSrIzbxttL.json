@@ -1,0 +1,34 @@
+{
+  "id": "1IvN7tc1rtCFxSrIzbxttL",
+  "name": "Garcín",
+  "uri": "spotify:artist:1IvN7tc1rtCFxSrIzbxttL",
+  "followers": {
+    "href": null,
+    "total": 4544
+  },
+  "genres": [
+    "indie nica",
+    "musica nicaraguense"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd62078c02fa7550dbddf7b53",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d62078c02fa7550dbddf7b53",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d62078c02fa7550dbddf7b53",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1IvN7tc1rtCFxSrIzbxttL"
+  }
+}

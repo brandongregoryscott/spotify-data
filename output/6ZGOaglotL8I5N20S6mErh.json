@@ -1,0 +1,33 @@
+{
+  "id": "6ZGOaglotL8I5N20S6mErh",
+  "name": "Kostral One",
+  "uri": "spotify:artist:6ZGOaglotL8I5N20S6mErh",
+  "followers": {
+    "href": null,
+    "total": 91
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaf0f351435720f6df25ebc46",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174af0f351435720f6df25ebc46",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178af0f351435720f6df25ebc46",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ZGOaglotL8I5N20S6mErh"
+  }
+}

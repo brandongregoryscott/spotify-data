@@ -1,0 +1,33 @@
+{
+  "id": "08OQQWYgBnlojvgQCpoFLv",
+  "name": "dexamorte",
+  "uri": "spotify:artist:08OQQWYgBnlojvgQCpoFLv",
+  "followers": {
+    "href": null,
+    "total": 383
+  },
+  "genres": [
+    "russian hyperpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf49d65cd5061817996aeb5ad",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f49d65cd5061817996aeb5ad",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f49d65cd5061817996aeb5ad",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/08OQQWYgBnlojvgQCpoFLv"
+  }
+}

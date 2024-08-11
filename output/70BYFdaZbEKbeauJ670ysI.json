@@ -1,0 +1,35 @@
+{
+  "id": "70BYFdaZbEKbeauJ670ysI",
+  "name": "Shinedown",
+  "uri": "spotify:artist:70BYFdaZbEKbeauJ670ysI",
+  "followers": {
+    "href": null,
+    "total": 4131983
+  },
+  "genres": [
+    "alternative metal",
+    "nu metal",
+    "post-grunge"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb82203ff88a2e1bbb1278ab1b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517482203ff88a2e1bbb1278ab1b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17882203ff88a2e1bbb1278ab1b",
+      "width": 160
+    }
+  ],
+  "popularity": 71,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+  }
+}

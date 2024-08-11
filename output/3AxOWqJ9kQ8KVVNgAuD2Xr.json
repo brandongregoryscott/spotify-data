@@ -1,0 +1,34 @@
+{
+  "id": "3AxOWqJ9kQ8KVVNgAuD2Xr",
+  "name": "Gula",
+  "uri": "spotify:artist:3AxOWqJ9kQ8KVVNgAuD2Xr",
+  "followers": {
+    "href": null,
+    "total": 4263
+  },
+  "genres": [
+    "mexican pop punk",
+    "punk rock mexicano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb753cf9d3134f3e24accf582a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174753cf9d3134f3e24accf582a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178753cf9d3134f3e24accf582a",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3AxOWqJ9kQ8KVVNgAuD2Xr"
+  }
+}

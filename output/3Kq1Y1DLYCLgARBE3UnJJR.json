@@ -1,0 +1,33 @@
+{
+  "id": "3Kq1Y1DLYCLgARBE3UnJJR",
+  "name": "52Blue",
+  "uri": "spotify:artist:3Kq1Y1DLYCLgARBE3UnJJR",
+  "followers": {
+    "href": null,
+    "total": 1787
+  },
+  "genres": [
+    "german hyperpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebecddd5b548a63aff1122cb48",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ecddd5b548a63aff1122cb48",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ecddd5b548a63aff1122cb48",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Kq1Y1DLYCLgARBE3UnJJR"
+  }
+}

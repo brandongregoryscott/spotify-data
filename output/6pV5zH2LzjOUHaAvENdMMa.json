@@ -1,0 +1,33 @@
+{
+  "id": "6pV5zH2LzjOUHaAvENdMMa",
+  "name": "Neton Vega",
+  "uri": "spotify:artist:6pV5zH2LzjOUHaAvENdMMa",
+  "followers": {
+    "href": null,
+    "total": 202003
+  },
+  "genres": [
+    "corrido"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735c7365ca8cfaf7d80136c656",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ec15c3a89da4fecf7d635bd2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ec15c3a89da4fecf7d635bd2",
+      "width": 64
+    }
+  ],
+  "popularity": 78,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+  }
+}

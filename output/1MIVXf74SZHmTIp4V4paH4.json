@@ -1,0 +1,34 @@
+{
+  "id": "1MIVXf74SZHmTIp4V4paH4",
+  "name": "Mabel",
+  "uri": "spotify:artist:1MIVXf74SZHmTIp4V4paH4",
+  "followers": {
+    "href": null,
+    "total": 2025867
+  },
+  "genres": [
+    "pop",
+    "uk pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc5c0e1d109d8a876076187f1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c5c0e1d109d8a876076187f1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c5c0e1d109d8a876076187f1",
+      "width": 160
+    }
+  ],
+  "popularity": 65,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7iM5pfFvcVfl5MkBh1p5s5",
+  "name": "Manuel Kane",
+  "uri": "spotify:artist:7iM5pfFvcVfl5MkBh1p5s5",
+  "followers": {
+    "href": null,
+    "total": 719
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb508c61cbfb28593b2e3df1f4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174508c61cbfb28593b2e3df1f4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178508c61cbfb28593b2e3df1f4",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7iM5pfFvcVfl5MkBh1p5s5"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1Z1tXo76wJZHCFp2wwD4z3",
+  "name": "ビッグエディー",
+  "uri": "spotify:artist:1Z1tXo76wJZHCFp2wwD4z3",
+  "followers": {
+    "href": null,
+    "total": 333
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb55471259877d9b51d24b10b8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517455471259877d9b51d24b10b8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17855471259877d9b51d24b10b8",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Z1tXo76wJZHCFp2wwD4z3"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0V65obbIm4ysdmv3C3HcYj",
+  "name": "demz",
+  "uri": "spotify:artist:0V65obbIm4ysdmv3C3HcYj",
+  "followers": {
+    "href": null,
+    "total": 887
+  },
+  "genres": [
+    "epa dunk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebef0d25abdc6628827f43e46f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ef0d25abdc6628827f43e46f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ef0d25abdc6628827f43e46f",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj"
+  }
+}

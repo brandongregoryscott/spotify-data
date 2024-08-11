@@ -1,0 +1,33 @@
+{
+  "id": "6B2C5qiM3uC2BivJnXb1nU",
+  "name": "Biscayne",
+  "uri": "spotify:artist:6B2C5qiM3uC2BivJnXb1nU",
+  "followers": {
+    "href": null,
+    "total": 370
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb930b07c61a2a67043ab1e2e7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174930b07c61a2a67043ab1e2e7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178930b07c61a2a67043ab1e2e7",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6B2C5qiM3uC2BivJnXb1nU"
+  }
+}

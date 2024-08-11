@@ -1,0 +1,33 @@
+{
+  "id": "2FMhVD7t35JnnqunGMQFBu",
+  "name": "Vanderslice",
+  "uri": "spotify:artist:2FMhVD7t35JnnqunGMQFBu",
+  "followers": {
+    "href": null,
+    "total": 2376
+  },
+  "genres": [
+    "boom bap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb79d9687f6de95013f43391cd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517479d9687f6de95013f43391cd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17879d9687f6de95013f43391cd",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2FMhVD7t35JnnqunGMQFBu"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5unY7Cilc8v91zks2gdiTA",
+  "name": "Stereodust",
+  "uri": "spotify:artist:5unY7Cilc8v91zks2gdiTA",
+  "followers": {
+    "href": null,
+    "total": 62
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb48ba7b909fc976e58394c2df",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517448ba7b909fc976e58394c2df",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17848ba7b909fc976e58394c2df",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5unY7Cilc8v91zks2gdiTA"
+  }
+}

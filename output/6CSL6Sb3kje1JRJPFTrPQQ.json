@@ -1,0 +1,33 @@
+{
+  "id": "6CSL6Sb3kje1JRJPFTrPQQ",
+  "name": "Marie Céleste",
+  "uri": "spotify:artist:6CSL6Sb3kje1JRJPFTrPQQ",
+  "followers": {
+    "href": null,
+    "total": 1354
+  },
+  "genres": [
+    "indie quebecois"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe818e1c20e04a9f672fb31b4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e818e1c20e04a9f672fb31b4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e818e1c20e04a9f672fb31b4",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
+  }
+}

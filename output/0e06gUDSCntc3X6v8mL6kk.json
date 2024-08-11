@@ -1,0 +1,33 @@
+{
+  "id": "0e06gUDSCntc3X6v8mL6kk",
+  "name": "Kamil Kowalski",
+  "uri": "spotify:artist:0e06gUDSCntc3X6v8mL6kk",
+  "followers": {
+    "href": null,
+    "total": 744
+  },
+  "genres": [
+    "polish alternative"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb44c7159e037859d9a1647ef1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517444c7159e037859d9a1647ef1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17844c7159e037859d9a1647ef1",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+  }
+}

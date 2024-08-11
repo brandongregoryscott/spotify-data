@@ -1,0 +1,33 @@
+{
+  "id": "60qmDcvPNUBegZS9ESmbzu",
+  "name": "Scunnurt",
+  "uri": "spotify:artist:60qmDcvPNUBegZS9ESmbzu",
+  "followers": {
+    "href": null,
+    "total": 325
+  },
+  "genres": [
+    "scottish shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeb7829dc632353a10e52bb8a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eb7829dc632353a10e52bb8a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eb7829dc632353a10e52bb8a",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/60qmDcvPNUBegZS9ESmbzu"
+  }
+}

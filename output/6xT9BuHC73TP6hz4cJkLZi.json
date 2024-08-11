@@ -1,0 +1,33 @@
+{
+  "id": "6xT9BuHC73TP6hz4cJkLZi",
+  "name": "Cherrystone",
+  "uri": "spotify:artist:6xT9BuHC73TP6hz4cJkLZi",
+  "followers": {
+    "href": null,
+    "total": 41
+  },
+  "genres": [
+    "beatlesque"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737aa686d5eb7a6c243b9f5a1d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027aa686d5eb7a6c243b9f5a1d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517aa686d5eb7a6c243b9f5a1d",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6xT9BuHC73TP6hz4cJkLZi"
+  }
+}

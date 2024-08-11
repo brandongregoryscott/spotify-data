@@ -1,0 +1,33 @@
+{
+  "id": "5OBUHbuUN3im9IF0juNspC",
+  "name": "Elizabeth Rocha",
+  "uri": "spotify:artist:5OBUHbuUN3im9IF0juNspC",
+  "followers": {
+    "href": null,
+    "total": 61
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27385b8dd33114f258635975ee2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0285b8dd33114f258635975ee2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485185b8dd33114f258635975ee2",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5OBUHbuUN3im9IF0juNspC"
+  }
+}

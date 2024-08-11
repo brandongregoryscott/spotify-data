@@ -1,0 +1,33 @@
+{
+  "id": "6KXzXCAytbihhQEBybFTkB",
+  "name": "Brass",
+  "uri": "spotify:artist:6KXzXCAytbihhQEBybFTkB",
+  "followers": {
+    "href": null,
+    "total": 4611
+  },
+  "genres": [
+    "rap calme"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb070a0af98e2269ee0f1140bb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174070a0af98e2269ee0f1140bb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178070a0af98e2269ee0f1140bb",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6KXzXCAytbihhQEBybFTkB"
+  }
+}

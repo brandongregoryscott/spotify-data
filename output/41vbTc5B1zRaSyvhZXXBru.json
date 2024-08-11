@@ -1,0 +1,33 @@
+{
+  "id": "41vbTc5B1zRaSyvhZXXBru",
+  "name": "Fren",
+  "uri": "spotify:artist:41vbTc5B1zRaSyvhZXXBru",
+  "followers": {
+    "href": null,
+    "total": 808
+  },
+  "genres": [
+    "modern progressive rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb22dc7c010e1a17050fc7a040",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517422dc7c010e1a17050fc7a040",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17822dc7c010e1a17050fc7a040",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/41vbTc5B1zRaSyvhZXXBru"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2CuWylxyCSkPnciTWGiUyw",
+  "name": "strvtos",
+  "uri": "spotify:artist:2CuWylxyCSkPnciTWGiUyw",
+  "followers": {
+    "href": null,
+    "total": 150
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb11e2ad077934cd568082c60b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517411e2ad077934cd568082c60b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17811e2ad077934cd568082c60b",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2CuWylxyCSkPnciTWGiUyw"
+  }
+}

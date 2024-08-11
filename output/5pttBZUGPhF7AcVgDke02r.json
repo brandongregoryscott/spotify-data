@@ -1,0 +1,34 @@
+{
+  "id": "5pttBZUGPhF7AcVgDke02r",
+  "name": "Wildstreet",
+  "uri": "spotify:artist:5pttBZUGPhF7AcVgDke02r",
+  "followers": {
+    "href": null,
+    "total": 17523
+  },
+  "genres": [
+    "new wave of glam metal",
+    "sleaze rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd7ffff2a5eef721ace703adc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d7ffff2a5eef721ace703adc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d7ffff2a5eef721ace703adc",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5pttBZUGPhF7AcVgDke02r"
+  }
+}

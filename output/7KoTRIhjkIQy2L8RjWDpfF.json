@@ -1,0 +1,33 @@
+{
+  "id": "7KoTRIhjkIQy2L8RjWDpfF",
+  "name": "Fern.",
+  "uri": "spotify:artist:7KoTRIhjkIQy2L8RjWDpfF",
+  "followers": {
+    "href": null,
+    "total": 104265
+  },
+  "genres": [
+    "pinoy indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfd17571fe0181e5dea6bdadf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fd17571fe0181e5dea6bdadf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fd17571fe0181e5dea6bdadf",
+      "width": 160
+    }
+  ],
+  "popularity": 39,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
+  }
+}

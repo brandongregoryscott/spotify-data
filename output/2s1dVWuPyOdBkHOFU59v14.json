@@ -1,0 +1,33 @@
+{
+  "id": "2s1dVWuPyOdBkHOFU59v14",
+  "name": "Richard Cejer",
+  "uri": "spotify:artist:2s1dVWuPyOdBkHOFU59v14",
+  "followers": {
+    "href": null,
+    "total": 785
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcccfe4c1bc6fdb1c7310f7a0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cccfe4c1bc6fdb1c7310f7a0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cccfe4c1bc6fdb1c7310f7a0",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2s1dVWuPyOdBkHOFU59v14"
+  }
+}

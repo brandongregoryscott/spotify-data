@@ -1,0 +1,33 @@
+{
+  "id": "2NH9bxgdWszg3tCldN9Elp",
+  "name": "White Harbor",
+  "uri": "spotify:artist:2NH9bxgdWszg3tCldN9Elp",
+  "followers": {
+    "href": null,
+    "total": 1490
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe1ba7e8241b8fa7adf332a17",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e1ba7e8241b8fa7adf332a17",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e1ba7e8241b8fa7adf332a17",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2NH9bxgdWszg3tCldN9Elp"
+  }
+}

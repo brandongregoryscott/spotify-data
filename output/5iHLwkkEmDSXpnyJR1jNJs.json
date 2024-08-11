@@ -1,0 +1,33 @@
+{
+  "id": "5iHLwkkEmDSXpnyJR1jNJs",
+  "name": "Ellie Williams",
+  "uri": "spotify:artist:5iHLwkkEmDSXpnyJR1jNJs",
+  "followers": {
+    "href": null,
+    "total": 15909
+  },
+  "genres": [
+    "gen z singer-songwriter"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd3a4dc837fdfe42d22a6011a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d3a4dc837fdfe42d22a6011a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d3a4dc837fdfe42d22a6011a",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5iHLwkkEmDSXpnyJR1jNJs"
+  }
+}

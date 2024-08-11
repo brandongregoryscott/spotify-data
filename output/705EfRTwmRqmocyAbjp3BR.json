@@ -1,0 +1,33 @@
+{
+  "id": "705EfRTwmRqmocyAbjp3BR",
+  "name": "dogworld",
+  "uri": "spotify:artist:705EfRTwmRqmocyAbjp3BR",
+  "followers": {
+    "href": null,
+    "total": 486
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfd2bfb532a8f3822c90ef90b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fd2bfb532a8f3822c90ef90b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fd2bfb532a8f3822c90ef90b",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/705EfRTwmRqmocyAbjp3BR"
+  }
+}

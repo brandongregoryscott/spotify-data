@@ -1,0 +1,33 @@
+{
+  "id": "27usvNLOS8g82SrM6XomUu",
+  "name": "JOINA",
+  "uri": "spotify:artist:27usvNLOS8g82SrM6XomUu",
+  "followers": {
+    "href": null,
+    "total": 1340
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcae74e688bb8035324c46481",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cae74e688bb8035324c46481",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cae74e688bb8035324c46481",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/27usvNLOS8g82SrM6XomUu"
+  }
+}

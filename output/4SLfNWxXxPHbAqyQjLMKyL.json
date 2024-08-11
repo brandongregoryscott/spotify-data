@@ -1,0 +1,33 @@
+{
+  "id": "4SLfNWxXxPHbAqyQjLMKyL",
+  "name": "Mark Insley",
+  "uri": "spotify:artist:4SLfNWxXxPHbAqyQjLMKyL",
+  "followers": {
+    "href": null,
+    "total": 100
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27338c286b849a39fe37e0d3a12",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0238c286b849a39fe37e0d3a12",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485138c286b849a39fe37e0d3a12",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4SLfNWxXxPHbAqyQjLMKyL"
+  }
+}

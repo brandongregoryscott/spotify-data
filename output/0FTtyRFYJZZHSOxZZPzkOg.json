@@ -1,0 +1,33 @@
+{
+  "id": "0FTtyRFYJZZHSOxZZPzkOg",
+  "name": "Mama Magnolia",
+  "uri": "spotify:artist:0FTtyRFYJZZHSOxZZPzkOg",
+  "followers": {
+    "href": null,
+    "total": 1853
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb063e687b0d8f41752e90d0b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b063e687b0d8f41752e90d0b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b063e687b0d8f41752e90d0b",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0FTtyRFYJZZHSOxZZPzkOg"
+  }
+}

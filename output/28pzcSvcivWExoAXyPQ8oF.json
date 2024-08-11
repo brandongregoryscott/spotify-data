@@ -1,0 +1,33 @@
+{
+  "id": "28pzcSvcivWExoAXyPQ8oF",
+  "name": "Лунар",
+  "uri": "spotify:artist:28pzcSvcivWExoAXyPQ8oF",
+  "followers": {
+    "href": null,
+    "total": 1467
+  },
+  "genres": [
+    "ukrainian post-punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb452d7ba9b96fbf65306b56ed",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174452d7ba9b96fbf65306b56ed",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178452d7ba9b96fbf65306b56ed",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/28pzcSvcivWExoAXyPQ8oF"
+  }
+}
