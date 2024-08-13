@@ -1,0 +1,33 @@
+{
+  "id": "6MwwUAN4kN0umzSH7w6y93",
+  "name": "Alice Chater",
+  "uri": "spotify:artist:6MwwUAN4kN0umzSH7w6y93",
+  "followers": {
+    "href": null,
+    "total": 49364
+  },
+  "genres": [
+    "uk pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe64db938e5e8929337ef62db",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e64db938e5e8929337ef62db",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e64db938e5e8929337ef62db",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6MwwUAN4kN0umzSH7w6y93"
+  }
+}

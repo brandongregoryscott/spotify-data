@@ -1,0 +1,33 @@
+{
+  "id": "6FnFqyWPgyIkPWxdwO3GDN",
+  "name": "Paul Monnin",
+  "uri": "spotify:artist:6FnFqyWPgyIkPWxdwO3GDN",
+  "followers": {
+    "href": null,
+    "total": 25
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf30cd31b59605834b2b9be09",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f30cd31b59605834b2b9be09",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f30cd31b59605834b2b9be09",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6FnFqyWPgyIkPWxdwO3GDN"
+  }
+}

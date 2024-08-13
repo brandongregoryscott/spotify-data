@@ -1,0 +1,33 @@
+{
+  "id": "5JfInUnFqyERN793FFNjZt",
+  "name": "Los Hidalguenses",
+  "uri": "spotify:artist:5JfInUnFqyERN793FFNjZt",
+  "followers": {
+    "href": null,
+    "total": 660
+  },
+  "genres": [
+    "trio huasteco"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730f1e57730e9bf78a21fb1599",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cfe343a3d610a1b8bfb49518",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510f1e57730e9bf78a21fb1599",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5JfInUnFqyERN793FFNjZt"
+  }
+}

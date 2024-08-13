@@ -1,0 +1,33 @@
+{
+  "id": "5AN8Y8vhyqfc9SM43dfwYU",
+  "name": "Kommando",
+  "uri": "spotify:artist:5AN8Y8vhyqfc9SM43dfwYU",
+  "followers": {
+    "href": null,
+    "total": 165
+  },
+  "genres": [
+    "power electronics"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d31a7f3b25e1f36d736f5392",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d31a7f3b25e1f36d736f5392",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d31a7f3b25e1f36d736f5392",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5AN8Y8vhyqfc9SM43dfwYU"
+  }
+}

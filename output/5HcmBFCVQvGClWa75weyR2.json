@@ -1,0 +1,33 @@
+{
+  "id": "5HcmBFCVQvGClWa75weyR2",
+  "name": "Theopsya",
+  "uri": "spotify:artist:5HcmBFCVQvGClWa75weyR2",
+  "followers": {
+    "href": null,
+    "total": 175
+  },
+  "genres": [
+    "fallen angel"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e562b2aa8c00dee1284d101d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e562b2aa8c00dee1284d101d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e562b2aa8c00dee1284d101d",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5HcmBFCVQvGClWa75weyR2"
+  }
+}

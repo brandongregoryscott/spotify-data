@@ -1,0 +1,33 @@
+{
+  "id": "70psacNWL8yL2MPne6sgaB",
+  "name": "Wamba",
+  "uri": "spotify:artist:70psacNWL8yL2MPne6sgaB",
+  "followers": {
+    "href": null,
+    "total": 60409
+  },
+  "genres": [
+    "colombian pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdf2c114cfe6a9dbc410334cd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174df2c114cfe6a9dbc410334cd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178df2c114cfe6a9dbc410334cd",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/70psacNWL8yL2MPne6sgaB"
+  }
+}

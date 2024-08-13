@@ -1,0 +1,33 @@
+{
+  "id": "2LpXa2oli1CgvCSlHYARug",
+  "name": "All She Wrote",
+  "uri": "spotify:artist:2LpXa2oli1CgvCSlHYARug",
+  "followers": {
+    "href": null,
+    "total": 198
+  },
+  "genres": [
+    "easycore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb851769c038d6306cd89fa609",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174851769c038d6306cd89fa609",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178851769c038d6306cd89fa609",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2LpXa2oli1CgvCSlHYARug"
+  }
+}

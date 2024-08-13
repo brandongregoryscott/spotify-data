@@ -1,0 +1,33 @@
+{
+  "id": "3m3pcFpDxICEhn7SDLXPzb",
+  "name": "James Franchise",
+  "uri": "spotify:artist:3m3pcFpDxICEhn7SDLXPzb",
+  "followers": {
+    "href": null,
+    "total": 3054
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf8aae9b1c09f390c87ce0d7a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f8aae9b1c09f390c87ce0d7a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f8aae9b1c09f390c87ce0d7a",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3m3pcFpDxICEhn7SDLXPzb"
+  }
+}

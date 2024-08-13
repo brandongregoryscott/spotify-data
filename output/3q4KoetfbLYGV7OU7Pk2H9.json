@@ -1,0 +1,33 @@
+{
+  "id": "3q4KoetfbLYGV7OU7Pk2H9",
+  "name": "Levia",
+  "uri": "spotify:artist:3q4KoetfbLYGV7OU7Pk2H9",
+  "followers": {
+    "href": null,
+    "total": 196
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdea0fea2b98ef11744faea12",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dea0fea2b98ef11744faea12",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dea0fea2b98ef11744faea12",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3q4KoetfbLYGV7OU7Pk2H9"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "58QtT72IwrKii9TYqAhY3A",
+  "name": "Okay",
+  "uri": "spotify:artist:58QtT72IwrKii9TYqAhY3A",
+  "followers": {
+    "href": null,
+    "total": 3824
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738e45d325e1f11ee2ba770456",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028e45d325e1f11ee2ba770456",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518e45d325e1f11ee2ba770456",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/58QtT72IwrKii9TYqAhY3A"
+  }
+}

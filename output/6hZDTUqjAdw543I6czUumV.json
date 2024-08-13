@@ -1,0 +1,33 @@
+{
+  "id": "6hZDTUqjAdw543I6czUumV",
+  "name": "Dim Sum",
+  "uri": "spotify:artist:6hZDTUqjAdw543I6czUumV",
+  "followers": {
+    "href": null,
+    "total": 6148
+  },
+  "genres": [
+    "new french touch"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb63268747d11a9ca644764349",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517463268747d11a9ca644764349",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17863268747d11a9ca644764349",
+      "width": 160
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6hZDTUqjAdw543I6czUumV"
+  }
+}

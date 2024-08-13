@@ -1,0 +1,33 @@
+{
+  "id": "42VnCumTGMZkImjym4Bc4A",
+  "name": "Iambia",
+  "uri": "spotify:artist:42VnCumTGMZkImjym4Bc4A",
+  "followers": {
+    "href": null,
+    "total": 606
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273558107fab4633c9e68011435",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02558107fab4633c9e68011435",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851558107fab4633c9e68011435",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/42VnCumTGMZkImjym4Bc4A"
+  }
+}

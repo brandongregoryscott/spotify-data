@@ -1,0 +1,33 @@
+{
+  "id": "5PMZb565NBrzfkLnHLgVqh",
+  "name": "Maurito",
+  "uri": "spotify:artist:5PMZb565NBrzfkLnHLgVqh",
+  "followers": {
+    "href": null,
+    "total": 2067
+  },
+  "genres": [
+    "manso indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb44f3500847ea4d15dfe547b6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517444f3500847ea4d15dfe547b6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17844f3500847ea4d15dfe547b6",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5PMZb565NBrzfkLnHLgVqh"
+  }
+}

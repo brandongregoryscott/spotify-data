@@ -1,0 +1,33 @@
+{
+  "id": "7MEWwnle3nSTcch8TvFvpM",
+  "name": "Invertor",
+  "uri": "spotify:artist:7MEWwnle3nSTcch8TvFvpM",
+  "followers": {
+    "href": null,
+    "total": 7075
+  },
+  "genres": [
+    "russian metalcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb42f8878b32ee2c49ce75a537",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517442f8878b32ee2c49ce75a537",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17842f8878b32ee2c49ce75a537",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7MEWwnle3nSTcch8TvFvpM"
+  }
+}

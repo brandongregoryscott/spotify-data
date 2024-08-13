@@ -1,0 +1,33 @@
+{
+  "id": "4OmQBmzk5dKNjkC5MaBAzK",
+  "name": "Zzay",
+  "uri": "spotify:artist:4OmQBmzk5dKNjkC5MaBAzK",
+  "followers": {
+    "href": null,
+    "total": 1352
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd546961d1fe29fa736cc9514",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d546961d1fe29fa736cc9514",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d546961d1fe29fa736cc9514",
+      "width": 160
+    }
+  ],
+  "popularity": 27,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4OmQBmzk5dKNjkC5MaBAzK"
+  }
+}

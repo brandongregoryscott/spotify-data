@@ -1,0 +1,33 @@
+{
+  "id": "3Lg1lgdQKflXAP0mPk9yv5",
+  "name": "Dmitry Spirin",
+  "uri": "spotify:artist:3Lg1lgdQKflXAP0mPk9yv5",
+  "followers": {
+    "href": null,
+    "total": 550
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb67e23af789ff5bc733555f4d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517467e23af789ff5bc733555f4d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17867e23af789ff5bc733555f4d",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Lg1lgdQKflXAP0mPk9yv5"
+  }
+}

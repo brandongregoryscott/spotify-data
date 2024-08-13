@@ -1,0 +1,33 @@
+{
+  "id": "4IIdlBzAIBdUxvc8KZqnjZ",
+  "name": "N0NAME",
+  "uri": "spotify:artist:4IIdlBzAIBdUxvc8KZqnjZ",
+  "followers": {
+    "href": null,
+    "total": 541
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcbdd47b7514a7925830845be",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cbdd47b7514a7925830845be",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cbdd47b7514a7925830845be",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4IIdlBzAIBdUxvc8KZqnjZ"
+  }
+}

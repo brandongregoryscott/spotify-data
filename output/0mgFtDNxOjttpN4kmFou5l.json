@@ -1,0 +1,33 @@
+{
+  "id": "0mgFtDNxOjttpN4kmFou5l",
+  "name": "David's Lyre",
+  "uri": "spotify:artist:0mgFtDNxOjttpN4kmFou5l",
+  "followers": {
+    "href": null,
+    "total": 1194
+  },
+  "genres": [
+    "metropopolis"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27334c50e29cb57c6b7a66e7490",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0234c50e29cb57c6b7a66e7490",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485134c50e29cb57c6b7a66e7490",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0mgFtDNxOjttpN4kmFou5l"
+  }
+}

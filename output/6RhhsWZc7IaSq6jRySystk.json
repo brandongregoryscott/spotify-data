@@ -1,0 +1,33 @@
+{
+  "id": "6RhhsWZc7IaSq6jRySystk",
+  "name": "Action Now",
+  "uri": "spotify:artist:6RhhsWZc7IaSq6jRySystk",
+  "followers": {
+    "href": null,
+    "total": 112
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734f1305ed1c1b52c5432726a9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024f1305ed1c1b52c5432726a9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514f1305ed1c1b52c5432726a9",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6RhhsWZc7IaSq6jRySystk"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0xDsChwpjgFc48LU3p1Fzy",
+  "name": "Carol Deene",
+  "uri": "spotify:artist:0xDsChwpjgFc48LU3p1Fzy",
+  "followers": {
+    "href": null,
+    "total": 280
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27314d2f046958231ea71684734",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0214d2f046958231ea71684734",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485114d2f046958231ea71684734",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0xDsChwpjgFc48LU3p1Fzy"
+  }
+}

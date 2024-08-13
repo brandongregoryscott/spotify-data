@@ -1,0 +1,34 @@
+{
+  "id": "2KE8FLLndNqFDiNJtfBNLt",
+  "name": "Sraigės efektas",
+  "uri": "spotify:artist:2KE8FLLndNqFDiNJtfBNLt",
+  "followers": {
+    "href": null,
+    "total": 1697
+  },
+  "genres": [
+    "baltic post-punk",
+    "lithuanian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb29d7b94923db957cb42375bf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517429d7b94923db957cb42375bf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17829d7b94923db957cb42375bf",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2KE8FLLndNqFDiNJtfBNLt"
+  }
+}

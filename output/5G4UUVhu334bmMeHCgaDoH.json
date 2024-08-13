@@ -1,0 +1,33 @@
+{
+  "id": "5G4UUVhu334bmMeHCgaDoH",
+  "name": "Titán",
+  "uri": "spotify:artist:5G4UUVhu334bmMeHCgaDoH",
+  "followers": {
+    "href": null,
+    "total": 809
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd8c112ac719a5687d6de0896",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d8c112ac719a5687d6de0896",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d8c112ac719a5687d6de0896",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5G4UUVhu334bmMeHCgaDoH"
+  }
+}

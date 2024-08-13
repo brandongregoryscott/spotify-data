@@ -1,0 +1,33 @@
+{
+  "id": "2mkJ8tKKT5UZCdG3plapgK",
+  "name": "jikolas",
+  "uri": "spotify:artist:2mkJ8tKKT5UZCdG3plapgK",
+  "followers": {
+    "href": null,
+    "total": 42
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf6bae2af9d86b2d101f33202",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f6bae2af9d86b2d101f33202",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f6bae2af9d86b2d101f33202",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2mkJ8tKKT5UZCdG3plapgK"
+  }
+}

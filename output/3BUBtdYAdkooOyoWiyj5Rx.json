@@ -1,0 +1,33 @@
+{
+  "id": "3BUBtdYAdkooOyoWiyj5Rx",
+  "name": "smallways.",
+  "uri": "spotify:artist:3BUBtdYAdkooOyoWiyj5Rx",
+  "followers": {
+    "href": null,
+    "total": 103
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba52e523b906cdafbec66db36",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a52e523b906cdafbec66db36",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a52e523b906cdafbec66db36",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3BUBtdYAdkooOyoWiyj5Rx"
+  }
+}

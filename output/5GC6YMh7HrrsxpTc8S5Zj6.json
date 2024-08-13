@@ -1,0 +1,33 @@
+{
+  "id": "5GC6YMh7HrrsxpTc8S5Zj6",
+  "name": "UserGhost",
+  "uri": "spotify:artist:5GC6YMh7HrrsxpTc8S5Zj6",
+  "followers": {
+    "href": null,
+    "total": 119
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb023f801872f1df1322b83671",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174023f801872f1df1322b83671",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178023f801872f1df1322b83671",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5GC6YMh7HrrsxpTc8S5Zj6"
+  }
+}

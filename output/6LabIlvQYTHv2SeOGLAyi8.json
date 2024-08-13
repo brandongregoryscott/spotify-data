@@ -1,0 +1,33 @@
+{
+  "id": "6LabIlvQYTHv2SeOGLAyi8",
+  "name": "Topo Nlaksa",
+  "uri": "spotify:artist:6LabIlvQYTHv2SeOGLAyi8",
+  "followers": {
+    "href": null,
+    "total": 123
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736deac93c8dd9fa1c3cb8785c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026deac93c8dd9fa1c3cb8785c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516deac93c8dd9fa1c3cb8785c",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6LabIlvQYTHv2SeOGLAyi8"
+  }
+}

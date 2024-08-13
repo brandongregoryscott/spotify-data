@@ -1,0 +1,33 @@
+{
+  "id": "1wjlcIh05ZHl7FMa078jHG",
+  "name": "lil emilio",
+  "uri": "spotify:artist:1wjlcIh05ZHl7FMa078jHG",
+  "followers": {
+    "href": null,
+    "total": 50
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27334193bbd1e156e553f2460fe",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0234193bbd1e156e553f2460fe",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485134193bbd1e156e553f2460fe",
+      "width": 64
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1wjlcIh05ZHl7FMa078jHG"
+  }
+}

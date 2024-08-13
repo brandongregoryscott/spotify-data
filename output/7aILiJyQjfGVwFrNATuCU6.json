@@ -1,0 +1,33 @@
+{
+  "id": "7aILiJyQjfGVwFrNATuCU6",
+  "name": "Jucifer",
+  "uri": "spotify:artist:7aILiJyQjfGVwFrNATuCU6",
+  "followers": {
+    "href": null,
+    "total": 16821
+  },
+  "genres": [
+    "gaian doom"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb19375e3c46fd9135d4ec35b9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517419375e3c46fd9135d4ec35b9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17819375e3c46fd9135d4ec35b9",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7aILiJyQjfGVwFrNATuCU6"
+  }
+}

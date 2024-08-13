@@ -1,0 +1,34 @@
+{
+  "id": "5qMf7CFNNQi7gb1WQb74Pc",
+  "name": "Rowjay",
+  "uri": "spotify:artist:5qMf7CFNNQi7gb1WQb74Pc",
+  "followers": {
+    "href": null,
+    "total": 28341
+  },
+  "genres": [
+    "hip hop quebecois",
+    "rap montrealais"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb29cfacd07106164138a78007",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517429cfacd07106164138a78007",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17829cfacd07106164138a78007",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
+  }
+}

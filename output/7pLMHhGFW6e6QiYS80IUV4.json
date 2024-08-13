@@ -1,0 +1,33 @@
+{
+  "id": "7pLMHhGFW6e6QiYS80IUV4",
+  "name": "Kinail",
+  "uri": "spotify:artist:7pLMHhGFW6e6QiYS80IUV4",
+  "followers": {
+    "href": null,
+    "total": 72
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb13a5e40328c06ec74e8a52a9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517413a5e40328c06ec74e8a52a9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17813a5e40328c06ec74e8a52a9",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7pLMHhGFW6e6QiYS80IUV4"
+  }
+}

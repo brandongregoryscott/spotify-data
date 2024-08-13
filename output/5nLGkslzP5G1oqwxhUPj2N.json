@@ -1,0 +1,33 @@
+{
+  "id": "5nLGkslzP5G1oqwxhUPj2N",
+  "name": "Lucy Sugerman",
+  "uri": "spotify:artist:5nLGkslzP5G1oqwxhUPj2N",
+  "followers": {
+    "href": null,
+    "total": 2539
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb07de958d560e09896b21fc5c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517407de958d560e09896b21fc5c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17807de958d560e09896b21fc5c",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5nLGkslzP5G1oqwxhUPj2N"
+  }
+}

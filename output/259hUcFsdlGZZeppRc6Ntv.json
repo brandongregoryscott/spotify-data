@@ -1,0 +1,33 @@
+{
+  "id": "259hUcFsdlGZZeppRc6Ntv",
+  "name": "Mad Abbey",
+  "uri": "spotify:artist:259hUcFsdlGZZeppRc6Ntv",
+  "followers": {
+    "href": null,
+    "total": 491
+  },
+  "genres": [
+    "rva indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebed53e30e5e39125b98d14f36",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ed53e30e5e39125b98d14f36",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ed53e30e5e39125b98d14f36",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/259hUcFsdlGZZeppRc6Ntv"
+  }
+}

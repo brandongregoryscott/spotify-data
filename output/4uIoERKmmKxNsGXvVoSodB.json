@@ -1,0 +1,33 @@
+{
+  "id": "4uIoERKmmKxNsGXvVoSodB",
+  "name": "La Mode",
+  "uri": "spotify:artist:4uIoERKmmKxNsGXvVoSodB",
+  "followers": {
+    "href": null,
+    "total": 18902
+  },
+  "genres": [
+    "spanish new wave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733c9659c490f0a6eebc0abd7b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023c9659c490f0a6eebc0abd7b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513c9659c490f0a6eebc0abd7b",
+      "width": 64
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4uIoERKmmKxNsGXvVoSodB"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6Q7aHcucjCZARtGsStFDs3",
+  "name": "The Toy Box Band",
+  "uri": "spotify:artist:6Q7aHcucjCZARtGsStFDs3",
+  "followers": {
+    "href": null,
+    "total": 32
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273af6fc756640b9f231e7c8a09",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02af6fc756640b9f231e7c8a09",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851af6fc756640b9f231e7c8a09",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Q7aHcucjCZARtGsStFDs3"
+  }
+}

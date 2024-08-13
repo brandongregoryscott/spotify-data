@@ -1,0 +1,33 @@
+{
+  "id": "6LrBtADUmDoLlcTrg448Qt",
+  "name": "TIA",
+  "uri": "spotify:artist:6LrBtADUmDoLlcTrg448Qt",
+  "followers": {
+    "href": null,
+    "total": 22828
+  },
+  "genres": [
+    "v-pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfbe3a3b4ddbb0a5700608ec8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fbe3a3b4ddbb0a5700608ec8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fbe3a3b4ddbb0a5700608ec8",
+      "width": 160
+    }
+  ],
+  "popularity": 37,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6LrBtADUmDoLlcTrg448Qt"
+  }
+}

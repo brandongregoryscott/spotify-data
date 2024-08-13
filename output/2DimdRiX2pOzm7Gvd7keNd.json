@@ -1,0 +1,33 @@
+{
+  "id": "2DimdRiX2pOzm7Gvd7keNd",
+  "name": "이현우",
+  "uri": "spotify:artist:2DimdRiX2pOzm7Gvd7keNd",
+  "followers": {
+    "href": null,
+    "total": 651
+  },
+  "genres": [
+    "korean city pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730ad8f8e9e7eefece2d6bb6db",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020ad8f8e9e7eefece2d6bb6db",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510ad8f8e9e7eefece2d6bb6db",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2DimdRiX2pOzm7Gvd7keNd"
+  }
+}

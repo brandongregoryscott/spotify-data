@@ -1,0 +1,33 @@
+{
+  "id": "7fSliMlah00bjt7HPLjZ27",
+  "name": "Little West",
+  "uri": "spotify:artist:7fSliMlah00bjt7HPLjZ27",
+  "followers": {
+    "href": null,
+    "total": 2446
+  },
+  "genres": [
+    "ambeat"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734f2c1df99f0ac0a59f1ea329",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024f2c1df99f0ac0a59f1ea329",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514f2c1df99f0ac0a59f1ea329",
+      "width": 64
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7fSliMlah00bjt7HPLjZ27"
+  }
+}

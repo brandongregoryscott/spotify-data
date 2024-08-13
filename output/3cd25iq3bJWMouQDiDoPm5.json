@@ -1,0 +1,33 @@
+{
+  "id": "3cd25iq3bJWMouQDiDoPm5",
+  "name": "Cocó",
+  "uri": "spotify:artist:3cd25iq3bJWMouQDiDoPm5",
+  "followers": {
+    "href": null,
+    "total": 605
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebffa0dbc595b35cb09e181482",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ffa0dbc595b35cb09e181482",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ffa0dbc595b35cb09e181482",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3cd25iq3bJWMouQDiDoPm5"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5rzSSuIvvz1C5faU5vKfAT",
+  "name": "Diaz",
+  "uri": "spotify:artist:5rzSSuIvvz1C5faU5vKfAT",
+  "followers": {
+    "href": null,
+    "total": 5994
+  },
+  "genres": [
+    "norwegian hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb381609c7736f2e06950e4b52",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174381609c7736f2e06950e4b52",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178381609c7736f2e06950e4b52",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5rzSSuIvvz1C5faU5vKfAT"
+  }
+}

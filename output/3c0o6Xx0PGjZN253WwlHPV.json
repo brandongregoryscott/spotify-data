@@ -1,0 +1,33 @@
+{
+  "id": "3c0o6Xx0PGjZN253WwlHPV",
+  "name": "Triple Tree",
+  "uri": "spotify:artist:3c0o6Xx0PGjZN253WwlHPV",
+  "followers": {
+    "href": null,
+    "total": 186
+  },
+  "genres": [
+    "west coast reggae"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dcfcfad4900d9b9cdddffc5b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dcfcfad4900d9b9cdddffc5b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dcfcfad4900d9b9cdddffc5b",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3c0o6Xx0PGjZN253WwlHPV"
+  }
+}

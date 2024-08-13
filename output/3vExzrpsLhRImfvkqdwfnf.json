@@ -1,0 +1,33 @@
+{
+  "id": "3vExzrpsLhRImfvkqdwfnf",
+  "name": "The Braen's Machine",
+  "uri": "spotify:artist:3vExzrpsLhRImfvkqdwfnf",
+  "followers": {
+    "href": null,
+    "total": 511
+  },
+  "genres": [
+    "italian library music"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738c035de34bc1d90727c6fbae",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028c035de34bc1d90727c6fbae",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518c035de34bc1d90727c6fbae",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3vExzrpsLhRImfvkqdwfnf"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0soSU9eC31tES3VthvCLtU",
+  "name": "Cool Sounds",
+  "uri": "spotify:artist:0soSU9eC31tES3VthvCLtU",
+  "followers": {
+    "href": null,
+    "total": 7913
+  },
+  "genres": [
+    "melbourne indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb48aaf4e24a6a101121fa0132",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517448aaf4e24a6a101121fa0132",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17848aaf4e24a6a101121fa0132",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0soSU9eC31tES3VthvCLtU"
+  }
+}

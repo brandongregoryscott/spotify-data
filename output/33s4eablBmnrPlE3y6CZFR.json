@@ -1,0 +1,34 @@
+{
+  "id": "33s4eablBmnrPlE3y6CZFR",
+  "name": "Hang Youth",
+  "uri": "spotify:artist:33s4eablBmnrPlE3y6CZFR",
+  "followers": {
+    "href": null,
+    "total": 18782
+  },
+  "genres": [
+    "dutch indie",
+    "lowlands hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb25de3ad50eb64a1de9b23eca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517425de3ad50eb64a1de9b23eca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17825de3ad50eb64a1de9b23eca",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/33s4eablBmnrPlE3y6CZFR"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0E57ojgTUILuPbanyL3Ra7",
+  "name": "SODBIG9",
+  "uri": "spotify:artist:0E57ojgTUILuPbanyL3Ra7",
+  "followers": {
+    "href": null,
+    "total": 2447
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735ec0f492e14f10b5d6538c24",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025ec0f492e14f10b5d6538c24",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515ec0f492e14f10b5d6538c24",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0E57ojgTUILuPbanyL3Ra7"
+  }
+}

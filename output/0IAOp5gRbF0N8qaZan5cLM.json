@@ -1,0 +1,33 @@
+{
+  "id": "0IAOp5gRbF0N8qaZan5cLM",
+  "name": "Via Satellite",
+  "uri": "spotify:artist:0IAOp5gRbF0N8qaZan5cLM",
+  "followers": {
+    "href": null,
+    "total": 114
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730e5dfb3b9e3372613270bcc4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020e5dfb3b9e3372613270bcc4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510e5dfb3b9e3372613270bcc4",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0IAOp5gRbF0N8qaZan5cLM"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2fm6kygt9BS4un4NcXC5E2",
+  "name": "sun haze",
+  "uri": "spotify:artist:2fm6kygt9BS4un4NcXC5E2",
+  "followers": {
+    "href": null,
+    "total": 464
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb92df41f7d1ae3be3de5747a0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517492df41f7d1ae3be3de5747a0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17892df41f7d1ae3be3de5747a0",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2fm6kygt9BS4un4NcXC5E2"
+  }
+}

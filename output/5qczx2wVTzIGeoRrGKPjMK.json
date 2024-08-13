@@ -1,0 +1,33 @@
+{
+  "id": "5qczx2wVTzIGeoRrGKPjMK",
+  "name": "sssense",
+  "uri": "spotify:artist:5qczx2wVTzIGeoRrGKPjMK",
+  "followers": {
+    "href": null,
+    "total": 498
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273769997bf996d829f12ae402e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02769997bf996d829f12ae402e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851769997bf996d829f12ae402e",
+      "width": 64
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5qczx2wVTzIGeoRrGKPjMK"
+  }
+}

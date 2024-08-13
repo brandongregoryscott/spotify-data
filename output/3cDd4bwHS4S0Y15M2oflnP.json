@@ -1,0 +1,33 @@
+{
+  "id": "3cDd4bwHS4S0Y15M2oflnP",
+  "name": "DEEMXNN",
+  "uri": "spotify:artist:3cDd4bwHS4S0Y15M2oflnP",
+  "followers": {
+    "href": null,
+    "total": 643
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb9cadc452e08f4b8c4f21400",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b9cadc452e08f4b8c4f21400",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b9cadc452e08f4b8c4f21400",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3cDd4bwHS4S0Y15M2oflnP"
+  }
+}

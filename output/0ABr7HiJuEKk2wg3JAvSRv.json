@@ -1,0 +1,33 @@
+{
+  "id": "0ABr7HiJuEKk2wg3JAvSRv",
+  "name": "Briar Circle",
+  "uri": "spotify:artist:0ABr7HiJuEKk2wg3JAvSRv",
+  "followers": {
+    "href": null,
+    "total": 947
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb832e1519b293a779acdc043a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174832e1519b293a779acdc043a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178832e1519b293a779acdc043a",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ABr7HiJuEKk2wg3JAvSRv"
+  }
+}

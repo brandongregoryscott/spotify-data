@@ -4,10 +4,11 @@
   "uri": "spotify:artist:3iMPlKfT0MyTfFKht7LfgN",
   "followers": {
     "href": null,
-    "total": 4624
+    "total": 4626
   },
   "genres": [
-    "danish indie pop"
+    "danish indie pop",
+    "danish pop"
   ],
   "images": [
     {
@@ -26,7 +27,7 @@
       "width": 160
     }
   ],
-  "popularity": 27,
+  "popularity": 26,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN"
   }

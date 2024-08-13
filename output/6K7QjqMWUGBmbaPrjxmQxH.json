@@ -1,0 +1,33 @@
+{
+  "id": "6K7QjqMWUGBmbaPrjxmQxH",
+  "name": "Loïc Bléjean",
+  "uri": "spotify:artist:6K7QjqMWUGBmbaPrjxmQxH",
+  "followers": {
+    "href": null,
+    "total": 125
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebed7be664bdd48d01a08def24",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ed7be664bdd48d01a08def24",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ed7be664bdd48d01a08def24",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6K7QjqMWUGBmbaPrjxmQxH"
+  }
+}

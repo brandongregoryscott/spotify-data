@@ -1,0 +1,34 @@
+{
+  "id": "74F5BixS3Q9eSs9AnG3xIz",
+  "name": "chay",
+  "uri": "spotify:artist:74F5BixS3Q9eSs9AnG3xIz",
+  "followers": {
+    "href": null,
+    "total": 123886
+  },
+  "genres": [
+    "j-idol",
+    "j-pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd1ad6943fbd6c90f64bdbbf9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d1ad6943fbd6c90f64bdbbf9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d1ad6943fbd6c90f64bdbbf9",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/74F5BixS3Q9eSs9AnG3xIz"
+  }
+}

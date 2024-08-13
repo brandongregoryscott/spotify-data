@@ -1,0 +1,33 @@
+{
+  "id": "7IB9NNebmvHNLLlGrfTY6O",
+  "name": "headcage",
+  "uri": "spotify:artist:7IB9NNebmvHNLLlGrfTY6O",
+  "followers": {
+    "href": null,
+    "total": 971
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb754d98ca32db271cc9696e5b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174754d98ca32db271cc9696e5b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178754d98ca32db271cc9696e5b",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7IB9NNebmvHNLLlGrfTY6O"
+  }
+}

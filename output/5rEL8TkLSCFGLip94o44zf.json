@@ -1,0 +1,33 @@
+{
+  "id": "5rEL8TkLSCFGLip94o44zf",
+  "name": "ATLAS",
+  "uri": "spotify:artist:5rEL8TkLSCFGLip94o44zf",
+  "followers": {
+    "href": null,
+    "total": 39
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6b01f5ffb302a6a86b079caa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051746b01f5ffb302a6a86b079caa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1786b01f5ffb302a6a86b079caa",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5rEL8TkLSCFGLip94o44zf"
+  }
+}

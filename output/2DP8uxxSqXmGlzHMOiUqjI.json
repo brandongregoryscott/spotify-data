@@ -1,0 +1,33 @@
+{
+  "id": "2DP8uxxSqXmGlzHMOiUqjI",
+  "name": "Højlund",
+  "uri": "spotify:artist:2DP8uxxSqXmGlzHMOiUqjI",
+  "followers": {
+    "href": null,
+    "total": 333
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb2695d0fc945b0e7087fefd59",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051742695d0fc945b0e7087fefd59",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1782695d0fc945b0e7087fefd59",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2DP8uxxSqXmGlzHMOiUqjI"
+  }
+}

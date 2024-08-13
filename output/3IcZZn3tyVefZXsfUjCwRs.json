@@ -1,0 +1,33 @@
+{
+  "id": "3IcZZn3tyVefZXsfUjCwRs",
+  "name": "before/after 1970",
+  "uri": "spotify:artist:3IcZZn3tyVefZXsfUjCwRs",
+  "followers": {
+    "href": null,
+    "total": 511
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27332f5cca334fb171285c083b3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02694d27f80830ab51a134cc55",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851694d27f80830ab51a134cc55",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3IcZZn3tyVefZXsfUjCwRs"
+  }
+}

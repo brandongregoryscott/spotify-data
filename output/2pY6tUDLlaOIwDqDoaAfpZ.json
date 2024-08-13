@@ -1,0 +1,33 @@
+{
+  "id": "2pY6tUDLlaOIwDqDoaAfpZ",
+  "name": "Atherna",
+  "uri": "spotify:artist:2pY6tUDLlaOIwDqDoaAfpZ",
+  "followers": {
+    "href": null,
+    "total": 181
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4ee786ce301659d49afc1d9f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744ee786ce301659d49afc1d9f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784ee786ce301659d49afc1d9f",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2pY6tUDLlaOIwDqDoaAfpZ"
+  }
+}

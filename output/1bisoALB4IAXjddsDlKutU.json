@@ -1,0 +1,35 @@
+{
+  "id": "1bisoALB4IAXjddsDlKutU",
+  "name": "Hạc San",
+  "uri": "spotify:artist:1bisoALB4IAXjddsDlKutU",
+  "followers": {
+    "href": null,
+    "total": 5390
+  },
+  "genres": [
+    "indie viet",
+    "mainland se asia metal",
+    "rock viet"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb444d258d6550d14704a116c7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174444d258d6550d14704a116c7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178444d258d6550d14704a116c7",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1bisoALB4IAXjddsDlKutU"
+  }
+}

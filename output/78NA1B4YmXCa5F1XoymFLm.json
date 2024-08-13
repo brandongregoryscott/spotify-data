@@ -1,0 +1,33 @@
+{
+  "id": "78NA1B4YmXCa5F1XoymFLm",
+  "name": "Kaizen Flow",
+  "uri": "spotify:artist:78NA1B4YmXCa5F1XoymFLm",
+  "followers": {
+    "href": null,
+    "total": 700
+  },
+  "genres": [
+    "neurostep"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739f8c038ddc72772e3ff7313b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029f8c038ddc72772e3ff7313b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519f8c038ddc72772e3ff7313b",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/78NA1B4YmXCa5F1XoymFLm"
+  }
+}

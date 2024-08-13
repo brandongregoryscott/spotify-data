@@ -1,0 +1,33 @@
+{
+  "id": "0xb1br16QmazvtJOzpCLcm",
+  "name": "Actifed",
+  "uri": "spotify:artist:0xb1br16QmazvtJOzpCLcm",
+  "followers": {
+    "href": null,
+    "total": 400
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b56528e05863a46b8f60e92d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b56528e05863a46b8f60e92d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b56528e05863a46b8f60e92d",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0xb1br16QmazvtJOzpCLcm"
+  }
+}

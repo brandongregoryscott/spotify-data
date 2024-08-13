@@ -1,0 +1,36 @@
+{
+  "id": "0u6GtibW46tFX7koQ6uNJZ",
+  "name": "Topic",
+  "uri": "spotify:artist:0u6GtibW46tFX7koQ6uNJZ",
+  "followers": {
+    "href": null,
+    "total": 256438
+  },
+  "genres": [
+    "german dance",
+    "pop dance",
+    "pop edm",
+    "uk dance"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb311541bc44662323717a413b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174311541bc44662323717a413b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178311541bc44662323717a413b",
+      "width": 160
+    }
+  ],
+  "popularity": 73,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+  }
+}

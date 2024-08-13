@@ -1,0 +1,33 @@
+{
+  "id": "2UINgwrsrLHqrnBYfqroUY",
+  "name": "Sonichka Detka",
+  "uri": "spotify:artist:2UINgwrsrLHqrnBYfqroUY",
+  "followers": {
+    "href": null,
+    "total": 201
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd180b840eabb8b43dfeb4afb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d180b840eabb8b43dfeb4afb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d180b840eabb8b43dfeb4afb",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2UINgwrsrLHqrnBYfqroUY"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "42MWq4vgptNeHPmCVAtj9i",
+  "name": "Heavy Eyes",
+  "uri": "spotify:artist:42MWq4vgptNeHPmCVAtj9i",
+  "followers": {
+    "href": null,
+    "total": 1665
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739cb3d7806c8061e5dc2baa6e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029cb3d7806c8061e5dc2baa6e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519cb3d7806c8061e5dc2baa6e",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/42MWq4vgptNeHPmCVAtj9i"
+  }
+}

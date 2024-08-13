@@ -1,0 +1,33 @@
+{
+  "id": "3hyUHeOPIJY09x3qm04ai3",
+  "name": "SEWN",
+  "uri": "spotify:artist:3hyUHeOPIJY09x3qm04ai3",
+  "followers": {
+    "href": null,
+    "total": 538
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd126716c3358bf641e6f5ef0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d126716c3358bf641e6f5ef0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d126716c3358bf641e6f5ef0",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3hyUHeOPIJY09x3qm04ai3"
+  }
+}

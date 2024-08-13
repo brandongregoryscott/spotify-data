@@ -1,0 +1,33 @@
+{
+  "id": "2JqkLFTZVP8UHr2mwex9pe",
+  "name": "Eleftherios",
+  "uri": "spotify:artist:2JqkLFTZVP8UHr2mwex9pe",
+  "followers": {
+    "href": null,
+    "total": 345
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba8dc21a10e00c10f2a75ecff",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a8dc21a10e00c10f2a75ecff",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a8dc21a10e00c10f2a75ecff",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2JqkLFTZVP8UHr2mwex9pe"
+  }
+}

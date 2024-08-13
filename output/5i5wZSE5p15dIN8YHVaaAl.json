@@ -1,0 +1,33 @@
+{
+  "id": "5i5wZSE5p15dIN8YHVaaAl",
+  "name": "Japanama",
+  "uri": "spotify:artist:5i5wZSE5p15dIN8YHVaaAl",
+  "followers": {
+    "href": null,
+    "total": 504
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb096244a11bac3408f276980",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b096244a11bac3408f276980",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b096244a11bac3408f276980",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5i5wZSE5p15dIN8YHVaaAl"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7Fwuwst7b5TN1fVMkdiphG",
+  "name": "zefek",
+  "uri": "spotify:artist:7Fwuwst7b5TN1fVMkdiphG",
+  "followers": {
+    "href": null,
+    "total": 201
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb66d858213ca0720241a434ca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517466d858213ca0720241a434ca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17866d858213ca0720241a434ca",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7Fwuwst7b5TN1fVMkdiphG"
+  }
+}

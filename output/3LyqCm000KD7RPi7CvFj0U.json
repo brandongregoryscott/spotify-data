@@ -1,0 +1,33 @@
+{
+  "id": "3LyqCm000KD7RPi7CvFj0U",
+  "name": "Bluemoon",
+  "uri": "spotify:artist:3LyqCm000KD7RPi7CvFj0U",
+  "followers": {
+    "href": null,
+    "total": 93
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebee31a23932f852071fbe934e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ee31a23932f852071fbe934e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ee31a23932f852071fbe934e",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3LyqCm000KD7RPi7CvFj0U"
+  }
+}

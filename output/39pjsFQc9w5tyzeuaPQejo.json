@@ -1,0 +1,33 @@
+{
+  "id": "39pjsFQc9w5tyzeuaPQejo",
+  "name": "Amanda Duncan",
+  "uri": "spotify:artist:39pjsFQc9w5tyzeuaPQejo",
+  "followers": {
+    "href": null,
+    "total": 279
+  },
+  "genres": [
+    "asbury park indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcba86590e3df0d19d3d2972e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cba86590e3df0d19d3d2972e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cba86590e3df0d19d3d2972e",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/39pjsFQc9w5tyzeuaPQejo"
+  }
+}

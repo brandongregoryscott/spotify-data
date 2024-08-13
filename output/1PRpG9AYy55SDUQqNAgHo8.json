@@ -1,0 +1,33 @@
+{
+  "id": "1PRpG9AYy55SDUQqNAgHo8",
+  "name": "SOWN",
+  "uri": "spotify:artist:1PRpG9AYy55SDUQqNAgHo8",
+  "followers": {
+    "href": null,
+    "total": 11
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ea6262540a04adb7e58ee57f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ea6262540a04adb7e58ee57f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ea6262540a04adb7e58ee57f",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1PRpG9AYy55SDUQqNAgHo8"
+  }
+}

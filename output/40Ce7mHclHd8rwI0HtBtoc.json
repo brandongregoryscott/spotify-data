@@ -1,0 +1,33 @@
+{
+  "id": "40Ce7mHclHd8rwI0HtBtoc",
+  "name": "André Carmín",
+  "uri": "spotify:artist:40Ce7mHclHd8rwI0HtBtoc",
+  "followers": {
+    "href": null,
+    "total": 509
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb59d742f5fe50d6eeb383ec66",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517459d742f5fe50d6eeb383ec66",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17859d742f5fe50d6eeb383ec66",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/40Ce7mHclHd8rwI0HtBtoc"
+  }
+}

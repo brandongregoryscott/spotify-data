@@ -1,0 +1,33 @@
+{
+  "id": "51JcFlq9BbLCHgJW0wHluE",
+  "name": "esora uma",
+  "uri": "spotify:artist:51JcFlq9BbLCHgJW0wHluE",
+  "followers": {
+    "href": null,
+    "total": 961
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273350144dcacfa5ab8093665c1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02350144dcacfa5ab8093665c1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851350144dcacfa5ab8093665c1",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/51JcFlq9BbLCHgJW0wHluE"
+  }
+}

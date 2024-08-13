@@ -1,0 +1,33 @@
+{
+  "id": "6sOYneKACNrLdsPkyEpCMX",
+  "name": "Ol Drake",
+  "uri": "spotify:artist:6sOYneKACNrLdsPkyEpCMX",
+  "followers": {
+    "href": null,
+    "total": 936
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb38db55a36756ac22d4c3f26d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517438db55a36756ac22d4c3f26d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17838db55a36756ac22d4c3f26d",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6sOYneKACNrLdsPkyEpCMX"
+  }
+}

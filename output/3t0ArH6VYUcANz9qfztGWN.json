@@ -1,0 +1,33 @@
+{
+  "id": "3t0ArH6VYUcANz9qfztGWN",
+  "name": "Mole",
+  "uri": "spotify:artist:3t0ArH6VYUcANz9qfztGWN",
+  "followers": {
+    "href": null,
+    "total": 351
+  },
+  "genres": [
+    "italian screamo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27322853d831030b567b2e2b2d7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0222853d831030b567b2e2b2d7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485122853d831030b567b2e2b2d7",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3t0ArH6VYUcANz9qfztGWN"
+  }
+}

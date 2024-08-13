@@ -1,0 +1,36 @@
+{
+  "id": "4uN3DsfENc7dp0OLO0FEIb",
+  "name": "Sugar Ray",
+  "uri": "spotify:artist:4uN3DsfENc7dp0OLO0FEIb",
+  "followers": {
+    "href": null,
+    "total": 980361
+  },
+  "genres": [
+    "alternative metal",
+    "funk metal",
+    "pop rock",
+    "post-grunge"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebff43c5735517a662439d0afe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ff43c5735517a662439d0afe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ff43c5735517a662439d0afe",
+      "width": 160
+    }
+  ],
+  "popularity": 63,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
+  }
+}

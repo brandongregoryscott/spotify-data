@@ -1,0 +1,33 @@
+{
+  "id": "7sVQdmdaE4pYDw5KV2UAsl",
+  "name": "Gado",
+  "uri": "spotify:artist:7sVQdmdaE4pYDw5KV2UAsl",
+  "followers": {
+    "href": null,
+    "total": 12
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27332105268b5d20f5e66bd7b24",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0232105268b5d20f5e66bd7b24",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485132105268b5d20f5e66bd7b24",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7sVQdmdaE4pYDw5KV2UAsl"
+  }
+}

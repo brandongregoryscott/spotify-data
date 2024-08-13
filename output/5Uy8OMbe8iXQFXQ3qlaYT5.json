@@ -1,0 +1,37 @@
+{
+  "id": "5Uy8OMbe8iXQFXQ3qlaYT5",
+  "name": "Tonolec",
+  "uri": "spotify:artist:5Uy8OMbe8iXQFXQ3qlaYT5",
+  "followers": {
+    "href": null,
+    "total": 73067
+  },
+  "genres": [
+    "electronica argentina",
+    "folklore argentino",
+    "indie cordoba",
+    "latintronica",
+    "nuevo folklore argentino"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb30c4c8ee854c2071f700e24a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517430c4c8ee854c2071f700e24a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17830c4c8ee854c2071f700e24a",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5"
+  }
+}

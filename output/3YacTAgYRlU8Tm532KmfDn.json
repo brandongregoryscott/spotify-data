@@ -1,0 +1,33 @@
+{
+  "id": "3YacTAgYRlU8Tm532KmfDn",
+  "name": "Cod LilP",
+  "uri": "spotify:artist:3YacTAgYRlU8Tm532KmfDn",
+  "followers": {
+    "href": null,
+    "total": 1000
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731628bea3f5d534c0f67d7f9b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021628bea3f5d534c0f67d7f9b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511628bea3f5d534c0f67d7f9b",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3YacTAgYRlU8Tm532KmfDn"
+  }
+}

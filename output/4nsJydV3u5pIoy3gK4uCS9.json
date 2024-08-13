@@ -1,0 +1,33 @@
+{
+  "id": "4nsJydV3u5pIoy3gK4uCS9",
+  "name": "Куклы",
+  "uri": "spotify:artist:4nsJydV3u5pIoy3gK4uCS9",
+  "followers": {
+    "href": null,
+    "total": 190
+  },
+  "genres": [
+    "belarusian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736c5b9c1a2da9f6d0df6011fb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026c5b9c1a2da9f6d0df6011fb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516c5b9c1a2da9f6d0df6011fb",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4nsJydV3u5pIoy3gK4uCS9"
+  }
+}

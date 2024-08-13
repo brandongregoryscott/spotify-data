@@ -1,0 +1,33 @@
+{
+  "id": "0leg0qiLpYcccMQLHFtr1d",
+  "name": "Prisma",
+  "uri": "spotify:artist:0leg0qiLpYcccMQLHFtr1d",
+  "followers": {
+    "href": null,
+    "total": 122
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeae4b120a247b430c2295faf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eae4b120a247b430c2295faf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eae4b120a247b430c2295faf",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0leg0qiLpYcccMQLHFtr1d"
+  }
+}

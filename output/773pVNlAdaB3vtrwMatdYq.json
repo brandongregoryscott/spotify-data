@@ -1,0 +1,33 @@
+{
+  "id": "773pVNlAdaB3vtrwMatdYq",
+  "name": "uglysofi",
+  "uri": "spotify:artist:773pVNlAdaB3vtrwMatdYq",
+  "followers": {
+    "href": null,
+    "total": 319
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba093ad6fede7b6428bab03c6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a093ad6fede7b6428bab03c6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a093ad6fede7b6428bab03c6",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/773pVNlAdaB3vtrwMatdYq"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3ofbRM3RwKZByoclt826n2",
+  "name": "4to Elemento",
+  "uri": "spotify:artist:3ofbRM3RwKZByoclt826n2",
+  "followers": {
+    "href": null,
+    "total": 687
+  },
+  "genres": [
+    "rap chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb97a82b4013d3223c45e3db83",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517497a82b4013d3223c45e3db83",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17897a82b4013d3223c45e3db83",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ofbRM3RwKZByoclt826n2"
+  }
+}

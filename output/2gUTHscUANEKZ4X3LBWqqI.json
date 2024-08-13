@@ -1,0 +1,33 @@
+{
+  "id": "2gUTHscUANEKZ4X3LBWqqI",
+  "name": "Dart",
+  "uri": "spotify:artist:2gUTHscUANEKZ4X3LBWqqI",
+  "followers": {
+    "href": null,
+    "total": 126
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb26149ccb0f17069ccf1425b5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517426149ccb0f17069ccf1425b5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17826149ccb0f17069ccf1425b5",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2gUTHscUANEKZ4X3LBWqqI"
+  }
+}

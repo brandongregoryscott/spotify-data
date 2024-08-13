@@ -1,0 +1,34 @@
+{
+  "id": "5GIvDfiBo3998zS4DsXqqP",
+  "name": "АнимациЯ",
+  "uri": "spotify:artist:5GIvDfiBo3998zS4DsXqqP",
+  "followers": {
+    "href": null,
+    "total": 45195
+  },
+  "genres": [
+    "russian punk rock",
+    "russian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb40f4a413ed8ba98860c1e8be",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517440f4a413ed8ba98860c1e8be",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17840f4a413ed8ba98860c1e8be",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5GIvDfiBo3998zS4DsXqqP"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "3hjmp6pN2h1cb4lgaG90hE",
+  "name": "Baby Jane",
+  "uri": "spotify:artist:3hjmp6pN2h1cb4lgaG90hE",
+  "followers": {
+    "href": null,
+    "total": 1746
+  },
+  "genres": [
+    "new wave of glam metal",
+    "sleaze rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736aa71b931427295613618bf5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026aa71b931427295613618bf5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516aa71b931427295613618bf5",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3hjmp6pN2h1cb4lgaG90hE"
+  }
+}

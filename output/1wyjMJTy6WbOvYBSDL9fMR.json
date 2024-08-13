@@ -1,0 +1,33 @@
+{
+  "id": "1wyjMJTy6WbOvYBSDL9fMR",
+  "name": "La Combo Tortuga",
+  "uri": "spotify:artist:1wyjMJTy6WbOvYBSDL9fMR",
+  "followers": {
+    "href": null,
+    "total": 361687
+  },
+  "genres": [
+    "cumbia chilena"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe41d6abc9ffe1babd5a4f64f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e41d6abc9ffe1babd5a4f64f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e41d6abc9ffe1babd5a4f64f",
+      "width": 160
+    }
+  ],
+  "popularity": 51,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "3No5HqLrMqJbmpJ1nUjUiM",
+  "name": "Juan Quintero",
+  "uri": "spotify:artist:3No5HqLrMqJbmpJ1nUjUiM",
+  "followers": {
+    "href": null,
+    "total": 30853
+  },
+  "genres": [
+    "folklore argentino",
+    "folklore cuyano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbe3b826a432e59ae5c2ee34d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174be3b826a432e59ae5c2ee34d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178be3b826a432e59ae5c2ee34d",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3No5HqLrMqJbmpJ1nUjUiM"
+  }
+}

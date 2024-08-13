@@ -1,0 +1,33 @@
+{
+  "id": "6bXCIg38jDW2Sw4cptFK2C",
+  "name": "My Ivory",
+  "uri": "spotify:artist:6bXCIg38jDW2Sw4cptFK2C",
+  "followers": {
+    "href": null,
+    "total": 65
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6dca43a45d04c116af4a29a3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051746dca43a45d04c116af4a29a3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1786dca43a45d04c116af4a29a3",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6bXCIg38jDW2Sw4cptFK2C"
+  }
+}

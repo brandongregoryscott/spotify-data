@@ -1,0 +1,33 @@
+{
+  "id": "6E6BITlKctQpdIBBehlOoE",
+  "name": "Monica Taylor",
+  "uri": "spotify:artist:6E6BITlKctQpdIBBehlOoE",
+  "followers": {
+    "href": null,
+    "total": 172
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27349fe03cedfb00c84e5f3de7a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0249fe03cedfb00c84e5f3de7a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485149fe03cedfb00c84e5f3de7a",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6E6BITlKctQpdIBBehlOoE"
+  }
+}

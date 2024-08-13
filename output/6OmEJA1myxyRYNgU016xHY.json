@@ -1,0 +1,35 @@
+{
+  "id": "6OmEJA1myxyRYNgU016xHY",
+  "name": "Türküm",
+  "uri": "spotify:artist:6OmEJA1myxyRYNgU016xHY",
+  "followers": {
+    "href": null,
+    "total": 26468
+  },
+  "genres": [
+    "bass trap",
+    "traprun",
+    "turkish trap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb06ab333bcc032f4419442e35",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517406ab333bcc032f4419442e35",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17806ab333bcc032f4419442e35",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6OmEJA1myxyRYNgU016xHY"
+  }
+}

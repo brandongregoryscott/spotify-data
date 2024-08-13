@@ -1,0 +1,33 @@
+{
+  "id": "2EHSKWBCPmGSV5JUbaEeQG",
+  "name": "Luminyst",
+  "uri": "spotify:artist:2EHSKWBCPmGSV5JUbaEeQG",
+  "followers": {
+    "href": null,
+    "total": 799
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb83b3313732aee978a7f29ca9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517483b3313732aee978a7f29ca9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17883b3313732aee978a7f29ca9",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2EHSKWBCPmGSV5JUbaEeQG"
+  }
+}

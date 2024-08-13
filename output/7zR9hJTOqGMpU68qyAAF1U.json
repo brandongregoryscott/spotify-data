@@ -1,0 +1,33 @@
+{
+  "id": "7zR9hJTOqGMpU68qyAAF1U",
+  "name": "iiP",
+  "uri": "spotify:artist:7zR9hJTOqGMpU68qyAAF1U",
+  "followers": {
+    "href": null,
+    "total": 2028
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfbc55849d40e57605d91cda6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fbc55849d40e57605d91cda6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fbc55849d40e57605d91cda6",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7zR9hJTOqGMpU68qyAAF1U"
+  }
+}

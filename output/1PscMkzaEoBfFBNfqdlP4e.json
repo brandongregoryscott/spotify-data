@@ -1,0 +1,33 @@
+{
+  "id": "1PscMkzaEoBfFBNfqdlP4e",
+  "name": "Mitch Geist",
+  "uri": "spotify:artist:1PscMkzaEoBfFBNfqdlP4e",
+  "followers": {
+    "href": null,
+    "total": 4146
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb72bd395818f3b0c665219e9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b72bd395818f3b0c665219e9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b72bd395818f3b0c665219e9",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1PscMkzaEoBfFBNfqdlP4e"
+  }
+}

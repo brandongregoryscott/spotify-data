@@ -1,0 +1,33 @@
+{
+  "id": "5VY4w1VcbBJgl198THFkLC",
+  "name": "BANDIT",
+  "uri": "spotify:artist:5VY4w1VcbBJgl198THFkLC",
+  "followers": {
+    "href": null,
+    "total": 302
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb926e2d720d99cc4d3bc46cc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b926e2d720d99cc4d3bc46cc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b926e2d720d99cc4d3bc46cc",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5VY4w1VcbBJgl198THFkLC"
+  }
+}

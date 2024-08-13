@@ -1,0 +1,33 @@
+{
+  "id": "2C1BWNF1DxuGqLifFqyh4U",
+  "name": "Werner Lauscher",
+  "uri": "spotify:artist:2C1BWNF1DxuGqLifFqyh4U",
+  "followers": {
+    "href": null,
+    "total": 278
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ced66fcc66dd9ceaa0aa1136",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ced66fcc66dd9ceaa0aa1136",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ced66fcc66dd9ceaa0aa1136",
+      "width": 64
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2C1BWNF1DxuGqLifFqyh4U"
+  }
+}

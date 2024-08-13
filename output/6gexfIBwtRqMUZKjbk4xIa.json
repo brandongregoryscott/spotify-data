@@ -1,0 +1,33 @@
+{
+  "id": "6gexfIBwtRqMUZKjbk4xIa",
+  "name": "Eclectotron",
+  "uri": "spotify:artist:6gexfIBwtRqMUZKjbk4xIa",
+  "followers": {
+    "href": null,
+    "total": 83
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb80e5f40084b27b5b396a4e06",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517480e5f40084b27b5b396a4e06",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17880e5f40084b27b5b396a4e06",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6gexfIBwtRqMUZKjbk4xIa"
+  }
+}

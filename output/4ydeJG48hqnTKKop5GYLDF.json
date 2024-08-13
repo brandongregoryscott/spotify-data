@@ -1,0 +1,33 @@
+{
+  "id": "4ydeJG48hqnTKKop5GYLDF",
+  "name": "The Routers",
+  "uri": "spotify:artist:4ydeJG48hqnTKKop5GYLDF",
+  "followers": {
+    "href": null,
+    "total": 861
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27368f0d4dd838a417fa2eabdfd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0268f0d4dd838a417fa2eabdfd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485168f0d4dd838a417fa2eabdfd",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4ydeJG48hqnTKKop5GYLDF"
+  }
+}

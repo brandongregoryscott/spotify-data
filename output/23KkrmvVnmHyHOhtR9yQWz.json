@@ -1,0 +1,33 @@
+{
+  "id": "23KkrmvVnmHyHOhtR9yQWz",
+  "name": "La Corriveau",
+  "uri": "spotify:artist:23KkrmvVnmHyHOhtR9yQWz",
+  "followers": {
+    "href": null,
+    "total": 400
+  },
+  "genres": [
+    "quebec metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738430dbb35b8a2ab89eb077cc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028430dbb35b8a2ab89eb077cc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518430dbb35b8a2ab89eb077cc",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/23KkrmvVnmHyHOhtR9yQWz"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6cIJ05jwRf1PmHbE9H9pDn",
+  "name": "Flora de la Luna",
+  "uri": "spotify:artist:6cIJ05jwRf1PmHbE9H9pDn",
+  "followers": {
+    "href": null,
+    "total": 224
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd5f7d06ed5034f37ff8e2ae6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d5f7d06ed5034f37ff8e2ae6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d5f7d06ed5034f37ff8e2ae6",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6cIJ05jwRf1PmHbE9H9pDn"
+  }
+}

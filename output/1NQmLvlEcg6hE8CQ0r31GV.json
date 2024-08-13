@@ -1,0 +1,33 @@
+{
+  "id": "1NQmLvlEcg6hE8CQ0r31GV",
+  "name": "Nina Suárez",
+  "uri": "spotify:artist:1NQmLvlEcg6hE8CQ0r31GV",
+  "followers": {
+    "href": null,
+    "total": 4196
+  },
+  "genres": [
+    "argentine indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4ac7f153c4900f6a09f237d6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744ac7f153c4900f6a09f237d6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784ac7f153c4900f6a09f237d6",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
+  }
+}

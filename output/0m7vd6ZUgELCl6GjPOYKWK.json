@@ -1,0 +1,33 @@
+{
+  "id": "0m7vd6ZUgELCl6GjPOYKWK",
+  "name": "Adazuri",
+  "uri": "spotify:artist:0m7vd6ZUgELCl6GjPOYKWK",
+  "followers": {
+    "href": null,
+    "total": 40
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba0eb3653f94fd619b5e16cd1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a0eb3653f94fd619b5e16cd1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a0eb3653f94fd619b5e16cd1",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0m7vd6ZUgELCl6GjPOYKWK"
+  }
+}

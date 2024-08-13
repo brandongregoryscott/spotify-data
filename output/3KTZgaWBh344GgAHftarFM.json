@@ -1,0 +1,33 @@
+{
+  "id": "3KTZgaWBh344GgAHftarFM",
+  "name": "pwon",
+  "uri": "spotify:artist:3KTZgaWBh344GgAHftarFM",
+  "followers": {
+    "href": null,
+    "total": 185
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb80a87959cb2810dccae9cdae",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517480a87959cb2810dccae9cdae",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17880a87959cb2810dccae9cdae",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3KTZgaWBh344GgAHftarFM"
+  }
+}

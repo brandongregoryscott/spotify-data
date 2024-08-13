@@ -1,0 +1,33 @@
+{
+  "id": "6jRfMO42wg0IQ6RttujxFp",
+  "name": "Nick Barber",
+  "uri": "spotify:artist:6jRfMO42wg0IQ6RttujxFp",
+  "followers": {
+    "href": null,
+    "total": 2839
+  },
+  "genres": [
+    "shamanic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebac43e294535917b263fbb4fa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ac43e294535917b263fbb4fa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ac43e294535917b263fbb4fa",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6jRfMO42wg0IQ6RttujxFp"
+  }
+}

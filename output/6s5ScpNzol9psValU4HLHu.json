@@ -1,0 +1,34 @@
+{
+  "id": "6s5ScpNzol9psValU4HLHu",
+  "name": "Cloudland Canyon",
+  "uri": "spotify:artist:6s5ScpNzol9psValU4HLHu",
+  "followers": {
+    "href": null,
+    "total": 1739
+  },
+  "genres": [
+    "neo-kraut",
+    "new york shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc8d509c2eb246922e165648d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c8d509c2eb246922e165648d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c8d509c2eb246922e165648d",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6s5ScpNzol9psValU4HLHu"
+  }
+}

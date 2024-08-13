@@ -1,0 +1,33 @@
+{
+  "id": "3REqORn5mXQDBb4L8rQWDS",
+  "name": "Mad Darling",
+  "uri": "spotify:artist:3REqORn5mXQDBb4L8rQWDS",
+  "followers": {
+    "href": null,
+    "total": 220
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb024edbdbe87393fe5ba726b6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174024edbdbe87393fe5ba726b6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178024edbdbe87393fe5ba726b6",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3REqORn5mXQDBb4L8rQWDS"
+  }
+}

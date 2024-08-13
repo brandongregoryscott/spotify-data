@@ -1,0 +1,33 @@
+{
+  "id": "5yncHyOwgbt5s0XkccGYmq",
+  "name": "TE'O",
+  "uri": "spotify:artist:5yncHyOwgbt5s0XkccGYmq",
+  "followers": {
+    "href": null,
+    "total": 41
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f84eee7d96f2c4385c4d6746",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f84eee7d96f2c4385c4d6746",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f84eee7d96f2c4385c4d6746",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5yncHyOwgbt5s0XkccGYmq"
+  }
+}

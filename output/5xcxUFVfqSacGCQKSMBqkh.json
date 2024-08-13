@@ -1,0 +1,33 @@
+{
+  "id": "5xcxUFVfqSacGCQKSMBqkh",
+  "name": "SMLR",
+  "uri": "spotify:artist:5xcxUFVfqSacGCQKSMBqkh",
+  "followers": {
+    "href": null,
+    "total": 868
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb895962888446ee21b0dcddfb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174895962888446ee21b0dcddfb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178895962888446ee21b0dcddfb",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5xcxUFVfqSacGCQKSMBqkh"
+  }
+}

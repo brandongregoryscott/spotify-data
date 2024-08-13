@@ -1,0 +1,33 @@
+{
+  "id": "6qtT7XeCxRIWLqYLN9cVlQ",
+  "name": "BB Bean",
+  "uri": "spotify:artist:6qtT7XeCxRIWLqYLN9cVlQ",
+  "followers": {
+    "href": null,
+    "total": 7307
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb253d615cadd789f9d36a5928",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174253d615cadd789f9d36a5928",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178253d615cadd789f9d36a5928",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6qtT7XeCxRIWLqYLN9cVlQ"
+  }
+}

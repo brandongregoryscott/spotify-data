@@ -1,0 +1,33 @@
+{
+  "id": "1zVfOfIieOhrYPFXa6oMEt",
+  "name": "Rolando Alarcon",
+  "uri": "spotify:artist:1zVfOfIieOhrYPFXa6oMEt",
+  "followers": {
+    "href": null,
+    "total": 17061
+  },
+  "genres": [
+    "nueva cancion"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdb7ac08a9d5c0db681577e97",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174db7ac08a9d5c0db681577e97",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178db7ac08a9d5c0db681577e97",
+      "width": 160
+    }
+  ],
+  "popularity": 34,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1zVfOfIieOhrYPFXa6oMEt"
+  }
+}

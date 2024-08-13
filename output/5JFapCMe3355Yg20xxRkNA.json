@@ -1,0 +1,38 @@
+{
+  "id": "5JFapCMe3355Yg20xxRkNA",
+  "name": "The Farm",
+  "uri": "spotify:artist:5JFapCMe3355Yg20xxRkNA",
+  "followers": {
+    "href": null,
+    "total": 4253
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 1500,
+      "url": "https://i.scdn.co/image/96bba7b1c60e242fd6b8cf990e2513e4a40514cf",
+      "width": 1000
+    },
+    {
+      "height": 960,
+      "url": "https://i.scdn.co/image/adde61544a35ac81ef636aff8c2ffeef70bf403d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ffe7fc361a973fab7ad413e1c35dcb01334eec3f",
+      "width": 200
+    },
+    {
+      "height": 96,
+      "url": "https://i.scdn.co/image/4be00035b43231ebcdc9bb82ebf15e18927c40d1",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5JFapCMe3355Yg20xxRkNA"
+  }
+}

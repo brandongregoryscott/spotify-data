@@ -1,0 +1,33 @@
+{
+  "id": "5kClRi0MFkSaUlZmgX0p5X",
+  "name": "Mátyás Attila",
+  "uri": "spotify:artist:5kClRi0MFkSaUlZmgX0p5X",
+  "followers": {
+    "href": null,
+    "total": 447
+  },
+  "genres": [
+    "hungarian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27311ff6a4f28b1813edadfff15",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0211ff6a4f28b1813edadfff15",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485111ff6a4f28b1813edadfff15",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5kClRi0MFkSaUlZmgX0p5X"
+  }
+}

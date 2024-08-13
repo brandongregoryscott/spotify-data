@@ -1,0 +1,33 @@
+{
+  "id": "6Hb29cwvtPMH6wThCBqGQ5",
+  "name": "pyxis",
+  "uri": "spotify:artist:6Hb29cwvtPMH6wThCBqGQ5",
+  "followers": {
+    "href": null,
+    "total": 1961
+  },
+  "genres": [
+    "liquid funk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd4403f70d89f0b0b15085c9d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d4403f70d89f0b0b15085c9d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d4403f70d89f0b0b15085c9d",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Hb29cwvtPMH6wThCBqGQ5"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4w7PnGeWSbOOwcWhpcJyDw",
+  "name": "Fábio Della",
+  "uri": "spotify:artist:4w7PnGeWSbOOwcWhpcJyDw",
+  "followers": {
+    "href": null,
+    "total": 381
+  },
+  "genres": [
+    "musica catarinense"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb513b833edcb738eb8effa78f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174513b833edcb738eb8effa78f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178513b833edcb738eb8effa78f",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4w7PnGeWSbOOwcWhpcJyDw"
+  }
+}

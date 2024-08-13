@@ -1,0 +1,33 @@
+{
+  "id": "6d26lduydihdBQYBoy1kK7",
+  "name": "Tako",
+  "uri": "spotify:artist:6d26lduydihdBQYBoy1kK7",
+  "followers": {
+    "href": null,
+    "total": 116
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738b82e9564f1db9109af56366",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028b82e9564f1db9109af56366",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518b82e9564f1db9109af56366",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6d26lduydihdBQYBoy1kK7"
+  }
+}

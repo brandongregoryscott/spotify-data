@@ -1,0 +1,33 @@
+{
+  "id": "40BBk910gjFkNjUg60NcOB",
+  "name": "Coolibah",
+  "uri": "spotify:artist:40BBk910gjFkNjUg60NcOB",
+  "followers": {
+    "href": null,
+    "total": 635
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba956206e8f52d6f4821758ca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a956206e8f52d6f4821758ca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a956206e8f52d6f4821758ca",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/40BBk910gjFkNjUg60NcOB"
+  }
+}

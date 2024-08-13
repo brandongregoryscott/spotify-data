@@ -1,0 +1,33 @@
+{
+  "id": "4kpzQdMFiixEQ9iqyE3vhD",
+  "name": "Relaxer",
+  "uri": "spotify:artist:4kpzQdMFiixEQ9iqyE3vhD",
+  "followers": {
+    "href": null,
+    "total": 789
+  },
+  "genres": [
+    "experimental techno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27388406d891024671f370ac929",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0288406d891024671f370ac929",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485188406d891024671f370ac929",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4kpzQdMFiixEQ9iqyE3vhD"
+  }
+}

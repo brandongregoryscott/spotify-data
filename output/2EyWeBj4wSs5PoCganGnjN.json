@@ -1,0 +1,33 @@
+{
+  "id": "2EyWeBj4wSs5PoCganGnjN",
+  "name": "Parzaa",
+  "uri": "spotify:artist:2EyWeBj4wSs5PoCganGnjN",
+  "followers": {
+    "href": null,
+    "total": 182
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd1eb5cfd8d7137498c42d662",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d1eb5cfd8d7137498c42d662",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d1eb5cfd8d7137498c42d662",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2EyWeBj4wSs5PoCganGnjN"
+  }
+}

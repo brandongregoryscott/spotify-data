@@ -1,0 +1,33 @@
+{
+  "id": "25wYTlmvnpIHL0FrHwzuOX",
+  "name": "Sti1a",
+  "uri": "spotify:artist:25wYTlmvnpIHL0FrHwzuOX",
+  "followers": {
+    "href": null,
+    "total": 72
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebec8d76fbece42f3e3db7d356",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ec8d76fbece42f3e3db7d356",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ec8d76fbece42f3e3db7d356",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/25wYTlmvnpIHL0FrHwzuOX"
+  }
+}

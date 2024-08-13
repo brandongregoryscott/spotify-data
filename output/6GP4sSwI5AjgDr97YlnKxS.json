@@ -1,0 +1,33 @@
+{
+  "id": "6GP4sSwI5AjgDr97YlnKxS",
+  "name": "Electra",
+  "uri": "spotify:artist:6GP4sSwI5AjgDr97YlnKxS",
+  "followers": {
+    "href": null,
+    "total": 5517
+  },
+  "genres": [
+    "ostrock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731299aec93f17c0ec45e7260f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021299aec93f17c0ec45e7260f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511299aec93f17c0ec45e7260f",
+      "width": 64
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6GP4sSwI5AjgDr97YlnKxS"
+  }
+}

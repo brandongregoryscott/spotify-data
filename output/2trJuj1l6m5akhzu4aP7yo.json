@@ -1,0 +1,33 @@
+{
+  "id": "2trJuj1l6m5akhzu4aP7yo",
+  "name": "June",
+  "uri": "spotify:artist:2trJuj1l6m5akhzu4aP7yo",
+  "followers": {
+    "href": null,
+    "total": 1206
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc666d7b81bf5c60e420d9893",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c666d7b81bf5c60e420d9893",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c666d7b81bf5c60e420d9893",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2trJuj1l6m5akhzu4aP7yo"
+  }
+}

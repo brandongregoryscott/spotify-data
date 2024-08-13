@@ -1,0 +1,33 @@
+{
+  "id": "4dCrbyFhTkf6BrnOmWbeLY",
+  "name": "Stopwatch",
+  "uri": "spotify:artist:4dCrbyFhTkf6BrnOmWbeLY",
+  "followers": {
+    "href": null,
+    "total": 262
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb106d225d5dd3513f9ddce00d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174106d225d5dd3513f9ddce00d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178106d225d5dd3513f9ddce00d",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4dCrbyFhTkf6BrnOmWbeLY"
+  }
+}

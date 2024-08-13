@@ -1,0 +1,34 @@
+{
+  "id": "56bnvm60S1fiQKqczVetaG",
+  "name": "The Dudes",
+  "uri": "spotify:artist:56bnvm60S1fiQKqczVetaG",
+  "followers": {
+    "href": null,
+    "total": 9951
+  },
+  "genres": [
+    "calgary indie",
+    "canadian indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cf696f3537678c7b790ce212",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cf696f3537678c7b790ce212",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cf696f3537678c7b790ce212",
+      "width": 64
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/56bnvm60S1fiQKqczVetaG"
+  }
+}

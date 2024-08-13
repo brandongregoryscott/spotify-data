@@ -1,0 +1,33 @@
+{
+  "id": "7pHXlosvksMuLEjOPlCNMd",
+  "name": "Mel Fine",
+  "uri": "spotify:artist:7pHXlosvksMuLEjOPlCNMd",
+  "followers": {
+    "href": null,
+    "total": 797
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfeda3f3e8eb29845d02c7dca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174feda3f3e8eb29845d02c7dca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178feda3f3e8eb29845d02c7dca",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7pHXlosvksMuLEjOPlCNMd"
+  }
+}

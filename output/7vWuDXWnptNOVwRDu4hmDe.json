@@ -1,0 +1,33 @@
+{
+  "id": "7vWuDXWnptNOVwRDu4hmDe",
+  "name": "Isabelle",
+  "uri": "spotify:artist:7vWuDXWnptNOVwRDu4hmDe",
+  "followers": {
+    "href": null,
+    "total": 182
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1fe9dc189930de8a3a4f533f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051741fe9dc189930de8a3a4f533f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1781fe9dc189930de8a3a4f533f",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7vWuDXWnptNOVwRDu4hmDe"
+  }
+}

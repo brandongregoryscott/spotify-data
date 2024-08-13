@@ -1,0 +1,33 @@
+{
+  "id": "7orMHxOvOZ1y41JChpoxEY",
+  "name": "Nuestró",
+  "uri": "spotify:artist:7orMHxOvOZ1y41JChpoxEY",
+  "followers": {
+    "href": null,
+    "total": 236
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8fb6ddd78b925c3ed2a4a416",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051748fb6ddd78b925c3ed2a4a416",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1788fb6ddd78b925c3ed2a4a416",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7orMHxOvOZ1y41JChpoxEY"
+  }
+}

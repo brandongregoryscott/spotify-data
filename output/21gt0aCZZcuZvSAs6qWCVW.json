@@ -1,0 +1,33 @@
+{
+  "id": "21gt0aCZZcuZvSAs6qWCVW",
+  "name": "Pakin",
+  "uri": "spotify:artist:21gt0aCZZcuZvSAs6qWCVW",
+  "followers": {
+    "href": null,
+    "total": 170
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb27fcf78820edf089b15c59a3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517427fcf78820edf089b15c59a3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17827fcf78820edf089b15c59a3",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/21gt0aCZZcuZvSAs6qWCVW"
+  }
+}

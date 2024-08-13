@@ -1,0 +1,33 @@
+{
+  "id": "5sUWWBYaQTmgsU5bxAjp6r",
+  "name": "Lesser Degree",
+  "uri": "spotify:artist:5sUWWBYaQTmgsU5bxAjp6r",
+  "followers": {
+    "href": null,
+    "total": 105
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f3ef55865c10a1b598dd7ef6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f3ef55865c10a1b598dd7ef6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f3ef55865c10a1b598dd7ef6",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5sUWWBYaQTmgsU5bxAjp6r"
+  }
+}

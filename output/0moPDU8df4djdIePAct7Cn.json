@@ -1,0 +1,33 @@
+{
+  "id": "0moPDU8df4djdIePAct7Cn",
+  "name": "SOLANA",
+  "uri": "spotify:artist:0moPDU8df4djdIePAct7Cn",
+  "followers": {
+    "href": null,
+    "total": 384
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebff7dbb713e7a89602b0ef943",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ff7dbb713e7a89602b0ef943",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ff7dbb713e7a89602b0ef943",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0moPDU8df4djdIePAct7Cn"
+  }
+}

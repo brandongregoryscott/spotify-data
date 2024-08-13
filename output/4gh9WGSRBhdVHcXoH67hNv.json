@@ -1,0 +1,33 @@
+{
+  "id": "4gh9WGSRBhdVHcXoH67hNv",
+  "name": "Daniel F",
+  "uri": "spotify:artist:4gh9WGSRBhdVHcXoH67hNv",
+  "followers": {
+    "href": null,
+    "total": 12487
+  },
+  "genres": [
+    "peruvian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb918bcf692ceff3cd809d1ded",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174918bcf692ceff3cd809d1ded",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178918bcf692ceff3cd809d1ded",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4gh9WGSRBhdVHcXoH67hNv"
+  }
+}

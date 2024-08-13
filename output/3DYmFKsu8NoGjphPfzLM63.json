@@ -1,0 +1,33 @@
+{
+  "id": "3DYmFKsu8NoGjphPfzLM63",
+  "name": "Alvino",
+  "uri": "spotify:artist:3DYmFKsu8NoGjphPfzLM63",
+  "followers": {
+    "href": null,
+    "total": 580
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735478ff08266ee2e52a726aef",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025478ff08266ee2e52a726aef",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515478ff08266ee2e52a726aef",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3DYmFKsu8NoGjphPfzLM63"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3zYlyxKxwBaxNy1cMMr5CF",
+  "name": "Tanchiky",
+  "uri": "spotify:artist:3zYlyxKxwBaxNy1cMMr5CF",
+  "followers": {
+    "href": null,
+    "total": 11601
+  },
+  "genres": [
+    "rhythm game"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf665c42bada87426b32818f0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f665c42bada87426b32818f0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f665c42bada87426b32818f0",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3zYlyxKxwBaxNy1cMMr5CF"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5mTe1N36hL120FgwrJ0TKO",
+  "name": "ASTA",
+  "uri": "spotify:artist:5mTe1N36hL120FgwrJ0TKO",
+  "followers": {
+    "href": null,
+    "total": 881
+  },
+  "genres": [
+    "aesthetic rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbae47c394df0f331540df4d0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bae47c394df0f331540df4d0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bae47c394df0f331540df4d0",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5mTe1N36hL120FgwrJ0TKO"
+  }
+}

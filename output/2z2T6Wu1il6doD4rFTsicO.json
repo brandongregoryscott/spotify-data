@@ -1,0 +1,33 @@
+{
+  "id": "2z2T6Wu1il6doD4rFTsicO",
+  "name": "Wal de Mar",
+  "uri": "spotify:artist:2z2T6Wu1il6doD4rFTsicO",
+  "followers": {
+    "href": null,
+    "total": 1000
+  },
+  "genres": [
+    "austrian hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba43a10289fe7de451ddbb990",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a43a10289fe7de451ddbb990",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a43a10289fe7de451ddbb990",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2z2T6Wu1il6doD4rFTsicO"
+  }
+}

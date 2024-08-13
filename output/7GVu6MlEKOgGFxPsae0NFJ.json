@@ -1,0 +1,34 @@
+{
+  "id": "7GVu6MlEKOgGFxPsae0NFJ",
+  "name": "Martinez",
+  "uri": "spotify:artist:7GVu6MlEKOgGFxPsae0NFJ",
+  "followers": {
+    "href": null,
+    "total": 4607
+  },
+  "genres": [
+    "dansband",
+    "swedish country"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb28fdd9764989229288b1e0f3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517428fdd9764989229288b1e0f3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17828fdd9764989229288b1e0f3",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7GVu6MlEKOgGFxPsae0NFJ"
+  }
+}

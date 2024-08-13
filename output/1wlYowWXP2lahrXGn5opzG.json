@@ -1,0 +1,33 @@
+{
+  "id": "1wlYowWXP2lahrXGn5opzG",
+  "name": "Lal'Ba",
+  "uri": "spotify:artist:1wlYowWXP2lahrXGn5opzG",
+  "followers": {
+    "href": null,
+    "total": 1798
+  },
+  "genres": [
+    "musica catalana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb605f37e038fad24498835748",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174605f37e038fad24498835748",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178605f37e038fad24498835748",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1wlYowWXP2lahrXGn5opzG"
+  }
+}

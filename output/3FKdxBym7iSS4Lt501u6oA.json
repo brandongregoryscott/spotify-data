@@ -1,0 +1,33 @@
+{
+  "id": "3FKdxBym7iSS4Lt501u6oA",
+  "name": "Jerry Cole",
+  "uri": "spotify:artist:3FKdxBym7iSS4Lt501u6oA",
+  "followers": {
+    "href": null,
+    "total": 176
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27370cdbdf46b7532d1fd777b5f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0270cdbdf46b7532d1fd777b5f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485170cdbdf46b7532d1fd777b5f",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3FKdxBym7iSS4Lt501u6oA"
+  }
+}

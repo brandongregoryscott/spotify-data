@@ -1,0 +1,33 @@
+{
+  "id": "4PiKsi0f81ItNyuBqhGZpT",
+  "name": "In Waters",
+  "uri": "spotify:artist:4PiKsi0f81ItNyuBqhGZpT",
+  "followers": {
+    "href": null,
+    "total": 86
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb60279b11a48da31f0d3c3dda",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517460279b11a48da31f0d3c3dda",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17860279b11a48da31f0d3c3dda",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4PiKsi0f81ItNyuBqhGZpT"
+  }
+}

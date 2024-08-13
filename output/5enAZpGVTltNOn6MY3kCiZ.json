@@ -1,0 +1,33 @@
+{
+  "id": "5enAZpGVTltNOn6MY3kCiZ",
+  "name": "Classic Cloud",
+  "uri": "spotify:artist:5enAZpGVTltNOn6MY3kCiZ",
+  "followers": {
+    "href": null,
+    "total": 103
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b8cd3a6e3ba04b3f45c2c717",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b8cd3a6e3ba04b3f45c2c717",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b8cd3a6e3ba04b3f45c2c717",
+      "width": 64
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5enAZpGVTltNOn6MY3kCiZ"
+  }
+}

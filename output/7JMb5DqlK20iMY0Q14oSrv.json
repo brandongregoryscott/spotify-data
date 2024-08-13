@@ -1,0 +1,33 @@
+{
+  "id": "7JMb5DqlK20iMY0Q14oSrv",
+  "name": "David Mauricio",
+  "uri": "spotify:artist:7JMb5DqlK20iMY0Q14oSrv",
+  "followers": {
+    "href": null,
+    "total": 227
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb561581d10c763b0119cb075",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b561581d10c763b0119cb075",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b561581d10c763b0119cb075",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7JMb5DqlK20iMY0Q14oSrv"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0eCyzkr1zD0BuupAaUjDYL",
+  "name": "Sibla",
+  "uri": "spotify:artist:0eCyzkr1zD0BuupAaUjDYL",
+  "followers": {
+    "href": null,
+    "total": 363
+  },
+  "genres": [
+    "deep dubstep"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb24ae9e4e97b1cf9a63a02b7a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517424ae9e4e97b1cf9a63a02b7a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17824ae9e4e97b1cf9a63a02b7a",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0eCyzkr1zD0BuupAaUjDYL"
+  }
+}

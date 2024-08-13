@@ -1,0 +1,33 @@
+{
+  "id": "78ksSRplYSkS4xAKiYcJdp",
+  "name": "RAY",
+  "uri": "spotify:artist:78ksSRplYSkS4xAKiYcJdp",
+  "followers": {
+    "href": null,
+    "total": 727
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe94d1b7edace5e7047f86016",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e94d1b7edace5e7047f86016",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e94d1b7edace5e7047f86016",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/78ksSRplYSkS4xAKiYcJdp"
+  }
+}

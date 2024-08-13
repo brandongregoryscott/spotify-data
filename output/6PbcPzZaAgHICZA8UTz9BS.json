@@ -1,0 +1,34 @@
+{
+  "id": "6PbcPzZaAgHICZA8UTz9BS",
+  "name": "JXO",
+  "uri": "spotify:artist:6PbcPzZaAgHICZA8UTz9BS",
+  "followers": {
+    "href": null,
+    "total": 7946
+  },
+  "genres": [
+    "finnish hip hop",
+    "suomirap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb63255cbdba1522d20d1ceab0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517463255cbdba1522d20d1ceab0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17863255cbdba1522d20d1ceab0",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6PbcPzZaAgHICZA8UTz9BS"
+  }
+}

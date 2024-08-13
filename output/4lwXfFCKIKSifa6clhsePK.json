@@ -1,0 +1,33 @@
+{
+  "id": "4lwXfFCKIKSifa6clhsePK",
+  "name": "Bonnaz",
+  "uri": "spotify:artist:4lwXfFCKIKSifa6clhsePK",
+  "followers": {
+    "href": null,
+    "total": 3296
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe1a92f0700c9f58c932381c7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e1a92f0700c9f58c932381c7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e1a92f0700c9f58c932381c7",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4lwXfFCKIKSifa6clhsePK"
+  }
+}

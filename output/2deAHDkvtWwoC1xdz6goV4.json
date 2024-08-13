@@ -1,0 +1,33 @@
+{
+  "id": "2deAHDkvtWwoC1xdz6goV4",
+  "name": "Leda",
+  "uri": "spotify:artist:2deAHDkvtWwoC1xdz6goV4",
+  "followers": {
+    "href": null,
+    "total": 179
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734260778376a6a9f2898b60c7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024260778376a6a9f2898b60c7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514260778376a6a9f2898b60c7",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2deAHDkvtWwoC1xdz6goV4"
+  }
+}

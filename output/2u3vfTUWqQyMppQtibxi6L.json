@@ -1,0 +1,33 @@
+{
+  "id": "2u3vfTUWqQyMppQtibxi6L",
+  "name": "The Ginger Bakers",
+  "uri": "spotify:artist:2u3vfTUWqQyMppQtibxi6L",
+  "followers": {
+    "href": null,
+    "total": 139
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb06307f81cacad25f4db7020a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517406307f81cacad25f4db7020a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17806307f81cacad25f4db7020a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2u3vfTUWqQyMppQtibxi6L"
+  }
+}

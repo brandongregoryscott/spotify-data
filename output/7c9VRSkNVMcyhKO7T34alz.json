@@ -1,0 +1,33 @@
+{
+  "id": "7c9VRSkNVMcyhKO7T34alz",
+  "name": "Hepa.titus",
+  "uri": "spotify:artist:7c9VRSkNVMcyhKO7T34alz",
+  "followers": {
+    "href": null,
+    "total": 745
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ad7d318fb27e1f71ccbff2ea",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ad7d318fb27e1f71ccbff2ea",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ad7d318fb27e1f71ccbff2ea",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7c9VRSkNVMcyhKO7T34alz"
+  }
+}

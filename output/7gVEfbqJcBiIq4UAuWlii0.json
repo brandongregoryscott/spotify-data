@@ -1,0 +1,33 @@
+{
+  "id": "7gVEfbqJcBiIq4UAuWlii0",
+  "name": "Der Onkel",
+  "uri": "spotify:artist:7gVEfbqJcBiIq4UAuWlii0",
+  "followers": {
+    "href": null,
+    "total": 675
+  },
+  "genres": [
+    "german jazz rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d9861b7ac64b07ff277ebe1b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d9861b7ac64b07ff277ebe1b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d9861b7ac64b07ff277ebe1b",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7gVEfbqJcBiIq4UAuWlii0"
+  }
+}

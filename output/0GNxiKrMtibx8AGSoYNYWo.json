@@ -1,0 +1,33 @@
+{
+  "id": "0GNxiKrMtibx8AGSoYNYWo",
+  "name": "Mirrorish",
+  "uri": "spotify:artist:0GNxiKrMtibx8AGSoYNYWo",
+  "followers": {
+    "href": null,
+    "total": 403
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb18333831c43939ea8aefd8f8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517418333831c43939ea8aefd8f8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17818333831c43939ea8aefd8f8",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0GNxiKrMtibx8AGSoYNYWo"
+  }
+}

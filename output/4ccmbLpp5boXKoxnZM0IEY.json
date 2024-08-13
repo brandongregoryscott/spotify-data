@@ -1,0 +1,33 @@
+{
+  "id": "4ccmbLpp5boXKoxnZM0IEY",
+  "name": "ora pro nobis",
+  "uri": "spotify:artist:4ccmbLpp5boXKoxnZM0IEY",
+  "followers": {
+    "href": null,
+    "total": 189
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba775350e6c9d9f6ec904ba04",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a775350e6c9d9f6ec904ba04",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a775350e6c9d9f6ec904ba04",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4ccmbLpp5boXKoxnZM0IEY"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1VHiqgAfEou8iWrRxbGvex",
+  "name": "Ashton Laurence",
+  "uri": "spotify:artist:1VHiqgAfEou8iWrRxbGvex",
+  "followers": {
+    "href": null,
+    "total": 319
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb08e47e4b5e3297c988e08a03",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517408e47e4b5e3297c988e08a03",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17808e47e4b5e3297c988e08a03",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1VHiqgAfEou8iWrRxbGvex"
+  }
+}

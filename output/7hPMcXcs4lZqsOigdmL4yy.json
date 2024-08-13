@@ -1,0 +1,34 @@
+{
+  "id": "7hPMcXcs4lZqsOigdmL4yy",
+  "name": "Astral Tales",
+  "uri": "spotify:artist:7hPMcXcs4lZqsOigdmL4yy",
+  "followers": {
+    "href": null,
+    "total": 834
+  },
+  "genres": [
+    "cyberpunk",
+    "spacewave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb80777187e6c0235bcbfb5176",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517480777187e6c0235bcbfb5176",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17880777187e6c0235bcbfb5176",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7hPMcXcs4lZqsOigdmL4yy"
+  }
+}

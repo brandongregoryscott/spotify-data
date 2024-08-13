@@ -1,0 +1,33 @@
+{
+  "id": "6HEtTDGXeQPuUOA7jmVj9g",
+  "name": "Mike Spector",
+  "uri": "spotify:artist:6HEtTDGXeQPuUOA7jmVj9g",
+  "followers": {
+    "href": null,
+    "total": 780
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb05b27b2d9a6f133eb11a1d63",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517405b27b2d9a6f133eb11a1d63",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17805b27b2d9a6f133eb11a1d63",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6HEtTDGXeQPuUOA7jmVj9g"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4OKoUaToWSwVISsn7eL7eZ",
+  "name": "raizo",
+  "uri": "spotify:artist:4OKoUaToWSwVISsn7eL7eZ",
+  "followers": {
+    "href": null,
+    "total": 440
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb128c33d758d57f691f0c8f8e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174128c33d758d57f691f0c8f8e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178128c33d758d57f691f0c8f8e",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4OKoUaToWSwVISsn7eL7eZ"
+  }
+}

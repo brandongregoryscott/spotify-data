@@ -1,0 +1,33 @@
+{
+  "id": "4HYFHqymPVWHASwqQlqVDd",
+  "name": "Mk Haven",
+  "uri": "spotify:artist:4HYFHqymPVWHASwqQlqVDd",
+  "followers": {
+    "href": null,
+    "total": 156
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb27114c5d5fe77c1e1cd59ec3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517427114c5d5fe77c1e1cd59ec3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17827114c5d5fe77c1e1cd59ec3",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4HYFHqymPVWHASwqQlqVDd"
+  }
+}

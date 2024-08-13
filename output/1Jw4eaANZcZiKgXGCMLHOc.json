@@ -1,0 +1,33 @@
+{
+  "id": "1Jw4eaANZcZiKgXGCMLHOc",
+  "name": "Don H",
+  "uri": "spotify:artist:1Jw4eaANZcZiKgXGCMLHOc",
+  "followers": {
+    "href": null,
+    "total": 10029
+  },
+  "genres": [
+    "drill espanol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb67131c84d3b899a0240a52b7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517467131c84d3b899a0240a52b7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17867131c84d3b899a0240a52b7",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Jw4eaANZcZiKgXGCMLHOc"
+  }
+}

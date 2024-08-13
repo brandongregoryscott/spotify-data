@@ -1,0 +1,33 @@
+{
+  "id": "39XeC68F6F4m7Qb1GBw8IO",
+  "name": "Matty Owens",
+  "uri": "spotify:artist:39XeC68F6F4m7Qb1GBw8IO",
+  "followers": {
+    "href": null,
+    "total": 528
+  },
+  "genres": [
+    "boston hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb25c76be535ecc055997ecb45",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517425c76be535ecc055997ecb45",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17825c76be535ecc055997ecb45",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/39XeC68F6F4m7Qb1GBw8IO"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6ZYbFRavxLtc1O1qyIzeCo",
+  "name": "Johan",
+  "uri": "spotify:artist:6ZYbFRavxLtc1O1qyIzeCo",
+  "followers": {
+    "href": null,
+    "total": 1321
+  },
+  "genres": [
+    "dutch indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27316670119412fdea296cef44a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0216670119412fdea296cef44a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485116670119412fdea296cef44a",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ZYbFRavxLtc1O1qyIzeCo"
+  }
+}

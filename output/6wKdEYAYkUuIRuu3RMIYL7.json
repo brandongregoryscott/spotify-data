@@ -1,0 +1,33 @@
+{
+  "id": "6wKdEYAYkUuIRuu3RMIYL7",
+  "name": "Pujol",
+  "uri": "spotify:artist:6wKdEYAYkUuIRuu3RMIYL7",
+  "followers": {
+    "href": null,
+    "total": 2661
+  },
+  "genres": [
+    "indie punk"
+  ],
+  "images": [
+    {
+      "height": 400,
+      "url": "https://i.scdn.co/image/b065cc15726f1dbba4ae31f6153d7da46e1f3ed5",
+      "width": 267
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/473d4bcac8d86b7f714777136a734063add9376c",
+      "width": 200
+    },
+    {
+      "height": 96,
+      "url": "https://i.scdn.co/image/feb5cb87cd8238ca914aed128ef0563f119082ad",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6wKdEYAYkUuIRuu3RMIYL7"
+  }
+}

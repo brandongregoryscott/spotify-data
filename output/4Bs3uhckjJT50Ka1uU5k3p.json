@@ -1,0 +1,33 @@
+{
+  "id": "4Bs3uhckjJT50Ka1uU5k3p",
+  "name": "Joakino",
+  "uri": "spotify:artist:4Bs3uhckjJT50Ka1uU5k3p",
+  "followers": {
+    "href": null,
+    "total": 523
+  },
+  "genres": [
+    "pop electronico"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb41aaaa8f375f4441dbd5c5f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b41aaaa8f375f4441dbd5c5f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b41aaaa8f375f4441dbd5c5f",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Bs3uhckjJT50Ka1uU5k3p"
+  }
+}

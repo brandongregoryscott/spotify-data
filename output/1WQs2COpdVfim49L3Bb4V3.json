@@ -1,0 +1,33 @@
+{
+  "id": "1WQs2COpdVfim49L3Bb4V3",
+  "name": "Surrogate",
+  "uri": "spotify:artist:1WQs2COpdVfim49L3Bb4V3",
+  "followers": {
+    "href": null,
+    "total": 1631
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb51c063fbe1a05e8d34039e66",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517451c063fbe1a05e8d34039e66",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17851c063fbe1a05e8d34039e66",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1WQs2COpdVfim49L3Bb4V3"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "439uBGppnK0v9WXM05a6JG",
+  "name": "ko.yo",
+  "uri": "spotify:artist:439uBGppnK0v9WXM05a6JG",
+  "followers": {
+    "href": null,
+    "total": 1209
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebad5c04064d13a3f1a8e5c7ec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ad5c04064d13a3f1a8e5c7ec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ad5c04064d13a3f1a8e5c7ec",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/439uBGppnK0v9WXM05a6JG"
+  }
+}

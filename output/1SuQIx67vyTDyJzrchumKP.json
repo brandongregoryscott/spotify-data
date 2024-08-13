@@ -1,0 +1,33 @@
+{
+  "id": "1SuQIx67vyTDyJzrchumKP",
+  "name": "piothebeck",
+  "uri": "spotify:artist:1SuQIx67vyTDyJzrchumKP",
+  "followers": {
+    "href": null,
+    "total": 341
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb953c8a1dc47d555f2f23e950",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174953c8a1dc47d555f2f23e950",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178953c8a1dc47d555f2f23e950",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1SuQIx67vyTDyJzrchumKP"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1MRuYaXPATMYujESraf5cN",
+  "name": "C Choppa",
+  "uri": "spotify:artist:1MRuYaXPATMYujESraf5cN",
+  "followers": {
+    "href": null,
+    "total": 1955
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaa8b1222d1cc8e26001ed04c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aa8b1222d1cc8e26001ed04c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aa8b1222d1cc8e26001ed04c",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1MRuYaXPATMYujESraf5cN"
+  }
+}

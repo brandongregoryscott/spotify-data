@@ -1,0 +1,33 @@
+{
+  "id": "5IIiCbcbbqu6Oy9sUagnuG",
+  "name": "tokold",
+  "uri": "spotify:artist:5IIiCbcbbqu6Oy9sUagnuG",
+  "followers": {
+    "href": null,
+    "total": 9651
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdf22a8b2779ef4ef47f0c569",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174df22a8b2779ef4ef47f0c569",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178df22a8b2779ef4ef47f0c569",
+      "width": 160
+    }
+  ],
+  "popularity": 46,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5IIiCbcbbqu6Oy9sUagnuG"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4IXk7HgQGx3oOWaZmLZRKn",
+  "name": "Arson",
+  "uri": "spotify:artist:4IXk7HgQGx3oOWaZmLZRKn",
+  "followers": {
+    "href": null,
+    "total": 1557
+  },
+  "genres": [
+    "ghent indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb58772a05c15f8f4e24f64c97",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517458772a05c15f8f4e24f64c97",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17858772a05c15f8f4e24f64c97",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4IXk7HgQGx3oOWaZmLZRKn"
+  }
+}

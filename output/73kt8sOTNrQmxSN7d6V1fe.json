@@ -1,0 +1,33 @@
+{
+  "id": "73kt8sOTNrQmxSN7d6V1fe",
+  "name": "Fagerholm",
+  "uri": "spotify:artist:73kt8sOTNrQmxSN7d6V1fe",
+  "followers": {
+    "href": null,
+    "total": 500
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27357d80e076c43bd3a48f7bc9c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0257d80e076c43bd3a48f7bc9c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485157d80e076c43bd3a48f7bc9c",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/73kt8sOTNrQmxSN7d6V1fe"
+  }
+}

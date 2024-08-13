@@ -1,0 +1,33 @@
+{
+  "id": "5cmPzo2FWXVd0bsxAPLzBx",
+  "name": "Amrig",
+  "uri": "spotify:artist:5cmPzo2FWXVd0bsxAPLzBx",
+  "followers": {
+    "href": null,
+    "total": 215
+  },
+  "genres": [
+    "swazi pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd6f97aecb26d0b34d40b45c9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d6f97aecb26d0b34d40b45c9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d6f97aecb26d0b34d40b45c9",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5cmPzo2FWXVd0bsxAPLzBx"
+  }
+}

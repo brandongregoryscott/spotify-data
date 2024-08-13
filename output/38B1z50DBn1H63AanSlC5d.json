@@ -1,0 +1,33 @@
+{
+  "id": "38B1z50DBn1H63AanSlC5d",
+  "name": "Operator P",
+  "uri": "spotify:artist:38B1z50DBn1H63AanSlC5d",
+  "followers": {
+    "href": null,
+    "total": 424
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe16145f8b86b7e9aa6ab284e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e16145f8b86b7e9aa6ab284e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e16145f8b86b7e9aa6ab284e",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/38B1z50DBn1H63AanSlC5d"
+  }
+}

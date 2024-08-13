@@ -1,0 +1,33 @@
+{
+  "id": "4tknvAPYriGESr4YuXWNEI",
+  "name": "Adam Bolt",
+  "uri": "spotify:artist:4tknvAPYriGESr4YuXWNEI",
+  "followers": {
+    "href": null,
+    "total": 397
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb61eb2d4600774cc1f42c6754",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517461eb2d4600774cc1f42c6754",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17861eb2d4600774cc1f42c6754",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4tknvAPYriGESr4YuXWNEI"
+  }
+}

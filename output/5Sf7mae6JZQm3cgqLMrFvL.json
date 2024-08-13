@@ -1,0 +1,33 @@
+{
+  "id": "5Sf7mae6JZQm3cgqLMrFvL",
+  "name": "Kevin Hambrick",
+  "uri": "spotify:artist:5Sf7mae6JZQm3cgqLMrFvL",
+  "followers": {
+    "href": null,
+    "total": 65
+  },
+  "genres": [
+    "fort wayne indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb83ad215ec1cc08d36562d4ec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517483ad215ec1cc08d36562d4ec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17883ad215ec1cc08d36562d4ec",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Sf7mae6JZQm3cgqLMrFvL"
+  }
+}

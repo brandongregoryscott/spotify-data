@@ -1,0 +1,33 @@
+{
+  "id": "0B15suDyWUUrMTXJNUJ5gH",
+  "name": "Cyberhound",
+  "uri": "spotify:artist:0B15suDyWUUrMTXJNUJ5gH",
+  "followers": {
+    "href": null,
+    "total": 9101
+  },
+  "genres": [
+    "furry"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5441609142af29105c403ebe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051745441609142af29105c403ebe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1785441609142af29105c403ebe",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0B15suDyWUUrMTXJNUJ5gH"
+  }
+}

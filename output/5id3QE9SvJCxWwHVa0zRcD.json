@@ -1,0 +1,34 @@
+{
+  "id": "5id3QE9SvJCxWwHVa0zRcD",
+  "name": "Za!",
+  "uri": "spotify:artist:5id3QE9SvJCxWwHVa0zRcD",
+  "followers": {
+    "href": null,
+    "total": 4193
+  },
+  "genres": [
+    "spanish experimental",
+    "spanish indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdb65a1aae2fcc28f068f2845",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174db65a1aae2fcc28f068f2845",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178db65a1aae2fcc28f068f2845",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5id3QE9SvJCxWwHVa0zRcD"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "5jdx9iK9rdclHYrd80tPna",
+  "name": "absent",
+  "uri": "spotify:artist:5jdx9iK9rdclHYrd80tPna",
+  "followers": {
+    "href": null,
+    "total": 48792
+  },
+  "genres": [
+    "german cloud rap",
+    "german hip hop",
+    "german trap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb765d70d396bdae56a9f69bc6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174765d70d396bdae56a9f69bc6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178765d70d396bdae56a9f69bc6",
+      "width": 160
+    }
+  ],
+  "popularity": 50,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5jdx9iK9rdclHYrd80tPna"
+  }
+}

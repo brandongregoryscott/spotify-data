@@ -1,0 +1,34 @@
+{
+  "id": "6tcPz3BE0p2FMIUq8WFDU7",
+  "name": "schntzl",
+  "uri": "spotify:artist:6tcPz3BE0p2FMIUq8WFDU7",
+  "followers": {
+    "href": null,
+    "total": 3403
+  },
+  "genres": [
+    "belgian indie",
+    "belgian modern jazz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd7aa2a2c906459b591a579df",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d7aa2a2c906459b591a579df",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d7aa2a2c906459b591a579df",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6tcPz3BE0p2FMIUq8WFDU7"
+  }
+}

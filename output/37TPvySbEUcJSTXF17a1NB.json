@@ -1,0 +1,33 @@
+{
+  "id": "37TPvySbEUcJSTXF17a1NB",
+  "name": "Sky Sapiens",
+  "uri": "spotify:artist:37TPvySbEUcJSTXF17a1NB",
+  "followers": {
+    "href": null,
+    "total": 799
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb79ad7ab9a499e9ceec9a2451",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517479ad7ab9a499e9ceec9a2451",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17879ad7ab9a499e9ceec9a2451",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/37TPvySbEUcJSTXF17a1NB"
+  }
+}

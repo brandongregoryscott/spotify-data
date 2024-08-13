@@ -1,0 +1,33 @@
+{
+  "id": "4pbE6ztnUe9E5ksdnQB2Lg",
+  "name": "Kat Hall",
+  "uri": "spotify:artist:4pbE6ztnUe9E5ksdnQB2Lg",
+  "followers": {
+    "href": null,
+    "total": 1705
+  },
+  "genres": [
+    "west coast reggae"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb79978a35e3eec860548624bd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517479978a35e3eec860548624bd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17879978a35e3eec860548624bd",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4pbE6ztnUe9E5ksdnQB2Lg"
+  }
+}

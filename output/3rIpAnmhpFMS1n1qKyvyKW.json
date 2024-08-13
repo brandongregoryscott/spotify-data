@@ -1,0 +1,33 @@
+{
+  "id": "3rIpAnmhpFMS1n1qKyvyKW",
+  "name": "Purin",
+  "uri": "spotify:artist:3rIpAnmhpFMS1n1qKyvyKW",
+  "followers": {
+    "href": null,
+    "total": 139
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb09be6ecf2cca953d9530d8a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b09be6ecf2cca953d9530d8a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b09be6ecf2cca953d9530d8a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3rIpAnmhpFMS1n1qKyvyKW"
+  }
+}

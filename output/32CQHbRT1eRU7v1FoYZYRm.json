@@ -1,0 +1,33 @@
+{
+  "id": "32CQHbRT1eRU7v1FoYZYRm",
+  "name": "Fat Face",
+  "uri": "spotify:artist:32CQHbRT1eRU7v1FoYZYRm",
+  "followers": {
+    "href": null,
+    "total": 52
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735cdb1c611624ba35f522886e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025cdb1c611624ba35f522886e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515cdb1c611624ba35f522886e",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/32CQHbRT1eRU7v1FoYZYRm"
+  }
+}

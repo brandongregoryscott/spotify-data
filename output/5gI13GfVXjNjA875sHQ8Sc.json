@@ -1,0 +1,33 @@
+{
+  "id": "5gI13GfVXjNjA875sHQ8Sc",
+  "name": "SAENS",
+  "uri": "spotify:artist:5gI13GfVXjNjA875sHQ8Sc",
+  "followers": {
+    "href": null,
+    "total": 1450
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebab16b69bf5973e313febc80e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ab16b69bf5973e313febc80e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ab16b69bf5973e313febc80e",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5gI13GfVXjNjA875sHQ8Sc"
+  }
+}

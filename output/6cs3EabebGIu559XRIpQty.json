@@ -1,0 +1,34 @@
+{
+  "id": "6cs3EabebGIu559XRIpQty",
+  "name": "Bertolf",
+  "uri": "spotify:artist:6cs3EabebGIu559XRIpQty",
+  "followers": {
+    "href": null,
+    "total": 11015
+  },
+  "genres": [
+    "dutch indie",
+    "dutch pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebca8a3f5f8851fb1f36663e39",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ca8a3f5f8851fb1f36663e39",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ca8a3f5f8851fb1f36663e39",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
+  }
+}

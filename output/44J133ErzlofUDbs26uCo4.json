@@ -1,0 +1,33 @@
+{
+  "id": "44J133ErzlofUDbs26uCo4",
+  "name": "Zen Rest",
+  "uri": "spotify:artist:44J133ErzlofUDbs26uCo4",
+  "followers": {
+    "href": null,
+    "total": 42
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735cbdf6139db935fa263bdf7d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025cbdf6139db935fa263bdf7d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515cbdf6139db935fa263bdf7d",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/44J133ErzlofUDbs26uCo4"
+  }
+}

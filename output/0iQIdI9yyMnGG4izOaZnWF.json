@@ -1,0 +1,33 @@
+{
+  "id": "0iQIdI9yyMnGG4izOaZnWF",
+  "name": "Levine",
+  "uri": "spotify:artist:0iQIdI9yyMnGG4izOaZnWF",
+  "followers": {
+    "href": null,
+    "total": 102
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27365fe1907d1029e090c0aec37",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0265fe1907d1029e090c0aec37",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485165fe1907d1029e090c0aec37",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0iQIdI9yyMnGG4izOaZnWF"
+  }
+}

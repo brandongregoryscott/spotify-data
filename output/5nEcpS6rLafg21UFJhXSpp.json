@@ -1,0 +1,33 @@
+{
+  "id": "5nEcpS6rLafg21UFJhXSpp",
+  "name": "Willebrant",
+  "uri": "spotify:artist:5nEcpS6rLafg21UFJhXSpp",
+  "followers": {
+    "href": null,
+    "total": 970
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc7bba83d72e954fdc09d9cfa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c7bba83d72e954fdc09d9cfa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c7bba83d72e954fdc09d9cfa",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5nEcpS6rLafg21UFJhXSpp"
+  }
+}

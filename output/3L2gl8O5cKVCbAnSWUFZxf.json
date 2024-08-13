@@ -1,0 +1,33 @@
+{
+  "id": "3L2gl8O5cKVCbAnSWUFZxf",
+  "name": "Sophie Hunter",
+  "uri": "spotify:artist:3L2gl8O5cKVCbAnSWUFZxf",
+  "followers": {
+    "href": null,
+    "total": 47028
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf813eebec13b68c0fd7b9268",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f813eebec13b68c0fd7b9268",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f813eebec13b68c0fd7b9268",
+      "width": 160
+    }
+  ],
+  "popularity": 46,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3L2gl8O5cKVCbAnSWUFZxf"
+  }
+}

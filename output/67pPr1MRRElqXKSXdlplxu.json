@@ -1,0 +1,33 @@
+{
+  "id": "67pPr1MRRElqXKSXdlplxu",
+  "name": "Baseek",
+  "uri": "spotify:artist:67pPr1MRRElqXKSXdlplxu",
+  "followers": {
+    "href": null,
+    "total": 741
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcb47816f129b01d53e17f0b3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cb47816f129b01d53e17f0b3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cb47816f129b01d53e17f0b3",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/67pPr1MRRElqXKSXdlplxu"
+  }
+}

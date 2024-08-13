@@ -1,0 +1,33 @@
+{
+  "id": "2UiO9HUD4JNnhZ8KQZ5KDe",
+  "name": "kls.",
+  "uri": "spotify:artist:2UiO9HUD4JNnhZ8KQZ5KDe",
+  "followers": {
+    "href": null,
+    "total": 5619
+  },
+  "genres": [
+    "finnish worship"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb31d9696a341185111e880ec3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517431d9696a341185111e880ec3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17831d9696a341185111e880ec3",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2UiO9HUD4JNnhZ8KQZ5KDe"
+  }
+}

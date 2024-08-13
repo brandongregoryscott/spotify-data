@@ -1,0 +1,33 @@
+{
+  "id": "67D2ObJKhiMDC4eHZcAHga",
+  "name": "The User Lives",
+  "uri": "spotify:artist:67D2ObJKhiMDC4eHZcAHga",
+  "followers": {
+    "href": null,
+    "total": 769
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ef6ad3adc941378706826d98",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ef6ad3adc941378706826d98",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ef6ad3adc941378706826d98",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/67D2ObJKhiMDC4eHZcAHga"
+  }
+}

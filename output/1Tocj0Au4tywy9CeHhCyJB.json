@@ -1,0 +1,33 @@
+{
+  "id": "1Tocj0Au4tywy9CeHhCyJB",
+  "name": "Campus",
+  "uri": "spotify:artist:1Tocj0Au4tywy9CeHhCyJB",
+  "followers": {
+    "href": null,
+    "total": 614
+  },
+  "genres": [
+    "belgian hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbe4841be12ae162a4c701ee7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174be4841be12ae162a4c701ee7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178be4841be12ae162a4c701ee7",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Tocj0Au4tywy9CeHhCyJB"
+  }
+}

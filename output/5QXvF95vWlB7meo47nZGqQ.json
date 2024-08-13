@@ -1,0 +1,33 @@
+{
+  "id": "5QXvF95vWlB7meo47nZGqQ",
+  "name": "Teenage Kicks",
+  "uri": "spotify:artist:5QXvF95vWlB7meo47nZGqQ",
+  "followers": {
+    "href": null,
+    "total": 893
+  },
+  "genres": [
+    "garage punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb18296c9235d2d971b8b71d19",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517418296c9235d2d971b8b71d19",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17818296c9235d2d971b8b71d19",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5QXvF95vWlB7meo47nZGqQ"
+  }
+}

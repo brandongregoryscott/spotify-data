@@ -1,0 +1,33 @@
+{
+  "id": "5DYxxRirshKFjIoucKax9X",
+  "name": "Zap Black",
+  "uri": "spotify:artist:5DYxxRirshKFjIoucKax9X",
+  "followers": {
+    "href": null,
+    "total": 15
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734223a052bd4f3099849f22c9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024223a052bd4f3099849f22c9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514223a052bd4f3099849f22c9",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5DYxxRirshKFjIoucKax9X"
+  }
+}

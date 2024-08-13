@@ -1,0 +1,34 @@
+{
+  "id": "5ncNJNBW6jRC3xnY7ZSzLj",
+  "name": "JFB",
+  "uri": "spotify:artist:5ncNJNBW6jRC3xnY7ZSzLj",
+  "followers": {
+    "href": null,
+    "total": 9220
+  },
+  "genres": [
+    "breakbeat",
+    "electro swing"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebabab84ca54a4166d4f907311",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174abab84ca54a4166d4f907311",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178abab84ca54a4166d4f907311",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ncNJNBW6jRC3xnY7ZSzLj"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6yAU69cTqYRuizldebquYb",
+  "name": "Ben Weighill",
+  "uri": "spotify:artist:6yAU69cTqYRuizldebquYb",
+  "followers": {
+    "href": null,
+    "total": 1291
+  },
+  "genres": [
+    "acoustic cover"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebda000b3dbd52cc8e43711bb4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174da000b3dbd52cc8e43711bb4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178da000b3dbd52cc8e43711bb4",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6yAU69cTqYRuizldebquYb"
+  }
+}

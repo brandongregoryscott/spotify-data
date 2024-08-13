@@ -1,0 +1,33 @@
+{
+  "id": "2TX5jYdTztkXprOcGUMkFo",
+  "name": "Jess Stacy",
+  "uri": "spotify:artist:2TX5jYdTztkXprOcGUMkFo",
+  "followers": {
+    "href": null,
+    "total": 441
+  },
+  "genres": [
+    "stride"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27397f454cbc5a7e38d7988e04b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0297f454cbc5a7e38d7988e04b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485197f454cbc5a7e38d7988e04b",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2TX5jYdTztkXprOcGUMkFo"
+  }
+}

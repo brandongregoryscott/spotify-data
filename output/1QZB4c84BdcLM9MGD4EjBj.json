@@ -1,0 +1,33 @@
+{
+  "id": "1QZB4c84BdcLM9MGD4EjBj",
+  "name": "Likanen Etelä",
+  "uri": "spotify:artist:1QZB4c84BdcLM9MGD4EjBj",
+  "followers": {
+    "href": null,
+    "total": 23945
+  },
+  "genres": [
+    "finnish hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736a843fa3acb597aaf75d521f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026a843fa3acb597aaf75d521f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516a843fa3acb597aaf75d521f",
+      "width": 64
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1QZB4c84BdcLM9MGD4EjBj"
+  }
+}

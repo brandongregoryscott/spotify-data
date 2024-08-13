@@ -1,0 +1,33 @@
+{
+  "id": "4TaIAHSrmJz39bSLfzH5KG",
+  "name": "Paul Whitehead",
+  "uri": "spotify:artist:4TaIAHSrmJz39bSLfzH5KG",
+  "followers": {
+    "href": null,
+    "total": 377
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735e5df8ee38b0ac5481eb97cb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025e5df8ee38b0ac5481eb97cb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515e5df8ee38b0ac5481eb97cb",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4TaIAHSrmJz39bSLfzH5KG"
+  }
+}

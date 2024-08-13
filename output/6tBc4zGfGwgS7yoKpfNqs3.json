@@ -1,0 +1,33 @@
+{
+  "id": "6tBc4zGfGwgS7yoKpfNqs3",
+  "name": "quinn bee",
+  "uri": "spotify:artist:6tBc4zGfGwgS7yoKpfNqs3",
+  "followers": {
+    "href": null,
+    "total": 84
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb75662795137f5bc198b0ecbe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517475662795137f5bc198b0ecbe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17875662795137f5bc198b0ecbe",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6tBc4zGfGwgS7yoKpfNqs3"
+  }
+}

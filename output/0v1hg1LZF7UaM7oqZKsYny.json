@@ -1,0 +1,33 @@
+{
+  "id": "0v1hg1LZF7UaM7oqZKsYny",
+  "name": "Chloe Le Page",
+  "uri": "spotify:artist:0v1hg1LZF7UaM7oqZKsYny",
+  "followers": {
+    "href": null,
+    "total": 625
+  },
+  "genres": [
+    "acoustic cover"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf71636a8a67c8adeda358214",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f71636a8a67c8adeda358214",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f71636a8a67c8adeda358214",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0v1hg1LZF7UaM7oqZKsYny"
+  }
+}

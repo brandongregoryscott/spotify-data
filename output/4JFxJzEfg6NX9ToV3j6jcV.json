@@ -1,0 +1,33 @@
+{
+  "id": "4JFxJzEfg6NX9ToV3j6jcV",
+  "name": "Tanoportuno",
+  "uri": "spotify:artist:4JFxJzEfg6NX9ToV3j6jcV",
+  "followers": {
+    "href": null,
+    "total": 131
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcf30bbd7478f9e5f5a279e23",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cf30bbd7478f9e5f5a279e23",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cf30bbd7478f9e5f5a279e23",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4JFxJzEfg6NX9ToV3j6jcV"
+  }
+}

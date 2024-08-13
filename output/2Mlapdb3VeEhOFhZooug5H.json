@@ -1,0 +1,33 @@
+{
+  "id": "2Mlapdb3VeEhOFhZooug5H",
+  "name": "つぼみ",
+  "uri": "spotify:artist:2Mlapdb3VeEhOFhZooug5H",
+  "followers": {
+    "href": null,
+    "total": 587
+  },
+  "genres": [
+    "shojo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732e2a47d411e71ed4f453dc4d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022e2a47d411e71ed4f453dc4d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512e2a47d411e71ed4f453dc4d",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Mlapdb3VeEhOFhZooug5H"
+  }
+}

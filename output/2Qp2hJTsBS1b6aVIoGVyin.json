@@ -1,0 +1,33 @@
+{
+  "id": "2Qp2hJTsBS1b6aVIoGVyin",
+  "name": "Blocka",
+  "uri": "spotify:artist:2Qp2hJTsBS1b6aVIoGVyin",
+  "followers": {
+    "href": null,
+    "total": 667
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb53bfa1ea4242ab3882a40966",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517453bfa1ea4242ab3882a40966",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17853bfa1ea4242ab3882a40966",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Qp2hJTsBS1b6aVIoGVyin"
+  }
+}

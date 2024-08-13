@@ -1,0 +1,33 @@
+{
+  "id": "36ws0N21AlYMI8YMyiz2Il",
+  "name": "Baakio",
+  "uri": "spotify:artist:36ws0N21AlYMI8YMyiz2Il",
+  "followers": {
+    "href": null,
+    "total": 404
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf5facea0b9aefcd3bf32fc47",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f5facea0b9aefcd3bf32fc47",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f5facea0b9aefcd3bf32fc47",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/36ws0N21AlYMI8YMyiz2Il"
+  }
+}

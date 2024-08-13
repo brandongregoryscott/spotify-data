@@ -1,0 +1,33 @@
+{
+  "id": "3GygsZJn0BoqIY1V1zfPTP",
+  "name": "N2U",
+  "uri": "spotify:artist:3GygsZJn0BoqIY1V1zfPTP",
+  "followers": {
+    "href": null,
+    "total": 7192
+  },
+  "genres": [
+    "new jack smooth"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273152a8ef78494e5e7529e3705",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02152a8ef78494e5e7529e3705",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851152a8ef78494e5e7529e3705",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3GygsZJn0BoqIY1V1zfPTP"
+  }
+}

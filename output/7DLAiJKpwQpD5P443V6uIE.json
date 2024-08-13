@@ -1,0 +1,33 @@
+{
+  "id": "7DLAiJKpwQpD5P443V6uIE",
+  "name": "Reger",
+  "uri": "spotify:artist:7DLAiJKpwQpD5P443V6uIE",
+  "followers": {
+    "href": null,
+    "total": 41
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27373531623fb16da0ea06a4479",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0273531623fb16da0ea06a4479",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485173531623fb16da0ea06a4479",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7DLAiJKpwQpD5P443V6uIE"
+  }
+}

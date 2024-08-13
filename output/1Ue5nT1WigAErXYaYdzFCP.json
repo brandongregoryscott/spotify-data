@@ -1,0 +1,33 @@
+{
+  "id": "1Ue5nT1WigAErXYaYdzFCP",
+  "name": "ELLIE",
+  "uri": "spotify:artist:1Ue5nT1WigAErXYaYdzFCP",
+  "followers": {
+    "href": null,
+    "total": 1484
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730c42c3a455d38ce331f877ea",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020c42c3a455d38ce331f877ea",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510c42c3a455d38ce331f877ea",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Ue5nT1WigAErXYaYdzFCP"
+  }
+}

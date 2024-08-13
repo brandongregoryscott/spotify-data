@@ -1,0 +1,33 @@
+{
+  "id": "4H8hsKrHcnW9JpNq7RQj8P",
+  "name": "Audio Artwork",
+  "uri": "spotify:artist:4H8hsKrHcnW9JpNq7RQj8P",
+  "followers": {
+    "href": null,
+    "total": 164
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb66a4fc9bab9cc1a2a1ddfad4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517466a4fc9bab9cc1a2a1ddfad4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17866a4fc9bab9cc1a2a1ddfad4",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4H8hsKrHcnW9JpNq7RQj8P"
+  }
+}

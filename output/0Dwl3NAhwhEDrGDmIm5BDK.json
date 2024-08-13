@@ -1,0 +1,33 @@
+{
+  "id": "0Dwl3NAhwhEDrGDmIm5BDK",
+  "name": "Tha Family",
+  "uri": "spotify:artist:0Dwl3NAhwhEDrGDmIm5BDK",
+  "followers": {
+    "href": null,
+    "total": 420
+  },
+  "genres": [
+    "memphis hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f5400370dd7ef4511205f44c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f5400370dd7ef4511205f44c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f5400370dd7ef4511205f44c",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Dwl3NAhwhEDrGDmIm5BDK"
+  }
+}

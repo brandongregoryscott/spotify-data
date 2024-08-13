@@ -1,0 +1,33 @@
+{
+  "id": "7LXtZYYmpeWQq2WkrhcDdz",
+  "name": "Jose Pavli",
+  "uri": "spotify:artist:7LXtZYYmpeWQq2WkrhcDdz",
+  "followers": {
+    "href": null,
+    "total": 4627
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb59d0022105af3f245667e5dd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517459d0022105af3f245667e5dd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17859d0022105af3f245667e5dd",
+      "width": 160
+    }
+  ],
+  "popularity": 37,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7LXtZYYmpeWQq2WkrhcDdz"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "3oihoOmPIBgtOkKmw1vTEr",
+  "name": "Pilot",
+  "uri": "spotify:artist:3oihoOmPIBgtOkKmw1vTEr",
+  "followers": {
+    "href": null,
+    "total": 37771
+  },
+  "genres": [
+    "russian punk",
+    "russian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcdeb695045a0a2929b45aa1e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cdeb695045a0a2929b45aa1e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cdeb695045a0a2929b45aa1e",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3oihoOmPIBgtOkKmw1vTEr"
+  }
+}

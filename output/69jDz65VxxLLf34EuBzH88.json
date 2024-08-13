@@ -1,0 +1,33 @@
+{
+  "id": "69jDz65VxxLLf34EuBzH88",
+  "name": "Murphy",
+  "uri": "spotify:artist:69jDz65VxxLLf34EuBzH88",
+  "followers": {
+    "href": null,
+    "total": 24
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273be9dfe8b22b84dfb967e561b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02be9dfe8b22b84dfb967e561b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851be9dfe8b22b84dfb967e561b",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/69jDz65VxxLLf34EuBzH88"
+  }
+}

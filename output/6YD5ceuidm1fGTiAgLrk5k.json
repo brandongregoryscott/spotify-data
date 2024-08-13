@@ -1,0 +1,33 @@
+{
+  "id": "6YD5ceuidm1fGTiAgLrk5k",
+  "name": "C blu",
+  "uri": "spotify:artist:6YD5ceuidm1fGTiAgLrk5k",
+  "followers": {
+    "href": null,
+    "total": 687
+  },
+  "genres": [
+    "bronx drill"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27325c13a82b8a46b742e2196d5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0225c13a82b8a46b742e2196d5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485125c13a82b8a46b742e2196d5",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6YD5ceuidm1fGTiAgLrk5k"
+  }
+}

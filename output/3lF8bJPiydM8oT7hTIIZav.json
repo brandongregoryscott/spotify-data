@@ -1,0 +1,33 @@
+{
+  "id": "3lF8bJPiydM8oT7hTIIZav",
+  "name": "Baxter",
+  "uri": "spotify:artist:3lF8bJPiydM8oT7hTIIZav",
+  "followers": {
+    "href": null,
+    "total": 489
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734d25ea26cd48c5654263997a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024d25ea26cd48c5654263997a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514d25ea26cd48c5654263997a",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3lF8bJPiydM8oT7hTIIZav"
+  }
+}

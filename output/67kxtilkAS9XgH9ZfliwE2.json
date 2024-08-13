@@ -1,0 +1,33 @@
+{
+  "id": "67kxtilkAS9XgH9ZfliwE2",
+  "name": "Joystick",
+  "uri": "spotify:artist:67kxtilkAS9XgH9ZfliwE2",
+  "followers": {
+    "href": null,
+    "total": 626
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb389753d0ec27de7d9de89084",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174389753d0ec27de7d9de89084",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178389753d0ec27de7d9de89084",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/67kxtilkAS9XgH9ZfliwE2"
+  }
+}

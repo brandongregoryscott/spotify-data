@@ -1,0 +1,33 @@
+{
+  "id": "5kDoo6eWGmGQ2HdwibX3EP",
+  "name": "BLAST",
+  "uri": "spotify:artist:5kDoo6eWGmGQ2HdwibX3EP",
+  "followers": {
+    "href": null,
+    "total": 87
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731486fa04dc29afc0990b5b6f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021486fa04dc29afc0990b5b6f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511486fa04dc29afc0990b5b6f",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5kDoo6eWGmGQ2HdwibX3EP"
+  }
+}

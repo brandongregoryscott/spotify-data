@@ -1,0 +1,33 @@
+{
+  "id": "5rytKg8dlNhhb2nZ47y9IW",
+  "name": "Daan",
+  "uri": "spotify:artist:5rytKg8dlNhhb2nZ47y9IW",
+  "followers": {
+    "href": null,
+    "total": 32343
+  },
+  "genres": [
+    "belgian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb657a64e04f0e433e89e4206b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174657a64e04f0e433e89e4206b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178657a64e04f0e433e89e4206b",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5rytKg8dlNhhb2nZ47y9IW"
+  }
+}

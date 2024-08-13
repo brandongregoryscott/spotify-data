@@ -1,0 +1,33 @@
+{
+  "id": "6jJ0s89eD6GaHleKKya26X",
+  "name": "Katy Perry",
+  "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X",
+  "followers": {
+    "href": null,
+    "total": 34048058
+  },
+  "genres": [
+    "pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5e5f676a99a81dba06cc3db6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051745e5f676a99a81dba06cc3db6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1785e5f676a99a81dba06cc3db6",
+      "width": 160
+    }
+  ],
+  "popularity": 85,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+  }
+}

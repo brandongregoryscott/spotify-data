@@ -1,0 +1,33 @@
+{
+  "id": "3M97eUjOdMuFbYXavQ7v1j",
+  "name": "Nicolas Barnes",
+  "uri": "spotify:artist:3M97eUjOdMuFbYXavQ7v1j",
+  "followers": {
+    "href": null,
+    "total": 951
+  },
+  "genres": [
+    "latvian electronic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb480db4c26a0767ecf185bb44",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174480db4c26a0767ecf185bb44",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178480db4c26a0767ecf185bb44",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3M97eUjOdMuFbYXavQ7v1j"
+  }
+}

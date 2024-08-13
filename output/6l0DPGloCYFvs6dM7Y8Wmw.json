@@ -1,0 +1,34 @@
+{
+  "id": "6l0DPGloCYFvs6dM7Y8Wmw",
+  "name": "Aranda",
+  "uri": "spotify:artist:6l0DPGloCYFvs6dM7Y8Wmw",
+  "followers": {
+    "href": null,
+    "total": 47616
+  },
+  "genres": [
+    "hard alternative",
+    "post-grunge"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb00d8673e68baeedff98e418c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517400d8673e68baeedff98e418c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17800d8673e68baeedff98e418c",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6l0DPGloCYFvs6dM7Y8Wmw"
+  }
+}

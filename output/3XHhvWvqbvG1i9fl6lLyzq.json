@@ -1,0 +1,33 @@
+{
+  "id": "3XHhvWvqbvG1i9fl6lLyzq",
+  "name": "Skatan",
+  "uri": "spotify:artist:3XHhvWvqbvG1i9fl6lLyzq",
+  "followers": {
+    "href": null,
+    "total": 249
+  },
+  "genres": [
+    "etherpop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf959483e4d573c773390da75",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f959483e4d573c773390da75",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f959483e4d573c773390da75",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3XHhvWvqbvG1i9fl6lLyzq"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1IoQ6XRJ9zNnVhcdAa4Njb",
+  "name": "jon limon",
+  "uri": "spotify:artist:1IoQ6XRJ9zNnVhcdAa4Njb",
+  "followers": {
+    "href": null,
+    "total": 316
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdf160c424893bd9fb7b6ef47",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174df160c424893bd9fb7b6ef47",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178df160c424893bd9fb7b6ef47",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1IoQ6XRJ9zNnVhcdAa4Njb"
+  }
+}

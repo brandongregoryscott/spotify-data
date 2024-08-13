@@ -1,0 +1,33 @@
+{
+  "id": "5NebKT8CG5D5AA1lf7aRz4",
+  "name": "Oakhurst",
+  "uri": "spotify:artist:5NebKT8CG5D5AA1lf7aRz4",
+  "followers": {
+    "href": null,
+    "total": 546
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27393048eb03c58c32b9c85d9ba",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0293048eb03c58c32b9c85d9ba",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485193048eb03c58c32b9c85d9ba",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5NebKT8CG5D5AA1lf7aRz4"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2qawvgUCgDfZA7CAlqY9yt",
+  "name": "Daemon",
+  "uri": "spotify:artist:2qawvgUCgDfZA7CAlqY9yt",
+  "followers": {
+    "href": null,
+    "total": 2077
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb27fea2bf0dbcc54178ae6c24",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517427fea2bf0dbcc54178ae6c24",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17827fea2bf0dbcc54178ae6c24",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2qawvgUCgDfZA7CAlqY9yt"
+  }
+}

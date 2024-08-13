@@ -1,0 +1,33 @@
+{
+  "id": "6PYpODiShKZhXNxP0AmxSX",
+  "name": "onepast12",
+  "uri": "spotify:artist:6PYpODiShKZhXNxP0AmxSX",
+  "followers": {
+    "href": null,
+    "total": 63
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfa1a2ce6d82316f72a6b1bd3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fa1a2ce6d82316f72a6b1bd3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fa1a2ce6d82316f72a6b1bd3",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6PYpODiShKZhXNxP0AmxSX"
+  }
+}

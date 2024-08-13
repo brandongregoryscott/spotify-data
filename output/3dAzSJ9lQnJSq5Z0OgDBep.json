@@ -1,0 +1,33 @@
+{
+  "id": "3dAzSJ9lQnJSq5Z0OgDBep",
+  "name": "Brad Kane",
+  "uri": "spotify:artist:3dAzSJ9lQnJSq5Z0OgDBep",
+  "followers": {
+    "href": null,
+    "total": 12705
+  },
+  "genres": [
+    "movie tunes"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a22b3c7eefefd14e57cc068b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a22b3c7eefefd14e57cc068b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a22b3c7eefefd14e57cc068b",
+      "width": 64
+    }
+  ],
+  "popularity": 54,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3dAzSJ9lQnJSq5Z0OgDBep"
+  }
+}

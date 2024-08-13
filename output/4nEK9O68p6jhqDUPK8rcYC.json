@@ -1,0 +1,33 @@
+{
+  "id": "4nEK9O68p6jhqDUPK8rcYC",
+  "name": "QunQ",
+  "uri": "spotify:artist:4nEK9O68p6jhqDUPK8rcYC",
+  "followers": {
+    "href": null,
+    "total": 74
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273de46edfb355cd699f8f41263",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02de46edfb355cd699f8f41263",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851de46edfb355cd699f8f41263",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4nEK9O68p6jhqDUPK8rcYC"
+  }
+}

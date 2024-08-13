@@ -1,0 +1,33 @@
+{
+  "id": "3oLY5NvzasiNds27QLs9Pa",
+  "name": "FelMax",
+  "uri": "spotify:artist:3oLY5NvzasiNds27QLs9Pa",
+  "followers": {
+    "href": null,
+    "total": 13633
+  },
+  "genres": [
+    "traprun"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe6e8abff7e6c450bc00b441a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e6e8abff7e6c450bc00b441a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e6e8abff7e6c450bc00b441a",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3oLY5NvzasiNds27QLs9Pa"
+  }
+}

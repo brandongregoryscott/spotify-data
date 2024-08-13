@@ -1,0 +1,33 @@
+{
+  "id": "6DfwFHZZibSgQqg8ta9wnW",
+  "name": "X",
+  "uri": "spotify:artist:6DfwFHZZibSgQqg8ta9wnW",
+  "followers": {
+    "href": null,
+    "total": 2118
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736ddabf97e3e730e3dd823c13",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026ddabf97e3e730e3dd823c13",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516ddabf97e3e730e3dd823c13",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6DfwFHZZibSgQqg8ta9wnW"
+  }
+}

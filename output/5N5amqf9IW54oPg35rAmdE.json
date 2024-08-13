@@ -1,0 +1,33 @@
+{
+  "id": "5N5amqf9IW54oPg35rAmdE",
+  "name": "El Villa",
+  "uri": "spotify:artist:5N5amqf9IW54oPg35rAmdE",
+  "followers": {
+    "href": null,
+    "total": 1067
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27308459f18193b7ec849768c1b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0208459f18193b7ec849768c1b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485108459f18193b7ec849768c1b",
+      "width": 64
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5N5amqf9IW54oPg35rAmdE"
+  }
+}

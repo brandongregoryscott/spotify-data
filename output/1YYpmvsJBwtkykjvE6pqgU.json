@@ -1,0 +1,33 @@
+{
+  "id": "1YYpmvsJBwtkykjvE6pqgU",
+  "name": "Mercer",
+  "uri": "spotify:artist:1YYpmvsJBwtkykjvE6pqgU",
+  "followers": {
+    "href": null,
+    "total": 177
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb39574d118f98f2b731e026e2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517439574d118f98f2b731e026e2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17839574d118f98f2b731e026e2",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1YYpmvsJBwtkykjvE6pqgU"
+  }
+}

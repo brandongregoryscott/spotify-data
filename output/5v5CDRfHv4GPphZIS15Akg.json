@@ -1,0 +1,33 @@
+{
+  "id": "5v5CDRfHv4GPphZIS15Akg",
+  "name": "Oriux",
+  "uri": "spotify:artist:5v5CDRfHv4GPphZIS15Akg",
+  "followers": {
+    "href": null,
+    "total": 1446
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb70ef6bdcc6f1a09f5f01c79",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b70ef6bdcc6f1a09f5f01c79",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b70ef6bdcc6f1a09f5f01c79",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5v5CDRfHv4GPphZIS15Akg"
+  }
+}

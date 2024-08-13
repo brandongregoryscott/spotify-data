@@ -1,0 +1,33 @@
+{
+  "id": "5YnZoQWv8U83csBacGDmhS",
+  "name": "Sil-A",
+  "uri": "spotify:artist:5YnZoQWv8U83csBacGDmhS",
+  "followers": {
+    "href": null,
+    "total": 330
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebad310b9b57d35aa92b205474",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ad310b9b57d35aa92b205474",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ad310b9b57d35aa92b205474",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5YnZoQWv8U83csBacGDmhS"
+  }
+}

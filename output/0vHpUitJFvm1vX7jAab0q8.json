@@ -1,0 +1,33 @@
+{
+  "id": "0vHpUitJFvm1vX7jAab0q8",
+  "name": "Rossi",
+  "uri": "spotify:artist:0vHpUitJFvm1vX7jAab0q8",
+  "followers": {
+    "href": null,
+    "total": 447
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb23adb5eb1f82583f301c6127",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517423adb5eb1f82583f301c6127",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17823adb5eb1f82583f301c6127",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0vHpUitJFvm1vX7jAab0q8"
+  }
+}

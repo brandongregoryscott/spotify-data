@@ -1,0 +1,33 @@
+{
+  "id": "5eUDNCqSpDtkiXqTYMhwAw",
+  "name": "knoodles",
+  "uri": "spotify:artist:5eUDNCqSpDtkiXqTYMhwAw",
+  "followers": {
+    "href": null,
+    "total": 118
+  },
+  "genres": [
+    "christian lo-fi"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcecd9b4927a717f68ce195bf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cecd9b4927a717f68ce195bf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cecd9b4927a717f68ce195bf",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5eUDNCqSpDtkiXqTYMhwAw"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2dElSToXyWiHdRWacvmejH",
+  "name": "Yến Trang",
+  "uri": "spotify:artist:2dElSToXyWiHdRWacvmejH",
+  "followers": {
+    "href": null,
+    "total": 404
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bb7108b71ad99ec938fe7fd8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bb7108b71ad99ec938fe7fd8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bb7108b71ad99ec938fe7fd8",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2dElSToXyWiHdRWacvmejH"
+  }
+}

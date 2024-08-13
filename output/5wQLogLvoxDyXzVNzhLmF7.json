@@ -1,0 +1,33 @@
+{
+  "id": "5wQLogLvoxDyXzVNzhLmF7",
+  "name": "Ranterio",
+  "uri": "spotify:artist:5wQLogLvoxDyXzVNzhLmF7",
+  "followers": {
+    "href": null,
+    "total": 205
+  },
+  "genres": [
+    "argentine metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb36af78e9685048baa3655ea",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b36af78e9685048baa3655ea",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b36af78e9685048baa3655ea",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5wQLogLvoxDyXzVNzhLmF7"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0rkZmIiGZ5kG1L0VT8gFZ3",
+  "name": "Áureo",
+  "uri": "spotify:artist:0rkZmIiGZ5kG1L0VT8gFZ3",
+  "followers": {
+    "href": null,
+    "total": 709
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb453c4073ac4045ad60cab51c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174453c4073ac4045ad60cab51c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178453c4073ac4045ad60cab51c",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0rkZmIiGZ5kG1L0VT8gFZ3"
+  }
+}

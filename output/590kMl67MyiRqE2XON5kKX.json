@@ -1,0 +1,33 @@
+{
+  "id": "590kMl67MyiRqE2XON5kKX",
+  "name": "Bahroot",
+  "uri": "spotify:artist:590kMl67MyiRqE2XON5kKX",
+  "followers": {
+    "href": null,
+    "total": 366
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbdce06a50980a2909a396b0e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bdce06a50980a2909a396b0e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bdce06a50980a2909a396b0e",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/590kMl67MyiRqE2XON5kKX"
+  }
+}

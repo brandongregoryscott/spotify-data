@@ -1,0 +1,34 @@
+{
+  "id": "3Cz6z3clgPkPz84faABaDS",
+  "name": "The Satellite Station",
+  "uri": "spotify:artist:3Cz6z3clgPkPz84faABaDS",
+  "followers": {
+    "href": null,
+    "total": 34646
+  },
+  "genres": [
+    "folk-pop",
+    "modern indie folk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb51cf45e971f3b6f9547f9b6d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517451cf45e971f3b6f9547f9b6d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17851cf45e971f3b6f9547f9b6d",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Cz6z3clgPkPz84faABaDS"
+  }
+}

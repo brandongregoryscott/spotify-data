@@ -1,0 +1,33 @@
+{
+  "id": "5zCXmpe2klqd9LXL9Q7gxa",
+  "name": "Awairo",
+  "uri": "spotify:artist:5zCXmpe2klqd9LXL9Q7gxa",
+  "followers": {
+    "href": null,
+    "total": 1800
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb838528cd5a9b64b727d087ac",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174838528cd5a9b64b727d087ac",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178838528cd5a9b64b727d087ac",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5zCXmpe2klqd9LXL9Q7gxa"
+  }
+}

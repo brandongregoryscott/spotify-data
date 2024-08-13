@@ -1,0 +1,33 @@
+{
+  "id": "3ByhvM0DcwHqI25v9mxVXV",
+  "name": "Mr. Chris",
+  "uri": "spotify:artist:3ByhvM0DcwHqI25v9mxVXV",
+  "followers": {
+    "href": null,
+    "total": 2347
+  },
+  "genres": [
+    "electro latino"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273448b96cf91019e677b0bf33e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02448b96cf91019e677b0bf33e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851448b96cf91019e677b0bf33e",
+      "width": 64
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ByhvM0DcwHqI25v9mxVXV"
+  }
+}

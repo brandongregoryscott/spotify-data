@@ -1,0 +1,34 @@
+{
+  "id": "0g3BS5QoR5r6pOAg1tvwXv",
+  "name": "Dizzy",
+  "uri": "spotify:artist:0g3BS5QoR5r6pOAg1tvwXv",
+  "followers": {
+    "href": null,
+    "total": 42214
+  },
+  "genres": [
+    "modern alternative pop",
+    "ontario indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb58a049d5159d04f30cfa6b6b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517458a049d5159d04f30cfa6b6b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17858a049d5159d04f30cfa6b6b",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv"
+  }
+}

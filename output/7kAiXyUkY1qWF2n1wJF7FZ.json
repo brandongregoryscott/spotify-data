@@ -1,0 +1,33 @@
+{
+  "id": "7kAiXyUkY1qWF2n1wJF7FZ",
+  "name": "Broen",
+  "uri": "spotify:artist:7kAiXyUkY1qWF2n1wJF7FZ",
+  "followers": {
+    "href": null,
+    "total": 3170
+  },
+  "genres": [
+    "oslo indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb95c098059b0432c4afe3f5dd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517495c098059b0432c4afe3f5dd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17895c098059b0432c4afe3f5dd",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7kAiXyUkY1qWF2n1wJF7FZ"
+  }
+}

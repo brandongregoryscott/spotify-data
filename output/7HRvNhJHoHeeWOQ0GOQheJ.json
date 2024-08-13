@@ -1,0 +1,33 @@
+{
+  "id": "7HRvNhJHoHeeWOQ0GOQheJ",
+  "name": "Vidalta",
+  "uri": "spotify:artist:7HRvNhJHoHeeWOQ0GOQheJ",
+  "followers": {
+    "href": null,
+    "total": 64
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb017f132bb4544c12e5fc08ba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174017f132bb4544c12e5fc08ba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178017f132bb4544c12e5fc08ba",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7HRvNhJHoHeeWOQ0GOQheJ"
+  }
+}

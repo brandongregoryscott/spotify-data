@@ -1,0 +1,33 @@
+{
+  "id": "1Qy0G8x4jcOS1XjupM5jse",
+  "name": "Maison B",
+  "uri": "spotify:artist:1Qy0G8x4jcOS1XjupM5jse",
+  "followers": {
+    "href": null,
+    "total": 1386
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273183a0b73fcc27c9e1a4a8fff",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bec02f77f47b0af4fb1518cd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bec02f77f47b0af4fb1518cd",
+      "width": 64
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Qy0G8x4jcOS1XjupM5jse"
+  }
+}

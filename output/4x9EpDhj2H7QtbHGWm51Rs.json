@@ -1,0 +1,33 @@
+{
+  "id": "4x9EpDhj2H7QtbHGWm51Rs",
+  "name": "12Eleven",
+  "uri": "spotify:artist:4x9EpDhj2H7QtbHGWm51Rs",
+  "followers": {
+    "href": null,
+    "total": 1240
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb40c1c4bb50254e39d433e6d2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517440c1c4bb50254e39d433e6d2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17840c1c4bb50254e39d433e6d2",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4x9EpDhj2H7QtbHGWm51Rs"
+  }
+}

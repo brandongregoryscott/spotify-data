@@ -1,0 +1,33 @@
+{
+  "id": "5BtCuFHfTDBHWgbJFw1zl4",
+  "name": "D. Matz",
+  "uri": "spotify:artist:5BtCuFHfTDBHWgbJFw1zl4",
+  "followers": {
+    "href": null,
+    "total": 75
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ceb606495a1aaa1c85d06c47",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ceb606495a1aaa1c85d06c47",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ceb606495a1aaa1c85d06c47",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5BtCuFHfTDBHWgbJFw1zl4"
+  }
+}

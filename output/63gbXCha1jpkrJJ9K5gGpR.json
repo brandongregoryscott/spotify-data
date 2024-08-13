@@ -1,0 +1,33 @@
+{
+  "id": "63gbXCha1jpkrJJ9K5gGpR",
+  "name": "ELI",
+  "uri": "spotify:artist:63gbXCha1jpkrJJ9K5gGpR",
+  "followers": {
+    "href": null,
+    "total": 29927
+  },
+  "genres": [
+    "german pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb65481eecab7226a36201c82f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517465481eecab7226a36201c82f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17865481eecab7226a36201c82f",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR"
+  }
+}

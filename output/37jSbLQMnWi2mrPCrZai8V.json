@@ -1,0 +1,33 @@
+{
+  "id": "37jSbLQMnWi2mrPCrZai8V",
+  "name": "Indaco",
+  "uri": "spotify:artist:37jSbLQMnWi2mrPCrZai8V",
+  "followers": {
+    "href": null,
+    "total": 100
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdcdd84c19471d1adeb8b1a23",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dcdd84c19471d1adeb8b1a23",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dcdd84c19471d1adeb8b1a23",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/37jSbLQMnWi2mrPCrZai8V"
+  }
+}

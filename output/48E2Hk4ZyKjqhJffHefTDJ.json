@@ -1,0 +1,33 @@
+{
+  "id": "48E2Hk4ZyKjqhJffHefTDJ",
+  "name": "farella",
+  "uri": "spotify:artist:48E2Hk4ZyKjqhJffHefTDJ",
+  "followers": {
+    "href": null,
+    "total": 216
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb10a8deed36ba54379406338a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517410a8deed36ba54379406338a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17810a8deed36ba54379406338a",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/48E2Hk4ZyKjqhJffHefTDJ"
+  }
+}

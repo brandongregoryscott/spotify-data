@@ -1,0 +1,33 @@
+{
+  "id": "72Q5cOChL72xjupeqzKlWd",
+  "name": "pettersson",
+  "uri": "spotify:artist:72Q5cOChL72xjupeqzKlWd",
+  "followers": {
+    "href": null,
+    "total": 1243
+  },
+  "genres": [
+    "lo-fi jazzhop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb063a61dd058a03ac3481a424",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174063a61dd058a03ac3481a424",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178063a61dd058a03ac3481a424",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/72Q5cOChL72xjupeqzKlWd"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5UIONAEjkE2S9XFc1lENyo",
+  "name": "The Vindys",
+  "uri": "spotify:artist:5UIONAEjkE2S9XFc1lENyo",
+  "followers": {
+    "href": null,
+    "total": 4405
+  },
+  "genres": [
+    "ohio indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb961fa31d3b3e0893801d9156",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174961fa31d3b3e0893801d9156",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178961fa31d3b3e0893801d9156",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5UIONAEjkE2S9XFc1lENyo"
+  }
+}

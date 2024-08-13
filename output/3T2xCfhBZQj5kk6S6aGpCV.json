@@ -1,0 +1,33 @@
+{
+  "id": "3T2xCfhBZQj5kk6S6aGpCV",
+  "name": "MINIDocs",
+  "uri": "spotify:artist:3T2xCfhBZQj5kk6S6aGpCV",
+  "followers": {
+    "href": null,
+    "total": 1374
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0597b9a51933b1b3dac9fc95",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051740597b9a51933b1b3dac9fc95",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1780597b9a51933b1b3dac9fc95",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3T2xCfhBZQj5kk6S6aGpCV"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3BhHTALkwD57tJXbvOw3AR",
+  "name": "YJKL",
+  "uri": "spotify:artist:3BhHTALkwD57tJXbvOw3AR",
+  "followers": {
+    "href": null,
+    "total": 5713
+  },
+  "genres": [
+    "focus beats"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebad1d544247cd1b66af46fd10",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ad1d544247cd1b66af46fd10",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ad1d544247cd1b66af46fd10",
+      "width": 160
+    }
+  ],
+  "popularity": 37,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3BhHTALkwD57tJXbvOw3AR"
+  }
+}

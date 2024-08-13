@@ -1,0 +1,33 @@
+{
+  "id": "5eqnZlAj7vDYZazj9meCYa",
+  "name": "Frnx",
+  "uri": "spotify:artist:5eqnZlAj7vDYZazj9meCYa",
+  "followers": {
+    "href": null,
+    "total": 41
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb66f05a539f694543a4a1a0f4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517466f05a539f694543a4a1a0f4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17866f05a539f694543a4a1a0f4",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5eqnZlAj7vDYZazj9meCYa"
+  }
+}

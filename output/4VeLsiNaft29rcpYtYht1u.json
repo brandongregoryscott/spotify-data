@@ -1,0 +1,33 @@
+{
+  "id": "4VeLsiNaft29rcpYtYht1u",
+  "name": "kinda alright",
+  "uri": "spotify:artist:4VeLsiNaft29rcpYtYht1u",
+  "followers": {
+    "href": null,
+    "total": 783
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdcdaf88b5199c0933ee0032f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dcdaf88b5199c0933ee0032f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dcdaf88b5199c0933ee0032f",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4VeLsiNaft29rcpYtYht1u"
+  }
+}

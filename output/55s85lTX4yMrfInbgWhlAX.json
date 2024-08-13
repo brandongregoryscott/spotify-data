@@ -1,0 +1,35 @@
+{
+  "id": "55s85lTX4yMrfInbgWhlAX",
+  "name": "Soma Cake",
+  "uri": "spotify:artist:55s85lTX4yMrfInbgWhlAX",
+  "followers": {
+    "href": null,
+    "total": 755
+  },
+  "genres": [
+    "post-punk latinoamericano",
+    "post-punk mexicano",
+    "rock gotico"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd4126289d3f7b17d73d82e55",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d4126289d3f7b17d73d82e55",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d4126289d3f7b17d73d82e55",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/55s85lTX4yMrfInbgWhlAX"
+  }
+}

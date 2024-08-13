@@ -1,0 +1,33 @@
+{
+  "id": "2F761GADmLdZsUp622KRYD",
+  "name": "チャンプルーズ",
+  "uri": "spotify:artist:2F761GADmLdZsUp622KRYD",
+  "followers": {
+    "href": null,
+    "total": 153
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f5759ce139e0c530310d1ddc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f5759ce139e0c530310d1ddc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f5759ce139e0c530310d1ddc",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2F761GADmLdZsUp622KRYD"
+  }
+}

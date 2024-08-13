@@ -1,0 +1,33 @@
+{
+  "id": "3e4m2vPAOoq1DYZ8U3xWee",
+  "name": "Second Hand Audio",
+  "uri": "spotify:artist:3e4m2vPAOoq1DYZ8U3xWee",
+  "followers": {
+    "href": null,
+    "total": 845
+  },
+  "genres": [
+    "funky breaks"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfe76578507fb666eaba50818",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fe76578507fb666eaba50818",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fe76578507fb666eaba50818",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3e4m2vPAOoq1DYZ8U3xWee"
+  }
+}

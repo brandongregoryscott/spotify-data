@@ -1,0 +1,33 @@
+{
+  "id": "6WzcETxc1ALkloDSd6Qvda",
+  "name": "A Special Case",
+  "uri": "spotify:artist:6WzcETxc1ALkloDSd6Qvda",
+  "followers": {
+    "href": null,
+    "total": 142
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273acb0e5b325d42bfeff6f7a6e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02acb0e5b325d42bfeff6f7a6e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851acb0e5b325d42bfeff6f7a6e",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6WzcETxc1ALkloDSd6Qvda"
+  }
+}

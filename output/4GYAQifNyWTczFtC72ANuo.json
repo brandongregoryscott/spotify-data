@@ -1,0 +1,33 @@
+{
+  "id": "4GYAQifNyWTczFtC72ANuo",
+  "name": "Johnny Pearson Y Su Orquesta",
+  "uri": "spotify:artist:4GYAQifNyWTczFtC72ANuo",
+  "followers": {
+    "href": null,
+    "total": 2095
+  },
+  "genres": [
+    "romantico"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27350238509a4b9d21a79d057de",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0250238509a4b9d21a79d057de",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485150238509a4b9d21a79d057de",
+      "width": 64
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4GYAQifNyWTczFtC72ANuo"
+  }
+}

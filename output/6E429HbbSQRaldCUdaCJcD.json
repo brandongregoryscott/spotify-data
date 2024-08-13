@@ -1,0 +1,33 @@
+{
+  "id": "6E429HbbSQRaldCUdaCJcD",
+  "name": "Emhoo",
+  "uri": "spotify:artist:6E429HbbSQRaldCUdaCJcD",
+  "followers": {
+    "href": null,
+    "total": 56
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb157180ac005ffadf38f5010a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174157180ac005ffadf38f5010a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178157180ac005ffadf38f5010a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6E429HbbSQRaldCUdaCJcD"
+  }
+}

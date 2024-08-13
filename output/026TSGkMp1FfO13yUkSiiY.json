@@ -1,0 +1,33 @@
+{
+  "id": "026TSGkMp1FfO13yUkSiiY",
+  "name": "Baby Candy",
+  "uri": "spotify:artist:026TSGkMp1FfO13yUkSiiY",
+  "followers": {
+    "href": null,
+    "total": 209
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb88b0ea49482d805f07ebfa57",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517488b0ea49482d805f07ebfa57",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17888b0ea49482d805f07ebfa57",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/026TSGkMp1FfO13yUkSiiY"
+  }
+}

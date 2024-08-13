@@ -1,0 +1,33 @@
+{
+  "id": "58hmZBv0cUWwtFjddZ7YRr",
+  "name": "Tim Hampshire",
+  "uri": "spotify:artist:58hmZBv0cUWwtFjddZ7YRr",
+  "followers": {
+    "href": null,
+    "total": 43
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733ca7cb4b0b413fd641abcd64",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023ca7cb4b0b413fd641abcd64",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513ca7cb4b0b413fd641abcd64",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/58hmZBv0cUWwtFjddZ7YRr"
+  }
+}

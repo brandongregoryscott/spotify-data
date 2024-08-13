@@ -1,0 +1,33 @@
+{
+  "id": "2N5V735dwftKHqBpx9YPrz",
+  "name": "Daithí",
+  "uri": "spotify:artist:2N5V735dwftKHqBpx9YPrz",
+  "followers": {
+    "href": null,
+    "total": 15446
+  },
+  "genres": [
+    "irish pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb468fd83ef22010ba07360d59",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174468fd83ef22010ba07360d59",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178468fd83ef22010ba07360d59",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz"
+  }
+}

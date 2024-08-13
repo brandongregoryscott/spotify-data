@@ -1,0 +1,33 @@
+{
+  "id": "5oqfU9zxlKJtpUfKLN0MvY",
+  "name": "Salad",
+  "uri": "spotify:artist:5oqfU9zxlKJtpUfKLN0MvY",
+  "followers": {
+    "href": null,
+    "total": 1017
+  },
+  "genres": [
+    "thai indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc63cf1dd667ac53046406a0f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c63cf1dd667ac53046406a0f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c63cf1dd667ac53046406a0f",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5oqfU9zxlKJtpUfKLN0MvY"
+  }
+}

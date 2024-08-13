@@ -1,0 +1,33 @@
+{
+  "id": "4iUuVPpN1aIgZKv7zmwVKW",
+  "name": "Walt Rockman",
+  "uri": "spotify:artist:4iUuVPpN1aIgZKv7zmwVKW",
+  "followers": {
+    "href": null,
+    "total": 195
+  },
+  "genres": [
+    "spytrack"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebefcf7f5285639ee6f5de2cd9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174efcf7f5285639ee6f5de2cd9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178efcf7f5285639ee6f5de2cd9",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4iUuVPpN1aIgZKv7zmwVKW"
+  }
+}

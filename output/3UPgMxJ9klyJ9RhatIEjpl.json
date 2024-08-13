@@ -1,0 +1,33 @@
+{
+  "id": "3UPgMxJ9klyJ9RhatIEjpl",
+  "name": "Spiral",
+  "uri": "spotify:artist:3UPgMxJ9klyJ9RhatIEjpl",
+  "followers": {
+    "href": null,
+    "total": 444
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebba569e8d3019a761c2c0721f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ba569e8d3019a761c2c0721f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ba569e8d3019a761c2c0721f",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3UPgMxJ9klyJ9RhatIEjpl"
+  }
+}

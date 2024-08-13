@@ -1,0 +1,33 @@
+{
+  "id": "58ZMl3FDSnhNvumuhzItzv",
+  "name": "Enman",
+  "uri": "spotify:artist:58ZMl3FDSnhNvumuhzItzv",
+  "followers": {
+    "href": null,
+    "total": 1186
+  },
+  "genres": [
+    "future bounce"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb72aa7175c9b6afc1776cb706",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517472aa7175c9b6afc1776cb706",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17872aa7175c9b6afc1776cb706",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/58ZMl3FDSnhNvumuhzItzv"
+  }
+}

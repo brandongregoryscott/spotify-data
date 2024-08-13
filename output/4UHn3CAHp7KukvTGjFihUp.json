@@ -1,0 +1,33 @@
+{
+  "id": "4UHn3CAHp7KukvTGjFihUp",
+  "name": "Afaar",
+  "uri": "spotify:artist:4UHn3CAHp7KukvTGjFihUp",
+  "followers": {
+    "href": null,
+    "total": 122
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273074f808ad8b4380136429d93",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02074f808ad8b4380136429d93",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851074f808ad8b4380136429d93",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4UHn3CAHp7KukvTGjFihUp"
+  }
+}

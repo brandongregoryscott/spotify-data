@@ -1,0 +1,33 @@
+{
+  "id": "53JZBAhOTTOIKUA80HOUdG",
+  "name": "Johnny Doc",
+  "uri": "spotify:artist:53JZBAhOTTOIKUA80HOUdG",
+  "followers": {
+    "href": null,
+    "total": 2660
+  },
+  "genres": [
+    "boom bap espanol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb34dd54d9ed924201224cfbd1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517434dd54d9ed924201224cfbd1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17834dd54d9ed924201224cfbd1",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/53JZBAhOTTOIKUA80HOUdG"
+  }
+}

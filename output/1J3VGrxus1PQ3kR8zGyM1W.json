@@ -1,0 +1,33 @@
+{
+  "id": "1J3VGrxus1PQ3kR8zGyM1W",
+  "name": "Melion Music",
+  "uri": "spotify:artist:1J3VGrxus1PQ3kR8zGyM1W",
+  "followers": {
+    "href": null,
+    "total": 6766
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb36fc4ecf238d910c39a7ace8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517436fc4ecf238d910c39a7ace8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17836fc4ecf238d910c39a7ace8",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1J3VGrxus1PQ3kR8zGyM1W"
+  }
+}

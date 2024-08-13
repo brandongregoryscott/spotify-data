@@ -1,0 +1,33 @@
+{
+  "id": "5AjPod1WmBvZrthhr3JFbQ",
+  "name": "Dagon",
+  "uri": "spotify:artist:5AjPod1WmBvZrthhr3JFbQ",
+  "followers": {
+    "href": null,
+    "total": 2461
+  },
+  "genres": [
+    "lovecraftian metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27340b7ab726855ef1bd72440cf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0240b7ab726855ef1bd72440cf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485140b7ab726855ef1bd72440cf",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5AjPod1WmBvZrthhr3JFbQ"
+  }
+}

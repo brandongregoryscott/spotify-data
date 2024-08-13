@@ -1,0 +1,33 @@
+{
+  "id": "6fW1iNN9uectqMkWIfncCb",
+  "name": "Robin Pasley",
+  "uri": "spotify:artist:6fW1iNN9uectqMkWIfncCb",
+  "followers": {
+    "href": null,
+    "total": 100
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27302a5273123727f245b42abaa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0202a5273123727f245b42abaa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485102a5273123727f245b42abaa",
+      "width": 64
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6fW1iNN9uectqMkWIfncCb"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3bCVdyuNtgNU7ApdoFnWMT",
+  "name": "Ышо?Ышо!",
+  "uri": "spotify:artist:3bCVdyuNtgNU7ApdoFnWMT",
+  "followers": {
+    "href": null,
+    "total": 781
+  },
+  "genres": [
+    "russian punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27355b2bbbbb73405503b0127ed",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0255b2bbbbb73405503b0127ed",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485155b2bbbbb73405503b0127ed",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3bCVdyuNtgNU7ApdoFnWMT"
+  }
+}

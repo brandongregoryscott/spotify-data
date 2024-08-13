@@ -1,0 +1,33 @@
+{
+  "id": "5zX9TQhmSnQslUhyOnVVbV",
+  "name": "Beeg Kingu",
+  "uri": "spotify:artist:5zX9TQhmSnQslUhyOnVVbV",
+  "followers": {
+    "href": null,
+    "total": 346
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd9533f5077c6479d32ff6327",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d9533f5077c6479d32ff6327",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d9533f5077c6479d32ff6327",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5zX9TQhmSnQslUhyOnVVbV"
+  }
+}

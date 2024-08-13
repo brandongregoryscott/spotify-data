@@ -1,0 +1,33 @@
+{
+  "id": "4RAi9soE5IrYGRBOcFWkGd",
+  "name": "YXPPER",
+  "uri": "spotify:artist:4RAi9soE5IrYGRBOcFWkGd",
+  "followers": {
+    "href": null,
+    "total": 936
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebac499ca0319f1fe3b60ddcfe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ac499ca0319f1fe3b60ddcfe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ac499ca0319f1fe3b60ddcfe",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4RAi9soE5IrYGRBOcFWkGd"
+  }
+}

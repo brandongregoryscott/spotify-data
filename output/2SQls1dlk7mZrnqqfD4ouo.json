@@ -1,0 +1,33 @@
+{
+  "id": "2SQls1dlk7mZrnqqfD4ouo",
+  "name": "Paint the Morning",
+  "uri": "spotify:artist:2SQls1dlk7mZrnqqfD4ouo",
+  "followers": {
+    "href": null,
+    "total": 104
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273613b62727f53e2b6a517ebfa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02613b62727f53e2b6a517ebfa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851613b62727f53e2b6a517ebfa",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2SQls1dlk7mZrnqqfD4ouo"
+  }
+}

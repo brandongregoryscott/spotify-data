@@ -1,0 +1,33 @@
+{
+  "id": "2s2w6QjZQlO8mexvIDZyHH",
+  "name": "Limalo",
+  "uri": "spotify:artist:2s2w6QjZQlO8mexvIDZyHH",
+  "followers": {
+    "href": null,
+    "total": 891
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfb71781a910987ad6b42d9d0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fb71781a910987ad6b42d9d0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fb71781a910987ad6b42d9d0",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2s2w6QjZQlO8mexvIDZyHH"
+  }
+}

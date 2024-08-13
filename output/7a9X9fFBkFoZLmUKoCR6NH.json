@@ -1,0 +1,33 @@
+{
+  "id": "7a9X9fFBkFoZLmUKoCR6NH",
+  "name": "Tsar Bomba",
+  "uri": "spotify:artist:7a9X9fFBkFoZLmUKoCR6NH",
+  "followers": {
+    "href": null,
+    "total": 141
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf83584259ef5b593b817906a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f83584259ef5b593b817906a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f83584259ef5b593b817906a",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7a9X9fFBkFoZLmUKoCR6NH"
+  }
+}

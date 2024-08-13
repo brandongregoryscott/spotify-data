@@ -1,0 +1,33 @@
+{
+  "id": "4lCoDiRKwCNLMqdNFoFXNm",
+  "name": "Galán",
+  "uri": "spotify:artist:4lCoDiRKwCNLMqdNFoFXNm",
+  "followers": {
+    "href": null,
+    "total": 524
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb15bcdf045f552b1ab2f57fa2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517415bcdf045f552b1ab2f57fa2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17815bcdf045f552b1ab2f57fa2",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4lCoDiRKwCNLMqdNFoFXNm"
+  }
+}

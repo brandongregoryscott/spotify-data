@@ -1,0 +1,33 @@
+{
+  "id": "0rsUO98ykyvSNdHtggNLvh",
+  "name": "Unânime",
+  "uri": "spotify:artist:0rsUO98ykyvSNdHtggNLvh",
+  "followers": {
+    "href": null,
+    "total": 868
+  },
+  "genres": [
+    "rock cristao fluminense"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ab89ee076c99bec9deb4d84c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ab89ee076c99bec9deb4d84c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ab89ee076c99bec9deb4d84c",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0rsUO98ykyvSNdHtggNLvh"
+  }
+}

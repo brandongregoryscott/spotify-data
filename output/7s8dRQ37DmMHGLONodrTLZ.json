@@ -1,0 +1,33 @@
+{
+  "id": "7s8dRQ37DmMHGLONodrTLZ",
+  "name": "Stephanie",
+  "uri": "spotify:artist:7s8dRQ37DmMHGLONodrTLZ",
+  "followers": {
+    "href": null,
+    "total": 3405
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738bd16a47ef3c24e8bf8e0108",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028bd16a47ef3c24e8bf8e0108",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518bd16a47ef3c24e8bf8e0108",
+      "width": 64
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7s8dRQ37DmMHGLONodrTLZ"
+  }
+}

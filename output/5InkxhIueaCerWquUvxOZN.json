@@ -1,0 +1,34 @@
+{
+  "id": "5InkxhIueaCerWquUvxOZN",
+  "name": "Safemode",
+  "uri": "spotify:artist:5InkxhIueaCerWquUvxOZN",
+  "followers": {
+    "href": null,
+    "total": 5117
+  },
+  "genres": [
+    "christian rock",
+    "swedish post-hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb64fb1aa1261fee7fb9cf82ce",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517464fb1aa1261fee7fb9cf82ce",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17864fb1aa1261fee7fb9cf82ce",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5InkxhIueaCerWquUvxOZN"
+  }
+}

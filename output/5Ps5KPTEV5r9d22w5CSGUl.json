@@ -1,0 +1,33 @@
+{
+  "id": "5Ps5KPTEV5r9d22w5CSGUl",
+  "name": "Mark Whale",
+  "uri": "spotify:artist:5Ps5KPTEV5r9d22w5CSGUl",
+  "followers": {
+    "href": null,
+    "total": 71
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf6bbfb4d5e2d97f01f8c80dd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f6bbfb4d5e2d97f01f8c80dd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f6bbfb4d5e2d97f01f8c80dd",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Ps5KPTEV5r9d22w5CSGUl"
+  }
+}

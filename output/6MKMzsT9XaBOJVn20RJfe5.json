@@ -1,0 +1,35 @@
+{
+  "id": "6MKMzsT9XaBOJVn20RJfe5",
+  "name": "Corre Forrest!",
+  "uri": "spotify:artist:6MKMzsT9XaBOJVn20RJfe5",
+  "followers": {
+    "href": null,
+    "total": 5374
+  },
+  "genres": [
+    "latincore",
+    "mexican pop punk",
+    "puerto rican rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb27b82bd8870d2f655479de43",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517427b82bd8870d2f655479de43",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17827b82bd8870d2f655479de43",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6MKMzsT9XaBOJVn20RJfe5"
+  }
+}

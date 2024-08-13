@@ -1,0 +1,35 @@
+{
+  "id": "3aNeKUntysMTujH191jiGX",
+  "name": "Ghostkeeper",
+  "uri": "spotify:artist:3aNeKUntysMTujH191jiGX",
+  "followers": {
+    "href": null,
+    "total": 1007
+  },
+  "genres": [
+    "calgary indie",
+    "canadian indigenous music",
+    "experimental pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb11d12fbee3d22be0d4305f76",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517411d12fbee3d22be0d4305f76",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17811d12fbee3d22be0d4305f76",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3aNeKUntysMTujH191jiGX"
+  }
+}

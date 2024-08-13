@@ -1,0 +1,33 @@
+{
+  "id": "27xh2ax5bGkBUvfM9I8hGS",
+  "name": "Ela Mar",
+  "uri": "spotify:artist:27xh2ax5bGkBUvfM9I8hGS",
+  "followers": {
+    "href": null,
+    "total": 348
+  },
+  "genres": [
+    "ecuadorian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb1cce32e003254bad211a02b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b1cce32e003254bad211a02b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b1cce32e003254bad211a02b",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/27xh2ax5bGkBUvfM9I8hGS"
+  }
+}

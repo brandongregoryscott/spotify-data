@@ -1,0 +1,40 @@
+{
+  "id": "3blc0GpjY6x3PVwqxPbfDz",
+  "name": "Found",
+  "uri": "spotify:artist:3blc0GpjY6x3PVwqxPbfDz",
+  "followers": {
+    "href": null,
+    "total": 597
+  },
+  "genres": [
+    "experimental pop",
+    "scottish indie",
+    "scottish rock"
+  ],
+  "images": [
+    {
+      "height": 514,
+      "url": "https://i.scdn.co/image/f4ccf3a5b1bbdf309e813c8024c9d0cf7e68a650",
+      "width": 775
+    },
+    {
+      "height": 424,
+      "url": "https://i.scdn.co/image/82d0b0549d8e70c91c4233e45256928c5dc333e2",
+      "width": 639
+    },
+    {
+      "height": 133,
+      "url": "https://i.scdn.co/image/a76de0bac463b8ef3543c5a566bd0cb49c7f9820",
+      "width": 200
+    },
+    {
+      "height": 42,
+      "url": "https://i.scdn.co/image/8db2d6e221b3aac372af7212bfb6b2b9588b1e53",
+      "width": 63
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3blc0GpjY6x3PVwqxPbfDz"
+  }
+}

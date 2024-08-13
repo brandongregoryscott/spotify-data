@@ -1,0 +1,38 @@
+{
+  "id": "5fDtHwcTvnD2CNK1zT9RaY",
+  "name": "Yarn/Wire",
+  "uri": "spotify:artist:5fDtHwcTvnD2CNK1zT9RaY",
+  "followers": {
+    "href": null,
+    "total": 511
+  },
+  "genres": [
+    "experimental classical"
+  ],
+  "images": [
+    {
+      "height": 1000,
+      "url": "https://i.scdn.co/image/247b989a641907bb955cdb73ff5bbe3e7b781375",
+      "width": 1000
+    },
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/9efa234b60c5c620b267b7e6c5d2c698a0cd1227",
+      "width": 640
+    },
+    {
+      "height": 200,
+      "url": "https://i.scdn.co/image/a8b7439cd69f141494ce645bee9f5a59b96f54ed",
+      "width": 200
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/68472c7cd513bba54e4b9a5e1e0b7c7a98f98434",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5fDtHwcTvnD2CNK1zT9RaY"
+  }
+}

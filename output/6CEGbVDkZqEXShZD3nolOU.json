@@ -1,0 +1,33 @@
+{
+  "id": "6CEGbVDkZqEXShZD3nolOU",
+  "name": "Erika",
+  "uri": "spotify:artist:6CEGbVDkZqEXShZD3nolOU",
+  "followers": {
+    "href": null,
+    "total": 3742
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734b66255a885c729f6e258faf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024b66255a885c729f6e258faf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514b66255a885c729f6e258faf",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6CEGbVDkZqEXShZD3nolOU"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5ZJHJYvgl6ux7sqkceaKWH",
+  "name": "Andrack",
+  "uri": "spotify:artist:5ZJHJYvgl6ux7sqkceaKWH",
+  "followers": {
+    "href": null,
+    "total": 165
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf6aae58beb630ca92c90103f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f6aae58beb630ca92c90103f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f6aae58beb630ca92c90103f",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ZJHJYvgl6ux7sqkceaKWH"
+  }
+}

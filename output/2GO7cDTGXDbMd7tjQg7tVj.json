@@ -1,0 +1,33 @@
+{
+  "id": "2GO7cDTGXDbMd7tjQg7tVj",
+  "name": "Marshalling Yard",
+  "uri": "spotify:artist:2GO7cDTGXDbMd7tjQg7tVj",
+  "followers": {
+    "href": null,
+    "total": 9
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f64d05c5698e2939203de1cf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e5b010a69aec0f96af66a8f6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f64d05c5698e2939203de1cf",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2GO7cDTGXDbMd7tjQg7tVj"
+  }
+}

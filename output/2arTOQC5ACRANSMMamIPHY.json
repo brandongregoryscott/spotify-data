@@ -1,0 +1,35 @@
+{
+  "id": "2arTOQC5ACRANSMMamIPHY",
+  "name": "The Orange Humble Band",
+  "uri": "spotify:artist:2arTOQC5ACRANSMMamIPHY",
+  "followers": {
+    "href": null,
+    "total": 752
+  },
+  "genres": [
+    "modern power pop",
+    "power pop",
+    "underground power pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27382b3fe6ce46f8ee672fc82a5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0282b3fe6ce46f8ee672fc82a5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485182b3fe6ce46f8ee672fc82a5",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2arTOQC5ACRANSMMamIPHY"
+  }
+}

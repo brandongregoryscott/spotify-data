@@ -1,0 +1,34 @@
+{
+  "id": "6m9cxMBGChnG47l5UdSYIN",
+  "name": "CLOUDLAND",
+  "uri": "spotify:artist:6m9cxMBGChnG47l5UdSYIN",
+  "followers": {
+    "href": null,
+    "total": 3253
+  },
+  "genres": [
+    "athens indie",
+    "hopebeat"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb93fe8962abbc7e7227483b2f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517493fe8962abbc7e7227483b2f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17893fe8962abbc7e7227483b2f",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6m9cxMBGChnG47l5UdSYIN"
+  }
+}

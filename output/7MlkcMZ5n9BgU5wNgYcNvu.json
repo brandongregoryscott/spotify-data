@@ -1,0 +1,33 @@
+{
+  "id": "7MlkcMZ5n9BgU5wNgYcNvu",
+  "name": "Alex Nicol",
+  "uri": "spotify:artist:7MlkcMZ5n9BgU5wNgYcNvu",
+  "followers": {
+    "href": null,
+    "total": 10237
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb72a8d9782dd8c16f141b1219",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517472a8d9782dd8c16f141b1219",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17872a8d9782dd8c16f141b1219",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
+  }
+}

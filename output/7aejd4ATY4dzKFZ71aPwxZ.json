@@ -1,0 +1,33 @@
+{
+  "id": "7aejd4ATY4dzKFZ71aPwxZ",
+  "name": "Lily's garden",
+  "uri": "spotify:artist:7aejd4ATY4dzKFZ71aPwxZ",
+  "followers": {
+    "href": null,
+    "total": 352
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27318687cf8049f3b0d1c70502b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0218687cf8049f3b0d1c70502b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485118687cf8049f3b0d1c70502b",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7aejd4ATY4dzKFZ71aPwxZ"
+  }
+}

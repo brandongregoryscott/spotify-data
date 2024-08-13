@@ -1,0 +1,33 @@
+{
+  "id": "2AS8xan4YWnSOZKj7UaVtk",
+  "name": "Fiesta Cuetillo",
+  "uri": "spotify:artist:2AS8xan4YWnSOZKj7UaVtk",
+  "followers": {
+    "href": null,
+    "total": 2468
+  },
+  "genres": [
+    "bolivian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb156ef17aa86557229aa1c454",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174156ef17aa86557229aa1c454",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178156ef17aa86557229aa1c454",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2AS8xan4YWnSOZKj7UaVtk"
+  }
+}

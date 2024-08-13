@@ -1,0 +1,34 @@
+{
+  "id": "7ld6rqnITik19rmDr4gwfV",
+  "name": "Dead Man",
+  "uri": "spotify:artist:7ld6rqnITik19rmDr4gwfV",
+  "followers": {
+    "href": null,
+    "total": 4771
+  },
+  "genres": [
+    "swedish psychedelic rock",
+    "swedish stoner rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733dc0718ed07d91eb53d14ac7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023dc0718ed07d91eb53d14ac7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513dc0718ed07d91eb53d14ac7",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ld6rqnITik19rmDr4gwfV"
+  }
+}

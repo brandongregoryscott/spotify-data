@@ -1,0 +1,33 @@
+{
+  "id": "2hXIoMXYA65EDbqyLMzr5r",
+  "name": "Giungla",
+  "uri": "spotify:artist:2hXIoMXYA65EDbqyLMzr5r",
+  "followers": {
+    "href": null,
+    "total": 3386
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb03e5ac8484ffed389196a461",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517403e5ac8484ffed389196a461",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17803e5ac8484ffed389196a461",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2hXIoMXYA65EDbqyLMzr5r"
+  }
+}

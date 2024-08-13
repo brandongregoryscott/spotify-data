@@ -1,0 +1,33 @@
+{
+  "id": "6hAkSs8eKFhn94XnqSOQRu",
+  "name": "agul",
+  "uri": "spotify:artist:6hAkSs8eKFhn94XnqSOQRu",
+  "followers": {
+    "href": null,
+    "total": 148
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb24a51083ddf8f9b5ed85b5b8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517424a51083ddf8f9b5ed85b5b8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17824a51083ddf8f9b5ed85b5b8",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6hAkSs8eKFhn94XnqSOQRu"
+  }
+}

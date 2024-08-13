@@ -1,0 +1,33 @@
+{
+  "id": "4mkcf39pQB23yEXGGuFH0f",
+  "name": "Joe Magnarelli",
+  "uri": "spotify:artist:4mkcf39pQB23yEXGGuFH0f",
+  "followers": {
+    "href": null,
+    "total": 1675
+  },
+  "genres": [
+    "jazz trumpet"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d6e6979bad5ca3dfc714abad",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d6e6979bad5ca3dfc714abad",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d6e6979bad5ca3dfc714abad",
+      "width": 64
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4mkcf39pQB23yEXGGuFH0f"
+  }
+}

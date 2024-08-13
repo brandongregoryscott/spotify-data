@@ -1,0 +1,33 @@
+{
+  "id": "1KNqCuMfUCmrsQ9TZtiPXr",
+  "name": "Rattlesnake",
+  "uri": "spotify:artist:1KNqCuMfUCmrsQ9TZtiPXr",
+  "followers": {
+    "href": null,
+    "total": 259
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb90a156ac17d7d03c59b3f83c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517490a156ac17d7d03c59b3f83c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17890a156ac17d7d03c59b3f83c",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1KNqCuMfUCmrsQ9TZtiPXr"
+  }
+}

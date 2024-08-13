@@ -1,0 +1,34 @@
+{
+  "id": "3lSVdMQPWn6LhHMkWLbGge",
+  "name": "XY GENE",
+  "uri": "spotify:artist:3lSVdMQPWn6LhHMkWLbGge",
+  "followers": {
+    "href": null,
+    "total": 7909
+  },
+  "genres": [
+    "j-rap",
+    "japanese pop rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb674e6fffa0e338017684b123",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174674e6fffa0e338017684b123",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178674e6fffa0e338017684b123",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3lSVdMQPWn6LhHMkWLbGge"
+  }
+}

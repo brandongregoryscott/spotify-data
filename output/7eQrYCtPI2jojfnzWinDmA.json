@@ -1,0 +1,33 @@
+{
+  "id": "7eQrYCtPI2jojfnzWinDmA",
+  "name": "quinn",
+  "uri": "spotify:artist:7eQrYCtPI2jojfnzWinDmA",
+  "followers": {
+    "href": null,
+    "total": 24
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d408c79f8c41a4d567872a7e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d408c79f8c41a4d567872a7e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d408c79f8c41a4d567872a7e",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7eQrYCtPI2jojfnzWinDmA"
+  }
+}

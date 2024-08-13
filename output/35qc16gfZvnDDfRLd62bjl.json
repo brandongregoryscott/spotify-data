@@ -1,0 +1,33 @@
+{
+  "id": "35qc16gfZvnDDfRLd62bjl",
+  "name": "Code Nine",
+  "uri": "spotify:artist:35qc16gfZvnDDfRLd62bjl",
+  "followers": {
+    "href": null,
+    "total": 443
+  },
+  "genres": [
+    "underground boom bap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273916f47421b1e390006b3c79b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02916f47421b1e390006b3c79b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851916f47421b1e390006b3c79b",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/35qc16gfZvnDDfRLd62bjl"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0eEqmu6ZeUHZGuEMddYNBm",
+  "name": "Midnight Rabbit",
+  "uri": "spotify:artist:0eEqmu6ZeUHZGuEMddYNBm",
+  "followers": {
+    "href": null,
+    "total": 625
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeed0f31778d0d64c8c702f5e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eed0f31778d0d64c8c702f5e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eed0f31778d0d64c8c702f5e",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0eEqmu6ZeUHZGuEMddYNBm"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "7bwjYGg7DOoLpV3AFK2Jmz",
+  "name": "Catalyna",
+  "uri": "spotify:artist:7bwjYGg7DOoLpV3AFK2Jmz",
+  "followers": {
+    "href": null,
+    "total": 32149
+  },
+  "genres": [
+    "r&b en espanol",
+    "rap latina",
+    "trap latino"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe184692b8808a6b77f8fb674",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e184692b8808a6b77f8fb674",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e184692b8808a6b77f8fb674",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7bwjYGg7DOoLpV3AFK2Jmz"
+  }
+}

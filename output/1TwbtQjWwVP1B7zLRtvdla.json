@@ -1,0 +1,33 @@
+{
+  "id": "1TwbtQjWwVP1B7zLRtvdla",
+  "name": "Анатолий Крупнов",
+  "uri": "spotify:artist:1TwbtQjWwVP1B7zLRtvdla",
+  "followers": {
+    "href": null,
+    "total": 2356
+  },
+  "genres": [
+    "russian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba7ff2418540fdba0843891de",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a7ff2418540fdba0843891de",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a7ff2418540fdba0843891de",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1TwbtQjWwVP1B7zLRtvdla"
+  }
+}

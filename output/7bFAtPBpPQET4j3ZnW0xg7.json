@@ -1,0 +1,33 @@
+{
+  "id": "7bFAtPBpPQET4j3ZnW0xg7",
+  "name": "Swarms",
+  "uri": "spotify:artist:7bFAtPBpPQET4j3ZnW0xg7",
+  "followers": {
+    "href": null,
+    "total": 213
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb44cbe319b0be93600ed65695",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517444cbe319b0be93600ed65695",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17844cbe319b0be93600ed65695",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7bFAtPBpPQET4j3ZnW0xg7"
+  }
+}

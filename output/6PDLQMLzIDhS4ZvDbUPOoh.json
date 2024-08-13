@@ -1,0 +1,33 @@
+{
+  "id": "6PDLQMLzIDhS4ZvDbUPOoh",
+  "name": "AYRA",
+  "uri": "spotify:artist:6PDLQMLzIDhS4ZvDbUPOoh",
+  "followers": {
+    "href": null,
+    "total": 421
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5e16ed6ce17c2eaad8a4c38f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051745e16ed6ce17c2eaad8a4c38f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1785e16ed6ce17c2eaad8a4c38f",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6PDLQMLzIDhS4ZvDbUPOoh"
+  }
+}

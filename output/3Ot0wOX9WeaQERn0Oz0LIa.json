@@ -1,0 +1,33 @@
+{
+  "id": "3Ot0wOX9WeaQERn0Oz0LIa",
+  "name": "MARTA",
+  "uri": "spotify:artist:3Ot0wOX9WeaQERn0Oz0LIa",
+  "followers": {
+    "href": null,
+    "total": 2571
+  },
+  "genres": [
+    "latvian pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb754f9a16f7101d13a934fbfa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174754f9a16f7101d13a934fbfa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178754f9a16f7101d13a934fbfa",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Ot0wOX9WeaQERn0Oz0LIa"
+  }
+}

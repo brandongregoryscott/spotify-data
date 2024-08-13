@@ -1,0 +1,33 @@
+{
+  "id": "0lJgcnBlDqQoIA0bZDQEMe",
+  "name": "Knouk",
+  "uri": "spotify:artist:0lJgcnBlDqQoIA0bZDQEMe",
+  "followers": {
+    "href": null,
+    "total": 150
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe50de0efc1a4f6cb56cd7251",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e50de0efc1a4f6cb56cd7251",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e50de0efc1a4f6cb56cd7251",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0lJgcnBlDqQoIA0bZDQEMe"
+  }
+}

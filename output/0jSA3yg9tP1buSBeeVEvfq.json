@@ -1,0 +1,33 @@
+{
+  "id": "0jSA3yg9tP1buSBeeVEvfq",
+  "name": "Arcadius",
+  "uri": "spotify:artist:0jSA3yg9tP1buSBeeVEvfq",
+  "followers": {
+    "href": null,
+    "total": 81
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb15bb27ae03665d782e8cb12f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517415bb27ae03665d782e8cb12f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17815bb27ae03665d782e8cb12f",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0jSA3yg9tP1buSBeeVEvfq"
+  }
+}

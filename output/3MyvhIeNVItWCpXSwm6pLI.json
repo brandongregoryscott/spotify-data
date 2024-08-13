@@ -1,0 +1,33 @@
+{
+  "id": "3MyvhIeNVItWCpXSwm6pLI",
+  "name": "Clavicule",
+  "uri": "spotify:artist:3MyvhIeNVItWCpXSwm6pLI",
+  "followers": {
+    "href": null,
+    "total": 2027
+  },
+  "genres": [
+    "french garage rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb259bcf16b9ae2ea1b2666d36",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174259bcf16b9ae2ea1b2666d36",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178259bcf16b9ae2ea1b2666d36",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3MyvhIeNVItWCpXSwm6pLI"
+  }
+}

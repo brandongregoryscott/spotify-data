@@ -1,0 +1,33 @@
+{
+  "id": "2WZwOXoBBWcsYOcjfxA4Ob",
+  "name": "YBD",
+  "uri": "spotify:artist:2WZwOXoBBWcsYOcjfxA4Ob",
+  "followers": {
+    "href": null,
+    "total": 255
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27308328ae0f75c9ed041bb6654",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0208328ae0f75c9ed041bb6654",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485108328ae0f75c9ed041bb6654",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2WZwOXoBBWcsYOcjfxA4Ob"
+  }
+}

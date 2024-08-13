@@ -1,0 +1,34 @@
+{
+  "id": "6caqZtSpCf6ljd5MJ0fofP",
+  "name": "Heim",
+  "uri": "spotify:artist:6caqZtSpCf6ljd5MJ0fofP",
+  "followers": {
+    "href": null,
+    "total": 553
+  },
+  "genres": [
+    "german post-punk",
+    "hamburg indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27392a07068d4c28f392d814a97",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0292a07068d4c28f392d814a97",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485192a07068d4c28f392d814a97",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6caqZtSpCf6ljd5MJ0fofP"
+  }
+}

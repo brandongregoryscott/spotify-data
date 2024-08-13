@@ -1,0 +1,33 @@
+{
+  "id": "0wAzQEgAa64HjsNEe6l08M",
+  "name": "Добрый",
+  "uri": "spotify:artist:0wAzQEgAa64HjsNEe6l08M",
+  "followers": {
+    "href": null,
+    "total": 2475
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738537220f7b89e1267c4dc736",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028537220f7b89e1267c4dc736",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518537220f7b89e1267c4dc736",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0wAzQEgAa64HjsNEe6l08M"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7gNwFFYqCxstyHTx6PAeqy",
+  "name": "Radical G",
+  "uri": "spotify:artist:7gNwFFYqCxstyHTx6PAeqy",
+  "followers": {
+    "href": null,
+    "total": 3203
+  },
+  "genres": [
+    "belgian techno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb23ce1c2d6098e4134c484fda",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517423ce1c2d6098e4134c484fda",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17823ce1c2d6098e4134c484fda",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7gNwFFYqCxstyHTx6PAeqy"
+  }
+}

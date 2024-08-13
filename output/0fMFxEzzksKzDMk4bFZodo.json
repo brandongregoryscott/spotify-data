@@ -1,0 +1,33 @@
+{
+  "id": "0fMFxEzzksKzDMk4bFZodo",
+  "name": "Vicenta",
+  "uri": "spotify:artist:0fMFxEzzksKzDMk4bFZodo",
+  "followers": {
+    "href": null,
+    "total": 639
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb506e8307cf7333f9c8610aa5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174506e8307cf7333f9c8610aa5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178506e8307cf7333f9c8610aa5",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0fMFxEzzksKzDMk4bFZodo"
+  }
+}

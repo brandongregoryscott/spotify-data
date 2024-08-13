@@ -1,0 +1,34 @@
+{
+  "id": "6sJv90msSga6IyTzOqW3Bh",
+  "name": "Yung Vision",
+  "uri": "spotify:artist:6sJv90msSga6IyTzOqW3Bh",
+  "followers": {
+    "href": null,
+    "total": 18365
+  },
+  "genres": [
+    "german cloud rap",
+    "german trap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf847a763eb94588ebca4c752",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f847a763eb94588ebca4c752",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f847a763eb94588ebca4c752",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6sJv90msSga6IyTzOqW3Bh"
+  }
+}

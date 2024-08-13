@@ -1,0 +1,34 @@
+{
+  "id": "2CtOr8xZuOBC9LQlhMdUkG",
+  "name": "MKDMSK",
+  "uri": "spotify:artist:2CtOr8xZuOBC9LQlhMdUkG",
+  "followers": {
+    "href": null,
+    "total": 29542
+  },
+  "genres": [
+    "finnish dance pop",
+    "finnish hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb711518695228be045ed213e3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174711518695228be045ed213e3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178711518695228be045ed213e3",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2CtOr8xZuOBC9LQlhMdUkG"
+  }
+}

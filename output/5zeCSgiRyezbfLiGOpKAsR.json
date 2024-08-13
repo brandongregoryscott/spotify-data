@@ -1,0 +1,34 @@
+{
+  "id": "5zeCSgiRyezbfLiGOpKAsR",
+  "name": "Tyrone Wells",
+  "uri": "spotify:artist:5zeCSgiRyezbfLiGOpKAsR",
+  "followers": {
+    "href": null,
+    "total": 98716
+  },
+  "genres": [
+    "acoustic pop",
+    "neo mellow"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb05321c32c48bd92737d699ec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517405321c32c48bd92737d699ec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17805321c32c48bd92737d699ec",
+      "width": 160
+    }
+  ],
+  "popularity": 46,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR"
+  }
+}

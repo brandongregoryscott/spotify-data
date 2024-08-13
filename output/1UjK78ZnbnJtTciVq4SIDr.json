@@ -1,0 +1,33 @@
+{
+  "id": "1UjK78ZnbnJtTciVq4SIDr",
+  "name": "Beech",
+  "uri": "spotify:artist:1UjK78ZnbnJtTciVq4SIDr",
+  "followers": {
+    "href": null,
+    "total": 189
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb663ada1c8c4c6418d530f29b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174663ada1c8c4c6418d530f29b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178663ada1c8c4c6418d530f29b",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1UjK78ZnbnJtTciVq4SIDr"
+  }
+}

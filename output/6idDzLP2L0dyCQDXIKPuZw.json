@@ -1,0 +1,33 @@
+{
+  "id": "6idDzLP2L0dyCQDXIKPuZw",
+  "name": "EDEXY",
+  "uri": "spotify:artist:6idDzLP2L0dyCQDXIKPuZw",
+  "followers": {
+    "href": null,
+    "total": 300
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb925e9d596ef6ab69358e450c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174925e9d596ef6ab69358e450c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178925e9d596ef6ab69358e450c",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6idDzLP2L0dyCQDXIKPuZw"
+  }
+}

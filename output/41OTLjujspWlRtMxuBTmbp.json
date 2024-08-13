@@ -1,0 +1,33 @@
+{
+  "id": "41OTLjujspWlRtMxuBTmbp",
+  "name": "artoast",
+  "uri": "spotify:artist:41OTLjujspWlRtMxuBTmbp",
+  "followers": {
+    "href": null,
+    "total": 32
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6e8ff26da1f0c6979ccd2f62",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051746e8ff26da1f0c6979ccd2f62",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1786e8ff26da1f0c6979ccd2f62",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/41OTLjujspWlRtMxuBTmbp"
+  }
+}

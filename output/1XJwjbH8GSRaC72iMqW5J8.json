@@ -1,0 +1,33 @@
+{
+  "id": "1XJwjbH8GSRaC72iMqW5J8",
+  "name": "Fontus",
+  "uri": "spotify:artist:1XJwjbH8GSRaC72iMqW5J8",
+  "followers": {
+    "href": null,
+    "total": 42
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc877a3363f2bcae84754e6ba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c877a3363f2bcae84754e6ba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c877a3363f2bcae84754e6ba",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1XJwjbH8GSRaC72iMqW5J8"
+  }
+}

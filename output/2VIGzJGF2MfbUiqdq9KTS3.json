@@ -1,0 +1,33 @@
+{
+  "id": "2VIGzJGF2MfbUiqdq9KTS3",
+  "name": "Micah Robinson",
+  "uri": "spotify:artist:2VIGzJGF2MfbUiqdq9KTS3",
+  "followers": {
+    "href": null,
+    "total": 280
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb17e14551e2cf3eaa59fd26e7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517417e14551e2cf3eaa59fd26e7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17817e14551e2cf3eaa59fd26e7",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2VIGzJGF2MfbUiqdq9KTS3"
+  }
+}

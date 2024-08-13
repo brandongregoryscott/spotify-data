@@ -1,0 +1,34 @@
+{
+  "id": "7jLxCKIw1LMQXKAFArmyvI",
+  "name": "Rhyze",
+  "uri": "spotify:artist:7jLxCKIw1LMQXKAFArmyvI",
+  "followers": {
+    "href": null,
+    "total": 2857
+  },
+  "genres": [
+    "post-disco",
+    "post-disco soul"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb86f8d25efbc3bc3d6db57b3a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517486f8d25efbc3bc3d6db57b3a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17886f8d25efbc3bc3d6db57b3a",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7jLxCKIw1LMQXKAFArmyvI"
+  }
+}

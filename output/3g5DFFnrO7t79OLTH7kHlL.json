@@ -1,0 +1,33 @@
+{
+  "id": "3g5DFFnrO7t79OLTH7kHlL",
+  "name": "Oktor",
+  "uri": "spotify:artist:3g5DFFnrO7t79OLTH7kHlL",
+  "followers": {
+    "href": null,
+    "total": 164
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fc4fe73990e77581158d318e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fc4fe73990e77581158d318e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fc4fe73990e77581158d318e",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3g5DFFnrO7t79OLTH7kHlL"
+  }
+}

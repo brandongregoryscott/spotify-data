@@ -1,0 +1,33 @@
+{
+  "id": "1KjrBntENn1lBZ69hNTtOF",
+  "name": "Birimbao",
+  "uri": "spotify:artist:1KjrBntENn1lBZ69hNTtOF",
+  "followers": {
+    "href": null,
+    "total": 7089
+  },
+  "genres": [
+    "gaita zuliana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733da389f71554251c7ffd127a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023da389f71554251c7ffd127a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513da389f71554251c7ffd127a",
+      "width": 64
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1KjrBntENn1lBZ69hNTtOF"
+  }
+}

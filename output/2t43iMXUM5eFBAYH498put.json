@@ -1,0 +1,35 @@
+{
+  "id": "2t43iMXUM5eFBAYH498put",
+  "name": "24SJU",
+  "uri": "spotify:artist:2t43iMXUM5eFBAYH498put",
+  "followers": {
+    "href": null,
+    "total": 7735
+  },
+  "genres": [
+    "gothenburg hip hop",
+    "swedish hip hop",
+    "swedish trap pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb29d815c11ca2a7cc5130324e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517429d815c11ca2a7cc5130324e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17829d815c11ca2a7cc5130324e",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2t43iMXUM5eFBAYH498put"
+  }
+}

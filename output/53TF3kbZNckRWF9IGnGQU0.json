@@ -1,0 +1,33 @@
+{
+  "id": "53TF3kbZNckRWF9IGnGQU0",
+  "name": "Donald Vega",
+  "uri": "spotify:artist:53TF3kbZNckRWF9IGnGQU0",
+  "followers": {
+    "href": null,
+    "total": 615
+  },
+  "genres": [
+    "modern jazz piano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfa9d80c30d5f02d87905d746",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fa9d80c30d5f02d87905d746",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fa9d80c30d5f02d87905d746",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/53TF3kbZNckRWF9IGnGQU0"
+  }
+}

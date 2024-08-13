@@ -1,0 +1,33 @@
+{
+  "id": "3Fi3EbouM4ki1IS62qQAgA",
+  "name": "Adalwolf",
+  "uri": "spotify:artist:3Fi3EbouM4ki1IS62qQAgA",
+  "followers": {
+    "href": null,
+    "total": 1626
+  },
+  "genres": [
+    "dark trap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb278fd4ca63b95ee873450d00",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174278fd4ca63b95ee873450d00",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178278fd4ca63b95ee873450d00",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Fi3EbouM4ki1IS62qQAgA"
+  }
+}

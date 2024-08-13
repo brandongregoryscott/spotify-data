@@ -1,0 +1,33 @@
+{
+  "id": "6rzOP8pWzUuXlniCGCtrcE",
+  "name": "Cassetter",
+  "uri": "spotify:artist:6rzOP8pWzUuXlniCGCtrcE",
+  "followers": {
+    "href": null,
+    "total": 10304
+  },
+  "genres": [
+    "synthwave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbcaefc0164f0d3f66c1033cf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bcaefc0164f0d3f66c1033cf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bcaefc0164f0d3f66c1033cf",
+      "width": 160
+    }
+  ],
+  "popularity": 34,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6rzOP8pWzUuXlniCGCtrcE"
+  }
+}

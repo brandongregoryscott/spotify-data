@@ -1,0 +1,38 @@
+{
+  "id": "52HYXSFgDARYgems1vx0sV",
+  "name": "Heinz",
+  "uri": "spotify:artist:52HYXSFgDARYgems1vx0sV",
+  "followers": {
+    "href": null,
+    "total": 2797
+  },
+  "genres": [
+    "british invasion"
+  ],
+  "images": [
+    {
+      "height": 1500,
+      "url": "https://i.scdn.co/image/4f02665eabacdd7df7bb6f57330f86bc6d1aeeeb",
+      "width": 1000
+    },
+    {
+      "height": 960,
+      "url": "https://i.scdn.co/image/07393bbea0d7259ad48b1cd6fd2d611d0b08f99f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/29e11169d1b164a41ca475671e35f52b45ef582e",
+      "width": 200
+    },
+    {
+      "height": 96,
+      "url": "https://i.scdn.co/image/4ea6fad36c11b762775c47b9d589b2b22ea0bc15",
+      "width": 64
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/52HYXSFgDARYgems1vx0sV"
+  }
+}

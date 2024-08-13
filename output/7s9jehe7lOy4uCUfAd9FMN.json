@@ -1,0 +1,33 @@
+{
+  "id": "7s9jehe7lOy4uCUfAd9FMN",
+  "name": "Highlife",
+  "uri": "spotify:artist:7s9jehe7lOy4uCUfAd9FMN",
+  "followers": {
+    "href": null,
+    "total": 123
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfd439e94d7bed87aa5007ed9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fd439e94d7bed87aa5007ed9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fd439e94d7bed87aa5007ed9",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7s9jehe7lOy4uCUfAd9FMN"
+  }
+}

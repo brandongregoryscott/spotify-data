@@ -1,0 +1,33 @@
+{
+  "id": "1Y7WIR657iA2AR9dI5NQ6N",
+  "name": "Indrawn",
+  "uri": "spotify:artist:1Y7WIR657iA2AR9dI5NQ6N",
+  "followers": {
+    "href": null,
+    "total": 171
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb35dbdac29adb6f685ff431f3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517435dbdac29adb6f685ff431f3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17835dbdac29adb6f685ff431f3",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Y7WIR657iA2AR9dI5NQ6N"
+  }
+}

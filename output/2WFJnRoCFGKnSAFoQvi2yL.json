@@ -1,0 +1,33 @@
+{
+  "id": "2WFJnRoCFGKnSAFoQvi2yL",
+  "name": "Jayneto",
+  "uri": "spotify:artist:2WFJnRoCFGKnSAFoQvi2yL",
+  "followers": {
+    "href": null,
+    "total": 8286
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb468c6a962383752eeca48a9e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174468c6a962383752eeca48a9e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178468c6a962383752eeca48a9e",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2WFJnRoCFGKnSAFoQvi2yL"
+  }
+}

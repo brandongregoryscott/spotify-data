@@ -1,0 +1,33 @@
+{
+  "id": "5tLyDlagkzv248K85z6mei",
+  "name": "Uf0",
+  "uri": "spotify:artist:5tLyDlagkzv248K85z6mei",
+  "followers": {
+    "href": null,
+    "total": 844
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb77cee30e1922b647f17c9ed1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517477cee30e1922b647f17c9ed1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17877cee30e1922b647f17c9ed1",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5tLyDlagkzv248K85z6mei"
+  }
+}

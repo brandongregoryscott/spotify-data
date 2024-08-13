@@ -1,0 +1,33 @@
+{
+  "id": "6Kzg15q4zWAifVBb8Drcg0",
+  "name": "Swooli",
+  "uri": "spotify:artist:6Kzg15q4zWAifVBb8Drcg0",
+  "followers": {
+    "href": null,
+    "total": 509
+  },
+  "genres": [
+    "boston hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb80c315b495e38fd4e7235d7a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517480c315b495e38fd4e7235d7a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17880c315b495e38fd4e7235d7a",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Kzg15q4zWAifVBb8Drcg0"
+  }
+}

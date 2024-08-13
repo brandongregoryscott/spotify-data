@@ -1,0 +1,33 @@
+{
+  "id": "5ADaenUHWJLzKRJFo8rDVN",
+  "name": "Carl French",
+  "uri": "spotify:artist:5ADaenUHWJLzKRJFo8rDVN",
+  "followers": {
+    "href": null,
+    "total": 79
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cb28095cd20e182668273ce1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cb28095cd20e182668273ce1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cb28095cd20e182668273ce1",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ADaenUHWJLzKRJFo8rDVN"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7sdFsJNQmnXEJjpgeVeQWO",
+  "name": "Andres",
+  "uri": "spotify:artist:7sdFsJNQmnXEJjpgeVeQWO",
+  "followers": {
+    "href": null,
+    "total": 10452
+  },
+  "genres": [
+    "detroit house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730c3ab0f0fe6ea2bf994e1df7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020c3ab0f0fe6ea2bf994e1df7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510c3ab0f0fe6ea2bf994e1df7",
+      "width": 64
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7sdFsJNQmnXEJjpgeVeQWO"
+  }
+}

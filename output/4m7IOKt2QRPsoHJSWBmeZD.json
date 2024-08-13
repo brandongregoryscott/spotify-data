@@ -1,0 +1,33 @@
+{
+  "id": "4m7IOKt2QRPsoHJSWBmeZD",
+  "name": "Lakeview",
+  "uri": "spotify:artist:4m7IOKt2QRPsoHJSWBmeZD",
+  "followers": {
+    "href": null,
+    "total": 75243
+  },
+  "genres": [
+    "modern country pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba3928197d43e064f82de2ece",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a3928197d43e064f82de2ece",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a3928197d43e064f82de2ece",
+      "width": 160
+    }
+  ],
+  "popularity": 50,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
+  }
+}

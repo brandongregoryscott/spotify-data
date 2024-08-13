@@ -1,0 +1,33 @@
+{
+  "id": "0u0QzBfRtvXKrBTYRWISGr",
+  "name": "ArtiSTARs",
+  "uri": "spotify:artist:0u0QzBfRtvXKrBTYRWISGr",
+  "followers": {
+    "href": null,
+    "total": 8837
+  },
+  "genres": [
+    "j-division"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731c650228562c0521d8ca44d7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021c650228562c0521d8ca44d7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511c650228562c0521d8ca44d7",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0u0QzBfRtvXKrBTYRWISGr"
+  }
+}

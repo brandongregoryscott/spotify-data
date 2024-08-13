@@ -1,0 +1,33 @@
+{
+  "id": "27AO26anFR1MuQyxc5zAoc",
+  "name": "brookelen",
+  "uri": "spotify:artist:27AO26anFR1MuQyxc5zAoc",
+  "followers": {
+    "href": null,
+    "total": 422
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb77914d4d1688c4beac86487e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517477914d4d1688c4beac86487e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17877914d4d1688c4beac86487e",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/27AO26anFR1MuQyxc5zAoc"
+  }
+}

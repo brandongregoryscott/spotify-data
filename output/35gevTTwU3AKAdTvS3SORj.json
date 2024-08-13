@@ -1,0 +1,35 @@
+{
+  "id": "35gevTTwU3AKAdTvS3SORj",
+  "name": "Mosart",
+  "uri": "spotify:artist:35gevTTwU3AKAdTvS3SORj",
+  "followers": {
+    "href": null,
+    "total": 9162
+  },
+  "genres": [
+    "german cloud rap",
+    "german hyperpop",
+    "german trap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb15315a3326eb1d96d808a593",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517415315a3326eb1d96d808a593",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17815315a3326eb1d96d808a593",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/35gevTTwU3AKAdTvS3SORj"
+  }
+}

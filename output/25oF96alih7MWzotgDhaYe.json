@@ -1,0 +1,33 @@
+{
+  "id": "25oF96alih7MWzotgDhaYe",
+  "name": "Konstantin Vassiliev",
+  "uri": "spotify:artist:25oF96alih7MWzotgDhaYe",
+  "followers": {
+    "href": null,
+    "total": 123
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733c973bb112b8205d1e140d35",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023c973bb112b8205d1e140d35",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513c973bb112b8205d1e140d35",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/25oF96alih7MWzotgDhaYe"
+  }
+}

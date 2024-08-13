@@ -1,0 +1,33 @@
+{
+  "id": "3zrx3qDKgLVECQTsGUlFWT",
+  "name": "Maygo",
+  "uri": "spotify:artist:3zrx3qDKgLVECQTsGUlFWT",
+  "followers": {
+    "href": null,
+    "total": 26
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27341f6b3df6db3ddc3edf0b69e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027b151a78c963bbd24f00e059",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f46d7d818f4374fe5841eed8",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3zrx3qDKgLVECQTsGUlFWT"
+  }
+}

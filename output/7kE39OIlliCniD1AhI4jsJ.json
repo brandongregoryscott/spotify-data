@@ -1,0 +1,34 @@
+{
+  "id": "7kE39OIlliCniD1AhI4jsJ",
+  "name": "Hakoota",
+  "uri": "spotify:artist:7kE39OIlliCniD1AhI4jsJ",
+  "followers": {
+    "href": null,
+    "total": 4516
+  },
+  "genres": [
+    "v-pop",
+    "vietnamese singer-songwriter"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb660c4d9d0366acdc56c0bfbf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174660c4d9d0366acdc56c0bfbf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178660c4d9d0366acdc56c0bfbf",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7kE39OIlliCniD1AhI4jsJ"
+  }
+}

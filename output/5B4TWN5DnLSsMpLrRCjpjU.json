@@ -1,0 +1,33 @@
+{
+  "id": "5B4TWN5DnLSsMpLrRCjpjU",
+  "name": "Beyla",
+  "uri": "spotify:artist:5B4TWN5DnLSsMpLrRCjpjU",
+  "followers": {
+    "href": null,
+    "total": 427
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb67970f66a5164a4148041f4f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517467970f66a5164a4148041f4f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17867970f66a5164a4148041f4f",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5B4TWN5DnLSsMpLrRCjpjU"
+  }
+}

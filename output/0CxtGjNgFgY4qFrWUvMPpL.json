@@ -1,0 +1,34 @@
+{
+  "id": "0CxtGjNgFgY4qFrWUvMPpL",
+  "name": "Bobby Funk",
+  "uri": "spotify:artist:0CxtGjNgFgY4qFrWUvMPpL",
+  "followers": {
+    "href": null,
+    "total": 847
+  },
+  "genres": [
+    "cornwall indie",
+    "uk diy punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb276d05546596dab5943b97a1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174276d05546596dab5943b97a1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178276d05546596dab5943b97a1",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0CxtGjNgFgY4qFrWUvMPpL"
+  }
+}

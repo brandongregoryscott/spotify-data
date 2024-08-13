@@ -1,0 +1,33 @@
+{
+  "id": "2KuRIVSBzz6uSGBhk2zGDB",
+  "name": "SWAY",
+  "uri": "spotify:artist:2KuRIVSBzz6uSGBhk2zGDB",
+  "followers": {
+    "href": null,
+    "total": 674
+  },
+  "genres": [
+    "scottish indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe0fd6185bd9aa4fd5a05e9ef",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e0fd6185bd9aa4fd5a05e9ef",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e0fd6185bd9aa4fd5a05e9ef",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2KuRIVSBzz6uSGBhk2zGDB"
+  }
+}

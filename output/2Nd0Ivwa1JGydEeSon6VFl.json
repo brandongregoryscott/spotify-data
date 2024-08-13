@@ -1,0 +1,33 @@
+{
+  "id": "2Nd0Ivwa1JGydEeSon6VFl",
+  "name": "SHUN",
+  "uri": "spotify:artist:2Nd0Ivwa1JGydEeSon6VFl",
+  "followers": {
+    "href": null,
+    "total": 420
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb29ba88136b7243f6c29aea8b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517429ba88136b7243f6c29aea8b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17829ba88136b7243f6c29aea8b",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Nd0Ivwa1JGydEeSon6VFl"
+  }
+}

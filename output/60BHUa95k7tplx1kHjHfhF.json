@@ -1,0 +1,33 @@
+{
+  "id": "60BHUa95k7tplx1kHjHfhF",
+  "name": "Evil Genius",
+  "uri": "spotify:artist:60BHUa95k7tplx1kHjHfhF",
+  "followers": {
+    "href": null,
+    "total": 1234
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb800d15ea1192e6891f49b520",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174800d15ea1192e6891f49b520",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178800d15ea1192e6891f49b520",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/60BHUa95k7tplx1kHjHfhF"
+  }
+}

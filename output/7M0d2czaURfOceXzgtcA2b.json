@@ -1,0 +1,33 @@
+{
+  "id": "7M0d2czaURfOceXzgtcA2b",
+  "name": "koolmonke",
+  "uri": "spotify:artist:7M0d2czaURfOceXzgtcA2b",
+  "followers": {
+    "href": null,
+    "total": 198
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb02a37318b6d290ca44d4c883",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517402a37318b6d290ca44d4c883",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17802a37318b6d290ca44d4c883",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7M0d2czaURfOceXzgtcA2b"
+  }
+}

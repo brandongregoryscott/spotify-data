@@ -1,0 +1,33 @@
+{
+  "id": "4tckU58lAHcyNaWWswLubb",
+  "name": "Los Sencillos",
+  "uri": "spotify:artist:4tckU58lAHcyNaWWswLubb",
+  "followers": {
+    "href": null,
+    "total": 12059
+  },
+  "genres": [
+    "spanish new wave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739620d766d153b08b1cabfcb9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029620d766d153b08b1cabfcb9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519620d766d153b08b1cabfcb9",
+      "width": 64
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4tckU58lAHcyNaWWswLubb"
+  }
+}

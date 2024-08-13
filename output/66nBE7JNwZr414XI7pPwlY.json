@@ -1,0 +1,33 @@
+{
+  "id": "66nBE7JNwZr414XI7pPwlY",
+  "name": "Blåøjet",
+  "uri": "spotify:artist:66nBE7JNwZr414XI7pPwlY",
+  "followers": {
+    "href": null,
+    "total": 441
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdf6c38de6edce773ed54e073",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174df6c38de6edce773ed54e073",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178df6c38de6edce773ed54e073",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/66nBE7JNwZr414XI7pPwlY"
+  }
+}

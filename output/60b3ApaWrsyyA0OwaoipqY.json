@@ -1,0 +1,33 @@
+{
+  "id": "60b3ApaWrsyyA0OwaoipqY",
+  "name": "Bassoonify",
+  "uri": "spotify:artist:60b3ApaWrsyyA0OwaoipqY",
+  "followers": {
+    "href": null,
+    "total": 532
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcab36266a628b2c96e4bc6ef",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cab36266a628b2c96e4bc6ef",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cab36266a628b2c96e4bc6ef",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/60b3ApaWrsyyA0OwaoipqY"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1OWiBvmwwqBmy0X3qRY8eS",
+  "name": "XK Scenario",
+  "uri": "spotify:artist:1OWiBvmwwqBmy0X3qRY8eS",
+  "followers": {
+    "href": null,
+    "total": 151
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb45e51dd32b2119ccba51feda",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517445e51dd32b2119ccba51feda",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17845e51dd32b2119ccba51feda",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1OWiBvmwwqBmy0X3qRY8eS"
+  }
+}

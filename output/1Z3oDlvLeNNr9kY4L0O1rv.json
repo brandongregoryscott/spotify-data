@@ -1,0 +1,33 @@
+{
+  "id": "1Z3oDlvLeNNr9kY4L0O1rv",
+  "name": "Edson Pride",
+  "uri": "spotify:artist:1Z3oDlvLeNNr9kY4L0O1rv",
+  "followers": {
+    "href": null,
+    "total": 8250
+  },
+  "genres": [
+    "circuit"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb32c5c2b46ea63eeb12fddff0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517432c5c2b46ea63eeb12fddff0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17832c5c2b46ea63eeb12fddff0",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Z3oDlvLeNNr9kY4L0O1rv"
+  }
+}

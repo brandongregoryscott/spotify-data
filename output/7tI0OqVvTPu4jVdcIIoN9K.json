@@ -1,0 +1,33 @@
+{
+  "id": "7tI0OqVvTPu4jVdcIIoN9K",
+  "name": "Shire Oak",
+  "uri": "spotify:artist:7tI0OqVvTPu4jVdcIIoN9K",
+  "followers": {
+    "href": null,
+    "total": 97
+  },
+  "genres": [
+    "comfy synth"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebad14b2b65fde137faa918a0c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ad14b2b65fde137faa918a0c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ad14b2b65fde137faa918a0c",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7tI0OqVvTPu4jVdcIIoN9K"
+  }
+}

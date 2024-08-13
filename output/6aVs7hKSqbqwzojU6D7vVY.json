@@ -1,0 +1,34 @@
+{
+  "id": "6aVs7hKSqbqwzojU6D7vVY",
+  "name": "Steve Cradock",
+  "uri": "spotify:artist:6aVs7hKSqbqwzojU6D7vVY",
+  "followers": {
+    "href": null,
+    "total": 2255
+  },
+  "genres": [
+    "britpop",
+    "solo wave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb84870f484460534514db8f51",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517484870f484460534514db8f51",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17884870f484460534514db8f51",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6aVs7hKSqbqwzojU6D7vVY"
+  }
+}

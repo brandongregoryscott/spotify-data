@@ -1,0 +1,33 @@
+{
+  "id": "3H9pr8am7o1aPsL4nva5RD",
+  "name": "False Hero",
+  "uri": "spotify:artist:3H9pr8am7o1aPsL4nva5RD",
+  "followers": {
+    "href": null,
+    "total": 273
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf52492d6e78062e3caff2189",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f52492d6e78062e3caff2189",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f52492d6e78062e3caff2189",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3H9pr8am7o1aPsL4nva5RD"
+  }
+}

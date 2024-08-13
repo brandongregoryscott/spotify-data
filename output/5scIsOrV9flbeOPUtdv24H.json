@@ -1,0 +1,34 @@
+{
+  "id": "5scIsOrV9flbeOPUtdv24H",
+  "name": "Emba",
+  "uri": "spotify:artist:5scIsOrV9flbeOPUtdv24H",
+  "followers": {
+    "href": null,
+    "total": 2908
+  },
+  "genres": [
+    "liquid funk",
+    "uk dnb"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb843f201d985fad43ab17f2c4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174843f201d985fad43ab17f2c4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178843f201d985fad43ab17f2c4",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5scIsOrV9flbeOPUtdv24H"
+  }
+}

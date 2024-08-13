@@ -1,0 +1,33 @@
+{
+  "id": "2iDFXwCBGskv5DbvMMx73N",
+  "name": "DJ Drama",
+  "uri": "spotify:artist:2iDFXwCBGskv5DbvMMx73N",
+  "followers": {
+    "href": null,
+    "total": 745
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736c21b160b76bd23d9c8449c7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026c21b160b76bd23d9c8449c7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516c21b160b76bd23d9c8449c7",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2iDFXwCBGskv5DbvMMx73N"
+  }
+}

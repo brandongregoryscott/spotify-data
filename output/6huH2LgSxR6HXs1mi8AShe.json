@@ -1,0 +1,33 @@
+{
+  "id": "6huH2LgSxR6HXs1mi8AShe",
+  "name": "Prass",
+  "uri": "spotify:artist:6huH2LgSxR6HXs1mi8AShe",
+  "followers": {
+    "href": null,
+    "total": 569
+  },
+  "genres": [
+    "indonesian folk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebad03e7a90c8fe370d62b5c86",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ad03e7a90c8fe370d62b5c86",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ad03e7a90c8fe370d62b5c86",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6huH2LgSxR6HXs1mi8AShe"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3EsZjXw8uPVZFoWJMv9DFJ",
+  "name": "clover",
+  "uri": "spotify:artist:3EsZjXw8uPVZFoWJMv9DFJ",
+  "followers": {
+    "href": null,
+    "total": 68
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfd1e582e76093dfecc10c5a9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fd1e582e76093dfecc10c5a9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fd1e582e76093dfecc10c5a9",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3EsZjXw8uPVZFoWJMv9DFJ"
+  }
+}

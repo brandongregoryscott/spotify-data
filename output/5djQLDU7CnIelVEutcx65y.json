@@ -1,0 +1,33 @@
+{
+  "id": "5djQLDU7CnIelVEutcx65y",
+  "name": "Marukabis",
+  "uri": "spotify:artist:5djQLDU7CnIelVEutcx65y",
+  "followers": {
+    "href": null,
+    "total": 270
+  },
+  "genres": [
+    "ambeat"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27324d31883a2ea099ef4f8d1a0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0224d31883a2ea099ef4f8d1a0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485124d31883a2ea099ef4f8d1a0",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5djQLDU7CnIelVEutcx65y"
+  }
+}

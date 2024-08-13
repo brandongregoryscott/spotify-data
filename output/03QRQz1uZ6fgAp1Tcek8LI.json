@@ -1,0 +1,33 @@
+{
+  "id": "03QRQz1uZ6fgAp1Tcek8LI",
+  "name": "XIII",
+  "uri": "spotify:artist:03QRQz1uZ6fgAp1Tcek8LI",
+  "followers": {
+    "href": null,
+    "total": 9351
+  },
+  "genres": [
+    "russian underground rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb14d5db55ee0f940d05723840",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517414d5db55ee0f940d05723840",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17814d5db55ee0f940d05723840",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03QRQz1uZ6fgAp1Tcek8LI"
+  }
+}

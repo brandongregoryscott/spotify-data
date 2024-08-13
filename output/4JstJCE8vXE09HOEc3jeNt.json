@@ -1,0 +1,33 @@
+{
+  "id": "4JstJCE8vXE09HOEc3jeNt",
+  "name": "Swooping",
+  "uri": "spotify:artist:4JstJCE8vXE09HOEc3jeNt",
+  "followers": {
+    "href": null,
+    "total": 984
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733400183ee7e619e72b1aba1e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023400183ee7e619e72b1aba1e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513400183ee7e619e72b1aba1e",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4JstJCE8vXE09HOEc3jeNt"
+  }
+}

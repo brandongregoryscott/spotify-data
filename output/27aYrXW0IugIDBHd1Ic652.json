@@ -1,0 +1,33 @@
+{
+  "id": "27aYrXW0IugIDBHd1Ic652",
+  "name": "A Porta Verde",
+  "uri": "spotify:artist:27aYrXW0IugIDBHd1Ic652",
+  "followers": {
+    "href": null,
+    "total": 132
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c286501652067327a18edf19",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c286501652067327a18edf19",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c286501652067327a18edf19",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/27aYrXW0IugIDBHd1Ic652"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "4zGDvdH6v9mBUUlcWbJtl3",
+  "name": "Johanna Siekkinen",
+  "uri": "spotify:artist:4zGDvdH6v9mBUUlcWbJtl3",
+  "followers": {
+    "href": null,
+    "total": 1012
+  },
+  "genres": [
+    "classic finnish pop",
+    "classic iskelma",
+    "iskelma"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e69809af17ab374843a0deb5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e69809af17ab374843a0deb5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e69809af17ab374843a0deb5",
+      "width": 64
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4zGDvdH6v9mBUUlcWbJtl3"
+  }
+}

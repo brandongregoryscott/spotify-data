@@ -1,0 +1,33 @@
+{
+  "id": "3rSWgrxSPaAF9em4VEe8GD",
+  "name": "The Luka Project",
+  "uri": "spotify:artist:3rSWgrxSPaAF9em4VEe8GD",
+  "followers": {
+    "href": null,
+    "total": 2160
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeaab7fd4a0dfd65dffb22b5d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eaab7fd4a0dfd65dffb22b5d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eaab7fd4a0dfd65dffb22b5d",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3rSWgrxSPaAF9em4VEe8GD"
+  }
+}

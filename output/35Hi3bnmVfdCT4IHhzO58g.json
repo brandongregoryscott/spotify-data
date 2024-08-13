@@ -1,0 +1,33 @@
+{
+  "id": "35Hi3bnmVfdCT4IHhzO58g",
+  "name": "toma",
+  "uri": "spotify:artist:35Hi3bnmVfdCT4IHhzO58g",
+  "followers": {
+    "href": null,
+    "total": 1024
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb098ef787c67d08e61119496c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174098ef787c67d08e61119496c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178098ef787c67d08e61119496c",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/35Hi3bnmVfdCT4IHhzO58g"
+  }
+}

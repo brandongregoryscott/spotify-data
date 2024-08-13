@@ -1,0 +1,33 @@
+{
+  "id": "77o7fsvk9sQbAxAZNmzuss",
+  "name": "JAX",
+  "uri": "spotify:artist:77o7fsvk9sQbAxAZNmzuss",
+  "followers": {
+    "href": null,
+    "total": 677
+  },
+  "genres": [
+    "atlantic canada hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb977dcba5a0415e8ffd4d29cf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174977dcba5a0415e8ffd4d29cf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178977dcba5a0415e8ffd4d29cf",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/77o7fsvk9sQbAxAZNmzuss"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0lKuRuQ21qBE9FZOpfOTfH",
+  "name": "Superhead",
+  "uri": "spotify:artist:0lKuRuQ21qBE9FZOpfOTfH",
+  "followers": {
+    "href": null,
+    "total": 279
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf036dc85527aa5723c0550db",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f036dc85527aa5723c0550db",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f036dc85527aa5723c0550db",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0lKuRuQ21qBE9FZOpfOTfH"
+  }
+}

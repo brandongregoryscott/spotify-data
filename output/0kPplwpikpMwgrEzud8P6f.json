@@ -1,0 +1,33 @@
+{
+  "id": "0kPplwpikpMwgrEzud8P6f",
+  "name": "Aggressive",
+  "uri": "spotify:artist:0kPplwpikpMwgrEzud8P6f",
+  "followers": {
+    "href": null,
+    "total": 1299
+  },
+  "genres": [
+    "german oi"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb394dac3f60ee39d58d40b7a8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174394dac3f60ee39d58d40b7a8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178394dac3f60ee39d58d40b7a8",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0kPplwpikpMwgrEzud8P6f"
+  }
+}

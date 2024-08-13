@@ -1,0 +1,33 @@
+{
+  "id": "3sU17CPlVZZ4ImHsRAq7gM",
+  "name": "Exoform",
+  "uri": "spotify:artist:3sU17CPlVZZ4ImHsRAq7gM",
+  "followers": {
+    "href": null,
+    "total": 516
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdd21ce9f9661705ed499b172",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dd21ce9f9661705ed499b172",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dd21ce9f9661705ed499b172",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3sU17CPlVZZ4ImHsRAq7gM"
+  }
+}

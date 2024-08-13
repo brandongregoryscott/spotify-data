@@ -1,0 +1,33 @@
+{
+  "id": "59ZuhgVtwjgu1Fr0qXDLLN",
+  "name": "S-Tee",
+  "uri": "spotify:artist:59ZuhgVtwjgu1Fr0qXDLLN",
+  "followers": {
+    "href": null,
+    "total": 8060
+  },
+  "genres": [
+    "rap francais nouvelle vague"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd0929c62ee7bb640c1350ec4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d0929c62ee7bb640c1350ec4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d0929c62ee7bb640c1350ec4",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/59ZuhgVtwjgu1Fr0qXDLLN"
+  }
+}

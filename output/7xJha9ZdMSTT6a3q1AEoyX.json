@@ -1,0 +1,33 @@
+{
+  "id": "7xJha9ZdMSTT6a3q1AEoyX",
+  "name": "Dan Israel",
+  "uri": "spotify:artist:7xJha9ZdMSTT6a3q1AEoyX",
+  "followers": {
+    "href": null,
+    "total": 400
+  },
+  "genres": [
+    "twin cities indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb35e9f01569cc28a08f350193",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517435e9f01569cc28a08f350193",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17835e9f01569cc28a08f350193",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7xJha9ZdMSTT6a3q1AEoyX"
+  }
+}

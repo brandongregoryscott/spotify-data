@@ -1,0 +1,33 @@
+{
+  "id": "4XmcKYHPUGhk5wD32WNweV",
+  "name": "tuna.",
+  "uri": "spotify:artist:4XmcKYHPUGhk5wD32WNweV",
+  "followers": {
+    "href": null,
+    "total": 68
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27348f5cff8fc8f5e6399cc2963",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0248f5cff8fc8f5e6399cc2963",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485148f5cff8fc8f5e6399cc2963",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4XmcKYHPUGhk5wD32WNweV"
+  }
+}

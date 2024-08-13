@@ -1,0 +1,33 @@
+{
+  "id": "1a3eNMiShmA6cVK0JqEhp5",
+  "name": "Happy Perez",
+  "uri": "spotify:artist:1a3eNMiShmA6cVK0JqEhp5",
+  "followers": {
+    "href": null,
+    "total": 912
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fec8d650c8164949dad025ba",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fec8d650c8164949dad025ba",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fec8d650c8164949dad025ba",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1a3eNMiShmA6cVK0JqEhp5"
+  }
+}

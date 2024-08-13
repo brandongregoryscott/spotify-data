@@ -1,0 +1,35 @@
+{
+  "id": "4DAFJvYjVrSQfEM67zeXQT",
+  "name": "We Are The Grand",
+  "uri": "spotify:artist:4DAFJvYjVrSQfEM67zeXQT",
+  "followers": {
+    "href": null,
+    "total": 32843
+  },
+  "genres": [
+    "chilean indie",
+    "chilean rock",
+    "latin rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba1a13d93a95fa9d659d7c203",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a1a13d93a95fa9d659d7c203",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a1a13d93a95fa9d659d7c203",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+  }
+}

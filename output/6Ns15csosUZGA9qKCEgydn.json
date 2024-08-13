@@ -1,0 +1,33 @@
+{
+  "id": "6Ns15csosUZGA9qKCEgydn",
+  "name": "Confounded",
+  "uri": "spotify:artist:6Ns15csosUZGA9qKCEgydn",
+  "followers": {
+    "href": null,
+    "total": 216
+  },
+  "genres": [
+    "metal pernambucano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf29254bb4eaef26d36537231",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f29254bb4eaef26d36537231",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f29254bb4eaef26d36537231",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Ns15csosUZGA9qKCEgydn"
+  }
+}

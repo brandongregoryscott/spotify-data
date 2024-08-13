@@ -1,0 +1,33 @@
+{
+  "id": "67MmoxMYPAPHPMWaaTtvqk",
+  "name": "박주원",
+  "uri": "spotify:artist:67MmoxMYPAPHPMWaaTtvqk",
+  "followers": {
+    "href": null,
+    "total": 468
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736e8fb4455ef658c85a07e40c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026e8fb4455ef658c85a07e40c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516e8fb4455ef658c85a07e40c",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/67MmoxMYPAPHPMWaaTtvqk"
+  }
+}

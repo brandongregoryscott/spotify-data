@@ -1,0 +1,33 @@
+{
+  "id": "0sX7dKJ5wmB9Q972Ft1tzI",
+  "name": "Delmay",
+  "uri": "spotify:artist:0sX7dKJ5wmB9Q972Ft1tzI",
+  "followers": {
+    "href": null,
+    "total": 549
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe6707a2f77ec2832f1d74110",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e6707a2f77ec2832f1d74110",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e6707a2f77ec2832f1d74110",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0sX7dKJ5wmB9Q972Ft1tzI"
+  }
+}

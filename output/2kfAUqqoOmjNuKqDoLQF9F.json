@@ -1,0 +1,33 @@
+{
+  "id": "2kfAUqqoOmjNuKqDoLQF9F",
+  "name": "Bridget Kelly Band",
+  "uri": "spotify:artist:2kfAUqqoOmjNuKqDoLQF9F",
+  "followers": {
+    "href": null,
+    "total": 1280
+  },
+  "genres": [
+    "power blues-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb09983e86130d9875b18bdc39",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517409983e86130d9875b18bdc39",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17809983e86130d9875b18bdc39",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2kfAUqqoOmjNuKqDoLQF9F"
+  }
+}

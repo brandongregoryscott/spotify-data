@@ -1,0 +1,33 @@
+{
+  "id": "7xrG2sbz0czWyRzzDbyTKS",
+  "name": "Stone Avenue",
+  "uri": "spotify:artist:7xrG2sbz0czWyRzzDbyTKS",
+  "followers": {
+    "href": null,
+    "total": 550
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb22259a421d66a2359bb24e5d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517422259a421d66a2359bb24e5d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17822259a421d66a2359bb24e5d",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7xrG2sbz0czWyRzzDbyTKS"
+  }
+}

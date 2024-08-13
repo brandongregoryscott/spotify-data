@@ -1,0 +1,33 @@
+{
+  "id": "1NTRKdgOj5dN7pbfyUief1",
+  "name": "Kristian",
+  "uri": "spotify:artist:1NTRKdgOj5dN7pbfyUief1",
+  "followers": {
+    "href": null,
+    "total": 41
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba33d5d4a5ce3f90f6da591f2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a33d5d4a5ce3f90f6da591f2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a33d5d4a5ce3f90f6da591f2",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1NTRKdgOj5dN7pbfyUief1"
+  }
+}

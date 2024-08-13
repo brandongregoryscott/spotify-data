@@ -1,0 +1,33 @@
+{
+  "id": "5E3H900VYB3q5bFRepevus",
+  "name": "Spring Major",
+  "uri": "spotify:artist:5E3H900VYB3q5bFRepevus",
+  "followers": {
+    "href": null,
+    "total": 59
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ac883d9df7e9f9dd44fd95bd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ac883d9df7e9f9dd44fd95bd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ac883d9df7e9f9dd44fd95bd",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5E3H900VYB3q5bFRepevus"
+  }
+}

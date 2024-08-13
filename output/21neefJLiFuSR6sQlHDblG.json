@@ -1,0 +1,34 @@
+{
+  "id": "21neefJLiFuSR6sQlHDblG",
+  "name": "Immasoul",
+  "uri": "spotify:artist:21neefJLiFuSR6sQlHDblG",
+  "followers": {
+    "href": null,
+    "total": 11247
+  },
+  "genres": [
+    "musica quintanarroense",
+    "r&b en espanol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb528dca1d7ca6d5767a4c6633",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174528dca1d7ca6d5767a4c6633",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178528dca1d7ca6d5767a4c6633",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+  }
+}

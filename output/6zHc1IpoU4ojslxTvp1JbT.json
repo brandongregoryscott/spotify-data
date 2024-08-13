@@ -1,0 +1,33 @@
+{
+  "id": "6zHc1IpoU4ojslxTvp1JbT",
+  "name": "Els Amics de Manel",
+  "uri": "spotify:artist:6zHc1IpoU4ojslxTvp1JbT",
+  "followers": {
+    "href": null,
+    "total": 331
+  },
+  "genres": [
+    "musica catalana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb10fe1fb89c7e910b0c262450",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517410fe1fb89c7e910b0c262450",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17810fe1fb89c7e910b0c262450",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6zHc1IpoU4ojslxTvp1JbT"
+  }
+}

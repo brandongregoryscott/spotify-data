@@ -1,0 +1,33 @@
+{
+  "id": "3XcGAfUWVVQbqdCiiYbLwB",
+  "name": "Petey Normal",
+  "uri": "spotify:artist:3XcGAfUWVVQbqdCiiYbLwB",
+  "followers": {
+    "href": null,
+    "total": 58
+  },
+  "genres": [
+    "seattle indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb91b66fa7427da0c6de8f01a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b91b66fa7427da0c6de8f01a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b91b66fa7427da0c6de8f01a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3XcGAfUWVVQbqdCiiYbLwB"
+  }
+}

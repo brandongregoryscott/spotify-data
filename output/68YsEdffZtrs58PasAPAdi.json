@@ -1,0 +1,34 @@
+{
+  "id": "68YsEdffZtrs58PasAPAdi",
+  "name": "I Melt",
+  "uri": "spotify:artist:68YsEdffZtrs58PasAPAdi",
+  "followers": {
+    "href": null,
+    "total": 496
+  },
+  "genres": [
+    "indie veneto",
+    "punk rock italiano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273804c6718ac72dac8ec8b894c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02804c6718ac72dac8ec8b894c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851804c6718ac72dac8ec8b894c",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/68YsEdffZtrs58PasAPAdi"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "60lZzYsXDBpD2J6sDVWqum",
+  "name": "Álvaro Famas",
+  "uri": "spotify:artist:60lZzYsXDBpD2J6sDVWqum",
+  "followers": {
+    "href": null,
+    "total": 48
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb061c7ac91569ef88229278c7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174061c7ac91569ef88229278c7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178061c7ac91569ef88229278c7",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/60lZzYsXDBpD2J6sDVWqum"
+  }
+}

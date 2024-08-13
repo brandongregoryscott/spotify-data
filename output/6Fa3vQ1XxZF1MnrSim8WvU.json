@@ -1,0 +1,33 @@
+{
+  "id": "6Fa3vQ1XxZF1MnrSim8WvU",
+  "name": "Bloom",
+  "uri": "spotify:artist:6Fa3vQ1XxZF1MnrSim8WvU",
+  "followers": {
+    "href": null,
+    "total": 43
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb524eb6e9af50c7293441005e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174524eb6e9af50c7293441005e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178524eb6e9af50c7293441005e",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Fa3vQ1XxZF1MnrSim8WvU"
+  }
+}

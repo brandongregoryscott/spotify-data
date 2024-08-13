@@ -1,0 +1,33 @@
+{
+  "id": "28Cpa5PFQxuHsC1jhVmAKq",
+  "name": "Dino",
+  "uri": "spotify:artist:28Cpa5PFQxuHsC1jhVmAKq",
+  "followers": {
+    "href": null,
+    "total": 1397
+  },
+  "genres": [
+    "classic italian pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f684d9251f7e5178354abb5c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f684d9251f7e5178354abb5c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f684d9251f7e5178354abb5c",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/28Cpa5PFQxuHsC1jhVmAKq"
+  }
+}

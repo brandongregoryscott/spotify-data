@@ -1,0 +1,33 @@
+{
+  "id": "70fpEitAxC1tB33gHB1ESU",
+  "name": "Sue Dama",
+  "uri": "spotify:artist:70fpEitAxC1tB33gHB1ESU",
+  "followers": {
+    "href": null,
+    "total": 70
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733fa58ebafbe519c05fbb5195",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023fa58ebafbe519c05fbb5195",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513fa58ebafbe519c05fbb5195",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/70fpEitAxC1tB33gHB1ESU"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "43rTmTc2Mkp9tXhdqkxIMA",
+  "name": "Five Foot Failure",
+  "uri": "spotify:artist:43rTmTc2Mkp9tXhdqkxIMA",
+  "followers": {
+    "href": null,
+    "total": 105
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5b2a34e5a196b2b9c299c5db",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051745b2a34e5a196b2b9c299c5db",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1785b2a34e5a196b2b9c299c5db",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/43rTmTc2Mkp9tXhdqkxIMA"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3kj01sa4v2zULJB0mBd8zN",
+  "name": "Dezorah",
+  "uri": "spotify:artist:3kj01sa4v2zULJB0mBd8zN",
+  "followers": {
+    "href": null,
+    "total": 970
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb13bc0c1ac305d023f15079ce",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517413bc0c1ac305d023f15079ce",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17813bc0c1ac305d023f15079ce",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3kj01sa4v2zULJB0mBd8zN"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3aBybOG0pKkRaZ7cFAnGpn",
+  "name": "4EverBallin",
+  "uri": "spotify:artist:3aBybOG0pKkRaZ7cFAnGpn",
+  "followers": {
+    "href": null,
+    "total": 211
+  },
+  "genres": [
+    "milwaukee hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27398f84090aee1ef3246512a0c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0298f84090aee1ef3246512a0c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485198f84090aee1ef3246512a0c",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3aBybOG0pKkRaZ7cFAnGpn"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7eBUK59MkPqsnf4QjpO08d",
+  "name": "Stereo Animal",
+  "uri": "spotify:artist:7eBUK59MkPqsnf4QjpO08d",
+  "followers": {
+    "href": null,
+    "total": 317
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb68b424b43b37dd8115317032",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517468b424b43b37dd8115317032",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17868b424b43b37dd8115317032",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7eBUK59MkPqsnf4QjpO08d"
+  }
+}

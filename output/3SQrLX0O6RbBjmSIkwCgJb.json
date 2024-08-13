@@ -1,0 +1,36 @@
+{
+  "id": "3SQrLX0O6RbBjmSIkwCgJb",
+  "name": "Dave Douglas",
+  "uri": "spotify:artist:3SQrLX0O6RbBjmSIkwCgJb",
+  "followers": {
+    "href": null,
+    "total": 13298
+  },
+  "genres": [
+    "brass band",
+    "contemporary jazz",
+    "contemporary post-bop",
+    "jazz trumpet"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeabea427eac13ceda595562b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eabea427eac13ceda595562b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eabea427eac13ceda595562b",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3SQrLX0O6RbBjmSIkwCgJb"
+  }
+}

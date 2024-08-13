@@ -1,0 +1,33 @@
+{
+  "id": "7LxDC2umFtrOUYPUKhDkiO",
+  "name": "Rhyme Apes",
+  "uri": "spotify:artist:7LxDC2umFtrOUYPUKhDkiO",
+  "followers": {
+    "href": null,
+    "total": 30
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27342fe114ed746de87e2e86959",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0242fe114ed746de87e2e86959",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485142fe114ed746de87e2e86959",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7LxDC2umFtrOUYPUKhDkiO"
+  }
+}

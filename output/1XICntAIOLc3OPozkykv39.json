@@ -1,0 +1,35 @@
+{
+  "id": "1XICntAIOLc3OPozkykv39",
+  "name": "We Five",
+  "uri": "spotify:artist:1XICntAIOLc3OPozkykv39",
+  "followers": {
+    "href": null,
+    "total": 15577
+  },
+  "genres": [
+    "bubblegum pop",
+    "classic garage rock",
+    "merseybeat"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27356c3cb6ec2f2e17b6ee1f1ee",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0256c3cb6ec2f2e17b6ee1f1ee",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485156c3cb6ec2f2e17b6ee1f1ee",
+      "width": 64
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1XICntAIOLc3OPozkykv39"
+  }
+}

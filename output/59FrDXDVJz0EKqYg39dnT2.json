@@ -1,0 +1,33 @@
+{
+  "id": "59FrDXDVJz0EKqYg39dnT2",
+  "name": "Jão",
+  "uri": "spotify:artist:59FrDXDVJz0EKqYg39dnT2",
+  "followers": {
+    "href": null,
+    "total": 3315717
+  },
+  "genres": [
+    "pop nacional"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc4bed49b3a6321d7a2097ace",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c4bed49b3a6321d7a2097ace",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c4bed49b3a6321d7a2097ace",
+      "width": 160
+    }
+  ],
+  "popularity": 68,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+  }
+}

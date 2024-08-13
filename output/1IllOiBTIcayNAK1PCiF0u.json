@@ -1,0 +1,33 @@
+{
+  "id": "1IllOiBTIcayNAK1PCiF0u",
+  "name": "Eugene Greco",
+  "uri": "spotify:artist:1IllOiBTIcayNAK1PCiF0u",
+  "followers": {
+    "href": null,
+    "total": 10250
+  },
+  "genres": [
+    "classic praise"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731f587edf456c947869995858",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021f587edf456c947869995858",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511f587edf456c947869995858",
+      "width": 64
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1IllOiBTIcayNAK1PCiF0u"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2qB8FBhvhOwnsrMLXscOKf",
+  "name": "Куок",
+  "uri": "spotify:artist:2qB8FBhvhOwnsrMLXscOKf",
+  "followers": {
+    "href": null,
+    "total": 46739
+  },
+  "genres": [
+    "russian trap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb622b90564254326606c6824f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174622b90564254326606c6824f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178622b90564254326606c6824f",
+      "width": 160
+    }
+  ],
+  "popularity": 39,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2qB8FBhvhOwnsrMLXscOKf"
+  }
+}

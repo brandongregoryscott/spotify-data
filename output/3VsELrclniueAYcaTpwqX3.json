@@ -1,0 +1,33 @@
+{
+  "id": "3VsELrclniueAYcaTpwqX3",
+  "name": "Sho Ayanokouji",
+  "uri": "spotify:artist:3VsELrclniueAYcaTpwqX3",
+  "followers": {
+    "href": null,
+    "total": 600
+  },
+  "genres": [
+    "mecha"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738f428fe078e6d25759d991dd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028f428fe078e6d25759d991dd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518f428fe078e6d25759d991dd",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3VsELrclniueAYcaTpwqX3"
+  }
+}

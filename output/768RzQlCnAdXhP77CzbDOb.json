@@ -1,0 +1,33 @@
+{
+  "id": "768RzQlCnAdXhP77CzbDOb",
+  "name": "Barzoo",
+  "uri": "spotify:artist:768RzQlCnAdXhP77CzbDOb",
+  "followers": {
+    "href": null,
+    "total": 1142
+  },
+  "genres": [
+    "merida indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe66798650f85e2294543a4b1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e66798650f85e2294543a4b1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e66798650f85e2294543a4b1",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/768RzQlCnAdXhP77CzbDOb"
+  }
+}

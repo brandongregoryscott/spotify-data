@@ -1,0 +1,33 @@
+{
+  "id": "73AuOhZRFWIxUQlyTUrrVz",
+  "name": "Flower",
+  "uri": "spotify:artist:73AuOhZRFWIxUQlyTUrrVz",
+  "followers": {
+    "href": null,
+    "total": 1101
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a5fbde2aa32ab85ee75e8d45",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a5fbde2aa32ab85ee75e8d45",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a5fbde2aa32ab85ee75e8d45",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/73AuOhZRFWIxUQlyTUrrVz"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6NMa9jf0w0gIw0vEQyCuqc",
+  "name": "Prod. By Outtake",
+  "uri": "spotify:artist:6NMa9jf0w0gIw0vEQyCuqc",
+  "followers": {
+    "href": null,
+    "total": 422
+  },
+  "genres": [
+    "lo-fi jazzhop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb27214d67103691c0615ba5c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b27214d67103691c0615ba5c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b27214d67103691c0615ba5c",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6NMa9jf0w0gIw0vEQyCuqc"
+  }
+}

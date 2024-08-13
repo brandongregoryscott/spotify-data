@@ -1,0 +1,33 @@
+{
+  "id": "5mse6hwiW0xtsv1XCPN4sU",
+  "name": "Handsome Tiger",
+  "uri": "spotify:artist:5mse6hwiW0xtsv1XCPN4sU",
+  "followers": {
+    "href": null,
+    "total": 2331
+  },
+  "genres": [
+    "canadian indigenous music"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb66e6e50cca9f5c903ec477e5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517466e6e50cca9f5c903ec477e5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17866e6e50cca9f5c903ec477e5",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5mse6hwiW0xtsv1XCPN4sU"
+  }
+}

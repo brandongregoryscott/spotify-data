@@ -1,0 +1,33 @@
+{
+  "id": "5PPjTs0rzmF3EQUiRBMge2",
+  "name": "Mick Thomas",
+  "uri": "spotify:artist:5PPjTs0rzmF3EQUiRBMge2",
+  "followers": {
+    "href": null,
+    "total": 3110
+  },
+  "genres": [
+    "australian singer-songwriter"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb805b8c8fc98f713f953403a9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174805b8c8fc98f713f953403a9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178805b8c8fc98f713f953403a9",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5PPjTs0rzmF3EQUiRBMge2"
+  }
+}

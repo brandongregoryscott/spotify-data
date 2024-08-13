@@ -1,0 +1,33 @@
+{
+  "id": "7ycHjWYMItqBqlQzGfseJL",
+  "name": "Chamado",
+  "uri": "spotify:artist:7ycHjWYMItqBqlQzGfseJL",
+  "followers": {
+    "href": null,
+    "total": 312
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebadc2e7be98904ad68af356ec",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174adc2e7be98904ad68af356ec",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178adc2e7be98904ad68af356ec",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ycHjWYMItqBqlQzGfseJL"
+  }
+}

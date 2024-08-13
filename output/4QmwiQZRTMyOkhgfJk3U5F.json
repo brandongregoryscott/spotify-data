@@ -1,0 +1,33 @@
+{
+  "id": "4QmwiQZRTMyOkhgfJk3U5F",
+  "name": "ALDA",
+  "uri": "spotify:artist:4QmwiQZRTMyOkhgfJk3U5F",
+  "followers": {
+    "href": null,
+    "total": 1708
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb881f4f90521b905d1041e49b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174881f4f90521b905d1041e49b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178881f4f90521b905d1041e49b",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4QmwiQZRTMyOkhgfJk3U5F"
+  }
+}

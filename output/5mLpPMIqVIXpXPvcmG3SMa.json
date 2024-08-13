@@ -1,0 +1,33 @@
+{
+  "id": "5mLpPMIqVIXpXPvcmG3SMa",
+  "name": "Sunnyside",
+  "uri": "spotify:artist:5mLpPMIqVIXpXPvcmG3SMa",
+  "followers": {
+    "href": null,
+    "total": 1660
+  },
+  "genres": [
+    "instrumental funk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb59b02f639d36c04bc7f0d7f1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517459b02f639d36c04bc7f0d7f1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17859b02f639d36c04bc7f0d7f1",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5mLpPMIqVIXpXPvcmG3SMa"
+  }
+}

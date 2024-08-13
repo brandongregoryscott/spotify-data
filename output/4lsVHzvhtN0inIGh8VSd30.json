@@ -1,0 +1,33 @@
+{
+  "id": "4lsVHzvhtN0inIGh8VSd30",
+  "name": "Love Glove",
+  "uri": "spotify:artist:4lsVHzvhtN0inIGh8VSd30",
+  "followers": {
+    "href": null,
+    "total": 706
+  },
+  "genres": [
+    "polish shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebec53e036cf2364c4e52a68bb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ec53e036cf2364c4e52a68bb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ec53e036cf2364c4e52a68bb",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4lsVHzvhtN0inIGh8VSd30"
+  }
+}

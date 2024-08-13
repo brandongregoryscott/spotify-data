@@ -1,0 +1,33 @@
+{
+  "id": "5UyJW2eCOuXtyYftgbMxZG",
+  "name": "James Last",
+  "uri": "spotify:artist:5UyJW2eCOuXtyYftgbMxZG",
+  "followers": {
+    "href": null,
+    "total": 139015
+  },
+  "genres": [
+    "easy listening"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb395e1f225bba2ec88c2026e1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174395e1f225bba2ec88c2026e1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178395e1f225bba2ec88c2026e1",
+      "width": 160
+    }
+  ],
+  "popularity": 50,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
+  }
+}

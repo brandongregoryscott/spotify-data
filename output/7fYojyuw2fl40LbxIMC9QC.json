@@ -1,0 +1,34 @@
+{
+  "id": "7fYojyuw2fl40LbxIMC9QC",
+  "name": "Fake Major",
+  "uri": "spotify:artist:7fYojyuw2fl40LbxIMC9QC",
+  "followers": {
+    "href": null,
+    "total": 258
+  },
+  "genres": [
+    "scottish hush",
+    "scottish indie folk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27346edff1b3e8cbf1e64de2a4c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0246edff1b3e8cbf1e64de2a4c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485146edff1b3e8cbf1e64de2a4c",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7fYojyuw2fl40LbxIMC9QC"
+  }
+}

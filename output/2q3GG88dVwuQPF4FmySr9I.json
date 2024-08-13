@@ -1,0 +1,34 @@
+{
+  "id": "2q3GG88dVwuQPF4FmySr9I",
+  "name": "The Score",
+  "uri": "spotify:artist:2q3GG88dVwuQPF4FmySr9I",
+  "followers": {
+    "href": null,
+    "total": 1455897
+  },
+  "genres": [
+    "modern alternative rock",
+    "pov: indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc1fded2a185c54df399fe63a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c1fded2a185c54df399fe63a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c1fded2a185c54df399fe63a",
+      "width": 160
+    }
+  ],
+  "popularity": 67,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+  }
+}

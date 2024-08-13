@@ -1,0 +1,33 @@
+{
+  "id": "6MKbQZp3mJt1zqqea2pKEu",
+  "name": "suzuro",
+  "uri": "spotify:artist:6MKbQZp3mJt1zqqea2pKEu",
+  "followers": {
+    "href": null,
+    "total": 275
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb73272215039d60ea4bc6d36",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b73272215039d60ea4bc6d36",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b73272215039d60ea4bc6d36",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6MKbQZp3mJt1zqqea2pKEu"
+  }
+}

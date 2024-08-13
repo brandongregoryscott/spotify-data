@@ -1,0 +1,33 @@
+{
+  "id": "6kyUdpCTgagsVKBBtNI8xf",
+  "name": "Cloud Division",
+  "uri": "spotify:artist:6kyUdpCTgagsVKBBtNI8xf",
+  "followers": {
+    "href": null,
+    "total": 265
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd6323ce06ab80312b71ec463",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d6323ce06ab80312b71ec463",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d6323ce06ab80312b71ec463",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6kyUdpCTgagsVKBBtNI8xf"
+  }
+}

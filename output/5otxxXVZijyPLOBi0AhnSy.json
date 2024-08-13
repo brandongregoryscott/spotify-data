@@ -1,0 +1,33 @@
+{
+  "id": "5otxxXVZijyPLOBi0AhnSy",
+  "name": "PUP",
+  "uri": "spotify:artist:5otxxXVZijyPLOBi0AhnSy",
+  "followers": {
+    "href": null,
+    "total": 217
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273083a8668644e4e7a0c264b80",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02083a8668644e4e7a0c264b80",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851083a8668644e4e7a0c264b80",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5otxxXVZijyPLOBi0AhnSy"
+  }
+}

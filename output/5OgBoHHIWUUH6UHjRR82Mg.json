@@ -1,0 +1,33 @@
+{
+  "id": "5OgBoHHIWUUH6UHjRR82Mg",
+  "name": "July Blue",
+  "uri": "spotify:artist:5OgBoHHIWUUH6UHjRR82Mg",
+  "followers": {
+    "href": null,
+    "total": 19
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bf4b41953739bd4bba9c3198",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bf4b41953739bd4bba9c3198",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bf4b41953739bd4bba9c3198",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5OgBoHHIWUUH6UHjRR82Mg"
+  }
+}

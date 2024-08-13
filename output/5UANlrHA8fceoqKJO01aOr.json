@@ -1,0 +1,33 @@
+{
+  "id": "5UANlrHA8fceoqKJO01aOr",
+  "name": "Recwall",
+  "uri": "spotify:artist:5UANlrHA8fceoqKJO01aOr",
+  "followers": {
+    "href": null,
+    "total": 1535
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba95996010c2615b245f2d8af",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a95996010c2615b245f2d8af",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a95996010c2615b245f2d8af",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5UANlrHA8fceoqKJO01aOr"
+  }
+}

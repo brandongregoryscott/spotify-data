@@ -1,0 +1,33 @@
+{
+  "id": "2LOlSoNunchFkNxOVj8REE",
+  "name": "Solid Brown",
+  "uri": "spotify:artist:2LOlSoNunchFkNxOVj8REE",
+  "followers": {
+    "href": null,
+    "total": 124
+  },
+  "genres": [
+    "canadian stoner rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb419e143dc25e4296e52d4a4a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174419e143dc25e4296e52d4a4a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178419e143dc25e4296e52d4a4a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2LOlSoNunchFkNxOVj8REE"
+  }
+}

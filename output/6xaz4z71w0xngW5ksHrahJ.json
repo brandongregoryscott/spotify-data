@@ -1,0 +1,33 @@
+{
+  "id": "6xaz4z71w0xngW5ksHrahJ",
+  "name": "VALOR",
+  "uri": "spotify:artist:6xaz4z71w0xngW5ksHrahJ",
+  "followers": {
+    "href": null,
+    "total": 417
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738b865f31536ef59717edc97a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028b865f31536ef59717edc97a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518b865f31536ef59717edc97a",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6xaz4z71w0xngW5ksHrahJ"
+  }
+}

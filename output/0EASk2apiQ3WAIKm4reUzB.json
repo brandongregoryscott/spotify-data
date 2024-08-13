@@ -1,0 +1,33 @@
+{
+  "id": "0EASk2apiQ3WAIKm4reUzB",
+  "name": "Yuzuriha",
+  "uri": "spotify:artist:0EASk2apiQ3WAIKm4reUzB",
+  "followers": {
+    "href": null,
+    "total": 244
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737fb348e802c35f6238f98b9b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027fb348e802c35f6238f98b9b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517fb348e802c35f6238f98b9b",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0EASk2apiQ3WAIKm4reUzB"
+  }
+}

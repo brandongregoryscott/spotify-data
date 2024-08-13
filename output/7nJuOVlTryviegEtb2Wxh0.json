@@ -1,0 +1,33 @@
+{
+  "id": "7nJuOVlTryviegEtb2Wxh0",
+  "name": "Exhibition",
+  "uri": "spotify:artist:7nJuOVlTryviegEtb2Wxh0",
+  "followers": {
+    "href": null,
+    "total": 191
+  },
+  "genres": [
+    "quebec punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e30a02562100f29a1ba5f3d6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e30a02562100f29a1ba5f3d6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e30a02562100f29a1ba5f3d6",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7nJuOVlTryviegEtb2Wxh0"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2dR0oV49jNebqozvLZ8wci",
+  "name": "Laskaar",
+  "uri": "spotify:artist:2dR0oV49jNebqozvLZ8wci",
+  "followers": {
+    "href": null,
+    "total": 3334
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf289c666b9f57754cc6d8a05",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f289c666b9f57754cc6d8a05",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f289c666b9f57754cc6d8a05",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2dR0oV49jNebqozvLZ8wci"
+  }
+}

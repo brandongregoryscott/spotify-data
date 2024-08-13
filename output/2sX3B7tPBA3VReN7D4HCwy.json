@@ -1,0 +1,33 @@
+{
+  "id": "2sX3B7tPBA3VReN7D4HCwy",
+  "name": "Beat Light",
+  "uri": "spotify:artist:2sX3B7tPBA3VReN7D4HCwy",
+  "followers": {
+    "href": null,
+    "total": 63
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd801d35c6d974d5ec4e7582a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d801d35c6d974d5ec4e7582a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d801d35c6d974d5ec4e7582a",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2sX3B7tPBA3VReN7D4HCwy"
+  }
+}

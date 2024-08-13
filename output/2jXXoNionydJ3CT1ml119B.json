@@ -1,0 +1,33 @@
+{
+  "id": "2jXXoNionydJ3CT1ml119B",
+  "name": "Zoe Graham",
+  "uri": "spotify:artist:2jXXoNionydJ3CT1ml119B",
+  "followers": {
+    "href": null,
+    "total": 1591
+  },
+  "genres": [
+    "scottish indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb17274d850947ff76e6b8b25b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517417274d850947ff76e6b8b25b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17817274d850947ff76e6b8b25b",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2jXXoNionydJ3CT1ml119B"
+  }
+}

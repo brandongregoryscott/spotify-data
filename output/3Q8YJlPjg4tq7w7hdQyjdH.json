@@ -1,0 +1,33 @@
+{
+  "id": "3Q8YJlPjg4tq7w7hdQyjdH",
+  "name": "Jacob & Lily",
+  "uri": "spotify:artist:3Q8YJlPjg4tq7w7hdQyjdH",
+  "followers": {
+    "href": null,
+    "total": 80
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e78fd4a4798c13d6e6bc98a2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e78fd4a4798c13d6e6bc98a2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e78fd4a4798c13d6e6bc98a2",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Q8YJlPjg4tq7w7hdQyjdH"
+  }
+}

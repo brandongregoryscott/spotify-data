@@ -1,0 +1,33 @@
+{
+  "id": "072UOJYOKmualSjdJcsUBZ",
+  "name": "Roles",
+  "uri": "spotify:artist:072UOJYOKmualSjdJcsUBZ",
+  "followers": {
+    "href": null,
+    "total": 390
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb62e5e5ec54992324cfcb110c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517462e5e5ec54992324cfcb110c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17862e5e5ec54992324cfcb110c",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/072UOJYOKmualSjdJcsUBZ"
+  }
+}

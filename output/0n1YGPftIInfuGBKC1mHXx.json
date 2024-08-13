@@ -1,0 +1,33 @@
+{
+  "id": "0n1YGPftIInfuGBKC1mHXx",
+  "name": "Rosie Ribbons",
+  "uri": "spotify:artist:0n1YGPftIInfuGBKC1mHXx",
+  "followers": {
+    "href": null,
+    "total": 2583
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebec25ddf5b8c4d78d651291cd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ec25ddf5b8c4d78d651291cd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ec25ddf5b8c4d78d651291cd",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0n1YGPftIInfuGBKC1mHXx"
+  }
+}

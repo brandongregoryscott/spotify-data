@@ -1,0 +1,33 @@
+{
+  "id": "5hWpnThxN7biemwAeDhqUL",
+  "name": "LVME",
+  "uri": "spotify:artist:5hWpnThxN7biemwAeDhqUL",
+  "followers": {
+    "href": null,
+    "total": 565
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fc210777e66705f162818cfe",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fc210777e66705f162818cfe",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519a43d63335cf23e120719bda",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5hWpnThxN7biemwAeDhqUL"
+  }
+}

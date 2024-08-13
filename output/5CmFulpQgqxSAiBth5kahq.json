@@ -1,0 +1,33 @@
+{
+  "id": "5CmFulpQgqxSAiBth5kahq",
+  "name": "Trial Kennedy",
+  "uri": "spotify:artist:5CmFulpQgqxSAiBth5kahq",
+  "followers": {
+    "href": null,
+    "total": 4704
+  },
+  "genres": [
+    "australian alternative rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739990051fd2810c746b5c4e4a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029990051fd2810c746b5c4e4a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519990051fd2810c746b5c4e4a",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5CmFulpQgqxSAiBth5kahq"
+  }
+}

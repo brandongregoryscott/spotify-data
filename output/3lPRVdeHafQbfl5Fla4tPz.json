@@ -1,0 +1,33 @@
+{
+  "id": "3lPRVdeHafQbfl5Fla4tPz",
+  "name": "AMBAR",
+  "uri": "spotify:artist:3lPRVdeHafQbfl5Fla4tPz",
+  "followers": {
+    "href": null,
+    "total": 88
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb140da4b5730b3ad6d990b6a1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174140da4b5730b3ad6d990b6a1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178140da4b5730b3ad6d990b6a1",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3lPRVdeHafQbfl5Fla4tPz"
+  }
+}

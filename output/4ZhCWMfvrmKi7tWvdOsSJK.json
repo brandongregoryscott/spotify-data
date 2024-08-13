@@ -1,0 +1,33 @@
+{
+  "id": "4ZhCWMfvrmKi7tWvdOsSJK",
+  "name": "Milton James",
+  "uri": "spotify:artist:4ZhCWMfvrmKi7tWvdOsSJK",
+  "followers": {
+    "href": null,
+    "total": 1342
+  },
+  "genres": [
+    "chilean indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb42dd936f4b9262b182c5891",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b42dd936f4b9262b182c5891",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b42dd936f4b9262b182c5891",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4ZhCWMfvrmKi7tWvdOsSJK"
+  }
+}

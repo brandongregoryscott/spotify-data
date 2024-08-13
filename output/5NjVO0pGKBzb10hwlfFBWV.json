@@ -1,0 +1,33 @@
+{
+  "id": "5NjVO0pGKBzb10hwlfFBWV",
+  "name": "JoulesDaKid",
+  "uri": "spotify:artist:5NjVO0pGKBzb10hwlfFBWV",
+  "followers": {
+    "href": null,
+    "total": 513
+  },
+  "genres": [
+    "alte"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9f1de40fcabe7359e58e36bd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051749f1de40fcabe7359e58e36bd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1789f1de40fcabe7359e58e36bd",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5NjVO0pGKBzb10hwlfFBWV"
+  }
+}

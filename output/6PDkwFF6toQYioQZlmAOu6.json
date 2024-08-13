@@ -1,0 +1,33 @@
+{
+  "id": "6PDkwFF6toQYioQZlmAOu6",
+  "name": "Janson",
+  "uri": "spotify:artist:6PDkwFF6toQYioQZlmAOu6",
+  "followers": {
+    "href": null,
+    "total": 50
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb94257ff5dfd4df5b417e0031",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517494257ff5dfd4df5b417e0031",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17894257ff5dfd4df5b417e0031",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6PDkwFF6toQYioQZlmAOu6"
+  }
+}

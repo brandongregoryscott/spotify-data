@@ -1,0 +1,33 @@
+{
+  "id": "6Ijh8XfmAaXZMof3oIrKu3",
+  "name": "Oak's Experiment",
+  "uri": "spotify:artist:6Ijh8XfmAaXZMof3oIrKu3",
+  "followers": {
+    "href": null,
+    "total": 151
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb003ab1cd7738d5f4586cca0a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174003ab1cd7738d5f4586cca0a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178003ab1cd7738d5f4586cca0a",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Ijh8XfmAaXZMof3oIrKu3"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2voadhFGdduSYHDvsVqyXo",
+  "name": "Remy Bond",
+  "uri": "spotify:artist:2voadhFGdduSYHDvsVqyXo",
+  "followers": {
+    "href": null,
+    "total": 28409
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb48e7548645e959c93d01aae7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517448e7548645e959c93d01aae7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17848e7548645e959c93d01aae7",
+      "width": 160
+    }
+  ],
+  "popularity": 49,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+  }
+}

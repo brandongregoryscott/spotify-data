@@ -1,0 +1,33 @@
+{
+  "id": "72i5bjkfKql0yhxCWOi0F2",
+  "name": "Merara",
+  "uri": "spotify:artist:72i5bjkfKql0yhxCWOi0F2",
+  "followers": {
+    "href": null,
+    "total": 128
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb40e590cf46c58cf1704b8575",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517440e590cf46c58cf1704b8575",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17840e590cf46c58cf1704b8575",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/72i5bjkfKql0yhxCWOi0F2"
+  }
+}

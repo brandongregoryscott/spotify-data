@@ -1,0 +1,33 @@
+{
+  "id": "4AStKJRM6DqXSdst3ENHJA",
+  "name": "Aybner",
+  "uri": "spotify:artist:4AStKJRM6DqXSdst3ENHJA",
+  "followers": {
+    "href": null,
+    "total": 964
+  },
+  "genres": [
+    "aussietronica"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebca183af2907d3305f146970d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ca183af2907d3305f146970d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ca183af2907d3305f146970d",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4AStKJRM6DqXSdst3ENHJA"
+  }
+}

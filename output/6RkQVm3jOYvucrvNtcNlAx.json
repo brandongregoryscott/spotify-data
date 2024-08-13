@@ -1,0 +1,33 @@
+{
+  "id": "6RkQVm3jOYvucrvNtcNlAx",
+  "name": "Oliver Norred",
+  "uri": "spotify:artist:6RkQVm3jOYvucrvNtcNlAx",
+  "followers": {
+    "href": null,
+    "total": 91
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb67a5c81c5a81e1a765659019",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517467a5c81c5a81e1a765659019",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17867a5c81c5a81e1a765659019",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6RkQVm3jOYvucrvNtcNlAx"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0pPsrxhbtIkoYud0HekdKd",
+  "name": "EG19",
+  "uri": "spotify:artist:0pPsrxhbtIkoYud0HekdKd",
+  "followers": {
+    "href": null,
+    "total": 377
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb778ff7e706079b32776ee5c6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174778ff7e706079b32776ee5c6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178778ff7e706079b32776ee5c6",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0pPsrxhbtIkoYud0HekdKd"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3ZGf7salGQJE2WEjTzlEnZ",
+  "name": "Silvis",
+  "uri": "spotify:artist:3ZGf7salGQJE2WEjTzlEnZ",
+  "followers": {
+    "href": null,
+    "total": 268
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb333d0f5ade01dbe1e47be04b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174333d0f5ade01dbe1e47be04b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178333d0f5ade01dbe1e47be04b",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ZGf7salGQJE2WEjTzlEnZ"
+  }
+}

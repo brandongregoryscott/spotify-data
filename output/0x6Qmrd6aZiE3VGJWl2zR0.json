@@ -1,0 +1,33 @@
+{
+  "id": "0x6Qmrd6aZiE3VGJWl2zR0",
+  "name": "Arts & Decay",
+  "uri": "spotify:artist:0x6Qmrd6aZiE3VGJWl2zR0",
+  "followers": {
+    "href": null,
+    "total": 254
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732b8140142f3e183cf7655d44",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022b8140142f3e183cf7655d44",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512b8140142f3e183cf7655d44",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0x6Qmrd6aZiE3VGJWl2zR0"
+  }
+}

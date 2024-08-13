@@ -1,0 +1,33 @@
+{
+  "id": "4IRdNcliySk2TNfMMgsrKK",
+  "name": "r i c o",
+  "uri": "spotify:artist:4IRdNcliySk2TNfMMgsrKK",
+  "followers": {
+    "href": null,
+    "total": 197
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb34e1b367e8a3c58285e4d419",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517434e1b367e8a3c58285e4d419",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17834e1b367e8a3c58285e4d419",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4IRdNcliySk2TNfMMgsrKK"
+  }
+}

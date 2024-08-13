@@ -1,0 +1,33 @@
+{
+  "id": "72YMsfUWXRXnZVzukx3jbG",
+  "name": "Eksis",
+  "uri": "spotify:artist:72YMsfUWXRXnZVzukx3jbG",
+  "followers": {
+    "href": null,
+    "total": 456
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd2f639226c5c612a3099e55b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d2f639226c5c612a3099e55b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d2f639226c5c612a3099e55b",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/72YMsfUWXRXnZVzukx3jbG"
+  }
+}

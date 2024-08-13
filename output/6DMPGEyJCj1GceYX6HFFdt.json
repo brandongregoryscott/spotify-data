@@ -1,0 +1,33 @@
+{
+  "id": "6DMPGEyJCj1GceYX6HFFdt",
+  "name": "EM96",
+  "uri": "spotify:artist:6DMPGEyJCj1GceYX6HFFdt",
+  "followers": {
+    "href": null,
+    "total": 639
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdad410b0b1926e74fa62a54c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dad410b0b1926e74fa62a54c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dad410b0b1926e74fa62a54c",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6DMPGEyJCj1GceYX6HFFdt"
+  }
+}

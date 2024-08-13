@@ -1,0 +1,34 @@
+{
+  "id": "7mhWsGYpxYhVMvBnk9JiNt",
+  "name": "The Vacancies",
+  "uri": "spotify:artist:7mhWsGYpxYhVMvBnk9JiNt",
+  "followers": {
+    "href": null,
+    "total": 745
+  },
+  "genres": [
+    "indonesian indie pop",
+    "malang indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb41f6ba4d5720fc60d14631be",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517441f6ba4d5720fc60d14631be",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17841f6ba4d5720fc60d14631be",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7mhWsGYpxYhVMvBnk9JiNt"
+  }
+}

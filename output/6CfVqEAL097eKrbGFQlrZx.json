@@ -1,0 +1,33 @@
+{
+  "id": "6CfVqEAL097eKrbGFQlrZx",
+  "name": "Anaxander",
+  "uri": "spotify:artist:6CfVqEAL097eKrbGFQlrZx",
+  "followers": {
+    "href": null,
+    "total": 355
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d181d135ebb6e495df12da27",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d181d135ebb6e495df12da27",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d181d135ebb6e495df12da27",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6CfVqEAL097eKrbGFQlrZx"
+  }
+}

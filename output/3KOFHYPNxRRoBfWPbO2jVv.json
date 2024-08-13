@@ -1,0 +1,33 @@
+{
+  "id": "3KOFHYPNxRRoBfWPbO2jVv",
+  "name": "Jon Adam Green",
+  "uri": "spotify:artist:3KOFHYPNxRRoBfWPbO2jVv",
+  "followers": {
+    "href": null,
+    "total": 18
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb55d9efe41933ec3f50d8f95e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517455d9efe41933ec3f50d8f95e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17855d9efe41933ec3f50d8f95e",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3KOFHYPNxRRoBfWPbO2jVv"
+  }
+}

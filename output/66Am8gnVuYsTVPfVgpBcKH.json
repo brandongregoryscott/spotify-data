@@ -1,0 +1,33 @@
+{
+  "id": "66Am8gnVuYsTVPfVgpBcKH",
+  "name": "Holms",
+  "uri": "spotify:artist:66Am8gnVuYsTVPfVgpBcKH",
+  "followers": {
+    "href": null,
+    "total": 572
+  },
+  "genres": [
+    "pop electronico"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc783a16ee005fc301acd9be6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c783a16ee005fc301acd9be6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c783a16ee005fc301acd9be6",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/66Am8gnVuYsTVPfVgpBcKH"
+  }
+}

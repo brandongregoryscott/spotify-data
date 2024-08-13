@@ -1,0 +1,33 @@
+{
+  "id": "7j2AXe20P3wyi32pRIO5Rl",
+  "name": "Iame",
+  "uri": "spotify:artist:7j2AXe20P3wyi32pRIO5Rl",
+  "followers": {
+    "href": null,
+    "total": 167
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebabd23de782b89b14ee3c503c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174abd23de782b89b14ee3c503c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178abd23de782b89b14ee3c503c",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7j2AXe20P3wyi32pRIO5Rl"
+  }
+}

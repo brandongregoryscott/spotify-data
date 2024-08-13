@@ -1,0 +1,33 @@
+{
+  "id": "6uYi5TaZwKTYsHaqEZrkFN",
+  "name": "Crevasse",
+  "uri": "spotify:artist:6uYi5TaZwKTYsHaqEZrkFN",
+  "followers": {
+    "href": null,
+    "total": 130
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcf810d3b6a2667046a3e96ad",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cf810d3b6a2667046a3e96ad",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cf810d3b6a2667046a3e96ad",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6uYi5TaZwKTYsHaqEZrkFN"
+  }
+}

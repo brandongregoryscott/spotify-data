@@ -1,0 +1,33 @@
+{
+  "id": "4CvExCvsUEdEsuRL3y2xat",
+  "name": "Kolpo",
+  "uri": "spotify:artist:4CvExCvsUEdEsuRL3y2xat",
+  "followers": {
+    "href": null,
+    "total": 103
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb265eaaff1f73924c8e62a1a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b265eaaff1f73924c8e62a1a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b265eaaff1f73924c8e62a1a",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4CvExCvsUEdEsuRL3y2xat"
+  }
+}

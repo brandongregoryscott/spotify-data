@@ -1,0 +1,33 @@
+{
+  "id": "3L44WK6QHPWsP825lbzTI0",
+  "name": "Mike Mind",
+  "uri": "spotify:artist:3L44WK6QHPWsP825lbzTI0",
+  "followers": {
+    "href": null,
+    "total": 164
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bac629f1f6c4dc09ef381d6a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bac629f1f6c4dc09ef381d6a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bac629f1f6c4dc09ef381d6a",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3L44WK6QHPWsP825lbzTI0"
+  }
+}

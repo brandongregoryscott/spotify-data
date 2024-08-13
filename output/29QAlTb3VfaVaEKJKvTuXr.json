@@ -1,0 +1,33 @@
+{
+  "id": "29QAlTb3VfaVaEKJKvTuXr",
+  "name": "ache.me",
+  "uri": "spotify:artist:29QAlTb3VfaVaEKJKvTuXr",
+  "followers": {
+    "href": null,
+    "total": 199
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd01e253aaebaf0c424cbcfaa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d01e253aaebaf0c424cbcfaa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d01e253aaebaf0c424cbcfaa",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/29QAlTb3VfaVaEKJKvTuXr"
+  }
+}

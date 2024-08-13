@@ -1,0 +1,33 @@
+{
+  "id": "3rAwLyxrEmaxhK0vNd5YTw",
+  "name": "Xtatic",
+  "uri": "spotify:artist:3rAwLyxrEmaxhK0vNd5YTw",
+  "followers": {
+    "href": null,
+    "total": 708
+  },
+  "genres": [
+    "kenyan alternative"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeed12c63c78ef69f2d9f2a81",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eed12c63c78ef69f2d9f2a81",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eed12c63c78ef69f2d9f2a81",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3rAwLyxrEmaxhK0vNd5YTw"
+  }
+}

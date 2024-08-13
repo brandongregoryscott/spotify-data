@@ -1,0 +1,33 @@
+{
+  "id": "5RQP7mccDwDTB4NlWpcOn0",
+  "name": "Wah",
+  "uri": "spotify:artist:5RQP7mccDwDTB4NlWpcOn0",
+  "followers": {
+    "href": null,
+    "total": 65
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb55d5e34d245998ef1387cde1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517455d5e34d245998ef1387cde1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17855d5e34d245998ef1387cde1",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5RQP7mccDwDTB4NlWpcOn0"
+  }
+}

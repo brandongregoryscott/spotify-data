@@ -1,0 +1,33 @@
+{
+  "id": "5lFcNaTAcm4hY4i0Y1ZFhf",
+  "name": "Dúgga",
+  "uri": "spotify:artist:5lFcNaTAcm4hY4i0Y1ZFhf",
+  "followers": {
+    "href": null,
+    "total": 58
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4b97cdeb3f2f68a35915cf85",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744b97cdeb3f2f68a35915cf85",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784b97cdeb3f2f68a35915cf85",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5lFcNaTAcm4hY4i0Y1ZFhf"
+  }
+}

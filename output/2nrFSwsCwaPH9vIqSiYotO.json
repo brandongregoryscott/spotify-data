@@ -1,0 +1,33 @@
+{
+  "id": "2nrFSwsCwaPH9vIqSiYotO",
+  "name": "At Last Glance",
+  "uri": "spotify:artist:2nrFSwsCwaPH9vIqSiYotO",
+  "followers": {
+    "href": null,
+    "total": 24
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9a3a262c69dff784f59ba5eb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051749a3a262c69dff784f59ba5eb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1789a3a262c69dff784f59ba5eb",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2nrFSwsCwaPH9vIqSiYotO"
+  }
+}

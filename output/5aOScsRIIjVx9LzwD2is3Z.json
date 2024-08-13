@@ -1,0 +1,33 @@
+{
+  "id": "5aOScsRIIjVx9LzwD2is3Z",
+  "name": "Lijah P",
+  "uri": "spotify:artist:5aOScsRIIjVx9LzwD2is3Z",
+  "followers": {
+    "href": null,
+    "total": 160
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf1c69cc99a2b12df2ed99fcc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f1c69cc99a2b12df2ed99fcc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f1c69cc99a2b12df2ed99fcc",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5aOScsRIIjVx9LzwD2is3Z"
+  }
+}

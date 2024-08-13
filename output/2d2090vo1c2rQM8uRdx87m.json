@@ -1,0 +1,33 @@
+{
+  "id": "2d2090vo1c2rQM8uRdx87m",
+  "name": "Ash Gale",
+  "uri": "spotify:artist:2d2090vo1c2rQM8uRdx87m",
+  "followers": {
+    "href": null,
+    "total": 1726
+  },
+  "genres": [
+    "hopebeat"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebef8112853f155091abe000f0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ef8112853f155091abe000f0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ef8112853f155091abe000f0",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2d2090vo1c2rQM8uRdx87m"
+  }
+}

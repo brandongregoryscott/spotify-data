@@ -1,0 +1,33 @@
+{
+  "id": "5E0O8vkNQssJ7F3v79ueEE",
+  "name": "West Grand",
+  "uri": "spotify:artist:5E0O8vkNQssJ7F3v79ueEE",
+  "followers": {
+    "href": null,
+    "total": 104
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d48c0c227f7f1ba21cd5c0d3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d48c0c227f7f1ba21cd5c0d3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d48c0c227f7f1ba21cd5c0d3",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5E0O8vkNQssJ7F3v79ueEE"
+  }
+}

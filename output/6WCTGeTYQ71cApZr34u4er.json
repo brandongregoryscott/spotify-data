@@ -1,0 +1,33 @@
+{
+  "id": "6WCTGeTYQ71cApZr34u4er",
+  "name": "aisu",
+  "uri": "spotify:artist:6WCTGeTYQ71cApZr34u4er",
+  "followers": {
+    "href": null,
+    "total": 13627
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5a8e811de496097455021297",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051745a8e811de496097455021297",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1785a8e811de496097455021297",
+      "width": 160
+    }
+  ],
+  "popularity": 39,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6WCTGeTYQ71cApZr34u4er"
+  }
+}

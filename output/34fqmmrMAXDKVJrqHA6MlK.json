@@ -1,0 +1,34 @@
+{
+  "id": "34fqmmrMAXDKVJrqHA6MlK",
+  "name": "Parliamo",
+  "uri": "spotify:artist:34fqmmrMAXDKVJrqHA6MlK",
+  "followers": {
+    "href": null,
+    "total": 4574
+  },
+  "genres": [
+    "britpop revival",
+    "scottish indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb274ac556ee29421fc0bef17c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174274ac556ee29421fc0bef17c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178274ac556ee29421fc0bef17c",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/34fqmmrMAXDKVJrqHA6MlK"
+  }
+}

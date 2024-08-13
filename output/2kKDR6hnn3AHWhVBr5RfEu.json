@@ -1,0 +1,33 @@
+{
+  "id": "2kKDR6hnn3AHWhVBr5RfEu",
+  "name": "honoka",
+  "uri": "spotify:artist:2kKDR6hnn3AHWhVBr5RfEu",
+  "followers": {
+    "href": null,
+    "total": 1467
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdfdd381441aeae429c4dca27",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dfdd381441aeae429c4dca27",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dfdd381441aeae429c4dca27",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2kKDR6hnn3AHWhVBr5RfEu"
+  }
+}

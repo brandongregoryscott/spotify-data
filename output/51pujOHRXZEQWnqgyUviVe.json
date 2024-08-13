@@ -1,0 +1,33 @@
+{
+  "id": "51pujOHRXZEQWnqgyUviVe",
+  "name": "The Frst",
+  "uri": "spotify:artist:51pujOHRXZEQWnqgyUviVe",
+  "followers": {
+    "href": null,
+    "total": 3447
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebee7b48c62bf90629765c3391",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ee7b48c62bf90629765c3391",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ee7b48c62bf90629765c3391",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/51pujOHRXZEQWnqgyUviVe"
+  }
+}

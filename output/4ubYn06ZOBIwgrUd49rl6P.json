@@ -1,0 +1,33 @@
+{
+  "id": "4ubYn06ZOBIwgrUd49rl6P",
+  "name": "Color Tab",
+  "uri": "spotify:artist:4ubYn06ZOBIwgrUd49rl6P",
+  "followers": {
+    "href": null,
+    "total": 151
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfc41b423d12bad31a0576d66",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fc41b423d12bad31a0576d66",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fc41b423d12bad31a0576d66",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4ubYn06ZOBIwgrUd49rl6P"
+  }
+}

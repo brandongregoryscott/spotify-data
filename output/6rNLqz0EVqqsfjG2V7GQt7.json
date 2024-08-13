@@ -1,0 +1,33 @@
+{
+  "id": "6rNLqz0EVqqsfjG2V7GQt7",
+  "name": "WoBandz",
+  "uri": "spotify:artist:6rNLqz0EVqqsfjG2V7GQt7",
+  "followers": {
+    "href": null,
+    "total": 250
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdd9854e105a603c570ca0e9a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dd9854e105a603c570ca0e9a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dd9854e105a603c570ca0e9a",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6rNLqz0EVqqsfjG2V7GQt7"
+  }
+}

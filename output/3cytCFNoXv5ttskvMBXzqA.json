@@ -1,0 +1,33 @@
+{
+  "id": "3cytCFNoXv5ttskvMBXzqA",
+  "name": "Dryhimmarn",
+  "uri": "spotify:artist:3cytCFNoXv5ttskvMBXzqA",
+  "followers": {
+    "href": null,
+    "total": 284
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe084ac28cdda295f85b1800a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e084ac28cdda295f85b1800a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e084ac28cdda295f85b1800a",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3cytCFNoXv5ttskvMBXzqA"
+  }
+}

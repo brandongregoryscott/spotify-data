@@ -1,0 +1,33 @@
+{
+  "id": "71rzE2Y74EDwYYSf1J8osl",
+  "name": "Laurence O’Brien",
+  "uri": "spotify:artist:71rzE2Y74EDwYYSf1J8osl",
+  "followers": {
+    "href": null,
+    "total": 1978
+  },
+  "genres": [
+    "acoustic cover"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebebbab0b00112064ba5037670",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ebbab0b00112064ba5037670",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ebbab0b00112064ba5037670",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl"
+  }
+}

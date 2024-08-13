@@ -1,0 +1,33 @@
+{
+  "id": "5tnWhgpR0zucG8lhmd9HKn",
+  "name": "HousePlants",
+  "uri": "spotify:artist:5tnWhgpR0zucG8lhmd9HKn",
+  "followers": {
+    "href": null,
+    "total": 3780
+  },
+  "genres": [
+    "irish pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdef66e0b3d2914738cb3aa46",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174def66e0b3d2914738cb3aa46",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178def66e0b3d2914738cb3aa46",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5tnWhgpR0zucG8lhmd9HKn"
+  }
+}

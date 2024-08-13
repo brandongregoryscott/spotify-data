@@ -1,0 +1,33 @@
+{
+  "id": "3XrRt4tc8xQk7ANDbJjZsv",
+  "name": "Berezy",
+  "uri": "spotify:artist:3XrRt4tc8xQk7ANDbJjZsv",
+  "followers": {
+    "href": null,
+    "total": 1396
+  },
+  "genres": [
+    "lo-fi jazzhop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebec980e9c3f40141817e28bf9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ec980e9c3f40141817e28bf9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ec980e9c3f40141817e28bf9",
+      "width": 160
+    }
+  ],
+  "popularity": 45,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv"
+  }
+}

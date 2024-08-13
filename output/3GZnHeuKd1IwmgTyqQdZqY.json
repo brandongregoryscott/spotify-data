@@ -1,0 +1,33 @@
+{
+  "id": "3GZnHeuKd1IwmgTyqQdZqY",
+  "name": "Dated",
+  "uri": "spotify:artist:3GZnHeuKd1IwmgTyqQdZqY",
+  "followers": {
+    "href": null,
+    "total": 10288
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb36eb0ec7264d3d7bef79c2e8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517436eb0ec7264d3d7bef79c2e8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17836eb0ec7264d3d7bef79c2e8",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3GZnHeuKd1IwmgTyqQdZqY"
+  }
+}

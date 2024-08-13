@@ -1,0 +1,33 @@
+{
+  "id": "0fW59vTrZTZpJVNPGFQmSA",
+  "name": "Looch",
+  "uri": "spotify:artist:0fW59vTrZTZpJVNPGFQmSA",
+  "followers": {
+    "href": null,
+    "total": 808
+  },
+  "genres": [
+    "adelaide indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc16e738778d3c56e412b72f1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c16e738778d3c56e412b72f1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c16e738778d3c56e412b72f1",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0fW59vTrZTZpJVNPGFQmSA"
+  }
+}

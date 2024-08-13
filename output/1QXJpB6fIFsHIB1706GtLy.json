@@ -1,0 +1,33 @@
+{
+  "id": "1QXJpB6fIFsHIB1706GtLy",
+  "name": "François Ier",
+  "uri": "spotify:artist:1QXJpB6fIFsHIB1706GtLy",
+  "followers": {
+    "href": null,
+    "total": 5901
+  },
+  "genres": [
+    "new french touch"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf10c992c6713efd4de6d248d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f10c992c6713efd4de6d248d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f10c992c6713efd4de6d248d",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1QXJpB6fIFsHIB1706GtLy"
+  }
+}

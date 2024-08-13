@@ -1,0 +1,33 @@
+{
+  "id": "3jjYalB7TDx6fY4JL3tHRw",
+  "name": "Mr. Doctor",
+  "uri": "spotify:artist:3jjYalB7TDx6fY4JL3tHRw",
+  "followers": {
+    "href": null,
+    "total": 42487
+  },
+  "genres": [
+    "sacramento hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d1c10c7a6b163e296fbf8e9c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d1c10c7a6b163e296fbf8e9c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d1c10c7a6b163e296fbf8e9c",
+      "width": 64
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3jjYalB7TDx6fY4JL3tHRw"
+  }
+}

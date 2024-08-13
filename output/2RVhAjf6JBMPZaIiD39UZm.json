@@ -1,0 +1,33 @@
+{
+  "id": "2RVhAjf6JBMPZaIiD39UZm",
+  "name": "La Covacha",
+  "uri": "spotify:artist:2RVhAjf6JBMPZaIiD39UZm",
+  "followers": {
+    "href": null,
+    "total": 3646
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb45715de12aceac3d2dde49b7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517445715de12aceac3d2dde49b7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17845715de12aceac3d2dde49b7",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2RVhAjf6JBMPZaIiD39UZm"
+  }
+}

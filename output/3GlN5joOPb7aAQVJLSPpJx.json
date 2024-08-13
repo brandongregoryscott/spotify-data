@@ -1,0 +1,33 @@
+{
+  "id": "3GlN5joOPb7aAQVJLSPpJx",
+  "name": "Los Vasquez",
+  "uri": "spotify:artist:3GlN5joOPb7aAQVJLSPpJx",
+  "followers": {
+    "href": null,
+    "total": 419186
+  },
+  "genres": [
+    "pop chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb65ba025e3ff2eab0f32c1b8a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517465ba025e3ff2eab0f32c1b8a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17865ba025e3ff2eab0f32c1b8a",
+      "width": 160
+    }
+  ],
+  "popularity": 55,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx"
+  }
+}

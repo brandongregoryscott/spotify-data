@@ -1,0 +1,33 @@
+{
+  "id": "7l6dAOLyIyblCsuaOYJwCL",
+  "name": "Ivan4Sure",
+  "uri": "spotify:artist:7l6dAOLyIyblCsuaOYJwCL",
+  "followers": {
+    "href": null,
+    "total": 301
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb45dc30ecb15c2dd974544631",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517445dc30ecb15c2dd974544631",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17845dc30ecb15c2dd974544631",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7l6dAOLyIyblCsuaOYJwCL"
+  }
+}

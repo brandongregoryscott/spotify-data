@@ -1,0 +1,33 @@
+{
+  "id": "3cAOn1M1Jx4sJdAqASkFHj",
+  "name": "OJD",
+  "uri": "spotify:artist:3cAOn1M1Jx4sJdAqASkFHj",
+  "followers": {
+    "href": null,
+    "total": 76
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb09a5e3e436f9c52fb8ba247c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517409a5e3e436f9c52fb8ba247c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17809a5e3e436f9c52fb8ba247c",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3cAOn1M1Jx4sJdAqASkFHj"
+  }
+}

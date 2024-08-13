@@ -1,0 +1,34 @@
+{
+  "id": "1QIfFsxtWzWn8sM0cuof1T",
+  "name": "Martin Jarl",
+  "uri": "spotify:artist:1QIfFsxtWzWn8sM0cuof1T",
+  "followers": {
+    "href": null,
+    "total": 1235
+  },
+  "genres": [
+    "ambient dub techno",
+    "dub techno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb318d59daa9f18101cfc19af8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174318d59daa9f18101cfc19af8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178318d59daa9f18101cfc19af8",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1QIfFsxtWzWn8sM0cuof1T"
+  }
+}

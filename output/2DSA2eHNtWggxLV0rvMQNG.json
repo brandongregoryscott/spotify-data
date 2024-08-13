@@ -1,0 +1,33 @@
+{
+  "id": "2DSA2eHNtWggxLV0rvMQNG",
+  "name": "Ake",
+  "uri": "spotify:artist:2DSA2eHNtWggxLV0rvMQNG",
+  "followers": {
+    "href": null,
+    "total": 250
+  },
+  "genres": [
+    "latvian hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733cd317a0131bd16f3d06562f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023cd317a0131bd16f3d06562f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513cd317a0131bd16f3d06562f",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2DSA2eHNtWggxLV0rvMQNG"
+  }
+}

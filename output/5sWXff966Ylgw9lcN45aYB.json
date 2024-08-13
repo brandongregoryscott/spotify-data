@@ -1,0 +1,33 @@
+{
+  "id": "5sWXff966Ylgw9lcN45aYB",
+  "name": "June",
+  "uri": "spotify:artist:5sWXff966Ylgw9lcN45aYB",
+  "followers": {
+    "href": null,
+    "total": 42527
+  },
+  "genres": [
+    "cali rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb596c12aaafce71892b08967f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174596c12aaafce71892b08967f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178596c12aaafce71892b08967f",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5sWXff966Ylgw9lcN45aYB"
+  }
+}

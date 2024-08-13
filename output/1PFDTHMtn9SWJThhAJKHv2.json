@@ -1,0 +1,33 @@
+{
+  "id": "1PFDTHMtn9SWJThhAJKHv2",
+  "name": "Arteries",
+  "uri": "spotify:artist:1PFDTHMtn9SWJThhAJKHv2",
+  "followers": {
+    "href": null,
+    "total": 673
+  },
+  "genres": [
+    "australian metalcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb04c5c06a26570351be7bf13",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b04c5c06a26570351be7bf13",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b04c5c06a26570351be7bf13",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1PFDTHMtn9SWJThhAJKHv2"
+  }
+}

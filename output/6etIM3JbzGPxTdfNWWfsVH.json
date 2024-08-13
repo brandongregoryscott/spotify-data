@@ -1,0 +1,37 @@
+{
+  "id": "6etIM3JbzGPxTdfNWWfsVH",
+  "name": "The McCoys",
+  "uri": "spotify:artist:6etIM3JbzGPxTdfNWWfsVH",
+  "followers": {
+    "href": null,
+    "total": 44705
+  },
+  "genres": [
+    "bubblegum pop",
+    "classic garage rock",
+    "doo-wop",
+    "merseybeat",
+    "rock-and-roll"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27324ac443ef49ebcbb172d03ea",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0224ac443ef49ebcbb172d03ea",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485124ac443ef49ebcbb172d03ea",
+      "width": 64
+    }
+  ],
+  "popularity": 39,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6etIM3JbzGPxTdfNWWfsVH"
+  }
+}

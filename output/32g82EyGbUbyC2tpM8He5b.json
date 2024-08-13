@@ -1,0 +1,33 @@
+{
+  "id": "32g82EyGbUbyC2tpM8He5b",
+  "name": "Simon Moullier",
+  "uri": "spotify:artist:32g82EyGbUbyC2tpM8He5b",
+  "followers": {
+    "href": null,
+    "total": 1869
+  },
+  "genres": [
+    "mallet"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebad99e04a3c04b23d952671ed",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ad99e04a3c04b23d952671ed",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ad99e04a3c04b23d952671ed",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/32g82EyGbUbyC2tpM8He5b"
+  }
+}

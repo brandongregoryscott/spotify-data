@@ -1,0 +1,33 @@
+{
+  "id": "5FuLIKGSypbT8dSwk0e9Fn",
+  "name": "Tito Alberti",
+  "uri": "spotify:artist:5FuLIKGSypbT8dSwk0e9Fn",
+  "followers": {
+    "href": null,
+    "total": 135
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27342efdcfa7444d7b5817063f4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0242efdcfa7444d7b5817063f4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485142efdcfa7444d7b5817063f4",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5FuLIKGSypbT8dSwk0e9Fn"
+  }
+}

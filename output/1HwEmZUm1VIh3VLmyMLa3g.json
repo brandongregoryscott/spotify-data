@@ -1,0 +1,35 @@
+{
+  "id": "1HwEmZUm1VIh3VLmyMLa3g",
+  "name": "Cathy Davey",
+  "uri": "spotify:artist:1HwEmZUm1VIh3VLmyMLa3g",
+  "followers": {
+    "href": null,
+    "total": 10489
+  },
+  "genres": [
+    "irish indie",
+    "irish rock",
+    "irish singer-songwriter"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0fbe3979294917092322d425",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051740fbe3979294917092322d425",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1780fbe3979294917092322d425",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1HwEmZUm1VIh3VLmyMLa3g"
+  }
+}

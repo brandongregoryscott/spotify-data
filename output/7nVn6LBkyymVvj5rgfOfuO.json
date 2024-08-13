@@ -1,0 +1,33 @@
+{
+  "id": "7nVn6LBkyymVvj5rgfOfuO",
+  "name": "NO BORDERS",
+  "uri": "spotify:artist:7nVn6LBkyymVvj5rgfOfuO",
+  "followers": {
+    "href": null,
+    "total": 267
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdaaed6b15528597072ccb2c3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174daaed6b15528597072ccb2c3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178daaed6b15528597072ccb2c3",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7nVn6LBkyymVvj5rgfOfuO"
+  }
+}

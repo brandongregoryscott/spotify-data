@@ -1,0 +1,33 @@
+{
+  "id": "5b0CoV6T2KHmlqcctcJ2im",
+  "name": "Juanjo García",
+  "uri": "spotify:artist:5b0CoV6T2KHmlqcctcJ2im",
+  "followers": {
+    "href": null,
+    "total": 823
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd21f4c88cc847a7e27740cf2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d21f4c88cc847a7e27740cf2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d21f4c88cc847a7e27740cf2",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5b0CoV6T2KHmlqcctcJ2im"
+  }
+}

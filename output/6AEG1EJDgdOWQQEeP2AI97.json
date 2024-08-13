@@ -1,0 +1,33 @@
+{
+  "id": "6AEG1EJDgdOWQQEeP2AI97",
+  "name": "Jimmy Little",
+  "uri": "spotify:artist:6AEG1EJDgdOWQQEeP2AI97",
+  "followers": {
+    "href": null,
+    "total": 6964
+  },
+  "genres": [
+    "australian indigenous music"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f7ce7001a2c6c83500fa9c15",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f7ce7001a2c6c83500fa9c15",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f7ce7001a2c6c83500fa9c15",
+      "width": 64
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6AEG1EJDgdOWQQEeP2AI97"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3ZgXPePJTtftLpRyH67hCr",
+  "name": "Convex Model",
+  "uri": "spotify:artist:3ZgXPePJTtftLpRyH67hCr",
+  "followers": {
+    "href": null,
+    "total": 530
+  },
+  "genres": [
+    "greek post-punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9c3bafa55eeb86952d5d91cb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051749c3bafa55eeb86952d5d91cb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1789c3bafa55eeb86952d5d91cb",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ZgXPePJTtftLpRyH67hCr"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5XIP4vYIdTKGEBKvAk4lsL",
+  "name": "借りてきた○○",
+  "uri": "spotify:artist:5XIP4vYIdTKGEBKvAk4lsL",
+  "followers": {
+    "href": null,
+    "total": 79
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27357d97210b691c047b5ae1262",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0257d97210b691c047b5ae1262",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485157d97210b691c047b5ae1262",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5XIP4vYIdTKGEBKvAk4lsL"
+  }
+}

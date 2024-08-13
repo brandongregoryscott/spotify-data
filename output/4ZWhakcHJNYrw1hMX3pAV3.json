@@ -1,0 +1,34 @@
+{
+  "id": "4ZWhakcHJNYrw1hMX3pAV3",
+  "name": "Simple Kid",
+  "uri": "spotify:artist:4ZWhakcHJNYrw1hMX3pAV3",
+  "followers": {
+    "href": null,
+    "total": 4324
+  },
+  "genres": [
+    "cork indie",
+    "irish rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb352b281b3f022dcedeb1b2d4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174352b281b3f022dcedeb1b2d4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178352b281b3f022dcedeb1b2d4",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4ZWhakcHJNYrw1hMX3pAV3"
+  }
+}

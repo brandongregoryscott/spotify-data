@@ -1,0 +1,33 @@
+{
+  "id": "6UgXMCLwG7uomOEUFfoMli",
+  "name": "Twin Sound",
+  "uri": "spotify:artist:6UgXMCLwG7uomOEUFfoMli",
+  "followers": {
+    "href": null,
+    "total": 81
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb78fb53539a2b2134995480df",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517478fb53539a2b2134995480df",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17878fb53539a2b2134995480df",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6UgXMCLwG7uomOEUFfoMli"
+  }
+}

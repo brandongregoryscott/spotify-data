@@ -1,0 +1,33 @@
+{
+  "id": "71cSe7ij1l2SfVHQtfADYE",
+  "name": "[mgo]",
+  "uri": "spotify:artist:71cSe7ij1l2SfVHQtfADYE",
+  "followers": {
+    "href": null,
+    "total": 234
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb449c23253c900d6acf493daa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174449c23253c900d6acf493daa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178449c23253c900d6acf493daa",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/71cSe7ij1l2SfVHQtfADYE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1yXkQMMIVLkHxUCwl8RhXC",
+  "name": "Druid",
+  "uri": "spotify:artist:1yXkQMMIVLkHxUCwl8RhXC",
+  "followers": {
+    "href": null,
+    "total": 953
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb35e0d02b2753f1144299ffa4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517435e0d02b2753f1144299ffa4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17835e0d02b2753f1144299ffa4",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1yXkQMMIVLkHxUCwl8RhXC"
+  }
+}

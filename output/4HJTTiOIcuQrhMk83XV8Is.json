@@ -1,0 +1,33 @@
+{
+  "id": "4HJTTiOIcuQrhMk83XV8Is",
+  "name": "Cleb",
+  "uri": "spotify:artist:4HJTTiOIcuQrhMk83XV8Is",
+  "followers": {
+    "href": null,
+    "total": 86
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb748b78c6691cf8f8327a45ad",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174748b78c6691cf8f8327a45ad",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178748b78c6691cf8f8327a45ad",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4HJTTiOIcuQrhMk83XV8Is"
+  }
+}

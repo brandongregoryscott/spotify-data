@@ -1,0 +1,33 @@
+{
+  "id": "0mIEFkDpcAInh84blFIlqq",
+  "name": "Колибри",
+  "uri": "spotify:artist:0mIEFkDpcAInh84blFIlqq",
+  "followers": {
+    "href": null,
+    "total": 6091
+  },
+  "genres": [
+    "russian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ea101fe2067ba2bde8e2fc09",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dd1f663e5024a021fa8757ac",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dd1f663e5024a021fa8757ac",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0mIEFkDpcAInh84blFIlqq"
+  }
+}

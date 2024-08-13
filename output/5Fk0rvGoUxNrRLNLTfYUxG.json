@@ -1,0 +1,34 @@
+{
+  "id": "5Fk0rvGoUxNrRLNLTfYUxG",
+  "name": "ESP Project",
+  "uri": "spotify:artist:5Fk0rvGoUxNrRLNLTfYUxG",
+  "followers": {
+    "href": null,
+    "total": 402
+  },
+  "genres": [
+    "crossover prog",
+    "deep progressive rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b19ab03a092bb0e760e37ffd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b19ab03a092bb0e760e37ffd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b19ab03a092bb0e760e37ffd",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Fk0rvGoUxNrRLNLTfYUxG"
+  }
+}

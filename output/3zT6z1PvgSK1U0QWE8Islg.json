@@ -1,0 +1,33 @@
+{
+  "id": "3zT6z1PvgSK1U0QWE8Islg",
+  "name": "Shmoo",
+  "uri": "spotify:artist:3zT6z1PvgSK1U0QWE8Islg",
+  "followers": {
+    "href": null,
+    "total": 147
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd0e63d0277a2c72480fee756",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d0e63d0277a2c72480fee756",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d0e63d0277a2c72480fee756",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3zT6z1PvgSK1U0QWE8Islg"
+  }
+}

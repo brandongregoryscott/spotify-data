@@ -1,0 +1,33 @@
+{
+  "id": "2zHYJWBR2bFAlsvS0gOjhA",
+  "name": "Sumthin Terrible",
+  "uri": "spotify:artist:2zHYJWBR2bFAlsvS0gOjhA",
+  "followers": {
+    "href": null,
+    "total": 2265
+  },
+  "genres": [
+    "hyphy"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273aeadbc537a4189fcdab67e5c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02aeadbc537a4189fcdab67e5c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851aeadbc537a4189fcdab67e5c",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2zHYJWBR2bFAlsvS0gOjhA"
+  }
+}

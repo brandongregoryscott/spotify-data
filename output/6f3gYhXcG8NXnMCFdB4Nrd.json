@@ -1,0 +1,33 @@
+{
+  "id": "6f3gYhXcG8NXnMCFdB4Nrd",
+  "name": "Tatlo",
+  "uri": "spotify:artist:6f3gYhXcG8NXnMCFdB4Nrd",
+  "followers": {
+    "href": null,
+    "total": 594
+  },
+  "genres": [
+    "indonesian folk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb90544c2e2c6af4a3cb9d48bd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517490544c2e2c6af4a3cb9d48bd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17890544c2e2c6af4a3cb9d48bd",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6f3gYhXcG8NXnMCFdB4Nrd"
+  }
+}

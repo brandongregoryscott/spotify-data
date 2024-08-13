@@ -1,0 +1,33 @@
+{
+  "id": "2BialvWwybe6fg4KG4Hfif",
+  "name": "Johnny Randale",
+  "uri": "spotify:artist:2BialvWwybe6fg4KG4Hfif",
+  "followers": {
+    "href": null,
+    "total": 412
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb440f51410d898365ed512c00",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174440f51410d898365ed512c00",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178440f51410d898365ed512c00",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2BialvWwybe6fg4KG4Hfif"
+  }
+}

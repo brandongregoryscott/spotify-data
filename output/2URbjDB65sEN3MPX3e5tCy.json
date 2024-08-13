@@ -1,0 +1,33 @@
+{
+  "id": "2URbjDB65sEN3MPX3e5tCy",
+  "name": "Jasmine Pace",
+  "uri": "spotify:artist:2URbjDB65sEN3MPX3e5tCy",
+  "followers": {
+    "href": null,
+    "total": 678
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb26bcde15ee683362c2c6e690",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517426bcde15ee683362c2c6e690",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17826bcde15ee683362c2c6e690",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2URbjDB65sEN3MPX3e5tCy"
+  }
+}

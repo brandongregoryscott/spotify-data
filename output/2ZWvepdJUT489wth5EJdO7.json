@@ -1,0 +1,33 @@
+{
+  "id": "2ZWvepdJUT489wth5EJdO7",
+  "name": "¿Juan Julian?",
+  "uri": "spotify:artist:2ZWvepdJUT489wth5EJdO7",
+  "followers": {
+    "href": null,
+    "total": 1891
+  },
+  "genres": [
+    "manso indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb93fb7d1de62bcd64e741c6c1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517493fb7d1de62bcd64e741c6c1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17893fb7d1de62bcd64e741c6c1",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7"
+  }
+}

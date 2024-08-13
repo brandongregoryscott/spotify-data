@@ -1,0 +1,33 @@
+{
+  "id": "3uhj1JttSl1jskO2rHd5OW",
+  "name": "Jack Stillwater",
+  "uri": "spotify:artist:3uhj1JttSl1jskO2rHd5OW",
+  "followers": {
+    "href": null,
+    "total": 770
+  },
+  "genres": [
+    "norwegian americana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7e773e758b07c16680b2b1b7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051747e773e758b07c16680b2b1b7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1787e773e758b07c16680b2b1b7",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3uhj1JttSl1jskO2rHd5OW"
+  }
+}

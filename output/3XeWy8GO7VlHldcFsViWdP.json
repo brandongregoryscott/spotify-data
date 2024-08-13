@@ -1,0 +1,33 @@
+{
+  "id": "3XeWy8GO7VlHldcFsViWdP",
+  "name": "David Carpenter",
+  "uri": "spotify:artist:3XeWy8GO7VlHldcFsViWdP",
+  "followers": {
+    "href": null,
+    "total": 1772
+  },
+  "genres": [
+    "christian indie folk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb46c3826e4908c7a89ecac20a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517446c3826e4908c7a89ecac20a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17846c3826e4908c7a89ecac20a",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3XeWy8GO7VlHldcFsViWdP"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7fZEsoAaIDE8TfuUBKF4tB",
+  "name": "Josh Haven",
+  "uri": "spotify:artist:7fZEsoAaIDE8TfuUBKF4tB",
+  "followers": {
+    "href": null,
+    "total": 66
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273db5cf07cefcc69f16a11ec6d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02db5cf07cefcc69f16a11ec6d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851db5cf07cefcc69f16a11ec6d",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7fZEsoAaIDE8TfuUBKF4tB"
+  }
+}

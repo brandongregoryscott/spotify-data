@@ -1,0 +1,33 @@
+{
+  "id": "1LoepQKoRDwW42vdOkLdDn",
+  "name": "Teddy White",
+  "uri": "spotify:artist:1LoepQKoRDwW42vdOkLdDn",
+  "followers": {
+    "href": null,
+    "total": 165
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd53e42cf46cb25d51a4d6ffc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d53e42cf46cb25d51a4d6ffc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d53e42cf46cb25d51a4d6ffc",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1LoepQKoRDwW42vdOkLdDn"
+  }
+}

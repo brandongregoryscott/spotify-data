@@ -1,0 +1,33 @@
+{
+  "id": "5L4rsX5rmNsjWfchgFs1I6",
+  "name": "Out by Lucy",
+  "uri": "spotify:artist:5L4rsX5rmNsjWfchgFs1I6",
+  "followers": {
+    "href": null,
+    "total": 586
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe54b949fb60585f292f391e2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e54b949fb60585f292f391e2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e54b949fb60585f292f391e2",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5L4rsX5rmNsjWfchgFs1I6"
+  }
+}

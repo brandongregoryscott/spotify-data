@@ -1,0 +1,33 @@
+{
+  "id": "5NZpdkHdT9hCYwFy75Z02G",
+  "name": "Frontiera",
+  "uri": "spotify:artist:5NZpdkHdT9hCYwFy75Z02G",
+  "followers": {
+    "href": null,
+    "total": 451
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb73dba7d193e258fa0d8bfeeb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517473dba7d193e258fa0d8bfeeb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17873dba7d193e258fa0d8bfeeb",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5NZpdkHdT9hCYwFy75Z02G"
+  }
+}

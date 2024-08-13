@@ -1,0 +1,33 @@
+{
+  "id": "2ZzxkZpwwNJI4KGnNQtLTN",
+  "name": "Alin",
+  "uri": "spotify:artist:2ZzxkZpwwNJI4KGnNQtLTN",
+  "followers": {
+    "href": null,
+    "total": 61
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc40791fa91c157275961a60c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c40791fa91c157275961a60c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c40791fa91c157275961a60c",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ZzxkZpwwNJI4KGnNQtLTN"
+  }
+}

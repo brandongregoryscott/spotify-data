@@ -1,0 +1,33 @@
+{
+  "id": "3KZNsAVdewpK4HV1Gfc6lA",
+  "name": "ubrokemine",
+  "uri": "spotify:artist:3KZNsAVdewpK4HV1Gfc6lA",
+  "followers": {
+    "href": null,
+    "total": 125
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc184533ec3b5cd16e8fb03bc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c184533ec3b5cd16e8fb03bc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c184533ec3b5cd16e8fb03bc",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3KZNsAVdewpK4HV1Gfc6lA"
+  }
+}

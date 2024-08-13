@@ -1,0 +1,33 @@
+{
+  "id": "4sIluEGumspHohtj9NqaGD",
+  "name": "ACTR",
+  "uri": "spotify:artist:4sIluEGumspHohtj9NqaGD",
+  "followers": {
+    "href": null,
+    "total": 124
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb94961f04e6ddd324283b9511",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517494961f04e6ddd324283b9511",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17894961f04e6ddd324283b9511",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4sIluEGumspHohtj9NqaGD"
+  }
+}

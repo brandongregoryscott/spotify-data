@@ -1,0 +1,33 @@
+{
+  "id": "6ZmKpaTKluXyBWXFfv94BN",
+  "name": "yanww",
+  "uri": "spotify:artist:6ZmKpaTKluXyBWXFfv94BN",
+  "followers": {
+    "href": null,
+    "total": 511
+  },
+  "genres": [
+    "ua trap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb57c9b2854f0468c0813e29f6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517457c9b2854f0468c0813e29f6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17857c9b2854f0468c0813e29f6",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ZmKpaTKluXyBWXFfv94BN"
+  }
+}

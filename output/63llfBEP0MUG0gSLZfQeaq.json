@@ -1,0 +1,33 @@
+{
+  "id": "63llfBEP0MUG0gSLZfQeaq",
+  "name": "LVND",
+  "uri": "spotify:artist:63llfBEP0MUG0gSLZfQeaq",
+  "followers": {
+    "href": null,
+    "total": 64
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6c577ddba03e12aac2ac4c53",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051746c577ddba03e12aac2ac4c53",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1786c577ddba03e12aac2ac4c53",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/63llfBEP0MUG0gSLZfQeaq"
+  }
+}

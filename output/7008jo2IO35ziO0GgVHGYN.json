@@ -1,0 +1,33 @@
+{
+  "id": "7008jo2IO35ziO0GgVHGYN",
+  "name": "Premium Banana",
+  "uri": "spotify:artist:7008jo2IO35ziO0GgVHGYN",
+  "followers": {
+    "href": null,
+    "total": 168
+  },
+  "genres": [
+    "electronica chilena"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb288239e173bbf9bb32e68498",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174288239e173bbf9bb32e68498",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178288239e173bbf9bb32e68498",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7008jo2IO35ziO0GgVHGYN"
+  }
+}

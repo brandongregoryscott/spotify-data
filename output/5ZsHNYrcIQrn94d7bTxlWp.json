@@ -1,0 +1,33 @@
+{
+  "id": "5ZsHNYrcIQrn94d7bTxlWp",
+  "name": "Oscar Eck",
+  "uri": "spotify:artist:5ZsHNYrcIQrn94d7bTxlWp",
+  "followers": {
+    "href": null,
+    "total": 53
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebee0902065a061102e3b2a893",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ee0902065a061102e3b2a893",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ee0902065a061102e3b2a893",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ZsHNYrcIQrn94d7bTxlWp"
+  }
+}

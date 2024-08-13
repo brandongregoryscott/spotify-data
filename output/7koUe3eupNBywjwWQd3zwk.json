@@ -1,0 +1,34 @@
+{
+  "id": "7koUe3eupNBywjwWQd3zwk",
+  "name": "My Dear Disco",
+  "uri": "spotify:artist:7koUe3eupNBywjwWQd3zwk",
+  "followers": {
+    "href": null,
+    "total": 1074
+  },
+  "genres": [
+    "ann arbor indie",
+    "michigan indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf1e551d55bcdb5b084430180",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f1e551d55bcdb5b084430180",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f1e551d55bcdb5b084430180",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7koUe3eupNBywjwWQd3zwk"
+  }
+}

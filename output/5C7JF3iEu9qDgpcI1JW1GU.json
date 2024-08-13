@@ -1,0 +1,33 @@
+{
+  "id": "5C7JF3iEu9qDgpcI1JW1GU",
+  "name": "Garrett Douglas",
+  "uri": "spotify:artist:5C7JF3iEu9qDgpcI1JW1GU",
+  "followers": {
+    "href": null,
+    "total": 5328
+  },
+  "genres": [
+    "jawaiian"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf58f2bb64354a215ba828707",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f58f2bb64354a215ba828707",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f58f2bb64354a215ba828707",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5C7JF3iEu9qDgpcI1JW1GU"
+  }
+}

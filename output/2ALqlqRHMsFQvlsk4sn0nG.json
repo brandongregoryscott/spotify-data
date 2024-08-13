@@ -1,0 +1,33 @@
+{
+  "id": "2ALqlqRHMsFQvlsk4sn0nG",
+  "name": "Bonança",
+  "uri": "spotify:artist:2ALqlqRHMsFQvlsk4sn0nG",
+  "followers": {
+    "href": null,
+    "total": 552
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb118dd2ddba7832b12c9a823e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174118dd2ddba7832b12c9a823e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178118dd2ddba7832b12c9a823e",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2ALqlqRHMsFQvlsk4sn0nG"
+  }
+}

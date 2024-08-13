@@ -1,0 +1,33 @@
+{
+  "id": "0tLBfyJl3IsRA7XRELSF6h",
+  "name": "JSO",
+  "uri": "spotify:artist:0tLBfyJl3IsRA7XRELSF6h",
+  "followers": {
+    "href": null,
+    "total": 3518
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb10f3cf346b12fecfe07859c4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517410f3cf346b12fecfe07859c4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17810f3cf346b12fecfe07859c4",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0tLBfyJl3IsRA7XRELSF6h"
+  }
+}

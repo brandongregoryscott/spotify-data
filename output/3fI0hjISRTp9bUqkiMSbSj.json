@@ -1,0 +1,33 @@
+{
+  "id": "3fI0hjISRTp9bUqkiMSbSj",
+  "name": "Rra",
+  "uri": "spotify:artist:3fI0hjISRTp9bUqkiMSbSj",
+  "followers": {
+    "href": null,
+    "total": 24
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739e5f362b40019edba1e2f9af",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029e5f362b40019edba1e2f9af",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514f07ebe0f1dff7219ad5767a",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3fI0hjISRTp9bUqkiMSbSj"
+  }
+}

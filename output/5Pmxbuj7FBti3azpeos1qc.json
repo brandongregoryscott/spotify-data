@@ -1,0 +1,33 @@
+{
+  "id": "5Pmxbuj7FBti3azpeos1qc",
+  "name": "Eonia",
+  "uri": "spotify:artist:5Pmxbuj7FBti3azpeos1qc",
+  "followers": {
+    "href": null,
+    "total": 1132
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbf4755011e2eeeea619c8ab9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bf4755011e2eeeea619c8ab9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bf4755011e2eeeea619c8ab9",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Pmxbuj7FBti3azpeos1qc"
+  }
+}

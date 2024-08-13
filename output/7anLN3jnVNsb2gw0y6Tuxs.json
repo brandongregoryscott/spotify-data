@@ -1,0 +1,33 @@
+{
+  "id": "7anLN3jnVNsb2gw0y6Tuxs",
+  "name": "Henry Rick",
+  "uri": "spotify:artist:7anLN3jnVNsb2gw0y6Tuxs",
+  "followers": {
+    "href": null,
+    "total": 99
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb84cb33bdc4606e08b154fa8d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517484cb33bdc4606e08b154fa8d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17884cb33bdc4606e08b154fa8d",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7anLN3jnVNsb2gw0y6Tuxs"
+  }
+}

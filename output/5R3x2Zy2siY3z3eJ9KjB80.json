@@ -1,0 +1,33 @@
+{
+  "id": "5R3x2Zy2siY3z3eJ9KjB80",
+  "name": "We Were Glue",
+  "uri": "spotify:artist:5R3x2Zy2siY3z3eJ9KjB80",
+  "followers": {
+    "href": null,
+    "total": 785
+  },
+  "genres": [
+    "liverpool indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb59acc2d6affe1585ad6511de",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517459acc2d6affe1585ad6511de",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17859acc2d6affe1585ad6511de",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5R3x2Zy2siY3z3eJ9KjB80"
+  }
+}

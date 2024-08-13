@@ -1,0 +1,34 @@
+{
+  "id": "45Z2ShPqr2p9ZgfkYhZUgq",
+  "name": "Billy May",
+  "uri": "spotify:artist:45Z2ShPqr2p9ZgfkYhZUgq",
+  "followers": {
+    "href": null,
+    "total": 9146
+  },
+  "genres": [
+    "easy listening",
+    "laboratorio"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cd1a37af916a197a2acec28c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cd1a37af916a197a2acec28c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cd1a37af916a197a2acec28c",
+      "width": 64
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq"
+  }
+}

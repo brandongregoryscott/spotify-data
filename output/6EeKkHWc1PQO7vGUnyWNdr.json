@@ -1,0 +1,33 @@
+{
+  "id": "6EeKkHWc1PQO7vGUnyWNdr",
+  "name": "IATT",
+  "uri": "spotify:artist:6EeKkHWc1PQO7vGUnyWNdr",
+  "followers": {
+    "href": null,
+    "total": 1413
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb87a000ab6c756e95e8de2f63",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517487a000ab6c756e95e8de2f63",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17887a000ab6c756e95e8de2f63",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6EeKkHWc1PQO7vGUnyWNdr"
+  }
+}

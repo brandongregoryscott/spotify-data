@@ -1,0 +1,33 @@
+{
+  "id": "6iWz2UIQJ4lwLBOo6GK4zH",
+  "name": "Nanode",
+  "uri": "spotify:artist:6iWz2UIQJ4lwLBOo6GK4zH",
+  "followers": {
+    "href": null,
+    "total": 831
+  },
+  "genres": [
+    "pixel"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb42e989ac1332cd097a1f1f93",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517442e989ac1332cd097a1f1f93",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17842e989ac1332cd097a1f1f93",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6iWz2UIQJ4lwLBOo6GK4zH"
+  }
+}

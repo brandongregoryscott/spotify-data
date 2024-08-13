@@ -1,0 +1,33 @@
+{
+  "id": "2u8ZjWAhjk2lIOWQ2lSTfT",
+  "name": "Racquan",
+  "uri": "spotify:artist:2u8ZjWAhjk2lIOWQ2lSTfT",
+  "followers": {
+    "href": null,
+    "total": 195
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfbe0ee67fa38bd6032917dbb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fbe0ee67fa38bd6032917dbb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fbe0ee67fa38bd6032917dbb",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2u8ZjWAhjk2lIOWQ2lSTfT"
+  }
+}

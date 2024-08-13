@@ -1,0 +1,33 @@
+{
+  "id": "34FmkZDxKBghwrfBqnamyM",
+  "name": "Kanni",
+  "uri": "spotify:artist:34FmkZDxKBghwrfBqnamyM",
+  "followers": {
+    "href": null,
+    "total": 110
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27378a73243479151c511ed162c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0278a73243479151c511ed162c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485178a73243479151c511ed162c",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/34FmkZDxKBghwrfBqnamyM"
+  }
+}

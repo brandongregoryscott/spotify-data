@@ -1,0 +1,33 @@
+{
+  "id": "1UfPvK23VSYjLGhN05hCwa",
+  "name": "Linus Zander",
+  "uri": "spotify:artist:1UfPvK23VSYjLGhN05hCwa",
+  "followers": {
+    "href": null,
+    "total": 783
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb168873643224be03dc1462cd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174168873643224be03dc1462cd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178168873643224be03dc1462cd",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1UfPvK23VSYjLGhN05hCwa"
+  }
+}

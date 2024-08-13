@@ -1,0 +1,33 @@
+{
+  "id": "0vcSGW0U7C8Z2MQuzy5fWM",
+  "name": "TOMI",
+  "uri": "spotify:artist:0vcSGW0U7C8Z2MQuzy5fWM",
+  "followers": {
+    "href": null,
+    "total": 150
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27386c8bab29769418ea21000f5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0286c8bab29769418ea21000f5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485186c8bab29769418ea21000f5",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0vcSGW0U7C8Z2MQuzy5fWM"
+  }
+}

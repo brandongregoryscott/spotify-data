@@ -1,0 +1,33 @@
+{
+  "id": "20MXofOvLF3oda0RzKL3wE",
+  "name": "王様",
+  "uri": "spotify:artist:20MXofOvLF3oda0RzKL3wE",
+  "followers": {
+    "href": null,
+    "total": 1736
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27394ffd50e816a28318f27caaf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0294ffd50e816a28318f27caaf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485194ffd50e816a28318f27caaf",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/20MXofOvLF3oda0RzKL3wE"
+  }
+}

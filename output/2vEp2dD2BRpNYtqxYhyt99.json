@@ -1,0 +1,33 @@
+{
+  "id": "2vEp2dD2BRpNYtqxYhyt99",
+  "name": "krassasig",
+  "uri": "spotify:artist:2vEp2dD2BRpNYtqxYhyt99",
+  "followers": {
+    "href": null,
+    "total": 426
+  },
+  "genres": [
+    "icelandic pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbd673211540293d767d99553",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bd673211540293d767d99553",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bd673211540293d767d99553",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2vEp2dD2BRpNYtqxYhyt99"
+  }
+}

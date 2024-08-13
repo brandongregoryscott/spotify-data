@@ -1,0 +1,34 @@
+{
+  "id": "5tSq7Q5GOxvGtfc46h2lBb",
+  "name": "Zacamandú",
+  "uri": "spotify:artist:5tSq7Q5GOxvGtfc46h2lBb",
+  "followers": {
+    "href": null,
+    "total": 2384
+  },
+  "genres": [
+    "mexican son",
+    "son jarocho"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27379e1d1f65bc7063f973e74e6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0279e1d1f65bc7063f973e74e6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485179e1d1f65bc7063f973e74e6",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5tSq7Q5GOxvGtfc46h2lBb"
+  }
+}

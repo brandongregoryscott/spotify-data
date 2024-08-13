@@ -1,0 +1,33 @@
+{
+  "id": "2FGRaGqllXJkWnC1KAkLdk",
+  "name": "Alan Klein",
+  "uri": "spotify:artist:2FGRaGqllXJkWnC1KAkLdk",
+  "followers": {
+    "href": null,
+    "total": 165
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735d307934305b508cc624648c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025d307934305b508cc624648c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515d307934305b508cc624648c",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2FGRaGqllXJkWnC1KAkLdk"
+  }
+}

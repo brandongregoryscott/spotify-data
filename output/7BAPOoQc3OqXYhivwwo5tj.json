@@ -1,0 +1,33 @@
+{
+  "id": "7BAPOoQc3OqXYhivwwo5tj",
+  "name": "Tony Richard",
+  "uri": "spotify:artist:7BAPOoQc3OqXYhivwwo5tj",
+  "followers": {
+    "href": null,
+    "total": 820
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb5ec9edf2352e799d15638e8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b5ec9edf2352e799d15638e8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b5ec9edf2352e799d15638e8",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7BAPOoQc3OqXYhivwwo5tj"
+  }
+}

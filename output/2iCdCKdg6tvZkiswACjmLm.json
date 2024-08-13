@@ -1,0 +1,33 @@
+{
+  "id": "2iCdCKdg6tvZkiswACjmLm",
+  "name": "sleep protocol",
+  "uri": "spotify:artist:2iCdCKdg6tvZkiswACjmLm",
+  "followers": {
+    "href": null,
+    "total": 227
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c570b76a6ff1549c6c57e7bc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c570b76a6ff1549c6c57e7bc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c570b76a6ff1549c6c57e7bc",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2iCdCKdg6tvZkiswACjmLm"
+  }
+}

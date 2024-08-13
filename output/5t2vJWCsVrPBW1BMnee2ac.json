@@ -1,0 +1,33 @@
+{
+  "id": "5t2vJWCsVrPBW1BMnee2ac",
+  "name": "La Kattiveria",
+  "uri": "spotify:artist:5t2vJWCsVrPBW1BMnee2ac",
+  "followers": {
+    "href": null,
+    "total": 1432
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebda81f733bb5f17418f5763b1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174da81f733bb5f17418f5763b1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178da81f733bb5f17418f5763b1",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5t2vJWCsVrPBW1BMnee2ac"
+  }
+}

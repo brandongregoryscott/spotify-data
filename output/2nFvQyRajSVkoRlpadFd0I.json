@@ -1,0 +1,34 @@
+{
+  "id": "2nFvQyRajSVkoRlpadFd0I",
+  "name": "Front Page Review",
+  "uri": "spotify:artist:2nFvQyRajSVkoRlpadFd0I",
+  "followers": {
+    "href": null,
+    "total": 1343
+  },
+  "genres": [
+    "bosstown sound",
+    "classic psychedelic rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27357e22e375069ae4445cc76c6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0257e22e375069ae4445cc76c6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485157e22e375069ae4445cc76c6",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2nFvQyRajSVkoRlpadFd0I"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4YGf4vtFvFBhfkjKNiLoJH",
+  "name": "Blanco Tranco",
+  "uri": "spotify:artist:4YGf4vtFvFBhfkjKNiLoJH",
+  "followers": {
+    "href": null,
+    "total": 426
+  },
+  "genres": [
+    "australian shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb94b9f4a4f2a43b97b944acdf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517494b9f4a4f2a43b97b944acdf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17894b9f4a4f2a43b97b944acdf",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4YGf4vtFvFBhfkjKNiLoJH"
+  }
+}

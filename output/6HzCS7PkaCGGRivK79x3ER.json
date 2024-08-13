@@ -1,0 +1,33 @@
+{
+  "id": "6HzCS7PkaCGGRivK79x3ER",
+  "name": "Risk",
+  "uri": "spotify:artist:6HzCS7PkaCGGRivK79x3ER",
+  "followers": {
+    "href": null,
+    "total": 2525
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a2f1cfc41020035b09a1738e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a2f1cfc41020035b09a1738e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a2f1cfc41020035b09a1738e",
+      "width": 64
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6HzCS7PkaCGGRivK79x3ER"
+  }
+}

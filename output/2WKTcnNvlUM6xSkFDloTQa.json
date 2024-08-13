@@ -1,0 +1,33 @@
+{
+  "id": "2WKTcnNvlUM6xSkFDloTQa",
+  "name": "VENIALGO",
+  "uri": "spotify:artist:2WKTcnNvlUM6xSkFDloTQa",
+  "followers": {
+    "href": null,
+    "total": 198
+  },
+  "genres": [
+    "pop rock brasileiro"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd3ffada4a5a838edddb4e687",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d3ffada4a5a838edddb4e687",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d3ffada4a5a838edddb4e687",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2WKTcnNvlUM6xSkFDloTQa"
+  }
+}

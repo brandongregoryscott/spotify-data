@@ -1,0 +1,33 @@
+{
+  "id": "65WxRhUjAdsNDNlOsJ0gXo",
+  "name": "Evanio",
+  "uri": "spotify:artist:65WxRhUjAdsNDNlOsJ0gXo",
+  "followers": {
+    "href": null,
+    "total": 141
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273788d213433f3d983e3f23fbd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02788d213433f3d983e3f23fbd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851788d213433f3d983e3f23fbd",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/65WxRhUjAdsNDNlOsJ0gXo"
+  }
+}

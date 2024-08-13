@@ -1,0 +1,33 @@
+{
+  "id": "2M3gATDjQqQK2eyjMAVLnL",
+  "name": "Mangrove",
+  "uri": "spotify:artist:2M3gATDjQqQK2eyjMAVLnL",
+  "followers": {
+    "href": null,
+    "total": 120
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731fa926006c6d5d223d37cf93",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021fa926006c6d5d223d37cf93",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511fa926006c6d5d223d37cf93",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2M3gATDjQqQK2eyjMAVLnL"
+  }
+}

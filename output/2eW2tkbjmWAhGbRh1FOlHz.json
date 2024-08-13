@@ -1,0 +1,34 @@
+{
+  "id": "2eW2tkbjmWAhGbRh1FOlHz",
+  "name": "Brooze",
+  "uri": "spotify:artist:2eW2tkbjmWAhGbRh1FOlHz",
+  "followers": {
+    "href": null,
+    "total": 4089
+  },
+  "genres": [
+    "luxembourgian hip hop",
+    "luxembourgian pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd9fe5d3ba394b3f7b7264138",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d9fe5d3ba394b3f7b7264138",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d9fe5d3ba394b3f7b7264138",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2eW2tkbjmWAhGbRh1FOlHz"
+  }
+}

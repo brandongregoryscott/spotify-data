@@ -1,0 +1,33 @@
+{
+  "id": "6iQBhWmcQcl9s4w1hL5lnN",
+  "name": "Alex Lambert",
+  "uri": "spotify:artist:6iQBhWmcQcl9s4w1hL5lnN",
+  "followers": {
+    "href": null,
+    "total": 9504
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb908240791f66d6a26b7834bf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174908240791f66d6a26b7834bf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178908240791f66d6a26b7834bf",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5fca6jKkDzssBHS5V1jU8z",
+  "name": "Kreatev",
+  "uri": "spotify:artist:5fca6jKkDzssBHS5V1jU8z",
+  "followers": {
+    "href": null,
+    "total": 2126
+  },
+  "genres": [
+    "chillhop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb01bd4a3517cabc87f107020d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517401bd4a3517cabc87f107020d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17801bd4a3517cabc87f107020d",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5fca6jKkDzssBHS5V1jU8z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0vEsTn3tkCU2wcTroOSCG6",
+  "name": "Sonar",
+  "uri": "spotify:artist:0vEsTn3tkCU2wcTroOSCG6",
+  "followers": {
+    "href": null,
+    "total": 492
+  },
+  "genres": [
+    "power noise"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d6d86eaa44ddd0b8ff5780f4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d6d86eaa44ddd0b8ff5780f4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d6d86eaa44ddd0b8ff5780f4",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0vEsTn3tkCU2wcTroOSCG6"
+  }
+}

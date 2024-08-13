@@ -1,0 +1,33 @@
+{
+  "id": "73Lq4vlEstAGvcDmAhdwG2",
+  "name": "Piloshka",
+  "uri": "spotify:artist:73Lq4vlEstAGvcDmAhdwG2",
+  "followers": {
+    "href": null,
+    "total": 250
+  },
+  "genres": [
+    "indie cantabria"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb23197a78711c605eba87fdc3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517423197a78711c605eba87fdc3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17823197a78711c605eba87fdc3",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/73Lq4vlEstAGvcDmAhdwG2"
+  }
+}

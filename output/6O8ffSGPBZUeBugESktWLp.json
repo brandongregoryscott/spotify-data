@@ -1,0 +1,33 @@
+{
+  "id": "6O8ffSGPBZUeBugESktWLp",
+  "name": "21 Gramos",
+  "uri": "spotify:artist:6O8ffSGPBZUeBugESktWLp",
+  "followers": {
+    "href": null,
+    "total": 431
+  },
+  "genres": [
+    "grunge argentina"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcacb1e2cfc76af52bcf5f5c2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cacb1e2cfc76af52bcf5f5c2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cacb1e2cfc76af52bcf5f5c2",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6O8ffSGPBZUeBugESktWLp"
+  }
+}

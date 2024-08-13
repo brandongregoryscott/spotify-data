@@ -1,0 +1,33 @@
+{
+  "id": "2v8fa4gQjo0LSXTSU3P3QG",
+  "name": "Marissa",
+  "uri": "spotify:artist:2v8fa4gQjo0LSXTSU3P3QG",
+  "followers": {
+    "href": null,
+    "total": 9391
+  },
+  "genres": [
+    "pop r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcad445ec0d6413dac7450bbf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cad445ec0d6413dac7450bbf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cad445ec0d6413dac7450bbf",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2v8fa4gQjo0LSXTSU3P3QG"
+  }
+}

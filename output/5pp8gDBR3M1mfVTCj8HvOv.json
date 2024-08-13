@@ -1,0 +1,33 @@
+{
+  "id": "5pp8gDBR3M1mfVTCj8HvOv",
+  "name": "Márcio Marinho",
+  "uri": "spotify:artist:5pp8gDBR3M1mfVTCj8HvOv",
+  "followers": {
+    "href": null,
+    "total": 819
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf2ab564c61c20045c2862830",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f2ab564c61c20045c2862830",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f2ab564c61c20045c2862830",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5pp8gDBR3M1mfVTCj8HvOv"
+  }
+}

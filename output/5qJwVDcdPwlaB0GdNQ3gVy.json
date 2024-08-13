@@ -1,0 +1,33 @@
+{
+  "id": "5qJwVDcdPwlaB0GdNQ3gVy",
+  "name": "Cúbreme!",
+  "uri": "spotify:artist:5qJwVDcdPwlaB0GdNQ3gVy",
+  "followers": {
+    "href": null,
+    "total": 72
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb51ef148b011c7616258669d8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517451ef148b011c7616258669d8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17851ef148b011c7616258669d8",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5qJwVDcdPwlaB0GdNQ3gVy"
+  }
+}

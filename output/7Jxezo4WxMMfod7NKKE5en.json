@@ -1,0 +1,33 @@
+{
+  "id": "7Jxezo4WxMMfod7NKKE5en",
+  "name": "YOKO",
+  "uri": "spotify:artist:7Jxezo4WxMMfod7NKKE5en",
+  "followers": {
+    "href": null,
+    "total": 106
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb553ef895feb7fc438c80ba6b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174553ef895feb7fc438c80ba6b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178553ef895feb7fc438c80ba6b",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7Jxezo4WxMMfod7NKKE5en"
+  }
+}

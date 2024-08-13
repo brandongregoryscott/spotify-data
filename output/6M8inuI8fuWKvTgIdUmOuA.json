@@ -1,0 +1,33 @@
+{
+  "id": "6M8inuI8fuWKvTgIdUmOuA",
+  "name": "Nym",
+  "uri": "spotify:artist:6M8inuI8fuWKvTgIdUmOuA",
+  "followers": {
+    "href": null,
+    "total": 35533
+  },
+  "genres": [
+    "collage pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb18afc39e99b2950c8393ebad",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517418afc39e99b2950c8393ebad",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17818afc39e99b2950c8393ebad",
+      "width": 160
+    }
+  ],
+  "popularity": 46,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6M8inuI8fuWKvTgIdUmOuA"
+  }
+}

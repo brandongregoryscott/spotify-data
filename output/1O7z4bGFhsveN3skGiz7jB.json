@@ -1,0 +1,33 @@
+{
+  "id": "1O7z4bGFhsveN3skGiz7jB",
+  "name": "Donny Domino",
+  "uri": "spotify:artist:1O7z4bGFhsveN3skGiz7jB",
+  "followers": {
+    "href": null,
+    "total": 78
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb161c4619bc58e65637fa1914",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174161c4619bc58e65637fa1914",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178161c4619bc58e65637fa1914",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1O7z4bGFhsveN3skGiz7jB"
+  }
+}

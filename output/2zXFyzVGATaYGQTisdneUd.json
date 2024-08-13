@@ -1,0 +1,33 @@
+{
+  "id": "2zXFyzVGATaYGQTisdneUd",
+  "name": "Arthur Valentine",
+  "uri": "spotify:artist:2zXFyzVGATaYGQTisdneUd",
+  "followers": {
+    "href": null,
+    "total": 515
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebde89d3865e42435b8c2c3161",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174de89d3865e42435b8c2c3161",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178de89d3865e42435b8c2c3161",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2zXFyzVGATaYGQTisdneUd"
+  }
+}

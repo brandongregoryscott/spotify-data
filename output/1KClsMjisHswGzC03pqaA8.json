@@ -1,0 +1,33 @@
+{
+  "id": "1KClsMjisHswGzC03pqaA8",
+  "name": "Gustav Kemps",
+  "uri": "spotify:artist:1KClsMjisHswGzC03pqaA8",
+  "followers": {
+    "href": null,
+    "total": 320
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd8814f6488fffcee917614e9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d8814f6488fffcee917614e9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d8814f6488fffcee917614e9",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1KClsMjisHswGzC03pqaA8"
+  }
+}

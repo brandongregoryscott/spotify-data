@@ -1,0 +1,33 @@
+{
+  "id": "1RJkmcXtvDdyhfn2PbrZzQ",
+  "name": "Egotrippi",
+  "uri": "spotify:artist:1RJkmcXtvDdyhfn2PbrZzQ",
+  "followers": {
+    "href": null,
+    "total": 25536
+  },
+  "genres": [
+    "suomi rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb05f2811fead9c6896925f70a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517405f2811fead9c6896925f70a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17805f2811fead9c6896925f70a",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1RJkmcXtvDdyhfn2PbrZzQ"
+  }
+}

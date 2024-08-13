@@ -1,0 +1,33 @@
+{
+  "id": "63pNQwY29jhgMnmqQUag9i",
+  "name": "Sangaku",
+  "uri": "spotify:artist:63pNQwY29jhgMnmqQUag9i",
+  "followers": {
+    "href": null,
+    "total": 172
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc1b3b4902a33a3150c109c1f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c1b3b4902a33a3150c109c1f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c1b3b4902a33a3150c109c1f",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/63pNQwY29jhgMnmqQUag9i"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "3kTkuBdbCnFfv79Ok4e15z",
+  "name": "Nivelles",
+  "uri": "spotify:artist:3kTkuBdbCnFfv79Ok4e15z",
+  "followers": {
+    "href": null,
+    "total": 4806
+  },
+  "genres": [
+    "cdmx indie",
+    "mexican indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb53b8c33dd48804fb2dc3911a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517453b8c33dd48804fb2dc3911a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17853b8c33dd48804fb2dc3911a",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3kTkuBdbCnFfv79Ok4e15z"
+  }
+}

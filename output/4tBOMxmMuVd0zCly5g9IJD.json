@@ -1,0 +1,33 @@
+{
+  "id": "4tBOMxmMuVd0zCly5g9IJD",
+  "name": "Apogee",
+  "uri": "spotify:artist:4tBOMxmMuVd0zCly5g9IJD",
+  "followers": {
+    "href": null,
+    "total": 361
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e221d9b6225f7f6fa44f6d5e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e221d9b6225f7f6fa44f6d5e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e221d9b6225f7f6fa44f6d5e",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4tBOMxmMuVd0zCly5g9IJD"
+  }
+}

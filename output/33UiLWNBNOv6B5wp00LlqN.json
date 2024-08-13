@@ -1,0 +1,33 @@
+{
+  "id": "33UiLWNBNOv6B5wp00LlqN",
+  "name": "ProbableBaby",
+  "uri": "spotify:artist:33UiLWNBNOv6B5wp00LlqN",
+  "followers": {
+    "href": null,
+    "total": 119
+  },
+  "genres": [
+    "plugg en espanol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba2d17f97ab4b24141a83241f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a2d17f97ab4b24141a83241f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a2d17f97ab4b24141a83241f",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/33UiLWNBNOv6B5wp00LlqN"
+  }
+}

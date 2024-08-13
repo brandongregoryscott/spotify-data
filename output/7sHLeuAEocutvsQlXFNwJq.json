@@ -1,0 +1,33 @@
+{
+  "id": "7sHLeuAEocutvsQlXFNwJq",
+  "name": "window",
+  "uri": "spotify:artist:7sHLeuAEocutvsQlXFNwJq",
+  "followers": {
+    "href": null,
+    "total": 85
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb894ec17bee3fae669b6c5bf7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174894ec17bee3fae669b6c5bf7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178894ec17bee3fae669b6c5bf7",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7sHLeuAEocutvsQlXFNwJq"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1O3MGm6eXMWdYsj69zePfU",
+  "name": "Oak Street Blues",
+  "uri": "spotify:artist:1O3MGm6eXMWdYsj69zePfU",
+  "followers": {
+    "href": null,
+    "total": 441
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e546eac3e3671805672298fb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e546eac3e3671805672298fb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e546eac3e3671805672298fb",
+      "width": 64
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1O3MGm6eXMWdYsj69zePfU"
+  }
+}

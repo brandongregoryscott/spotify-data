@@ -1,0 +1,33 @@
+{
+  "id": "6p22KYgStYEnkuotPXbTOD",
+  "name": "Max Berru",
+  "uri": "spotify:artist:6p22KYgStYEnkuotPXbTOD",
+  "followers": {
+    "href": null,
+    "total": 1768
+  },
+  "genres": [
+    "nueva cancion"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d6abae4e29209714b407a1fe",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d6abae4e29209714b407a1fe",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d6abae4e29209714b407a1fe",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6p22KYgStYEnkuotPXbTOD"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6q8CPuf8PaE5fvf6WMEldG",
+  "name": "Parker Ryan",
+  "uri": "spotify:artist:6q8CPuf8PaE5fvf6WMEldG",
+  "followers": {
+    "href": null,
+    "total": 6796
+  },
+  "genres": [
+    "red dirt"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb33007e61d425e8a5b63799aa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517433007e61d425e8a5b63799aa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17833007e61d425e8a5b63799aa",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6q8CPuf8PaE5fvf6WMEldG"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "22WZ7M8sxp5THdruNY3gXt",
+  "name": "The Doors",
+  "uri": "spotify:artist:22WZ7M8sxp5THdruNY3gXt",
+  "followers": {
+    "href": null,
+    "total": 8007088
+  },
+  "genres": [
+    "acid rock",
+    "album rock",
+    "classic rock",
+    "hard rock",
+    "psychedelic rock",
+    "rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb440959e022afc20e819050bd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174440959e022afc20e819050bd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178440959e022afc20e819050bd",
+      "width": 160
+    }
+  ],
+  "popularity": 73,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+  }
+}

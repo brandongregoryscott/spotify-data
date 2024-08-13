@@ -1,0 +1,33 @@
+{
+  "id": "2OuMJi8hel7QXQIvOb3gqP",
+  "name": "Aija Puurtinen",
+  "uri": "spotify:artist:2OuMJi8hel7QXQIvOb3gqP",
+  "followers": {
+    "href": null,
+    "total": 164
+  },
+  "genres": [
+    "finnish blues"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d84de6f05dbd9f223b66260a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d84de6f05dbd9f223b66260a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d84de6f05dbd9f223b66260a",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2OuMJi8hel7QXQIvOb3gqP"
+  }
+}

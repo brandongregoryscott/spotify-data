@@ -1,0 +1,33 @@
+{
+  "id": "0xP5DJaYjqU3oTOPbP7Skt",
+  "name": "iKeda",
+  "uri": "spotify:artist:0xP5DJaYjqU3oTOPbP7Skt",
+  "followers": {
+    "href": null,
+    "total": 203
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebee0a042812431864c1a885a8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ee0a042812431864c1a885a8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ee0a042812431864c1a885a8",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0xP5DJaYjqU3oTOPbP7Skt"
+  }
+}

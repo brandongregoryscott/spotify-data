@@ -1,0 +1,33 @@
+{
+  "id": "2pyhqBRwNtetqduSFHxaUX",
+  "name": "Adam Chia",
+  "uri": "spotify:artist:2pyhqBRwNtetqduSFHxaUX",
+  "followers": {
+    "href": null,
+    "total": 1017
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb71da12f6ff63e6c746918bd2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517471da12f6ff63e6c746918bd2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17871da12f6ff63e6c746918bd2",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2pyhqBRwNtetqduSFHxaUX"
+  }
+}

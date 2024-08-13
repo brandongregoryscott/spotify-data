@@ -1,0 +1,33 @@
+{
+  "id": "3ItYFOck10exFSS6aJMegS",
+  "name": "Andrew Gerle",
+  "uri": "spotify:artist:3ItYFOck10exFSS6aJMegS",
+  "followers": {
+    "href": null,
+    "total": 111
+  },
+  "genres": [
+    "electro swing"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e9d6d24b67920f55bfe6a5ee",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e9d6d24b67920f55bfe6a5ee",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e9d6d24b67920f55bfe6a5ee",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3ItYFOck10exFSS6aJMegS"
+  }
+}

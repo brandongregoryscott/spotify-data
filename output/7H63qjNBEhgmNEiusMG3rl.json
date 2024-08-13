@@ -1,0 +1,33 @@
+{
+  "id": "7H63qjNBEhgmNEiusMG3rl",
+  "name": "The Stan Laurels",
+  "uri": "spotify:artist:7H63qjNBEhgmNEiusMG3rl",
+  "followers": {
+    "href": null,
+    "total": 177
+  },
+  "genres": [
+    "modern power pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaa04ecad087bb223621777e8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aa04ecad087bb223621777e8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aa04ecad087bb223621777e8",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7H63qjNBEhgmNEiusMG3rl"
+  }
+}

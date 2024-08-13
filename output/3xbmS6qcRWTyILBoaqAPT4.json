@@ -1,0 +1,33 @@
+{
+  "id": "3xbmS6qcRWTyILBoaqAPT4",
+  "name": "ANIMA!",
+  "uri": "spotify:artist:3xbmS6qcRWTyILBoaqAPT4",
+  "followers": {
+    "href": null,
+    "total": 43486
+  },
+  "genres": [
+    "vapor soul"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfbe12feb07a6da3cb35ed4f9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fbe12feb07a6da3cb35ed4f9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fbe12feb07a6da3cb35ed4f9",
+      "width": 160
+    }
+  ],
+  "popularity": 34,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3xbmS6qcRWTyILBoaqAPT4"
+  }
+}

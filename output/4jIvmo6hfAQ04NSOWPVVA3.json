@@ -1,0 +1,34 @@
+{
+  "id": "4jIvmo6hfAQ04NSOWPVVA3",
+  "name": "кис-кис",
+  "uri": "spotify:artist:4jIvmo6hfAQ04NSOWPVVA3",
+  "followers": {
+    "href": null,
+    "total": 384614
+  },
+  "genres": [
+    "russian alt pop",
+    "russian punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb43dd14d2932610afc6d9fedd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517443dd14d2932610afc6d9fedd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17843dd14d2932610afc6d9fedd",
+      "width": 160
+    }
+  ],
+  "popularity": 45,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4jIvmo6hfAQ04NSOWPVVA3"
+  }
+}

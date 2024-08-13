@@ -1,0 +1,33 @@
+{
+  "id": "2C8OHYBlfYtYL41ByYccqt",
+  "name": "Norm Regular",
+  "uri": "spotify:artist:2C8OHYBlfYtYL41ByYccqt",
+  "followers": {
+    "href": null,
+    "total": 143
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb78ab4d831caacd6284bc456",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b78ab4d831caacd6284bc456",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b78ab4d831caacd6284bc456",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2C8OHYBlfYtYL41ByYccqt"
+  }
+}

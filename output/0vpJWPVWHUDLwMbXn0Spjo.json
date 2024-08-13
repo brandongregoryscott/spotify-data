@@ -1,0 +1,33 @@
+{
+  "id": "0vpJWPVWHUDLwMbXn0Spjo",
+  "name": "Pietari",
+  "uri": "spotify:artist:0vpJWPVWHUDLwMbXn0Spjo",
+  "followers": {
+    "href": null,
+    "total": 906
+  },
+  "genres": [
+    "suomirap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a2e2856cec7f90f396f16678",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a2e2856cec7f90f396f16678",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a2e2856cec7f90f396f16678",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0vpJWPVWHUDLwMbXn0Spjo"
+  }
+}

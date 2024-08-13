@@ -1,0 +1,33 @@
+{
+  "id": "5ipR4LsmqFloUQGMMrwllu",
+  "name": "Sabaré",
+  "uri": "spotify:artist:5ipR4LsmqFloUQGMMrwllu",
+  "followers": {
+    "href": null,
+    "total": 208
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb26dad91391c6b2630d12aba0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517426dad91391c6b2630d12aba0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17826dad91391c6b2630d12aba0",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ipR4LsmqFloUQGMMrwllu"
+  }
+}

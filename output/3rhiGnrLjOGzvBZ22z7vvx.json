@@ -1,0 +1,33 @@
+{
+  "id": "3rhiGnrLjOGzvBZ22z7vvx",
+  "name": "RIDGE",
+  "uri": "spotify:artist:3rhiGnrLjOGzvBZ22z7vvx",
+  "followers": {
+    "href": null,
+    "total": 192
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273954c5fcd21f16b7d04229f8a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02954c5fcd21f16b7d04229f8a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851954c5fcd21f16b7d04229f8a",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3rhiGnrLjOGzvBZ22z7vvx"
+  }
+}

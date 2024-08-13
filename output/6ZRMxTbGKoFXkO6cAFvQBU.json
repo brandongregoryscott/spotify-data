@@ -1,0 +1,33 @@
+{
+  "id": "6ZRMxTbGKoFXkO6cAFvQBU",
+  "name": "Siamm",
+  "uri": "spotify:artist:6ZRMxTbGKoFXkO6cAFvQBU",
+  "followers": {
+    "href": null,
+    "total": 140
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273907d564fb9d174d95b940582",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02907d564fb9d174d95b940582",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851907d564fb9d174d95b940582",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ZRMxTbGKoFXkO6cAFvQBU"
+  }
+}

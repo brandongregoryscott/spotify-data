@@ -1,0 +1,33 @@
+{
+  "id": "5p9dF5AQfawZA0BHt5fPov",
+  "name": "BWK Project",
+  "uri": "spotify:artist:5p9dF5AQfawZA0BHt5fPov",
+  "followers": {
+    "href": null,
+    "total": 323
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc7d5951f5fc2359412deb4e9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c7d5951f5fc2359412deb4e9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c7d5951f5fc2359412deb4e9",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5p9dF5AQfawZA0BHt5fPov"
+  }
+}

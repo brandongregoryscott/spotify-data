@@ -1,0 +1,33 @@
+{
+  "id": "2VYoHhKjrEHwKRBNLTFSM9",
+  "name": "RED ZONE",
+  "uri": "spotify:artist:2VYoHhKjrEHwKRBNLTFSM9",
+  "followers": {
+    "href": null,
+    "total": 88
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273873b649ca02fd3d49709cc97",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02873b649ca02fd3d49709cc97",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851873b649ca02fd3d49709cc97",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2VYoHhKjrEHwKRBNLTFSM9"
+  }
+}

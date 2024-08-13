@@ -1,0 +1,33 @@
+{
+  "id": "0kooz4r3mifNciGIKviwps",
+  "name": "Sequin Sun",
+  "uri": "spotify:artist:0kooz4r3mifNciGIKviwps",
+  "followers": {
+    "href": null,
+    "total": 45
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdb3d6fb39820f3061dbfb3cc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174db3d6fb39820f3061dbfb3cc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178db3d6fb39820f3061dbfb3cc",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0kooz4r3mifNciGIKviwps"
+  }
+}

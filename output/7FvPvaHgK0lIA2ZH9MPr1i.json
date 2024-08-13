@@ -1,0 +1,33 @@
+{
+  "id": "7FvPvaHgK0lIA2ZH9MPr1i",
+  "name": "jarek rzeznik",
+  "uri": "spotify:artist:7FvPvaHgK0lIA2ZH9MPr1i",
+  "followers": {
+    "href": null,
+    "total": 113
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb10de901fa4fd1c875cfe8aaa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517410de901fa4fd1c875cfe8aaa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17810de901fa4fd1c875cfe8aaa",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7FvPvaHgK0lIA2ZH9MPr1i"
+  }
+}

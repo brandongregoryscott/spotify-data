@@ -1,0 +1,33 @@
+{
+  "id": "5yDRjqgqsiOwfPpqbNMaoM",
+  "name": "Randal",
+  "uri": "spotify:artist:5yDRjqgqsiOwfPpqbNMaoM",
+  "followers": {
+    "href": null,
+    "total": 137
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27387d7c82525d9e11599959062",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0287d7c82525d9e11599959062",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485187d7c82525d9e11599959062",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5yDRjqgqsiOwfPpqbNMaoM"
+  }
+}

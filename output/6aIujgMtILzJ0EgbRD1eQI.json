@@ -1,0 +1,34 @@
+{
+  "id": "6aIujgMtILzJ0EgbRD1eQI",
+  "name": "Sir Charles Thompson",
+  "uri": "spotify:artist:6aIujgMtILzJ0EgbRD1eQI",
+  "followers": {
+    "href": null,
+    "total": 403
+  },
+  "genres": [
+    "jazz organ",
+    "stride"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732512b0ac72a6375cbef4506e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022512b0ac72a6375cbef4506e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512512b0ac72a6375cbef4506e",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6aIujgMtILzJ0EgbRD1eQI"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5im0WmDRKpvR8acSGhOOq6",
+  "name": "박기영",
+  "uri": "spotify:artist:5im0WmDRKpvR8acSGhOOq6",
+  "followers": {
+    "href": null,
+    "total": 1078
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d131482f24e9c940f4be43be",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d131482f24e9c940f4be43be",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d131482f24e9c940f4be43be",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5im0WmDRKpvR8acSGhOOq6"
+  }
+}

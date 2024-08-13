@@ -1,0 +1,33 @@
+{
+  "id": "3Ar7emfVmaAKexdr4Fm6XS",
+  "name": "Hiyimi",
+  "uri": "spotify:artist:3Ar7emfVmaAKexdr4Fm6XS",
+  "followers": {
+    "href": null,
+    "total": 223
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb54c0146ba5344ffc1561075f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517454c0146ba5344ffc1561075f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17854c0146ba5344ffc1561075f",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Ar7emfVmaAKexdr4Fm6XS"
+  }
+}

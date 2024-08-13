@@ -1,0 +1,33 @@
+{
+  "id": "6BxESzpyWtDdH13x71TUYc",
+  "name": "Edgar Allan Pop",
+  "uri": "spotify:artist:6BxESzpyWtDdH13x71TUYc",
+  "followers": {
+    "href": null,
+    "total": 156
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc2da8fd81bae109fc3905be2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c2da8fd81bae109fc3905be2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c2da8fd81bae109fc3905be2",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6BxESzpyWtDdH13x71TUYc"
+  }
+}

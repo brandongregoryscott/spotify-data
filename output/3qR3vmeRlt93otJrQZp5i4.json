@@ -1,0 +1,33 @@
+{
+  "id": "3qR3vmeRlt93otJrQZp5i4",
+  "name": "Dúo Negro y Blanco",
+  "uri": "spotify:artist:3qR3vmeRlt93otJrQZp5i4",
+  "followers": {
+    "href": null,
+    "total": 255
+  },
+  "genres": [
+    "indie boliviano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bdb9dda6312228581233e5fe",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bdb9dda6312228581233e5fe",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bdb9dda6312228581233e5fe",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3qR3vmeRlt93otJrQZp5i4"
+  }
+}

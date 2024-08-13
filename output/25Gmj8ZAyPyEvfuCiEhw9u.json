@@ -1,0 +1,33 @@
+{
+  "id": "25Gmj8ZAyPyEvfuCiEhw9u",
+  "name": "Danny",
+  "uri": "spotify:artist:25Gmj8ZAyPyEvfuCiEhw9u",
+  "followers": {
+    "href": null,
+    "total": 871
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebda82b975f6b74a500071d159",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174da82b975f6b74a500071d159",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178da82b975f6b74a500071d159",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/25Gmj8ZAyPyEvfuCiEhw9u"
+  }
+}

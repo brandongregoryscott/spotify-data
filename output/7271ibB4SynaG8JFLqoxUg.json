@@ -1,0 +1,33 @@
+{
+  "id": "7271ibB4SynaG8JFLqoxUg",
+  "name": "X4",
+  "uri": "spotify:artist:7271ibB4SynaG8JFLqoxUg",
+  "followers": {
+    "href": null,
+    "total": 10069
+  },
+  "genres": [
+    "westcoast flow"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273da276cfbcbeb46dc7dede0bc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02da276cfbcbeb46dc7dede0bc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851da276cfbcbeb46dc7dede0bc",
+      "width": 64
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7271ibB4SynaG8JFLqoxUg"
+  }
+}

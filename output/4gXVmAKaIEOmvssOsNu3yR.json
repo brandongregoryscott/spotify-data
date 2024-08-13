@@ -1,0 +1,34 @@
+{
+  "id": "4gXVmAKaIEOmvssOsNu3yR",
+  "name": "People, Places, Maps",
+  "uri": "spotify:artist:4gXVmAKaIEOmvssOsNu3yR",
+  "followers": {
+    "href": null,
+    "total": 791
+  },
+  "genres": [
+    "scottish hush",
+    "scottish rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d7550c9f33a844b4517ff4e9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d7550c9f33a844b4517ff4e9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d7550c9f33a844b4517ff4e9",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4gXVmAKaIEOmvssOsNu3yR"
+  }
+}

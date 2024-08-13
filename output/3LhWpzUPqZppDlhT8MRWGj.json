@@ -1,0 +1,33 @@
+{
+  "id": "3LhWpzUPqZppDlhT8MRWGj",
+  "name": "Lyle",
+  "uri": "spotify:artist:3LhWpzUPqZppDlhT8MRWGj",
+  "followers": {
+    "href": null,
+    "total": 166
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736285e8134529171a549ae0cd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026285e8134529171a549ae0cd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516285e8134529171a549ae0cd",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3LhWpzUPqZppDlhT8MRWGj"
+  }
+}

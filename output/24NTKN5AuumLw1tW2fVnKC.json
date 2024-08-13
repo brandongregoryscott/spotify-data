@@ -1,0 +1,33 @@
+{
+  "id": "24NTKN5AuumLw1tW2fVnKC",
+  "name": "Clayface",
+  "uri": "spotify:artist:24NTKN5AuumLw1tW2fVnKC",
+  "followers": {
+    "href": null,
+    "total": 278
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb17055b6953803b69de2b4fee",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517417055b6953803b69de2b4fee",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17817055b6953803b69de2b4fee",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/24NTKN5AuumLw1tW2fVnKC"
+  }
+}

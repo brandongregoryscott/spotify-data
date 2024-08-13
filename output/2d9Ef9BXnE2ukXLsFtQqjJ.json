@@ -1,0 +1,33 @@
+{
+  "id": "2d9Ef9BXnE2ukXLsFtQqjJ",
+  "name": "surf",
+  "uri": "spotify:artist:2d9Ef9BXnE2ukXLsFtQqjJ",
+  "followers": {
+    "href": null,
+    "total": 94
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732826a2f10e3507e6d676f822",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021cc6465f5af3c60ebc914d7d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512826a2f10e3507e6d676f822",
+      "width": 64
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2d9Ef9BXnE2ukXLsFtQqjJ"
+  }
+}

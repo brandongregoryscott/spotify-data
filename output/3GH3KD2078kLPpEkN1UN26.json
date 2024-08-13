@@ -1,0 +1,34 @@
+{
+  "id": "3GH3KD2078kLPpEkN1UN26",
+  "name": "Lil June",
+  "uri": "spotify:artist:3GH3KD2078kLPpEkN1UN26",
+  "followers": {
+    "href": null,
+    "total": 27866
+  },
+  "genres": [
+    "cali rap",
+    "punta rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731fb5004f215cfcdb8d80ff0e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021fb5004f215cfcdb8d80ff0e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511fb5004f215cfcdb8d80ff0e",
+      "width": 64
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3GH3KD2078kLPpEkN1UN26"
+  }
+}

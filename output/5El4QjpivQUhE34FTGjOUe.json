@@ -1,0 +1,33 @@
+{
+  "id": "5El4QjpivQUhE34FTGjOUe",
+  "name": "Seukol",
+  "uri": "spotify:artist:5El4QjpivQUhE34FTGjOUe",
+  "followers": {
+    "href": null,
+    "total": 181
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8cf3ca08a44026b4774d58a7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051748cf3ca08a44026b4774d58a7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1788cf3ca08a44026b4774d58a7",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5El4QjpivQUhE34FTGjOUe"
+  }
+}

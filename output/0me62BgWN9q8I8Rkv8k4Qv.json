@@ -1,0 +1,35 @@
+{
+  "id": "0me62BgWN9q8I8Rkv8k4Qv",
+  "name": "Typical Cats",
+  "uri": "spotify:artist:0me62BgWN9q8I8Rkv8k4Qv",
+  "followers": {
+    "href": null,
+    "total": 18569
+  },
+  "genres": [
+    "abstract hip hop",
+    "jazz rap",
+    "underground rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27383863b2ae9e669859b9e440d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0283863b2ae9e669859b9e440d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485183863b2ae9e669859b9e440d",
+      "width": 64
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0me62BgWN9q8I8Rkv8k4Qv"
+  }
+}

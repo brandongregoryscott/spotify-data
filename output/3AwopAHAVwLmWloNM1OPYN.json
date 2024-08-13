@@ -1,0 +1,33 @@
+{
+  "id": "3AwopAHAVwLmWloNM1OPYN",
+  "name": "Apparition",
+  "uri": "spotify:artist:3AwopAHAVwLmWloNM1OPYN",
+  "followers": {
+    "href": null,
+    "total": 351
+  },
+  "genres": [
+    "fallen angel"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273564827b444f7df77b3f30699",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02564827b444f7df77b3f30699",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851564827b444f7df77b3f30699",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3AwopAHAVwLmWloNM1OPYN"
+  }
+}

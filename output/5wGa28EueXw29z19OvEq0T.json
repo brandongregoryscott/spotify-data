@@ -1,0 +1,33 @@
+{
+  "id": "5wGa28EueXw29z19OvEq0T",
+  "name": "The Neuro Farm",
+  "uri": "spotify:artist:5wGa28EueXw29z19OvEq0T",
+  "followers": {
+    "href": null,
+    "total": 883
+  },
+  "genres": [
+    "dc indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc14fb4c8fe06eaed760ab1b9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c14fb4c8fe06eaed760ab1b9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c14fb4c8fe06eaed760ab1b9",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5wGa28EueXw29z19OvEq0T"
+  }
+}

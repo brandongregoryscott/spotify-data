@@ -1,0 +1,33 @@
+{
+  "id": "5Awot47rEOD73lmeVatU2U",
+  "name": "Minista",
+  "uri": "spotify:artist:5Awot47rEOD73lmeVatU2U",
+  "followers": {
+    "href": null,
+    "total": 5292
+  },
+  "genres": [
+    "2-step"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb90e0b4e005806244d6597159",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517490e0b4e005806244d6597159",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17890e0b4e005806244d6597159",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Awot47rEOD73lmeVatU2U"
+  }
+}

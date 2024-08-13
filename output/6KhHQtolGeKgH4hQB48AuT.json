@@ -1,0 +1,33 @@
+{
+  "id": "6KhHQtolGeKgH4hQB48AuT",
+  "name": "Spesialisti",
+  "uri": "spotify:artist:6KhHQtolGeKgH4hQB48AuT",
+  "followers": {
+    "href": null,
+    "total": 681
+  },
+  "genres": [
+    "suomirap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273edd0fb33c3d6753f2b58ab37",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02edd0fb33c3d6753f2b58ab37",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851edd0fb33c3d6753f2b58ab37",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6KhHQtolGeKgH4hQB48AuT"
+  }
+}

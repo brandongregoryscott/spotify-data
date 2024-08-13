@@ -1,0 +1,33 @@
+{
+  "id": "3l0MJsYtGAgUr045qBu0LH",
+  "name": "Just",
+  "uri": "spotify:artist:3l0MJsYtGAgUr045qBu0LH",
+  "followers": {
+    "href": null,
+    "total": 137
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb10d16528b0f239d10d8decab",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517410d16528b0f239d10d8decab",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17810d16528b0f239d10d8decab",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3l0MJsYtGAgUr045qBu0LH"
+  }
+}

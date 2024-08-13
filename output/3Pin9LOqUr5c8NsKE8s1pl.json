@@ -1,0 +1,33 @@
+{
+  "id": "3Pin9LOqUr5c8NsKE8s1pl",
+  "name": "Ari Borger",
+  "uri": "spotify:artist:3Pin9LOqUr5c8NsKE8s1pl",
+  "followers": {
+    "href": null,
+    "total": 967
+  },
+  "genres": [
+    "brazilian blues"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27370c9f7f6b9c63fa372d2439d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0270c9f7f6b9c63fa372d2439d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485170c9f7f6b9c63fa372d2439d",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Pin9LOqUr5c8NsKE8s1pl"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3eEPtgROSVNpGwjSyxjuue",
+  "name": "Help",
+  "uri": "spotify:artist:3eEPtgROSVNpGwjSyxjuue",
+  "followers": {
+    "href": null,
+    "total": 2185
+  },
+  "genres": [
+    "modern noise rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba054895cc267b682330df0e3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a054895cc267b682330df0e3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a054895cc267b682330df0e3",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3eEPtgROSVNpGwjSyxjuue"
+  }
+}

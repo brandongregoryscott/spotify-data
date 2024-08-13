@@ -1,0 +1,33 @@
+{
+  "id": "72iXeoizXqiI2UK2Omdp4j",
+  "name": "Leo Chase",
+  "uri": "spotify:artist:72iXeoizXqiI2UK2Omdp4j",
+  "followers": {
+    "href": null,
+    "total": 56
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273faf94995bcaf286d28e354d1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02faf94995bcaf286d28e354d1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851faf94995bcaf286d28e354d1",
+      "width": 64
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/72iXeoizXqiI2UK2Omdp4j"
+  }
+}

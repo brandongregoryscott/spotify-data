@@ -1,0 +1,33 @@
+{
+  "id": "2sngdu3B3WLqIsadMhHDa2",
+  "name": "Sujoground",
+  "uri": "spotify:artist:2sngdu3B3WLqIsadMhHDa2",
+  "followers": {
+    "href": null,
+    "total": 902
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfcd464737cabf53bff26b5f4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fcd464737cabf53bff26b5f4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fcd464737cabf53bff26b5f4",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2sngdu3B3WLqIsadMhHDa2"
+  }
+}

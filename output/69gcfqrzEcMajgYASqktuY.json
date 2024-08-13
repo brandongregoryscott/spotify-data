@@ -1,0 +1,33 @@
+{
+  "id": "69gcfqrzEcMajgYASqktuY",
+  "name": "ADR-EX",
+  "uri": "spotify:artist:69gcfqrzEcMajgYASqktuY",
+  "followers": {
+    "href": null,
+    "total": 9
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738d38a98fd489e6f8a3b90d52",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028d38a98fd489e6f8a3b90d52",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518d38a98fd489e6f8a3b90d52",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/69gcfqrzEcMajgYASqktuY"
+  }
+}

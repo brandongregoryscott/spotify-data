@@ -1,0 +1,33 @@
+{
+  "id": "3eX0GbRz7aPVh5lV5brMxA",
+  "name": "AG Bugg",
+  "uri": "spotify:artist:3eX0GbRz7aPVh5lV5brMxA",
+  "followers": {
+    "href": null,
+    "total": 98
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f8ad32e8afec135672711dff",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f8ad32e8afec135672711dff",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f8ad32e8afec135672711dff",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3eX0GbRz7aPVh5lV5brMxA"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "2an1GKmmTWuqY8N1GYBk1t",
+  "name": "The Well",
+  "uri": "spotify:artist:2an1GKmmTWuqY8N1GYBk1t",
+  "followers": {
+    "href": null,
+    "total": 20822
+  },
+  "genres": [
+    "austin metal",
+    "austin rock",
+    "psychedelic doom",
+    "retro metal",
+    "stoner metal",
+    "stoner rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb143f78b76e19c5c489758123",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174143f78b76e19c5c489758123",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178143f78b76e19c5c489758123",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2an1GKmmTWuqY8N1GYBk1t"
+  }
+}

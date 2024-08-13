@@ -1,0 +1,33 @@
+{
+  "id": "4TP7wJaiBDD2uKwMHZ2pwR",
+  "name": "Ryan Bourne",
+  "uri": "spotify:artist:4TP7wJaiBDD2uKwMHZ2pwR",
+  "followers": {
+    "href": null,
+    "total": 230
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfcdda8a9e36e03be1c9636b0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fcdda8a9e36e03be1c9636b0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fcdda8a9e36e03be1c9636b0",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4TP7wJaiBDD2uKwMHZ2pwR"
+  }
+}

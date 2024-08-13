@@ -1,0 +1,33 @@
+{
+  "id": "2FRBBR1hNQJsqAevgSDvRM",
+  "name": "Ryan Shore",
+  "uri": "spotify:artist:2FRBBR1hNQJsqAevgSDvRM",
+  "followers": {
+    "href": null,
+    "total": 499
+  },
+  "genres": [
+    "canadian soundtrack"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27373530cf3c7ebdfedc07f9bbf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0273530cf3c7ebdfedc07f9bbf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485188ece38a96c1292fd7ec62b5",
+      "width": 64
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2FRBBR1hNQJsqAevgSDvRM"
+  }
+}

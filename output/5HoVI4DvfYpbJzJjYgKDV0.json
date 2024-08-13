@@ -1,0 +1,33 @@
+{
+  "id": "5HoVI4DvfYpbJzJjYgKDV0",
+  "name": "Carlos Elliot",
+  "uri": "spotify:artist:5HoVI4DvfYpbJzJjYgKDV0",
+  "followers": {
+    "href": null,
+    "total": 797
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcb34fee0343d50c26fac748a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cb34fee0343d50c26fac748a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cb34fee0343d50c26fac748a",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5HoVI4DvfYpbJzJjYgKDV0"
+  }
+}

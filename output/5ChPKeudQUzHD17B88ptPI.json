@@ -1,0 +1,33 @@
+{
+  "id": "5ChPKeudQUzHD17B88ptPI",
+  "name": "The Mocking Byrds",
+  "uri": "spotify:artist:5ChPKeudQUzHD17B88ptPI",
+  "followers": {
+    "href": null,
+    "total": 119
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb54e437a6b889c922b7ab1a14",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517454e437a6b889c922b7ab1a14",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17854e437a6b889c922b7ab1a14",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ChPKeudQUzHD17B88ptPI"
+  }
+}

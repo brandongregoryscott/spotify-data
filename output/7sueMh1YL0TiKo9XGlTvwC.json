@@ -1,0 +1,33 @@
+{
+  "id": "7sueMh1YL0TiKo9XGlTvwC",
+  "name": "REGO",
+  "uri": "spotify:artist:7sueMh1YL0TiKo9XGlTvwC",
+  "followers": {
+    "href": null,
+    "total": 242
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273aad6ad765191bc0f6c44d55e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02aad6ad765191bc0f6c44d55e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514bdf28dbf87bfdabaf2d1b4b",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7sueMh1YL0TiKo9XGlTvwC"
+  }
+}

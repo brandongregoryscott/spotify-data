@@ -1,0 +1,33 @@
+{
+  "id": "1JvwLXLDudWNAjPfgFe6mY",
+  "name": "The True Reflection",
+  "uri": "spotify:artist:1JvwLXLDudWNAjPfgFe6mY",
+  "followers": {
+    "href": null,
+    "total": 984
+  },
+  "genres": [
+    "classic soul"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731650fd0845aba12e7034ea2d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021650fd0845aba12e7034ea2d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511650fd0845aba12e7034ea2d",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1JvwLXLDudWNAjPfgFe6mY"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "4bIs19bufrqoWWjNJyatyF",
+  "name": "Lucas",
+  "uri": "spotify:artist:4bIs19bufrqoWWjNJyatyF",
+  "followers": {
+    "href": null,
+    "total": 14375
+  },
+  "genres": [
+    "finnish dance pop",
+    "finnish hip hop",
+    "finnish pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb95b499f92ea1f78ba03e81fc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517495b499f92ea1f78ba03e81fc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17895b499f92ea1f78ba03e81fc",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4bIs19bufrqoWWjNJyatyF"
+  }
+}

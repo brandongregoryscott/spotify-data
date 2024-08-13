@@ -1,0 +1,33 @@
+{
+  "id": "2cBsRl2uTWPB0ye5KbEasB",
+  "name": "Od3y",
+  "uri": "spotify:artist:2cBsRl2uTWPB0ye5KbEasB",
+  "followers": {
+    "href": null,
+    "total": 167
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273db6ed5dec6b26eec08ffb12e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02db6ed5dec6b26eec08ffb12e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851db6ed5dec6b26eec08ffb12e",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2cBsRl2uTWPB0ye5KbEasB"
+  }
+}

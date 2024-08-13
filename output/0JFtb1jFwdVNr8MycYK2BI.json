@@ -1,0 +1,33 @@
+{
+  "id": "0JFtb1jFwdVNr8MycYK2BI",
+  "name": "Nerlov",
+  "uri": "spotify:artist:0JFtb1jFwdVNr8MycYK2BI",
+  "followers": {
+    "href": null,
+    "total": 1650
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe6b4eb483365a9dd331e323d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e6b4eb483365a9dd331e323d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e6b4eb483365a9dd331e323d",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI"
+  }
+}

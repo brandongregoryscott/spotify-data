@@ -1,0 +1,33 @@
+{
+  "id": "1NV9pr2UIhwxfHduW2HdbA",
+  "name": "ArtifexLV",
+  "uri": "spotify:artist:1NV9pr2UIhwxfHduW2HdbA",
+  "followers": {
+    "href": null,
+    "total": 84
+  },
+  "genres": [
+    "latvian pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7f65fbfdafa979f7a619bc25",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051747f65fbfdafa979f7a619bc25",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1787f65fbfdafa979f7a619bc25",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1NV9pr2UIhwxfHduW2HdbA"
+  }
+}

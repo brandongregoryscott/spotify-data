@@ -1,0 +1,33 @@
+{
+  "id": "6V0ldh5u1xcAVzwr17BYQL",
+  "name": "The Wright Ave",
+  "uri": "spotify:artist:6V0ldh5u1xcAVzwr17BYQL",
+  "followers": {
+    "href": null,
+    "total": 262
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6814059d7f56f50ae620f48f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051746814059d7f56f50ae620f48f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1786814059d7f56f50ae620f48f",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6V0ldh5u1xcAVzwr17BYQL"
+  }
+}

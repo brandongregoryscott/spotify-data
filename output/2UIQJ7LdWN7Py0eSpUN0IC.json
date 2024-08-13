@@ -1,0 +1,33 @@
+{
+  "id": "2UIQJ7LdWN7Py0eSpUN0IC",
+  "name": "The Experience",
+  "uri": "spotify:artist:2UIQJ7LdWN7Py0eSpUN0IC",
+  "followers": {
+    "href": null,
+    "total": 302
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739754e2f4fa678862b9849108",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029754e2f4fa678862b9849108",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519754e2f4fa678862b9849108",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2UIQJ7LdWN7Py0eSpUN0IC"
+  }
+}

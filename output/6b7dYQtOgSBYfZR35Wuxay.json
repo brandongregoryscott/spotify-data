@@ -1,0 +1,33 @@
+{
+  "id": "6b7dYQtOgSBYfZR35Wuxay",
+  "name": "Cool C",
+  "uri": "spotify:artist:6b7dYQtOgSBYfZR35Wuxay",
+  "followers": {
+    "href": null,
+    "total": 8877
+  },
+  "genres": [
+    "philly rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733901203fbf74f8cc744d6df7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023901203fbf74f8cc744d6df7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513901203fbf74f8cc744d6df7",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6b7dYQtOgSBYfZR35Wuxay"
+  }
+}

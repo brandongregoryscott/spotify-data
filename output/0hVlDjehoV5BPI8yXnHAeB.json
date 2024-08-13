@@ -1,0 +1,33 @@
+{
+  "id": "0hVlDjehoV5BPI8yXnHAeB",
+  "name": "HRMN",
+  "uri": "spotify:artist:0hVlDjehoV5BPI8yXnHAeB",
+  "followers": {
+    "href": null,
+    "total": 402
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb31daa114073afe95912a3b72",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517431daa114073afe95912a3b72",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17831daa114073afe95912a3b72",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0hVlDjehoV5BPI8yXnHAeB"
+  }
+}

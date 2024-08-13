@@ -1,0 +1,36 @@
+{
+  "id": "6ElgoHFh30ap09Koe8jf7C",
+  "name": "Chez Damier",
+  "uri": "spotify:artist:6ElgoHFh30ap09Koe8jf7C",
+  "followers": {
+    "href": null,
+    "total": 18975
+  },
+  "genres": [
+    "chicago house",
+    "classic house",
+    "detroit house",
+    "techno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273128b889533d1c3cf8227d618",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02128b889533d1c3cf8227d618",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851128b889533d1c3cf8227d618",
+      "width": 64
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
+  }
+}

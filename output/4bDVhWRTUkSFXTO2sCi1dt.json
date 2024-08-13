@@ -1,0 +1,33 @@
+{
+  "id": "4bDVhWRTUkSFXTO2sCi1dt",
+  "name": "Maquillage",
+  "uri": "spotify:artist:4bDVhWRTUkSFXTO2sCi1dt",
+  "followers": {
+    "href": null,
+    "total": 96
+  },
+  "genres": [
+    "italogaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebabf8a25e5d4658e5f4799bd2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174abf8a25e5d4658e5f4799bd2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178abf8a25e5d4658e5f4799bd2",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4bDVhWRTUkSFXTO2sCi1dt"
+  }
+}

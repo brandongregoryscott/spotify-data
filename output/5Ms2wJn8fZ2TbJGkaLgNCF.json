@@ -1,0 +1,33 @@
+{
+  "id": "5Ms2wJn8fZ2TbJGkaLgNCF",
+  "name": "Tvärvägen",
+  "uri": "spotify:artist:5Ms2wJn8fZ2TbJGkaLgNCF",
+  "followers": {
+    "href": null,
+    "total": 3793
+  },
+  "genres": [
+    "swedish indie folk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb35e793c735bc56aeac4885c0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517435e793c735bc56aeac4885c0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17835e793c735bc56aeac4885c0",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Ms2wJn8fZ2TbJGkaLgNCF"
+  }
+}

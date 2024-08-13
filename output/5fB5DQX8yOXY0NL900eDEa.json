@@ -1,0 +1,33 @@
+{
+  "id": "5fB5DQX8yOXY0NL900eDEa",
+  "name": "Seven Seventy",
+  "uri": "spotify:artist:5fB5DQX8yOXY0NL900eDEa",
+  "followers": {
+    "href": null,
+    "total": 178
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf9aac5508e6995cd557b6885",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f9aac5508e6995cd557b6885",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f9aac5508e6995cd557b6885",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5fB5DQX8yOXY0NL900eDEa"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0Hym3BdvmzK9EbqKS4u1ST",
+  "name": "Dub Cat",
+  "uri": "spotify:artist:0Hym3BdvmzK9EbqKS4u1ST",
+  "followers": {
+    "href": null,
+    "total": 72
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a1c5119bf938800ed02b8cdf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a1c5119bf938800ed02b8cdf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a1c5119bf938800ed02b8cdf",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Hym3BdvmzK9EbqKS4u1ST"
+  }
+}

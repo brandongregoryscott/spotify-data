@@ -1,0 +1,33 @@
+{
+  "id": "2XG5VTvS73zWLKstJQySXC",
+  "name": "Astral Flex",
+  "uri": "spotify:artist:2XG5VTvS73zWLKstJQySXC",
+  "followers": {
+    "href": null,
+    "total": 222
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbce25c3267fead6e3059b249",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bce25c3267fead6e3059b249",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bce25c3267fead6e3059b249",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2XG5VTvS73zWLKstJQySXC"
+  }
+}

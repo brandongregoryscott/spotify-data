@@ -1,0 +1,33 @@
+{
+  "id": "6QgDTakZvh0QTwvOA8ilQp",
+  "name": "Jesse Sheppard",
+  "uri": "spotify:artist:6QgDTakZvh0QTwvOA8ilQp",
+  "followers": {
+    "href": null,
+    "total": 5
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba1aecc8ed74720876905c9dc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a1aecc8ed74720876905c9dc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a1aecc8ed74720876905c9dc",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6QgDTakZvh0QTwvOA8ilQp"
+  }
+}

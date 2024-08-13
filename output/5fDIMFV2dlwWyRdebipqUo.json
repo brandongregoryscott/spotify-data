@@ -1,0 +1,33 @@
+{
+  "id": "5fDIMFV2dlwWyRdebipqUo",
+  "name": "Mr. Silla",
+  "uri": "spotify:artist:5fDIMFV2dlwWyRdebipqUo",
+  "followers": {
+    "href": null,
+    "total": 2468
+  },
+  "genres": [
+    "icelandic electronic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb16df7dcc7b76ea37920f39d1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517416df7dcc7b76ea37920f39d1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17816df7dcc7b76ea37920f39d1",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5fDIMFV2dlwWyRdebipqUo"
+  }
+}

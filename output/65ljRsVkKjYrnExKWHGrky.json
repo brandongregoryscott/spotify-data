@@ -1,0 +1,33 @@
+{
+  "id": "65ljRsVkKjYrnExKWHGrky",
+  "name": "Hansi Biebl",
+  "uri": "spotify:artist:65ljRsVkKjYrnExKWHGrky",
+  "followers": {
+    "href": null,
+    "total": 855
+  },
+  "genres": [
+    "ostrock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735a81ce0488a62a7e53bfd5c8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025a81ce0488a62a7e53bfd5c8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515a81ce0488a62a7e53bfd5c8",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/65ljRsVkKjYrnExKWHGrky"
+  }
+}

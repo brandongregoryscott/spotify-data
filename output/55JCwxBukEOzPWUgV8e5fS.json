@@ -1,0 +1,33 @@
+{
+  "id": "55JCwxBukEOzPWUgV8e5fS",
+  "name": "Moros",
+  "uri": "spotify:artist:55JCwxBukEOzPWUgV8e5fS",
+  "followers": {
+    "href": null,
+    "total": 257
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcdbffd7487a1e26ac3e488a1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cdbffd7487a1e26ac3e488a1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cdbffd7487a1e26ac3e488a1",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/55JCwxBukEOzPWUgV8e5fS"
+  }
+}

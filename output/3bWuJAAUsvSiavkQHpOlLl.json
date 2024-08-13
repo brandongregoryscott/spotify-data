@@ -1,0 +1,34 @@
+{
+  "id": "3bWuJAAUsvSiavkQHpOlLl",
+  "name": "Enoch Light",
+  "uri": "spotify:artist:3bWuJAAUsvSiavkQHpOlLl",
+  "followers": {
+    "href": null,
+    "total": 8014
+  },
+  "genres": [
+    "easy listening",
+    "exotica"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b5a0d708cda007089c4e9eb9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b5a0d708cda007089c4e9eb9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b5a0d708cda007089c4e9eb9",
+      "width": 64
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3bWuJAAUsvSiavkQHpOlLl"
+  }
+}

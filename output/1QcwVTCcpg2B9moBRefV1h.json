@@ -1,0 +1,33 @@
+{
+  "id": "1QcwVTCcpg2B9moBRefV1h",
+  "name": "CARCA",
+  "uri": "spotify:artist:1QcwVTCcpg2B9moBRefV1h",
+  "followers": {
+    "href": null,
+    "total": 1079
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb694a52cebcf7850b656cad3e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174694a52cebcf7850b656cad3e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178694a52cebcf7850b656cad3e",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1QcwVTCcpg2B9moBRefV1h"
+  }
+}

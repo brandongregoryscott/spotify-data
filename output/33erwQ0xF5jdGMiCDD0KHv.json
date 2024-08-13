@@ -1,0 +1,34 @@
+{
+  "id": "33erwQ0xF5jdGMiCDD0KHv",
+  "name": "Røgsignal",
+  "uri": "spotify:artist:33erwQ0xF5jdGMiCDD0KHv",
+  "followers": {
+    "href": null,
+    "total": 589
+  },
+  "genres": [
+    "aarhus indie",
+    "danish modern jazz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc6e82e3862bd0fb17f3a353d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c6e82e3862bd0fb17f3a353d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c6e82e3862bd0fb17f3a353d",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/33erwQ0xF5jdGMiCDD0KHv"
+  }
+}

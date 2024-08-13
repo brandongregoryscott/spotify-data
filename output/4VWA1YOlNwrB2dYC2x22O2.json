@@ -1,0 +1,33 @@
+{
+  "id": "4VWA1YOlNwrB2dYC2x22O2",
+  "name": "Purple Guns",
+  "uri": "spotify:artist:4VWA1YOlNwrB2dYC2x22O2",
+  "followers": {
+    "href": null,
+    "total": 179
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfc8011d6cd1f32558f0dc71b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fc8011d6cd1f32558f0dc71b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fc8011d6cd1f32558f0dc71b",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4VWA1YOlNwrB2dYC2x22O2"
+  }
+}

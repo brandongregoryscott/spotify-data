@@ -1,0 +1,33 @@
+{
+  "id": "7rtZVhSe88ff2rl8fvc4G7",
+  "name": "KS",
+  "uri": "spotify:artist:7rtZVhSe88ff2rl8fvc4G7",
+  "followers": {
+    "href": null,
+    "total": 1096
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf439c789aba013a5b0f170b1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f439c789aba013a5b0f170b1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f439c789aba013a5b0f170b1",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7rtZVhSe88ff2rl8fvc4G7"
+  }
+}

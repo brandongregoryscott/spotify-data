@@ -1,0 +1,35 @@
+{
+  "id": "3bW6mQczkt1r8tnWIDeBVJ",
+  "name": "Lee Roy Parnell",
+  "uri": "spotify:artist:3bW6mQczkt1r8tnWIDeBVJ",
+  "followers": {
+    "href": null,
+    "total": 82714
+  },
+  "genres": [
+    "classic country pop",
+    "country",
+    "deep contemporary country"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebabb62f266fcc29d318dc51e8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174abb62f266fcc29d318dc51e8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178abb62f266fcc29d318dc51e8",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3bW6mQczkt1r8tnWIDeBVJ"
+  }
+}

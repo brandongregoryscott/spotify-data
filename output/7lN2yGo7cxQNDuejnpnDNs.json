@@ -1,0 +1,34 @@
+{
+  "id": "7lN2yGo7cxQNDuejnpnDNs",
+  "name": "Clase-A",
+  "uri": "spotify:artist:7lN2yGo7cxQNDuejnpnDNs",
+  "followers": {
+    "href": null,
+    "total": 4249
+  },
+  "genres": [
+    "electro bailando",
+    "electro latino"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb218a58c9ab90f02dd56f2931",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174218a58c9ab90f02dd56f2931",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178218a58c9ab90f02dd56f2931",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7lN2yGo7cxQNDuejnpnDNs"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "3rOOythoKLiiyXJYh3XIMu",
+  "name": "Paperi T",
+  "uri": "spotify:artist:3rOOythoKLiiyXJYh3XIMu",
+  "followers": {
+    "href": null,
+    "total": 24199
+  },
+  "genres": [
+    "finnish hip hop",
+    "suomi rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb18a36c4568a56f2e73a320f0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517418a36c4568a56f2e73a320f0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17818a36c4568a56f2e73a320f0",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3rOOythoKLiiyXJYh3XIMu"
+  }
+}

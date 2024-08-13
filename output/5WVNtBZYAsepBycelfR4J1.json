@@ -1,0 +1,33 @@
+{
+  "id": "5WVNtBZYAsepBycelfR4J1",
+  "name": "Isaac McClung",
+  "uri": "spotify:artist:5WVNtBZYAsepBycelfR4J1",
+  "followers": {
+    "href": null,
+    "total": 775
+  },
+  "genres": [
+    "oklahoma country"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbee2cf0650fd93e37121279f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bee2cf0650fd93e37121279f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bee2cf0650fd93e37121279f",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5WVNtBZYAsepBycelfR4J1"
+  }
+}

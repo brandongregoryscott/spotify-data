@@ -1,0 +1,33 @@
+{
+  "id": "6JC0gkIoalkWHwnPAh7JVl",
+  "name": "cre-ate",
+  "uri": "spotify:artist:6JC0gkIoalkWHwnPAh7JVl",
+  "followers": {
+    "href": null,
+    "total": 77
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735afce1120d761867e6f25770",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025afce1120d761867e6f25770",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515afce1120d761867e6f25770",
+      "width": 64
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6JC0gkIoalkWHwnPAh7JVl"
+  }
+}

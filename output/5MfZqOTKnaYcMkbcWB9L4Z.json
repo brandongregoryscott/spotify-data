@@ -1,0 +1,33 @@
+{
+  "id": "5MfZqOTKnaYcMkbcWB9L4Z",
+  "name": "aMatsuka",
+  "uri": "spotify:artist:5MfZqOTKnaYcMkbcWB9L4Z",
+  "followers": {
+    "href": null,
+    "total": 288
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731c754b074be4d2fc9a34f94f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021c754b074be4d2fc9a34f94f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511c754b074be4d2fc9a34f94f",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5MfZqOTKnaYcMkbcWB9L4Z"
+  }
+}

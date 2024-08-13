@@ -1,0 +1,33 @@
+{
+  "id": "2g2gwCr1ZcowpJeVTubUy2",
+  "name": "Agata Prisma",
+  "uri": "spotify:artist:2g2gwCr1ZcowpJeVTubUy2",
+  "followers": {
+    "href": null,
+    "total": 159
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb330c322e590e87efbbbe523c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174330c322e590e87efbbbe523c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178330c322e590e87efbbbe523c",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2"
+  }
+}

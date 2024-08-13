@@ -1,0 +1,34 @@
+{
+  "id": "5sp44iOiTOC0lXmN8zMRaT",
+  "name": "플라워",
+  "uri": "spotify:artist:5sp44iOiTOC0lXmN8zMRaT",
+  "followers": {
+    "href": null,
+    "total": 19187
+  },
+  "genres": [
+    "k-rock",
+    "korean pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27323d04c565ee5e603c7a1e88e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0223d04c565ee5e603c7a1e88e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485123d04c565ee5e603c7a1e88e",
+      "width": 64
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5sp44iOiTOC0lXmN8zMRaT"
+  }
+}

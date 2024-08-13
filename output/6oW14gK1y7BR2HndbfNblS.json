@@ -1,0 +1,33 @@
+{
+  "id": "6oW14gK1y7BR2HndbfNblS",
+  "name": "Troglodyte",
+  "uri": "spotify:artist:6oW14gK1y7BR2HndbfNblS",
+  "followers": {
+    "href": null,
+    "total": 1828
+  },
+  "genres": [
+    "grisly death metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb23a55b0a156f0b91887016f3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517423a55b0a156f0b91887016f3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17823a55b0a156f0b91887016f3",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6oW14gK1y7BR2HndbfNblS"
+  }
+}

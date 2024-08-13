@@ -1,0 +1,33 @@
+{
+  "id": "0rpiQ50GeyAWnvorWR4pvh",
+  "name": "The Guapos",
+  "uri": "spotify:artist:0rpiQ50GeyAWnvorWR4pvh",
+  "followers": {
+    "href": null,
+    "total": 13375
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb404ba419e04d4531d3d547b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b404ba419e04d4531d3d547b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b404ba419e04d4531d3d547b",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh"
+  }
+}

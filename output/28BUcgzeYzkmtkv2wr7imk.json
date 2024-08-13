@@ -1,0 +1,33 @@
+{
+  "id": "28BUcgzeYzkmtkv2wr7imk",
+  "name": "Mike Haunted",
+  "uri": "spotify:artist:28BUcgzeYzkmtkv2wr7imk",
+  "followers": {
+    "href": null,
+    "total": 314
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb56282f2449110db2abe8774a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517456282f2449110db2abe8774a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17856282f2449110db2abe8774a",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/28BUcgzeYzkmtkv2wr7imk"
+  }
+}

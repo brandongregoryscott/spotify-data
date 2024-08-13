@@ -1,0 +1,33 @@
+{
+  "id": "4kFGOZPXXf1sIs9PNXk0wn",
+  "name": "Evil B",
+  "uri": "spotify:artist:4kFGOZPXXf1sIs9PNXk0wn",
+  "followers": {
+    "href": null,
+    "total": 2630
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb13353b0b6565a3c4d2091ddf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517413353b0b6565a3c4d2091ddf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17813353b0b6565a3c4d2091ddf",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4kFGOZPXXf1sIs9PNXk0wn"
+  }
+}

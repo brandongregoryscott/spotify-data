@@ -1,0 +1,33 @@
+{
+  "id": "4Vf3VNaUa41VAo34KR8ZM3",
+  "name": "Sorena",
+  "uri": "spotify:artist:4Vf3VNaUa41VAo34KR8ZM3",
+  "followers": {
+    "href": null,
+    "total": 3803
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf710f6e97c9f8c6aec8193f1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f710f6e97c9f8c6aec8193f1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f710f6e97c9f8c6aec8193f1",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Vf3VNaUa41VAo34KR8ZM3"
+  }
+}

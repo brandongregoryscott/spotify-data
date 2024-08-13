@@ -1,0 +1,33 @@
+{
+  "id": "2jlSHCLUpw8HviyWXhM2xp",
+  "name": "Grēta",
+  "uri": "spotify:artist:2jlSHCLUpw8HviyWXhM2xp",
+  "followers": {
+    "href": null,
+    "total": 1602
+  },
+  "genres": [
+    "latvian pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbff6cf58690b2970bb4d4bcf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bff6cf58690b2970bb4d4bcf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bff6cf58690b2970bb4d4bcf",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2jlSHCLUpw8HviyWXhM2xp"
+  }
+}

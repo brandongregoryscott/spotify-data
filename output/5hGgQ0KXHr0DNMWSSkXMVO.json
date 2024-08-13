@@ -1,0 +1,33 @@
+{
+  "id": "5hGgQ0KXHr0DNMWSSkXMVO",
+  "name": "ALEXXER",
+  "uri": "spotify:artist:5hGgQ0KXHr0DNMWSSkXMVO",
+  "followers": {
+    "href": null,
+    "total": 13
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb336546c9ab96fa2d390af199",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174336546c9ab96fa2d390af199",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178336546c9ab96fa2d390af199",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5hGgQ0KXHr0DNMWSSkXMVO"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2yxSMjOgzBvfmExi22OCU7",
+  "name": "Niche Ls",
+  "uri": "spotify:artist:2yxSMjOgzBvfmExi22OCU7",
+  "followers": {
+    "href": null,
+    "total": 15373
+  },
+  "genres": [
+    "rap underground colombiano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf7d78f6adee0e4458c3fb00d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f7d78f6adee0e4458c3fb00d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f7d78f6adee0e4458c3fb00d",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2yxSMjOgzBvfmExi22OCU7"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5WOLOIUAhbTHw5bnZ6rqTC",
+  "name": "Kuohu",
+  "uri": "spotify:artist:5WOLOIUAhbTHw5bnZ6rqTC",
+  "followers": {
+    "href": null,
+    "total": 183
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebea8a3547411de59b39317f3f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ea8a3547411de59b39317f3f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ea8a3547411de59b39317f3f",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5WOLOIUAhbTHw5bnZ6rqTC"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7ljuBOgHwqfiTxKmUkfly1",
+  "name": "Kevin Sullivan",
+  "uri": "spotify:artist:7ljuBOgHwqfiTxKmUkfly1",
+  "followers": {
+    "href": null,
+    "total": 40
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebac56a18ec34af313b8447aaf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ac56a18ec34af313b8447aaf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ac56a18ec34af313b8447aaf",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ljuBOgHwqfiTxKmUkfly1"
+  }
+}

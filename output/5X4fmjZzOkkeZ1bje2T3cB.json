@@ -1,0 +1,35 @@
+{
+  "id": "5X4fmjZzOkkeZ1bje2T3cB",
+  "name": "Laika Suns",
+  "uri": "spotify:artist:5X4fmjZzOkkeZ1bje2T3cB",
+  "followers": {
+    "href": null,
+    "total": 2428
+  },
+  "genres": [
+    "latvian indie",
+    "latvian pop",
+    "latvian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebac4f648b94b38d92b60dbbac",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ac4f648b94b38d92b60dbbac",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ac4f648b94b38d92b60dbbac",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5X4fmjZzOkkeZ1bje2T3cB"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6VZ1DzSVru8La0FW0utGOY",
+  "name": "Sae",
+  "uri": "spotify:artist:6VZ1DzSVru8La0FW0utGOY",
+  "followers": {
+    "href": null,
+    "total": 62
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb77ef8f2acb1788a255d2794e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517477ef8f2acb1788a255d2794e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17877ef8f2acb1788a255d2794e",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6VZ1DzSVru8La0FW0utGOY"
+  }
+}
