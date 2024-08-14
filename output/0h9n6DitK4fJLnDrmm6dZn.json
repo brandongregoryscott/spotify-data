@@ -1,0 +1,33 @@
+{
+  "id": "0h9n6DitK4fJLnDrmm6dZn",
+  "name": "MG",
+  "uri": "spotify:artist:0h9n6DitK4fJLnDrmm6dZn",
+  "followers": {
+    "href": null,
+    "total": 119
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730c2f78112080007b06beec7b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024a7a84a2b7947abc7ecf13bb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514a7a84a2b7947abc7ecf13bb",
+      "width": 64
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0h9n6DitK4fJLnDrmm6dZn"
+  }
+}

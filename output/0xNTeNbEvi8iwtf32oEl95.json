@@ -1,0 +1,33 @@
+{
+  "id": "0xNTeNbEvi8iwtf32oEl95",
+  "name": "John C",
+  "uri": "spotify:artist:0xNTeNbEvi8iwtf32oEl95",
+  "followers": {
+    "href": null,
+    "total": 480
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734d00c2e50e5158f949c2c447",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024d00c2e50e5158f949c2c447",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514d00c2e50e5158f949c2c447",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0xNTeNbEvi8iwtf32oEl95"
+  }
+}
