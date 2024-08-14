@@ -1,0 +1,33 @@
+{
+  "id": "3HwvmGxsFk2mejIGhQHBxb",
+  "name": "spopielony",
+  "uri": "spotify:artist:3HwvmGxsFk2mejIGhQHBxb",
+  "followers": {
+    "href": null,
+    "total": 461
+  },
+  "genres": [
+    "polish ambient"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb81162d906985f66235d70674",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517481162d906985f66235d70674",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17881162d906985f66235d70674",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3HwvmGxsFk2mejIGhQHBxb"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3FYHIspKALFpqCHrmU3IzA",
+  "name": "KingTeam",
+  "uri": "spotify:artist:3FYHIspKALFpqCHrmU3IzA",
+  "followers": {
+    "href": null,
+    "total": 2018
+  },
+  "genres": [
+    "rap underground argentino"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebad0baeabc98c0ea4dc52f1e1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ad0baeabc98c0ea4dc52f1e1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ad0baeabc98c0ea4dc52f1e1",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3FYHIspKALFpqCHrmU3IzA"
+  }
+}

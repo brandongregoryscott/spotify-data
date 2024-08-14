@@ -1,0 +1,33 @@
+{
+  "id": "3KD3hSu9pVfI52ERPKNYB8",
+  "name": "Bobby Saffron",
+  "uri": "spotify:artist:3KD3hSu9pVfI52ERPKNYB8",
+  "followers": {
+    "href": null,
+    "total": 225
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb20e0bdd48c12c446c13d9251",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517420e0bdd48c12c446c13d9251",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17820e0bdd48c12c446c13d9251",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3KD3hSu9pVfI52ERPKNYB8"
+  }
+}

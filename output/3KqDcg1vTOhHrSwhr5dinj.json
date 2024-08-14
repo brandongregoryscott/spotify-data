@@ -1,0 +1,33 @@
+{
+  "id": "3KqDcg1vTOhHrSwhr5dinj",
+  "name": "Mr. Blink",
+  "uri": "spotify:artist:3KqDcg1vTOhHrSwhr5dinj",
+  "followers": {
+    "href": null,
+    "total": 28
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27377625d34e4cff41d975808be",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0277625d34e4cff41d975808be",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485177625d34e4cff41d975808be",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3KqDcg1vTOhHrSwhr5dinj"
+  }
+}

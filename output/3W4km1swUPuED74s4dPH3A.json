@@ -1,0 +1,33 @@
+{
+  "id": "3W4km1swUPuED74s4dPH3A",
+  "name": "Leo X",
+  "uri": "spotify:artist:3W4km1swUPuED74s4dPH3A",
+  "followers": {
+    "href": null,
+    "total": 938
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb895f084e974fc89f1b263295",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174895f084e974fc89f1b263295",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178895f084e974fc89f1b263295",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3W4km1swUPuED74s4dPH3A"
+  }
+}

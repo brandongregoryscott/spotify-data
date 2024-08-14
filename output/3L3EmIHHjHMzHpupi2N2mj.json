@@ -1,0 +1,33 @@
+{
+  "id": "3L3EmIHHjHMzHpupi2N2mj",
+  "name": "Electric Brother",
+  "uri": "spotify:artist:3L3EmIHHjHMzHpupi2N2mj",
+  "followers": {
+    "href": null,
+    "total": 845
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba64926229f9353fd5bdcb1ff",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a64926229f9353fd5bdcb1ff",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a64926229f9353fd5bdcb1ff",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3L3EmIHHjHMzHpupi2N2mj"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3NjeSz9HCSrIce8W0YGlmL",
+  "name": "Greg McGowan",
+  "uri": "spotify:artist:3NjeSz9HCSrIce8W0YGlmL",
+  "followers": {
+    "href": null,
+    "total": 28
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1c589ba96d4a4495b3980cbe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051741c589ba96d4a4495b3980cbe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1781c589ba96d4a4495b3980cbe",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3NjeSz9HCSrIce8W0YGlmL"
+  }
+}

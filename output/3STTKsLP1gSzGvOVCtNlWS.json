@@ -1,0 +1,35 @@
+{
+  "id": "3STTKsLP1gSzGvOVCtNlWS",
+  "name": "The Answer",
+  "uri": "spotify:artist:3STTKsLP1gSzGvOVCtNlWS",
+  "followers": {
+    "href": null,
+    "total": 42470
+  },
+  "genres": [
+    "deep melodic hard rock",
+    "modern hard rock",
+    "nwocr"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf299f014b3b437122cf97d2b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f299f014b3b437122cf97d2b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f299f014b3b437122cf97d2b",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3STTKsLP1gSzGvOVCtNlWS"
+  }
+}

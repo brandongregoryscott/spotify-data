@@ -1,0 +1,33 @@
+{
+  "id": "3SyJZpVRYuncgXPtjAceOJ",
+  "name": "Panamah",
+  "uri": "spotify:artist:3SyJZpVRYuncgXPtjAceOJ",
+  "followers": {
+    "href": null,
+    "total": 21098
+  },
+  "genres": [
+    "danish pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebee930a268a657e0411b2778b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ee930a268a657e0411b2778b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ee930a268a657e0411b2778b",
+      "width": 160
+    }
+  ],
+  "popularity": 50,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3SyJZpVRYuncgXPtjAceOJ"
+  }
+}
