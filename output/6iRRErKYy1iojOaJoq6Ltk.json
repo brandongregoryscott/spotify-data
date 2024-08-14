@@ -1,0 +1,35 @@
+{
+  "id": "6iRRErKYy1iojOaJoq6Ltk",
+  "name": "Felix",
+  "uri": "spotify:artist:6iRRErKYy1iojOaJoq6Ltk",
+  "followers": {
+    "href": null,
+    "total": 11085
+  },
+  "genres": [
+    "hardcore techno",
+    "hip house",
+    "rave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd30fcc114bf2a20a5cfb780a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d30fcc114bf2a20a5cfb780a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d30fcc114bf2a20a5cfb780a",
+      "width": 160
+    }
+  ],
+  "popularity": 45,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk"
+  }
+}

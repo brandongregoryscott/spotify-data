@@ -1,0 +1,33 @@
+{
+  "id": "6it8tdjfn5kDB5mKcdRzgi",
+  "name": "Los Munchies",
+  "uri": "spotify:artist:6it8tdjfn5kDB5mKcdRzgi",
+  "followers": {
+    "href": null,
+    "total": 133
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb12dd7ccc2a552b2c09c4bcc3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517412dd7ccc2a552b2c09c4bcc3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17812dd7ccc2a552b2c09c4bcc3",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6it8tdjfn5kDB5mKcdRzgi"
+  }
+}

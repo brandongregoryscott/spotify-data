@@ -1,0 +1,33 @@
+{
+  "id": "6j7i3mzHowvWs5cj0qST7K",
+  "name": "Advocate",
+  "uri": "spotify:artist:6j7i3mzHowvWs5cj0qST7K",
+  "followers": {
+    "href": null,
+    "total": 186
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734d6d1468e685f31f2fa873fd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024d6d1468e685f31f2fa873fd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514d6d1468e685f31f2fa873fd",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6j7i3mzHowvWs5cj0qST7K"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6XcBhVJb6vfI83EjsxmGmd",
+  "name": "Fanxe",
+  "uri": "spotify:artist:6XcBhVJb6vfI83EjsxmGmd",
+  "followers": {
+    "href": null,
+    "total": 203
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb22b145d23714f5b93c15a696",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517422b145d23714f5b93c15a696",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17822b145d23714f5b93c15a696",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6XcBhVJb6vfI83EjsxmGmd"
+  }
+}
