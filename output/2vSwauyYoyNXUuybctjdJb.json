@@ -1,0 +1,33 @@
+{
+  "id": "2vSwauyYoyNXUuybctjdJb",
+  "name": "Radio Cutipa",
+  "uri": "spotify:artist:2vSwauyYoyNXUuybctjdJb",
+  "followers": {
+    "href": null,
+    "total": 606
+  },
+  "genres": [
+    "pop boliviano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd47d9621787053b64a61a5aa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d47d9621787053b64a61a5aa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d47d9621787053b64a61a5aa",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2vSwauyYoyNXUuybctjdJb"
+  }
+}

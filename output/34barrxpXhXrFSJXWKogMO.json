@@ -1,0 +1,34 @@
+{
+  "id": "34barrxpXhXrFSJXWKogMO",
+  "name": "Plumtree",
+  "uri": "spotify:artist:34barrxpXhXrFSJXWKogMO",
+  "followers": {
+    "href": null,
+    "total": 34968
+  },
+  "genres": [
+    "canadian indie",
+    "halifax indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27354727bf10d84f12515c46366",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0254727bf10d84f12515c46366",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485154727bf10d84f12515c46366",
+      "width": 64
+    }
+  ],
+  "popularity": 37,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/34barrxpXhXrFSJXWKogMO"
+  }
+}

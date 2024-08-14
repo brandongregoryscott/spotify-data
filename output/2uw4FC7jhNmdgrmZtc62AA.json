@@ -1,0 +1,33 @@
+{
+  "id": "2uw4FC7jhNmdgrmZtc62AA",
+  "name": "4PS",
+  "uri": "spotify:artist:2uw4FC7jhNmdgrmZtc62AA",
+  "followers": {
+    "href": null,
+    "total": 81
+  },
+  "genres": [
+    "ostrock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27383d297c9a822f8aa251e91f0",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0283d297c9a822f8aa251e91f0",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485183d297c9a822f8aa251e91f0",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2uw4FC7jhNmdgrmZtc62AA"
+  }
+}
