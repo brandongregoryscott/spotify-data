@@ -1,0 +1,33 @@
+{
+  "id": "5EhleeAqamLcduDfq02Qzs",
+  "name": "29mirr",
+  "uri": "spotify:artist:5EhleeAqamLcduDfq02Qzs",
+  "followers": {
+    "href": null,
+    "total": 122
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273378ef0d5abc08bafef795068",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02481a033b9a0e2aa8d58f13ff",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851481a033b9a0e2aa8d58f13ff",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5EhleeAqamLcduDfq02Qzs"
+  }
+}

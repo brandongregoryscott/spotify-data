@@ -1,0 +1,33 @@
+{
+  "id": "5PObhxph2HEuzJjv8H75NJ",
+  "name": "Dustbunny",
+  "uri": "spotify:artist:5PObhxph2HEuzJjv8H75NJ",
+  "followers": {
+    "href": null,
+    "total": 91
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb2b5eaf472791c8c41ef174cd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051742b5eaf472791c8c41ef174cd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1782b5eaf472791c8c41ef174cd",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5PObhxph2HEuzJjv8H75NJ"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5TAPaFNasDTfMt26gZehyo",
+  "name": "Saturate",
+  "uri": "spotify:artist:5TAPaFNasDTfMt26gZehyo",
+  "followers": {
+    "href": null,
+    "total": 5280
+  },
+  "genres": [
+    "hard alternative"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb19477770140e2b4936ab9b5e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517419477770140e2b4936ab9b5e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17819477770140e2b4936ab9b5e",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5TAPaFNasDTfMt26gZehyo"
+  }
+}

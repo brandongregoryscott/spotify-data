@@ -1,0 +1,33 @@
+{
+  "id": "5PCDk0lTobtZ5vKRxMgaJD",
+  "name": "Maracajá",
+  "uri": "spotify:artist:5PCDk0lTobtZ5vKRxMgaJD",
+  "followers": {
+    "href": null,
+    "total": 159
+  },
+  "genres": [
+    "musica londrinense"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735aadf4026328de67f5cb801c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0279bd2f610419651e958fffb4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485179bd2f610419651e958fffb4",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5PCDk0lTobtZ5vKRxMgaJD"
+  }
+}
