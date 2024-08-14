@@ -1,0 +1,33 @@
+{
+  "id": "5WFfC7WtTF7DrbqSpc2A7M",
+  "name": "Mikeanyway",
+  "uri": "spotify:artist:5WFfC7WtTF7DrbqSpc2A7M",
+  "followers": {
+    "href": null,
+    "total": 1296
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1db66d6cc438d2acc3de18fb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051741db66d6cc438d2acc3de18fb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1781db66d6cc438d2acc3de18fb",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5WFfC7WtTF7DrbqSpc2A7M"
+  }
+}

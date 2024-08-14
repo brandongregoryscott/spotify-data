@@ -1,0 +1,33 @@
+{
+  "id": "5aEdEURtdLzShZjlRW8qId",
+  "name": "sh4nks!",
+  "uri": "spotify:artist:5aEdEURtdLzShZjlRW8qId",
+  "followers": {
+    "href": null,
+    "total": 67
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebee867cb823b77d359bd0a5f1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ee867cb823b77d359bd0a5f1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ee867cb823b77d359bd0a5f1",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5aEdEURtdLzShZjlRW8qId"
+  }
+}

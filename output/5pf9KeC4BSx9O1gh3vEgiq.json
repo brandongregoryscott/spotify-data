@@ -1,0 +1,33 @@
+{
+  "id": "5pf9KeC4BSx9O1gh3vEgiq",
+  "name": "Alfi",
+  "uri": "spotify:artist:5pf9KeC4BSx9O1gh3vEgiq",
+  "followers": {
+    "href": null,
+    "total": 1488
+  },
+  "genres": [
+    "irish neo-traditional"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb566f77ca9cd418b820b808ba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174566f77ca9cd418b820b808ba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178566f77ca9cd418b820b808ba",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5pf9KeC4BSx9O1gh3vEgiq"
+  }
+}

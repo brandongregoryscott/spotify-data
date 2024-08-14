@@ -1,0 +1,34 @@
+{
+  "id": "5hq7NuqDGwmdCZL9wbNRMv",
+  "name": "Salty Dog",
+  "uri": "spotify:artist:5hq7NuqDGwmdCZL9wbNRMv",
+  "followers": {
+    "href": null,
+    "total": 14483
+  },
+  "genres": [
+    "glam metal",
+    "sleaze rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273325cefc5bed6e4fac2f49e1b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02325cefc5bed6e4fac2f49e1b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851325cefc5bed6e4fac2f49e1b",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5hq7NuqDGwmdCZL9wbNRMv"
+  }
+}
