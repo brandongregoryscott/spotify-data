@@ -1,0 +1,33 @@
+{
+  "id": "7ClEh19WQyNvZavJ9kBssp",
+  "name": "owa",
+  "uri": "spotify:artist:7ClEh19WQyNvZavJ9kBssp",
+  "followers": {
+    "href": null,
+    "total": 626
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0cb387539ea2e80efba83bd1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051740cb387539ea2e80efba83bd1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1780cb387539ea2e80efba83bd1",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ClEh19WQyNvZavJ9kBssp"
+  }
+}

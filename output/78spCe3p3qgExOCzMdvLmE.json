@@ -1,0 +1,33 @@
+{
+  "id": "78spCe3p3qgExOCzMdvLmE",
+  "name": "Syfta",
+  "uri": "spotify:artist:78spCe3p3qgExOCzMdvLmE",
+  "followers": {
+    "href": null,
+    "total": 1866
+  },
+  "genres": [
+    "britpop revival"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb0f8ecd81bb46006fa149756",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b0f8ecd81bb46006fa149756",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b0f8ecd81bb46006fa149756",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/78spCe3p3qgExOCzMdvLmE"
+  }
+}

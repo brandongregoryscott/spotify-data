@@ -1,0 +1,33 @@
+{
+  "id": "7LmXTkJPKNGUedC815S13R",
+  "name": "Neat's",
+  "uri": "spotify:artist:7LmXTkJPKNGUedC815S13R",
+  "followers": {
+    "href": null,
+    "total": 228
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731ab219b2242a47d616cfe65c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021ab219b2242a47d616cfe65c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511ab219b2242a47d616cfe65c",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7LmXTkJPKNGUedC815S13R"
+  }
+}
