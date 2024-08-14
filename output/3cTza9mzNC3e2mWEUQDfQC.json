@@ -1,0 +1,33 @@
+{
+  "id": "3cTza9mzNC3e2mWEUQDfQC",
+  "name": "headtrip",
+  "uri": "spotify:artist:3cTza9mzNC3e2mWEUQDfQC",
+  "followers": {
+    "href": null,
+    "total": 180
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ae3a9c1eb6baa9c68fb15081",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ae3a9c1eb6baa9c68fb15081",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ae3a9c1eb6baa9c68fb15081",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3cTza9mzNC3e2mWEUQDfQC"
+  }
+}

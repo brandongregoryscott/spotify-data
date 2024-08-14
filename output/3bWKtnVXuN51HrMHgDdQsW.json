@@ -1,0 +1,33 @@
+{
+  "id": "3bWKtnVXuN51HrMHgDdQsW",
+  "name": "gleek",
+  "uri": "spotify:artist:3bWKtnVXuN51HrMHgDdQsW",
+  "followers": {
+    "href": null,
+    "total": 127
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe26db47522f814ea449ee42d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e26db47522f814ea449ee42d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e26db47522f814ea449ee42d",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3bWKtnVXuN51HrMHgDdQsW"
+  }
+}

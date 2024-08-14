@@ -1,0 +1,33 @@
+{
+  "id": "3e5ElC29wvHf0R9UUXKZYe",
+  "name": "Azilis",
+  "uri": "spotify:artist:3e5ElC29wvHf0R9UUXKZYe",
+  "followers": {
+    "href": null,
+    "total": 173
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb6230bca01d24df84a712e0b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b6230bca01d24df84a712e0b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b6230bca01d24df84a712e0b",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3e5ElC29wvHf0R9UUXKZYe"
+  }
+}

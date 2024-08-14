@@ -1,0 +1,33 @@
+{
+  "id": "3oFAXYbLPLYimPiQ3JJzSj",
+  "name": "Jsnck!",
+  "uri": "spotify:artist:3oFAXYbLPLYimPiQ3JJzSj",
+  "followers": {
+    "href": null,
+    "total": 233
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb20e158f1b9f840f286f0e4b6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517420e158f1b9f840f286f0e4b6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17820e158f1b9f840f286f0e4b6",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3oFAXYbLPLYimPiQ3JJzSj"
+  }
+}

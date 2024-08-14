@@ -1,0 +1,34 @@
+{
+  "id": "3YuZ7T9FmWF1Hfbc3KFiCN",
+  "name": "St. Plaster",
+  "uri": "spotify:artist:3YuZ7T9FmWF1Hfbc3KFiCN",
+  "followers": {
+    "href": null,
+    "total": 928
+  },
+  "genres": [
+    "dutch punk rock",
+    "fast melodic punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb5912999097c453214c6bd9c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b5912999097c453214c6bd9c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b5912999097c453214c6bd9c",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3YuZ7T9FmWF1Hfbc3KFiCN"
+  }
+}

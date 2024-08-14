@@ -1,0 +1,33 @@
+{
+  "id": "3gwc3wY8SIaAgxATeo2hxI",
+  "name": "ceci bendita",
+  "uri": "spotify:artist:3gwc3wY8SIaAgxATeo2hxI",
+  "followers": {
+    "href": null,
+    "total": 137
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb12bfbfa373927129e20c716a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517412bfbfa373927129e20c716a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17812bfbfa373927129e20c716a",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3gwc3wY8SIaAgxATeo2hxI"
+  }
+}
