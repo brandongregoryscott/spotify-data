@@ -1,0 +1,33 @@
+{
+  "id": "1LpLNp9LL2xCWOBPbxbQcG",
+  "name": "Bbanner",
+  "uri": "spotify:artist:1LpLNp9LL2xCWOBPbxbQcG",
+  "followers": {
+    "href": null,
+    "total": 282
+  },
+  "genres": [
+    "perth hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb878ee96da9d27a6be1b0024b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174878ee96da9d27a6be1b0024b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178878ee96da9d27a6be1b0024b",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1LpLNp9LL2xCWOBPbxbQcG"
+  }
+}

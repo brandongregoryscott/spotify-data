@@ -1,0 +1,34 @@
+{
+  "id": "1LFGVkNRmXz8jIkyPjaGNL",
+  "name": "De Hofnar",
+  "uri": "spotify:artist:1LFGVkNRmXz8jIkyPjaGNL",
+  "followers": {
+    "href": null,
+    "total": 63330
+  },
+  "genres": [
+    "deep tropical house",
+    "tropical house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebae9b6f736da599ef571c981a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ae9b6f736da599ef571c981a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ae9b6f736da599ef571c981a",
+      "width": 160
+    }
+  ],
+  "popularity": 54,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL"
+  }
+}

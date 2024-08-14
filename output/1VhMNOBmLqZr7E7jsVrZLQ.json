@@ -1,0 +1,33 @@
+{
+  "id": "1VhMNOBmLqZr7E7jsVrZLQ",
+  "name": "Once Human",
+  "uri": "spotify:artist:1VhMNOBmLqZr7E7jsVrZLQ",
+  "followers": {
+    "href": null,
+    "total": 58119
+  },
+  "genres": [
+    "slayer"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeb946d0bd0136c9de6d7360d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eb946d0bd0136c9de6d7360d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eb946d0bd0136c9de6d7360d",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1VhMNOBmLqZr7E7jsVrZLQ"
+  }
+}

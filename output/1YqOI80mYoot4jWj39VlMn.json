@@ -1,0 +1,33 @@
+{
+  "id": "1YqOI80mYoot4jWj39VlMn",
+  "name": "Speed Week",
+  "uri": "spotify:artist:1YqOI80mYoot4jWj39VlMn",
+  "followers": {
+    "href": null,
+    "total": 517
+  },
+  "genres": [
+    "melbourne punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb80cac609474d3f100b8a1c47",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517480cac609474d3f100b8a1c47",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17880cac609474d3f100b8a1c47",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1YqOI80mYoot4jWj39VlMn"
+  }
+}

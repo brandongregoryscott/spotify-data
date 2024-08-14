@@ -1,0 +1,33 @@
+{
+  "id": "1OWfJ7JUrH3kaXjQIpZVx9",
+  "name": "Arthur Mutanen",
+  "uri": "spotify:artist:1OWfJ7JUrH3kaXjQIpZVx9",
+  "followers": {
+    "href": null,
+    "total": 323
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb90bffeffea1dabb14c63a378",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517490bffeffea1dabb14c63a378",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17890bffeffea1dabb14c63a378",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1OWfJ7JUrH3kaXjQIpZVx9"
+  }
+}
