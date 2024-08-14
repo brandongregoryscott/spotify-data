@@ -1,0 +1,33 @@
+{
+  "id": "2bePokTJbD1Ke1G6oEmIwv",
+  "name": "Las Partes",
+  "uri": "spotify:artist:2bePokTJbD1Ke1G6oEmIwv",
+  "followers": {
+    "href": null,
+    "total": 63
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb58866abb3efc465a403a315a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517458866abb3efc465a403a315a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17858866abb3efc465a403a315a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2bePokTJbD1Ke1G6oEmIwv"
+  }
+}
