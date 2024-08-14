@@ -1,0 +1,33 @@
+{
+  "id": "4EvpjRZNR6ZzxqYPwJ2FmH",
+  "name": "David Fanning",
+  "uri": "spotify:artist:4EvpjRZNR6ZzxqYPwJ2FmH",
+  "followers": {
+    "href": null,
+    "total": 10865
+  },
+  "genres": [
+    "country pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb401dce245c8b36d9a91e1f65",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174401dce245c8b36d9a91e1f65",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178401dce245c8b36d9a91e1f65",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4EvpjRZNR6ZzxqYPwJ2FmH"
+  }
+}
