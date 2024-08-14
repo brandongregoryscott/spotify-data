@@ -1,0 +1,33 @@
+{
+  "id": "0DLHvj99Ne31Ockr6koARK",
+  "name": "Clarissa",
+  "uri": "spotify:artist:0DLHvj99Ne31Ockr6koARK",
+  "followers": {
+    "href": null,
+    "total": 106762
+  },
+  "genres": [
+    "pop nacional"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb26b74b21776ec5990cf9b98a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517426b74b21776ec5990cf9b98a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17826b74b21776ec5990cf9b98a",
+      "width": 160
+    }
+  ],
+  "popularity": 47,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0BFFKXBAspsFkX4npl6ENm",
+  "name": "Mt. Desolation",
+  "uri": "spotify:artist:0BFFKXBAspsFkX4npl6ENm",
+  "followers": {
+    "href": null,
+    "total": 8484
+  },
+  "genres": [
+    "alternative country"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb348af26f74de7e97a350066d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174348af26f74de7e97a350066d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178348af26f74de7e97a350066d",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0BFFKXBAspsFkX4npl6ENm"
+  }
+}

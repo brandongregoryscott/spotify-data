@@ -1,0 +1,34 @@
+{
+  "id": "01GKiTphQwz4guZQntMha8",
+  "name": "Sunny War",
+  "uri": "spotify:artist:01GKiTphQwz4guZQntMha8",
+  "followers": {
+    "href": null,
+    "total": 22958
+  },
+  "genres": [
+    "black americana",
+    "folk punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb48641bfa5998cb3105cb09ef",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517448641bfa5998cb3105cb09ef",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17848641bfa5998cb3105cb09ef",
+      "width": 160
+    }
+  ],
+  "popularity": 34,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+  }
+}

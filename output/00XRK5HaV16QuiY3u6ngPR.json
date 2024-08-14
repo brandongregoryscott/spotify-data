@@ -1,0 +1,33 @@
+{
+  "id": "00XRK5HaV16QuiY3u6ngPR",
+  "name": "Roundtree",
+  "uri": "spotify:artist:00XRK5HaV16QuiY3u6ngPR",
+  "followers": {
+    "href": null,
+    "total": 231
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734aa1eb62de16f8d2a034be88",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024aa1eb62de16f8d2a034be88",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514aa1eb62de16f8d2a034be88",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/00XRK5HaV16QuiY3u6ngPR"
+  }
+}

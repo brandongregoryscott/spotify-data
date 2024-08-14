@@ -1,0 +1,33 @@
+{
+  "id": "0ANKR2epssG5frR5CnCn9c",
+  "name": "Samsara",
+  "uri": "spotify:artist:0ANKR2epssG5frR5CnCn9c",
+  "followers": {
+    "href": null,
+    "total": 4836
+  },
+  "genres": [
+    "american metalcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb7fae1d1859fe3597686aa75",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b7fae1d1859fe3597686aa75",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b7fae1d1859fe3597686aa75",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ANKR2epssG5frR5CnCn9c"
+  }
+}

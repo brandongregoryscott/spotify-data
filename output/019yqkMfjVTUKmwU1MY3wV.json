@@ -1,0 +1,33 @@
+{
+  "id": "019yqkMfjVTUKmwU1MY3wV",
+  "name": "Faber Pugna",
+  "uri": "spotify:artist:019yqkMfjVTUKmwU1MY3wV",
+  "followers": {
+    "href": null,
+    "total": 2179
+  },
+  "genres": [
+    "spanish punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba28eb558f3da929e0d1257ed",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a28eb558f3da929e0d1257ed",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a28eb558f3da929e0d1257ed",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/019yqkMfjVTUKmwU1MY3wV"
+  }
+}

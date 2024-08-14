@@ -1,0 +1,33 @@
+{
+  "id": "0IgIl53viQiU6i35G0ZsxL",
+  "name": "WOL",
+  "uri": "spotify:artist:0IgIl53viQiU6i35G0ZsxL",
+  "followers": {
+    "href": null,
+    "total": 348
+  },
+  "genres": [
+    "semarang indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb64ef133b7c4f7f2223bca8c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b64ef133b7c4f7f2223bca8c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b64ef133b7c4f7f2223bca8c",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0IgIl53viQiU6i35G0ZsxL"
+  }
+}

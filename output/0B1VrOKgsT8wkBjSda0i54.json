@@ -1,0 +1,33 @@
+{
+  "id": "0B1VrOKgsT8wkBjSda0i54",
+  "name": "NOi",
+  "uri": "spotify:artist:0B1VrOKgsT8wkBjSda0i54",
+  "followers": {
+    "href": null,
+    "total": 14
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733c44f26dfd8ac5c16b441638",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023c44f26dfd8ac5c16b441638",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513c44f26dfd8ac5c16b441638",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0B1VrOKgsT8wkBjSda0i54"
+  }
+}

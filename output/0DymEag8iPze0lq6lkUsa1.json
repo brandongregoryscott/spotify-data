@@ -1,0 +1,34 @@
+{
+  "id": "0DymEag8iPze0lq6lkUsa1",
+  "name": "The Parkinsons",
+  "uri": "spotify:artist:0DymEag8iPze0lq6lkUsa1",
+  "followers": {
+    "href": null,
+    "total": 2404
+  },
+  "genres": [
+    "portuguese rock",
+    "punk tuga"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c85f9aea33749a3a42efe678",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c85f9aea33749a3a42efe678",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c85f9aea33749a3a42efe678",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0DymEag8iPze0lq6lkUsa1"
+  }
+}

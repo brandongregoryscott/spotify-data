@@ -1,0 +1,33 @@
+{
+  "id": "0Ab8zfMKGfG0ZumJXaAGs7",
+  "name": "KNASH",
+  "uri": "spotify:artist:0Ab8zfMKGfG0ZumJXaAGs7",
+  "followers": {
+    "href": null,
+    "total": 570
+  },
+  "genres": [
+    "stockholm indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbae463b231bb8957ef00d099",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bae463b231bb8957ef00d099",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bae463b231bb8957ef00d099",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Ab8zfMKGfG0ZumJXaAGs7"
+  }
+}

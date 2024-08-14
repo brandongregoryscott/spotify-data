@@ -1,0 +1,33 @@
+{
+  "id": "05WoaaJAr6vdTHBwaj07Ha",
+  "name": "Siva",
+  "uri": "spotify:artist:05WoaaJAr6vdTHBwaj07Ha",
+  "followers": {
+    "href": null,
+    "total": 2218
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd80b6d37747065905b90c27a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d80b6d37747065905b90c27a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d80b6d37747065905b90c27a",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05WoaaJAr6vdTHBwaj07Ha"
+  }
+}

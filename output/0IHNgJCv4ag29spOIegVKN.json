@@ -1,0 +1,33 @@
+{
+  "id": "0IHNgJCv4ag29spOIegVKN",
+  "name": "Marcus Paul",
+  "uri": "spotify:artist:0IHNgJCv4ag29spOIegVKN",
+  "followers": {
+    "href": null,
+    "total": 84
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb6f84ef5d71c978742b00aad",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b6f84ef5d71c978742b00aad",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b6f84ef5d71c978742b00aad",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0IHNgJCv4ag29spOIegVKN"
+  }
+}

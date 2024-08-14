@@ -1,0 +1,33 @@
+{
+  "id": "01tIOiBS4zkulqcMKOyqLG",
+  "name": "LARSEN",
+  "uri": "spotify:artist:01tIOiBS4zkulqcMKOyqLG",
+  "followers": {
+    "href": null,
+    "total": 86
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731d15058938e1e70539a9e3d3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021d15058938e1e70539a9e3d3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511d15058938e1e70539a9e3d3",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01tIOiBS4zkulqcMKOyqLG"
+  }
+}

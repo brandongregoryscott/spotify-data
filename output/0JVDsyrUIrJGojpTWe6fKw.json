@@ -1,0 +1,33 @@
+{
+  "id": "0JVDsyrUIrJGojpTWe6fKw",
+  "name": "This Is Ivy League",
+  "uri": "spotify:artist:0JVDsyrUIrJGojpTWe6fKw",
+  "followers": {
+    "href": null,
+    "total": 348
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731666c191e73d3728bd6ed913",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021666c191e73d3728bd6ed913",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511666c191e73d3728bd6ed913",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0JVDsyrUIrJGojpTWe6fKw"
+  }
+}

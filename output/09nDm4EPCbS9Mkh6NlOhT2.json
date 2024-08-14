@@ -1,0 +1,35 @@
+{
+  "id": "09nDm4EPCbS9Mkh6NlOhT2",
+  "name": "Vida",
+  "uri": "spotify:artist:09nDm4EPCbS9Mkh6NlOhT2",
+  "followers": {
+    "href": null,
+    "total": 6872
+  },
+  "genres": [
+    "britpop revival",
+    "english indie rock",
+    "scottish indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd4a6d33e43c04121613f7a73",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d4a6d33e43c04121613f7a73",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d4a6d33e43c04121613f7a73",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/09nDm4EPCbS9Mkh6NlOhT2"
+  }
+}

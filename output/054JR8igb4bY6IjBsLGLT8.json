@@ -1,0 +1,33 @@
+{
+  "id": "054JR8igb4bY6IjBsLGLT8",
+  "name": "Adam Scott",
+  "uri": "spotify:artist:054JR8igb4bY6IjBsLGLT8",
+  "followers": {
+    "href": null,
+    "total": 83
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5fee5866caf97e2052b8fa8f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051745fee5866caf97e2052b8fa8f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1785fee5866caf97e2052b8fa8f",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/054JR8igb4bY6IjBsLGLT8"
+  }
+}

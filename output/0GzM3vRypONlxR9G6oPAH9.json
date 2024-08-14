@@ -1,0 +1,33 @@
+{
+  "id": "0GzM3vRypONlxR9G6oPAH9",
+  "name": "Thibaut Pez",
+  "uri": "spotify:artist:0GzM3vRypONlxR9G6oPAH9",
+  "followers": {
+    "href": null,
+    "total": 475
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfd4fe4bbbe174e064246f7aa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fd4fe4bbbe174e064246f7aa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fd4fe4bbbe174e064246f7aa",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0GzM3vRypONlxR9G6oPAH9"
+  }
+}

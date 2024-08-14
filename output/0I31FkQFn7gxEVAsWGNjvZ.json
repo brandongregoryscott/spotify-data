@@ -1,0 +1,35 @@
+{
+  "id": "0I31FkQFn7gxEVAsWGNjvZ",
+  "name": "Pacific Avenue",
+  "uri": "spotify:artist:0I31FkQFn7gxEVAsWGNjvZ",
+  "followers": {
+    "href": null,
+    "total": 34013
+  },
+  "genres": [
+    "australian indie rock",
+    "australian indigenous music",
+    "australian surf rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebea1d41e981523ded66af0f9b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ea1d41e981523ded66af0f9b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ea1d41e981523ded66af0f9b",
+      "width": 160
+    }
+  ],
+  "popularity": 46,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ"
+  }
+}

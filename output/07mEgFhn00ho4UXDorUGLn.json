@@ -1,0 +1,33 @@
+{
+  "id": "07mEgFhn00ho4UXDorUGLn",
+  "name": "YH",
+  "uri": "spotify:artist:07mEgFhn00ho4UXDorUGLn",
+  "followers": {
+    "href": null,
+    "total": 440
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732d10cff3d253aa23e2cccdf5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022d10cff3d253aa23e2cccdf5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512d10cff3d253aa23e2cccdf5",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07mEgFhn00ho4UXDorUGLn"
+  }
+}

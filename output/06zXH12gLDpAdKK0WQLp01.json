@@ -1,0 +1,33 @@
+{
+  "id": "06zXH12gLDpAdKK0WQLp01",
+  "name": "Sweetwave",
+  "uri": "spotify:artist:06zXH12gLDpAdKK0WQLp01",
+  "followers": {
+    "href": null,
+    "total": 1431
+  },
+  "genres": [
+    "hyperpop en espanol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb46fa2d440c0383f198d776a9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517446fa2d440c0383f198d776a9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17846fa2d440c0383f198d776a9",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/06zXH12gLDpAdKK0WQLp01"
+  }
+}

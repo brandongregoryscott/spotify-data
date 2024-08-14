@@ -1,0 +1,33 @@
+{
+  "id": "0BfQ8COB7K647uB6a0kMZn",
+  "name": "Gathering Field",
+  "uri": "spotify:artist:0BfQ8COB7K647uB6a0kMZn",
+  "followers": {
+    "href": null,
+    "total": 798
+  },
+  "genres": [
+    "pittsburgh rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b55edcb8d4a44d49bf27decc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b55edcb8d4a44d49bf27decc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b55edcb8d4a44d49bf27decc",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0BfQ8COB7K647uB6a0kMZn"
+  }
+}

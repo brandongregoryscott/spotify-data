@@ -1,0 +1,34 @@
+{
+  "id": "00baC9BEnC6lhOdSF6dYC8",
+  "name": "Jim Moray",
+  "uri": "spotify:artist:00baC9BEnC6lhOdSF6dYC8",
+  "followers": {
+    "href": null,
+    "total": 4122
+  },
+  "genres": [
+    "british folk",
+    "traditional british folk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebad8560ef95ae5c0e1ba3430b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ad8560ef95ae5c0e1ba3430b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ad8560ef95ae5c0e1ba3430b",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/00baC9BEnC6lhOdSF6dYC8"
+  }
+}
