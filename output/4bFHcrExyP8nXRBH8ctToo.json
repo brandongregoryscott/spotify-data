@@ -1,0 +1,33 @@
+{
+  "id": "4bFHcrExyP8nXRBH8ctToo",
+  "name": "Lado",
+  "uri": "spotify:artist:4bFHcrExyP8nXRBH8ctToo",
+  "followers": {
+    "href": null,
+    "total": 133
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27379e72bc52d1f1143081ad49a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0279e72bc52d1f1143081ad49a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485179e72bc52d1f1143081ad49a",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4bFHcrExyP8nXRBH8ctToo"
+  }
+}

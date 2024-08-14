@@ -1,0 +1,33 @@
+{
+  "id": "4pU92pQE2cIbDY7DcVvRgo",
+  "name": "Leahi",
+  "uri": "spotify:artist:4pU92pQE2cIbDY7DcVvRgo",
+  "followers": {
+    "href": null,
+    "total": 821
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273befcc46881d193c93135dedb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02befcc46881d193c93135dedb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851befcc46881d193c93135dedb",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4pU92pQE2cIbDY7DcVvRgo"
+  }
+}
