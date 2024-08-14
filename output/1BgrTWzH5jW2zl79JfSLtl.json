@@ -1,0 +1,33 @@
+{
+  "id": "1BgrTWzH5jW2zl79JfSLtl",
+  "name": "Les Respectables",
+  "uri": "spotify:artist:1BgrTWzH5jW2zl79JfSLtl",
+  "followers": {
+    "href": null,
+    "total": 20736
+  },
+  "genres": [
+    "rock quebecois"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b6f898b4235030d43aa7db90",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b6f898b4235030d43aa7db90",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b6f898b4235030d43aa7db90",
+      "width": 64
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1BgrTWzH5jW2zl79JfSLtl"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1GTb7z22lSUwWOBpjMpszH",
+  "name": "Richard Schroder",
+  "uri": "spotify:artist:1GTb7z22lSUwWOBpjMpszH",
+  "followers": {
+    "href": null,
+    "total": 3216
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd8345da2359e0c71fdb990fa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d8345da2359e0c71fdb990fa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d8345da2359e0c71fdb990fa",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1GTb7z22lSUwWOBpjMpszH"
+  }
+}

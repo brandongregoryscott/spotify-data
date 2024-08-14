@@ -1,0 +1,33 @@
+{
+  "id": "1HWk5f01Z9krMDTnoNWIUX",
+  "name": "Choiza",
+  "uri": "spotify:artist:1HWk5f01Z9krMDTnoNWIUX",
+  "followers": {
+    "href": null,
+    "total": 162
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27359387c48320df0b99588dfcd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0259387c48320df0b99588dfcd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485159387c48320df0b99588dfcd",
+      "width": 64
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1HWk5f01Z9krMDTnoNWIUX"
+  }
+}

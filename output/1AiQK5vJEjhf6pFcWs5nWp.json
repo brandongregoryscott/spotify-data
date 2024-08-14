@@ -1,0 +1,40 @@
+{
+  "id": "1AiQK5vJEjhf6pFcWs5nWp",
+  "name": "The Filthy Six",
+  "uri": "spotify:artist:1AiQK5vJEjhf6pFcWs5nWp",
+  "followers": {
+    "href": null,
+    "total": 5280
+  },
+  "genres": [
+    "acid jazz",
+    "british jazz",
+    "instrumental funk"
+  ],
+  "images": [
+    {
+      "height": 1000,
+      "url": "https://i.scdn.co/image/d07fbd0e0c61439a31c6393753ef80745834a622",
+      "width": 1000
+    },
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/df9b5bd68cf9ee480b170cce2a84ba5e4242fd36",
+      "width": 640
+    },
+    {
+      "height": 200,
+      "url": "https://i.scdn.co/image/1bd2205e8af44bca02463b3873d19d9cc550f532",
+      "width": 200
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/acd48eb3525bad7ed30ca57c8a0717956c0b7b72",
+      "width": 64
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1AiQK5vJEjhf6pFcWs5nWp"
+  }
+}

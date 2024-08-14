@@ -1,0 +1,33 @@
+{
+  "id": "1DtP40AvBaOfAcmij2nZWH",
+  "name": "Sean Born",
+  "uri": "spotify:artist:1DtP40AvBaOfAcmij2nZWH",
+  "followers": {
+    "href": null,
+    "total": 730
+  },
+  "genres": [
+    "deep flow"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd7f6a468955be45e3f369010",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d7f6a468955be45e3f369010",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d7f6a468955be45e3f369010",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1DtP40AvBaOfAcmij2nZWH"
+  }
+}

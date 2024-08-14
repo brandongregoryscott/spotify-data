@@ -1,0 +1,33 @@
+{
+  "id": "1B1eq4AlVcpVEyU3O0vALP",
+  "name": "The Wet Secrets",
+  "uri": "spotify:artist:1B1eq4AlVcpVEyU3O0vALP",
+  "followers": {
+    "href": null,
+    "total": 1557
+  },
+  "genres": [
+    "edmonton indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc45760f912a9bc28be43d164",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c45760f912a9bc28be43d164",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c45760f912a9bc28be43d164",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1B1eq4AlVcpVEyU3O0vALP"
+  }
+}

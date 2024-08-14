@@ -1,0 +1,33 @@
+{
+  "id": "1AcbiXIBnXiEVylnT3J9XY",
+  "name": "DreamLake",
+  "uri": "spotify:artist:1AcbiXIBnXiEVylnT3J9XY",
+  "followers": {
+    "href": null,
+    "total": 429
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebddfdd52c1eb1cb3c82f298f7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ddfdd52c1eb1cb3c82f298f7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ddfdd52c1eb1cb3c82f298f7",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1AcbiXIBnXiEVylnT3J9XY"
+  }
+}

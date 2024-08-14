@@ -1,0 +1,33 @@
+{
+  "id": "0zb3oRL29QyFSLYCM73BFe",
+  "name": "Julien Wilson",
+  "uri": "spotify:artist:0zb3oRL29QyFSLYCM73BFe",
+  "followers": {
+    "href": null,
+    "total": 449
+  },
+  "genres": [
+    "australian jazz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcbb5f9f40bce41754fcd4d12",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cbb5f9f40bce41754fcd4d12",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cbb5f9f40bce41754fcd4d12",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0zb3oRL29QyFSLYCM73BFe"
+  }
+}

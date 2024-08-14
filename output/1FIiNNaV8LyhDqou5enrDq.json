@@ -1,0 +1,34 @@
+{
+  "id": "1FIiNNaV8LyhDqou5enrDq",
+  "name": "Kouichi Aoki",
+  "uri": "spotify:artist:1FIiNNaV8LyhDqou5enrDq",
+  "followers": {
+    "href": null,
+    "total": 1310
+  },
+  "genres": [
+    "enka",
+    "ryukoka"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735d2dafb57cec3764c84b4878",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025d2dafb57cec3764c84b4878",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515d2dafb57cec3764c84b4878",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1FIiNNaV8LyhDqou5enrDq"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "18DdWa4A2Y4plTzuuCKovN",
+  "name": "snmey",
+  "uri": "spotify:artist:18DdWa4A2Y4plTzuuCKovN",
+  "followers": {
+    "href": null,
+    "total": 52
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb12d97deb5c31e5be656652d7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517412d97deb5c31e5be656652d7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17812d97deb5c31e5be656652d7",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/18DdWa4A2Y4plTzuuCKovN"
+  }
+}

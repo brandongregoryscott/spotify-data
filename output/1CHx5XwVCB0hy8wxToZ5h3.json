@@ -1,0 +1,33 @@
+{
+  "id": "1CHx5XwVCB0hy8wxToZ5h3",
+  "name": "Art Gecko",
+  "uri": "spotify:artist:1CHx5XwVCB0hy8wxToZ5h3",
+  "followers": {
+    "href": null,
+    "total": 414
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb38b75aa982629f33629d0c7a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517438b75aa982629f33629d0c7a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17838b75aa982629f33629d0c7a",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1CHx5XwVCB0hy8wxToZ5h3"
+  }
+}

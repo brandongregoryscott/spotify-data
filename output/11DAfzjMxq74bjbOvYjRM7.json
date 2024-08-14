@@ -1,0 +1,33 @@
+{
+  "id": "11DAfzjMxq74bjbOvYjRM7",
+  "name": "The Holiday Band",
+  "uri": "spotify:artist:11DAfzjMxq74bjbOvYjRM7",
+  "followers": {
+    "href": null,
+    "total": 705
+  },
+  "genres": [
+    "beach music"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27352f3a7e6ac2794c048cb060c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0252f3a7e6ac2794c048cb060c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485152f3a7e6ac2794c048cb060c",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/11DAfzjMxq74bjbOvYjRM7"
+  }
+}

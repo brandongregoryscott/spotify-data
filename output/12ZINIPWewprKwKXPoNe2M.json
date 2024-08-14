@@ -1,0 +1,33 @@
+{
+  "id": "12ZINIPWewprKwKXPoNe2M",
+  "name": "Ana Paula",
+  "uri": "spotify:artist:12ZINIPWewprKwKXPoNe2M",
+  "followers": {
+    "href": null,
+    "total": 62
+  },
+  "genres": [
+    "brazilian emo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ba04def0585ccbc240f035f7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ba04def0585ccbc240f035f7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ba04def0585ccbc240f035f7",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/12ZINIPWewprKwKXPoNe2M"
+  }
+}

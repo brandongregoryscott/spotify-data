@@ -1,0 +1,33 @@
+{
+  "id": "13T3PKibpSE9YavCGqu7Et",
+  "name": "JG Crawford",
+  "uri": "spotify:artist:13T3PKibpSE9YavCGqu7Et",
+  "followers": {
+    "href": null,
+    "total": 35
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcef3888034e404ab3815805a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cef3888034e404ab3815805a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cef3888034e404ab3815805a",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/13T3PKibpSE9YavCGqu7Et"
+  }
+}

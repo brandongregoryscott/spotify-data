@@ -1,0 +1,33 @@
+{
+  "id": "1ANNBcpzwz0RkrqMuku1AA",
+  "name": "Mellow Owl",
+  "uri": "spotify:artist:1ANNBcpzwz0RkrqMuku1AA",
+  "followers": {
+    "href": null,
+    "total": 98
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb62bc641c8c7ebddc7a9c4981",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517462bc641c8c7ebddc7a9c4981",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17862bc641c8c7ebddc7a9c4981",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ANNBcpzwz0RkrqMuku1AA"
+  }
+}

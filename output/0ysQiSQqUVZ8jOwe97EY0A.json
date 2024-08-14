@@ -1,0 +1,33 @@
+{
+  "id": "0ysQiSQqUVZ8jOwe97EY0A",
+  "name": "Nusnce",
+  "uri": "spotify:artist:0ysQiSQqUVZ8jOwe97EY0A",
+  "followers": {
+    "href": null,
+    "total": 191
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcea4cb6393f95f324bff25c6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cea4cb6393f95f324bff25c6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cea4cb6393f95f324bff25c6",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ysQiSQqUVZ8jOwe97EY0A"
+  }
+}

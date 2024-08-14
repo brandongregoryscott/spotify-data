@@ -1,0 +1,33 @@
+{
+  "id": "11ROA74w2JYySOgBcKQVrl",
+  "name": "David WRLD",
+  "uri": "spotify:artist:11ROA74w2JYySOgBcKQVrl",
+  "followers": {
+    "href": null,
+    "total": 145
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb57f3245e6039d8350ceff86b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517457f3245e6039d8350ceff86b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17857f3245e6039d8350ceff86b",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/11ROA74w2JYySOgBcKQVrl"
+  }
+}

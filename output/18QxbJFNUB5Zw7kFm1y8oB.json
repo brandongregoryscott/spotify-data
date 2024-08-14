@@ -1,0 +1,33 @@
+{
+  "id": "18QxbJFNUB5Zw7kFm1y8oB",
+  "name": "Qutee",
+  "uri": "spotify:artist:18QxbJFNUB5Zw7kFm1y8oB",
+  "followers": {
+    "href": null,
+    "total": 299
+  },
+  "genres": [
+    "ua trap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb758de19d4f948614e3ce4e51",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174758de19d4f948614e3ce4e51",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178758de19d4f948614e3ce4e51",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/18QxbJFNUB5Zw7kFm1y8oB"
+  }
+}

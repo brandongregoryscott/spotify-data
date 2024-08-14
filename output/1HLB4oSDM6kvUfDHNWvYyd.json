@@ -1,0 +1,33 @@
+{
+  "id": "1HLB4oSDM6kvUfDHNWvYyd",
+  "name": "Angel Serna",
+  "uri": "spotify:artist:1HLB4oSDM6kvUfDHNWvYyd",
+  "followers": {
+    "href": null,
+    "total": 1215
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebda9ca5cc20f40b475c54db56",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174da9ca5cc20f40b475c54db56",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178da9ca5cc20f40b475c54db56",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1HLB4oSDM6kvUfDHNWvYyd"
+  }
+}
