@@ -1,0 +1,33 @@
+{
+  "id": "0cEk9sfePJmY3ima18oZmR",
+  "name": "My Killing Game",
+  "uri": "spotify:artist:0cEk9sfePJmY3ima18oZmR",
+  "followers": {
+    "href": null,
+    "total": 104
+  },
+  "genres": [
+    "swedish synth"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf20af38bff311b38e61d4906",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f20af38bff311b38e61d4906",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f20af38bff311b38e61d4906",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0cEk9sfePJmY3ima18oZmR"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0RFmUvURA7c08gR415HMSP",
+  "name": "Claire Givens",
+  "uri": "spotify:artist:0RFmUvURA7c08gR415HMSP",
+  "followers": {
+    "href": null,
+    "total": 22
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb54627c891e066156749d052f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517454627c891e066156749d052f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17854627c891e066156749d052f",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0RFmUvURA7c08gR415HMSP"
+  }
+}

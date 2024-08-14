@@ -1,0 +1,33 @@
+{
+  "id": "0c8xYlEYETimOaLlGZcMVk",
+  "name": "The Rock Music",
+  "uri": "spotify:artist:0c8xYlEYETimOaLlGZcMVk",
+  "followers": {
+    "href": null,
+    "total": 4307
+  },
+  "genres": [
+    "christian uplift"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe1823ddb8d263f196b9e61c7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e1823ddb8d263f196b9e61c7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e1823ddb8d263f196b9e61c7",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0c8xYlEYETimOaLlGZcMVk"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0WqvfZJ4dLQm7G7gGnevlJ",
+  "name": "PheraX",
+  "uri": "spotify:artist:0WqvfZJ4dLQm7G7gGnevlJ",
+  "followers": {
+    "href": null,
+    "total": 320
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfd700c42eea7de0a41cb67a5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fd700c42eea7de0a41cb67a5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fd700c42eea7de0a41cb67a5",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0WqvfZJ4dLQm7G7gGnevlJ"
+  }
+}

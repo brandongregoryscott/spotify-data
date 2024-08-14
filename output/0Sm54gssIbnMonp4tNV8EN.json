@@ -1,0 +1,33 @@
+{
+  "id": "0Sm54gssIbnMonp4tNV8EN",
+  "name": "NUMERO13",
+  "uri": "spotify:artist:0Sm54gssIbnMonp4tNV8EN",
+  "followers": {
+    "href": null,
+    "total": 577
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb72ff4b8be6fdb71ce30105e6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517472ff4b8be6fdb71ce30105e6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17872ff4b8be6fdb71ce30105e6",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Sm54gssIbnMonp4tNV8EN"
+  }
+}

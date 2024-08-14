@@ -1,0 +1,34 @@
+{
+  "id": "0S8tTc2LntsnsJtkDUToKp",
+  "name": "Tigapagi",
+  "uri": "spotify:artist:0S8tTc2LntsnsJtkDUToKp",
+  "followers": {
+    "href": null,
+    "total": 4934
+  },
+  "genres": [
+    "bandung indie",
+    "indonesian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc5fc2c14a00ebc37c46cb5ca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c5fc2c14a00ebc37c46cb5ca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c5fc2c14a00ebc37c46cb5ca",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0S8tTc2LntsnsJtkDUToKp"
+  }
+}

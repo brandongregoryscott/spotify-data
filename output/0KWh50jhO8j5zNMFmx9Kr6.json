@@ -1,0 +1,34 @@
+{
+  "id": "0KWh50jhO8j5zNMFmx9Kr6",
+  "name": "Jorge Peixinho",
+  "uri": "spotify:artist:0KWh50jhO8j5zNMFmx9Kr6",
+  "followers": {
+    "href": null,
+    "total": 215
+  },
+  "genres": [
+    "portuguese classical",
+    "portuguese contemporary classical"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273224f29636e56a1597dfba9ea",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02224f29636e56a1597dfba9ea",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851224f29636e56a1597dfba9ea",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0KWh50jhO8j5zNMFmx9Kr6"
+  }
+}

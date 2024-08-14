@@ -1,0 +1,34 @@
+{
+  "id": "0aqVsYytIGMkikRmhOlStW",
+  "name": "End7",
+  "uri": "spotify:artist:0aqVsYytIGMkikRmhOlStW",
+  "followers": {
+    "href": null,
+    "total": 406
+  },
+  "genres": [
+    "alternative metalcore",
+    "rap metalcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bda586320bae65940db4cabc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bda586320bae65940db4cabc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bda586320bae65940db4cabc",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0aqVsYytIGMkikRmhOlStW"
+  }
+}

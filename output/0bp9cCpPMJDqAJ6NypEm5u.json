@@ -1,0 +1,33 @@
+{
+  "id": "0bp9cCpPMJDqAJ6NypEm5u",
+  "name": "The Smog",
+  "uri": "spotify:artist:0bp9cCpPMJDqAJ6NypEm5u",
+  "followers": {
+    "href": null,
+    "total": 264
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc8cddabe8825cb740f081a78",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c8cddabe8825cb740f081a78",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c8cddabe8825cb740f081a78",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0bp9cCpPMJDqAJ6NypEm5u"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0Z6dkGdfL90jMrWXgvlnZi",
+  "name": "Pong",
+  "uri": "spotify:artist:0Z6dkGdfL90jMrWXgvlnZi",
+  "followers": {
+    "href": null,
+    "total": 284
+  },
+  "genres": [
+    "austindie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27347cffb0b7c8f5ff9a0c7fa92",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0247cffb0b7c8f5ff9a0c7fa92",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485147cffb0b7c8f5ff9a0c7fa92",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Z6dkGdfL90jMrWXgvlnZi"
+  }
+}

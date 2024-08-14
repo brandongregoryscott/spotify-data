@@ -1,0 +1,33 @@
+{
+  "id": "0ax15XXrvqLqytdj12fX2h",
+  "name": "Fasme",
+  "uri": "spotify:artist:0ax15XXrvqLqytdj12fX2h",
+  "followers": {
+    "href": null,
+    "total": 7228
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba7b794b44d67adacded30dcb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a7b794b44d67adacded30dcb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a7b794b44d67adacded30dcb",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ax15XXrvqLqytdj12fX2h"
+  }
+}

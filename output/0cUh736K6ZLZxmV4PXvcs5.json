@@ -1,0 +1,33 @@
+{
+  "id": "0cUh736K6ZLZxmV4PXvcs5",
+  "name": "Meander",
+  "uri": "spotify:artist:0cUh736K6ZLZxmV4PXvcs5",
+  "followers": {
+    "href": null,
+    "total": 1696
+  },
+  "genres": [
+    "doomcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dbedbc29e8a4631d1f24aadf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dbedbc29e8a4631d1f24aadf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dbedbc29e8a4631d1f24aadf",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0cUh736K6ZLZxmV4PXvcs5"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0PLhMdDXcRClQ3jtCwqxWp",
+  "name": "Los Malagueña",
+  "uri": "spotify:artist:0PLhMdDXcRClQ3jtCwqxWp",
+  "followers": {
+    "href": null,
+    "total": 1872
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb0332fb2949ea6130339bc42",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b0332fb2949ea6130339bc42",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b0332fb2949ea6130339bc42",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0PLhMdDXcRClQ3jtCwqxWp"
+  }
+}

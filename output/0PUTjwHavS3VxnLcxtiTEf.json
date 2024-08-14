@@ -1,0 +1,33 @@
+{
+  "id": "0PUTjwHavS3VxnLcxtiTEf",
+  "name": "Sofi",
+  "uri": "spotify:artist:0PUTjwHavS3VxnLcxtiTEf",
+  "followers": {
+    "href": null,
+    "total": 10
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27323c43c8702d26132cf7e1d71",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ac380a460a15f21e9ae92644",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485123c43c8702d26132cf7e1d71",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0PUTjwHavS3VxnLcxtiTEf"
+  }
+}

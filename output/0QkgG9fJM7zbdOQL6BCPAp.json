@@ -1,0 +1,33 @@
+{
+  "id": "0QkgG9fJM7zbdOQL6BCPAp",
+  "name": "Jayne Trimble",
+  "uri": "spotify:artist:0QkgG9fJM7zbdOQL6BCPAp",
+  "followers": {
+    "href": null,
+    "total": 434
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738fd75797564eed0c959c11aa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028fd75797564eed0c959c11aa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518fd75797564eed0c959c11aa",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0QkgG9fJM7zbdOQL6BCPAp"
+  }
+}

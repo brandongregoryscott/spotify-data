@@ -1,0 +1,33 @@
+{
+  "id": "0atfUcYIKpPNJkO4qT5lnl",
+  "name": "Jazz",
+  "uri": "spotify:artist:0atfUcYIKpPNJkO4qT5lnl",
+  "followers": {
+    "href": null,
+    "total": 115
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb65f09c2b51439c7c3ae4b06",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b65f09c2b51439c7c3ae4b06",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b65f09c2b51439c7c3ae4b06",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0atfUcYIKpPNJkO4qT5lnl"
+  }
+}

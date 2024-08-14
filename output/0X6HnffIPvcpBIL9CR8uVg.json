@@ -1,0 +1,33 @@
+{
+  "id": "0X6HnffIPvcpBIL9CR8uVg",
+  "name": "Among The Stars",
+  "uri": "spotify:artist:0X6HnffIPvcpBIL9CR8uVg",
+  "followers": {
+    "href": null,
+    "total": 401
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb15dfd9ab3c643bb1e5e3e326",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517415dfd9ab3c643bb1e5e3e326",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17815dfd9ab3c643bb1e5e3e326",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0X6HnffIPvcpBIL9CR8uVg"
+  }
+}

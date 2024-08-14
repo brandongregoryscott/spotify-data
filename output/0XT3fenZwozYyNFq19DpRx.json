@@ -1,0 +1,33 @@
+{
+  "id": "0XT3fenZwozYyNFq19DpRx",
+  "name": "CAS",
+  "uri": "spotify:artist:0XT3fenZwozYyNFq19DpRx",
+  "followers": {
+    "href": null,
+    "total": 222
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ec295e31d210cd6126d36081",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dd4b2a93af8fa4b2ca94ccd6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485157dca389427e8f8cad110b8f",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0XT3fenZwozYyNFq19DpRx"
+  }
+}

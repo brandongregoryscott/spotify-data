@@ -1,0 +1,34 @@
+{
+  "id": "0ZDEhrWNSY6j4uy3EzDaTn",
+  "name": "Paulo Vanzolini",
+  "uri": "spotify:artist:0ZDEhrWNSY6j4uy3EzDaTn",
+  "followers": {
+    "href": null,
+    "total": 4534
+  },
+  "genres": [
+    "samba paulista",
+    "velha guarda"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f2e46bfbfba3a4ebb8fa084f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f2e46bfbfba3a4ebb8fa084f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f2e46bfbfba3a4ebb8fa084f",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ZDEhrWNSY6j4uy3EzDaTn"
+  }
+}

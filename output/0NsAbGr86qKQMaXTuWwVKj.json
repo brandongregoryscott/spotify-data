@@ -1,0 +1,33 @@
+{
+  "id": "0NsAbGr86qKQMaXTuWwVKj",
+  "name": "Stefan Sundström",
+  "uri": "spotify:artist:0NsAbGr86qKQMaXTuWwVKj",
+  "followers": {
+    "href": null,
+    "total": 18470
+  },
+  "genres": [
+    "classic swedish pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb61efeb4db8cbc94309cbafef",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517461efeb4db8cbc94309cbafef",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17861efeb4db8cbc94309cbafef",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0NsAbGr86qKQMaXTuWwVKj"
+  }
+}

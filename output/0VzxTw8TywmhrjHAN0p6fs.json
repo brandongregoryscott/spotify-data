@@ -1,0 +1,33 @@
+{
+  "id": "0VzxTw8TywmhrjHAN0p6fs",
+  "name": "Svble",
+  "uri": "spotify:artist:0VzxTw8TywmhrjHAN0p6fs",
+  "followers": {
+    "href": null,
+    "total": 1543
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb585c00a3314541a9e72cff01",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174585c00a3314541a9e72cff01",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178585c00a3314541a9e72cff01",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0VzxTw8TywmhrjHAN0p6fs"
+  }
+}

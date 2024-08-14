@@ -1,0 +1,33 @@
+{
+  "id": "0KTpJYwmBiu2Zbm6W4wiZH",
+  "name": "Yassy",
+  "uri": "spotify:artist:0KTpJYwmBiu2Zbm6W4wiZH",
+  "followers": {
+    "href": null,
+    "total": 13
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb25075d349baf542dc80c3a5d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517425075d349baf542dc80c3a5d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17825075d349baf542dc80c3a5d",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0KTpJYwmBiu2Zbm6W4wiZH"
+  }
+}

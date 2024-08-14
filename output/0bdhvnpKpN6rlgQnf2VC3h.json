@@ -1,0 +1,36 @@
+{
+  "id": "0bdhvnpKpN6rlgQnf2VC3h",
+  "name": "Virve Rosti",
+  "uri": "spotify:artist:0bdhvnpKpN6rlgQnf2VC3h",
+  "followers": {
+    "href": null,
+    "total": 11564
+  },
+  "genres": [
+    "classic finnish pop",
+    "classic iskelma",
+    "iskelma",
+    "suomi rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb99a1ffe45e25625b027b23ed",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517499a1ffe45e25625b027b23ed",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17899a1ffe45e25625b027b23ed",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0bdhvnpKpN6rlgQnf2VC3h"
+  }
+}
