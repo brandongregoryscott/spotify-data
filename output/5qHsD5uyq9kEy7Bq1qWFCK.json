@@ -1,0 +1,33 @@
+{
+  "id": "5qHsD5uyq9kEy7Bq1qWFCK",
+  "name": "DIX",
+  "uri": "spotify:artist:5qHsD5uyq9kEy7Bq1qWFCK",
+  "followers": {
+    "href": null,
+    "total": 42
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6cf32a7e8ba83c0e1bb12e62",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051746cf32a7e8ba83c0e1bb12e62",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1786cf32a7e8ba83c0e1bb12e62",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5qHsD5uyq9kEy7Bq1qWFCK"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "5wtxbzgYhdnCUNb3z4ulUA",
+  "name": "Jack & James",
+  "uri": "spotify:artist:5wtxbzgYhdnCUNb3z4ulUA",
+  "followers": {
+    "href": null,
+    "total": 9382
+  },
+  "genres": [
+    "big room",
+    "future bounce"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf900c81df480204ad488ca58",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f900c81df480204ad488ca58",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f900c81df480204ad488ca58",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5wtxbzgYhdnCUNb3z4ulUA"
+  }
+}

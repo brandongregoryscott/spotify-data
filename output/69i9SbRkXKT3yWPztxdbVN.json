@@ -1,0 +1,33 @@
+{
+  "id": "69i9SbRkXKT3yWPztxdbVN",
+  "name": "Renft",
+  "uri": "spotify:artist:69i9SbRkXKT3yWPztxdbVN",
+  "followers": {
+    "href": null,
+    "total": 3026
+  },
+  "genres": [
+    "ostrock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27382ecc8058c29c2faae30b5df",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0282ecc8058c29c2faae30b5df",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485182ecc8058c29c2faae30b5df",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/69i9SbRkXKT3yWPztxdbVN"
+  }
+}
