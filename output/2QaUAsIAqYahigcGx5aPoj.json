@@ -1,0 +1,33 @@
+{
+  "id": "2QaUAsIAqYahigcGx5aPoj",
+  "name": "Pash",
+  "uri": "spotify:artist:2QaUAsIAqYahigcGx5aPoj",
+  "followers": {
+    "href": null,
+    "total": 487
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb310d8dd0070a0b57f3dcc515",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174310d8dd0070a0b57f3dcc515",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178310d8dd0070a0b57f3dcc515",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2QaUAsIAqYahigcGx5aPoj"
+  }
+}

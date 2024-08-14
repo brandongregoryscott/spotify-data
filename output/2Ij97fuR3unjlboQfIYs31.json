@@ -1,0 +1,34 @@
+{
+  "id": "2Ij97fuR3unjlboQfIYs31",
+  "name": "Brendan Benson",
+  "uri": "spotify:artist:2Ij97fuR3unjlboQfIYs31",
+  "followers": {
+    "href": null,
+    "total": 30386
+  },
+  "genres": [
+    "jangle pop",
+    "power pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb50d6a211f4e573f6211fbeca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517450d6a211f4e573f6211fbeca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17850d6a211f4e573f6211fbeca",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2Ij97fuR3unjlboQfIYs31"
+  }
+}
