@@ -1,0 +1,33 @@
+{
+  "id": "1qMizLJAdhYKEYdAFtYl8T",
+  "name": "Shinbu",
+  "uri": "spotify:artist:1qMizLJAdhYKEYdAFtYl8T",
+  "followers": {
+    "href": null,
+    "total": 75
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739af399ddd6cf11cd2e7aecce",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029af399ddd6cf11cd2e7aecce",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519af399ddd6cf11cd2e7aecce",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1qMizLJAdhYKEYdAFtYl8T"
+  }
+}

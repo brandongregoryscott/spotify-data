@@ -1,0 +1,33 @@
+{
+  "id": "1hQ6HCHuS8BqCCcURgx9fn",
+  "name": "George Erith",
+  "uri": "spotify:artist:1hQ6HCHuS8BqCCcURgx9fn",
+  "followers": {
+    "href": null,
+    "total": 1104
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb9124f6d4b551edb333e3337",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b9124f6d4b551edb333e3337",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b9124f6d4b551edb333e3337",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1hQ6HCHuS8BqCCcURgx9fn"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1h6CLpoBnHDG7n6CvxJ5TD",
+  "name": "Andrew Carthage",
+  "uri": "spotify:artist:1h6CLpoBnHDG7n6CvxJ5TD",
+  "followers": {
+    "href": null,
+    "total": 486
+  },
+  "genres": [
+    "classify"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27326ad1487a0587ac50f6b834e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0226ad1487a0587ac50f6b834e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485126ad1487a0587ac50f6b834e",
+      "width": 64
+    }
+  ],
+  "popularity": 46,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1h6CLpoBnHDG7n6CvxJ5TD"
+  }
+}

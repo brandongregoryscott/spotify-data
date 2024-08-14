@@ -1,0 +1,33 @@
+{
+  "id": "1mUxA8Bcd9qdMgH9uMOIQb",
+  "name": "Jørgen Ingmann",
+  "uri": "spotify:artist:1mUxA8Bcd9qdMgH9uMOIQb",
+  "followers": {
+    "href": null,
+    "total": 1878
+  },
+  "genres": [
+    "dansktop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b9305ece0fa3e5a58ebfa152",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b9305ece0fa3e5a58ebfa152",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b9305ece0fa3e5a58ebfa152",
+      "width": 64
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1mUxA8Bcd9qdMgH9uMOIQb"
+  }
+}

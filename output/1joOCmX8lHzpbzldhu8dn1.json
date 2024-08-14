@@ -1,0 +1,33 @@
+{
+  "id": "1joOCmX8lHzpbzldhu8dn1",
+  "name": "Iris Bilinsky",
+  "uri": "spotify:artist:1joOCmX8lHzpbzldhu8dn1",
+  "followers": {
+    "href": null,
+    "total": 10696
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb39fb8843fbce24a9c3ef6753",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517439fb8843fbce24a9c3ef6753",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17839fb8843fbce24a9c3ef6753",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1joOCmX8lHzpbzldhu8dn1"
+  }
+}

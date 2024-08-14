@@ -1,0 +1,33 @@
+{
+  "id": "1u3TJe17ZmKoEMGfCK3Oiv",
+  "name": "Adam Siana",
+  "uri": "spotify:artist:1u3TJe17ZmKoEMGfCK3Oiv",
+  "followers": {
+    "href": null,
+    "total": 116
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb50d49a9f50e1ac1a334399f3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517450d49a9f50e1ac1a334399f3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17850d49a9f50e1ac1a334399f3",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1u3TJe17ZmKoEMGfCK3Oiv"
+  }
+}

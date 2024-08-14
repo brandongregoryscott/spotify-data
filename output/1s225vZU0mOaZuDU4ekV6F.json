@@ -1,0 +1,33 @@
+{
+  "id": "1s225vZU0mOaZuDU4ekV6F",
+  "name": "Mike Tedesco",
+  "uri": "spotify:artist:1s225vZU0mOaZuDU4ekV6F",
+  "followers": {
+    "href": null,
+    "total": 440
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdffbf4f91ef170f91f041177",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dffbf4f91ef170f91f041177",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dffbf4f91ef170f91f041177",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1s225vZU0mOaZuDU4ekV6F"
+  }
+}

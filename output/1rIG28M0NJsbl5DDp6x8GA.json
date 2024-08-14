@@ -1,0 +1,33 @@
+{
+  "id": "1rIG28M0NJsbl5DDp6x8GA",
+  "name": "Dab Rosser",
+  "uri": "spotify:artist:1rIG28M0NJsbl5DDp6x8GA",
+  "followers": {
+    "href": null,
+    "total": 240
+  },
+  "genres": [
+    "lo-fi cover"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273aa8515ec76d86c2ca3bf57ff",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02aa8515ec76d86c2ca3bf57ff",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851aa8515ec76d86c2ca3bf57ff",
+      "width": 64
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1rIG28M0NJsbl5DDp6x8GA"
+  }
+}

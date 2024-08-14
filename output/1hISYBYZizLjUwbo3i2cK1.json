@@ -1,0 +1,33 @@
+{
+  "id": "1hISYBYZizLjUwbo3i2cK1",
+  "name": "Ernest Third",
+  "uri": "spotify:artist:1hISYBYZizLjUwbo3i2cK1",
+  "followers": {
+    "href": null,
+    "total": 218
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb25e64cab7875cd80c6ce420c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517425e64cab7875cd80c6ce420c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17825e64cab7875cd80c6ce420c",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1hISYBYZizLjUwbo3i2cK1"
+  }
+}

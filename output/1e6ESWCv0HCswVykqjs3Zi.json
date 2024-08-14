@@ -1,0 +1,33 @@
+{
+  "id": "1e6ESWCv0HCswVykqjs3Zi",
+  "name": "Yep",
+  "uri": "spotify:artist:1e6ESWCv0HCswVykqjs3Zi",
+  "followers": {
+    "href": null,
+    "total": 106
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd18b5095a988f61ad586401c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d18b5095a988f61ad586401c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d18b5095a988f61ad586401c",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1e6ESWCv0HCswVykqjs3Zi"
+  }
+}

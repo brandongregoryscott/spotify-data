@@ -1,0 +1,33 @@
+{
+  "id": "1fImPZoBVjmYrBFzCHh0N3",
+  "name": "Souly",
+  "uri": "spotify:artist:1fImPZoBVjmYrBFzCHh0N3",
+  "followers": {
+    "href": null,
+    "total": 71745
+  },
+  "genres": [
+    "german hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdcdbbade7f79dd6b6d06f63d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dcdbbade7f79dd6b6d06f63d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dcdbbade7f79dd6b6d06f63d",
+      "width": 160
+    }
+  ],
+  "popularity": 61,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+  }
+}

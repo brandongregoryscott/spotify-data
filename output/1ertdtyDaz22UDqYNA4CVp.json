@@ -1,0 +1,33 @@
+{
+  "id": "1ertdtyDaz22UDqYNA4CVp",
+  "name": "Lety López",
+  "uri": "spotify:artist:1ertdtyDaz22UDqYNA4CVp",
+  "followers": {
+    "href": null,
+    "total": 2646
+  },
+  "genres": [
+    "regional mexicano femenil"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba423f9baf8b23e62bd2cb8f8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a423f9baf8b23e62bd2cb8f8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a423f9baf8b23e62bd2cb8f8",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ertdtyDaz22UDqYNA4CVp"
+  }
+}

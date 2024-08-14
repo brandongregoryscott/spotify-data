@@ -1,0 +1,33 @@
+{
+  "id": "1dOZrFpObQ0xhcl5yCMm0w",
+  "name": "hunara",
+  "uri": "spotify:artist:1dOZrFpObQ0xhcl5yCMm0w",
+  "followers": {
+    "href": null,
+    "total": 535
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb9a2bbb084933183ed322595",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b9a2bbb084933183ed322595",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b9a2bbb084933183ed322595",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1dOZrFpObQ0xhcl5yCMm0w"
+  }
+}

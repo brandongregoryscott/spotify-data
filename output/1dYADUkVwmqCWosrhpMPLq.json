@@ -1,0 +1,33 @@
+{
+  "id": "1dYADUkVwmqCWosrhpMPLq",
+  "name": "Calle 53",
+  "uri": "spotify:artist:1dYADUkVwmqCWosrhpMPLq",
+  "followers": {
+    "href": null,
+    "total": 170
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe32cd092dbb3cfb80de3ab58",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e32cd092dbb3cfb80de3ab58",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e32cd092dbb3cfb80de3ab58",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1dYADUkVwmqCWosrhpMPLq"
+  }
+}

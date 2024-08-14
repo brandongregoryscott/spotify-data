@@ -1,0 +1,33 @@
+{
+  "id": "1eUwrrRnhuPXAbI7mCnXlu",
+  "name": "Falgos",
+  "uri": "spotify:artist:1eUwrrRnhuPXAbI7mCnXlu",
+  "followers": {
+    "href": null,
+    "total": 20
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3347d2fdc34d4df4c6fe7e05",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051743347d2fdc34d4df4c6fe7e05",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1783347d2fdc34d4df4c6fe7e05",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1eUwrrRnhuPXAbI7mCnXlu"
+  }
+}

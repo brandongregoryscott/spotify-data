@@ -1,0 +1,33 @@
+{
+  "id": "1iWCRNRrzEvlI7CFO2PSqM",
+  "name": "High Parasite",
+  "uri": "spotify:artist:1iWCRNRrzEvlI7CFO2PSqM",
+  "followers": {
+    "href": null,
+    "total": 1046
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcbbcd7322a92018f75c3e73c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cbbcd7322a92018f75c3e73c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cbbcd7322a92018f75c3e73c",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1iWCRNRrzEvlI7CFO2PSqM"
+  }
+}

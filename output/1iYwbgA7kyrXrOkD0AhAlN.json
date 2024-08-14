@@ -1,0 +1,33 @@
+{
+  "id": "1iYwbgA7kyrXrOkD0AhAlN",
+  "name": "Ildec",
+  "uri": "spotify:artist:1iYwbgA7kyrXrOkD0AhAlN",
+  "followers": {
+    "href": null,
+    "total": 352
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb04a6d2f10ef6e9a6fded7aed",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517404a6d2f10ef6e9a6fded7aed",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17804a6d2f10ef6e9a6fded7aed",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1iYwbgA7kyrXrOkD0AhAlN"
+  }
+}

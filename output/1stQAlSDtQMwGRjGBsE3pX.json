@@ -1,0 +1,34 @@
+{
+  "id": "1stQAlSDtQMwGRjGBsE3pX",
+  "name": "Jazzékiel",
+  "uri": "spotify:artist:1stQAlSDtQMwGRjGBsE3pX",
+  "followers": {
+    "href": null,
+    "total": 1116
+  },
+  "genres": [
+    "hungarian rock",
+    "magyar alternative"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe1bb8e562b16074c2db7c050",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e1bb8e562b16074c2db7c050",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e1bb8e562b16074c2db7c050",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1stQAlSDtQMwGRjGBsE3pX"
+  }
+}

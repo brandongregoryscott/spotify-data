@@ -1,0 +1,35 @@
+{
+  "id": "1joFZGTRER78nUsWtgHCHR",
+  "name": "Rachel Portman",
+  "uri": "spotify:artist:1joFZGTRER78nUsWtgHCHR",
+  "followers": {
+    "href": null,
+    "total": 73312
+  },
+  "genres": [
+    "british soundtrack",
+    "orchestral soundtrack",
+    "soundtrack"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebecdcf117a93f2cab88a9faf8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ecdcf117a93f2cab88a9faf8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ecdcf117a93f2cab88a9faf8",
+      "width": 160
+    }
+  ],
+  "popularity": 51,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR"
+  }
+}

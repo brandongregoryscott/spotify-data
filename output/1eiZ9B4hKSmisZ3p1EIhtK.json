@@ -1,0 +1,33 @@
+{
+  "id": "1eiZ9B4hKSmisZ3p1EIhtK",
+  "name": "MY RED + BLUE",
+  "uri": "spotify:artist:1eiZ9B4hKSmisZ3p1EIhtK",
+  "followers": {
+    "href": null,
+    "total": 1292
+  },
+  "genres": [
+    "indiecoustica"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb87581ca30338a8c76913263f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517487581ca30338a8c76913263f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17887581ca30338a8c76913263f",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1eiZ9B4hKSmisZ3p1EIhtK"
+  }
+}

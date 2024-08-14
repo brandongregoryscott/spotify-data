@@ -1,0 +1,33 @@
+{
+  "id": "1qiPxBxErMdvK8moGoGQ8P",
+  "name": "Yoshihiro Kondo",
+  "uri": "spotify:artist:1qiPxBxErMdvK8moGoGQ8P",
+  "followers": {
+    "href": null,
+    "total": 660
+  },
+  "genres": [
+    "japanese classical piano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731b7a2172b038c33a5d32ac03",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021b7a2172b038c33a5d32ac03",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511b7a2172b038c33a5d32ac03",
+      "width": 64
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1qiPxBxErMdvK8moGoGQ8P"
+  }
+}

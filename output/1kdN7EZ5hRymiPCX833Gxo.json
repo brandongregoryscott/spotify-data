@@ -1,0 +1,33 @@
+{
+  "id": "1kdN7EZ5hRymiPCX833Gxo",
+  "name": "hydn",
+  "uri": "spotify:artist:1kdN7EZ5hRymiPCX833Gxo",
+  "followers": {
+    "href": null,
+    "total": 985
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb9f0e7af55fefc7a9c3e7816",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b9f0e7af55fefc7a9c3e7816",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b9f0e7af55fefc7a9c3e7816",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1kdN7EZ5hRymiPCX833Gxo"
+  }
+}

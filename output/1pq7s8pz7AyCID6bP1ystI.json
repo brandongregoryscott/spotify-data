@@ -1,0 +1,33 @@
+{
+  "id": "1pq7s8pz7AyCID6bP1ystI",
+  "name": "Song Thư",
+  "uri": "spotify:artist:1pq7s8pz7AyCID6bP1ystI",
+  "followers": {
+    "href": null,
+    "total": 1322
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27319596c0a4227bae73ec15699",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0219596c0a4227bae73ec15699",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485119596c0a4227bae73ec15699",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1pq7s8pz7AyCID6bP1ystI"
+  }
+}

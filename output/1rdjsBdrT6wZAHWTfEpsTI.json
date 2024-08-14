@@ -1,0 +1,33 @@
+{
+  "id": "1rdjsBdrT6wZAHWTfEpsTI",
+  "name": "Kalle J",
+  "uri": "spotify:artist:1rdjsBdrT6wZAHWTfEpsTI",
+  "followers": {
+    "href": null,
+    "total": 1093
+  },
+  "genres": [
+    "swedish electropop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb72bdff9ce4cb1f3daa1121a8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517472bdff9ce4cb1f3daa1121a8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17872bdff9ce4cb1f3daa1121a8",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1rdjsBdrT6wZAHWTfEpsTI"
+  }
+}

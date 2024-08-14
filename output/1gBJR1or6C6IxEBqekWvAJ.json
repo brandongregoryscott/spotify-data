@@ -1,0 +1,33 @@
+{
+  "id": "1gBJR1or6C6IxEBqekWvAJ",
+  "name": "Dave Álvarez",
+  "uri": "spotify:artist:1gBJR1or6C6IxEBqekWvAJ",
+  "followers": {
+    "href": null,
+    "total": 141
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebad311e2b0acaf855677cd49e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ad311e2b0acaf855677cd49e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ad311e2b0acaf855677cd49e",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1gBJR1or6C6IxEBqekWvAJ"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1rbSMmuTfAtxnKUuZ34zia",
+  "name": "The Conga Kings",
+  "uri": "spotify:artist:1rbSMmuTfAtxnKUuZ34zia",
+  "followers": {
+    "href": null,
+    "total": 499
+  },
+  "genres": [
+    "afro-cuban percussion"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734d1c6ec3c08bca3fcf6b086f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024d1c6ec3c08bca3fcf6b086f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514d1c6ec3c08bca3fcf6b086f",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1rbSMmuTfAtxnKUuZ34zia"
+  }
+}

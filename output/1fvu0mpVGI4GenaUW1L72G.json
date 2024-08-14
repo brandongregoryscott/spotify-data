@@ -1,0 +1,33 @@
+{
+  "id": "1fvu0mpVGI4GenaUW1L72G",
+  "name": "2-20",
+  "uri": "spotify:artist:1fvu0mpVGI4GenaUW1L72G",
+  "followers": {
+    "href": null,
+    "total": 417
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbe918b6ac111f18ca7ce478e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174be918b6ac111f18ca7ce478e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178be918b6ac111f18ca7ce478e",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1fvu0mpVGI4GenaUW1L72G"
+  }
+}

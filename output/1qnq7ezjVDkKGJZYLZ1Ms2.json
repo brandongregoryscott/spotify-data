@@ -1,0 +1,40 @@
+{
+  "id": "1qnq7ezjVDkKGJZYLZ1Ms2",
+  "name": "Luckey Roberts",
+  "uri": "spotify:artist:1qnq7ezjVDkKGJZYLZ1Ms2",
+  "followers": {
+    "href": null,
+    "total": 684
+  },
+  "genres": [
+    "ragtime",
+    "stride",
+    "vintage jazz"
+  ],
+  "images": [
+    {
+      "height": 1000,
+      "url": "https://i.scdn.co/image/d941aadce7ee6d3730e3b292395cef0f643d5bb6",
+      "width": 1000
+    },
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/f84fd18cab3000e8706a9dc0ef44e59f6a5cca85",
+      "width": 640
+    },
+    {
+      "height": 200,
+      "url": "https://i.scdn.co/image/268bac9a74851f029155cdf0c3036856284b0c9e",
+      "width": 200
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/6d67f859a295646487549bcba013ddeb88da5965",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1qnq7ezjVDkKGJZYLZ1Ms2"
+  }
+}

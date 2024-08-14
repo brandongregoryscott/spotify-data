@@ -1,0 +1,33 @@
+{
+  "id": "1leQxJkIM7I797SDWqY7KT",
+  "name": "Light Bird",
+  "uri": "spotify:artist:1leQxJkIM7I797SDWqY7KT",
+  "followers": {
+    "href": null,
+    "total": 90
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcc5e0432994fa3151e4ef7f5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cc5e0432994fa3151e4ef7f5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cc5e0432994fa3151e4ef7f5",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1leQxJkIM7I797SDWqY7KT"
+  }
+}
