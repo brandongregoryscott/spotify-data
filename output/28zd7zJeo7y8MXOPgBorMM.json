@@ -1,0 +1,33 @@
+{
+  "id": "28zd7zJeo7y8MXOPgBorMM",
+  "name": "Gältzy",
+  "uri": "spotify:artist:28zd7zJeo7y8MXOPgBorMM",
+  "followers": {
+    "href": null,
+    "total": 225
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebab3873bb96e8d0b180f35a0e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ab3873bb96e8d0b180f35a0e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ab3873bb96e8d0b180f35a0e",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/28zd7zJeo7y8MXOPgBorMM"
+  }
+}

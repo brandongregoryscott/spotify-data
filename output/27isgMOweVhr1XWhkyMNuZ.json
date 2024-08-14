@@ -1,0 +1,34 @@
+{
+  "id": "27isgMOweVhr1XWhkyMNuZ",
+  "name": "The Arrs",
+  "uri": "spotify:artist:27isgMOweVhr1XWhkyMNuZ",
+  "followers": {
+    "href": null,
+    "total": 7467
+  },
+  "genres": [
+    "french metal",
+    "neo metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273326917215ab68962d80d462e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02326917215ab68962d80d462e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851326917215ab68962d80d462e",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/27isgMOweVhr1XWhkyMNuZ"
+  }
+}

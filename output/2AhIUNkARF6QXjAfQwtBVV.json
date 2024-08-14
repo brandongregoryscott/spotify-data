@@ -1,0 +1,33 @@
+{
+  "id": "2AhIUNkARF6QXjAfQwtBVV",
+  "name": "Shadow",
+  "uri": "spotify:artist:2AhIUNkARF6QXjAfQwtBVV",
+  "followers": {
+    "href": null,
+    "total": 417
+  },
+  "genres": [
+    "japanese death metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737009f3d45fa0c591ef8d0cbf",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027009f3d45fa0c591ef8d0cbf",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517009f3d45fa0c591ef8d0cbf",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2AhIUNkARF6QXjAfQwtBVV"
+  }
+}

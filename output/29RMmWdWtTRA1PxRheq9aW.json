@@ -1,0 +1,33 @@
+{
+  "id": "29RMmWdWtTRA1PxRheq9aW",
+  "name": "Perfect",
+  "uri": "spotify:artist:29RMmWdWtTRA1PxRheq9aW",
+  "followers": {
+    "href": null,
+    "total": 159
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27375587436fe16a364bfa7a943",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0275587436fe16a364bfa7a943",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485175587436fe16a364bfa7a943",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/29RMmWdWtTRA1PxRheq9aW"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "1z9u3vLr7gw6IBS8CP8c2X",
+  "name": "BBC Philharmonic",
+  "uri": "spotify:artist:1z9u3vLr7gw6IBS8CP8c2X",
+  "followers": {
+    "href": null,
+    "total": 19879
+  },
+  "genres": [
+    "british orchestra",
+    "orchestra",
+    "radio symphony"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb65381e80b82abdb12247ec4d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517465381e80b82abdb12247ec4d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17865381e80b82abdb12247ec4d",
+      "width": 160
+    }
+  ],
+  "popularity": 46,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1z9u3vLr7gw6IBS8CP8c2X"
+  }
+}

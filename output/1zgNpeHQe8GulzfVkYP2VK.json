@@ -1,0 +1,34 @@
+{
+  "id": "1zgNpeHQe8GulzfVkYP2VK",
+  "name": "The Trammps",
+  "uri": "spotify:artist:1zgNpeHQe8GulzfVkYP2VK",
+  "followers": {
+    "href": null,
+    "total": 262851
+  },
+  "genres": [
+    "disco",
+    "philly soul"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd03ce051286b11174f1e99ae",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d03ce051286b11174f1e99ae",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d03ce051286b11174f1e99ae",
+      "width": 160
+    }
+  ],
+  "popularity": 51,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK"
+  }
+}
