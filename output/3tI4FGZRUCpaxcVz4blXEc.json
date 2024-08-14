@@ -1,0 +1,33 @@
+{
+  "id": "3tI4FGZRUCpaxcVz4blXEc",
+  "name": "Fredi Fate",
+  "uri": "spotify:artist:3tI4FGZRUCpaxcVz4blXEc",
+  "followers": {
+    "href": null,
+    "total": 109
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf32d2e1174fbbaa98d2da42f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f32d2e1174fbbaa98d2da42f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f32d2e1174fbbaa98d2da42f",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3tI4FGZRUCpaxcVz4blXEc"
+  }
+}

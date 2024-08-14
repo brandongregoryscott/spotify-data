@@ -1,0 +1,34 @@
+{
+  "id": "44aOM1DNwPKGb0ticurbPT",
+  "name": "Anniina",
+  "uri": "spotify:artist:44aOM1DNwPKGb0ticurbPT",
+  "followers": {
+    "href": null,
+    "total": 3695
+  },
+  "genres": [
+    "finnish dance pop",
+    "finnish pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb2b015aef21a90ca703f4e8e6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051742b015aef21a90ca703f4e8e6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1782b015aef21a90ca703f4e8e6",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/44aOM1DNwPKGb0ticurbPT"
+  }
+}

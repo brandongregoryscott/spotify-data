@@ -1,0 +1,35 @@
+{
+  "id": "3sePwjkeOsHqz7EahGEXEB",
+  "name": "Tommi Soidinmäki",
+  "uri": "spotify:artist:3sePwjkeOsHqz7EahGEXEB",
+  "followers": {
+    "href": null,
+    "total": 4722
+  },
+  "genres": [
+    "classic finnish pop",
+    "classic iskelma",
+    "iskelma"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb519c8e8cb0fc81bbc6736717",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174519c8e8cb0fc81bbc6736717",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178519c8e8cb0fc81bbc6736717",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3sePwjkeOsHqz7EahGEXEB"
+  }
+}

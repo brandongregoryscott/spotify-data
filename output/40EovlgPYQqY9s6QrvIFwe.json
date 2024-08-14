@@ -1,0 +1,33 @@
+{
+  "id": "40EovlgPYQqY9s6QrvIFwe",
+  "name": "Delta",
+  "uri": "spotify:artist:40EovlgPYQqY9s6QrvIFwe",
+  "followers": {
+    "href": null,
+    "total": 50
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730f009c570499224af687db7d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020f009c570499224af687db7d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510f009c570499224af687db7d",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/40EovlgPYQqY9s6QrvIFwe"
+  }
+}
