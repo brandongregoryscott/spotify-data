@@ -1,0 +1,33 @@
+{
+  "id": "6JDmbR90UIGFaZcVsbmBWe",
+  "name": "Rock",
+  "uri": "spotify:artist:6JDmbR90UIGFaZcVsbmBWe",
+  "followers": {
+    "href": null,
+    "total": 1559
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731298a37825bcb72c82773a8b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021298a37825bcb72c82773a8b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511298a37825bcb72c82773a8b",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6JDmbR90UIGFaZcVsbmBWe"
+  }
+}

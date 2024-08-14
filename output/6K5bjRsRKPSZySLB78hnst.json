@@ -1,0 +1,33 @@
+{
+  "id": "6K5bjRsRKPSZySLB78hnst",
+  "name": "Jina U",
+  "uri": "spotify:artist:6K5bjRsRKPSZySLB78hnst",
+  "followers": {
+    "href": null,
+    "total": 59
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27338510c600f156448c7413c86",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0238510c600f156448c7413c86",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485138510c600f156448c7413c86",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6K5bjRsRKPSZySLB78hnst"
+  }
+}
