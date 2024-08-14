@@ -1,0 +1,33 @@
+{
+  "id": "6tKCBZmIxa4d6XiuX7mwH3",
+  "name": "Pekelo Cosma",
+  "uri": "spotify:artist:6tKCBZmIxa4d6XiuX7mwH3",
+  "followers": {
+    "href": null,
+    "total": 218
+  },
+  "genres": [
+    "hawaiian"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273356b15303226eb8587d113e6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02356b15303226eb8587d113e6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851356b15303226eb8587d113e6",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6tKCBZmIxa4d6XiuX7mwH3"
+  }
+}
