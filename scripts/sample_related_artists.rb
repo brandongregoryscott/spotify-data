@@ -28,22 +28,29 @@ end
 def find_related_artists(artist, attempt = 1)
   related_artists = artist.related_artists
   related_artists.map(&:id)
-rescue RestClient::TooManyRequests, RestClient::ServiceUnavailable, RestClient::InternalServerError
+rescue RestClient::TooManyRequests, RestClient::ServiceUnavailable, RestClient::InternalServerError,
+       RestClient::GatewayTimeout, RestClient::BadGateway, RestClient::Unauthorized
   max_sleep_seconds = Float(2**attempt)
   sleep rand(0..max_sleep_seconds)
   authenticate
   find_related_artists(artist, attempt + 1) if attempt < MAX_RETRIES
 end
 
-def authenticate
+def authenticate(attempt = 1)
   client_ids = ENV['CLIENT_IDS'].split(',')
   client_secrets = ENV['CLIENT_SECRETS'].split(',')
 
-  select_first_key = rand < 0.5
-  client_id = select_first_key ? client_ids.first : client_ids.last
-  client_secret = select_first_key ? client_secrets.first : client_secrets.last
+  index = rand(0..client_ids.length - 1)
+
+  client_id = client_ids[index]
+  client_secret = client_secrets[index]
 
   RSpotify.authenticate(client_id, client_secret)
+rescue RestClient::TooManyRequests, RestClient::ServiceUnavailable, RestClient::InternalServerError,
+       RestClient::GatewayTimeout, RestClient::BadGateway, RestClient::Unauthorized
+  max_sleep_seconds = Float(2**attempt)
+  sleep rand(0..max_sleep_seconds)
+  authenticate(attempt + 1) if attempt < MAX_RETRIES
 end
 
 def read_artists_json_file
