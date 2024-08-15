@@ -1,0 +1,34 @@
+{
+  "id": "7kPbc3vLrmIB9CN8tW1y9t",
+  "name": "Petos",
+  "uri": "spotify:artist:7kPbc3vLrmIB9CN8tW1y9t",
+  "followers": {
+    "href": null,
+    "total": 5244
+  },
+  "genres": [
+    "finnish hip hop",
+    "suomirap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734ae5a15230fae7ed8ad3b201",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024ae5a15230fae7ed8ad3b201",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514ae5a15230fae7ed8ad3b201",
+      "width": 64
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7kPbc3vLrmIB9CN8tW1y9t"
+  }
+}

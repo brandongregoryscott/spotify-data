@@ -1,0 +1,33 @@
+{
+  "id": "00dRHFSzVAKywFkejpXn04",
+  "name": "Thundersson",
+  "uri": "spotify:artist:00dRHFSzVAKywFkejpXn04",
+  "followers": {
+    "href": null,
+    "total": 101
+  },
+  "genres": [
+    "finnish heavy metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738910dfe69c33ba3c82a3527b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028910dfe69c33ba3c82a3527b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518910dfe69c33ba3c82a3527b",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/00dRHFSzVAKywFkejpXn04"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0CUNMBEPXY1HSFNh3ZTO8j",
+  "name": "Blue Yogurt",
+  "uri": "spotify:artist:0CUNMBEPXY1HSFNh3ZTO8j",
+  "followers": {
+    "href": null,
+    "total": 1602
+  },
+  "genres": [
+    "thai shoegaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb679115cb5614110b1d826b32",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174679115cb5614110b1d826b32",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178679115cb5614110b1d826b32",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0CUNMBEPXY1HSFNh3ZTO8j"
+  }
+}

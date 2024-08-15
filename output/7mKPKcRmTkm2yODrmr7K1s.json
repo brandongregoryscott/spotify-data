@@ -1,0 +1,33 @@
+{
+  "id": "7mKPKcRmTkm2yODrmr7K1s",
+  "name": "Odette",
+  "uri": "spotify:artist:7mKPKcRmTkm2yODrmr7K1s",
+  "followers": {
+    "href": null,
+    "total": 934
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb67369e1c49f0a8dd6ea71d93",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517467369e1c49f0a8dd6ea71d93",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17867369e1c49f0a8dd6ea71d93",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7mKPKcRmTkm2yODrmr7K1s"
+  }
+}

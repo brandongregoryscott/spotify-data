@@ -1,0 +1,33 @@
+{
+  "id": "0D3KNqpUuvpixxHHX1cUWe",
+  "name": "Timpuri Noi",
+  "uri": "spotify:artist:0D3KNqpUuvpixxHHX1cUWe",
+  "followers": {
+    "href": null,
+    "total": 18086
+  },
+  "genres": [
+    "romanian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb17cb335ac5db3b39156df71a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517417cb335ac5db3b39156df71a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17817cb335ac5db3b39156df71a",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0D3KNqpUuvpixxHHX1cUWe"
+  }
+}

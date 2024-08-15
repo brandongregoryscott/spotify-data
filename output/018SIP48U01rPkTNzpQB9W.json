@@ -1,0 +1,33 @@
+{
+  "id": "018SIP48U01rPkTNzpQB9W",
+  "name": "S P L i T",
+  "uri": "spotify:artist:018SIP48U01rPkTNzpQB9W",
+  "followers": {
+    "href": null,
+    "total": 367
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb01b635276c636bf56e7a1ea6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517401b635276c636bf56e7a1ea6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17801b635276c636bf56e7a1ea6",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/018SIP48U01rPkTNzpQB9W"
+  }
+}

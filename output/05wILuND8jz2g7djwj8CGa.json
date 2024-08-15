@@ -1,0 +1,33 @@
+{
+  "id": "05wILuND8jz2g7djwj8CGa",
+  "name": "Sombra",
+  "uri": "spotify:artist:05wILuND8jz2g7djwj8CGa",
+  "followers": {
+    "href": null,
+    "total": 3768
+  },
+  "genres": [
+    "samba moderno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738cfef09acb5b5387ddab0309",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028cfef09acb5b5387ddab0309",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518cfef09acb5b5387ddab0309",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05wILuND8jz2g7djwj8CGa"
+  }
+}

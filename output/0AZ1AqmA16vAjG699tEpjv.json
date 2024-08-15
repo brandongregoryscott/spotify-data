@@ -1,0 +1,33 @@
+{
+  "id": "0AZ1AqmA16vAjG699tEpjv",
+  "name": "H1",
+  "uri": "spotify:artist:0AZ1AqmA16vAjG699tEpjv",
+  "followers": {
+    "href": null,
+    "total": 459
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738e9dd0efea2b660ba46f9253",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028e9dd0efea2b660ba46f9253",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518e9dd0efea2b660ba46f9253",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0AZ1AqmA16vAjG699tEpjv"
+  }
+}

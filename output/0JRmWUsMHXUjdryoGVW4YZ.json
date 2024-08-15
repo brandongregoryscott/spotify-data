@@ -1,0 +1,33 @@
+{
+  "id": "0JRmWUsMHXUjdryoGVW4YZ",
+  "name": "Humble Pan",
+  "uri": "spotify:artist:0JRmWUsMHXUjdryoGVW4YZ",
+  "followers": {
+    "href": null,
+    "total": 122
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebba553c577a8819cd3afb855d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ba553c577a8819cd3afb855d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ba553c577a8819cd3afb855d",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0JRmWUsMHXUjdryoGVW4YZ"
+  }
+}

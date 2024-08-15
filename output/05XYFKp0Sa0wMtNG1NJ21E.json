@@ -1,0 +1,33 @@
+{
+  "id": "05XYFKp0Sa0wMtNG1NJ21E",
+  "name": "The Wild Type",
+  "uri": "spotify:artist:05XYFKp0Sa0wMtNG1NJ21E",
+  "followers": {
+    "href": null,
+    "total": 37
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27389e0c16159af5f10b2580e04",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0289e0c16159af5f10b2580e04",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485189e0c16159af5f10b2580e04",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05XYFKp0Sa0wMtNG1NJ21E"
+  }
+}

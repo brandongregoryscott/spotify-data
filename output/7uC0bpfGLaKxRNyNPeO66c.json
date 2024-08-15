@@ -1,0 +1,33 @@
+{
+  "id": "7uC0bpfGLaKxRNyNPeO66c",
+  "name": "Tempashot",
+  "uri": "spotify:artist:7uC0bpfGLaKxRNyNPeO66c",
+  "followers": {
+    "href": null,
+    "total": 285
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe81576e95fae9413b1713f4e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e81576e95fae9413b1713f4e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e81576e95fae9413b1713f4e",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7uC0bpfGLaKxRNyNPeO66c"
+  }
+}

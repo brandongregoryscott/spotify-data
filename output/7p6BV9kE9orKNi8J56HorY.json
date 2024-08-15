@@ -1,0 +1,33 @@
+{
+  "id": "7p6BV9kE9orKNi8J56HorY",
+  "name": "Cube Pedro",
+  "uri": "spotify:artist:7p6BV9kE9orKNi8J56HorY",
+  "followers": {
+    "href": null,
+    "total": 163
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf8eacb4c5d40d68bacc45090",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f8eacb4c5d40d68bacc45090",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f8eacb4c5d40d68bacc45090",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7p6BV9kE9orKNi8J56HorY"
+  }
+}

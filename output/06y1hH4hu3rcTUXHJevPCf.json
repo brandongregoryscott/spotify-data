@@ -1,0 +1,35 @@
+{
+  "id": "06y1hH4hu3rcTUXHJevPCf",
+  "name": "Ben Lee",
+  "uri": "spotify:artist:06y1hH4hu3rcTUXHJevPCf",
+  "followers": {
+    "href": null,
+    "total": 61566
+  },
+  "genres": [
+    "australian alternative rock",
+    "australian pop",
+    "australian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb60b2239570aa06ab901b32e1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517460b2239570aa06ab901b32e1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17860b2239570aa06ab901b32e1",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf"
+  }
+}

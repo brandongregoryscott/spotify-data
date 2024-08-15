@@ -1,0 +1,33 @@
+{
+  "id": "7nRULTmmAL2mKbgcXvi7Hb",
+  "name": "Dennis Skytt",
+  "uri": "spotify:artist:7nRULTmmAL2mKbgcXvi7Hb",
+  "followers": {
+    "href": null,
+    "total": 283
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb13066bc503d131b6cf08987e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517413066bc503d131b6cf08987e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17813066bc503d131b6cf08987e",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7nRULTmmAL2mKbgcXvi7Hb"
+  }
+}

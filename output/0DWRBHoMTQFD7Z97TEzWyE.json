@@ -1,0 +1,33 @@
+{
+  "id": "0DWRBHoMTQFD7Z97TEzWyE",
+  "name": "Haunter",
+  "uri": "spotify:artist:0DWRBHoMTQFD7Z97TEzWyE",
+  "followers": {
+    "href": null,
+    "total": 225
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbdbaefe3bcd0180190b50622",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bdbaefe3bcd0180190b50622",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bdbaefe3bcd0180190b50622",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0DWRBHoMTQFD7Z97TEzWyE"
+  }
+}

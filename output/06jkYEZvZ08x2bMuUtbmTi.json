@@ -1,0 +1,33 @@
+{
+  "id": "06jkYEZvZ08x2bMuUtbmTi",
+  "name": "Fay",
+  "uri": "spotify:artist:06jkYEZvZ08x2bMuUtbmTi",
+  "followers": {
+    "href": null,
+    "total": 45
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb34a617842852ee7054db054d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517434a617842852ee7054db054d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17834a617842852ee7054db054d",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/06jkYEZvZ08x2bMuUtbmTi"
+  }
+}
