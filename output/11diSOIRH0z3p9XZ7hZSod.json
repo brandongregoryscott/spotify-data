@@ -1,0 +1,33 @@
+{
+  "id": "11diSOIRH0z3p9XZ7hZSod",
+  "name": "Carlos Blanco",
+  "uri": "spotify:artist:11diSOIRH0z3p9XZ7hZSod",
+  "followers": {
+    "href": null,
+    "total": 64290
+  },
+  "genres": [
+    "mexican hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb317dc4bf540f28b42261ecfa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174317dc4bf540f28b42261ecfa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178317dc4bf540f28b42261ecfa",
+      "width": 160
+    }
+  ],
+  "popularity": 45,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/11diSOIRH0z3p9XZ7hZSod"
+  }
+}

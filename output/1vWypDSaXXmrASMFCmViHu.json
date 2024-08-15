@@ -1,0 +1,33 @@
+{
+  "id": "1vWypDSaXXmrASMFCmViHu",
+  "name": "Frank Custeau",
+  "uri": "spotify:artist:1vWypDSaXXmrASMFCmViHu",
+  "followers": {
+    "href": null,
+    "total": 596
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb21ad7fa173a0a9944e53a96f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517421ad7fa173a0a9944e53a96f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17821ad7fa173a0a9944e53a96f",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1vWypDSaXXmrASMFCmViHu"
+  }
+}

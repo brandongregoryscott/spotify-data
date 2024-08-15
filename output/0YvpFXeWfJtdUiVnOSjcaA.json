@@ -1,0 +1,33 @@
+{
+  "id": "0YvpFXeWfJtdUiVnOSjcaA",
+  "name": "передозировка",
+  "uri": "spotify:artist:0YvpFXeWfJtdUiVnOSjcaA",
+  "followers": {
+    "href": null,
+    "total": 498
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27318bbc55e126e2a4436d2cdfa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0218bbc55e126e2a4436d2cdfa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485118bbc55e126e2a4436d2cdfa",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0YvpFXeWfJtdUiVnOSjcaA"
+  }
+}

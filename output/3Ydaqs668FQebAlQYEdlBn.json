@@ -1,0 +1,33 @@
+{
+  "id": "3Ydaqs668FQebAlQYEdlBn",
+  "name": "Frank Fable",
+  "uri": "spotify:artist:3Ydaqs668FQebAlQYEdlBn",
+  "followers": {
+    "href": null,
+    "total": 115
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb95631e163f8600ff7e51f1bc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517495631e163f8600ff7e51f1bc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17895631e163f8600ff7e51f1bc",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3Ydaqs668FQebAlQYEdlBn"
+  }
+}

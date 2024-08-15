@@ -1,0 +1,33 @@
+{
+  "id": "2p5relVro2dOfQH2ZmtZY1",
+  "name": "Stensons",
+  "uri": "spotify:artist:2p5relVro2dOfQH2ZmtZY1",
+  "followers": {
+    "href": null,
+    "total": 3295
+  },
+  "genres": [
+    "dansband"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d35ac06ae2b8ba0f21e1cae8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d35ac06ae2b8ba0f21e1cae8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d35ac06ae2b8ba0f21e1cae8",
+      "width": 64
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2p5relVro2dOfQH2ZmtZY1"
+  }
+}

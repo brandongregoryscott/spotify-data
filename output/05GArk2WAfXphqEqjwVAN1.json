@@ -1,0 +1,33 @@
+{
+  "id": "05GArk2WAfXphqEqjwVAN1",
+  "name": "Dear Sunday",
+  "uri": "spotify:artist:05GArk2WAfXphqEqjwVAN1",
+  "followers": {
+    "href": null,
+    "total": 10445
+  },
+  "genres": [
+    "australian surf rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb46806627ac138cff551ef6fe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517446806627ac138cff551ef6fe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17846806627ac138cff551ef6fe",
+      "width": 160
+    }
+  ],
+  "popularity": 48,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1"
+  }
+}

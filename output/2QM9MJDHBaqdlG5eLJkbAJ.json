@@ -1,0 +1,33 @@
+{
+  "id": "2QM9MJDHBaqdlG5eLJkbAJ",
+  "name": "MC Ralph",
+  "uri": "spotify:artist:2QM9MJDHBaqdlG5eLJkbAJ",
+  "followers": {
+    "href": null,
+    "total": 692
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe4a61854bb39fb0ed3f5b045",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e4a61854bb39fb0ed3f5b045",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e4a61854bb39fb0ed3f5b045",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2QM9MJDHBaqdlG5eLJkbAJ"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7J96leWNeQ96LWMfuwrhSJ",
+  "name": "Ca Rater",
+  "uri": "spotify:artist:7J96leWNeQ96LWMfuwrhSJ",
+  "followers": {
+    "href": null,
+    "total": 72
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27337369f849e9920d6f434e6ea",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0237369f849e9920d6f434e6ea",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485137369f849e9920d6f434e6ea",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7J96leWNeQ96LWMfuwrhSJ"
+  }
+}

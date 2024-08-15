@@ -1,0 +1,33 @@
+{
+  "id": "6dkprXfJUb887zgMM6Z0Tr",
+  "name": "Solothurn",
+  "uri": "spotify:artist:6dkprXfJUb887zgMM6Z0Tr",
+  "followers": {
+    "href": null,
+    "total": 72
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb19ef8cd7574e13409553c724",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517419ef8cd7574e13409553c724",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17819ef8cd7574e13409553c724",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6dkprXfJUb887zgMM6Z0Tr"
+  }
+}

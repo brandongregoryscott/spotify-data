@@ -1,0 +1,33 @@
+{
+  "id": "0gSl6jCKRlHT3UXKQlxyJs",
+  "name": "Alex Lattimore",
+  "uri": "spotify:artist:0gSl6jCKRlHT3UXKQlxyJs",
+  "followers": {
+    "href": null,
+    "total": 1230
+  },
+  "genres": [
+    "smooth soul"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b9141372c5150b5cbd135b30",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b9141372c5150b5cbd135b30",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b9141372c5150b5cbd135b30",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0gSl6jCKRlHT3UXKQlxyJs"
+  }
+}

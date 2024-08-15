@@ -1,0 +1,33 @@
+{
+  "id": "0zY8LOMvTmcromP2vV0nBv",
+  "name": "NISHA",
+  "uri": "spotify:artist:0zY8LOMvTmcromP2vV0nBv",
+  "followers": {
+    "href": null,
+    "total": 2984
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb1cfaa675a08b497377b862e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b1cfaa675a08b497377b862e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b1cfaa675a08b497377b862e",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0zY8LOMvTmcromP2vV0nBv"
+  }
+}

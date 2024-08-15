@@ -1,0 +1,33 @@
+{
+  "id": "1XQtxLkaACQMsRGiKwuI3h",
+  "name": "Mascote",
+  "uri": "spotify:artist:1XQtxLkaACQMsRGiKwuI3h",
+  "followers": {
+    "href": null,
+    "total": 360
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4febe62cfd6751843b4bfc71",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744febe62cfd6751843b4bfc71",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784febe62cfd6751843b4bfc71",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1XQtxLkaACQMsRGiKwuI3h"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "03kGhoLakIa3hkOuKnSytl",
+  "name": "Guynel",
+  "uri": "spotify:artist:03kGhoLakIa3hkOuKnSytl",
+  "followers": {
+    "href": null,
+    "total": 179
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebca4b0111dbc03e7e273813fe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ca4b0111dbc03e7e273813fe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ca4b0111dbc03e7e273813fe",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03kGhoLakIa3hkOuKnSytl"
+  }
+}

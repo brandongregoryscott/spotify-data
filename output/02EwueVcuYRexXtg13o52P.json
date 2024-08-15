@@ -1,0 +1,33 @@
+{
+  "id": "02EwueVcuYRexXtg13o52P",
+  "name": "Barra1",
+  "uri": "spotify:artist:02EwueVcuYRexXtg13o52P",
+  "followers": {
+    "href": null,
+    "total": 313
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba1ddbc23c64ce9c58c16a36b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a1ddbc23c64ce9c58c16a36b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a1ddbc23c64ce9c58c16a36b",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/02EwueVcuYRexXtg13o52P"
+  }
+}

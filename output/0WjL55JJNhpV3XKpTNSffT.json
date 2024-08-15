@@ -1,0 +1,35 @@
+{
+  "id": "0WjL55JJNhpV3XKpTNSffT",
+  "name": "Mighty Duck",
+  "uri": "spotify:artist:0WjL55JJNhpV3XKpTNSffT",
+  "followers": {
+    "href": null,
+    "total": 3600
+  },
+  "genres": [
+    "dubstep",
+    "gaming dubstep",
+    "riddim dubstep"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd082a8a5c4ce89a04ca2fbca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d082a8a5c4ce89a04ca2fbca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d082a8a5c4ce89a04ca2fbca",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0WjL55JJNhpV3XKpTNSffT"
+  }
+}

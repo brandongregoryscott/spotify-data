@@ -1,0 +1,33 @@
+{
+  "id": "4Wlui4zxadS5mmPOFbmd6u",
+  "name": "Mr. Sun",
+  "uri": "spotify:artist:4Wlui4zxadS5mmPOFbmd6u",
+  "followers": {
+    "href": null,
+    "total": 1230
+  },
+  "genres": [
+    "mandolin"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb266f9515a1fe00cda973582",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b266f9515a1fe00cda973582",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b266f9515a1fe00cda973582",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4Wlui4zxadS5mmPOFbmd6u"
+  }
+}

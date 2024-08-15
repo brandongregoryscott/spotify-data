@@ -1,0 +1,33 @@
+{
+  "id": "3wZDsGQK1mTL90lieUdyTg",
+  "name": "Naju",
+  "uri": "spotify:artist:3wZDsGQK1mTL90lieUdyTg",
+  "followers": {
+    "href": null,
+    "total": 86
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb762cee56fcb14ed5c4d24754",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174762cee56fcb14ed5c4d24754",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178762cee56fcb14ed5c4d24754",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3wZDsGQK1mTL90lieUdyTg"
+  }
+}

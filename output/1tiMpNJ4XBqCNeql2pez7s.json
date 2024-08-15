@@ -1,0 +1,33 @@
+{
+  "id": "1tiMpNJ4XBqCNeql2pez7s",
+  "name": "IT",
+  "uri": "spotify:artist:1tiMpNJ4XBqCNeql2pez7s",
+  "followers": {
+    "href": null,
+    "total": 846
+  },
+  "genres": [
+    "neo-trad prog"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb621b20b881c3fd86d5a13b70",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174621b20b881c3fd86d5a13b70",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178621b20b881c3fd86d5a13b70",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1tiMpNJ4XBqCNeql2pez7s"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "3TbDeRrXw8SVnRWx9BkHeZ",
+  "name": "O Teatro Mágico",
+  "uri": "spotify:artist:3TbDeRrXw8SVnRWx9BkHeZ",
+  "followers": {
+    "href": null,
+    "total": 399337
+  },
+  "genres": [
+    "brazilian rock",
+    "mpb",
+    "nova mpb"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb00175960105dd33acc62f6d0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517400175960105dd33acc62f6d0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17800175960105dd33acc62f6d0",
+      "width": 160
+    }
+  ],
+  "popularity": 46,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3TbDeRrXw8SVnRWx9BkHeZ"
+  }
+}

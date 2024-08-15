@@ -1,0 +1,33 @@
+{
+  "id": "12hPrXDAS8HjYjaAjGH8nY",
+  "name": "Wudini",
+  "uri": "spotify:artist:12hPrXDAS8HjYjaAjGH8nY",
+  "followers": {
+    "href": null,
+    "total": 209
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb72583e5c65fb732286953727",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517472583e5c65fb732286953727",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17872583e5c65fb732286953727",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/12hPrXDAS8HjYjaAjGH8nY"
+  }
+}

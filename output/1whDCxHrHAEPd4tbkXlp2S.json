@@ -1,0 +1,33 @@
+{
+  "id": "1whDCxHrHAEPd4tbkXlp2S",
+  "name": "Northbound 35",
+  "uri": "spotify:artist:1whDCxHrHAEPd4tbkXlp2S",
+  "followers": {
+    "href": null,
+    "total": 62
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd6e78f3c2e184da3997580cc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d6e78f3c2e184da3997580cc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d6e78f3c2e184da3997580cc",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1whDCxHrHAEPd4tbkXlp2S"
+  }
+}

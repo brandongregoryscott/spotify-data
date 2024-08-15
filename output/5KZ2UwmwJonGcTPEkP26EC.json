@@ -1,0 +1,33 @@
+{
+  "id": "5KZ2UwmwJonGcTPEkP26EC",
+  "name": "Evan Vidar",
+  "uri": "spotify:artist:5KZ2UwmwJonGcTPEkP26EC",
+  "followers": {
+    "href": null,
+    "total": 44
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe640af688d9e7f070fdd6fef",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e640af688d9e7f070fdd6fef",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e640af688d9e7f070fdd6fef",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5KZ2UwmwJonGcTPEkP26EC"
+  }
+}

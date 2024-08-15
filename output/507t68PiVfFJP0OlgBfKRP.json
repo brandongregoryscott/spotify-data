@@ -1,0 +1,33 @@
+{
+  "id": "507t68PiVfFJP0OlgBfKRP",
+  "name": "Damon Williams",
+  "uri": "spotify:artist:507t68PiVfFJP0OlgBfKRP",
+  "followers": {
+    "href": null,
+    "total": 696
+  },
+  "genres": [
+    "jawaiian"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb276213d32d7e00491d49e548",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174276213d32d7e00491d49e548",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178276213d32d7e00491d49e548",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/507t68PiVfFJP0OlgBfKRP"
+  }
+}

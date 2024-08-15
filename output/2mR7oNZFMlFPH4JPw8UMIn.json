@@ -1,0 +1,33 @@
+{
+  "id": "2mR7oNZFMlFPH4JPw8UMIn",
+  "name": "Apollo Soul",
+  "uri": "spotify:artist:2mR7oNZFMlFPH4JPw8UMIn",
+  "followers": {
+    "href": null,
+    "total": 338
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebab19e7947a7468a664ebf849",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ab19e7947a7468a664ebf849",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ab19e7947a7468a664ebf849",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2mR7oNZFMlFPH4JPw8UMIn"
+  }
+}

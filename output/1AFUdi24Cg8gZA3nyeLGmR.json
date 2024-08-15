@@ -1,0 +1,34 @@
+{
+  "id": "1AFUdi24Cg8gZA3nyeLGmR",
+  "name": "Bottle of Justus",
+  "uri": "spotify:artist:1AFUdi24Cg8gZA3nyeLGmR",
+  "followers": {
+    "href": null,
+    "total": 290
+  },
+  "genres": [
+    "grunge pop",
+    "modern uplift"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27327c2ab71b74323d9d88b1b36",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0227c2ab71b74323d9d88b1b36",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485127c2ab71b74323d9d88b1b36",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1AFUdi24Cg8gZA3nyeLGmR"
+  }
+}

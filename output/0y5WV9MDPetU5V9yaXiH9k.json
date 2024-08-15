@@ -1,0 +1,33 @@
+{
+  "id": "0y5WV9MDPetU5V9yaXiH9k",
+  "name": "ALLIRA",
+  "uri": "spotify:artist:0y5WV9MDPetU5V9yaXiH9k",
+  "followers": {
+    "href": null,
+    "total": 147
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb78615a2f952a71c8406440a4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517478615a2f952a71c8406440a4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17878615a2f952a71c8406440a4",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0y5WV9MDPetU5V9yaXiH9k"
+  }
+}

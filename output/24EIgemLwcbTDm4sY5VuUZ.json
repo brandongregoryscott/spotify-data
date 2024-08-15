@@ -1,0 +1,33 @@
+{
+  "id": "24EIgemLwcbTDm4sY5VuUZ",
+  "name": "Strobba & R2",
+  "uri": "spotify:artist:24EIgemLwcbTDm4sY5VuUZ",
+  "followers": {
+    "href": null,
+    "total": 101
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb36ae033cfc543c8abccc3543",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517436ae033cfc543c8abccc3543",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17836ae033cfc543c8abccc3543",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/24EIgemLwcbTDm4sY5VuUZ"
+  }
+}

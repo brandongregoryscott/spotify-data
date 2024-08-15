@@ -1,0 +1,33 @@
+{
+  "id": "0T9gdEqkQi1BvPmbuUMvvd",
+  "name": "Sude",
+  "uri": "spotify:artist:0T9gdEqkQi1BvPmbuUMvvd",
+  "followers": {
+    "href": null,
+    "total": 407
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb86a123e239dd23bee1fbc74b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517486a123e239dd23bee1fbc74b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17886a123e239dd23bee1fbc74b",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0T9gdEqkQi1BvPmbuUMvvd"
+  }
+}

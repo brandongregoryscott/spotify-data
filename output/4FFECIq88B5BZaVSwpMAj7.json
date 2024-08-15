@@ -1,0 +1,33 @@
+{
+  "id": "4FFECIq88B5BZaVSwpMAj7",
+  "name": "Henry Linarez",
+  "uri": "spotify:artist:4FFECIq88B5BZaVSwpMAj7",
+  "followers": {
+    "href": null,
+    "total": 363
+  },
+  "genres": [
+    "cuatro venezolano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cff798d1c8071cea916f24e9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02cff798d1c8071cea916f24e9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851cff798d1c8071cea916f24e9",
+      "width": 64
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4FFECIq88B5BZaVSwpMAj7"
+  }
+}

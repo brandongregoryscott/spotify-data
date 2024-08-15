@@ -1,0 +1,33 @@
+{
+  "id": "0EymHFogd51C1uCbJ0UaxG",
+  "name": "Funk Ferret",
+  "uri": "spotify:artist:0EymHFogd51C1uCbJ0UaxG",
+  "followers": {
+    "href": null,
+    "total": 1218
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdd22d16350cc9aff00ddaeb4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dd22d16350cc9aff00ddaeb4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dd22d16350cc9aff00ddaeb4",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0EymHFogd51C1uCbJ0UaxG"
+  }
+}

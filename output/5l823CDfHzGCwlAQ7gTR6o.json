@@ -1,0 +1,33 @@
+{
+  "id": "5l823CDfHzGCwlAQ7gTR6o",
+  "name": "Hello My Name Is",
+  "uri": "spotify:artist:5l823CDfHzGCwlAQ7gTR6o",
+  "followers": {
+    "href": null,
+    "total": 59
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb97d66b42e9704d3c4eaba0be",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517497d66b42e9704d3c4eaba0be",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17897d66b42e9704d3c4eaba0be",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5l823CDfHzGCwlAQ7gTR6o"
+  }
+}

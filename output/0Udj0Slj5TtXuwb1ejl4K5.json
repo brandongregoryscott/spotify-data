@@ -1,0 +1,33 @@
+{
+  "id": "0Udj0Slj5TtXuwb1ejl4K5",
+  "name": "Lord Gallery",
+  "uri": "spotify:artist:0Udj0Slj5TtXuwb1ejl4K5",
+  "followers": {
+    "href": null,
+    "total": 128
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba3b19b99b7aaa5b3552d7660",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a3b19b99b7aaa5b3552d7660",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a3b19b99b7aaa5b3552d7660",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Udj0Slj5TtXuwb1ejl4K5"
+  }
+}

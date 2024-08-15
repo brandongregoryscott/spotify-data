@@ -1,0 +1,33 @@
+{
+  "id": "1po8uWcMPIG9NSW2x0cxsb",
+  "name": "MarchY",
+  "uri": "spotify:artist:1po8uWcMPIG9NSW2x0cxsb",
+  "followers": {
+    "href": null,
+    "total": 583
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb53e2c7f396c591ca1694af81",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517453e2c7f396c591ca1694af81",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17853e2c7f396c591ca1694af81",
+      "width": 160
+    }
+  ],
+  "popularity": 39,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1po8uWcMPIG9NSW2x0cxsb"
+  }
+}

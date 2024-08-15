@@ -1,0 +1,33 @@
+{
+  "id": "5kEEpbGzmLPGYFm4gV7aYG",
+  "name": "ZIONN",
+  "uri": "spotify:artist:5kEEpbGzmLPGYFm4gV7aYG",
+  "followers": {
+    "href": null,
+    "total": 888
+  },
+  "genres": [
+    "singaporean electronic"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe41a5513e507e30143da766f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e41a5513e507e30143da766f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e41a5513e507e30143da766f",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5kEEpbGzmLPGYFm4gV7aYG"
+  }
+}

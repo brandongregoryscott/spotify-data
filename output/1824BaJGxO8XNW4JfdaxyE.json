@@ -1,0 +1,33 @@
+{
+  "id": "1824BaJGxO8XNW4JfdaxyE",
+  "name": "Brian Callihan",
+  "uri": "spotify:artist:1824BaJGxO8XNW4JfdaxyE",
+  "followers": {
+    "href": null,
+    "total": 8355
+  },
+  "genres": [
+    "country pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb970d557dd5431e9141097f12",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174970d557dd5431e9141097f12",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178970d557dd5431e9141097f12",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1824BaJGxO8XNW4JfdaxyE"
+  }
+}

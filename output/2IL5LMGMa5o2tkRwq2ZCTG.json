@@ -1,0 +1,33 @@
+{
+  "id": "2IL5LMGMa5o2tkRwq2ZCTG",
+  "name": "Andy Hughes",
+  "uri": "spotify:artist:2IL5LMGMa5o2tkRwq2ZCTG",
+  "followers": {
+    "href": null,
+    "total": 226
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd4477a09ac6e3ba36093b6e2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d4477a09ac6e3ba36093b6e2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d4477a09ac6e3ba36093b6e2",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2IL5LMGMa5o2tkRwq2ZCTG"
+  }
+}

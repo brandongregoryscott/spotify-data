@@ -1,0 +1,33 @@
+{
+  "id": "1nTJnNxTJmEiZSYf8ScLQ8",
+  "name": "Smile",
+  "uri": "spotify:artist:1nTJnNxTJmEiZSYf8ScLQ8",
+  "followers": {
+    "href": null,
+    "total": 32999
+  },
+  "genres": [
+    "movie tunes"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdd5dea6eb7aa1164543bc6a3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dd5dea6eb7aa1164543bc6a3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dd5dea6eb7aa1164543bc6a3",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1nTJnNxTJmEiZSYf8ScLQ8"
+  }
+}

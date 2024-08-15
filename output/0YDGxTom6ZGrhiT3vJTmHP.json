@@ -1,0 +1,33 @@
+{
+  "id": "0YDGxTom6ZGrhiT3vJTmHP",
+  "name": "T-Town",
+  "uri": "spotify:artist:0YDGxTom6ZGrhiT3vJTmHP",
+  "followers": {
+    "href": null,
+    "total": 331
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb38de17bd68dd0d96e915e732",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517438de17bd68dd0d96e915e732",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17838de17bd68dd0d96e915e732",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0YDGxTom6ZGrhiT3vJTmHP"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2rHQ2hZZmJeJlkPp5OzzuP",
+  "name": "Gabto",
+  "uri": "spotify:artist:2rHQ2hZZmJeJlkPp5OzzuP",
+  "followers": {
+    "href": null,
+    "total": 206
+  },
+  "genres": [
+    "eletronica underground brasileira"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27362552e6e3dc08ed5ea9f51ce",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0262552e6e3dc08ed5ea9f51ce",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485162552e6e3dc08ed5ea9f51ce",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2rHQ2hZZmJeJlkPp5OzzuP"
+  }
+}

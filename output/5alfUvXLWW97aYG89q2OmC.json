@@ -1,0 +1,33 @@
+{
+  "id": "5alfUvXLWW97aYG89q2OmC",
+  "name": "Nodus",
+  "uri": "spotify:artist:5alfUvXLWW97aYG89q2OmC",
+  "followers": {
+    "href": null,
+    "total": 123
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb60f5bffc4ab8f55df8305c44",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517460f5bffc4ab8f55df8305c44",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17860f5bffc4ab8f55df8305c44",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5alfUvXLWW97aYG89q2OmC"
+  }
+}

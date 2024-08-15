@@ -1,0 +1,34 @@
+{
+  "id": "1HY3IWHxgzIFyQ6HBAJmSh",
+  "name": "Bishop Black",
+  "uri": "spotify:artist:1HY3IWHxgzIFyQ6HBAJmSh",
+  "followers": {
+    "href": null,
+    "total": 3808
+  },
+  "genres": [
+    "modern southern rock",
+    "southern rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27333dea18de2f2f7c1e8be6adb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0233dea18de2f2f7c1e8be6adb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485133dea18de2f2f7c1e8be6adb",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1HY3IWHxgzIFyQ6HBAJmSh"
+  }
+}

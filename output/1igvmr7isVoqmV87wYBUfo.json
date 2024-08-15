@@ -1,0 +1,33 @@
+{
+  "id": "1igvmr7isVoqmV87wYBUfo",
+  "name": "PNOG",
+  "uri": "spotify:artist:1igvmr7isVoqmV87wYBUfo",
+  "followers": {
+    "href": null,
+    "total": 7586
+  },
+  "genres": [
+    "phonk brasileiro"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb86d1cfc9382f82889948837d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517486d1cfc9382f82889948837d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17886d1cfc9382f82889948837d",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1igvmr7isVoqmV87wYBUfo"
+  }
+}

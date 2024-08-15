@@ -1,0 +1,34 @@
+{
+  "id": "404Jr6ogdJwSHAfdwD1AN2",
+  "name": "Danny Howells",
+  "uri": "spotify:artist:404Jr6ogdJwSHAfdwD1AN2",
+  "followers": {
+    "href": null,
+    "total": 25698
+  },
+  "genres": [
+    "classic progressive house",
+    "uk house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebece179d9fa2a15206774e45f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ece179d9fa2a15206774e45f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ece179d9fa2a15206774e45f",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/404Jr6ogdJwSHAfdwD1AN2"
+  }
+}

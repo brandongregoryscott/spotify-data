@@ -1,0 +1,35 @@
+{
+  "id": "08QAkaggFClb7XtFBBeyeg",
+  "name": "Pimm's",
+  "uri": "spotify:artist:08QAkaggFClb7XtFBBeyeg",
+  "followers": {
+    "href": null,
+    "total": 4938
+  },
+  "genres": [
+    "alt-idol",
+    "idol rock",
+    "j-pixie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbdaed70916c41f9b45c2afc5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bdaed70916c41f9b45c2afc5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bdaed70916c41f9b45c2afc5",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/08QAkaggFClb7XtFBBeyeg"
+  }
+}

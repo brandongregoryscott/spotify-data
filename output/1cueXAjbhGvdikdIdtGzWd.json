@@ -1,0 +1,33 @@
+{
+  "id": "1cueXAjbhGvdikdIdtGzWd",
+  "name": "Bozo Ikonic",
+  "uri": "spotify:artist:1cueXAjbhGvdikdIdtGzWd",
+  "followers": {
+    "href": null,
+    "total": 14
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb38d2d4c7416a33b896703ecd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517438d2d4c7416a33b896703ecd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17838d2d4c7416a33b896703ecd",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1cueXAjbhGvdikdIdtGzWd"
+  }
+}

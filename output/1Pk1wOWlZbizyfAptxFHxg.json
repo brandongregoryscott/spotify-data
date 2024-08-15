@@ -1,0 +1,35 @@
+{
+  "id": "1Pk1wOWlZbizyfAptxFHxg",
+  "name": "Diandra",
+  "uri": "spotify:artist:1Pk1wOWlZbizyfAptxFHxg",
+  "followers": {
+    "href": null,
+    "total": 25171
+  },
+  "genres": [
+    "finnish dance pop",
+    "finnish pop",
+    "iskelma"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb57602fcdfe84681402db8f86",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517457602fcdfe84681402db8f86",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17857602fcdfe84681402db8f86",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Pk1wOWlZbizyfAptxFHxg"
+  }
+}

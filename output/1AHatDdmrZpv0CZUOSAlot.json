@@ -1,0 +1,33 @@
+{
+  "id": "1AHatDdmrZpv0CZUOSAlot",
+  "name": "Thierry Lang",
+  "uri": "spotify:artist:1AHatDdmrZpv0CZUOSAlot",
+  "followers": {
+    "href": null,
+    "total": 1483
+  },
+  "genres": [
+    "swiss jazz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb640fad80455f0f14349833fc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174640fad80455f0f14349833fc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178640fad80455f0f14349833fc",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1AHatDdmrZpv0CZUOSAlot"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5oChinjKuMw9zjxGttRYYc",
+  "name": "Velvet Vision",
+  "uri": "spotify:artist:5oChinjKuMw9zjxGttRYYc",
+  "followers": {
+    "href": null,
+    "total": 325
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb868bb423f8e756e89ef87021",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174868bb423f8e756e89ef87021",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178868bb423f8e756e89ef87021",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5oChinjKuMw9zjxGttRYYc"
+  }
+}

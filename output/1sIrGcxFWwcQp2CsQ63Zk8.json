@@ -1,0 +1,33 @@
+{
+  "id": "1sIrGcxFWwcQp2CsQ63Zk8",
+  "name": "Olive Bernard",
+  "uri": "spotify:artist:1sIrGcxFWwcQp2CsQ63Zk8",
+  "followers": {
+    "href": null,
+    "total": 370
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc86e837b1af46900ba0e6db7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c86e837b1af46900ba0e6db7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c86e837b1af46900ba0e6db7",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1sIrGcxFWwcQp2CsQ63Zk8"
+  }
+}

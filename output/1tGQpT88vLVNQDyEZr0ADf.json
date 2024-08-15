@@ -1,0 +1,33 @@
+{
+  "id": "1tGQpT88vLVNQDyEZr0ADf",
+  "name": "Kawel Che",
+  "uri": "spotify:artist:1tGQpT88vLVNQDyEZr0ADf",
+  "followers": {
+    "href": null,
+    "total": 45
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb79e964e79dc81248faceea0b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517479e964e79dc81248faceea0b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17879e964e79dc81248faceea0b",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1tGQpT88vLVNQDyEZr0ADf"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5U1ivAMtZn5wFOvoua7M2A",
+  "name": "VERIDIA",
+  "uri": "spotify:artist:5U1ivAMtZn5wFOvoua7M2A",
+  "followers": {
+    "href": null,
+    "total": 32207
+  },
+  "genres": [
+    "pixie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb426b9d6df9caf543e6b95a02",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174426b9d6df9caf543e6b95a02",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178426b9d6df9caf543e6b95a02",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5U1ivAMtZn5wFOvoua7M2A"
+  }
+}

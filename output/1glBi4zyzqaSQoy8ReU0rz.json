@@ -1,0 +1,36 @@
+{
+  "id": "1glBi4zyzqaSQoy8ReU0rz",
+  "name": "Grupo Los de la O",
+  "uri": "spotify:artist:1glBi4zyzqaSQoy8ReU0rz",
+  "followers": {
+    "href": null,
+    "total": 1406838
+  },
+  "genres": [
+    "corrido",
+    "corridos tumbados",
+    "norteno",
+    "sad sierreno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaf711802ee1dc99a6726bbd1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174af711802ee1dc99a6726bbd1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178af711802ee1dc99a6726bbd1",
+      "width": 160
+    }
+  ],
+  "popularity": 64,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "170zczcg9A75nZzdPJckgv",
+  "name": "Phil Davidson",
+  "uri": "spotify:artist:170zczcg9A75nZzdPJckgv",
+  "followers": {
+    "href": null,
+    "total": 501
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb10f0d06f338b00f4eb0cb582",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517410f0d06f338b00f4eb0cb582",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17810f0d06f338b00f4eb0cb582",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/170zczcg9A75nZzdPJckgv"
+  }
+}

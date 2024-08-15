@@ -1,0 +1,33 @@
+{
+  "id": "41krfXZRZtxKf3sCTnKDmG",
+  "name": "Gabriela Pijama",
+  "uri": "spotify:artist:41krfXZRZtxKf3sCTnKDmG",
+  "followers": {
+    "href": null,
+    "total": 162
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb97e5ff69d62cb431efcb2b0b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517497e5ff69d62cb431efcb2b0b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17897e5ff69d62cb431efcb2b0b",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/41krfXZRZtxKf3sCTnKDmG"
+  }
+}

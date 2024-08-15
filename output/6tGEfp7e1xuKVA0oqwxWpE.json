@@ -1,0 +1,33 @@
+{
+  "id": "6tGEfp7e1xuKVA0oqwxWpE",
+  "name": "Thiago Velloso",
+  "uri": "spotify:artist:6tGEfp7e1xuKVA0oqwxWpE",
+  "followers": {
+    "href": null,
+    "total": 108
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb2acb51abc94d95dfb48a7c1b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051742acb51abc94d95dfb48a7c1b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1782acb51abc94d95dfb48a7c1b",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6tGEfp7e1xuKVA0oqwxWpE"
+  }
+}

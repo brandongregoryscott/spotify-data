@@ -1,0 +1,33 @@
+{
+  "id": "6ofXqT4mojrdSwyAzTZYQ8",
+  "name": "Mike Fields",
+  "uri": "spotify:artist:6ofXqT4mojrdSwyAzTZYQ8",
+  "followers": {
+    "href": null,
+    "total": 112
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27319fd62d04cd81716835bcffb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0219fd62d04cd81716835bcffb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485119fd62d04cd81716835bcffb",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ofXqT4mojrdSwyAzTZYQ8"
+  }
+}

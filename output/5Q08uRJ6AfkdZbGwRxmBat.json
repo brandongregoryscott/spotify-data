@@ -1,0 +1,33 @@
+{
+  "id": "5Q08uRJ6AfkdZbGwRxmBat",
+  "name": "Aphinity",
+  "uri": "spotify:artist:5Q08uRJ6AfkdZbGwRxmBat",
+  "followers": {
+    "href": null,
+    "total": 32
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeb87dd343cb799109ac54d3c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eb87dd343cb799109ac54d3c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eb87dd343cb799109ac54d3c",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Q08uRJ6AfkdZbGwRxmBat"
+  }
+}

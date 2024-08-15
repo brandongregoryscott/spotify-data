@@ -1,0 +1,33 @@
+{
+  "id": "1B8ycQsEGw3fUTkzWs5kFD",
+  "name": "EQ",
+  "uri": "spotify:artist:1B8ycQsEGw3fUTkzWs5kFD",
+  "followers": {
+    "href": null,
+    "total": 697
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb82966c50828ca325aaef5b36",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517482966c50828ca325aaef5b36",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17882966c50828ca325aaef5b36",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1B8ycQsEGw3fUTkzWs5kFD"
+  }
+}

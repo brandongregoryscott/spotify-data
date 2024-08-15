@@ -1,0 +1,34 @@
+{
+  "id": "0ObRLrZaTJ80onwICC9pWO",
+  "name": "Jacin",
+  "uri": "spotify:artist:0ObRLrZaTJ80onwICC9pWO",
+  "followers": {
+    "href": null,
+    "total": 1063
+  },
+  "genres": [
+    "dub reggae",
+    "uk dub"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb479855a4212e1e759c3f5e12",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174479855a4212e1e759c3f5e12",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178479855a4212e1e759c3f5e12",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ObRLrZaTJ80onwICC9pWO"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "72rzJID0bcm6EiOMHtlr9d",
+  "name": "Magnolia",
+  "uri": "spotify:artist:72rzJID0bcm6EiOMHtlr9d",
+  "followers": {
+    "href": null,
+    "total": 314
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd836a4c5d8f93dea69c5462c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d836a4c5d8f93dea69c5462c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d836a4c5d8f93dea69c5462c",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/72rzJID0bcm6EiOMHtlr9d"
+  }
+}

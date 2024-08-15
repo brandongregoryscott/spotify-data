@@ -1,0 +1,33 @@
+{
+  "id": "4gZK9yB40em9CzuYcmT2yO",
+  "name": "LEIN",
+  "uri": "spotify:artist:4gZK9yB40em9CzuYcmT2yO",
+  "followers": {
+    "href": null,
+    "total": 34
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaa10f5315c980bd2c34f1cda",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aa10f5315c980bd2c34f1cda",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aa10f5315c980bd2c34f1cda",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4gZK9yB40em9CzuYcmT2yO"
+  }
+}

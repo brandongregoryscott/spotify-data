@@ -1,0 +1,33 @@
+{
+  "id": "0DEmgXcgJqx7pAnJT8AAQV",
+  "name": "knieyn",
+  "uri": "spotify:artist:0DEmgXcgJqx7pAnJT8AAQV",
+  "followers": {
+    "href": null,
+    "total": 777
+  },
+  "genres": [
+    "sigilkore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb46e98140ed1e958c306c2dee",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517446e98140ed1e958c306c2dee",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17846e98140ed1e958c306c2dee",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0DEmgXcgJqx7pAnJT8AAQV"
+  }
+}

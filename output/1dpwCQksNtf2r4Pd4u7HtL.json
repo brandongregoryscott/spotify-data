@@ -1,0 +1,33 @@
+{
+  "id": "1dpwCQksNtf2r4Pd4u7HtL",
+  "name": "FM Berlin",
+  "uri": "spotify:artist:1dpwCQksNtf2r4Pd4u7HtL",
+  "followers": {
+    "href": null,
+    "total": 389
+  },
+  "genres": [
+    "new brunswick indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb12957c21873e32c8b875a100",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517412957c21873e32c8b875a100",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17812957c21873e32c8b875a100",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1dpwCQksNtf2r4Pd4u7HtL"
+  }
+}

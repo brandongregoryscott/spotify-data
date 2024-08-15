@@ -1,0 +1,33 @@
+{
+  "id": "5EfRMGFkSBRPFA7PtqqC4x",
+  "name": "Adrien Kepler",
+  "uri": "spotify:artist:5EfRMGFkSBRPFA7PtqqC4x",
+  "followers": {
+    "href": null,
+    "total": 2224
+  },
+  "genres": [
+    "french techno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb964c1d8e361c38bb8cc35b0f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174964c1d8e361c38bb8cc35b0f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178964c1d8e361c38bb8cc35b0f",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5EfRMGFkSBRPFA7PtqqC4x"
+  }
+}

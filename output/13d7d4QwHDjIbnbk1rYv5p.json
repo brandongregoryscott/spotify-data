@@ -1,0 +1,33 @@
+{
+  "id": "13d7d4QwHDjIbnbk1rYv5p",
+  "name": "Meph",
+  "uri": "spotify:artist:13d7d4QwHDjIbnbk1rYv5p",
+  "followers": {
+    "href": null,
+    "total": 1007
+  },
+  "genres": [
+    "neurostep"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb05c37e66eb31e1dc0008186c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517405c37e66eb31e1dc0008186c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17805c37e66eb31e1dc0008186c",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/13d7d4QwHDjIbnbk1rYv5p"
+  }
+}

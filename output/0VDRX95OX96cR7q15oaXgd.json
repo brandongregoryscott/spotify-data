@@ -1,0 +1,33 @@
+{
+  "id": "0VDRX95OX96cR7q15oaXgd",
+  "name": "Vacación",
+  "uri": "spotify:artist:0VDRX95OX96cR7q15oaXgd",
+  "followers": {
+    "href": null,
+    "total": 13675
+  },
+  "genres": [
+    "mexican indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb355dd57729e19941c982421b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174355dd57729e19941c982421b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178355dd57729e19941c982421b",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
+  }
+}

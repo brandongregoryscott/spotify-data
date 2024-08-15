@@ -1,0 +1,35 @@
+{
+  "id": "15ZPKVTqD5FD3P7n3m04KX",
+  "name": "Ñu",
+  "uri": "spotify:artist:15ZPKVTqD5FD3P7n3m04KX",
+  "followers": {
+    "href": null,
+    "total": 27147
+  },
+  "genres": [
+    "latin metal",
+    "spanish metal",
+    "spanish prog"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd96ce9014d8a81e1f59e4b4a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d96ce9014d8a81e1f59e4b4a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d96ce9014d8a81e1f59e4b4a",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/15ZPKVTqD5FD3P7n3m04KX"
+  }
+}

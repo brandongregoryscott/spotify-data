@@ -1,0 +1,33 @@
+{
+  "id": "018YUkd5Ngrv9NtywGnPpr",
+  "name": "Södra Station",
+  "uri": "spotify:artist:018YUkd5Ngrv9NtywGnPpr",
+  "followers": {
+    "href": null,
+    "total": 7009
+  },
+  "genres": [
+    "swedish pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdfb6741208d7ec7ef6c204e1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dfb6741208d7ec7ef6c204e1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dfb6741208d7ec7ef6c204e1",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/018YUkd5Ngrv9NtywGnPpr"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6PR1nEP7c6pUrLIF2CFqGK",
+  "name": "Kainoa",
+  "uri": "spotify:artist:6PR1nEP7c6pUrLIF2CFqGK",
+  "followers": {
+    "href": null,
+    "total": 47
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbffad123e75cb592c915b6a9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bffad123e75cb592c915b6a9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bffad123e75cb592c915b6a9",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6PR1nEP7c6pUrLIF2CFqGK"
+  }
+}

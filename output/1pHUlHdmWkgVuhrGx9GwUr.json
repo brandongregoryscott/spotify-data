@@ -1,0 +1,33 @@
+{
+  "id": "1pHUlHdmWkgVuhrGx9GwUr",
+  "name": "orca",
+  "uri": "spotify:artist:1pHUlHdmWkgVuhrGx9GwUr",
+  "followers": {
+    "href": null,
+    "total": 264
+  },
+  "genres": [
+    "hyperpop francais"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd133d6e69eaa6700aba1be02",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d133d6e69eaa6700aba1be02",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d133d6e69eaa6700aba1be02",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1pHUlHdmWkgVuhrGx9GwUr"
+  }
+}

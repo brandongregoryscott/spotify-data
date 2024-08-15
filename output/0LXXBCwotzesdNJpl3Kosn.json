@@ -1,0 +1,33 @@
+{
+  "id": "0LXXBCwotzesdNJpl3Kosn",
+  "name": "Yiobe",
+  "uri": "spotify:artist:0LXXBCwotzesdNJpl3Kosn",
+  "followers": {
+    "href": null,
+    "total": 27
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebebcdda45bff2fd7a68ebdf4c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ebcdda45bff2fd7a68ebdf4c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ebcdda45bff2fd7a68ebdf4c",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0LXXBCwotzesdNJpl3Kosn"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0ypKFOPlldTHzQPhODOGxI",
+  "name": "YMNK",
+  "uri": "spotify:artist:0ypKFOPlldTHzQPhODOGxI",
+  "followers": {
+    "href": null,
+    "total": 695
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb85c63eac8f00b13b9aeb3472",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517485c63eac8f00b13b9aeb3472",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17885c63eac8f00b13b9aeb3472",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0ypKFOPlldTHzQPhODOGxI"
+  }
+}

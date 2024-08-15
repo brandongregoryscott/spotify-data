@@ -1,0 +1,33 @@
+{
+  "id": "1CHg2gk5NKg3ZSwDwAQCTL",
+  "name": "The Getup",
+  "uri": "spotify:artist:1CHg2gk5NKg3ZSwDwAQCTL",
+  "followers": {
+    "href": null,
+    "total": 607
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27394cf3f02984841d5db2e7f6e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0294cf3f02984841d5db2e7f6e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485194cf3f02984841d5db2e7f6e",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1CHg2gk5NKg3ZSwDwAQCTL"
+  }
+}

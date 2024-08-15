@@ -1,0 +1,34 @@
+{
+  "id": "4cUWmztXxqXklZcS978G9X",
+  "name": "Mmamt",
+  "uri": "spotify:artist:4cUWmztXxqXklZcS978G9X",
+  "followers": {
+    "href": null,
+    "total": 601
+  },
+  "genres": [
+    "hungarian rock",
+    "magyar alternative"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb33034813677edfb54534d98f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517433034813677edfb54534d98f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17833034813677edfb54534d98f",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4cUWmztXxqXklZcS978G9X"
+  }
+}

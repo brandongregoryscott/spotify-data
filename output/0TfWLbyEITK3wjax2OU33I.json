@@ -1,0 +1,33 @@
+{
+  "id": "0TfWLbyEITK3wjax2OU33I",
+  "name": "Cat Valley",
+  "uri": "spotify:artist:0TfWLbyEITK3wjax2OU33I",
+  "followers": {
+    "href": null,
+    "total": 821
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe4b660b7309ec8cfa820a237",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e4b660b7309ec8cfa820a237",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e4b660b7309ec8cfa820a237",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0TfWLbyEITK3wjax2OU33I"
+  }
+}

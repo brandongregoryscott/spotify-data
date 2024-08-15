@@ -1,0 +1,33 @@
+{
+  "id": "3WMmGqREVqLeybK5bpEDDp",
+  "name": "4action",
+  "uri": "spotify:artist:3WMmGqREVqLeybK5bpEDDp",
+  "followers": {
+    "href": null,
+    "total": 2884
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fbef48601dd8d8d660a699e6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02fbef48601dd8d8d660a699e6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851fbef48601dd8d8d660a699e6",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3WMmGqREVqLeybK5bpEDDp"
+  }
+}

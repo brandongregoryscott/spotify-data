@@ -1,0 +1,33 @@
+{
+  "id": "1xpin3tAq21uxlZskUhrIN",
+  "name": "Jur",
+  "uri": "spotify:artist:1xpin3tAq21uxlZskUhrIN",
+  "followers": {
+    "href": null,
+    "total": 166
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba03dc9a34a68eb2e955741e0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a03dc9a34a68eb2e955741e0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a03dc9a34a68eb2e955741e0",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1xpin3tAq21uxlZskUhrIN"
+  }
+}

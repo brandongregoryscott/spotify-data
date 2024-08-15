@@ -1,0 +1,33 @@
+{
+  "id": "0pIevbAW3igXa5rZhnw1j7",
+  "name": "The Wavy Kid",
+  "uri": "spotify:artist:0pIevbAW3igXa5rZhnw1j7",
+  "followers": {
+    "href": null,
+    "total": 3100
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebec9f054e07ec9c65cfba5f19",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ec9f054e07ec9c65cfba5f19",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ec9f054e07ec9c65cfba5f19",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0pIevbAW3igXa5rZhnw1j7"
+  }
+}

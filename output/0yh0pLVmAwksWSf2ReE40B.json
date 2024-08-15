@@ -1,0 +1,33 @@
+{
+  "id": "0yh0pLVmAwksWSf2ReE40B",
+  "name": "fleka",
+  "uri": "spotify:artist:0yh0pLVmAwksWSf2ReE40B",
+  "followers": {
+    "href": null,
+    "total": 76
+  },
+  "genres": [
+    "post-hardcore chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c9f995314d7311e8daa439dc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c9f995314d7311e8daa439dc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c9f995314d7311e8daa439dc",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0yh0pLVmAwksWSf2ReE40B"
+  }
+}

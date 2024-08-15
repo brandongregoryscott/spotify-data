@@ -1,0 +1,33 @@
+{
+  "id": "45D2Al0gSi32pn5arNF3aN",
+  "name": "Marcelo Patrono",
+  "uri": "spotify:artist:45D2Al0gSi32pn5arNF3aN",
+  "followers": {
+    "href": null,
+    "total": 2288
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbd0b8716f007656febdc2b93",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bd0b8716f007656febdc2b93",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bd0b8716f007656febdc2b93",
+      "width": 160
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/45D2Al0gSi32pn5arNF3aN"
+  }
+}

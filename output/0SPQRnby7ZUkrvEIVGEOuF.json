@@ -1,0 +1,33 @@
+{
+  "id": "0SPQRnby7ZUkrvEIVGEOuF",
+  "name": "Pop Dell'arte",
+  "uri": "spotify:artist:0SPQRnby7ZUkrvEIVGEOuF",
+  "followers": {
+    "href": null,
+    "total": 3434
+  },
+  "genres": [
+    "portuguese rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738a1b66dfcdf011971bfbaaaa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028a1b66dfcdf011971bfbaaaa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518a1b66dfcdf011971bfbaaaa",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0SPQRnby7ZUkrvEIVGEOuF"
+  }
+}

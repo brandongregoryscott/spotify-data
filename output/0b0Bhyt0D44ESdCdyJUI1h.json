@@ -1,0 +1,33 @@
+{
+  "id": "0b0Bhyt0D44ESdCdyJUI1h",
+  "name": "Некий Парень",
+  "uri": "spotify:artist:0b0Bhyt0D44ESdCdyJUI1h",
+  "followers": {
+    "href": null,
+    "total": 77
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738627aa00ea35b9d64d253a83",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028627aa00ea35b9d64d253a83",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518627aa00ea35b9d64d253a83",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0b0Bhyt0D44ESdCdyJUI1h"
+  }
+}

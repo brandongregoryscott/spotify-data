@@ -1,0 +1,34 @@
+{
+  "id": "11TvYVOGy2ceBJiMRhlBx4",
+  "name": "Little Johnny Jones",
+  "uri": "spotify:artist:11TvYVOGy2ceBJiMRhlBx4",
+  "followers": {
+    "href": null,
+    "total": 411
+  },
+  "genres": [
+    "chicago blues",
+    "piano blues"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732529fbfd5dcfc55b50e4c847",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022529fbfd5dcfc55b50e4c847",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512529fbfd5dcfc55b50e4c847",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4"
+  }
+}

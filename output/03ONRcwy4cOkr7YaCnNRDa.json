@@ -1,0 +1,33 @@
+{
+  "id": "03ONRcwy4cOkr7YaCnNRDa",
+  "name": "kler.",
+  "uri": "spotify:artist:03ONRcwy4cOkr7YaCnNRDa",
+  "followers": {
+    "href": null,
+    "total": 192
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd261f918c083a9e59c076781",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d261f918c083a9e59c076781",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d261f918c083a9e59c076781",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03ONRcwy4cOkr7YaCnNRDa"
+  }
+}

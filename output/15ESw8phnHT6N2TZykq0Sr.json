@@ -1,0 +1,33 @@
+{
+  "id": "15ESw8phnHT6N2TZykq0Sr",
+  "name": "Prod. Gabreu",
+  "uri": "spotify:artist:15ESw8phnHT6N2TZykq0Sr",
+  "followers": {
+    "href": null,
+    "total": 324
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273701c8ac411b4ac02c141d671",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02701c8ac411b4ac02c141d671",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851701c8ac411b4ac02c141d671",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/15ESw8phnHT6N2TZykq0Sr"
+  }
+}

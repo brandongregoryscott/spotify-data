@@ -1,0 +1,33 @@
+{
+  "id": "0B1Y4oM4eJESiz9Y3sIhvc",
+  "name": "Before",
+  "uri": "spotify:artist:0B1Y4oM4eJESiz9Y3sIhvc",
+  "followers": {
+    "href": null,
+    "total": 289
+  },
+  "genres": [
+    "danish post-punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27310e77ead7a1a248079b06f9a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0210e77ead7a1a248079b06f9a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485110e77ead7a1a248079b06f9a",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0B1Y4oM4eJESiz9Y3sIhvc"
+  }
+}

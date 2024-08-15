@@ -1,0 +1,33 @@
+{
+  "id": "3BC3jPO6EpRTy6iySniyZH",
+  "name": "Peter Ciluzzi",
+  "uri": "spotify:artist:3BC3jPO6EpRTy6iySniyZH",
+  "followers": {
+    "href": null,
+    "total": 2756
+  },
+  "genres": [
+    "fingerstyle"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc567bba3ff39271928813301",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c567bba3ff39271928813301",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c567bba3ff39271928813301",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3BC3jPO6EpRTy6iySniyZH"
+  }
+}

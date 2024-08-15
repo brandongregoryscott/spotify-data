@@ -1,0 +1,33 @@
+{
+  "id": "1v5EKN3tva5OKHvPulAO7A",
+  "name": "AThree",
+  "uri": "spotify:artist:1v5EKN3tva5OKHvPulAO7A",
+  "followers": {
+    "href": null,
+    "total": 1709
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bedd51216b2bea728c91058d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bedd51216b2bea728c91058d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bedd51216b2bea728c91058d",
+      "width": 64
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1v5EKN3tva5OKHvPulAO7A"
+  }
+}

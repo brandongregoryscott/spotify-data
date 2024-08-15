@@ -1,0 +1,33 @@
+{
+  "id": "40bSqEcS0F3V1MVPZendeQ",
+  "name": "Another Year",
+  "uri": "spotify:artist:40bSqEcS0F3V1MVPZendeQ",
+  "followers": {
+    "href": null,
+    "total": 190
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734d4682745411f34225c3faaa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e024d4682745411f34225c3faaa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048514d4682745411f34225c3faaa",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/40bSqEcS0F3V1MVPZendeQ"
+  }
+}

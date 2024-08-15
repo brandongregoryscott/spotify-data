@@ -1,0 +1,35 @@
+{
+  "id": "031ZXIjZuiaU6ESOFNpGkm",
+  "name": "Marti",
+  "uri": "spotify:artist:031ZXIjZuiaU6ESOFNpGkm",
+  "followers": {
+    "href": null,
+    "total": 7524
+  },
+  "genres": [
+    "swedish gangsta rap",
+    "swedish hip hop",
+    "swedish trap pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb75fbd1463530dd47b4f519d6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517475fbd1463530dd47b4f519d6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17875fbd1463530dd47b4f519d6",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/031ZXIjZuiaU6ESOFNpGkm"
+  }
+}

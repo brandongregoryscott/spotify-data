@@ -1,0 +1,33 @@
+{
+  "id": "6saOgoh6eVb6h6rb2ASoFB",
+  "name": "Fizzyology",
+  "uri": "spotify:artist:6saOgoh6eVb6h6rb2ASoFB",
+  "followers": {
+    "href": null,
+    "total": 892
+  },
+  "genres": [
+    "boom bap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b907811811c5ef214af50bb6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b907811811c5ef214af50bb6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b907811811c5ef214af50bb6",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6saOgoh6eVb6h6rb2ASoFB"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "32e3x3wXsbemZp0qV1LaLU",
+  "name": "Dr. Jet",
+  "uri": "spotify:artist:32e3x3wXsbemZp0qV1LaLU",
+  "followers": {
+    "href": null,
+    "total": 1353
+  },
+  "genres": [
+    "bolivian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb095b2e1b43d45fc6d7acb391",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174095b2e1b43d45fc6d7acb391",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178095b2e1b43d45fc6d7acb391",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/32e3x3wXsbemZp0qV1LaLU"
+  }
+}

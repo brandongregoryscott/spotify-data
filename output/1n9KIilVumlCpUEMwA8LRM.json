@@ -1,0 +1,33 @@
+{
+  "id": "1n9KIilVumlCpUEMwA8LRM",
+  "name": "Millé",
+  "uri": "spotify:artist:1n9KIilVumlCpUEMwA8LRM",
+  "followers": {
+    "href": null,
+    "total": 1309
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcb7121ba263d3132d882cf34",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cb7121ba263d3132d882cf34",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cb7121ba263d3132d882cf34",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1n9KIilVumlCpUEMwA8LRM"
+  }
+}

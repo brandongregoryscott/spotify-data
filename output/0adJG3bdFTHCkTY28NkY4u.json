@@ -1,0 +1,35 @@
+{
+  "id": "0adJG3bdFTHCkTY28NkY4u",
+  "name": "Bejo",
+  "uri": "spotify:artist:0adJG3bdFTHCkTY28NkY4u",
+  "followers": {
+    "href": null,
+    "total": 259865
+  },
+  "genres": [
+    "rap canario",
+    "spanish hip hop",
+    "urbano espanol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb50ddc230fb9648ed033d7fa5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517450ddc230fb9648ed033d7fa5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17850ddc230fb9648ed033d7fa5",
+      "width": 160
+    }
+  ],
+  "popularity": 56,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0adJG3bdFTHCkTY28NkY4u"
+  }
+}

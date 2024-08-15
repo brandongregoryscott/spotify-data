@@ -1,0 +1,33 @@
+{
+  "id": "0SMpaDMcK6bjoXaUDHD8CL",
+  "name": "Madus",
+  "uri": "spotify:artist:0SMpaDMcK6bjoXaUDHD8CL",
+  "followers": {
+    "href": null,
+    "total": 1515
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb51d4e8a40ff267c22d7c7151",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517451d4e8a40ff267c22d7c7151",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17851d4e8a40ff267c22d7c7151",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0SMpaDMcK6bjoXaUDHD8CL"
+  }
+}

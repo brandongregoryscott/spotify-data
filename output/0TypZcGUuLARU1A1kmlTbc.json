@@ -1,0 +1,34 @@
+{
+  "id": "0TypZcGUuLARU1A1kmlTbc",
+  "name": "Slodust",
+  "uri": "spotify:artist:0TypZcGUuLARU1A1kmlTbc",
+  "followers": {
+    "href": null,
+    "total": 593
+  },
+  "genres": [
+    "alternative metalcore",
+    "rap metalcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273adb70ab3478551c4951ef0f1",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02adb70ab3478551c4951ef0f1",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851adb70ab3478551c4951ef0f1",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0TypZcGUuLARU1A1kmlTbc"
+  }
+}

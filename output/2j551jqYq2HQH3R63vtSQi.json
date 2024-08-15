@@ -1,0 +1,35 @@
+{
+  "id": "2j551jqYq2HQH3R63vtSQi",
+  "name": "So Below",
+  "uri": "spotify:artist:2j551jqYq2HQH3R63vtSQi",
+  "followers": {
+    "href": null,
+    "total": 43379
+  },
+  "genres": [
+    "indie electropop",
+    "nz pop",
+    "vapor soul"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe83136c73b88dd8db852b9f8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e83136c73b88dd8db852b9f8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e83136c73b88dd8db852b9f8",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2j551jqYq2HQH3R63vtSQi"
+  }
+}

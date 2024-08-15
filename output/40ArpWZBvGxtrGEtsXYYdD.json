@@ -1,0 +1,33 @@
+{
+  "id": "40ArpWZBvGxtrGEtsXYYdD",
+  "name": "José Álvarez",
+  "uri": "spotify:artist:40ArpWZBvGxtrGEtsXYYdD",
+  "followers": {
+    "href": null,
+    "total": 4170
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb628c162eb5eb5b3db720abc3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174628c162eb5eb5b3db720abc3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178628c162eb5eb5b3db720abc3",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/40ArpWZBvGxtrGEtsXYYdD"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2mxWi3kp2dspC97805BlAN",
+  "name": "Vaona",
+  "uri": "spotify:artist:2mxWi3kp2dspC97805BlAN",
+  "followers": {
+    "href": null,
+    "total": 127
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfd770f196358260259a4ccde",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fd770f196358260259a4ccde",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fd770f196358260259a4ccde",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2mxWi3kp2dspC97805BlAN"
+  }
+}

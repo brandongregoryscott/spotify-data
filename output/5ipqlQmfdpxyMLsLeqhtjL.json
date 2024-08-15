@@ -1,0 +1,33 @@
+{
+  "id": "5ipqlQmfdpxyMLsLeqhtjL",
+  "name": "Jamie Madrox",
+  "uri": "spotify:artist:5ipqlQmfdpxyMLsLeqhtjL",
+  "followers": {
+    "href": null,
+    "total": 77928
+  },
+  "genres": [
+    "horrorcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736794667605e9494d603465e4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026794667605e9494d603465e4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516794667605e9494d603465e4",
+      "width": 64
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ipqlQmfdpxyMLsLeqhtjL"
+  }
+}

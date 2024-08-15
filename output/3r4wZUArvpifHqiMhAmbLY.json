@@ -1,0 +1,33 @@
+{
+  "id": "3r4wZUArvpifHqiMhAmbLY",
+  "name": "Wyllows",
+  "uri": "spotify:artist:3r4wZUArvpifHqiMhAmbLY",
+  "followers": {
+    "href": null,
+    "total": 61
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb60d4fd5356bcabb973347de9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517460d4fd5356bcabb973347de9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17860d4fd5356bcabb973347de9",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3r4wZUArvpifHqiMhAmbLY"
+  }
+}

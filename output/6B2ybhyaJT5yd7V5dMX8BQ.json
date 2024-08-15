@@ -1,0 +1,33 @@
+{
+  "id": "6B2ybhyaJT5yd7V5dMX8BQ",
+  "name": "Cyluz",
+  "uri": "spotify:artist:6B2ybhyaJT5yd7V5dMX8BQ",
+  "followers": {
+    "href": null,
+    "total": 49928
+  },
+  "genres": [
+    "indie triste"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb693c61d5b0334264f934d57b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174693c61d5b0334264f934d57b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178693c61d5b0334264f934d57b",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6B2ybhyaJT5yd7V5dMX8BQ"
+  }
+}

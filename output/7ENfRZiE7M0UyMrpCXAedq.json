@@ -1,0 +1,33 @@
+{
+  "id": "7ENfRZiE7M0UyMrpCXAedq",
+  "name": "Big Soda",
+  "uri": "spotify:artist:7ENfRZiE7M0UyMrpCXAedq",
+  "followers": {
+    "href": null,
+    "total": 217
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe21611ed03ea664879b10981",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e21611ed03ea664879b10981",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e21611ed03ea664879b10981",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ENfRZiE7M0UyMrpCXAedq"
+  }
+}

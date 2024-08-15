@@ -1,0 +1,33 @@
+{
+  "id": "1BpmUW93KIPMaUtkVmUDsR",
+  "name": "Scott Matelic",
+  "uri": "spotify:artist:1BpmUW93KIPMaUtkVmUDsR",
+  "followers": {
+    "href": null,
+    "total": 331
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc82255ec742da91107fa0b95",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c82255ec742da91107fa0b95",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c82255ec742da91107fa0b95",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1BpmUW93KIPMaUtkVmUDsR"
+  }
+}

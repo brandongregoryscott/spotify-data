@@ -1,0 +1,33 @@
+{
+  "id": "1Ju0lsag81P0VNBByS6R23",
+  "name": "Siilva",
+  "uri": "spotify:artist:1Ju0lsag81P0VNBByS6R23",
+  "followers": {
+    "href": null,
+    "total": 1335
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb298a53c2dbe11f1f921b7e05",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174298a53c2dbe11f1f921b7e05",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178298a53c2dbe11f1f921b7e05",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1Ju0lsag81P0VNBByS6R23"
+  }
+}

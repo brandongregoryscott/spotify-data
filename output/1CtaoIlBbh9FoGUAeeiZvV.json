@@ -1,0 +1,33 @@
+{
+  "id": "1CtaoIlBbh9FoGUAeeiZvV",
+  "name": "Gabriel Reasoner",
+  "uri": "spotify:artist:1CtaoIlBbh9FoGUAeeiZvV",
+  "followers": {
+    "href": null,
+    "total": 36
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb87cbfead048327c9c4d595d7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517487cbfead048327c9c4d595d7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17887cbfead048327c9c4d595d7",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1CtaoIlBbh9FoGUAeeiZvV"
+  }
+}

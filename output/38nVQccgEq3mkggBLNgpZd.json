@@ -1,0 +1,33 @@
+{
+  "id": "38nVQccgEq3mkggBLNgpZd",
+  "name": "Low Key Trampoline",
+  "uri": "spotify:artist:38nVQccgEq3mkggBLNgpZd",
+  "followers": {
+    "href": null,
+    "total": 510
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb38bec4fd2b9e0b5919e113fa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517438bec4fd2b9e0b5919e113fa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17838bec4fd2b9e0b5919e113fa",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/38nVQccgEq3mkggBLNgpZd"
+  }
+}

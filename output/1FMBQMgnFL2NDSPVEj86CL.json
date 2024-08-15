@@ -1,0 +1,33 @@
+{
+  "id": "1FMBQMgnFL2NDSPVEj86CL",
+  "name": "Maltripeada",
+  "uri": "spotify:artist:1FMBQMgnFL2NDSPVEj86CL",
+  "followers": {
+    "href": null,
+    "total": 894
+  },
+  "genres": [
+    "indie queretano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb90e155139ea73edf3bd58a24",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517490e155139ea73edf3bd58a24",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17890e155139ea73edf3bd58a24",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1FMBQMgnFL2NDSPVEj86CL"
+  }
+}

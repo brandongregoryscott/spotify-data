@@ -1,0 +1,33 @@
+{
+  "id": "61aD56ynh3wCx2kQoPDH0C",
+  "name": "Superiore",
+  "uri": "spotify:artist:61aD56ynh3wCx2kQoPDH0C",
+  "followers": {
+    "href": null,
+    "total": 119
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb049835c4048ba2aee0f81ee4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174049835c4048ba2aee0f81ee4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178049835c4048ba2aee0f81ee4",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/61aD56ynh3wCx2kQoPDH0C"
+  }
+}

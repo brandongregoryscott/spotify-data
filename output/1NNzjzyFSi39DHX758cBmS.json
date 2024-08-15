@@ -1,0 +1,33 @@
+{
+  "id": "1NNzjzyFSi39DHX758cBmS",
+  "name": "SPQR",
+  "uri": "spotify:artist:1NNzjzyFSi39DHX758cBmS",
+  "followers": {
+    "href": null,
+    "total": 35
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733ecb446327d6982f443391fd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023ecb446327d6982f443391fd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513ecb446327d6982f443391fd",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1NNzjzyFSi39DHX758cBmS"
+  }
+}

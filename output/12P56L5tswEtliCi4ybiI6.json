@@ -1,0 +1,33 @@
+{
+  "id": "12P56L5tswEtliCi4ybiI6",
+  "name": "Aseia",
+  "uri": "spotify:artist:12P56L5tswEtliCi4ybiI6",
+  "followers": {
+    "href": null,
+    "total": 415
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb983b5869056b03ac9f7aabd7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174983b5869056b03ac9f7aabd7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178983b5869056b03ac9f7aabd7",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/12P56L5tswEtliCi4ybiI6"
+  }
+}

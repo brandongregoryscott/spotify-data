@@ -1,0 +1,33 @@
+{
+  "id": "1I5GgG0fkk28k12XAddw4X",
+  "name": "Our Destiny",
+  "uri": "spotify:artist:1I5GgG0fkk28k12XAddw4X",
+  "followers": {
+    "href": null,
+    "total": 123
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ca24fd9560e96eb749ef7b6b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ca24fd9560e96eb749ef7b6b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ca24fd9560e96eb749ef7b6b",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1I5GgG0fkk28k12XAddw4X"
+  }
+}

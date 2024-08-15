@@ -1,0 +1,33 @@
+{
+  "id": "1E6bWysqQXsHfoXVBm9htI",
+  "name": "Baby Galaxy",
+  "uri": "spotify:artist:1E6bWysqQXsHfoXVBm9htI",
+  "followers": {
+    "href": null,
+    "total": 254
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dd09e62cfff5c857acd3f409",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dd09e62cfff5c857acd3f409",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dd09e62cfff5c857acd3f409",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1E6bWysqQXsHfoXVBm9htI"
+  }
+}

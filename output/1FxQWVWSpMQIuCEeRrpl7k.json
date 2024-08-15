@@ -1,0 +1,33 @@
+{
+  "id": "1FxQWVWSpMQIuCEeRrpl7k",
+  "name": "Cliff Jackson",
+  "uri": "spotify:artist:1FxQWVWSpMQIuCEeRrpl7k",
+  "followers": {
+    "href": null,
+    "total": 190
+  },
+  "genres": [
+    "stride"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b2763505658f37b4d0b7def6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b2763505658f37b4d0b7def6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b2763505658f37b4d0b7def6",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1FxQWVWSpMQIuCEeRrpl7k"
+  }
+}

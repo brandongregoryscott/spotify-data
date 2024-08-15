@@ -1,0 +1,39 @@
+{
+  "id": "11XZpCBI7ExNNqmQoSgcJU",
+  "name": "The Poets",
+  "uri": "spotify:artist:11XZpCBI7ExNNqmQoSgcJU",
+  "followers": {
+    "href": null,
+    "total": 3534
+  },
+  "genres": [
+    "british blues",
+    "freakbeat"
+  ],
+  "images": [
+    {
+      "height": 740,
+      "url": "https://i.scdn.co/image/30a7b7c24e64d35f926d37f17c9167aac1784752",
+      "width": 1000
+    },
+    {
+      "height": 474,
+      "url": "https://i.scdn.co/image/2b2420efad2f1244044bedda7f2072159f9213ce",
+      "width": 640
+    },
+    {
+      "height": 148,
+      "url": "https://i.scdn.co/image/97fa505a666cc13414369069840113a18896fd6d",
+      "width": 200
+    },
+    {
+      "height": 47,
+      "url": "https://i.scdn.co/image/44354aeb7156997bb59409f431931494adf2f1ec",
+      "width": 63
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/11XZpCBI7ExNNqmQoSgcJU"
+  }
+}

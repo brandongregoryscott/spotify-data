@@ -1,0 +1,33 @@
+{
+  "id": "0HdcWDiMM7J3BUfwlsc5ya",
+  "name": "Manu Roca",
+  "uri": "spotify:artist:0HdcWDiMM7J3BUfwlsc5ya",
+  "followers": {
+    "href": null,
+    "total": 154
+  },
+  "genres": [
+    "pop boliviano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdeee5e70a43784d3e99a2e6a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174deee5e70a43784d3e99a2e6a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178deee5e70a43784d3e99a2e6a",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0HdcWDiMM7J3BUfwlsc5ya"
+  }
+}

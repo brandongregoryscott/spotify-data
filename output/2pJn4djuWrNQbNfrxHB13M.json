@@ -1,0 +1,35 @@
+{
+  "id": "2pJn4djuWrNQbNfrxHB13M",
+  "name": "Jesse Colin Young",
+  "uri": "spotify:artist:2pJn4djuWrNQbNfrxHB13M",
+  "followers": {
+    "href": null,
+    "total": 56699
+  },
+  "genres": [
+    "country rock",
+    "folk",
+    "singer-songwriter"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf783ebd19083ec3f2117e202",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f783ebd19083ec3f2117e202",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f783ebd19083ec3f2117e202",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2pJn4djuWrNQbNfrxHB13M"
+  }
+}

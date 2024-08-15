@@ -1,0 +1,33 @@
+{
+  "id": "5wwviFABtIwG8zE0LRDYDU",
+  "name": "THE DEV",
+  "uri": "spotify:artist:5wwviFABtIwG8zE0LRDYDU",
+  "followers": {
+    "href": null,
+    "total": 802
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb87ecbcb7cd5f421b9f6c481e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517487ecbcb7cd5f421b9f6c481e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17887ecbcb7cd5f421b9f6c481e",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5wwviFABtIwG8zE0LRDYDU"
+  }
+}

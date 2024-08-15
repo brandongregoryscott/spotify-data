@@ -1,0 +1,33 @@
+{
+  "id": "0qXoHTXpC6jO3UdB3NwHcL",
+  "name": "The Callahan",
+  "uri": "spotify:artist:0qXoHTXpC6jO3UdB3NwHcL",
+  "followers": {
+    "href": null,
+    "total": 208
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27301302b4fc6ff5bd0cebd176c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0201302b4fc6ff5bd0cebd176c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485101302b4fc6ff5bd0cebd176c",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0qXoHTXpC6jO3UdB3NwHcL"
+  }
+}

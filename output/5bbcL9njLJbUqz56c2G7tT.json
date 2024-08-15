@@ -1,0 +1,33 @@
+{
+  "id": "5bbcL9njLJbUqz56c2G7tT",
+  "name": "Appetites",
+  "uri": "spotify:artist:5bbcL9njLJbUqz56c2G7tT",
+  "followers": {
+    "href": null,
+    "total": 62
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcf8f88889cc882579cfebb9f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cf8f88889cc882579cfebb9f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cf8f88889cc882579cfebb9f",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5bbcL9njLJbUqz56c2G7tT"
+  }
+}

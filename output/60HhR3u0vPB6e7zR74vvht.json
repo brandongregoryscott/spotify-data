@@ -1,0 +1,33 @@
+{
+  "id": "60HhR3u0vPB6e7zR74vvht",
+  "name": "SunTonic",
+  "uri": "spotify:artist:60HhR3u0vPB6e7zR74vvht",
+  "followers": {
+    "href": null,
+    "total": 172
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfce0ec0a91e9a4521dc85e44",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fce0ec0a91e9a4521dc85e44",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fce0ec0a91e9a4521dc85e44",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/60HhR3u0vPB6e7zR74vvht"
+  }
+}

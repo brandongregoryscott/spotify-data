@@ -1,0 +1,33 @@
+{
+  "id": "1ci9a5YK4tSijYhtH7QvWu",
+  "name": "Dart Trees",
+  "uri": "spotify:artist:1ci9a5YK4tSijYhtH7QvWu",
+  "followers": {
+    "href": null,
+    "total": 481
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf2b7eaf39daee9a7b110296d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f2b7eaf39daee9a7b110296d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f2b7eaf39daee9a7b110296d",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ci9a5YK4tSijYhtH7QvWu"
+  }
+}

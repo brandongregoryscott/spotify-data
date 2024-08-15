@@ -1,0 +1,33 @@
+{
+  "id": "1wHJR16reVwX2Z1ZeovrhA",
+  "name": "João Castilho",
+  "uri": "spotify:artist:1wHJR16reVwX2Z1ZeovrhA",
+  "followers": {
+    "href": null,
+    "total": 537
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb59ac77e2a59d43e74fa7122a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517459ac77e2a59d43e74fa7122a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17859ac77e2a59d43e74fa7122a",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1wHJR16reVwX2Z1ZeovrhA"
+  }
+}

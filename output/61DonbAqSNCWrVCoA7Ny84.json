@@ -4,29 +4,15 @@
   "uri": "spotify:artist:61DonbAqSNCWrVCoA7Ny84",
   "followers": {
     "href": null,
-    "total": 31
+    "total": 38
   },
   "genres": [
 
   ],
   "images": [
-    {
-      "height": 640,
-      "url": "https://i.scdn.co/image/ab67616d0000b2732cac72eeb777ecf003de74a6",
-      "width": 640
-    },
-    {
-      "height": 300,
-      "url": "https://i.scdn.co/image/ab67616d00001e02b63265828070ed5fd85cb6f2",
-      "width": 300
-    },
-    {
-      "height": 64,
-      "url": "https://i.scdn.co/image/ab67616d0000485146c190cce794ce440c0323cd",
-      "width": 64
-    }
+
   ],
-  "popularity": 34,
+  "popularity": 0,
   "external_urls": {
     "spotify": "https://open.spotify.com/artist/61DonbAqSNCWrVCoA7Ny84"
   }

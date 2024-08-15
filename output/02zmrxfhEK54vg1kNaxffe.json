@@ -1,0 +1,33 @@
+{
+  "id": "02zmrxfhEK54vg1kNaxffe",
+  "name": "Criscuack",
+  "uri": "spotify:artist:02zmrxfhEK54vg1kNaxffe",
+  "followers": {
+    "href": null,
+    "total": 438
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf05257f7354a7be960d867d6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f05257f7354a7be960d867d6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f05257f7354a7be960d867d6",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/02zmrxfhEK54vg1kNaxffe"
+  }
+}

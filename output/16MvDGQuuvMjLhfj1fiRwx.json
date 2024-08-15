@@ -1,0 +1,33 @@
+{
+  "id": "16MvDGQuuvMjLhfj1fiRwx",
+  "name": "Barney Gumble",
+  "uri": "spotify:artist:16MvDGQuuvMjLhfj1fiRwx",
+  "followers": {
+    "href": null,
+    "total": 157
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc8ac2fe8ae4409ede84aa3fa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c8ac2fe8ae4409ede84aa3fa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c8ac2fe8ae4409ede84aa3fa",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/16MvDGQuuvMjLhfj1fiRwx"
+  }
+}

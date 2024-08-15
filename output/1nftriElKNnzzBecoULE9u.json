@@ -1,0 +1,33 @@
+{
+  "id": "1nftriElKNnzzBecoULE9u",
+  "name": "Vox Celesta",
+  "uri": "spotify:artist:1nftriElKNnzzBecoULE9u",
+  "followers": {
+    "href": null,
+    "total": 276
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273549481421f6c10379c37f250",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02549481421f6c10379c37f250",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851549481421f6c10379c37f250",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1nftriElKNnzzBecoULE9u"
+  }
+}

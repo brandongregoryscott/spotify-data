@@ -1,0 +1,33 @@
+{
+  "id": "031RVClqaUebiDDv8bSDvh",
+  "name": "Pish",
+  "uri": "spotify:artist:031RVClqaUebiDDv8bSDvh",
+  "followers": {
+    "href": null,
+    "total": 8434
+  },
+  "genres": [
+    "bergen indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdcb1ef7a43d845f1f24ef16f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dcb1ef7a43d845f1f24ef16f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dcb1ef7a43d845f1f24ef16f",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/031RVClqaUebiDDv8bSDvh"
+  }
+}

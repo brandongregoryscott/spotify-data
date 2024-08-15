@@ -1,0 +1,33 @@
+{
+  "id": "0tCT4lQtobonpVwP4IKaFl",
+  "name": "Maira Martins",
+  "uri": "spotify:artist:0tCT4lQtobonpVwP4IKaFl",
+  "followers": {
+    "href": null,
+    "total": 1706
+  },
+  "genres": [
+    "bossa nova cover"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe9399230d1e64228ef09ca86",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e9399230d1e64228ef09ca86",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e9399230d1e64228ef09ca86",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0tCT4lQtobonpVwP4IKaFl"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3bmXHwsBGhuPqZ3w83PQ98",
+  "name": "Kinds of Cases",
+  "uri": "spotify:artist:3bmXHwsBGhuPqZ3w83PQ98",
+  "followers": {
+    "href": null,
+    "total": 376
+  },
+  "genres": [
+    "rap metalcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a98f0e8c7433afdbcdd1f074",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a98f0e8c7433afdbcdd1f074",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a98f0e8c7433afdbcdd1f074",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3bmXHwsBGhuPqZ3w83PQ98"
+  }
+}

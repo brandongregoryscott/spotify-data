@@ -1,0 +1,40 @@
+{
+  "id": "2VYQTNDsvvKN9wmU5W7xpj",
+  "name": "Marilyn Manson",
+  "uri": "spotify:artist:2VYQTNDsvvKN9wmU5W7xpj",
+  "followers": {
+    "href": null,
+    "total": 4422515
+  },
+  "genres": [
+    "alternative metal",
+    "hard rock",
+    "industrial",
+    "industrial metal",
+    "industrial rock",
+    "nu metal",
+    "post-grunge",
+    "rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb04b59046ec7178e157cbf8cd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517404b59046ec7178e157cbf8cd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17804b59046ec7178e157cbf8cd",
+      "width": 160
+    }
+  ],
+  "popularity": 70,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+  }
+}

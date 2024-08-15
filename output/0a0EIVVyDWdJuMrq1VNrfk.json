@@ -1,0 +1,34 @@
+{
+  "id": "0a0EIVVyDWdJuMrq1VNrfk",
+  "name": "Something Clever",
+  "uri": "spotify:artist:0a0EIVVyDWdJuMrq1VNrfk",
+  "followers": {
+    "href": null,
+    "total": 1457
+  },
+  "genres": [
+    "charlotte nc indie",
+    "rebel blues"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb2ceb297bfc9ea3c3e278a76",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b2ceb297bfc9ea3c3e278a76",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b2ceb297bfc9ea3c3e278a76",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0a0EIVVyDWdJuMrq1VNrfk"
+  }
+}

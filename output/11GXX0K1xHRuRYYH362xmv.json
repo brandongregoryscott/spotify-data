@@ -1,0 +1,33 @@
+{
+  "id": "11GXX0K1xHRuRYYH362xmv",
+  "name": "djeii",
+  "uri": "spotify:artist:11GXX0K1xHRuRYYH362xmv",
+  "followers": {
+    "href": null,
+    "total": 620
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb86329937fdfb7e7ade01544c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517486329937fdfb7e7ade01544c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17886329937fdfb7e7ade01544c",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/11GXX0K1xHRuRYYH362xmv"
+  }
+}

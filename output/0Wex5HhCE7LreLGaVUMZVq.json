@@ -1,0 +1,33 @@
+{
+  "id": "0Wex5HhCE7LreLGaVUMZVq",
+  "name": "Chris Andrez",
+  "uri": "spotify:artist:0Wex5HhCE7LreLGaVUMZVq",
+  "followers": {
+    "href": null,
+    "total": 185
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb707e31ae558cebb91af9577b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174707e31ae558cebb91af9577b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178707e31ae558cebb91af9577b",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0Wex5HhCE7LreLGaVUMZVq"
+  }
+}

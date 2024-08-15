@@ -1,0 +1,33 @@
+{
+  "id": "07CIogD8ks33mLMSRLpBPL",
+  "name": "DSTR",
+  "uri": "spotify:artist:07CIogD8ks33mLMSRLpBPL",
+  "followers": {
+    "href": null,
+    "total": 1559
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732a7765382456a0413260573c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022a7765382456a0413260573c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512a7765382456a0413260573c",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07CIogD8ks33mLMSRLpBPL"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "03j5Y7YQn2JBI9u9klTwm2",
+  "name": "Frick Trips",
+  "uri": "spotify:artist:03j5Y7YQn2JBI9u9klTwm2",
+  "followers": {
+    "href": null,
+    "total": 250
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb75c0a5760719e7341af43424",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517475c0a5760719e7341af43424",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17875c0a5760719e7341af43424",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03j5Y7YQn2JBI9u9klTwm2"
+  }
+}

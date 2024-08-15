@@ -1,0 +1,33 @@
+{
+  "id": "5uaIU6OCDao6MpkhJPEY1j",
+  "name": "SolH",
+  "uri": "spotify:artist:5uaIU6OCDao6MpkhJPEY1j",
+  "followers": {
+    "href": null,
+    "total": 183
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb25b8fe4ca43de94e902fbd13",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517425b8fe4ca43de94e902fbd13",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17825b8fe4ca43de94e902fbd13",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5uaIU6OCDao6MpkhJPEY1j"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7Jn98akVMAyQIoUnkvsOKM",
+  "name": "Laytha",
+  "uri": "spotify:artist:7Jn98akVMAyQIoUnkvsOKM",
+  "followers": {
+    "href": null,
+    "total": 478
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb09410a8eca65f167adbb4617",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517409410a8eca65f167adbb4617",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17809410a8eca65f167adbb4617",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7Jn98akVMAyQIoUnkvsOKM"
+  }
+}

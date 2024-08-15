@@ -1,0 +1,35 @@
+{
+  "id": "5prz4Rf3RVDOFpBWrtUfKC",
+  "name": "Pleymo",
+  "uri": "spotify:artist:5prz4Rf3RVDOFpBWrtUfKC",
+  "followers": {
+    "href": null,
+    "total": 33182
+  },
+  "genres": [
+    "french metal",
+    "french rock",
+    "neo metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273081dd5fb661aa183f0a1d11e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02081dd5fb661aa183f0a1d11e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851081dd5fb661aa183f0a1d11e",
+      "width": 64
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5prz4Rf3RVDOFpBWrtUfKC"
+  }
+}

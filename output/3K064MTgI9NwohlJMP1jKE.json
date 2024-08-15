@@ -1,0 +1,33 @@
+{
+  "id": "3K064MTgI9NwohlJMP1jKE",
+  "name": "KECI",
+  "uri": "spotify:artist:3K064MTgI9NwohlJMP1jKE",
+  "followers": {
+    "href": null,
+    "total": 808
+  },
+  "genres": [
+    "deep big room"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcff5bfb5cb097fce556603a5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cff5bfb5cb097fce556603a5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cff5bfb5cb097fce556603a5",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3K064MTgI9NwohlJMP1jKE"
+  }
+}

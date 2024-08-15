@@ -1,0 +1,33 @@
+{
+  "id": "1moe1b4xSgmk21yyPyuGYl",
+  "name": "overtide",
+  "uri": "spotify:artist:1moe1b4xSgmk21yyPyuGYl",
+  "followers": {
+    "href": null,
+    "total": 2067
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebad728c8f04f486e1ee7a3d90",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ad728c8f04f486e1ee7a3d90",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ad728c8f04f486e1ee7a3d90",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1moe1b4xSgmk21yyPyuGYl"
+  }
+}

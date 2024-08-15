@@ -1,0 +1,33 @@
+{
+  "id": "5WnVMpFsFGWoX4DLet4TJH",
+  "name": "Marcelo Martins",
+  "uri": "spotify:artist:5WnVMpFsFGWoX4DLet4TJH",
+  "followers": {
+    "href": null,
+    "total": 298
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdb29483f794e1d482cf72fc1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174db29483f794e1d482cf72fc1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178db29483f794e1d482cf72fc1",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5WnVMpFsFGWoX4DLet4TJH"
+  }
+}

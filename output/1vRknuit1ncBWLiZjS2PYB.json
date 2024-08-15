@@ -1,0 +1,33 @@
+{
+  "id": "1vRknuit1ncBWLiZjS2PYB",
+  "name": "Dead End Job",
+  "uri": "spotify:artist:1vRknuit1ncBWLiZjS2PYB",
+  "followers": {
+    "href": null,
+    "total": 390
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb88378bd45a8cec1e8e7a0e32",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517488378bd45a8cec1e8e7a0e32",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17888378bd45a8cec1e8e7a0e32",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1vRknuit1ncBWLiZjS2PYB"
+  }
+}

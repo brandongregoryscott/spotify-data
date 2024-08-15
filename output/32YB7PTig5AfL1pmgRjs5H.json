@@ -1,0 +1,33 @@
+{
+  "id": "32YB7PTig5AfL1pmgRjs5H",
+  "name": "BastiBasti",
+  "uri": "spotify:artist:32YB7PTig5AfL1pmgRjs5H",
+  "followers": {
+    "href": null,
+    "total": 1869
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebda5112aef7e6770a3095804b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174da5112aef7e6770a3095804b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178da5112aef7e6770a3095804b",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/32YB7PTig5AfL1pmgRjs5H"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "006RA7HEkDlWCub3ZpIST9",
+  "name": "Ila",
+  "uri": "spotify:artist:006RA7HEkDlWCub3ZpIST9",
+  "followers": {
+    "href": null,
+    "total": 23
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba5943816523bba9f1c28dcbe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a5943816523bba9f1c28dcbe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a5943816523bba9f1c28dcbe",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/006RA7HEkDlWCub3ZpIST9"
+  }
+}

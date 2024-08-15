@@ -1,0 +1,33 @@
+{
+  "id": "4S8NmgM7oJ188sKp1waZpy",
+  "name": "MÖWE",
+  "uri": "spotify:artist:4S8NmgM7oJ188sKp1waZpy",
+  "followers": {
+    "href": null,
+    "total": 88165
+  },
+  "genres": [
+    "deep tropical house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb58f663815b95bafbb23e60e3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517458f663815b95bafbb23e60e3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17858f663815b95bafbb23e60e3",
+      "width": 160
+    }
+  ],
+  "popularity": 48,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
+  }
+}

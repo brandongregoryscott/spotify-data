@@ -1,0 +1,33 @@
+{
+  "id": "3LLF2LXlrkd1MRZ91OnyFK",
+  "name": "LNTRNS",
+  "uri": "spotify:artist:3LLF2LXlrkd1MRZ91OnyFK",
+  "followers": {
+    "href": null,
+    "total": 33
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e8298c5c39d8cc94dce86691",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e8298c5c39d8cc94dce86691",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e8298c5c39d8cc94dce86691",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3LLF2LXlrkd1MRZ91OnyFK"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3TqahucxNEimcdSQzhKpJx",
+  "name": "Andin",
+  "uri": "spotify:artist:3TqahucxNEimcdSQzhKpJx",
+  "followers": {
+    "href": null,
+    "total": 116
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb614272345640a0da9871bb75",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174614272345640a0da9871bb75",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178614272345640a0da9871bb75",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/3TqahucxNEimcdSQzhKpJx"
+  }
+}

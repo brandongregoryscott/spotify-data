@@ -1,0 +1,33 @@
+{
+  "id": "02pXWWQK81BLsBgWt9cVFx",
+  "name": "Pieter Nooten",
+  "uri": "spotify:artist:02pXWWQK81BLsBgWt9cVFx",
+  "followers": {
+    "href": null,
+    "total": 2396
+  },
+  "genres": [
+    "ambient pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d608e8086efd997ff35fda2b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02d608e8086efd997ff35fda2b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851d608e8086efd997ff35fda2b",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/02pXWWQK81BLsBgWt9cVFx"
+  }
+}

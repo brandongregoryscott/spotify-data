@@ -1,0 +1,35 @@
+{
+  "id": "0yRYo9ej1JqOzFyVvLe00O",
+  "name": "Hello Psychaleppo",
+  "uri": "spotify:artist:0yRYo9ej1JqOzFyVvLe00O",
+  "followers": {
+    "href": null,
+    "total": 18509
+  },
+  "genres": [
+    "arab alternative",
+    "arab electronic",
+    "syrian pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb038615f825ca604547c0e8c4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174038615f825ca604547c0e8c4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178038615f825ca604547c0e8c4",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0yRYo9ej1JqOzFyVvLe00O"
+  }
+}

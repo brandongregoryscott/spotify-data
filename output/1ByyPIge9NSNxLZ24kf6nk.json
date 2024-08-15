@@ -1,0 +1,33 @@
+{
+  "id": "1ByyPIge9NSNxLZ24kf6nk",
+  "name": "Dylan Russell",
+  "uri": "spotify:artist:1ByyPIge9NSNxLZ24kf6nk",
+  "followers": {
+    "href": null,
+    "total": 1379
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb77e1e936b2da6d877b9a6f00",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517477e1e936b2da6d877b9a6f00",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17877e1e936b2da6d877b9a6f00",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ByyPIge9NSNxLZ24kf6nk"
+  }
+}

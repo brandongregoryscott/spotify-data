@@ -1,0 +1,33 @@
+{
+  "id": "0VlwEbd0EbAgWAXp5wI6eL",
+  "name": "apollo bitrate",
+  "uri": "spotify:artist:0VlwEbd0EbAgWAXp5wI6eL",
+  "followers": {
+    "href": null,
+    "total": 142
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb38233a2e38dbdf586024f033",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517438233a2e38dbdf586024f033",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17838233a2e38dbdf586024f033",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0VlwEbd0EbAgWAXp5wI6eL"
+  }
+}

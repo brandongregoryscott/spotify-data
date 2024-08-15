@@ -1,0 +1,33 @@
+{
+  "id": "0OXAurLCCE6oOUwNeCtSJR",
+  "name": "Michael McQuaid",
+  "uri": "spotify:artist:0OXAurLCCE6oOUwNeCtSJR",
+  "followers": {
+    "href": null,
+    "total": 1383
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb07972e002f6b37bc46bd1167",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517407972e002f6b37bc46bd1167",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17807972e002f6b37bc46bd1167",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0OXAurLCCE6oOUwNeCtSJR"
+  }
+}

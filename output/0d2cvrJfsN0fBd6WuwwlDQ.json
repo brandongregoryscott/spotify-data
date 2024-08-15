@@ -1,0 +1,33 @@
+{
+  "id": "0d2cvrJfsN0fBd6WuwwlDQ",
+  "name": "Hook",
+  "uri": "spotify:artist:0d2cvrJfsN0fBd6WuwwlDQ",
+  "followers": {
+    "href": null,
+    "total": 477
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf7a4af7d447863840a277d0e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f7a4af7d447863840a277d0e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f7a4af7d447863840a277d0e",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ"
+  }
+}

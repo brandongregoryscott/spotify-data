@@ -1,0 +1,33 @@
+{
+  "id": "2SgQeJtyip6WGbRcoIatTs",
+  "name": "Mr Echo",
+  "uri": "spotify:artist:2SgQeJtyip6WGbRcoIatTs",
+  "followers": {
+    "href": null,
+    "total": 166
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27319846e6698574dc953b32262",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0219846e6698574dc953b32262",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485119846e6698574dc953b32262",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2SgQeJtyip6WGbRcoIatTs"
+  }
+}

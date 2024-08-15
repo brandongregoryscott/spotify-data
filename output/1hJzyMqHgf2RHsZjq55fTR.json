@@ -1,0 +1,33 @@
+{
+  "id": "1hJzyMqHgf2RHsZjq55fTR",
+  "name": "Hellproof",
+  "uri": "spotify:artist:1hJzyMqHgf2RHsZjq55fTR",
+  "followers": {
+    "href": null,
+    "total": 145
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbf91f735b9b7cf2abe71915e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bf91f735b9b7cf2abe71915e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bf91f735b9b7cf2abe71915e",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1hJzyMqHgf2RHsZjq55fTR"
+  }
+}

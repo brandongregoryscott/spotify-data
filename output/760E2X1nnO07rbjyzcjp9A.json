@@ -1,0 +1,33 @@
+{
+  "id": "760E2X1nnO07rbjyzcjp9A",
+  "name": "HÄMÄRÄ",
+  "uri": "spotify:artist:760E2X1nnO07rbjyzcjp9A",
+  "followers": {
+    "href": null,
+    "total": 493
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb64e5ecbaafaa10b8c351d960",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517464e5ecbaafaa10b8c351d960",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17864e5ecbaafaa10b8c351d960",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/760E2X1nnO07rbjyzcjp9A"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "1tZu59RMUqUyqcIrlRMVG6",
+  "name": "Taste",
+  "uri": "spotify:artist:1tZu59RMUqUyqcIrlRMVG6",
+  "followers": {
+    "href": null,
+    "total": 655
+  },
+  "genres": [
+    "nightrun",
+    "swedish melodic rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb96cb7f44d62c6e082ee4846d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517496cb7f44d62c6e082ee4846d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17896cb7f44d62c6e082ee4846d",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1tZu59RMUqUyqcIrlRMVG6"
+  }
+}

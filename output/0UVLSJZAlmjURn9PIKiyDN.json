@@ -1,0 +1,33 @@
+{
+  "id": "0UVLSJZAlmjURn9PIKiyDN",
+  "name": "$LIK",
+  "uri": "spotify:artist:0UVLSJZAlmjURn9PIKiyDN",
+  "followers": {
+    "href": null,
+    "total": 196
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb20ea65b18ce086b7c86688df",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517420ea65b18ce086b7c86688df",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17820ea65b18ce086b7c86688df",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0UVLSJZAlmjURn9PIKiyDN"
+  }
+}

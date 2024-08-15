@@ -1,0 +1,34 @@
+{
+  "id": "0nxRn8CNiMyuKjtXpLJLBu",
+  "name": "David Holsinger",
+  "uri": "spotify:artist:0nxRn8CNiMyuKjtXpLJLBu",
+  "followers": {
+    "href": null,
+    "total": 1554
+  },
+  "genres": [
+    "concert band",
+    "wind symphony"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273193c35d9da014525c635892f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02193c35d9da014525c635892f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851193c35d9da014525c635892f",
+      "width": 64
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0nxRn8CNiMyuKjtXpLJLBu"
+  }
+}

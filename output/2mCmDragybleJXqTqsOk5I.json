@@ -1,0 +1,33 @@
+{
+  "id": "2mCmDragybleJXqTqsOk5I",
+  "name": "Mega Ran",
+  "uri": "spotify:artist:2mCmDragybleJXqTqsOk5I",
+  "followers": {
+    "href": null,
+    "total": 33693
+  },
+  "genres": [
+    "nerdcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd8d634ca5e5e9d0b7feb25da",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d8d634ca5e5e9d0b7feb25da",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d8d634ca5e5e9d0b7feb25da",
+      "width": 160
+    }
+  ],
+  "popularity": 39,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I"
+  }
+}

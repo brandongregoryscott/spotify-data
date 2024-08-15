@@ -1,0 +1,34 @@
+{
+  "id": "5TGTpu4g8siFOIctZuQO7y",
+  "name": "Sylvester",
+  "uri": "spotify:artist:5TGTpu4g8siFOIctZuQO7y",
+  "followers": {
+    "href": null,
+    "total": 187518
+  },
+  "genres": [
+    "disco",
+    "hi-nrg"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb224edfd4e7b8101c4d217134",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174224edfd4e7b8101c4d217134",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178224edfd4e7b8101c4d217134",
+      "width": 160
+    }
+  ],
+  "popularity": 49,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y"
+  }
+}

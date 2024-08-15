@@ -1,0 +1,33 @@
+{
+  "id": "07xPqvLLSdQTw0Go6sJdk8",
+  "name": "consonant",
+  "uri": "spotify:artist:07xPqvLLSdQTw0Go6sJdk8",
+  "followers": {
+    "href": null,
+    "total": 240
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731fb6ae0a6eef5c185356f63c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021fb6ae0a6eef5c185356f63c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511fb6ae0a6eef5c185356f63c",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07xPqvLLSdQTw0Go6sJdk8"
+  }
+}

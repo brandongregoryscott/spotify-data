@@ -1,0 +1,33 @@
+{
+  "id": "2tBKqlCxWMcyylXGvwvHlN",
+  "name": "Syd Bakal",
+  "uri": "spotify:artist:2tBKqlCxWMcyylXGvwvHlN",
+  "followers": {
+    "href": null,
+    "total": 172
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfd76cfef146533198e015b70",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fd76cfef146533198e015b70",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fd76cfef146533198e015b70",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2tBKqlCxWMcyylXGvwvHlN"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "06gMfrzP5SfCtLcHGeyNtK",
+  "name": "Phil Laeger",
+  "uri": "spotify:artist:06gMfrzP5SfCtLcHGeyNtK",
+  "followers": {
+    "href": null,
+    "total": 484
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba56c3390fb219bed11d1ab7e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a56c3390fb219bed11d1ab7e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a56c3390fb219bed11d1ab7e",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/06gMfrzP5SfCtLcHGeyNtK"
+  }
+}

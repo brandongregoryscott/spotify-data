@@ -1,0 +1,34 @@
+{
+  "id": "0UARFNqkG0EVLtLlUMyM41",
+  "name": "Jacob Stelly",
+  "uri": "spotify:artist:0UARFNqkG0EVLtLlUMyM41",
+  "followers": {
+    "href": null,
+    "total": 13670
+  },
+  "genres": [
+    "classic texas country",
+    "red dirt"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebada1e084740c71d3c317e3fb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ada1e084740c71d3c317e3fb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ada1e084740c71d3c317e3fb",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0UARFNqkG0EVLtLlUMyM41"
+  }
+}

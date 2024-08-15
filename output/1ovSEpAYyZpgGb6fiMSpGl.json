@@ -1,0 +1,33 @@
+{
+  "id": "1ovSEpAYyZpgGb6fiMSpGl",
+  "name": "Un Par De Webos",
+  "uri": "spotify:artist:1ovSEpAYyZpgGb6fiMSpGl",
+  "followers": {
+    "href": null,
+    "total": 87
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb58f5c379b433033f869a38a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b58f5c379b433033f869a38a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b58f5c379b433033f869a38a",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1ovSEpAYyZpgGb6fiMSpGl"
+  }
+}

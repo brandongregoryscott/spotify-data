@@ -1,0 +1,33 @@
+{
+  "id": "35z9VRUuJOZ3odEl2BATfl",
+  "name": "Leviot",
+  "uri": "spotify:artist:35z9VRUuJOZ3odEl2BATfl",
+  "followers": {
+    "href": null,
+    "total": 133
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273051550a519eab51c4d986594",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02051550a519eab51c4d986594",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518af5fb5110523b1620839f1c",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/35z9VRUuJOZ3odEl2BATfl"
+  }
+}

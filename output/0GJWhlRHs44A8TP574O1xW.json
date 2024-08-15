@@ -1,0 +1,33 @@
+{
+  "id": "0GJWhlRHs44A8TP574O1xW",
+  "name": "azraelify",
+  "uri": "spotify:artist:0GJWhlRHs44A8TP574O1xW",
+  "followers": {
+    "href": null,
+    "total": 1000
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb417d1561f7eb10c0a239fd04",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174417d1561f7eb10c0a239fd04",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178417d1561f7eb10c0a239fd04",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0GJWhlRHs44A8TP574O1xW"
+  }
+}

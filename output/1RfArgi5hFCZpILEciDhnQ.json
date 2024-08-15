@@ -1,0 +1,33 @@
+{
+  "id": "1RfArgi5hFCZpILEciDhnQ",
+  "name": "Divaiz",
+  "uri": "spotify:artist:1RfArgi5hFCZpILEciDhnQ",
+  "followers": {
+    "href": null,
+    "total": 150
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbac907cea5f77bcf247cdfde",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bac907cea5f77bcf247cdfde",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bac907cea5f77bcf247cdfde",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/1RfArgi5hFCZpILEciDhnQ"
+  }
+}

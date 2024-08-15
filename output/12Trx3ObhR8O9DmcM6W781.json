@@ -1,0 +1,34 @@
+{
+  "id": "12Trx3ObhR8O9DmcM6W781",
+  "name": "cTrix",
+  "uri": "spotify:artist:12Trx3ObhR8O9DmcM6W781",
+  "followers": {
+    "href": null,
+    "total": 3587
+  },
+  "genres": [
+    "bitpop",
+    "chiptune"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27363acca9659cb79b99edf7ec6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0263acca9659cb79b99edf7ec6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485163acca9659cb79b99edf7ec6",
+      "width": 64
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/12Trx3ObhR8O9DmcM6W781"
+  }
+}

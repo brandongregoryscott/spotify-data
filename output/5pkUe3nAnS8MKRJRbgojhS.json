@@ -1,0 +1,33 @@
+{
+  "id": "5pkUe3nAnS8MKRJRbgojhS",
+  "name": "melan",
+  "uri": "spotify:artist:5pkUe3nAnS8MKRJRbgojhS",
+  "followers": {
+    "href": null,
+    "total": 11120
+  },
+  "genres": [
+    "high vibe"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc1b4c902c380ef757fd5a2f1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c1b4c902c380ef757fd5a2f1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c1b4c902c380ef757fd5a2f1",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5pkUe3nAnS8MKRJRbgojhS"
+  }
+}

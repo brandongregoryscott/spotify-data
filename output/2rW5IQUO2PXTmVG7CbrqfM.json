@@ -1,0 +1,33 @@
+{
+  "id": "2rW5IQUO2PXTmVG7CbrqfM",
+  "name": "Pedro Botero",
+  "uri": "spotify:artist:2rW5IQUO2PXTmVG7CbrqfM",
+  "followers": {
+    "href": null,
+    "total": 2200
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bb4cfa12bf0189cc0f7709dd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bb4cfa12bf0189cc0f7709dd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bb4cfa12bf0189cc0f7709dd",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/2rW5IQUO2PXTmVG7CbrqfM"
+  }
+}
