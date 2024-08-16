@@ -10,5 +10,6 @@ STATUS_CODE=$(curl -L \
 
 if [[ $STATUS_CODE -ne '200' ]]
 then
+  echo "Request to start workflow failed with status code $STATUS_CODE"
   exit 1;
 fi;
