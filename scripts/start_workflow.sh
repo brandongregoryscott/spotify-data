@@ -8,7 +8,8 @@ STATUS_CODE=$(curl -L \
   -d '{"ref":"main"}')
 
 
-if [[ $STATUS_CODE -ne '200' ]]
+if test $STATUS_CODE != '200' && test $STATUS_CODE != '204'
 then
+  echo "Request to start workflow failed with status code $STATUS_CODE"
   exit 1;
 fi;
