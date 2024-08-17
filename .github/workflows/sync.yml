@@ -14,17 +14,17 @@ jobs:
 
     - name: Set cache key
       run: |
-        echo CACHE_KEY=$(node -e 'console.log(new Date().toISOString().split("T")[0])') >> $GITHUB_ENV
+        echo CURRENT_CACHE_KEY=$(node -e 'console.log(new Date().toISOString())') >> $GITHUB_ENV
+        echo SHORT_CACHE_KEY=$(node -e 'console.log(new Date().toISOString().split("T")[0])') >> $GITHUB_ENV
 
     - name: Restore cache
       uses: actions/cache/restore@v4
       with:
         path: |
           .git
-        key: ${{env.CACHE_KEY}}-${{github.head_ref}}-${{hashFiles('output/*.json')}}
         restore-keys: |
-            ${{env.CACHE_KEY}}-${{github.head_ref}}-
-            ${{env.CACHE_KEY}}-
+          ${{env.CURRENT_CACHE_KEY}}
+          ${{env.SHORT_CACHE_KEY}}
 
     - uses: actions/checkout@v4
 
@@ -51,4 +51,4 @@ jobs:
       with:
         path: |
           .git
-        key: ${{env.CACHE_KEY}}-${{github.head_ref}}-${{hashFiles('output/*.json')}}
+        key: ${{env.CURRENT_CACHE_KEY}}
