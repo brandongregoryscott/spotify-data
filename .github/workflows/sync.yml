@@ -12,12 +12,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
+    - name: Set cache key
+      run: |
+        echo CACHE_KEY=$(node -e 'console.log(new Date().toISOString().split("T")[0])') >> $GITHUB_ENV
+
     - name: Restore cache
       uses: actions/cache/restore@v4
       with:
         path: |
           .git
-        key: git
+        key: ${{env.CACHE_KEY}}
 
     - uses: actions/checkout@v4
 
@@ -44,4 +48,4 @@ jobs:
       with:
         path: |
           .git
-        key: git
+        key: ${{env.CACHE_KEY}}
