@@ -9,7 +9,6 @@ require 'logger'
 def main
   logger = Logger.new($stdout)
   git = Git.open(Pathname('.'), log: logger)
-  git.lib.remote_set_url('origin', 'git@github.com:brandongregoryscott/spotify-data.git')
 
   configure_git_user(git)
   checkout_branch(git)
