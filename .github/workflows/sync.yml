@@ -11,23 +11,15 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
-
-    - name: Set git url
-      run: |
-        git config --global url.https://${{github.token}}@github.com/.insteadOf https://github.com/
-
-    - name: Set cache key
-      run: |
-        echo CACHE_KEY=$(node -e 'console.log(new Date().toISOString().split("T")[0])') >> $GITHUB_ENV
 
     - name: Restore cache
       uses: actions/cache/restore@v4
       with:
         path: |
-          ~/.gitconfig
           .git
-        key: ${{env.CACHE_KEY}}
+        key: git
+
+    - uses: actions/checkout@v4
 
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
@@ -51,6 +43,5 @@ jobs:
       uses: actions/cache/save@v4
       with:
         path: |
-          ~/.gitconfig
           .git
-        key: ${{env.CACHE_KEY}}
+        key: git

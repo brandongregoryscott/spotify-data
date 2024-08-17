@@ -15,8 +15,8 @@ def main
 end
 
 def configure_git_user(git)
-  git.config('user.name', 'Github Actions')
-  git.config('user.email', 'actions@users.noreply.github.com')
+  git.config('user.name', 'github-actions[bot]')
+  git.config('user.email', '41898282+github-actions[bot]@users.noreply.github.com')
   git.config('pull.rebase', 'false')
 end
 
