@@ -22,6 +22,7 @@ jobs:
       with:
         path: |
           .git
+        key: ${{env.CURRENT_CACHE_KEY}}
         restore-keys: |
           ${{env.CURRENT_CACHE_KEY}}
           ${{env.SHORT_CACHE_KEY}}
