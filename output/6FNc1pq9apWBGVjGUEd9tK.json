@@ -1,0 +1,36 @@
+{
+  "id": "6FNc1pq9apWBGVjGUEd9tK",
+  "name": "Danilo Caymmi",
+  "uri": "spotify:artist:6FNc1pq9apWBGVjGUEd9tK",
+  "followers": {
+    "href": null,
+    "total": 56555
+  },
+  "genres": [
+    "bossa nova",
+    "mpb",
+    "samba",
+    "velha guarda"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba619959dcda61aa4a960955f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a619959dcda61aa4a960955f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a619959dcda61aa4a960955f",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6FNc1pq9apWBGVjGUEd9tK"
+  }
+}

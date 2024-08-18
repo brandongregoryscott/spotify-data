@@ -1,0 +1,33 @@
+{
+  "id": "6IU06P2uieWlSmsm6hBfqQ",
+  "name": "Alice&Dolores",
+  "uri": "spotify:artist:6IU06P2uieWlSmsm6hBfqQ",
+  "followers": {
+    "href": null,
+    "total": 189
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb50e0e6c78efc957015209ea4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517450e0e6c78efc957015209ea4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17850e0e6c78efc957015209ea4",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6IU06P2uieWlSmsm6hBfqQ"
+  }
+}

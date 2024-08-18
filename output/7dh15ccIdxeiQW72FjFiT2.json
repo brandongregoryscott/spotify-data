@@ -1,0 +1,33 @@
+{
+  "id": "7dh15ccIdxeiQW72FjFiT2",
+  "name": "Max Twaddle",
+  "uri": "spotify:artist:7dh15ccIdxeiQW72FjFiT2",
+  "followers": {
+    "href": null,
+    "total": 30
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb02c5d55191525e5607ed32d0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517402c5d55191525e5607ed32d0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17802c5d55191525e5607ed32d0",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7dh15ccIdxeiQW72FjFiT2"
+  }
+}

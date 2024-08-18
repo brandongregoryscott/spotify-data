@@ -1,0 +1,33 @@
+{
+  "id": "7nuAtHbjzH4GlB1lQMQUXl",
+  "name": "OMW",
+  "uri": "spotify:artist:7nuAtHbjzH4GlB1lQMQUXl",
+  "followers": {
+    "href": null,
+    "total": 192
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb91134b756320955c80171cf1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517491134b756320955c80171cf1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17891134b756320955c80171cf1",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7nuAtHbjzH4GlB1lQMQUXl"
+  }
+}

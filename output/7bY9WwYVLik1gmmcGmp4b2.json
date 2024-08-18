@@ -1,0 +1,33 @@
+{
+  "id": "7bY9WwYVLik1gmmcGmp4b2",
+  "name": "Amber Creek",
+  "uri": "spotify:artist:7bY9WwYVLik1gmmcGmp4b2",
+  "followers": {
+    "href": null,
+    "total": 213
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb810abc384f616a06a3e6ec0d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174810abc384f616a06a3e6ec0d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178810abc384f616a06a3e6ec0d",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7bY9WwYVLik1gmmcGmp4b2"
+  }
+}

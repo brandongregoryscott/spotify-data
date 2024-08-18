@@ -1,0 +1,33 @@
+{
+  "id": "6VSHu0K2eRhEO8jLXleBEk",
+  "name": "Folsom",
+  "uri": "spotify:artist:6VSHu0K2eRhEO8jLXleBEk",
+  "followers": {
+    "href": null,
+    "total": 127
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27346db50ada82bd402c92b8e5b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0246db50ada82bd402c92b8e5b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485146db50ada82bd402c92b8e5b",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6VSHu0K2eRhEO8jLXleBEk"
+  }
+}

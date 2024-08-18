@@ -1,0 +1,35 @@
+{
+  "id": "6l3pNvLTkJiDE3V1SLSGCj",
+  "name": "Daniel Lee",
+  "uri": "spotify:artist:6l3pNvLTkJiDE3V1SLSGCj",
+  "followers": {
+    "href": null,
+    "total": 11643
+  },
+  "genres": [
+    "country pop",
+    "country rap",
+    "redneck"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb006cf8466d380236b6a43970",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174006cf8466d380236b6a43970",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178006cf8466d380236b6a43970",
+      "width": 160
+    }
+  ],
+  "popularity": 38,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6l3pNvLTkJiDE3V1SLSGCj"
+  }
+}

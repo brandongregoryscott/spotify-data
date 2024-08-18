@@ -1,0 +1,33 @@
+{
+  "id": "5qQFEWJYSHy7ARQKYEILla",
+  "name": "The Sugar Hollows",
+  "uri": "spotify:artist:5qQFEWJYSHy7ARQKYEILla",
+  "followers": {
+    "href": null,
+    "total": 339
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebab1c2adfb156b8fd9f24bade",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ab1c2adfb156b8fd9f24bade",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ab1c2adfb156b8fd9f24bade",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5qQFEWJYSHy7ARQKYEILla"
+  }
+}

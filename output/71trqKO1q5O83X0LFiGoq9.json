@@ -1,0 +1,33 @@
+{
+  "id": "71trqKO1q5O83X0LFiGoq9",
+  "name": "u-full",
+  "uri": "spotify:artist:71trqKO1q5O83X0LFiGoq9",
+  "followers": {
+    "href": null,
+    "total": 159
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737001446b6f3431f3d3ccd38a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027001446b6f3431f3d3ccd38a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517001446b6f3431f3d3ccd38a",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/71trqKO1q5O83X0LFiGoq9"
+  }
+}

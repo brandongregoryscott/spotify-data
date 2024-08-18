@@ -1,0 +1,33 @@
+{
+  "id": "5noqo0hFJHxksEykf8dpON",
+  "name": "Bunnie",
+  "uri": "spotify:artist:5noqo0hFJHxksEykf8dpON",
+  "followers": {
+    "href": null,
+    "total": 28
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba21dcc3f26fee31e2762feb1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a21dcc3f26fee31e2762feb1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a21dcc3f26fee31e2762feb1",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5noqo0hFJHxksEykf8dpON"
+  }
+}

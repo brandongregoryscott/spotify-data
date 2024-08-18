@@ -1,0 +1,34 @@
+{
+  "id": "5Ijs5N9PtVuzabbujWsttn",
+  "name": "Wake",
+  "uri": "spotify:artist:5Ijs5N9PtVuzabbujWsttn",
+  "followers": {
+    "href": null,
+    "total": 914
+  },
+  "genres": [
+    "ugandan hip hop",
+    "ugandan pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc7c582d41e4a73dbfcc44049",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c7c582d41e4a73dbfcc44049",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c7c582d41e4a73dbfcc44049",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Ijs5N9PtVuzabbujWsttn"
+  }
+}

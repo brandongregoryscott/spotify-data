@@ -1,0 +1,33 @@
+{
+  "id": "7ppNgJPSCMBaqo6NBD1gvt",
+  "name": "Love, Mary",
+  "uri": "spotify:artist:7ppNgJPSCMBaqo6NBD1gvt",
+  "followers": {
+    "href": null,
+    "total": 1304
+  },
+  "genres": [
+    "ukrainian pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb03ee17824ddf725d13c94143",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517403ee17824ddf725d13c94143",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17803ee17824ddf725d13c94143",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ppNgJPSCMBaqo6NBD1gvt"
+  }
+}

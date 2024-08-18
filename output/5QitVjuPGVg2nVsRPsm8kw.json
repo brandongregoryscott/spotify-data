@@ -1,0 +1,33 @@
+{
+  "id": "5QitVjuPGVg2nVsRPsm8kw",
+  "name": "Amo",
+  "uri": "spotify:artist:5QitVjuPGVg2nVsRPsm8kw",
+  "followers": {
+    "href": null,
+    "total": 139
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe0760a6ff288a0d9a655fd4e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e0760a6ff288a0d9a655fd4e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e0760a6ff288a0d9a655fd4e",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5QitVjuPGVg2nVsRPsm8kw"
+  }
+}

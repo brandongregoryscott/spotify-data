@@ -1,0 +1,33 @@
+{
+  "id": "7ifz2qAFtCsC3achHUtOMo",
+  "name": "Forest",
+  "uri": "spotify:artist:7ifz2qAFtCsC3achHUtOMo",
+  "followers": {
+    "href": null,
+    "total": 2023
+  },
+  "genres": [
+    "psychedelic folk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ef36e7e8aede57d26a931217",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ef36e7e8aede57d26a931217",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ef36e7e8aede57d26a931217",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ifz2qAFtCsC3achHUtOMo"
+  }
+}

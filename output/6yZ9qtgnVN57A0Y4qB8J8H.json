@@ -1,0 +1,33 @@
+{
+  "id": "6yZ9qtgnVN57A0Y4qB8J8H",
+  "name": "Surfer Joe",
+  "uri": "spotify:artist:6yZ9qtgnVN57A0Y4qB8J8H",
+  "followers": {
+    "href": null,
+    "total": 2399
+  },
+  "genres": [
+    "instrumental surf"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb226879831e71d31a8bf983a2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174226879831e71d31a8bf983a2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178226879831e71d31a8bf983a2",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6yZ9qtgnVN57A0Y4qB8J8H"
+  }
+}

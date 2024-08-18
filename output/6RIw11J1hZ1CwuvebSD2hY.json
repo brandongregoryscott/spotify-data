@@ -1,0 +1,33 @@
+{
+  "id": "6RIw11J1hZ1CwuvebSD2hY",
+  "name": "BFM",
+  "uri": "spotify:artist:6RIw11J1hZ1CwuvebSD2hY",
+  "followers": {
+    "href": null,
+    "total": 212
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ef56412ec03aa10deaea4820",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ef56412ec03aa10deaea4820",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ef56412ec03aa10deaea4820",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6RIw11J1hZ1CwuvebSD2hY"
+  }
+}

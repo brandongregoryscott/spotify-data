@@ -1,0 +1,33 @@
+{
+  "id": "6Mz2cubQ6pdOAVcqIGVx9G",
+  "name": "Parish",
+  "uri": "spotify:artist:6Mz2cubQ6pdOAVcqIGVx9G",
+  "followers": {
+    "href": null,
+    "total": 1330
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273067a452d16db74b804ce463f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02067a452d16db74b804ce463f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851067a452d16db74b804ce463f",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Mz2cubQ6pdOAVcqIGVx9G"
+  }
+}

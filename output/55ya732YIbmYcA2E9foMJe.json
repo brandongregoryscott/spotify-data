@@ -1,0 +1,35 @@
+{
+  "id": "55ya732YIbmYcA2E9foMJe",
+  "name": "Zimbo Trio",
+  "uri": "spotify:artist:55ya732YIbmYcA2E9foMJe",
+  "followers": {
+    "href": null,
+    "total": 32804
+  },
+  "genres": [
+    "bossa nova",
+    "brazilian jazz",
+    "samba-jazz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bbbdec222ee94a65f47a85ab",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bbbdec222ee94a65f47a85ab",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bbbdec222ee94a65f47a85ab",
+      "width": 64
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/55ya732YIbmYcA2E9foMJe"
+  }
+}

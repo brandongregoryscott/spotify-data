@@ -1,0 +1,33 @@
+{
+  "id": "5wStc5sxwF9ibAhD20hFnb",
+  "name": "Sleepy Lemon",
+  "uri": "spotify:artist:5wStc5sxwF9ibAhD20hFnb",
+  "followers": {
+    "href": null,
+    "total": 10
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273badd9c75246f5bec871aeaa7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02badd9c75246f5bec871aeaa7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851badd9c75246f5bec871aeaa7",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5wStc5sxwF9ibAhD20hFnb"
+  }
+}

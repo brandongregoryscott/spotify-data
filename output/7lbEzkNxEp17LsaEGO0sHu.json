@@ -1,0 +1,33 @@
+{
+  "id": "7lbEzkNxEp17LsaEGO0sHu",
+  "name": "Redondo Red",
+  "uri": "spotify:artist:7lbEzkNxEp17LsaEGO0sHu",
+  "followers": {
+    "href": null,
+    "total": 1885
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdb2fb60126f88d81cde95879",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174db2fb60126f88d81cde95879",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178db2fb60126f88d81cde95879",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7lbEzkNxEp17LsaEGO0sHu"
+  }
+}

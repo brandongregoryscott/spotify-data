@@ -1,0 +1,33 @@
+{
+  "id": "5WGIG7WPt80O65cp0ko3fc",
+  "name": "VeigaS",
+  "uri": "spotify:artist:5WGIG7WPt80O65cp0ko3fc",
+  "followers": {
+    "href": null,
+    "total": 329
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebee0b7434a30a26f46e6b1f14",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ee0b7434a30a26f46e6b1f14",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ee0b7434a30a26f46e6b1f14",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5WGIG7WPt80O65cp0ko3fc"
+  }
+}

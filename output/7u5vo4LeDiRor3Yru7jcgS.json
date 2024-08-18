@@ -1,0 +1,33 @@
+{
+  "id": "7u5vo4LeDiRor3Yru7jcgS",
+  "name": "majselo",
+  "uri": "spotify:artist:7u5vo4LeDiRor3Yru7jcgS",
+  "followers": {
+    "href": null,
+    "total": 470
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb017324e0aa532c05107fa078",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174017324e0aa532c05107fa078",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178017324e0aa532c05107fa078",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7u5vo4LeDiRor3Yru7jcgS"
+  }
+}

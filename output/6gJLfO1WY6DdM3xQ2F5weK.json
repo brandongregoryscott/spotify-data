@@ -1,0 +1,33 @@
+{
+  "id": "6gJLfO1WY6DdM3xQ2F5weK",
+  "name": "Bulldog",
+  "uri": "spotify:artist:6gJLfO1WY6DdM3xQ2F5weK",
+  "followers": {
+    "href": null,
+    "total": 442
+  },
+  "genres": [
+    "spanish rockabilly"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27351640a9cc6b3b881a18f8608",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0251640a9cc6b3b881a18f8608",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485151640a9cc6b3b881a18f8608",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6gJLfO1WY6DdM3xQ2F5weK"
+  }
+}

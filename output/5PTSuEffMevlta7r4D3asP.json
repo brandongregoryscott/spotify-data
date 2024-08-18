@@ -1,0 +1,33 @@
+{
+  "id": "5PTSuEffMevlta7r4D3asP",
+  "name": "Carol Passos",
+  "uri": "spotify:artist:5PTSuEffMevlta7r4D3asP",
+  "followers": {
+    "href": null,
+    "total": 1334
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebab509a71ffe0ae917afc9858",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ab509a71ffe0ae917afc9858",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ab509a71ffe0ae917afc9858",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
+  }
+}

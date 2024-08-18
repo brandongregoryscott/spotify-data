@@ -1,0 +1,33 @@
+{
+  "id": "7mjadfpeejXDP4e0sFTFAR",
+  "name": "two kalme",
+  "uri": "spotify:artist:7mjadfpeejXDP4e0sFTFAR",
+  "followers": {
+    "href": null,
+    "total": 183
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbd67dcaa34f51ed98ca99ae3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bd67dcaa34f51ed98ca99ae3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bd67dcaa34f51ed98ca99ae3",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7mjadfpeejXDP4e0sFTFAR"
+  }
+}

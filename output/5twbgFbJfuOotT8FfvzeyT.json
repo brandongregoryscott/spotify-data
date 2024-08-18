@@ -1,0 +1,33 @@
+{
+  "id": "5twbgFbJfuOotT8FfvzeyT",
+  "name": "Sandy H",
+  "uri": "spotify:artist:5twbgFbJfuOotT8FfvzeyT",
+  "followers": {
+    "href": null,
+    "total": 125
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb342c16f84ce58044f2b3a1d8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174342c16f84ce58044f2b3a1d8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178342c16f84ce58044f2b3a1d8",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5twbgFbJfuOotT8FfvzeyT"
+  }
+}

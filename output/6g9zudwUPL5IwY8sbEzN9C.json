@@ -1,0 +1,33 @@
+{
+  "id": "6g9zudwUPL5IwY8sbEzN9C",
+  "name": "Cool Calm Pete",
+  "uri": "spotify:artist:6g9zudwUPL5IwY8sbEzN9C",
+  "followers": {
+    "href": null,
+    "total": 12417
+  },
+  "genres": [
+    "jazz rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ed3c1b4e86771fe8b13c692e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02baff245b549fc232173913dd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ed3c1b4e86771fe8b13c692e",
+      "width": 64
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6g9zudwUPL5IwY8sbEzN9C"
+  }
+}

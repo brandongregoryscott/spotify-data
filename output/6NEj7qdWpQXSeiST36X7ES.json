@@ -1,0 +1,35 @@
+{
+  "id": "6NEj7qdWpQXSeiST36X7ES",
+  "name": "Simon Superti",
+  "uri": "spotify:artist:6NEj7qdWpQXSeiST36X7ES",
+  "followers": {
+    "href": null,
+    "total": 9009
+  },
+  "genres": [
+    "swedish hip hop",
+    "swedish trap",
+    "swedish trap pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe76ce7f2c533a56c16175f3c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e76ce7f2c533a56c16175f3c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e76ce7f2c533a56c16175f3c",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
+  }
+}

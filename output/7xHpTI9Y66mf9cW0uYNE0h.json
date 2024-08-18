@@ -1,0 +1,33 @@
+{
+  "id": "7xHpTI9Y66mf9cW0uYNE0h",
+  "name": "Crew",
+  "uri": "spotify:artist:7xHpTI9Y66mf9cW0uYNE0h",
+  "followers": {
+    "href": null,
+    "total": 101
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27385de83d9827828a754126b6c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0285de83d9827828a754126b6c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485185de83d9827828a754126b6c",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7xHpTI9Y66mf9cW0uYNE0h"
+  }
+}

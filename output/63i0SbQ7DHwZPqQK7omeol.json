@@ -1,0 +1,33 @@
+{
+  "id": "63i0SbQ7DHwZPqQK7omeol",
+  "name": "LOKO",
+  "uri": "spotify:artist:63i0SbQ7DHwZPqQK7omeol",
+  "followers": {
+    "href": null,
+    "total": 3595
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb62b68c59a02dd8ce6926792a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517462b68c59a02dd8ce6926792a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17862b68c59a02dd8ce6926792a",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/63i0SbQ7DHwZPqQK7omeol"
+  }
+}

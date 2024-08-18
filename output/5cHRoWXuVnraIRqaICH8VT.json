@@ -1,0 +1,33 @@
+{
+  "id": "5cHRoWXuVnraIRqaICH8VT",
+  "name": "Attica! Attica!",
+  "uri": "spotify:artist:5cHRoWXuVnraIRqaICH8VT",
+  "followers": {
+    "href": null,
+    "total": 500
+  },
+  "genres": [
+    "folk punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735119c30bdc0c1083a42fc90e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025119c30bdc0c1083a42fc90e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515119c30bdc0c1083a42fc90e",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5cHRoWXuVnraIRqaICH8VT"
+  }
+}

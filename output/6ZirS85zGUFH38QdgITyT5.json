@@ -1,0 +1,33 @@
+{
+  "id": "6ZirS85zGUFH38QdgITyT5",
+  "name": "Union",
+  "uri": "spotify:artist:6ZirS85zGUFH38QdgITyT5",
+  "followers": {
+    "href": null,
+    "total": 296
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe42d759a9a5263e77180ab08",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e42d759a9a5263e77180ab08",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e42d759a9a5263e77180ab08",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ZirS85zGUFH38QdgITyT5"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "5R7KIglsEkN02QLOxvujGh",
+  "name": "Изморозь",
+  "uri": "spotify:artist:5R7KIglsEkN02QLOxvujGh",
+  "followers": {
+    "href": null,
+    "total": 1506
+  },
+  "genres": [
+    "russian folk metal",
+    "slavic metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27395fea1445067c485845eae54",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0295fea1445067c485845eae54",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485195fea1445067c485845eae54",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5R7KIglsEkN02QLOxvujGh"
+  }
+}

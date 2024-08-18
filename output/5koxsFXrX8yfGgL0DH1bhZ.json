@@ -1,0 +1,33 @@
+{
+  "id": "5koxsFXrX8yfGgL0DH1bhZ",
+  "name": "Tam",
+  "uri": "spotify:artist:5koxsFXrX8yfGgL0DH1bhZ",
+  "followers": {
+    "href": null,
+    "total": 75
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdec3bdfaf3c5a6c431614794",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dec3bdfaf3c5a6c431614794",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dec3bdfaf3c5a6c431614794",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5koxsFXrX8yfGgL0DH1bhZ"
+  }
+}

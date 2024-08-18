@@ -1,0 +1,33 @@
+{
+  "id": "6xzksQA78p1O6EJudUThEA",
+  "name": "Sonny Chillingworth",
+  "uri": "spotify:artist:6xzksQA78p1O6EJudUThEA",
+  "followers": {
+    "href": null,
+    "total": 3823
+  },
+  "genres": [
+    "slack-key guitar"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733042b341cb965975c0b6484a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023042b341cb965975c0b6484a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513042b341cb965975c0b6484a",
+      "width": 64
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6xzksQA78p1O6EJudUThEA"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7KVIIFsUfaJUGRSgnrNLmH",
+  "name": "Lil Sucata",
+  "uri": "spotify:artist:7KVIIFsUfaJUGRSgnrNLmH",
+  "followers": {
+    "href": null,
+    "total": 68
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba03433e4d5d211706c6d8184",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a03433e4d5d211706c6d8184",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a03433e4d5d211706c6d8184",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7KVIIFsUfaJUGRSgnrNLmH"
+  }
+}

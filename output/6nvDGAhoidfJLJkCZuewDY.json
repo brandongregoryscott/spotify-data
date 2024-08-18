@@ -1,0 +1,33 @@
+{
+  "id": "6nvDGAhoidfJLJkCZuewDY",
+  "name": "KAZBONGO",
+  "uri": "spotify:artist:6nvDGAhoidfJLJkCZuewDY",
+  "followers": {
+    "href": null,
+    "total": 39
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739dac1107ec8eef2f8cf5fba6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029dac1107ec8eef2f8cf5fba6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519dac1107ec8eef2f8cf5fba6",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6nvDGAhoidfJLJkCZuewDY"
+  }
+}

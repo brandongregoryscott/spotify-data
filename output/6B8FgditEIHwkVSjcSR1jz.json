@@ -1,0 +1,33 @@
+{
+  "id": "6B8FgditEIHwkVSjcSR1jz",
+  "name": "Aku",
+  "uri": "spotify:artist:6B8FgditEIHwkVSjcSR1jz",
+  "followers": {
+    "href": null,
+    "total": 117
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb140b084c1cfaf733c185c9eb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174140b084c1cfaf733c185c9eb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178140b084c1cfaf733c185c9eb",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6B8FgditEIHwkVSjcSR1jz"
+  }
+}

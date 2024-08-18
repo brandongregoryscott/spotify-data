@@ -1,0 +1,33 @@
+{
+  "id": "6pZveyGCzOkMFaxBXBePNo",
+  "name": "MY RON",
+  "uri": "spotify:artist:6pZveyGCzOkMFaxBXBePNo",
+  "followers": {
+    "href": null,
+    "total": 269
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb417ebcbbedc41e9fb4b3fc89",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174417ebcbbedc41e9fb4b3fc89",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178417ebcbbedc41e9fb4b3fc89",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6pZveyGCzOkMFaxBXBePNo"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "6u4jLGLPuarS3i2XWHVxoS",
+  "name": "Sasha",
+  "uri": "spotify:artist:6u4jLGLPuarS3i2XWHVxoS",
+  "followers": {
+    "href": null,
+    "total": 114484
+  },
+  "genres": [
+    "classic progressive house",
+    "swedish electronic",
+    "trance"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc9896771673b1734fd7741e0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c9896771673b1734fd7741e0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c9896771673b1734fd7741e0",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5F8cN1D7VT3pDHVwcLkk4S",
+  "name": "DANNO",
+  "uri": "spotify:artist:5F8cN1D7VT3pDHVwcLkk4S",
+  "followers": {
+    "href": null,
+    "total": 1334
+  },
+  "genres": [
+    "tearout"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb45ca348c3332b50e082caffd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517445ca348c3332b50e082caffd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17845ca348c3332b50e082caffd",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5F8cN1D7VT3pDHVwcLkk4S"
+  }
+}

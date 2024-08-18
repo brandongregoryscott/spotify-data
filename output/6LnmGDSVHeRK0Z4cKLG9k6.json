@@ -1,0 +1,34 @@
+{
+  "id": "6LnmGDSVHeRK0Z4cKLG9k6",
+  "name": "The Stone",
+  "uri": "spotify:artist:6LnmGDSVHeRK0Z4cKLG9k6",
+  "followers": {
+    "href": null,
+    "total": 1767
+  },
+  "genres": [
+    "serbian metal",
+    "slavic metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb926fdecfeef58844270c5c78",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174926fdecfeef58844270c5c78",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178926fdecfeef58844270c5c78",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6LnmGDSVHeRK0Z4cKLG9k6"
+  }
+}

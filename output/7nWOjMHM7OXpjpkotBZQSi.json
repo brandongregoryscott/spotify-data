@@ -1,0 +1,33 @@
+{
+  "id": "7nWOjMHM7OXpjpkotBZQSi",
+  "name": "J.J. Brown",
+  "uri": "spotify:artist:7nWOjMHM7OXpjpkotBZQSi",
+  "followers": {
+    "href": null,
+    "total": 323
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27335d85a9493da8d3fb5dcbbb9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0235d85a9493da8d3fb5dcbbb9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485135d85a9493da8d3fb5dcbbb9",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7nWOjMHM7OXpjpkotBZQSi"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5l7KKjtOnZSuTIxykFFKQD",
+  "name": "Ken Gellardt",
+  "uri": "spotify:artist:5l7KKjtOnZSuTIxykFFKQD",
+  "followers": {
+    "href": null,
+    "total": 86
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd9db5d8463274fd998b60d30",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d9db5d8463274fd998b60d30",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d9db5d8463274fd998b60d30",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5l7KKjtOnZSuTIxykFFKQD"
+  }
+}

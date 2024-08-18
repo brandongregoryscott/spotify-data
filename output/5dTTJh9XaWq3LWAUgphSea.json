@@ -1,0 +1,33 @@
+{
+  "id": "5dTTJh9XaWq3LWAUgphSea",
+  "name": "Balkandino",
+  "uri": "spotify:artist:5dTTJh9XaWq3LWAUgphSea",
+  "followers": {
+    "href": null,
+    "total": 447
+  },
+  "genres": [
+    "banda de bronces"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb912bcde738f6e13927e2960b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174912bcde738f6e13927e2960b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178912bcde738f6e13927e2960b",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5dTTJh9XaWq3LWAUgphSea"
+  }
+}

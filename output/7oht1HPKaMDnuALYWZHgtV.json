@@ -1,0 +1,34 @@
+{
+  "id": "7oht1HPKaMDnuALYWZHgtV",
+  "name": "John Leyton",
+  "uri": "spotify:artist:7oht1HPKaMDnuALYWZHgtV",
+  "followers": {
+    "href": null,
+    "total": 11352
+  },
+  "genres": [
+    "merseybeat",
+    "rock-and-roll"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b2a46d592639b6820918aed8",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b2a46d592639b6820918aed8",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b2a46d592639b6820918aed8",
+      "width": 64
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7oht1HPKaMDnuALYWZHgtV"
+  }
+}

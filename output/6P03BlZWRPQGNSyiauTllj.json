@@ -1,0 +1,33 @@
+{
+  "id": "6P03BlZWRPQGNSyiauTllj",
+  "name": "J Jelly",
+  "uri": "spotify:artist:6P03BlZWRPQGNSyiauTllj",
+  "followers": {
+    "href": null,
+    "total": 943
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf704900713847870abefdc87",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f704900713847870abefdc87",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f704900713847870abefdc87",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6P03BlZWRPQGNSyiauTllj"
+  }
+}

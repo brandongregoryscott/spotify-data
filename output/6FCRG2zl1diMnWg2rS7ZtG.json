@@ -1,0 +1,33 @@
+{
+  "id": "6FCRG2zl1diMnWg2rS7ZtG",
+  "name": "Scarlet View",
+  "uri": "spotify:artist:6FCRG2zl1diMnWg2rS7ZtG",
+  "followers": {
+    "href": null,
+    "total": 515
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd73e9f5ea741ee09300bcac4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d73e9f5ea741ee09300bcac4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d73e9f5ea741ee09300bcac4",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6FCRG2zl1diMnWg2rS7ZtG"
+  }
+}

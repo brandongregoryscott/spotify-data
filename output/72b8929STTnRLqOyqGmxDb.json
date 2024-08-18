@@ -1,0 +1,33 @@
+{
+  "id": "72b8929STTnRLqOyqGmxDb",
+  "name": "SHISU",
+  "uri": "spotify:artist:72b8929STTnRLqOyqGmxDb",
+  "followers": {
+    "href": null,
+    "total": 588
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb36f2d1450f0c8ff9cad6b7c4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517436f2d1450f0c8ff9cad6b7c4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17836f2d1450f0c8ff9cad6b7c4",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/72b8929STTnRLqOyqGmxDb"
+  }
+}

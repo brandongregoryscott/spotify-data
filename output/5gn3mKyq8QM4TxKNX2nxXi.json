@@ -1,0 +1,33 @@
+{
+  "id": "5gn3mKyq8QM4TxKNX2nxXi",
+  "name": "bird",
+  "uri": "spotify:artist:5gn3mKyq8QM4TxKNX2nxXi",
+  "followers": {
+    "href": null,
+    "total": 12114
+  },
+  "genres": [
+    "japanese jazztronica"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb47f88174a96d05b9e7ff0173",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517447f88174a96d05b9e7ff0173",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17847f88174a96d05b9e7ff0173",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5gn3mKyq8QM4TxKNX2nxXi"
+  }
+}

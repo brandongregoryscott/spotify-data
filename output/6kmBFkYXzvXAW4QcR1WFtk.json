@@ -1,0 +1,33 @@
+{
+  "id": "6kmBFkYXzvXAW4QcR1WFtk",
+  "name": "Greg in Good Company",
+  "uri": "spotify:artist:6kmBFkYXzvXAW4QcR1WFtk",
+  "followers": {
+    "href": null,
+    "total": 524
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdd77c3efd68cb77bb68e4d10",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dd77c3efd68cb77bb68e4d10",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dd77c3efd68cb77bb68e4d10",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6kmBFkYXzvXAW4QcR1WFtk"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6SoUGVpJSMXrumCKTWnJaR",
+  "name": "LUME",
+  "uri": "spotify:artist:6SoUGVpJSMXrumCKTWnJaR",
+  "followers": {
+    "href": null,
+    "total": 3754
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbb931f5db44d8184b2199a7c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bb931f5db44d8184b2199a7c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bb931f5db44d8184b2199a7c",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6SoUGVpJSMXrumCKTWnJaR"
+  }
+}

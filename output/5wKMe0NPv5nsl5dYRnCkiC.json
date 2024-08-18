@@ -1,0 +1,35 @@
+{
+  "id": "5wKMe0NPv5nsl5dYRnCkiC",
+  "name": "Michel Bisceglia",
+  "uri": "spotify:artist:5wKMe0NPv5nsl5dYRnCkiC",
+  "followers": {
+    "href": null,
+    "total": 2944
+  },
+  "genres": [
+    "belgian jazz",
+    "german jazz",
+    "swedish jazz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb857326b889b83dc69835596d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174857326b889b83dc69835596d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178857326b889b83dc69835596d",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5wKMe0NPv5nsl5dYRnCkiC"
+  }
+}

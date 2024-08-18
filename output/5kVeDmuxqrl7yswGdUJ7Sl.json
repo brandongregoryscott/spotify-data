@@ -1,0 +1,33 @@
+{
+  "id": "5kVeDmuxqrl7yswGdUJ7Sl",
+  "name": "The Wirelight",
+  "uri": "spotify:artist:5kVeDmuxqrl7yswGdUJ7Sl",
+  "followers": {
+    "href": null,
+    "total": 883
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb069a84e6c86b42b07ffd03a7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174069a84e6c86b42b07ffd03a7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178069a84e6c86b42b07ffd03a7",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5kVeDmuxqrl7yswGdUJ7Sl"
+  }
+}

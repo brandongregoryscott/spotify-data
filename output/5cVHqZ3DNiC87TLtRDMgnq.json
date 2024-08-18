@@ -1,0 +1,33 @@
+{
+  "id": "5cVHqZ3DNiC87TLtRDMgnq",
+  "name": "Headless Monarch",
+  "uri": "spotify:artist:5cVHqZ3DNiC87TLtRDMgnq",
+  "followers": {
+    "href": null,
+    "total": 93
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b1856464abc7eb0f235977e4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b1856464abc7eb0f235977e4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b1856464abc7eb0f235977e4",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5cVHqZ3DNiC87TLtRDMgnq"
+  }
+}

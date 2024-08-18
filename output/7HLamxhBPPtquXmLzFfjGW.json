@@ -1,0 +1,33 @@
+{
+  "id": "7HLamxhBPPtquXmLzFfjGW",
+  "name": "civiK",
+  "uri": "spotify:artist:7HLamxhBPPtquXmLzFfjGW",
+  "followers": {
+    "href": null,
+    "total": 21
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb22a08f32246ed0b071768be7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517422a08f32246ed0b071768be7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17822a08f32246ed0b071768be7",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7HLamxhBPPtquXmLzFfjGW"
+  }
+}

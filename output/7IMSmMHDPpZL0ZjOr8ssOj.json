@@ -1,0 +1,33 @@
+{
+  "id": "7IMSmMHDPpZL0ZjOr8ssOj",
+  "name": "Allen French",
+  "uri": "spotify:artist:7IMSmMHDPpZL0ZjOr8ssOj",
+  "followers": {
+    "href": null,
+    "total": 2937
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb662bc9601e12afed45dc768a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174662bc9601e12afed45dc768a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178662bc9601e12afed45dc768a",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7IMSmMHDPpZL0ZjOr8ssOj"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7gDtEXhShKhmqrdh2lpSsD",
+  "name": "The Exbats",
+  "uri": "spotify:artist:7gDtEXhShKhmqrdh2lpSsD",
+  "followers": {
+    "href": null,
+    "total": 3605
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdeb60d0d0c5953680a91a19d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174deb60d0d0c5953680a91a19d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178deb60d0d0c5953680a91a19d",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7gDtEXhShKhmqrdh2lpSsD"
+  }
+}

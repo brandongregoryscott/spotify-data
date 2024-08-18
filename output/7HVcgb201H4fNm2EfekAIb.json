@@ -1,0 +1,33 @@
+{
+  "id": "7HVcgb201H4fNm2EfekAIb",
+  "name": "onoken",
+  "uri": "spotify:artist:7HVcgb201H4fNm2EfekAIb",
+  "followers": {
+    "href": null,
+    "total": 252
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273869e922bdf4d3dfadb4ac7bc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02869e922bdf4d3dfadb4ac7bc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851869e922bdf4d3dfadb4ac7bc",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7HVcgb201H4fNm2EfekAIb"
+  }
+}

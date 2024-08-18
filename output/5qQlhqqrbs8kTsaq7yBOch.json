@@ -1,0 +1,33 @@
+{
+  "id": "5qQlhqqrbs8kTsaq7yBOch",
+  "name": "Ki Alexis",
+  "uri": "spotify:artist:5qQlhqqrbs8kTsaq7yBOch",
+  "followers": {
+    "href": null,
+    "total": 5774
+  },
+  "genres": [
+    "gospel r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc38dc5711cfc5ee2dddb373b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c38dc5711cfc5ee2dddb373b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c38dc5711cfc5ee2dddb373b",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch"
+  }
+}

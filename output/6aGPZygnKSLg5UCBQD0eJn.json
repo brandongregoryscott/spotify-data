@@ -1,0 +1,34 @@
+{
+  "id": "6aGPZygnKSLg5UCBQD0eJn",
+  "name": "Chopo",
+  "uri": "spotify:artist:6aGPZygnKSLg5UCBQD0eJn",
+  "followers": {
+    "href": null,
+    "total": 521
+  },
+  "genres": [
+    "cypriot hip hop",
+    "cypriot pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebee826cb94aca98451f397855",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ee826cb94aca98451f397855",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ee826cb94aca98451f397855",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6aGPZygnKSLg5UCBQD0eJn"
+  }
+}

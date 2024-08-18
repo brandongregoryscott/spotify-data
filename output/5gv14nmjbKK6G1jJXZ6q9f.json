@@ -1,0 +1,33 @@
+{
+  "id": "5gv14nmjbKK6G1jJXZ6q9f",
+  "name": "Lion Trail",
+  "uri": "spotify:artist:5gv14nmjbKK6G1jJXZ6q9f",
+  "followers": {
+    "href": null,
+    "total": 222
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb00e05f16902fad93534738d2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517400e05f16902fad93534738d2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17800e05f16902fad93534738d2",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5gv14nmjbKK6G1jJXZ6q9f"
+  }
+}

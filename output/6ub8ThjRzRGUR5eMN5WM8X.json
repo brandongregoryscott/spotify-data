@@ -1,0 +1,33 @@
+{
+  "id": "6ub8ThjRzRGUR5eMN5WM8X",
+  "name": "Kryvakryz",
+  "uri": "spotify:artist:6ub8ThjRzRGUR5eMN5WM8X",
+  "followers": {
+    "href": null,
+    "total": 200
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27385069c8f22a0d2453b308bcc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0285069c8f22a0d2453b308bcc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485185069c8f22a0d2453b308bcc",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ub8ThjRzRGUR5eMN5WM8X"
+  }
+}

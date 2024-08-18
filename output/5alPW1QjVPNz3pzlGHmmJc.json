@@ -1,0 +1,33 @@
+{
+  "id": "5alPW1QjVPNz3pzlGHmmJc",
+  "name": "Max Allard",
+  "uri": "spotify:artist:5alPW1QjVPNz3pzlGHmmJc",
+  "followers": {
+    "href": null,
+    "total": 344
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb90e407f180774196f0d937f8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517490e407f180774196f0d937f8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17890e407f180774196f0d937f8",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5alPW1QjVPNz3pzlGHmmJc"
+  }
+}

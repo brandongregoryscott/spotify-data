@@ -1,0 +1,33 @@
+{
+  "id": "5cErqYoOfH1y9as44RpVYM",
+  "name": "Sufut",
+  "uri": "spotify:artist:5cErqYoOfH1y9as44RpVYM",
+  "followers": {
+    "href": null,
+    "total": 485
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb57dd4500d54fd3b8432a1643",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517457dd4500d54fd3b8432a1643",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17857dd4500d54fd3b8432a1643",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5cErqYoOfH1y9as44RpVYM"
+  }
+}

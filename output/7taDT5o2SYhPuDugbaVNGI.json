@@ -1,0 +1,33 @@
+{
+  "id": "7taDT5o2SYhPuDugbaVNGI",
+  "name": "SWANES",
+  "uri": "spotify:artist:7taDT5o2SYhPuDugbaVNGI",
+  "followers": {
+    "href": null,
+    "total": 1561
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb525ca7453279fb65099f63c9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174525ca7453279fb65099f63c9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178525ca7453279fb65099f63c9",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7taDT5o2SYhPuDugbaVNGI"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6xhyDCcBBT2I1aMbSQDgIt",
+  "name": "Earworm",
+  "uri": "spotify:artist:6xhyDCcBBT2I1aMbSQDgIt",
+  "followers": {
+    "href": null,
+    "total": 478
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebae469c312487b3bce573e1e5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ae469c312487b3bce573e1e5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ae469c312487b3bce573e1e5",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6xhyDCcBBT2I1aMbSQDgIt"
+  }
+}

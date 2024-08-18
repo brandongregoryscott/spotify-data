@@ -1,0 +1,33 @@
+{
+  "id": "5fG4nxyGNoxSIITDgr4AgM",
+  "name": "The Zame",
+  "uri": "spotify:artist:5fG4nxyGNoxSIITDgr4AgM",
+  "followers": {
+    "href": null,
+    "total": 11647
+  },
+  "genres": [
+    "lo-fi vgm"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb64a03e8e5b79b340d29d9628",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517464a03e8e5b79b340d29d9628",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17864a03e8e5b79b340d29d9628",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5fG4nxyGNoxSIITDgr4AgM"
+  }
+}

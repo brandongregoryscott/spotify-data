@@ -1,0 +1,33 @@
+{
+  "id": "5xmIUhTFdrc28bvynEUMDh",
+  "name": "Ben Wolverton",
+  "uri": "spotify:artist:5xmIUhTFdrc28bvynEUMDh",
+  "followers": {
+    "href": null,
+    "total": 731
+  },
+  "genres": [
+    "christian indie folk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb64cc4ae070f219d8c23b8959",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517464cc4ae070f219d8c23b8959",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17864cc4ae070f219d8c23b8959",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5xmIUhTFdrc28bvynEUMDh"
+  }
+}

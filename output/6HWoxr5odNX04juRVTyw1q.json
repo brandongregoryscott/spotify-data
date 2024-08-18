@@ -1,0 +1,33 @@
+{
+  "id": "6HWoxr5odNX04juRVTyw1q",
+  "name": "Tech Guru",
+  "uri": "spotify:artist:6HWoxr5odNX04juRVTyw1q",
+  "followers": {
+    "href": null,
+    "total": 262
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273820b8716a14e5cc23668567b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02820b8716a14e5cc23668567b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851820b8716a14e5cc23668567b",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6HWoxr5odNX04juRVTyw1q"
+  }
+}

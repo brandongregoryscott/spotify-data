@@ -1,0 +1,33 @@
+{
+  "id": "707C63Z7UsG76uhBrO4bxk",
+  "name": "The Rockin' R's",
+  "uri": "spotify:artist:707C63Z7UsG76uhBrO4bxk",
+  "followers": {
+    "href": null,
+    "total": 191
+  },
+  "genres": [
+    "traditional rockabilly"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736137bf7b4f6e8d6659bcb48c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026137bf7b4f6e8d6659bcb48c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516137bf7b4f6e8d6659bcb48c",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/707C63Z7UsG76uhBrO4bxk"
+  }
+}

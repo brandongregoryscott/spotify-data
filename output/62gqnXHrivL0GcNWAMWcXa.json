@@ -1,0 +1,33 @@
+{
+  "id": "62gqnXHrivL0GcNWAMWcXa",
+  "name": "Onomen",
+  "uri": "spotify:artist:62gqnXHrivL0GcNWAMWcXa",
+  "followers": {
+    "href": null,
+    "total": 201
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc14af8d21faec568f9323c06",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c14af8d21faec568f9323c06",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c14af8d21faec568f9323c06",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/62gqnXHrivL0GcNWAMWcXa"
+  }
+}

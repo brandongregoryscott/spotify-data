@@ -1,0 +1,33 @@
+{
+  "id": "7xJaPX4LwOT3i6XB7WFskK",
+  "name": "JER",
+  "uri": "spotify:artist:7xJaPX4LwOT3i6XB7WFskK",
+  "followers": {
+    "href": null,
+    "total": 17593
+  },
+  "genres": [
+    "black punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4a010055f1a63f48bbe314aa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051744a010055f1a63f48bbe314aa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1784a010055f1a63f48bbe314aa",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7xJaPX4LwOT3i6XB7WFskK"
+  }
+}

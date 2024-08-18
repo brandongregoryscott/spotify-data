@@ -1,0 +1,33 @@
+{
+  "id": "78JmSbpc9jmpfzED9IxS9H",
+  "name": "Blumerle",
+  "uri": "spotify:artist:78JmSbpc9jmpfzED9IxS9H",
+  "followers": {
+    "href": null,
+    "total": 138
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb745a8add26deaf11a22cb602",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174745a8add26deaf11a22cb602",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178745a8add26deaf11a22cb602",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/78JmSbpc9jmpfzED9IxS9H"
+  }
+}

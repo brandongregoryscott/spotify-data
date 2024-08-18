@@ -1,0 +1,33 @@
+{
+  "id": "77a512qFKiDiTQlnbnbfqr",
+  "name": "PicaPica",
+  "uri": "spotify:artist:77a512qFKiDiTQlnbnbfqr",
+  "followers": {
+    "href": null,
+    "total": 922
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb96f80fe7e91c2bcc8b24cca4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517496f80fe7e91c2bcc8b24cca4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17896f80fe7e91c2bcc8b24cca4",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/77a512qFKiDiTQlnbnbfqr"
+  }
+}

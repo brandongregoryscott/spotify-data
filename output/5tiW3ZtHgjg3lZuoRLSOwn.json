@@ -1,0 +1,33 @@
+{
+  "id": "5tiW3ZtHgjg3lZuoRLSOwn",
+  "name": "David Lanclas",
+  "uri": "spotify:artist:5tiW3ZtHgjg3lZuoRLSOwn",
+  "followers": {
+    "href": null,
+    "total": 333
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf24328c64d6a4ef71cbb9765",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f24328c64d6a4ef71cbb9765",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f24328c64d6a4ef71cbb9765",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5tiW3ZtHgjg3lZuoRLSOwn"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7avL2tGGJKsNn3XyageEY8",
+  "name": "Gina Leslie",
+  "uri": "spotify:artist:7avL2tGGJKsNn3XyageEY8",
+  "followers": {
+    "href": null,
+    "total": 454
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfdeb4d67d5da0abcead6b07c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fdeb4d67d5da0abcead6b07c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fdeb4d67d5da0abcead6b07c",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7avL2tGGJKsNn3XyageEY8"
+  }
+}

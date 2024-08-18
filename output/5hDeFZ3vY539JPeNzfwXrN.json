@@ -1,0 +1,33 @@
+{
+  "id": "5hDeFZ3vY539JPeNzfwXrN",
+  "name": "The Word",
+  "uri": "spotify:artist:5hDeFZ3vY539JPeNzfwXrN",
+  "followers": {
+    "href": null,
+    "total": 128
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb95808029457f7bd720463e64",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517495808029457f7bd720463e64",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17895808029457f7bd720463e64",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5hDeFZ3vY539JPeNzfwXrN"
+  }
+}

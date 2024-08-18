@@ -1,0 +1,33 @@
+{
+  "id": "7DvsidDZEe6WTiytz73QDg",
+  "name": "Fedro",
+  "uri": "spotify:artist:7DvsidDZEe6WTiytz73QDg",
+  "followers": {
+    "href": null,
+    "total": 879
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebff85245425aeacec44b3ff7a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ff85245425aeacec44b3ff7a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ff85245425aeacec44b3ff7a",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7DvsidDZEe6WTiytz73QDg"
+  }
+}

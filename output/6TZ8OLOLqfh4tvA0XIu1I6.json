@@ -1,0 +1,33 @@
+{
+  "id": "6TZ8OLOLqfh4tvA0XIu1I6",
+  "name": "Shaylee",
+  "uri": "spotify:artist:6TZ8OLOLqfh4tvA0XIu1I6",
+  "followers": {
+    "href": null,
+    "total": 720
+  },
+  "genres": [
+    "cascadia psych"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb159c5b38043ffd765d12ef02",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174159c5b38043ffd765d12ef02",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178159c5b38043ffd765d12ef02",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6TZ8OLOLqfh4tvA0XIu1I6"
+  }
+}

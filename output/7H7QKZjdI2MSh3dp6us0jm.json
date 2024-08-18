@@ -1,0 +1,33 @@
+{
+  "id": "7H7QKZjdI2MSh3dp6us0jm",
+  "name": "BLANK BLANK STRUCTURE",
+  "uri": "spotify:artist:7H7QKZjdI2MSh3dp6us0jm",
+  "followers": {
+    "href": null,
+    "total": 76
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb49960610398bdeb2667f925d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517449960610398bdeb2667f925d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17849960610398bdeb2667f925d",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7H7QKZjdI2MSh3dp6us0jm"
+  }
+}

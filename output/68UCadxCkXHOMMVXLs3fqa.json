@@ -1,0 +1,33 @@
+{
+  "id": "68UCadxCkXHOMMVXLs3fqa",
+  "name": "prod. night",
+  "uri": "spotify:artist:68UCadxCkXHOMMVXLs3fqa",
+  "followers": {
+    "href": null,
+    "total": 395
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba9299f8e63ca0dd464ba7a68",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a9299f8e63ca0dd464ba7a68",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a9299f8e63ca0dd464ba7a68",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/68UCadxCkXHOMMVXLs3fqa"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7k8YvmQK9gxg3ShK5H3ltq",
+  "name": "Twombly",
+  "uri": "spotify:artist:7k8YvmQK9gxg3ShK5H3ltq",
+  "followers": {
+    "href": null,
+    "total": 120
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe36b5e63cfaccdeceafb3b0c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e36b5e63cfaccdeceafb3b0c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e36b5e63cfaccdeceafb3b0c",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7k8YvmQK9gxg3ShK5H3ltq"
+  }
+}

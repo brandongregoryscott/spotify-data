@@ -1,0 +1,33 @@
+{
+  "id": "5aiHOXao2eYraSQAQamv1b",
+  "name": "Henri Noire",
+  "uri": "spotify:artist:5aiHOXao2eYraSQAQamv1b",
+  "followers": {
+    "href": null,
+    "total": 197
+  },
+  "genres": [
+    "suomirap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273554dea0e04ed676bcba95fe6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02554dea0e04ed676bcba95fe6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851554dea0e04ed676bcba95fe6",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5aiHOXao2eYraSQAQamv1b"
+  }
+}

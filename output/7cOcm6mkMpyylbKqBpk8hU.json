@@ -1,0 +1,33 @@
+{
+  "id": "7cOcm6mkMpyylbKqBpk8hU",
+  "name": "Dylan Cotrone",
+  "uri": "spotify:artist:7cOcm6mkMpyylbKqBpk8hU",
+  "followers": {
+    "href": null,
+    "total": 11530
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb646b9368daf95e142b52216c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174646b9368daf95e142b52216c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178646b9368daf95e142b52216c",
+      "width": 160
+    }
+  ],
+  "popularity": 35,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7cOcm6mkMpyylbKqBpk8hU"
+  }
+}

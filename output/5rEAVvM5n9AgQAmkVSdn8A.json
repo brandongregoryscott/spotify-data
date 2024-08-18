@@ -1,0 +1,33 @@
+{
+  "id": "5rEAVvM5n9AgQAmkVSdn8A",
+  "name": "Learke",
+  "uri": "spotify:artist:5rEAVvM5n9AgQAmkVSdn8A",
+  "followers": {
+    "href": null,
+    "total": 1285
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebffd614b19104e304c9a4d1f6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ffd614b19104e304c9a4d1f6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ffd614b19104e304c9a4d1f6",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+  }
+}

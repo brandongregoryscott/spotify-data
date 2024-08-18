@@ -1,0 +1,35 @@
+{
+  "id": "6DcGHTqziCAg4pkFJbJVx3",
+  "name": "Oitão",
+  "uri": "spotify:artist:6DcGHTqziCAg4pkFJbJVx3",
+  "followers": {
+    "href": null,
+    "total": 15640
+  },
+  "genres": [
+    "brazilian hardcore",
+    "brazilian metal",
+    "brazilian punk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb02085cf7dfd1b98cd2e3c56a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517402085cf7dfd1b98cd2e3c56a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17802085cf7dfd1b98cd2e3c56a",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6DcGHTqziCAg4pkFJbJVx3"
+  }
+}

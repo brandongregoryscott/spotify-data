@@ -1,0 +1,33 @@
+{
+  "id": "6V3g3gnA7UgftU9Za0iYDQ",
+  "name": "Greyed Out",
+  "uri": "spotify:artist:6V3g3gnA7UgftU9Za0iYDQ",
+  "followers": {
+    "href": null,
+    "total": 283
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbd5bd63aa8713bed50923822",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bd5bd63aa8713bed50923822",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bd5bd63aa8713bed50923822",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6V3g3gnA7UgftU9Za0iYDQ"
+  }
+}

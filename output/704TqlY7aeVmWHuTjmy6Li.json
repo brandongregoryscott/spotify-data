@@ -1,0 +1,33 @@
+{
+  "id": "704TqlY7aeVmWHuTjmy6Li",
+  "name": "HELLMAN",
+  "uri": "spotify:artist:704TqlY7aeVmWHuTjmy6Li",
+  "followers": {
+    "href": null,
+    "total": 341
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdb366a9410b4648c0cb6212f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174db366a9410b4648c0cb6212f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178db366a9410b4648c0cb6212f",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/704TqlY7aeVmWHuTjmy6Li"
+  }
+}

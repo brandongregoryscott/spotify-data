@@ -1,0 +1,33 @@
+{
+  "id": "74X9BDo427GwNtdOjmirdA",
+  "name": "Testeagles",
+  "uri": "spotify:artist:74X9BDo427GwNtdOjmirdA",
+  "followers": {
+    "href": null,
+    "total": 2017
+  },
+  "genres": [
+    "australian alternative rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdb1d7d5536a1dcad07a28853",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174db1d7d5536a1dcad07a28853",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178db1d7d5536a1dcad07a28853",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/74X9BDo427GwNtdOjmirdA"
+  }
+}

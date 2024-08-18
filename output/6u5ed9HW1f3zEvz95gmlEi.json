@@ -1,0 +1,33 @@
+{
+  "id": "6u5ed9HW1f3zEvz95gmlEi",
+  "name": "m84this",
+  "uri": "spotify:artist:6u5ed9HW1f3zEvz95gmlEi",
+  "followers": {
+    "href": null,
+    "total": 71
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb392130dcd482b6d3851a1299",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174392130dcd482b6d3851a1299",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178392130dcd482b6d3851a1299",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6u5ed9HW1f3zEvz95gmlEi"
+  }
+}

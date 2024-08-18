@@ -1,0 +1,33 @@
+{
+  "id": "5b767XbBgQCIWaY5PJvS9P",
+  "name": "The Goon Mat",
+  "uri": "spotify:artist:5b767XbBgQCIWaY5PJvS9P",
+  "followers": {
+    "href": null,
+    "total": 372
+  },
+  "genres": [
+    "belgian blues"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dca439e334852c70ab65bc0a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dca439e334852c70ab65bc0a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dca439e334852c70ab65bc0a",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5b767XbBgQCIWaY5PJvS9P"
+  }
+}

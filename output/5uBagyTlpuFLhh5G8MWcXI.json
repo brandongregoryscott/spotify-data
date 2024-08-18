@@ -1,0 +1,33 @@
+{
+  "id": "5uBagyTlpuFLhh5G8MWcXI",
+  "name": "BHG Action",
+  "uri": "spotify:artist:5uBagyTlpuFLhh5G8MWcXI",
+  "followers": {
+    "href": null,
+    "total": 995
+  },
+  "genres": [
+    "milwaukee hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273adcb1284ed8d68049e40fd08",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02adcb1284ed8d68049e40fd08",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851adcb1284ed8d68049e40fd08",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5uBagyTlpuFLhh5G8MWcXI"
+  }
+}

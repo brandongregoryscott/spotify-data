@@ -1,0 +1,33 @@
+{
+  "id": "7mgrQEk5KBJsmgz5RS0jKC",
+  "name": "Dark Half",
+  "uri": "spotify:artist:7mgrQEk5KBJsmgz5RS0jKC",
+  "followers": {
+    "href": null,
+    "total": 17668
+  },
+  "genres": [
+    "horrorcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf7fb33560c5191a2733c9ede",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f7fb33560c5191a2733c9ede",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f7fb33560c5191a2733c9ede",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7mgrQEk5KBJsmgz5RS0jKC"
+  }
+}

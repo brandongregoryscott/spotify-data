@@ -1,0 +1,33 @@
+{
+  "id": "6H49T24pTlDhFHanq5eJ4R",
+  "name": "Sach",
+  "uri": "spotify:artist:6H49T24pTlDhFHanq5eJ4R",
+  "followers": {
+    "href": null,
+    "total": 398
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273047ad023ede10b62aaffdefc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02047ad023ede10b62aaffdefc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851047ad023ede10b62aaffdefc",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6H49T24pTlDhFHanq5eJ4R"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6yyq6AWIRYnZBAzxS5NPC0",
+  "name": "Skakeo",
+  "uri": "spotify:artist:6yyq6AWIRYnZBAzxS5NPC0",
+  "followers": {
+    "href": null,
+    "total": 158
+  },
+  "genres": [
+    "euskal reggae"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebab8d7a6a1589cca0f36ec7ea",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ab8d7a6a1589cca0f36ec7ea",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ab8d7a6a1589cca0f36ec7ea",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6yyq6AWIRYnZBAzxS5NPC0"
+  }
+}

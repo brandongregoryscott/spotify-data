@@ -1,0 +1,35 @@
+{
+  "id": "5FxsPS1K61fHEVB3FNZw6Y",
+  "name": "Blanco",
+  "uri": "spotify:artist:5FxsPS1K61fHEVB3FNZw6Y",
+  "followers": {
+    "href": null,
+    "total": 148013
+  },
+  "genres": [
+    "london rap",
+    "uk drill",
+    "uk hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc67e0d9de5a3b50ea614cd04",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c67e0d9de5a3b50ea614cd04",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c67e0d9de5a3b50ea614cd04",
+      "width": 160
+    }
+  ],
+  "popularity": 62,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+  }
+}

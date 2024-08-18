@@ -1,0 +1,33 @@
+{
+  "id": "6ATGuATiaPOyjNIc5AjP3R",
+  "name": "Noé",
+  "uri": "spotify:artist:6ATGuATiaPOyjNIc5AjP3R",
+  "followers": {
+    "href": null,
+    "total": 8171
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb58fdb270b3c8e846e8541dcb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517458fdb270b3c8e846e8541dcb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17858fdb270b3c8e846e8541dcb",
+      "width": 160
+    }
+  ],
+  "popularity": 36,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ATGuATiaPOyjNIc5AjP3R"
+  }
+}

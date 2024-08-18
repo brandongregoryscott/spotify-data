@@ -1,0 +1,33 @@
+{
+  "id": "77wwX4YNgMwacMy12HJm8u",
+  "name": "Cenq",
+  "uri": "spotify:artist:77wwX4YNgMwacMy12HJm8u",
+  "followers": {
+    "href": null,
+    "total": 320
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb836a67e3e9019c8a5ebc055c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174836a67e3e9019c8a5ebc055c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178836a67e3e9019c8a5ebc055c",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/77wwX4YNgMwacMy12HJm8u"
+  }
+}

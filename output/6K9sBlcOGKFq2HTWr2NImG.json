@@ -1,0 +1,33 @@
+{
+  "id": "6K9sBlcOGKFq2HTWr2NImG",
+  "name": "Angel St.",
+  "uri": "spotify:artist:6K9sBlcOGKFq2HTWr2NImG",
+  "followers": {
+    "href": null,
+    "total": 227
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdd44ab42ba56eee706f2ad7c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dd44ab42ba56eee706f2ad7c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dd44ab42ba56eee706f2ad7c",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6K9sBlcOGKFq2HTWr2NImG"
+  }
+}

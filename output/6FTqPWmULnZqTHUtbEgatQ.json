@@ -1,0 +1,34 @@
+{
+  "id": "6FTqPWmULnZqTHUtbEgatQ",
+  "name": "Seawalker",
+  "uri": "spotify:artist:6FTqPWmULnZqTHUtbEgatQ",
+  "followers": {
+    "href": null,
+    "total": 348
+  },
+  "genres": [
+    "brazilian heavy metal",
+    "metal mineiro"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738666f8ddc4afdbaa53f085ba",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028666f8ddc4afdbaa53f085ba",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518666f8ddc4afdbaa53f085ba",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6FTqPWmULnZqTHUtbEgatQ"
+  }
+}

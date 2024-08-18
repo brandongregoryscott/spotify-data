@@ -1,0 +1,33 @@
+{
+  "id": "5otG01umhfJpyDroXMOUQE",
+  "name": "The Dusty Pockets",
+  "uri": "spotify:artist:5otG01umhfJpyDroXMOUQE",
+  "followers": {
+    "href": null,
+    "total": 355
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd0fcd560d2f289c5e3fb3f17",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d0fcd560d2f289c5e3fb3f17",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d0fcd560d2f289c5e3fb3f17",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5otG01umhfJpyDroXMOUQE"
+  }
+}

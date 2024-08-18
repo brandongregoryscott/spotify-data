@@ -1,0 +1,33 @@
+{
+  "id": "7dJBqrB78fu99OYWBXcXgG",
+  "name": "Emily Brown",
+  "uri": "spotify:artist:7dJBqrB78fu99OYWBXcXgG",
+  "followers": {
+    "href": null,
+    "total": 2300
+  },
+  "genres": [
+    "utah indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe3d558aa9f057473ee79b51a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e3d558aa9f057473ee79b51a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e3d558aa9f057473ee79b51a",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7dJBqrB78fu99OYWBXcXgG"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "73Ji1BcaCg9S5jEq5WGLYn",
+  "name": "hellocentral",
+  "uri": "spotify:artist:73Ji1BcaCg9S5jEq5WGLYn",
+  "followers": {
+    "href": null,
+    "total": 818
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe14d7222297519a114c09e1d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e14d7222297519a114c09e1d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e14d7222297519a114c09e1d",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/73Ji1BcaCg9S5jEq5WGLYn"
+  }
+}

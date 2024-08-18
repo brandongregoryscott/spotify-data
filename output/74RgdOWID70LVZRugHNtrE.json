@@ -1,0 +1,33 @@
+{
+  "id": "74RgdOWID70LVZRugHNtrE",
+  "name": "Tony Dow",
+  "uri": "spotify:artist:74RgdOWID70LVZRugHNtrE",
+  "followers": {
+    "href": null,
+    "total": 268
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb22bfc7f1dbc3e98e7e445eeb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517422bfc7f1dbc3e98e7e445eeb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17822bfc7f1dbc3e98e7e445eeb",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/74RgdOWID70LVZRugHNtrE"
+  }
+}

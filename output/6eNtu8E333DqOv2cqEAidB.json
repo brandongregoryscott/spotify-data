@@ -1,0 +1,33 @@
+{
+  "id": "6eNtu8E333DqOv2cqEAidB",
+  "name": "Unite",
+  "uri": "spotify:artist:6eNtu8E333DqOv2cqEAidB",
+  "followers": {
+    "href": null,
+    "total": 76
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f591035475e6de604330d182",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f591035475e6de604330d182",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485132d31869d01f65213ee54536",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6eNtu8E333DqOv2cqEAidB"
+  }
+}

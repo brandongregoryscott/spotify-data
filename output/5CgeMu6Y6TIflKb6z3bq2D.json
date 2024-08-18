@@ -1,0 +1,33 @@
+{
+  "id": "5CgeMu6Y6TIflKb6z3bq2D",
+  "name": "José Romero",
+  "uri": "spotify:artist:5CgeMu6Y6TIflKb6z3bq2D",
+  "followers": {
+    "href": null,
+    "total": 1323
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27391cd4dcda2a244fc2159e501",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0291cd4dcda2a244fc2159e501",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485191cd4dcda2a244fc2159e501",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5CgeMu6Y6TIflKb6z3bq2D"
+  }
+}

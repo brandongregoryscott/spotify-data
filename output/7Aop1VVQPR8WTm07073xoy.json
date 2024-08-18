@@ -1,0 +1,33 @@
+{
+  "id": "7Aop1VVQPR8WTm07073xoy",
+  "name": "Els Jóvens",
+  "uri": "spotify:artist:7Aop1VVQPR8WTm07073xoy",
+  "followers": {
+    "href": null,
+    "total": 2209
+  },
+  "genres": [
+    "indie valenciana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb68e778c2b5c3c1bb55ee4a2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b68e778c2b5c3c1bb55ee4a2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b68e778c2b5c3c1bb55ee4a2",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7Aop1VVQPR8WTm07073xoy"
+  }
+}

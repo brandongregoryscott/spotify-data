@@ -1,0 +1,33 @@
+{
+  "id": "5zGw4HioHo687jNmzLUazl",
+  "name": "Noirre",
+  "uri": "spotify:artist:5zGw4HioHo687jNmzLUazl",
+  "followers": {
+    "href": null,
+    "total": 4294
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb101879d26ed5e11cb2b879c4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174101879d26ed5e11cb2b879c4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178101879d26ed5e11cb2b879c4",
+      "width": 160
+    }
+  ],
+  "popularity": 17,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5zGw4HioHo687jNmzLUazl"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6RCWdyTWtvYFHFwrEhDWBT",
+  "name": "Adammo",
+  "uri": "spotify:artist:6RCWdyTWtvYFHFwrEhDWBT",
+  "followers": {
+    "href": null,
+    "total": 4860
+  },
+  "genres": [
+    "pop peruano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27347967b884ce49954cbcf0b4f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0247967b884ce49954cbcf0b4f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485147967b884ce49954cbcf0b4f",
+      "width": 64
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6RCWdyTWtvYFHFwrEhDWBT"
+  }
+}

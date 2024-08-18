@@ -1,0 +1,33 @@
+{
+  "id": "5uDexE85yLvbNx07i8vI9V",
+  "name": "One Little Plane",
+  "uri": "spotify:artist:5uDexE85yLvbNx07i8vI9V",
+  "followers": {
+    "href": null,
+    "total": 2130
+  },
+  "genres": [
+    "folktronica"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735bf1ed15b9a6ff0a9ade2d5b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025bf1ed15b9a6ff0a9ade2d5b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515bf1ed15b9a6ff0a9ade2d5b",
+      "width": 64
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5uDexE85yLvbNx07i8vI9V"
+  }
+}

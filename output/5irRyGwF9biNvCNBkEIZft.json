@@ -1,0 +1,33 @@
+{
+  "id": "5irRyGwF9biNvCNBkEIZft",
+  "name": "Dan Navarro",
+  "uri": "spotify:artist:5irRyGwF9biNvCNBkEIZft",
+  "followers": {
+    "href": null,
+    "total": 2163
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebac65cf0832fd8d0c0828b3f0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ac65cf0832fd8d0c0828b3f0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ac65cf0832fd8d0c0828b3f0",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5irRyGwF9biNvCNBkEIZft"
+  }
+}

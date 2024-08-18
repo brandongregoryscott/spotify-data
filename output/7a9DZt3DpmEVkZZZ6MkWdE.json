@@ -1,0 +1,33 @@
+{
+  "id": "7a9DZt3DpmEVkZZZ6MkWdE",
+  "name": "Oli Silk",
+  "uri": "spotify:artist:7a9DZt3DpmEVkZZZ6MkWdE",
+  "followers": {
+    "href": null,
+    "total": 10572
+  },
+  "genres": [
+    "smooth jazz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb20972e1ea0f2cd6a6c650d31",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517420972e1ea0f2cd6a6c650d31",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17820972e1ea0f2cd6a6c650d31",
+      "width": 160
+    }
+  ],
+  "popularity": 40,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE"
+  }
+}

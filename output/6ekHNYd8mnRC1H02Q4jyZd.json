@@ -1,0 +1,33 @@
+{
+  "id": "6ekHNYd8mnRC1H02Q4jyZd",
+  "name": "Darri",
+  "uri": "spotify:artist:6ekHNYd8mnRC1H02Q4jyZd",
+  "followers": {
+    "href": null,
+    "total": 826
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730c00a70fb4be326003d135da",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020c00a70fb4be326003d135da",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a784d3e55d37548976d59042",
+      "width": 64
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ekHNYd8mnRC1H02Q4jyZd"
+  }
+}

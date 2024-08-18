@@ -1,0 +1,34 @@
+{
+  "id": "6sSz0go2R0uJLr3yGdFg59",
+  "name": "Zoomy",
+  "uri": "spotify:artist:6sSz0go2R0uJLr3yGdFg59",
+  "followers": {
+    "href": null,
+    "total": 7615
+  },
+  "genres": [
+    "hyperpop francais",
+    "rap francais nouvelle vague"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb252a7e5453f7cb4ac94a1df8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174252a7e5453f7cb4ac94a1df8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178252a7e5453f7cb4ac94a1df8",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6sSz0go2R0uJLr3yGdFg59"
+  }
+}

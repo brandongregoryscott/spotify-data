@@ -1,0 +1,33 @@
+{
+  "id": "71DzowSVDkMx6fRz2UDYGr",
+  "name": "Taral",
+  "uri": "spotify:artist:71DzowSVDkMx6fRz2UDYGr",
+  "followers": {
+    "href": null,
+    "total": 5205
+  },
+  "genres": [
+    "contemporary r&b"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd8a150fd2b4e68231e108b87",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d8a150fd2b4e68231e108b87",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d8a150fd2b4e68231e108b87",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/71DzowSVDkMx6fRz2UDYGr"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "65eQz8tfZyW3xMNpvJ79Lj",
+  "name": "Valet",
+  "uri": "spotify:artist:65eQz8tfZyW3xMNpvJ79Lj",
+  "followers": {
+    "href": null,
+    "total": 2034
+  },
+  "genres": [
+    "american shoegaze"
+  ],
+  "images": [
+    {
+      "height": 375,
+      "url": "https://i.scdn.co/image/33b720c887bb735c49c15d6dc68b6f4b8cbccdc1",
+      "width": 500
+    },
+    {
+      "height": 150,
+      "url": "https://i.scdn.co/image/cb2e99f1da9a2d645e778510586718c7c7086c72",
+      "width": 200
+    },
+    {
+      "height": 48,
+      "url": "https://i.scdn.co/image/52d17c157704b3a387223704b2b9c2d39f7fbb72",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/65eQz8tfZyW3xMNpvJ79Lj"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5NRdz3sJhdfzGhHE9zK5Lz",
+  "name": "Fay Claassen",
+  "uri": "spotify:artist:5NRdz3sJhdfzGhHE9zK5Lz",
+  "followers": {
+    "href": null,
+    "total": 4386
+  },
+  "genres": [
+    "dutch jazz"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebffba1a50a7437452a326fff6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ffba1a50a7437452a326fff6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ffba1a50a7437452a326fff6",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5NRdz3sJhdfzGhHE9zK5Lz"
+  }
+}

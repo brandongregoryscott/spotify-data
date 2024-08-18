@@ -1,0 +1,33 @@
+{
+  "id": "73tbrGLCRfZTJ0EZhIpnjo",
+  "name": "The Baileys",
+  "uri": "spotify:artist:73tbrGLCRfZTJ0EZhIpnjo",
+  "followers": {
+    "href": null,
+    "total": 138
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb17cfa7c721c8a124d573d3f4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517417cfa7c721c8a124d573d3f4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17817cfa7c721c8a124d573d3f4",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/73tbrGLCRfZTJ0EZhIpnjo"
+  }
+}

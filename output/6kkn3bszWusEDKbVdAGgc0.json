@@ -1,0 +1,33 @@
+{
+  "id": "6kkn3bszWusEDKbVdAGgc0",
+  "name": "Valerie Anne",
+  "uri": "spotify:artist:6kkn3bszWusEDKbVdAGgc0",
+  "followers": {
+    "href": null,
+    "total": 5158
+  },
+  "genres": [
+    "cedm"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb2024dad29a02b6eb534ca71f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051742024dad29a02b6eb534ca71f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1782024dad29a02b6eb534ca71f",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6kkn3bszWusEDKbVdAGgc0"
+  }
+}

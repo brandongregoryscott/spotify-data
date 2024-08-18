@@ -1,0 +1,33 @@
+{
+  "id": "7zrqxqZWPMEaYmTT75s1JZ",
+  "name": "LeisureLand",
+  "uri": "spotify:artist:7zrqxqZWPMEaYmTT75s1JZ",
+  "followers": {
+    "href": null,
+    "total": 514
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb71b4db79ff1eb65c057f497b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517471b4db79ff1eb65c057f497b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17871b4db79ff1eb65c057f497b",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7zrqxqZWPMEaYmTT75s1JZ"
+  }
+}

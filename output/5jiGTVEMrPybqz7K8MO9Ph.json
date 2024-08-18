@@ -1,0 +1,33 @@
+{
+  "id": "5jiGTVEMrPybqz7K8MO9Ph",
+  "name": "Nápoles",
+  "uri": "spotify:artist:5jiGTVEMrPybqz7K8MO9Ph",
+  "followers": {
+    "href": null,
+    "total": 13
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c5b04ae69945403e3a69f1e9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02c5b04ae69945403e3a69f1e9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851c5b04ae69945403e3a69f1e9",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5jiGTVEMrPybqz7K8MO9Ph"
+  }
+}

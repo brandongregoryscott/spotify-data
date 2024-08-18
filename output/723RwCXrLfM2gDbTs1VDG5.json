@@ -1,0 +1,33 @@
+{
+  "id": "723RwCXrLfM2gDbTs1VDG5",
+  "name": "Glacier",
+  "uri": "spotify:artist:723RwCXrLfM2gDbTs1VDG5",
+  "followers": {
+    "href": null,
+    "total": 961
+  },
+  "genres": [
+    "american post-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba707dcf6cf1e4ed800de88d8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a707dcf6cf1e4ed800de88d8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a707dcf6cf1e4ed800de88d8",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/723RwCXrLfM2gDbTs1VDG5"
+  }
+}

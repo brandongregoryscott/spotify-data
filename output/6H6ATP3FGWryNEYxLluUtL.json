@@ -1,0 +1,34 @@
+{
+  "id": "6H6ATP3FGWryNEYxLluUtL",
+  "name": "Joniveli",
+  "uri": "spotify:artist:6H6ATP3FGWryNEYxLluUtL",
+  "followers": {
+    "href": null,
+    "total": 2407
+  },
+  "genres": [
+    "finnish hip hop",
+    "suomirap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc89c8101f6b70f3e840c470f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c89c8101f6b70f3e840c470f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c89c8101f6b70f3e840c470f",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6H6ATP3FGWryNEYxLluUtL"
+  }
+}

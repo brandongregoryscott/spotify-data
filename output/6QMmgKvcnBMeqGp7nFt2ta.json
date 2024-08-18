@@ -1,0 +1,33 @@
+{
+  "id": "6QMmgKvcnBMeqGp7nFt2ta",
+  "name": "Ne'er-do-well",
+  "uri": "spotify:artist:6QMmgKvcnBMeqGp7nFt2ta",
+  "followers": {
+    "href": null,
+    "total": 598
+  },
+  "genres": [
+    "austin rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe1d42fa8967a2ae7abe3fa08",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e1d42fa8967a2ae7abe3fa08",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e1d42fa8967a2ae7abe3fa08",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6QMmgKvcnBMeqGp7nFt2ta"
+  }
+}

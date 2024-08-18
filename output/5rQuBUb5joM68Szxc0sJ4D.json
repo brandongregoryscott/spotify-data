@@ -1,0 +1,33 @@
+{
+  "id": "5rQuBUb5joM68Szxc0sJ4D",
+  "name": "BOELL",
+  "uri": "spotify:artist:5rQuBUb5joM68Szxc0sJ4D",
+  "followers": {
+    "href": null,
+    "total": 100
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfdaf3b66597de6bb48996411",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fdaf3b66597de6bb48996411",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fdaf3b66597de6bb48996411",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5rQuBUb5joM68Szxc0sJ4D"
+  }
+}

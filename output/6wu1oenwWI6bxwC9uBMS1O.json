@@ -1,0 +1,33 @@
+{
+  "id": "6wu1oenwWI6bxwC9uBMS1O",
+  "name": "Taihaku",
+  "uri": "spotify:artist:6wu1oenwWI6bxwC9uBMS1O",
+  "followers": {
+    "href": null,
+    "total": 564
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcf063058ff39f1a12967497d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cf063058ff39f1a12967497d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cf063058ff39f1a12967497d",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6wu1oenwWI6bxwC9uBMS1O"
+  }
+}

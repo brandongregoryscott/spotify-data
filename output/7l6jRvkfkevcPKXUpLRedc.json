@@ -1,0 +1,33 @@
+{
+  "id": "7l6jRvkfkevcPKXUpLRedc",
+  "name": "quarkimo",
+  "uri": "spotify:artist:7l6jRvkfkevcPKXUpLRedc",
+  "followers": {
+    "href": null,
+    "total": 260
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe031608f4e22fc7a719f3dbb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e031608f4e22fc7a719f3dbb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e031608f4e22fc7a719f3dbb",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7l6jRvkfkevcPKXUpLRedc"
+  }
+}

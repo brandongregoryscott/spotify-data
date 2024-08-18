@@ -1,0 +1,34 @@
+{
+  "id": "5Rn8sxAaS3zeXdMdxCFp6J",
+  "name": "Revue Noir",
+  "uri": "spotify:artist:5Rn8sxAaS3zeXdMdxCFp6J",
+  "followers": {
+    "href": null,
+    "total": 833
+  },
+  "genres": [
+    "dark cabaret",
+    "steampunk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736119171679b464f23799678f",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026119171679b464f23799678f",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516119171679b464f23799678f",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Rn8sxAaS3zeXdMdxCFp6J"
+  }
+}

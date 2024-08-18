@@ -1,0 +1,33 @@
+{
+  "id": "6VQ5EeJ675rXfejxXAk3C3",
+  "name": "Herbst",
+  "uri": "spotify:artist:6VQ5EeJ675rXfejxXAk3C3",
+  "followers": {
+    "href": null,
+    "total": 2358
+  },
+  "genres": [
+    "deutschrock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb541671a2db6c4ae92398f03d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174541671a2db6c4ae92398f03d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178541671a2db6c4ae92398f03d",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6VQ5EeJ675rXfejxXAk3C3"
+  }
+}

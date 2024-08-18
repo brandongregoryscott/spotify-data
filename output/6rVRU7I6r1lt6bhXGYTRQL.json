@@ -1,0 +1,33 @@
+{
+  "id": "6rVRU7I6r1lt6bhXGYTRQL",
+  "name": "Mantar",
+  "uri": "spotify:artist:6rVRU7I6r1lt6bhXGYTRQL",
+  "followers": {
+    "href": null,
+    "total": 30000
+  },
+  "genres": [
+    "post-doom metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb147e76090c3ced10b5daceb8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174147e76090c3ced10b5daceb8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178147e76090c3ced10b5daceb8",
+      "width": 160
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6rVRU7I6r1lt6bhXGYTRQL"
+  }
+}

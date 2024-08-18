@@ -1,0 +1,33 @@
+{
+  "id": "7CeyRZJW1pRCZvmUw9bdCB",
+  "name": "Alex Veach",
+  "uri": "spotify:artist:7CeyRZJW1pRCZvmUw9bdCB",
+  "followers": {
+    "href": null,
+    "total": 1659
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6c961f69c9f53eb422bdce2a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051746c961f69c9f53eb422bdce2a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1786c961f69c9f53eb422bdce2a",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7CeyRZJW1pRCZvmUw9bdCB"
+  }
+}

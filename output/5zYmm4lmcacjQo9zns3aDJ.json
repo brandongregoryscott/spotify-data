@@ -1,0 +1,33 @@
+{
+  "id": "5zYmm4lmcacjQo9zns3aDJ",
+  "name": "ASTE",
+  "uri": "spotify:artist:5zYmm4lmcacjQo9zns3aDJ",
+  "followers": {
+    "href": null,
+    "total": 1089
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb16090d3316b6209892437551",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517416090d3316b6209892437551",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17816090d3316b6209892437551",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5zYmm4lmcacjQo9zns3aDJ"
+  }
+}

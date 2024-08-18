@@ -1,0 +1,33 @@
+{
+  "id": "7lXdeuErbnjztoGWjM8zlY",
+  "name": "Gigi D’Air",
+  "uri": "spotify:artist:7lXdeuErbnjztoGWjM8zlY",
+  "followers": {
+    "href": null,
+    "total": 292
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcf7e6bc36aca6a71d0d96eb8",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cf7e6bc36aca6a71d0d96eb8",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cf7e6bc36aca6a71d0d96eb8",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7lXdeuErbnjztoGWjM8zlY"
+  }
+}

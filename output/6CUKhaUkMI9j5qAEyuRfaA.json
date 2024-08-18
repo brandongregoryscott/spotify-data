@@ -1,0 +1,33 @@
+{
+  "id": "6CUKhaUkMI9j5qAEyuRfaA",
+  "name": "Darden Smith",
+  "uri": "spotify:artist:6CUKhaUkMI9j5qAEyuRfaA",
+  "followers": {
+    "href": null,
+    "total": 3746
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb2676dd1c1b2a2d5a336a9b5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b2676dd1c1b2a2d5a336a9b5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b2676dd1c1b2a2d5a336a9b5",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA"
+  }
+}

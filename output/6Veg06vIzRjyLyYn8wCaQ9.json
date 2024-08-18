@@ -1,0 +1,34 @@
+{
+  "id": "6Veg06vIzRjyLyYn8wCaQ9",
+  "name": "Pyrit",
+  "uri": "spotify:artist:6Veg06vIzRjyLyYn8wCaQ9",
+  "followers": {
+    "href": null,
+    "total": 5996
+  },
+  "genres": [
+    "swiss experimental",
+    "swiss indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbcd52a57e14f15323c928c04",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bcd52a57e14f15323c928c04",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bcd52a57e14f15323c928c04",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Veg06vIzRjyLyYn8wCaQ9"
+  }
+}

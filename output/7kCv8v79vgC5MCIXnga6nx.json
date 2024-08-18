@@ -1,0 +1,33 @@
+{
+  "id": "7kCv8v79vgC5MCIXnga6nx",
+  "name": "Classifyde",
+  "uri": "spotify:artist:7kCv8v79vgC5MCIXnga6nx",
+  "followers": {
+    "href": null,
+    "total": 197
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb61d3b9627cb0f2f25d7e2260",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517461d3b9627cb0f2f25d7e2260",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17861d3b9627cb0f2f25d7e2260",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7kCv8v79vgC5MCIXnga6nx"
+  }
+}

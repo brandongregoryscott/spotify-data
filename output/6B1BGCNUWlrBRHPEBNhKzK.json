@@ -1,0 +1,33 @@
+{
+  "id": "6B1BGCNUWlrBRHPEBNhKzK",
+  "name": "Moses the Band",
+  "uri": "spotify:artist:6B1BGCNUWlrBRHPEBNhKzK",
+  "followers": {
+    "href": null,
+    "total": 286
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebffa307b2c4406134abd056c3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ffa307b2c4406134abd056c3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ffa307b2c4406134abd056c3",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6B1BGCNUWlrBRHPEBNhKzK"
+  }
+}

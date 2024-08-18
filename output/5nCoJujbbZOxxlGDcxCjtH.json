@@ -1,0 +1,33 @@
+{
+  "id": "5nCoJujbbZOxxlGDcxCjtH",
+  "name": "andrewth",
+  "uri": "spotify:artist:5nCoJujbbZOxxlGDcxCjtH",
+  "followers": {
+    "href": null,
+    "total": 83
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaf7ccb880bb5f2ef5e78004c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174af7ccb880bb5f2ef5e78004c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178af7ccb880bb5f2ef5e78004c",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5nCoJujbbZOxxlGDcxCjtH"
+  }
+}

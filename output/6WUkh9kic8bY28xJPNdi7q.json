@@ -1,0 +1,33 @@
+{
+  "id": "6WUkh9kic8bY28xJPNdi7q",
+  "name": "HOSPEL",
+  "uri": "spotify:artist:6WUkh9kic8bY28xJPNdi7q",
+  "followers": {
+    "href": null,
+    "total": 169
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb26e1ef7f6be27122532ad222",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517426e1ef7f6be27122532ad222",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17826e1ef7f6be27122532ad222",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6WUkh9kic8bY28xJPNdi7q"
+  }
+}

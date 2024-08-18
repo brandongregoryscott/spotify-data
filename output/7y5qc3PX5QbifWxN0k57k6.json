@@ -1,0 +1,33 @@
+{
+  "id": "7y5qc3PX5QbifWxN0k57k6",
+  "name": "Pleasure",
+  "uri": "spotify:artist:7y5qc3PX5QbifWxN0k57k6",
+  "followers": {
+    "href": null,
+    "total": 372
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb01536cc1d158037fd6c63072",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517401536cc1d158037fd6c63072",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17801536cc1d158037fd6c63072",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7y5qc3PX5QbifWxN0k57k6"
+  }
+}

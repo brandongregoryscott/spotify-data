@@ -1,0 +1,33 @@
+{
+  "id": "627PkVC8Fgs7b0Y9nBPdcP",
+  "name": "Last Birds",
+  "uri": "spotify:artist:627PkVC8Fgs7b0Y9nBPdcP",
+  "followers": {
+    "href": null,
+    "total": 193
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd8bd32602752a98289f193e2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d8bd32602752a98289f193e2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d8bd32602752a98289f193e2",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/627PkVC8Fgs7b0Y9nBPdcP"
+  }
+}

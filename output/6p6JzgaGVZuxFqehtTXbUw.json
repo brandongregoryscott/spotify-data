@@ -1,0 +1,33 @@
+{
+  "id": "6p6JzgaGVZuxFqehtTXbUw",
+  "name": "snothuman",
+  "uri": "spotify:artist:6p6JzgaGVZuxFqehtTXbUw",
+  "followers": {
+    "href": null,
+    "total": 337
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb75c4b2fe9b2873b16df7274d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517475c4b2fe9b2873b16df7274d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17875c4b2fe9b2873b16df7274d",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6p6JzgaGVZuxFqehtTXbUw"
+  }
+}

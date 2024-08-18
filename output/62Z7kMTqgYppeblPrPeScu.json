@@ -1,0 +1,33 @@
+{
+  "id": "62Z7kMTqgYppeblPrPeScu",
+  "name": "Poody",
+  "uri": "spotify:artist:62Z7kMTqgYppeblPrPeScu",
+  "followers": {
+    "href": null,
+    "total": 4439
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737d3ccf7b3b7e4a7ba58e6fb6",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027d3ccf7b3b7e4a7ba58e6fb6",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517d3ccf7b3b7e4a7ba58e6fb6",
+      "width": 64
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/62Z7kMTqgYppeblPrPeScu"
+  }
+}

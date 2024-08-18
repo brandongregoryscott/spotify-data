@@ -1,0 +1,33 @@
+{
+  "id": "7pYtArA7b1TsnyoKAk9xOm",
+  "name": "Darci",
+  "uri": "spotify:artist:7pYtArA7b1TsnyoKAk9xOm",
+  "followers": {
+    "href": null,
+    "total": 143
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb00554f5668b2170991130afe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517400554f5668b2170991130afe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17800554f5668b2170991130afe",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7pYtArA7b1TsnyoKAk9xOm"
+  }
+}

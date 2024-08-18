@@ -1,0 +1,33 @@
+{
+  "id": "6Poh2aLq7CnYoHClDlSKN7",
+  "name": "hax",
+  "uri": "spotify:artist:6Poh2aLq7CnYoHClDlSKN7",
+  "followers": {
+    "href": null,
+    "total": 1169
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273477e1ec9550288014c22c5cb",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02477e1ec9550288014c22c5cb",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851477e1ec9550288014c22c5cb",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Poh2aLq7CnYoHClDlSKN7"
+  }
+}

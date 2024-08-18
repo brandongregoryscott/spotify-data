@@ -1,0 +1,33 @@
+{
+  "id": "6gNRjUeNqNpRaAYxcNguAP",
+  "name": "Cherot",
+  "uri": "spotify:artist:6gNRjUeNqNpRaAYxcNguAP",
+  "followers": {
+    "href": null,
+    "total": 87
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730679e4091a6b889393942a21",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020679e4091a6b889393942a21",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485156763fb845b844702dbf6a89",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6gNRjUeNqNpRaAYxcNguAP"
+  }
+}

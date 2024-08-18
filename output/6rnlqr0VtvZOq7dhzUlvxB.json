@@ -1,0 +1,38 @@
+{
+  "id": "6rnlqr0VtvZOq7dhzUlvxB",
+  "name": "The Color Red",
+  "uri": "spotify:artist:6rnlqr0VtvZOq7dhzUlvxB",
+  "followers": {
+    "href": null,
+    "total": 594
+  },
+  "genres": [
+    "grunge pop"
+  ],
+  "images": [
+    {
+      "height": 708,
+      "url": "https://i.scdn.co/image/f635174c5521fbc119619e9847a7d28e5648e6c8",
+      "width": 1000
+    },
+    {
+      "height": 453,
+      "url": "https://i.scdn.co/image/2d9fba3cecbc67898dc53b335728ff0768cf40a6",
+      "width": 640
+    },
+    {
+      "height": 142,
+      "url": "https://i.scdn.co/image/4adcbdbf127e532cbd36ab63b76b0fb928e6fb6a",
+      "width": 200
+    },
+    {
+      "height": 45,
+      "url": "https://i.scdn.co/image/e38f2df1f6d339efafb2d148fd33af9d9da717a9",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6rnlqr0VtvZOq7dhzUlvxB"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7atrI2bt1yqRYgjUm0wJcb",
+  "name": "Glenn.",
+  "uri": "spotify:artist:7atrI2bt1yqRYgjUm0wJcb",
+  "followers": {
+    "href": null,
+    "total": 88
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb26b00e2a40a79b76e83d8850",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517426b00e2a40a79b76e83d8850",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17826b00e2a40a79b76e83d8850",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7atrI2bt1yqRYgjUm0wJcb"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5huvMR3cKA742B48zzJP7e",
+  "name": "Cabro Artico",
+  "uri": "spotify:artist:5huvMR3cKA742B48zzJP7e",
+  "followers": {
+    "href": null,
+    "total": 2500
+  },
+  "genres": [
+    "future funk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc5344ca2baeafccbee36cdb1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c5344ca2baeafccbee36cdb1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c5344ca2baeafccbee36cdb1",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e"
+  }
+}

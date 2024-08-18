@@ -1,0 +1,33 @@
+{
+  "id": "7mqo1885jMu6KHtEXzBKEv",
+  "name": "Kata6i",
+  "uri": "spotify:artist:7mqo1885jMu6KHtEXzBKEv",
+  "followers": {
+    "href": null,
+    "total": 733
+  },
+  "genres": [
+    "emo trap en espanol"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbb6d5edda2efedccc0623040",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bb6d5edda2efedccc0623040",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bb6d5edda2efedccc0623040",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7mqo1885jMu6KHtEXzBKEv"
+  }
+}

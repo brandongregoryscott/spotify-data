@@ -1,0 +1,33 @@
+{
+  "id": "7H5IEkdsuXSuM6cfElCyl0",
+  "name": "Kate Taylor",
+  "uri": "spotify:artist:7H5IEkdsuXSuM6cfElCyl0",
+  "followers": {
+    "href": null,
+    "total": 794
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb577677858c6f22ad490909f2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174577677858c6f22ad490909f2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178577677858c6f22ad490909f2",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7H5IEkdsuXSuM6cfElCyl0"
+  }
+}

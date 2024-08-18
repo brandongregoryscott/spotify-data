@@ -1,0 +1,33 @@
+{
+  "id": "63MeuMLrmlveMBpoo2kufd",
+  "name": "Arkitekture",
+  "uri": "spotify:artist:63MeuMLrmlveMBpoo2kufd",
+  "followers": {
+    "href": null,
+    "total": 414
+  },
+  "genres": [
+    "avant-prog"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc495a7a107ec63e27c5bdfd0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c495a7a107ec63e27c5bdfd0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c495a7a107ec63e27c5bdfd0",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/63MeuMLrmlveMBpoo2kufd"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6TOWciuBCpxEDWQqyQDtkG",
+  "name": "Evraak",
+  "uri": "spotify:artist:6TOWciuBCpxEDWQqyQDtkG",
+  "followers": {
+    "href": null,
+    "total": 338
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f0908122840cd40a043c6aca",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f0908122840cd40a043c6aca",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f0908122840cd40a043c6aca",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6TOWciuBCpxEDWQqyQDtkG"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "5xpwMsjzC3LFaKKAEE6GoI",
+  "name": "A Passing Fancy",
+  "uri": "spotify:artist:5xpwMsjzC3LFaKKAEE6GoI",
+  "followers": {
+    "href": null,
+    "total": 865
+  },
+  "genres": [
+    "canadian psychedelic",
+    "classic psychedelic rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735f853cae267853b76fbb6c9b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025f853cae267853b76fbb6c9b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515f853cae267853b76fbb6c9b",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5xpwMsjzC3LFaKKAEE6GoI"
+  }
+}

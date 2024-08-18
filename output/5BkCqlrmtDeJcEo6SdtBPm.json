@@ -1,0 +1,33 @@
+{
+  "id": "5BkCqlrmtDeJcEo6SdtBPm",
+  "name": "Felicity Joy",
+  "uri": "spotify:artist:5BkCqlrmtDeJcEo6SdtBPm",
+  "followers": {
+    "href": null,
+    "total": 48
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd5394c3ccc631610046869b6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d5394c3ccc631610046869b6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d5394c3ccc631610046869b6",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5BkCqlrmtDeJcEo6SdtBPm"
+  }
+}

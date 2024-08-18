@@ -1,0 +1,33 @@
+{
+  "id": "5Ke6mvilrnxbSr5AiqUDbM",
+  "name": "Mutaitaa",
+  "uri": "spotify:artist:5Ke6mvilrnxbSr5AiqUDbM",
+  "followers": {
+    "href": null,
+    "total": 94
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb21ca96c6e352ff15864af4ea",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517421ca96c6e352ff15864af4ea",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17821ca96c6e352ff15864af4ea",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Ke6mvilrnxbSr5AiqUDbM"
+  }
+}

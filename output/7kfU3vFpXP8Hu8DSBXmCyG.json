@@ -1,0 +1,33 @@
+{
+  "id": "7kfU3vFpXP8Hu8DSBXmCyG",
+  "name": "Fausto",
+  "uri": "spotify:artist:7kfU3vFpXP8Hu8DSBXmCyG",
+  "followers": {
+    "href": null,
+    "total": 2165
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbfda1e7cc68a533b845d577e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bfda1e7cc68a533b845d577e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bfda1e7cc68a533b845d577e",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7kfU3vFpXP8Hu8DSBXmCyG"
+  }
+}

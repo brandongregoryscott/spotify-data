@@ -1,0 +1,33 @@
+{
+  "id": "68SoerIOP3azx4b0nTCyrh",
+  "name": "Jive Jack",
+  "uri": "spotify:artist:68SoerIOP3azx4b0nTCyrh",
+  "followers": {
+    "href": null,
+    "total": 19
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273191d1a093680b76f13124fa2",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02191d1a093680b76f13124fa2",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851191d1a093680b76f13124fa2",
+      "width": 64
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/68SoerIOP3azx4b0nTCyrh"
+  }
+}

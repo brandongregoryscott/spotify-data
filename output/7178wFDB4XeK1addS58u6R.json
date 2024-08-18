@@ -1,0 +1,33 @@
+{
+  "id": "7178wFDB4XeK1addS58u6R",
+  "name": "Hanzel",
+  "uri": "spotify:artist:7178wFDB4XeK1addS58u6R",
+  "followers": {
+    "href": null,
+    "total": 767
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb27132e190ea7e0c6e2beea1a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517427132e190ea7e0c6e2beea1a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17827132e190ea7e0c6e2beea1a",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7178wFDB4XeK1addS58u6R"
+  }
+}

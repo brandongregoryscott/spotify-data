@@ -1,0 +1,34 @@
+{
+  "id": "6NQ701XGEJodDZ5lqVtrBp",
+  "name": "Nytt Land",
+  "uri": "spotify:artist:6NQ701XGEJodDZ5lqVtrBp",
+  "followers": {
+    "href": null,
+    "total": 60367
+  },
+  "genres": [
+    "rune folk",
+    "viking folk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb049a49ba03812ff9b68632a4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174049a49ba03812ff9b68632a4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178049a49ba03812ff9b68632a4",
+      "width": 160
+    }
+  ],
+  "popularity": 34,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp"
+  }
+}

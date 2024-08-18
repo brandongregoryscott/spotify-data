@@ -1,0 +1,33 @@
+{
+  "id": "6YY4AQPjE7JqwpkqyPRfid",
+  "name": "Frills",
+  "uri": "spotify:artist:6YY4AQPjE7JqwpkqyPRfid",
+  "followers": {
+    "href": null,
+    "total": 5327
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb529222600b23954b29000e11",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174529222600b23954b29000e11",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178529222600b23954b29000e11",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6YY4AQPjE7JqwpkqyPRfid"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5Oqi2DSLs35BmZG5ju7kyL",
+  "name": "照",
+  "uri": "spotify:artist:5Oqi2DSLs35BmZG5ju7kyL",
+  "followers": {
+    "href": null,
+    "total": 108
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737c5aa711c31ae38884be4f21",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027c5aa711c31ae38884be4f21",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517c5aa711c31ae38884be4f21",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Oqi2DSLs35BmZG5ju7kyL"
+  }
+}

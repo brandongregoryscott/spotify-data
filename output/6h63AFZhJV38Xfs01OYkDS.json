@@ -1,0 +1,33 @@
+{
+  "id": "6h63AFZhJV38Xfs01OYkDS",
+  "name": "Hovie Lister",
+  "uri": "spotify:artist:6h63AFZhJV38Xfs01OYkDS",
+  "followers": {
+    "href": null,
+    "total": 1180
+  },
+  "genres": [
+    "southern gospel"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27309b88e9b424ebaf5555256a7",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0209b88e9b424ebaf5555256a7",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485109b88e9b424ebaf5555256a7",
+      "width": 64
+    }
+  ],
+  "popularity": 13,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6h63AFZhJV38Xfs01OYkDS"
+  }
+}

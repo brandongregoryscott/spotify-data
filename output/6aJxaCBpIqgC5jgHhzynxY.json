@@ -1,0 +1,33 @@
+{
+  "id": "6aJxaCBpIqgC5jgHhzynxY",
+  "name": "Autobarn",
+  "uri": "spotify:artist:6aJxaCBpIqgC5jgHhzynxY",
+  "followers": {
+    "href": null,
+    "total": 734
+  },
+  "genres": [
+    "norwegian pop rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b125fbb6b93e0be2d3543dee",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02b125fbb6b93e0be2d3543dee",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851b125fbb6b93e0be2d3543dee",
+      "width": 64
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6aJxaCBpIqgC5jgHhzynxY"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5uDEwWrb4GcKS2wJAArSSo",
+  "name": "Drugsta",
+  "uri": "spotify:artist:5uDEwWrb4GcKS2wJAArSSo",
+  "followers": {
+    "href": null,
+    "total": 1572
+  },
+  "genres": [
+    "maine hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb06f2ca07e89892543710742d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517406f2ca07e89892543710742d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17806f2ca07e89892543710742d",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5uDEwWrb4GcKS2wJAArSSo"
+  }
+}

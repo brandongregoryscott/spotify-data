@@ -1,0 +1,33 @@
+{
+  "id": "6oFrMdEZ9S3vGF7Cl83qE3",
+  "name": "NESS",
+  "uri": "spotify:artist:6oFrMdEZ9S3vGF7Cl83qE3",
+  "followers": {
+    "href": null,
+    "total": 1198
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc7a01418543805fda5b2e590",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c7a01418543805fda5b2e590",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c7a01418543805fda5b2e590",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6oFrMdEZ9S3vGF7Cl83qE3"
+  }
+}

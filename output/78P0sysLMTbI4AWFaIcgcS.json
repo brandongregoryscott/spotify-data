@@ -1,0 +1,33 @@
+{
+  "id": "78P0sysLMTbI4AWFaIcgcS",
+  "name": "Japam",
+  "uri": "spotify:artist:78P0sysLMTbI4AWFaIcgcS",
+  "followers": {
+    "href": null,
+    "total": 391
+  },
+  "genres": [
+    "technical groove metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb40b1bb50ce7452973a50b96c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517440b1bb50ce7452973a50b96c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17840b1bb50ce7452973a50b96c",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/78P0sysLMTbI4AWFaIcgcS"
+  }
+}

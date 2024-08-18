@@ -1,0 +1,33 @@
+{
+  "id": "7LUxYTdsgYJrAp6zGXwX2u",
+  "name": "Uncle Jack",
+  "uri": "spotify:artist:7LUxYTdsgYJrAp6zGXwX2u",
+  "followers": {
+    "href": null,
+    "total": 407
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737f9715ce5636be832cef93a4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e027f9715ce5636be832cef93a4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048517f9715ce5636be832cef93a4",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7LUxYTdsgYJrAp6zGXwX2u"
+  }
+}

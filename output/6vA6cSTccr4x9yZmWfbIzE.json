@@ -1,0 +1,33 @@
+{
+  "id": "6vA6cSTccr4x9yZmWfbIzE",
+  "name": "Mark Di Meo",
+  "uri": "spotify:artist:6vA6cSTccr4x9yZmWfbIzE",
+  "followers": {
+    "href": null,
+    "total": 2607
+  },
+  "genres": [
+    "soulful house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb32f85885640c3de0d4a0372b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517432f85885640c3de0d4a0372b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17832f85885640c3de0d4a0372b",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE"
+  }
+}

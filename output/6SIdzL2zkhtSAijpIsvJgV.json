@@ -1,0 +1,33 @@
+{
+  "id": "6SIdzL2zkhtSAijpIsvJgV",
+  "name": "caddi",
+  "uri": "spotify:artist:6SIdzL2zkhtSAijpIsvJgV",
+  "followers": {
+    "href": null,
+    "total": 367
+  },
+  "genres": [
+    "hyperpop francais"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb31bab4fe6f2e7c0be440d81a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517431bab4fe6f2e7c0be440d81a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17831bab4fe6f2e7c0be440d81a",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6SIdzL2zkhtSAijpIsvJgV"
+  }
+}

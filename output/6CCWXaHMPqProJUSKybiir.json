@@ -1,0 +1,33 @@
+{
+  "id": "6CCWXaHMPqProJUSKybiir",
+  "name": "DISORDER",
+  "uri": "spotify:artist:6CCWXaHMPqProJUSKybiir",
+  "followers": {
+    "href": null,
+    "total": 110
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb35cc12cdd20f59aa4a2692f9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517435cc12cdd20f59aa4a2692f9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17835cc12cdd20f59aa4a2692f9",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6CCWXaHMPqProJUSKybiir"
+  }
+}

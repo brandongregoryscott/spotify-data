@@ -1,0 +1,33 @@
+{
+  "id": "5kx5NGT0XdiL2UoUrsxYgD",
+  "name": "Steve Drive",
+  "uri": "spotify:artist:5kx5NGT0XdiL2UoUrsxYgD",
+  "followers": {
+    "href": null,
+    "total": 1990
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf1265ee1b2fdc51f08162dca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f1265ee1b2fdc51f08162dca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f1265ee1b2fdc51f08162dca",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5kx5NGT0XdiL2UoUrsxYgD"
+  }
+}

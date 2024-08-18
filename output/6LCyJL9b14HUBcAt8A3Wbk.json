@@ -1,0 +1,33 @@
+{
+  "id": "6LCyJL9b14HUBcAt8A3Wbk",
+  "name": "Ollton",
+  "uri": "spotify:artist:6LCyJL9b14HUBcAt8A3Wbk",
+  "followers": {
+    "href": null,
+    "total": 122
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb41031e8aa91e37687a11c4dc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517441031e8aa91e37687a11c4dc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17841031e8aa91e37687a11c4dc",
+      "width": 160
+    }
+  ],
+  "popularity": 20,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6LCyJL9b14HUBcAt8A3Wbk"
+  }
+}

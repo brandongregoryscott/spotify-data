@@ -1,0 +1,33 @@
+{
+  "id": "6P8KvidvEoD52GQGtlWEGi",
+  "name": "It's for us",
+  "uri": "spotify:artist:6P8KvidvEoD52GQGtlWEGi",
+  "followers": {
+    "href": null,
+    "total": 1115
+  },
+  "genres": [
+    "deathrock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb214512f29b691b86f6c0c751",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174214512f29b691b86f6c0c751",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178214512f29b691b86f6c0c751",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6P8KvidvEoD52GQGtlWEGi"
+  }
+}

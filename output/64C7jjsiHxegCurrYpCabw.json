@@ -1,0 +1,33 @@
+{
+  "id": "64C7jjsiHxegCurrYpCabw",
+  "name": "Bestia Música",
+  "uri": "spotify:artist:64C7jjsiHxegCurrYpCabw",
+  "followers": {
+    "href": null,
+    "total": 5712
+  },
+  "genres": [
+    "argentine indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd9a600b2bf27c9e86ecfe27a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d9a600b2bf27c9e86ecfe27a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d9a600b2bf27c9e86ecfe27a",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/64C7jjsiHxegCurrYpCabw"
+  }
+}

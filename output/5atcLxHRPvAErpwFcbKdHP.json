@@ -1,0 +1,33 @@
+{
+  "id": "5atcLxHRPvAErpwFcbKdHP",
+  "name": "Perl",
+  "uri": "spotify:artist:5atcLxHRPvAErpwFcbKdHP",
+  "followers": {
+    "href": null,
+    "total": 2375
+  },
+  "genres": [
+    "ostrock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735584b0e60202e2e477f2230d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e025584b0e60202e2e477f2230d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048515584b0e60202e2e477f2230d",
+      "width": 64
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5atcLxHRPvAErpwFcbKdHP"
+  }
+}

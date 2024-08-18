@@ -1,0 +1,33 @@
+{
+  "id": "7mQrxoWIQxM5O9RlJCWMJV",
+  "name": "JorDat",
+  "uri": "spotify:artist:7mQrxoWIQxM5O9RlJCWMJV",
+  "followers": {
+    "href": null,
+    "total": 68
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeebfcdedd5611fa8dcd34711",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eebfcdedd5611fa8dcd34711",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eebfcdedd5611fa8dcd34711",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7mQrxoWIQxM5O9RlJCWMJV"
+  }
+}

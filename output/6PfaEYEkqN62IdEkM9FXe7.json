@@ -1,0 +1,33 @@
+{
+  "id": "6PfaEYEkqN62IdEkM9FXe7",
+  "name": "JAWACHI",
+  "uri": "spotify:artist:6PfaEYEkqN62IdEkM9FXe7",
+  "followers": {
+    "href": null,
+    "total": 539
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb12222cd7a3b2657682e75fb1",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517412222cd7a3b2657682e75fb1",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17812222cd7a3b2657682e75fb1",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6PfaEYEkqN62IdEkM9FXe7"
+  }
+}

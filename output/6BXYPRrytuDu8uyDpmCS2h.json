@@ -1,0 +1,33 @@
+{
+  "id": "6BXYPRrytuDu8uyDpmCS2h",
+  "name": "H-Block 101",
+  "uri": "spotify:artist:6BXYPRrytuDu8uyDpmCS2h",
+  "followers": {
+    "href": null,
+    "total": 484
+  },
+  "genres": [
+    "australian ska"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bdefe5d79cb893172f516a00",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02bdefe5d79cb893172f516a00",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851bdefe5d79cb893172f516a00",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6BXYPRrytuDu8uyDpmCS2h"
+  }
+}

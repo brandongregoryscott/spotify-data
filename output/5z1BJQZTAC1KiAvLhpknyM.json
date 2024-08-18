@@ -1,0 +1,33 @@
+{
+  "id": "5z1BJQZTAC1KiAvLhpknyM",
+  "name": "Beamy",
+  "uri": "spotify:artist:5z1BJQZTAC1KiAvLhpknyM",
+  "followers": {
+    "href": null,
+    "total": 341
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb60f38956883d023b8bc00988",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517460f38956883d023b8bc00988",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17860f38956883d023b8bc00988",
+      "width": 160
+    }
+  ],
+  "popularity": 24,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5z1BJQZTAC1KiAvLhpknyM"
+  }
+}

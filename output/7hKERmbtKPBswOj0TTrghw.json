@@ -1,0 +1,35 @@
+{
+  "id": "7hKERmbtKPBswOj0TTrghw",
+  "name": "Kjøtt",
+  "uri": "spotify:artist:7hKERmbtKPBswOj0TTrghw",
+  "followers": {
+    "href": null,
+    "total": 4311
+  },
+  "genres": [
+    "norwegian punk",
+    "norwegian punk rock",
+    "norwegian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738c6283ff40b678b14e3d93b5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028c6283ff40b678b14e3d93b5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518c6283ff40b678b14e3d93b5",
+      "width": 64
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7hKERmbtKPBswOj0TTrghw"
+  }
+}

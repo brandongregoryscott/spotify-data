@@ -1,0 +1,33 @@
+{
+  "id": "6OUpXoO9VDe7Qq6D32WbSe",
+  "name": "Miss Cressida",
+  "uri": "spotify:artist:6OUpXoO9VDe7Qq6D32WbSe",
+  "followers": {
+    "href": null,
+    "total": 243
+  },
+  "genres": [
+    "nz alternative rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb57c937079a18b0f65721fc32",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517457c937079a18b0f65721fc32",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17857c937079a18b0f65721fc32",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6OUpXoO9VDe7Qq6D32WbSe"
+  }
+}

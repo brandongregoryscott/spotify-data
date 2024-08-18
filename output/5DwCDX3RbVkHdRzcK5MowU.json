@@ -1,0 +1,33 @@
+{
+  "id": "5DwCDX3RbVkHdRzcK5MowU",
+  "name": "yell0",
+  "uri": "spotify:artist:5DwCDX3RbVkHdRzcK5MowU",
+  "followers": {
+    "href": null,
+    "total": 387
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebef068dfc6d765c3721ccf4c6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ef068dfc6d765c3721ccf4c6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ef068dfc6d765c3721ccf4c6",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5DwCDX3RbVkHdRzcK5MowU"
+  }
+}

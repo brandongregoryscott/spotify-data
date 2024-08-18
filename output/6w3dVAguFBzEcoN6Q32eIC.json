@@ -1,0 +1,33 @@
+{
+  "id": "6w3dVAguFBzEcoN6Q32eIC",
+  "name": "India Lake",
+  "uri": "spotify:artist:6w3dVAguFBzEcoN6Q32eIC",
+  "followers": {
+    "href": null,
+    "total": 1333
+  },
+  "genres": [
+    "nyc pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe4f350eca93449863b2d33e5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e4f350eca93449863b2d33e5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e4f350eca93449863b2d33e5",
+      "width": 160
+    }
+  ],
+  "popularity": 29,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6w3dVAguFBzEcoN6Q32eIC"
+  }
+}

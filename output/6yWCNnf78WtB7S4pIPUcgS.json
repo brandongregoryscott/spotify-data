@@ -1,0 +1,33 @@
+{
+  "id": "6yWCNnf78WtB7S4pIPUcgS",
+  "name": "Sala Espacial",
+  "uri": "spotify:artist:6yWCNnf78WtB7S4pIPUcgS",
+  "followers": {
+    "href": null,
+    "total": 3509
+  },
+  "genres": [
+    "rock alternativo brasileiro"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273db93b175023ab02cc03bb092",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028d7ee285ed0a29c00e3b56c5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851db93b175023ab02cc03bb092",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6yWCNnf78WtB7S4pIPUcgS"
+  }
+}

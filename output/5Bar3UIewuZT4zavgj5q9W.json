@@ -1,0 +1,34 @@
+{
+  "id": "5Bar3UIewuZT4zavgj5q9W",
+  "name": "pata",
+  "uri": "spotify:artist:5Bar3UIewuZT4zavgj5q9W",
+  "followers": {
+    "href": null,
+    "total": 325
+  },
+  "genres": [
+    "grunge brasileiro",
+    "rock mineiro"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe4e2800705219c21a8c17ab2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e4e2800705219c21a8c17ab2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e4e2800705219c21a8c17ab2",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5Bar3UIewuZT4zavgj5q9W"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5tRvJi08ALKPOojVS4ch5s",
+  "name": "Ramon Chicharron",
+  "uri": "spotify:artist:5tRvJi08ALKPOojVS4ch5s",
+  "followers": {
+    "href": null,
+    "total": 4658
+  },
+  "genres": [
+    "canadian latin"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb81441ab5985fa86f73435166",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517481441ab5985fa86f73435166",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17881441ab5985fa86f73435166",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5tRvJi08ALKPOojVS4ch5s"
+  }
+}

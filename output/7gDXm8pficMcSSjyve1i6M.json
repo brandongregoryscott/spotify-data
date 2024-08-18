@@ -1,0 +1,33 @@
+{
+  "id": "7gDXm8pficMcSSjyve1i6M",
+  "name": "KAAJO",
+  "uri": "spotify:artist:7gDXm8pficMcSSjyve1i6M",
+  "followers": {
+    "href": null,
+    "total": 27
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf4c9fb972a5441a743bf98bf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f4c9fb972a5441a743bf98bf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f4c9fb972a5441a743bf98bf",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7gDXm8pficMcSSjyve1i6M"
+  }
+}

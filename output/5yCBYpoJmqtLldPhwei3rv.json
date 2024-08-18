@@ -1,0 +1,33 @@
+{
+  "id": "5yCBYpoJmqtLldPhwei3rv",
+  "name": "The Kingfishers",
+  "uri": "spotify:artist:5yCBYpoJmqtLldPhwei3rv",
+  "followers": {
+    "href": null,
+    "total": 64
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273acf653992d2e5bf585754dba",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02acf653992d2e5bf585754dba",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851acf653992d2e5bf585754dba",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5yCBYpoJmqtLldPhwei3rv"
+  }
+}

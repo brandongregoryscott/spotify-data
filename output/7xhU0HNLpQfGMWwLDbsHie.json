@@ -1,0 +1,33 @@
+{
+  "id": "7xhU0HNLpQfGMWwLDbsHie",
+  "name": "Thola",
+  "uri": "spotify:artist:7xhU0HNLpQfGMWwLDbsHie",
+  "followers": {
+    "href": null,
+    "total": 2463
+  },
+  "genres": [
+    "cali rap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27318adb28ad1785ab12b635802",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0218adb28ad1785ab12b635802",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485118adb28ad1785ab12b635802",
+      "width": 64
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7xhU0HNLpQfGMWwLDbsHie"
+  }
+}

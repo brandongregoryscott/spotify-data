@@ -1,0 +1,33 @@
+{
+  "id": "5NAutFrrM5MQFk6LgsPvXN",
+  "name": "Sinfín",
+  "uri": "spotify:artist:5NAutFrrM5MQFk6LgsPvXN",
+  "followers": {
+    "href": null,
+    "total": 85
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdf68806d53ea018ea4bf954c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174df68806d53ea018ea4bf954c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178df68806d53ea018ea4bf954c",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5NAutFrrM5MQFk6LgsPvXN"
+  }
+}

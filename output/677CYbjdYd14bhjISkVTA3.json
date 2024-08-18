@@ -1,0 +1,33 @@
+{
+  "id": "677CYbjdYd14bhjISkVTA3",
+  "name": "xi-on",
+  "uri": "spotify:artist:677CYbjdYd14bhjISkVTA3",
+  "followers": {
+    "href": null,
+    "total": 7009
+  },
+  "genres": [
+    "touhou"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738b415e31f0e5c0ecfde4615a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028b415e31f0e5c0ecfde4615a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518b415e31f0e5c0ecfde4615a",
+      "width": 64
+    }
+  ],
+  "popularity": 25,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/677CYbjdYd14bhjISkVTA3"
+  }
+}

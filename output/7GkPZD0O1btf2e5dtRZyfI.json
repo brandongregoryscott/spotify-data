@@ -1,0 +1,33 @@
+{
+  "id": "7GkPZD0O1btf2e5dtRZyfI",
+  "name": "The Wonder Kids",
+  "uri": "spotify:artist:7GkPZD0O1btf2e5dtRZyfI",
+  "followers": {
+    "href": null,
+    "total": 12990
+  },
+  "genres": [
+    "vbs"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd244554879f2b6af636c5467",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d244554879f2b6af636c5467",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d244554879f2b6af636c5467",
+      "width": 160
+    }
+  ],
+  "popularity": 50,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5iLpeYp7p9nNjJQf2Z9WYU",
+  "name": "Adalene",
+  "uri": "spotify:artist:5iLpeYp7p9nNjJQf2Z9WYU",
+  "followers": {
+    "href": null,
+    "total": 73
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273106b2782eebc20c567c16e8d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02106b2782eebc20c567c16e8d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851be4002e18ceb57e6c0c7a308",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5iLpeYp7p9nNjJQf2Z9WYU"
+  }
+}

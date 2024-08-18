@@ -1,0 +1,33 @@
+{
+  "id": "7izNMNHdbxf45YIDUWBQtr",
+  "name": "Chemistit",
+  "uri": "spotify:artist:7izNMNHdbxf45YIDUWBQtr",
+  "followers": {
+    "href": null,
+    "total": 33
+  },
+  "genres": [
+    "musiikkia lapista"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273745463bcb388edb7164f188a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02745463bcb388edb7164f188a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851745463bcb388edb7164f188a",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7izNMNHdbxf45YIDUWBQtr"
+  }
+}

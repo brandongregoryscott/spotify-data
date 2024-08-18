@@ -1,0 +1,33 @@
+{
+  "id": "7IEzJVzsWoOhcxZdTJPMlD",
+  "name": "DEMISE",
+  "uri": "spotify:artist:7IEzJVzsWoOhcxZdTJPMlD",
+  "followers": {
+    "href": null,
+    "total": 205
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb549727cf4238fe6cc15cc6ae",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174549727cf4238fe6cc15cc6ae",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178549727cf4238fe6cc15cc6ae",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7IEzJVzsWoOhcxZdTJPMlD"
+  }
+}

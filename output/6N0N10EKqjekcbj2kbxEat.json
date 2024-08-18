@@ -1,0 +1,33 @@
+{
+  "id": "6N0N10EKqjekcbj2kbxEat",
+  "name": "Jigg",
+  "uri": "spotify:artist:6N0N10EKqjekcbj2kbxEat",
+  "followers": {
+    "href": null,
+    "total": 745
+  },
+  "genres": [
+    "milwaukee hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273697df32154d6eaa5366ce8bc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02697df32154d6eaa5366ce8bc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851697df32154d6eaa5366ce8bc",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6N0N10EKqjekcbj2kbxEat"
+  }
+}

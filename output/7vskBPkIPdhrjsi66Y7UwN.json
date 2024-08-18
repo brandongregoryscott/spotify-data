@@ -1,0 +1,33 @@
+{
+  "id": "7vskBPkIPdhrjsi66Y7UwN",
+  "name": "Glava",
+  "uri": "spotify:artist:7vskBPkIPdhrjsi66Y7UwN",
+  "followers": {
+    "href": null,
+    "total": 151
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb38556d63db23819d0721da3a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517438556d63db23819d0721da3a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17838556d63db23819d0721da3a",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7vskBPkIPdhrjsi66Y7UwN"
+  }
+}

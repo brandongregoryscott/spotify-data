@@ -1,0 +1,33 @@
+{
+  "id": "7KohTeeYbbkTGzP1POjaL4",
+  "name": "A Different Kind of Giant",
+  "uri": "spotify:artist:7KohTeeYbbkTGzP1POjaL4",
+  "followers": {
+    "href": null,
+    "total": 104
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730871d1e140158d302422cfb5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e020871d1e140158d302422cfb5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048510871d1e140158d302422cfb5",
+      "width": 64
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7KohTeeYbbkTGzP1POjaL4"
+  }
+}

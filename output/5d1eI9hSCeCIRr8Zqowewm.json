@@ -1,0 +1,33 @@
+{
+  "id": "5d1eI9hSCeCIRr8Zqowewm",
+  "name": "irom",
+  "uri": "spotify:artist:5d1eI9hSCeCIRr8Zqowewm",
+  "followers": {
+    "href": null,
+    "total": 1077
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd973fa9d44e6a6bb7d57ac12",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d973fa9d44e6a6bb7d57ac12",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d973fa9d44e6a6bb7d57ac12",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5d1eI9hSCeCIRr8Zqowewm"
+  }
+}

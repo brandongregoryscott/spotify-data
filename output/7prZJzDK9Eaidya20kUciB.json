@@ -1,0 +1,33 @@
+{
+  "id": "7prZJzDK9Eaidya20kUciB",
+  "name": "Brian Sears",
+  "uri": "spotify:artist:7prZJzDK9Eaidya20kUciB",
+  "followers": {
+    "href": null,
+    "total": 167
+  },
+  "genres": [
+    "show tunes"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaa8bb2c037dabfc115302460",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aa8bb2c037dabfc115302460",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aa8bb2c037dabfc115302460",
+      "width": 160
+    }
+  ],
+  "popularity": 43,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7prZJzDK9Eaidya20kUciB"
+  }
+}

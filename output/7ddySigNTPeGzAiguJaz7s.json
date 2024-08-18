@@ -1,0 +1,33 @@
+{
+  "id": "7ddySigNTPeGzAiguJaz7s",
+  "name": "cancri",
+  "uri": "spotify:artist:7ddySigNTPeGzAiguJaz7s",
+  "followers": {
+    "href": null,
+    "total": 234
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe927255d9d8f4e649fa70733",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e927255d9d8f4e649fa70733",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e927255d9d8f4e649fa70733",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ddySigNTPeGzAiguJaz7s"
+  }
+}

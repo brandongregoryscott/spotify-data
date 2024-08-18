@@ -1,0 +1,33 @@
+{
+  "id": "7k0mRul8b8WdEdWAx44pVr",
+  "name": "Out of Cookies",
+  "uri": "spotify:artist:7k0mRul8b8WdEdWAx44pVr",
+  "followers": {
+    "href": null,
+    "total": 2710
+  },
+  "genres": [
+    "sky room"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb264d325be99f6fd127fdd3ac",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174264d325be99f6fd127fdd3ac",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178264d325be99f6fd127fdd3ac",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7k0mRul8b8WdEdWAx44pVr"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7oyHZVxalWkdKEJpHb8XpH",
+  "name": "Hanami",
+  "uri": "spotify:artist:7oyHZVxalWkdKEJpHb8XpH",
+  "followers": {
+    "href": null,
+    "total": 39
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb87a0191b00e77ae60275f432",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517487a0191b00e77ae60275f432",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17887a0191b00e77ae60275f432",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7oyHZVxalWkdKEJpHb8XpH"
+  }
+}

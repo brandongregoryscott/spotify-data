@@ -1,0 +1,35 @@
+{
+  "id": "5te2BSRfSSkPwEkkcObEhV",
+  "name": "OZ",
+  "uri": "spotify:artist:5te2BSRfSSkPwEkkcObEhV",
+  "followers": {
+    "href": null,
+    "total": 13530
+  },
+  "genres": [
+    "neo-trad metal",
+    "nwothm",
+    "speed metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfb2d89db00fb6ebf4b140ecc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fb2d89db00fb6ebf4b140ecc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fb2d89db00fb6ebf4b140ecc",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5te2BSRfSSkPwEkkcObEhV"
+  }
+}

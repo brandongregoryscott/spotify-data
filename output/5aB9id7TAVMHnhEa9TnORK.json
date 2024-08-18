@@ -1,0 +1,33 @@
+{
+  "id": "5aB9id7TAVMHnhEa9TnORK",
+  "name": "NOMAD",
+  "uri": "spotify:artist:5aB9id7TAVMHnhEa9TnORK",
+  "followers": {
+    "href": null,
+    "total": 217
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb718adeeacde6ff86096bdcb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b718adeeacde6ff86096bdcb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b718adeeacde6ff86096bdcb",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5aB9id7TAVMHnhEa9TnORK"
+  }
+}

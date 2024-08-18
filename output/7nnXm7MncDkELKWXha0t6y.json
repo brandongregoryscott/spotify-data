@@ -1,0 +1,33 @@
+{
+  "id": "7nnXm7MncDkELKWXha0t6y",
+  "name": "Felix",
+  "uri": "spotify:artist:7nnXm7MncDkELKWXha0t6y",
+  "followers": {
+    "href": null,
+    "total": 568
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb672e8f36ac51f73156608912",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174672e8f36ac51f73156608912",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178672e8f36ac51f73156608912",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7nnXm7MncDkELKWXha0t6y"
+  }
+}

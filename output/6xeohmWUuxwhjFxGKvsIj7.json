@@ -1,0 +1,33 @@
+{
+  "id": "6xeohmWUuxwhjFxGKvsIj7",
+  "name": "Obijan",
+  "uri": "spotify:artist:6xeohmWUuxwhjFxGKvsIj7",
+  "followers": {
+    "href": null,
+    "total": 638
+  },
+  "genres": [
+    "bergen indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb34990beec99a27baa1f1455e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517434990beec99a27baa1f1455e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17834990beec99a27baa1f1455e",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6xeohmWUuxwhjFxGKvsIj7"
+  }
+}

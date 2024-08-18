@@ -1,0 +1,33 @@
+{
+  "id": "5ynodGntcLHcorPlFPHnRg",
+  "name": "Tomás García",
+  "uri": "spotify:artist:5ynodGntcLHcorPlFPHnRg",
+  "followers": {
+    "href": null,
+    "total": 540
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba3edd9dfd497467061d05d15",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a3edd9dfd497467061d05d15",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a3edd9dfd497467061d05d15",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ynodGntcLHcorPlFPHnRg"
+  }
+}

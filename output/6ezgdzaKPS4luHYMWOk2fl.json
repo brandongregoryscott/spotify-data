@@ -1,0 +1,33 @@
+{
+  "id": "6ezgdzaKPS4luHYMWOk2fl",
+  "name": "Nimez",
+  "uri": "spotify:artist:6ezgdzaKPS4luHYMWOk2fl",
+  "followers": {
+    "href": null,
+    "total": 3056
+  },
+  "genres": [
+    "traprun"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd160ba9e35a404c0ad9f6fcb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d160ba9e35a404c0ad9f6fcb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d160ba9e35a404c0ad9f6fcb",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ezgdzaKPS4luHYMWOk2fl"
+  }
+}

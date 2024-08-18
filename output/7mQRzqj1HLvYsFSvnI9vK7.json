@@ -1,0 +1,33 @@
+{
+  "id": "7mQRzqj1HLvYsFSvnI9vK7",
+  "name": "Endeavor",
+  "uri": "spotify:artist:7mQRzqj1HLvYsFSvnI9vK7",
+  "followers": {
+    "href": null,
+    "total": 853
+  },
+  "genres": [
+    "new jersey hardcore"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a6b790bf042ab4d552077d6d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02a6b790bf042ab4d552077d6d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851a6b790bf042ab4d552077d6d",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7mQRzqj1HLvYsFSvnI9vK7"
+  }
+}

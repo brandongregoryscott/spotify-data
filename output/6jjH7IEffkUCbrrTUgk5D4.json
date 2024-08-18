@@ -1,0 +1,33 @@
+{
+  "id": "6jjH7IEffkUCbrrTUgk5D4",
+  "name": "getotehno",
+  "uri": "spotify:artist:6jjH7IEffkUCbrrTUgk5D4",
+  "followers": {
+    "href": null,
+    "total": 79
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc236c966562a14aa89bcc32d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c236c966562a14aa89bcc32d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c236c966562a14aa89bcc32d",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6jjH7IEffkUCbrrTUgk5D4"
+  }
+}

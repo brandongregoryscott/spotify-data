@@ -1,0 +1,35 @@
+{
+  "id": "6w33pH9yoNlM3xpudZYTt4",
+  "name": "Ideas",
+  "uri": "spotify:artist:6w33pH9yoNlM3xpudZYTt4",
+  "followers": {
+    "href": null,
+    "total": 247
+  },
+  "genres": [
+    "gothic symphonic metal",
+    "hungarian metal",
+    "slavic metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273494b1383a6dff8c3add7bc9b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02494b1383a6dff8c3add7bc9b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851494b1383a6dff8c3add7bc9b",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6w33pH9yoNlM3xpudZYTt4"
+  }
+}

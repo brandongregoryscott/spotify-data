@@ -1,0 +1,34 @@
+{
+  "id": "7KFzz2W8u1HdZhX2XcZCXI",
+  "name": "Jack Out",
+  "uri": "spotify:artist:7KFzz2W8u1HdZhX2XcZCXI",
+  "followers": {
+    "href": null,
+    "total": 9490
+  },
+  "genres": [
+    "emo rap italiano",
+    "emo trap italiana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb758d487ca4791fb7e85796ea",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174758d487ca4791fb7e85796ea",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178758d487ca4791fb7e85796ea",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI"
+  }
+}

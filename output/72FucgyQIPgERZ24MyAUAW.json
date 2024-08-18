@@ -1,0 +1,34 @@
+{
+  "id": "72FucgyQIPgERZ24MyAUAW",
+  "name": "Kathy Mar",
+  "uri": "spotify:artist:72FucgyQIPgERZ24MyAUAW",
+  "followers": {
+    "href": null,
+    "total": 857
+  },
+  "genres": [
+    "geek folk",
+    "neo-pagan"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732b5d9c4168690796ad400b0e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e022b5d9c4168690796ad400b0e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048512b5d9c4168690796ad400b0e",
+      "width": 64
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/72FucgyQIPgERZ24MyAUAW"
+  }
+}

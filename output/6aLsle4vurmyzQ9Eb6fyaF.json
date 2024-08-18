@@ -1,0 +1,33 @@
+{
+  "id": "6aLsle4vurmyzQ9Eb6fyaF",
+  "name": "LPM",
+  "uri": "spotify:artist:6aLsle4vurmyzQ9Eb6fyaF",
+  "followers": {
+    "href": null,
+    "total": 130
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb22c2624d5616cf7973ebb091",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517422c2624d5616cf7973ebb091",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17822c2624d5616cf7973ebb091",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6aLsle4vurmyzQ9Eb6fyaF"
+  }
+}

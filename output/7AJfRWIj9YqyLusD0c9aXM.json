@@ -1,0 +1,34 @@
+{
+  "id": "7AJfRWIj9YqyLusD0c9aXM",
+  "name": "Bob Stevens",
+  "uri": "spotify:artist:7AJfRWIj9YqyLusD0c9aXM",
+  "followers": {
+    "href": null,
+    "total": 4704
+  },
+  "genres": [
+    "dansband",
+    "skansk musik"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb546a0dbcfe72e73e39e35897",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174546a0dbcfe72e73e39e35897",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178546a0dbcfe72e73e39e35897",
+      "width": 160
+    }
+  ],
+  "popularity": 28,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7AJfRWIj9YqyLusD0c9aXM"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5I4hKHeEYKMauc062zloC9",
+  "name": "The Last Mile",
+  "uri": "spotify:artist:5I4hKHeEYKMauc062zloC9",
+  "followers": {
+    "href": null,
+    "total": 424
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb90cfa77c4546729ba9af023c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517490cfa77c4546729ba9af023c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17890cfa77c4546729ba9af023c",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5I4hKHeEYKMauc062zloC9"
+  }
+}

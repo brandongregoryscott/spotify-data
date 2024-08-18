@@ -1,0 +1,33 @@
+{
+  "id": "6OymL0hSU7xyiKt2lioHDd",
+  "name": "Ojas",
+  "uri": "spotify:artist:6OymL0hSU7xyiKt2lioHDd",
+  "followers": {
+    "href": null,
+    "total": 745
+  },
+  "genres": [
+    "argentine indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273799c65e2b4810d462acb77af",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02799c65e2b4810d462acb77af",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851799c65e2b4810d462acb77af",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6OymL0hSU7xyiKt2lioHDd"
+  }
+}

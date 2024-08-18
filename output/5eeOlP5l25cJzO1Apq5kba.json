@@ -1,0 +1,33 @@
+{
+  "id": "5eeOlP5l25cJzO1Apq5kba",
+  "name": "Yeller",
+  "uri": "spotify:artist:5eeOlP5l25cJzO1Apq5kba",
+  "followers": {
+    "href": null,
+    "total": 122
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb21fda042cf3a93b6e8666010",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517421fda042cf3a93b6e8666010",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17821fda042cf3a93b6e8666010",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5eeOlP5l25cJzO1Apq5kba"
+  }
+}

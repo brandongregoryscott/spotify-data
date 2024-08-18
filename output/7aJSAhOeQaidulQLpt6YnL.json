@@ -1,0 +1,33 @@
+{
+  "id": "7aJSAhOeQaidulQLpt6YnL",
+  "name": "Peety",
+  "uri": "spotify:artist:7aJSAhOeQaidulQLpt6YnL",
+  "followers": {
+    "href": null,
+    "total": 324
+  },
+  "genres": [
+    "magyar trap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb46073aa504c4febb17c0557e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517446073aa504c4febb17c0557e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17846073aa504c4febb17c0557e",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7aJSAhOeQaidulQLpt6YnL"
+  }
+}

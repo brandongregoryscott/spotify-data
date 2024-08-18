@@ -1,0 +1,33 @@
+{
+  "id": "67F3N58scf1KzBhMcA0Lcs",
+  "name": "SWRY",
+  "uri": "spotify:artist:67F3N58scf1KzBhMcA0Lcs",
+  "followers": {
+    "href": null,
+    "total": 858
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf72d0032dd04de50d347a9db",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f72d0032dd04de50d347a9db",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f72d0032dd04de50d347a9db",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/67F3N58scf1KzBhMcA0Lcs"
+  }
+}

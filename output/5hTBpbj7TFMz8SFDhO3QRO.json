@@ -1,0 +1,33 @@
+{
+  "id": "5hTBpbj7TFMz8SFDhO3QRO",
+  "name": "Tom Apex",
+  "uri": "spotify:artist:5hTBpbj7TFMz8SFDhO3QRO",
+  "followers": {
+    "href": null,
+    "total": 269
+  },
+  "genres": [
+    "future bounce"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba3cc53d554e74675326b302f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a3cc53d554e74675326b302f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a3cc53d554e74675326b302f",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5hTBpbj7TFMz8SFDhO3QRO"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5NIsCWBYo576592olKtUaa",
+  "name": "PRSCTT",
+  "uri": "spotify:artist:5NIsCWBYo576592olKtUaa",
+  "followers": {
+    "href": null,
+    "total": 35
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5c43230c6f9648d7b3dddc29",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051745c43230c6f9648d7b3dddc29",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1785c43230c6f9648d7b3dddc29",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5NIsCWBYo576592olKtUaa"
+  }
+}

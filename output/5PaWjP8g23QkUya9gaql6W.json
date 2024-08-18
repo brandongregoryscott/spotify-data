@@ -1,0 +1,33 @@
+{
+  "id": "5PaWjP8g23QkUya9gaql6W",
+  "name": "AnturiaN",
+  "uri": "spotify:artist:5PaWjP8g23QkUya9gaql6W",
+  "followers": {
+    "href": null,
+    "total": 262
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb63958b852fccf326ba4cee0f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517463958b852fccf326ba4cee0f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17863958b852fccf326ba4cee0f",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5PaWjP8g23QkUya9gaql6W"
+  }
+}

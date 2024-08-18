@@ -1,0 +1,34 @@
+{
+  "id": "5ny5HQlPLoDNRaZdpcVlO0",
+  "name": "Buster Larsen",
+  "uri": "spotify:artist:5ny5HQlPLoDNRaZdpcVlO0",
+  "followers": {
+    "href": null,
+    "total": 386
+  },
+  "genres": [
+    "classic danish pop",
+    "dansktop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f9528f4bbe967b7d9a0b3aed",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f9528f4bbe967b7d9a0b3aed",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f9528f4bbe967b7d9a0b3aed",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ny5HQlPLoDNRaZdpcVlO0"
+  }
+}

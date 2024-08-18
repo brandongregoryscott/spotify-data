@@ -1,0 +1,33 @@
+{
+  "id": "5oVprIAsWOSbA5oT60X7cV",
+  "name": "Retröxx",
+  "uri": "spotify:artist:5oVprIAsWOSbA5oT60X7cV",
+  "followers": {
+    "href": null,
+    "total": 1662
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb618cbfb2887ff2321552e778",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174618cbfb2887ff2321552e778",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178618cbfb2887ff2321552e778",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5oVprIAsWOSbA5oT60X7cV"
+  }
+}

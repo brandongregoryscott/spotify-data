@@ -1,0 +1,33 @@
+{
+  "id": "7nNyZMVQQgGf5UVDcJ52yI",
+  "name": "Ish",
+  "uri": "spotify:artist:7nNyZMVQQgGf5UVDcJ52yI",
+  "followers": {
+    "href": null,
+    "total": 3683
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdbaebd311431ab8dddc94ec3",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dbaebd311431ab8dddc94ec3",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dbaebd311431ab8dddc94ec3",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7nNyZMVQQgGf5UVDcJ52yI"
+  }
+}

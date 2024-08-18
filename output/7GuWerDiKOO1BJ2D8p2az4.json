@@ -1,0 +1,33 @@
+{
+  "id": "7GuWerDiKOO1BJ2D8p2az4",
+  "name": "BRONKX3",
+  "uri": "spotify:artist:7GuWerDiKOO1BJ2D8p2az4",
+  "followers": {
+    "href": null,
+    "total": 464
+  },
+  "genres": [
+    "necrotrap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb235230adb95889db63423a23",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174235230adb95889db63423a23",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178235230adb95889db63423a23",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7GuWerDiKOO1BJ2D8p2az4"
+  }
+}

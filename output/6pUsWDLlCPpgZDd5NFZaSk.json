@@ -1,0 +1,33 @@
+{
+  "id": "6pUsWDLlCPpgZDd5NFZaSk",
+  "name": "KO McCoy",
+  "uri": "spotify:artist:6pUsWDLlCPpgZDd5NFZaSk",
+  "followers": {
+    "href": null,
+    "total": 50
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ba8c6d5211f21960d9988a9c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ba8c6d5211f21960d9988a9c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ba8c6d5211f21960d9988a9c",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6pUsWDLlCPpgZDd5NFZaSk"
+  }
+}

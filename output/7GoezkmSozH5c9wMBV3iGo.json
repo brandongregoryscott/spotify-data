@@ -1,0 +1,33 @@
+{
+  "id": "7GoezkmSozH5c9wMBV3iGo",
+  "name": "Clouds",
+  "uri": "spotify:artist:7GoezkmSozH5c9wMBV3iGo",
+  "followers": {
+    "href": null,
+    "total": 297
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfd882354bc961b69bd0d96ca",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fd882354bc961b69bd0d96ca",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fd882354bc961b69bd0d96ca",
+      "width": 160
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7GoezkmSozH5c9wMBV3iGo"
+  }
+}

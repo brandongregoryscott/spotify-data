@@ -1,0 +1,33 @@
+{
+  "id": "6murM4qO5L9HjyHmeurLMo",
+  "name": "Tpizzle",
+  "uri": "spotify:artist:6murM4qO5L9HjyHmeurLMo",
+  "followers": {
+    "href": null,
+    "total": 72
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfafba07787fcab73760e104e",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fafba07787fcab73760e104e",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fafba07787fcab73760e104e",
+      "width": 160
+    }
+  ],
+  "popularity": 8,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6murM4qO5L9HjyHmeurLMo"
+  }
+}

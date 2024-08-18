@@ -1,0 +1,33 @@
+{
+  "id": "6Tsnah5ZpJcrgDp6KWkOrC",
+  "name": "Soffía",
+  "uri": "spotify:artist:6Tsnah5ZpJcrgDp6KWkOrC",
+  "followers": {
+    "href": null,
+    "total": 1479
+  },
+  "genres": [
+    "icelandic indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebffa3a7d43070e601ac6b0b3d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ffa3a7d43070e601ac6b0b3d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ffa3a7d43070e601ac6b0b3d",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Tsnah5ZpJcrgDp6KWkOrC"
+  }
+}

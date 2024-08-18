@@ -1,0 +1,33 @@
+{
+  "id": "5ilBfLEgPRcLxfKyhF7uFZ",
+  "name": "Beachcolors",
+  "uri": "spotify:artist:5ilBfLEgPRcLxfKyhF7uFZ",
+  "followers": {
+    "href": null,
+    "total": 314
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd7f501ab472d6f7ccd1f94ff",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d7f501ab472d6f7ccd1f94ff",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d7f501ab472d6f7ccd1f94ff",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ilBfLEgPRcLxfKyhF7uFZ"
+  }
+}

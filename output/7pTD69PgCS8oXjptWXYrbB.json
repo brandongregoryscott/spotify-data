@@ -1,0 +1,33 @@
+{
+  "id": "7pTD69PgCS8oXjptWXYrbB",
+  "name": "Bernard Fedi",
+  "uri": "spotify:artist:7pTD69PgCS8oXjptWXYrbB",
+  "followers": {
+    "href": null,
+    "total": 14
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dc45be5f719d374fbb0abecd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dc45be5f719d374fbb0abecd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dc45be5f719d374fbb0abecd",
+      "width": 64
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7pTD69PgCS8oXjptWXYrbB"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7efqBbgxTmqa1ZcSIwQlNT",
+  "name": "Ronaldinho",
+  "uri": "spotify:artist:7efqBbgxTmqa1ZcSIwQlNT",
+  "followers": {
+    "href": null,
+    "total": 2008
+  },
+  "genres": [
+    "samba moderno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdba3fbc2a4e8b31c698109ef",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dba3fbc2a4e8b31c698109ef",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dba3fbc2a4e8b31c698109ef",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7efqBbgxTmqa1ZcSIwQlNT"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "69grVcN5UQeX34dKNyV1ut",
+  "name": "Mariska",
+  "uri": "spotify:artist:69grVcN5UQeX34dKNyV1ut",
+  "followers": {
+    "href": null,
+    "total": 24242
+  },
+  "genres": [
+    "finnish dance pop",
+    "finnish hip hop",
+    "finnish pop",
+    "iskelma",
+    "suomi rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd4314575e8b00a5432ef4b0c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d4314575e8b00a5432ef4b0c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d4314575e8b00a5432ef4b0c",
+      "width": 160
+    }
+  ],
+  "popularity": 42,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/69grVcN5UQeX34dKNyV1ut"
+  }
+}

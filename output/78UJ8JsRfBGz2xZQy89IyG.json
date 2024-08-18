@@ -1,0 +1,33 @@
+{
+  "id": "78UJ8JsRfBGz2xZQy89IyG",
+  "name": "Carcaça",
+  "uri": "spotify:artist:78UJ8JsRfBGz2xZQy89IyG",
+  "followers": {
+    "href": null,
+    "total": 150
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb39c488f81d055e1ee5a2e4fd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517439c488f81d055e1ee5a2e4fd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17839c488f81d055e1ee5a2e4fd",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/78UJ8JsRfBGz2xZQy89IyG"
+  }
+}

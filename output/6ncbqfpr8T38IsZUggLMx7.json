@@ -1,0 +1,33 @@
+{
+  "id": "6ncbqfpr8T38IsZUggLMx7",
+  "name": "Smokey",
+  "uri": "spotify:artist:6ncbqfpr8T38IsZUggLMx7",
+  "followers": {
+    "href": null,
+    "total": 381
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb8a560558117ea4f04656d42",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b8a560558117ea4f04656d42",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b8a560558117ea4f04656d42",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ncbqfpr8T38IsZUggLMx7"
+  }
+}

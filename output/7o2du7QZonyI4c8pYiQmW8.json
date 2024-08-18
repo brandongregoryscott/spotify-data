@@ -1,0 +1,33 @@
+{
+  "id": "7o2du7QZonyI4c8pYiQmW8",
+  "name": "Golden Ones",
+  "uri": "spotify:artist:7o2du7QZonyI4c8pYiQmW8",
+  "followers": {
+    "href": null,
+    "total": 218
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb07ddb3f507d7c61cb7ba0e54",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517407ddb3f507d7c61cb7ba0e54",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17807ddb3f507d7c61cb7ba0e54",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7o2du7QZonyI4c8pYiQmW8"
+  }
+}

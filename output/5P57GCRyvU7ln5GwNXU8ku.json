@@ -1,0 +1,33 @@
+{
+  "id": "5P57GCRyvU7ln5GwNXU8ku",
+  "name": "La Franela",
+  "uri": "spotify:artist:5P57GCRyvU7ln5GwNXU8ku",
+  "followers": {
+    "href": null,
+    "total": 111971
+  },
+  "genres": [
+    "argentine rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb32cefb573a685adc41e15b55",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517432cefb573a685adc41e15b55",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17832cefb573a685adc41e15b55",
+      "width": 160
+    }
+  ],
+  "popularity": 48,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku"
+  }
+}

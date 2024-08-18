@@ -1,0 +1,33 @@
+{
+  "id": "5nr8GqjNed3jkAvjRncLmb",
+  "name": "Daniel Grear",
+  "uri": "spotify:artist:5nr8GqjNed3jkAvjRncLmb",
+  "followers": {
+    "href": null,
+    "total": 99
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273aff5036e55d9d83c369aa62e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02aff5036e55d9d83c369aa62e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851aff5036e55d9d83c369aa62e",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5nr8GqjNed3jkAvjRncLmb"
+  }
+}

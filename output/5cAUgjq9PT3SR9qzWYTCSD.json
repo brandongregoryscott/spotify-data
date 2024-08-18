@@ -1,0 +1,33 @@
+{
+  "id": "5cAUgjq9PT3SR9qzWYTCSD",
+  "name": "Longevity",
+  "uri": "spotify:artist:5cAUgjq9PT3SR9qzWYTCSD",
+  "followers": {
+    "href": null,
+    "total": 754
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbeecd68b1906e1fb69641548",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174beecd68b1906e1fb69641548",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178beecd68b1906e1fb69641548",
+      "width": 160
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5cAUgjq9PT3SR9qzWYTCSD"
+  }
+}

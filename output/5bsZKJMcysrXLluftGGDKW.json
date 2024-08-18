@@ -1,0 +1,33 @@
+{
+  "id": "5bsZKJMcysrXLluftGGDKW",
+  "name": "Robercouster",
+  "uri": "spotify:artist:5bsZKJMcysrXLluftGGDKW",
+  "followers": {
+    "href": null,
+    "total": 213
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfa6f92c0544a8cd3aad903ab",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fa6f92c0544a8cd3aad903ab",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fa6f92c0544a8cd3aad903ab",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5bsZKJMcysrXLluftGGDKW"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5kOyWYalcbCupsWthS7jOG",
+  "name": "Prague",
+  "uri": "spotify:artist:5kOyWYalcbCupsWthS7jOG",
+  "followers": {
+    "href": null,
+    "total": 240
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb69257bfa7fb1c9e8c493bb4f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517469257bfa7fb1c9e8c493bb4f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17869257bfa7fb1c9e8c493bb4f",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5kOyWYalcbCupsWthS7jOG"
+  }
+}

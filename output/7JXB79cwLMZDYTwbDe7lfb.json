@@ -1,0 +1,33 @@
+{
+  "id": "7JXB79cwLMZDYTwbDe7lfb",
+  "name": "Constantino",
+  "uri": "spotify:artist:7JXB79cwLMZDYTwbDe7lfb",
+  "followers": {
+    "href": null,
+    "total": 1247
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe781ab82d23ff0ae7a969754",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e781ab82d23ff0ae7a969754",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e781ab82d23ff0ae7a969754",
+      "width": 160
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7JXB79cwLMZDYTwbDe7lfb"
+  }
+}

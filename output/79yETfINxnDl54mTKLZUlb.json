@@ -1,0 +1,34 @@
+{
+  "id": "79yETfINxnDl54mTKLZUlb",
+  "name": "Enumclaw",
+  "uri": "spotify:artist:79yETfINxnDl54mTKLZUlb",
+  "followers": {
+    "href": null,
+    "total": 13307
+  },
+  "genres": [
+    "cascadia shoegaze",
+    "nu gaze"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb44d7fa0859818c3560807fd6",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517444d7fa0859818c3560807fd6",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17844d7fa0859818c3560807fd6",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
+  }
+}

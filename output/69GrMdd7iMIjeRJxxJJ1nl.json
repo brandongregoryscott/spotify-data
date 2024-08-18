@@ -1,0 +1,33 @@
+{
+  "id": "69GrMdd7iMIjeRJxxJJ1nl",
+  "name": "Adelaide",
+  "uri": "spotify:artist:69GrMdd7iMIjeRJxxJJ1nl",
+  "followers": {
+    "href": null,
+    "total": 2751
+  },
+  "genres": [
+    "christian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfe6fa4ac9188f393282d75f4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fe6fa4ac9188f393282d75f4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fe6fa4ac9188f393282d75f4",
+      "width": 160
+    }
+  ],
+  "popularity": 14,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/69GrMdd7iMIjeRJxxJJ1nl"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6cL3mUVTYJgiBS5okAt4mo",
+  "name": "Request Line",
+  "uri": "spotify:artist:6cL3mUVTYJgiBS5okAt4mo",
+  "followers": {
+    "href": null,
+    "total": 159
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcfd00f85064f8f6d49fc252a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cfd00f85064f8f6d49fc252a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cfd00f85064f8f6d49fc252a",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6cL3mUVTYJgiBS5okAt4mo"
+  }
+}

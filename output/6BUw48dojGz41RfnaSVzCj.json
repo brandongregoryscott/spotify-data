@@ -1,0 +1,33 @@
+{
+  "id": "6BUw48dojGz41RfnaSVzCj",
+  "name": "Vacant",
+  "uri": "spotify:artist:6BUw48dojGz41RfnaSVzCj",
+  "followers": {
+    "href": null,
+    "total": 3043
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738bb147626eb82bd8d775616d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e028bb147626eb82bd8d775616d",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048518bb147626eb82bd8d775616d",
+      "width": 64
+    }
+  ],
+  "popularity": 23,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6BUw48dojGz41RfnaSVzCj"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7GbEuWaTsQoLfSIFQHRqQa",
+  "name": "May Pi",
+  "uri": "spotify:artist:7GbEuWaTsQoLfSIFQHRqQa",
+  "followers": {
+    "href": null,
+    "total": 44
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd382b38983d3f0c9d674d555",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d382b38983d3f0c9d674d555",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d382b38983d3f0c9d674d555",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7GbEuWaTsQoLfSIFQHRqQa"
+  }
+}

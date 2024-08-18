@@ -1,0 +1,33 @@
+{
+  "id": "7hnj9cngIqndA5EHcyFmXN",
+  "name": "Giulio Casale",
+  "uri": "spotify:artist:7hnj9cngIqndA5EHcyFmXN",
+  "followers": {
+    "href": null,
+    "total": 1078
+  },
+  "genres": [
+    "indie rock italiano"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf28af1c3a1642c89c2bc8edb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f28af1c3a1642c89c2bc8edb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f28af1c3a1642c89c2bc8edb",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7hnj9cngIqndA5EHcyFmXN"
+  }
+}

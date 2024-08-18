@@ -1,0 +1,33 @@
+{
+  "id": "5ruKcgMxx8InkRopjCErFJ",
+  "name": "Федя и Лиза",
+  "uri": "spotify:artist:5ruKcgMxx8InkRopjCErFJ",
+  "followers": {
+    "href": null,
+    "total": 49
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbba615fdb62c327957c9bc42",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bba615fdb62c327957c9bc42",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bba615fdb62c327957c9bc42",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ruKcgMxx8InkRopjCErFJ"
+  }
+}

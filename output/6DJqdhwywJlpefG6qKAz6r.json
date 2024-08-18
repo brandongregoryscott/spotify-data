@@ -1,0 +1,33 @@
+{
+  "id": "6DJqdhwywJlpefG6qKAz6r",
+  "name": "Ayve",
+  "uri": "spotify:artist:6DJqdhwywJlpefG6qKAz6r",
+  "followers": {
+    "href": null,
+    "total": 185
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfb9c0808f23aadc37dde9ed2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fb9c0808f23aadc37dde9ed2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fb9c0808f23aadc37dde9ed2",
+      "width": 160
+    }
+  ],
+  "popularity": 19,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6DJqdhwywJlpefG6qKAz6r"
+  }
+}

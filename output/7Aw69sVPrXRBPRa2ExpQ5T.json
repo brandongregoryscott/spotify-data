@@ -1,0 +1,33 @@
+{
+  "id": "7Aw69sVPrXRBPRa2ExpQ5T",
+  "name": "Stik Op",
+  "uri": "spotify:artist:7Aw69sVPrXRBPRa2ExpQ5T",
+  "followers": {
+    "href": null,
+    "total": 290
+  },
+  "genres": [
+    "danish hip hop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733939a6e76e2426c663cd71bd",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023939a6e76e2426c663cd71bd",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513939a6e76e2426c663cd71bd",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7Aw69sVPrXRBPRa2ExpQ5T"
+  }
+}

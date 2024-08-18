@@ -1,0 +1,33 @@
+{
+  "id": "5EIbeh0R7uUVBZpKqObp2J",
+  "name": "The Easies",
+  "uri": "spotify:artist:5EIbeh0R7uUVBZpKqObp2J",
+  "followers": {
+    "href": null,
+    "total": 218
+  },
+  "genres": [
+    "jawaiian"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb05c5c5a19d2230f96197eefb",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517405c5c5a19d2230f96197eefb",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17805c5c5a19d2230f96197eefb",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5EIbeh0R7uUVBZpKqObp2J"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6AKPRlinRlZlme2iHCnlyx",
+  "name": "Flavius E.",
+  "uri": "spotify:artist:6AKPRlinRlZlme2iHCnlyx",
+  "followers": {
+    "href": null,
+    "total": 371
+  },
+  "genres": [
+    "ambient house"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb944203ef1251bd1bc642b2c",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b944203ef1251bd1bc642b2c",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b944203ef1251bd1bc642b2c",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6AKPRlinRlZlme2iHCnlyx"
+  }
+}

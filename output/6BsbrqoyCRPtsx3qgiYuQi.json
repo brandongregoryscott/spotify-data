@@ -1,0 +1,33 @@
+{
+  "id": "6BsbrqoyCRPtsx3qgiYuQi",
+  "name": "Ibri",
+  "uri": "spotify:artist:6BsbrqoyCRPtsx3qgiYuQi",
+  "followers": {
+    "href": null,
+    "total": 729
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb258b388861499066b71b50ee",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174258b388861499066b71b50ee",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178258b388861499066b71b50ee",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6BsbrqoyCRPtsx3qgiYuQi"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "71HiiaoODjTCsAyEzcMUw0",
+  "name": "Verdcel",
+  "uri": "spotify:artist:71HiiaoODjTCsAyEzcMUw0",
+  "followers": {
+    "href": null,
+    "total": 1057
+  },
+  "genres": [
+    "indie valenciana",
+    "rock catala"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf3ac917b345adb1299da4682",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f3ac917b345adb1299da4682",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f3ac917b345adb1299da4682",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/71HiiaoODjTCsAyEzcMUw0"
+  }
+}

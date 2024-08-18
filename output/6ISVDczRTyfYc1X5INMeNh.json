@@ -1,0 +1,33 @@
+{
+  "id": "6ISVDczRTyfYc1X5INMeNh",
+  "name": "Mardi",
+  "uri": "spotify:artist:6ISVDczRTyfYc1X5INMeNh",
+  "followers": {
+    "href": null,
+    "total": 280
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd67541c411bf9217dd0f3d13",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d67541c411bf9217dd0f3d13",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d67541c411bf9217dd0f3d13",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ISVDczRTyfYc1X5INMeNh"
+  }
+}

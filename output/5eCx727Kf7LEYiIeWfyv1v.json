@@ -1,0 +1,34 @@
+{
+  "id": "5eCx727Kf7LEYiIeWfyv1v",
+  "name": "Offing",
+  "uri": "spotify:artist:5eCx727Kf7LEYiIeWfyv1v",
+  "followers": {
+    "href": null,
+    "total": 5232
+  },
+  "genres": [
+    "k-indie",
+    "korean indie rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb67826644870406a3d87ed1d9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517467826644870406a3d87ed1d9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17867826644870406a3d87ed1d9",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5eCx727Kf7LEYiIeWfyv1v"
+  }
+}

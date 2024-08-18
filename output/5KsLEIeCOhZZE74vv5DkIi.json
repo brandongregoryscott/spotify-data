@@ -1,0 +1,33 @@
+{
+  "id": "5KsLEIeCOhZZE74vv5DkIi",
+  "name": "duttytunesreview",
+  "uri": "spotify:artist:5KsLEIeCOhZZE74vv5DkIi",
+  "followers": {
+    "href": null,
+    "total": 87
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdfd6901623589b2927f4ef08",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dfd6901623589b2927f4ef08",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dfd6901623589b2927f4ef08",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5KsLEIeCOhZZE74vv5DkIi"
+  }
+}

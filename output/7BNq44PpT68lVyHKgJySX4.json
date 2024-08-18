@@ -1,0 +1,33 @@
+{
+  "id": "7BNq44PpT68lVyHKgJySX4",
+  "name": "B記",
+  "uri": "spotify:artist:7BNq44PpT68lVyHKgJySX4",
+  "followers": {
+    "href": null,
+    "total": 172
+  },
+  "genres": [
+    "macau pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb490e6c008289c53a15e9bedc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174490e6c008289c53a15e9bedc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178490e6c008289c53a15e9bedc",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7BNq44PpT68lVyHKgJySX4"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5eqamHaRbXbUXLrhYcPK9f",
+  "name": "Hilfilter",
+  "uri": "spotify:artist:5eqamHaRbXbUXLrhYcPK9f",
+  "followers": {
+    "href": null,
+    "total": 1677
+  },
+  "genres": [
+    "mexican edm"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebafb8b15ec70e462dbf0ef3f2",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174afb8b15ec70e462dbf0ef3f2",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178afb8b15ec70e462dbf0ef3f2",
+      "width": 160
+    }
+  ],
+  "popularity": 5,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5eqamHaRbXbUXLrhYcPK9f"
+  }
+}

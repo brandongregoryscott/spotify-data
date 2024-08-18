@@ -1,0 +1,33 @@
+{
+  "id": "5bR4140Zxa1rPH2x7vQts2",
+  "name": "Tracy",
+  "uri": "spotify:artist:5bR4140Zxa1rPH2x7vQts2",
+  "followers": {
+    "href": null,
+    "total": 95
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ce47d856ffd3227bd6cd7c6a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ce47d856ffd3227bd6cd7c6a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ce47d856ffd3227bd6cd7c6a",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5bR4140Zxa1rPH2x7vQts2"
+  }
+}

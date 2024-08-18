@@ -1,0 +1,33 @@
+{
+  "id": "6OrFOuK91ScuJHfA5diFkT",
+  "name": "Liisanpuisto",
+  "uri": "spotify:artist:6OrFOuK91ScuJHfA5diFkT",
+  "followers": {
+    "href": null,
+    "total": 1566
+  },
+  "genres": [
+    "suomirap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736a545d26ab75483ab47ef06c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026a545d26ab75483ab47ef06c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516a545d26ab75483ab47ef06c",
+      "width": 64
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6OrFOuK91ScuJHfA5diFkT"
+  }
+}

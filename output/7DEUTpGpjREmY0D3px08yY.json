@@ -1,0 +1,34 @@
+{
+  "id": "7DEUTpGpjREmY0D3px08yY",
+  "name": "Azahar",
+  "uri": "spotify:artist:7DEUTpGpjREmY0D3px08yY",
+  "followers": {
+    "href": null,
+    "total": 642
+  },
+  "genres": [
+    "rock andaluz",
+    "spanish prog"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273536e238626d1c9ce0c27dd9c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02536e238626d1c9ce0c27dd9c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851536e238626d1c9ce0c27dd9c",
+      "width": 64
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7DEUTpGpjREmY0D3px08yY"
+  }
+}

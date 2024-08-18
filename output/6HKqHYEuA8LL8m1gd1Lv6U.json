@@ -1,0 +1,33 @@
+{
+  "id": "6HKqHYEuA8LL8m1gd1Lv6U",
+  "name": "RECall",
+  "uri": "spotify:artist:6HKqHYEuA8LL8m1gd1Lv6U",
+  "followers": {
+    "href": null,
+    "total": 1097
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfee668fd08a1a3a1740701d7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fee668fd08a1a3a1740701d7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fee668fd08a1a3a1740701d7",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6HKqHYEuA8LL8m1gd1Lv6U"
+  }
+}

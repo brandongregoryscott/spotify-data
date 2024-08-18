@@ -1,0 +1,33 @@
+{
+  "id": "7ydNIIaqW4BKuVj1q3tA5q",
+  "name": "Dj Views",
+  "uri": "spotify:artist:7ydNIIaqW4BKuVj1q3tA5q",
+  "followers": {
+    "href": null,
+    "total": 323
+  },
+  "genres": [
+    "underground boom bap"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb310b7fd381cbb17357b863db",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174310b7fd381cbb17357b863db",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178310b7fd381cbb17357b863db",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7ydNIIaqW4BKuVj1q3tA5q"
+  }
+}

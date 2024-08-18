@@ -1,0 +1,33 @@
+{
+  "id": "5K8ME7Z64oRz2kKXqsYZTC",
+  "name": "Tony Died",
+  "uri": "spotify:artist:5K8ME7Z64oRz2kKXqsYZTC",
+  "followers": {
+    "href": null,
+    "total": 79
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ed94b0da8fa5fe30e4ef7ee4",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ed94b0da8fa5fe30e4ef7ee4",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ed94b0da8fa5fe30e4ef7ee4",
+      "width": 64
+    }
+  ],
+  "popularity": 6,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5K8ME7Z64oRz2kKXqsYZTC"
+  }
+}

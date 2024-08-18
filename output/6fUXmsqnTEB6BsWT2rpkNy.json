@@ -1,0 +1,33 @@
+{
+  "id": "6fUXmsqnTEB6BsWT2rpkNy",
+  "name": "Tete Novoa",
+  "uri": "spotify:artist:6fUXmsqnTEB6BsWT2rpkNy",
+  "followers": {
+    "href": null,
+    "total": 25242
+  },
+  "genres": [
+    "spanish metal"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe08bd1f2846b73abbef6c391",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e08bd1f2846b73abbef6c391",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e08bd1f2846b73abbef6c391",
+      "width": 160
+    }
+  ],
+  "popularity": 33,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6fUXmsqnTEB6BsWT2rpkNy"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6kBstdL841BgpjSbFNB9kD",
+  "name": "Amaro",
+  "uri": "spotify:artist:6kBstdL841BgpjSbFNB9kD",
+  "followers": {
+    "href": null,
+    "total": 466
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27335944a14654f222321444afc",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0235944a14654f222321444afc",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485135944a14654f222321444afc",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6kBstdL841BgpjSbFNB9kD"
+  }
+}

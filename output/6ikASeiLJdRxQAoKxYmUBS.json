@@ -1,0 +1,33 @@
+{
+  "id": "6ikASeiLJdRxQAoKxYmUBS",
+  "name": "Project Sonic",
+  "uri": "spotify:artist:6ikASeiLJdRxQAoKxYmUBS",
+  "followers": {
+    "href": null,
+    "total": 33
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736571a4bee637199000a662aa",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e026571a4bee637199000a662aa",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048516571a4bee637199000a662aa",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6ikASeiLJdRxQAoKxYmUBS"
+  }
+}

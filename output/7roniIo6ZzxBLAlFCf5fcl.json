@@ -1,0 +1,33 @@
+{
+  "id": "7roniIo6ZzxBLAlFCf5fcl",
+  "name": "Abril Sosa",
+  "uri": "spotify:artist:7roniIo6ZzxBLAlFCf5fcl",
+  "followers": {
+    "href": null,
+    "total": 2794
+  },
+  "genres": [
+    "pop argentino"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd9197c7782f476ac647806ac",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d9197c7782f476ac647806ac",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d9197c7782f476ac647806ac",
+      "width": 160
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7roniIo6ZzxBLAlFCf5fcl"
+  }
+}

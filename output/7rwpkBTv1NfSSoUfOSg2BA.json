@@ -1,0 +1,33 @@
+{
+  "id": "7rwpkBTv1NfSSoUfOSg2BA",
+  "name": "Kite Weather",
+  "uri": "spotify:artist:7rwpkBTv1NfSSoUfOSg2BA",
+  "followers": {
+    "href": null,
+    "total": 71
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb91cebee596a1440d8f55b723",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517491cebee596a1440d8f55b723",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17891cebee596a1440d8f55b723",
+      "width": 160
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7rwpkBTv1NfSSoUfOSg2BA"
+  }
+}

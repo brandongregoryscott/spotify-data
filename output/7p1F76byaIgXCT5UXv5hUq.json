@@ -1,0 +1,33 @@
+{
+  "id": "7p1F76byaIgXCT5UXv5hUq",
+  "name": "Diego Bahamon",
+  "uri": "spotify:artist:7p1F76byaIgXCT5UXv5hUq",
+  "followers": {
+    "href": null,
+    "total": 264
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb94791b2ca64722888744a9c9",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517494791b2ca64722888744a9c9",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17894791b2ca64722888744a9c9",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/7p1F76byaIgXCT5UXv5hUq"
+  }
+}

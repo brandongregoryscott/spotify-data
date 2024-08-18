@@ -1,0 +1,33 @@
+{
+  "id": "6Qd7SFvDFoygAoKpXCZdjV",
+  "name": "Daventry",
+  "uri": "spotify:artist:6Qd7SFvDFoygAoKpXCZdjV",
+  "followers": {
+    "href": null,
+    "total": 64
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ed84d01976bb29a7b22d784e",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02ed84d01976bb29a7b22d784e",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851ed84d01976bb29a7b22d784e",
+      "width": 64
+    }
+  ],
+  "popularity": 15,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6Qd7SFvDFoygAoKpXCZdjV"
+  }
+}

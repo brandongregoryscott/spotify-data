@@ -1,0 +1,33 @@
+{
+  "id": "6VyJvuxR4RrdJlJIpqsqh2",
+  "name": "Tommy Mcgee",
+  "uri": "spotify:artist:6VyJvuxR4RrdJlJIpqsqh2",
+  "followers": {
+    "href": null,
+    "total": 4984
+  },
+  "genres": [
+    "traditional soul"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb21a24f0b472407ef065371bc",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517421a24f0b472407ef065371bc",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17821a24f0b472407ef065371bc",
+      "width": 160
+    }
+  ],
+  "popularity": 26,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6VyJvuxR4RrdJlJIpqsqh2"
+  }
+}

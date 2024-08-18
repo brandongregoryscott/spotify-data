@@ -1,0 +1,33 @@
+{
+  "id": "6kErKNHZn6NsOwLkNasyNT",
+  "name": "Vilgot",
+  "uri": "spotify:artist:6kErKNHZn6NsOwLkNasyNT",
+  "followers": {
+    "href": null,
+    "total": 112
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc788082b88879ab0e890f8fe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c788082b88879ab0e890f8fe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c788082b88879ab0e890f8fe",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/6kErKNHZn6NsOwLkNasyNT"
+  }
+}
