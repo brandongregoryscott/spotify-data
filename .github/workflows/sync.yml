@@ -18,6 +18,7 @@ jobs:
         echo SHORT_CACHE_KEY=$(node -e 'console.log(new Date().toISOString().split("T")[0])') >> $GITHUB_ENV
 
     - name: Restore cache
+      id: restore-cache
       uses: actions/cache/restore@v4
       with:
         path: |
@@ -39,7 +40,7 @@ jobs:
       run: bundle install
 
     - name: Checkout daily branch
-      run: ruby scripts/checkout_branch.rb
+      run: ruby scripts/checkout_branch.rb --skip-pull ${{steps.restore-cache.outputs.cache-matched-key}}
 
     - name: Sync data
       run: ruby scripts/sync.rb
