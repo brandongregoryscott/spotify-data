@@ -1,0 +1,34 @@
+{
+  "id": "0HowPCaKsP1sJL2T2eMEoe",
+  "name": "My Epic",
+  "uri": "spotify:artist:0HowPCaKsP1sJL2T2eMEoe",
+  "followers": {
+    "href": null,
+    "total": 22865
+  },
+  "genres": [
+    "christian rock",
+    "christian uplift"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8eb2d73297d8a7fb0c11e87f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051748eb2d73297d8a7fb0c11e87f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1788eb2d73297d8a7fb0c11e87f",
+      "width": 160
+    }
+  ],
+  "popularity": 31,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0HowPCaKsP1sJL2T2eMEoe"
+  }
+}

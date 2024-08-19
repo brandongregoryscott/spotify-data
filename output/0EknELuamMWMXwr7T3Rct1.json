@@ -1,0 +1,33 @@
+{
+  "id": "0EknELuamMWMXwr7T3Rct1",
+  "name": "Alex Storm",
+  "uri": "spotify:artist:0EknELuamMWMXwr7T3Rct1",
+  "followers": {
+    "href": null,
+    "total": 236
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731ceb1e55c30c02e19bdf712a",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e021ceb1e55c30c02e19bdf712a",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048511ceb1e55c30c02e19bdf712a",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0EknELuamMWMXwr7T3Rct1"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "00yjYYn9C2WqBnnbsDxkqp",
+  "name": "Murdoch",
+  "uri": "spotify:artist:00yjYYn9C2WqBnnbsDxkqp",
+  "followers": {
+    "href": null,
+    "total": 20
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f8dbaab1d0c0104c6e2cabfe",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02f8dbaab1d0c0104c6e2cabfe",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851f8dbaab1d0c0104c6e2cabfe",
+      "width": 64
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/00yjYYn9C2WqBnnbsDxkqp"
+  }
+}

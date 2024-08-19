@@ -1,0 +1,33 @@
+{
+  "id": "06jGm6yxlFcKuEwDsKecGF",
+  "name": "Księżyc",
+  "uri": "spotify:artist:06jGm6yxlFcKuEwDsKecGF",
+  "followers": {
+    "href": null,
+    "total": 242
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb63fa8d7fd7e58c5f84b230c7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517463fa8d7fd7e58c5f84b230c7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17863fa8d7fd7e58c5f84b230c7",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/06jGm6yxlFcKuEwDsKecGF"
+  }
+}

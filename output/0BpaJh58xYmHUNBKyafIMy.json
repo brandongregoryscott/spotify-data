@@ -1,0 +1,33 @@
+{
+  "id": "0BpaJh58xYmHUNBKyafIMy",
+  "name": "Plane Jane",
+  "uri": "spotify:artist:0BpaJh58xYmHUNBKyafIMy",
+  "followers": {
+    "href": null,
+    "total": 1357
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb11e847ddd0b253b739794b89",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517411e847ddd0b253b739794b89",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17811e847ddd0b253b739794b89",
+      "width": 160
+    }
+  ],
+  "popularity": 16,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0BpaJh58xYmHUNBKyafIMy"
+  }
+}

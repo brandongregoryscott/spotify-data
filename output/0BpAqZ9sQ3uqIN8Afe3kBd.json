@@ -1,0 +1,33 @@
+{
+  "id": "0BpAqZ9sQ3uqIN8Afe3kBd",
+  "name": "La Chica de Puerto",
+  "uri": "spotify:artist:0BpAqZ9sQ3uqIN8Afe3kBd",
+  "followers": {
+    "href": null,
+    "total": 147
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb65756be209a35b888a579f98",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517465756be209a35b888a579f98",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17865756be209a35b888a579f98",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0BpAqZ9sQ3uqIN8Afe3kBd"
+  }
+}

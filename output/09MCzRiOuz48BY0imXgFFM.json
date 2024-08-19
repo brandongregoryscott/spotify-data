@@ -1,0 +1,33 @@
+{
+  "id": "09MCzRiOuz48BY0imXgFFM",
+  "name": "Soy Emilia",
+  "uri": "spotify:artist:09MCzRiOuz48BY0imXgFFM",
+  "followers": {
+    "href": null,
+    "total": 5197
+  },
+  "genres": [
+    "colombian indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaade5b40aa6d91ebee3c589d",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174aade5b40aa6d91ebee3c589d",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178aade5b40aa6d91ebee3c589d",
+      "width": 160
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM"
+  }
+}

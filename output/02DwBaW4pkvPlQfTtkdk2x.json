@@ -1,0 +1,33 @@
+{
+  "id": "02DwBaW4pkvPlQfTtkdk2x",
+  "name": "Joachim Nielsen",
+  "uri": "spotify:artist:02DwBaW4pkvPlQfTtkdk2x",
+  "followers": {
+    "href": null,
+    "total": 3782
+  },
+  "genres": [
+    "norwegian rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e35dc93881863d6b9be6634b",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02e35dc93881863d6b9be6634b",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851e35dc93881863d6b9be6634b",
+      "width": 64
+    }
+  ],
+  "popularity": 21,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/02DwBaW4pkvPlQfTtkdk2x"
+  }
+}

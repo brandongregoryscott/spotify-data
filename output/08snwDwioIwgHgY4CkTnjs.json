@@ -1,0 +1,33 @@
+{
+  "id": "08snwDwioIwgHgY4CkTnjs",
+  "name": "Call Me Sunday",
+  "uri": "spotify:artist:08snwDwioIwgHgY4CkTnjs",
+  "followers": {
+    "href": null,
+    "total": 100
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcc2c88ed3fbcbe72c4ace19a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174cc2c88ed3fbcbe72c4ace19a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178cc2c88ed3fbcbe72c4ace19a",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/08snwDwioIwgHgY4CkTnjs"
+  }
+}

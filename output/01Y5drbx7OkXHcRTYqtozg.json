@@ -1,0 +1,33 @@
+{
+  "id": "01Y5drbx7OkXHcRTYqtozg",
+  "name": "Mathill",
+  "uri": "spotify:artist:01Y5drbx7OkXHcRTYqtozg",
+  "followers": {
+    "href": null,
+    "total": 100
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7ca9cf9ad872e51b6c83d1cf",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051747ca9cf9ad872e51b6c83d1cf",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1787ca9cf9ad872e51b6c83d1cf",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01Y5drbx7OkXHcRTYqtozg"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "08U6e73wr4TlPmbwv4GcLk",
+  "name": "Supermarc",
+  "uri": "spotify:artist:08U6e73wr4TlPmbwv4GcLk",
+  "followers": {
+    "href": null,
+    "total": 152
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb630481d166f0a30df1d1c462",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174630481d166f0a30df1d1c462",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178630481d166f0a30df1d1c462",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/08U6e73wr4TlPmbwv4GcLk"
+  }
+}

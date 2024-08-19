@@ -1,0 +1,33 @@
+{
+  "id": "03IbEiokQjTDfvdyIYV5D4",
+  "name": "Ida Laurberg",
+  "uri": "spotify:artist:03IbEiokQjTDfvdyIYV5D4",
+  "followers": {
+    "href": null,
+    "total": 20906
+  },
+  "genres": [
+    "danish pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebde35801144f486f6a32bbc09",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174de35801144f486f6a32bbc09",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178de35801144f486f6a32bbc09",
+      "width": 160
+    }
+  ],
+  "popularity": 50,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
+  }
+}

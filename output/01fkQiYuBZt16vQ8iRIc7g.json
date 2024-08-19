@@ -1,0 +1,35 @@
+{
+  "id": "01fkQiYuBZt16vQ8iRIc7g",
+  "name": "Sopico",
+  "uri": "spotify:artist:01fkQiYuBZt16vQ8iRIc7g",
+  "followers": {
+    "href": null,
+    "total": 173232
+  },
+  "genres": [
+    "french hip hop",
+    "rap calme",
+    "rap conscient"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfb87e73d4d0f322437f1739a",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fb87e73d4d0f322437f1739a",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fb87e73d4d0f322437f1739a",
+      "width": 160
+    }
+  ],
+  "popularity": 43,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/01fkQiYuBZt16vQ8iRIc7g"
+  }
+}

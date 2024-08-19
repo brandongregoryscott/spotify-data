@@ -1,0 +1,33 @@
+{
+  "id": "04AlqNMYOXxt3K6ZjbSKGz",
+  "name": "KxrmA",
+  "uri": "spotify:artist:04AlqNMYOXxt3K6ZjbSKGz",
+  "followers": {
+    "href": null,
+    "total": 461
+  },
+  "genres": [
+    "chill phonk"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeb0218ad2aee289f97beb421",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174eb0218ad2aee289f97beb421",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178eb0218ad2aee289f97beb421",
+      "width": 160
+    }
+  ],
+  "popularity": 18,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/04AlqNMYOXxt3K6ZjbSKGz"
+  }
+}

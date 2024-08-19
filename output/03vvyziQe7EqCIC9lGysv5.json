@@ -1,0 +1,33 @@
+{
+  "id": "03vvyziQe7EqCIC9lGysv5",
+  "name": "Hyndaco",
+  "uri": "spotify:artist:03vvyziQe7EqCIC9lGysv5",
+  "followers": {
+    "href": null,
+    "total": 271
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb679a0b1fba26d6d3761d4b09",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174679a0b1fba26d6d3761d4b09",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178679a0b1fba26d6d3761d4b09",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03vvyziQe7EqCIC9lGysv5"
+  }
+}

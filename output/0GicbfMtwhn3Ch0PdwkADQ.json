@@ -1,0 +1,33 @@
+{
+  "id": "0GicbfMtwhn3Ch0PdwkADQ",
+  "name": "Silly Goose",
+  "uri": "spotify:artist:0GicbfMtwhn3Ch0PdwkADQ",
+  "followers": {
+    "href": null,
+    "total": 19305
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba440e2467e6a1b1aea73f61b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a440e2467e6a1b1aea73f61b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a440e2467e6a1b1aea73f61b",
+      "width": 160
+    }
+  ],
+  "popularity": 34,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "08TfYHv5NG0Kr5wVIczcfm",
+  "name": "Alice Lynn",
+  "uri": "spotify:artist:08TfYHv5NG0Kr5wVIczcfm",
+  "followers": {
+    "href": null,
+    "total": 114
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb46db700100179a2d67658322",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517446db700100179a2d67658322",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17846db700100179a2d67658322",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/08TfYHv5NG0Kr5wVIczcfm"
+  }
+}

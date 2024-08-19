@@ -1,0 +1,33 @@
+{
+  "id": "05CUkb4GHCcCIpXSOz0O49",
+  "name": "Cānid",
+  "uri": "spotify:artist:05CUkb4GHCcCIpXSOz0O49",
+  "followers": {
+    "href": null,
+    "total": 433
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc2dcf7c0157234fd0817e47f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c2dcf7c0157234fd0817e47f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c2dcf7c0157234fd0817e47f",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/05CUkb4GHCcCIpXSOz0O49"
+  }
+}

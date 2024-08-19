@@ -1,0 +1,33 @@
+{
+  "id": "0FHXyAFKLg02mIUpNApPgo",
+  "name": "3FORCE",
+  "uri": "spotify:artist:0FHXyAFKLg02mIUpNApPgo",
+  "followers": {
+    "href": null,
+    "total": 13287
+  },
+  "genres": [
+    "synthwave"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebea00ace792dd6cc714970a0f",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ea00ace792dd6cc714970a0f",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ea00ace792dd6cc714970a0f",
+      "width": 160
+    }
+  ],
+  "popularity": 32,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0FHXyAFKLg02mIUpNApPgo"
+  }
+}

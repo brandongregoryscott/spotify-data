@@ -1,0 +1,33 @@
+{
+  "id": "0HTtnGFw1AiVRpjPTqt9rQ",
+  "name": "Uncle Ron",
+  "uri": "spotify:artist:0HTtnGFw1AiVRpjPTqt9rQ",
+  "followers": {
+    "href": null,
+    "total": 825
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27311a58575ddc10dd8d16388f9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e0211a58575ddc10dd8d16388f9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d0000485111a58575ddc10dd8d16388f9",
+      "width": 64
+    }
+  ],
+  "popularity": 9,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0HTtnGFw1AiVRpjPTqt9rQ"
+  }
+}

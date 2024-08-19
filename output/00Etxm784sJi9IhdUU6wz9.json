@@ -1,0 +1,33 @@
+{
+  "id": "00Etxm784sJi9IhdUU6wz9",
+  "name": "DATAPOP",
+  "uri": "spotify:artist:00Etxm784sJi9IhdUU6wz9",
+  "followers": {
+    "href": null,
+    "total": 1088
+  },
+  "genres": [
+    "swedish synth"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba133dd6a1d29f63fb88b03ce",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a133dd6a1d29f63fb88b03ce",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a133dd6a1d29f63fb88b03ce",
+      "width": 160
+    }
+  ],
+  "popularity": 4,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/00Etxm784sJi9IhdUU6wz9"
+  }
+}

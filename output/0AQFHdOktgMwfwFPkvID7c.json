@@ -1,0 +1,33 @@
+{
+  "id": "0AQFHdOktgMwfwFPkvID7c",
+  "name": "Insectoid",
+  "uri": "spotify:artist:0AQFHdOktgMwfwFPkvID7c",
+  "followers": {
+    "href": null,
+    "total": 103
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739fc4c85a659775319778f1b5",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e029fc4c85a659775319778f1b5",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048519fc4c85a659775319778f1b5",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0AQFHdOktgMwfwFPkvID7c"
+  }
+}

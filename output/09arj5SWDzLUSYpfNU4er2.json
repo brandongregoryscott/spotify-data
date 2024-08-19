@@ -1,0 +1,33 @@
+{
+  "id": "09arj5SWDzLUSYpfNU4er2",
+  "name": "Snackthief",
+  "uri": "spotify:artist:09arj5SWDzLUSYpfNU4er2",
+  "followers": {
+    "href": null,
+    "total": 201
+  },
+  "genres": [
+    "brno indie"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfbbe12ee3413eac947b44bba",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fbbe12ee3413eac947b44bba",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fbbe12ee3413eac947b44bba",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/09arj5SWDzLUSYpfNU4er2"
+  }
+}

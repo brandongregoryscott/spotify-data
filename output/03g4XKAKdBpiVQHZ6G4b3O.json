@@ -1,0 +1,33 @@
+{
+  "id": "03g4XKAKdBpiVQHZ6G4b3O",
+  "name": "Spider Cider",
+  "uri": "spotify:artist:03g4XKAKdBpiVQHZ6G4b3O",
+  "followers": {
+    "href": null,
+    "total": 178
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf5f51f8a0e89b5aa8ae51821",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f5f51f8a0e89b5aa8ae51821",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f5f51f8a0e89b5aa8ae51821",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03g4XKAKdBpiVQHZ6G4b3O"
+  }
+}

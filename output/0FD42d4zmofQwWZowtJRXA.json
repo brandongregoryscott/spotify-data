@@ -1,0 +1,33 @@
+{
+  "id": "0FD42d4zmofQwWZowtJRXA",
+  "name": "Exploder",
+  "uri": "spotify:artist:0FD42d4zmofQwWZowtJRXA",
+  "followers": {
+    "href": null,
+    "total": 198
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb73d2f169b670fa2115b40e04",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517473d2f169b670fa2115b40e04",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17873d2f169b670fa2115b40e04",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0FD42d4zmofQwWZowtJRXA"
+  }
+}

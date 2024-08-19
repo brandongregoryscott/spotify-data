@@ -1,0 +1,33 @@
+{
+  "id": "0IFMNosBD7vn8ZsSHPT7dt",
+  "name": "Filtro weas",
+  "uri": "spotify:artist:0IFMNosBD7vn8ZsSHPT7dt",
+  "followers": {
+    "href": null,
+    "total": 3986
+  },
+  "genres": [
+    "trap chileno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbed39e606e0632205995ded7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bed39e606e0632205995ded7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bed39e606e0632205995ded7",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0IFMNosBD7vn8ZsSHPT7dt"
+  }
+}

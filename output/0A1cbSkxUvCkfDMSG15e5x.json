@@ -1,0 +1,33 @@
+{
+  "id": "0A1cbSkxUvCkfDMSG15e5x",
+  "name": "Paul Wood",
+  "uri": "spotify:artist:0A1cbSkxUvCkfDMSG15e5x",
+  "followers": {
+    "href": null,
+    "total": 310
+  },
+  "genres": [
+    "power blues-rock"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273055a776d88504f8acbf47bd3",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02055a776d88504f8acbf47bd3",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851055a776d88504f8acbf47bd3",
+      "width": 64
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0A1cbSkxUvCkfDMSG15e5x"
+  }
+}

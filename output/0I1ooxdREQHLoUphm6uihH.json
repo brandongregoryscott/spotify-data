@@ -1,0 +1,33 @@
+{
+  "id": "0I1ooxdREQHLoUphm6uihH",
+  "name": "Bob Corritore",
+  "uri": "spotify:artist:0I1ooxdREQHLoUphm6uihH",
+  "followers": {
+    "href": null,
+    "total": 4440
+  },
+  "genres": [
+    "harmonica blues"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe6e0dd12b50a3d2db062d993",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e6e0dd12b50a3d2db062d993",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e6e0dd12b50a3d2db062d993",
+      "width": 160
+    }
+  ],
+  "popularity": 22,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH"
+  }
+}

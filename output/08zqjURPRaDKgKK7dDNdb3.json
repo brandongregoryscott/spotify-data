@@ -1,0 +1,33 @@
+{
+  "id": "08zqjURPRaDKgKK7dDNdb3",
+  "name": "Kim Joyce",
+  "uri": "spotify:artist:08zqjURPRaDKgKK7dDNdb3",
+  "followers": {
+    "href": null,
+    "total": 729
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd3a61b879f8c9252d179cb52",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174d3a61b879f8c9252d179cb52",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178d3a61b879f8c9252d179cb52",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/08zqjURPRaDKgKK7dDNdb3"
+  }
+}

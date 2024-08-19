@@ -1,0 +1,33 @@
+{
+  "id": "0BwncLvXhAtlxdPBRiUTHY",
+  "name": "Dom Jordan",
+  "uri": "spotify:artist:0BwncLvXhAtlxdPBRiUTHY",
+  "followers": {
+    "href": null,
+    "total": 233
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe5b0965e6e82cccf15566fb7",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174e5b0965e6e82cccf15566fb7",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178e5b0965e6e82cccf15566fb7",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0BwncLvXhAtlxdPBRiUTHY"
+  }
+}

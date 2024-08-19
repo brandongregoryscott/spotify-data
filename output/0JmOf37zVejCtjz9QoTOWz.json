@@ -1,0 +1,33 @@
+{
+  "id": "0JmOf37zVejCtjz9QoTOWz",
+  "name": "Olipage",
+  "uri": "spotify:artist:0JmOf37zVejCtjz9QoTOWz",
+  "followers": {
+    "href": null,
+    "total": 221
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebed6992cc2087d7df6b622c14",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ed6992cc2087d7df6b622c14",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ed6992cc2087d7df6b622c14",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0JmOf37zVejCtjz9QoTOWz"
+  }
+}

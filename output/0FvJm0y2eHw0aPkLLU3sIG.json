@@ -1,0 +1,34 @@
+{
+  "id": "0FvJm0y2eHw0aPkLLU3sIG",
+  "name": "Filmore",
+  "uri": "spotify:artist:0FvJm0y2eHw0aPkLLU3sIG",
+  "followers": {
+    "href": null,
+    "total": 52919
+  },
+  "genres": [
+    "contemporary country",
+    "country pop"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb81eb4eea25f07fd7281248ae",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517481eb4eea25f07fd7281248ae",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17881eb4eea25f07fd7281248ae",
+      "width": 160
+    }
+  ],
+  "popularity": 48,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "070ZiIZKvKyiGr8buVdp1o",
+  "name": "Thomas Michael",
+  "uri": "spotify:artist:070ZiIZKvKyiGr8buVdp1o",
+  "followers": {
+    "href": null,
+    "total": 192
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba0767ece714c814c652871f4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a0767ece714c814c652871f4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a0767ece714c814c652871f4",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/070ZiIZKvKyiGr8buVdp1o"
+  }
+}

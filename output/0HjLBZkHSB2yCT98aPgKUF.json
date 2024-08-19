@@ -1,0 +1,33 @@
+{
+  "id": "0HjLBZkHSB2yCT98aPgKUF",
+  "name": "Codex",
+  "uri": "spotify:artist:0HjLBZkHSB2yCT98aPgKUF",
+  "followers": {
+    "href": null,
+    "total": 138
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebee74c258e9e9fa4457aae9a5",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174ee74c258e9e9fa4457aae9a5",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178ee74c258e9e9fa4457aae9a5",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0HjLBZkHSB2yCT98aPgKUF"
+  }
+}

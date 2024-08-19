@@ -1,0 +1,33 @@
+{
+  "id": "07OF36h5y4S6s9ckQliaj3",
+  "name": "SWARM",
+  "uri": "spotify:artist:07OF36h5y4S6s9ckQliaj3",
+  "followers": {
+    "href": null,
+    "total": 50194
+  },
+  "genres": [
+    "dark clubbing"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb1a9e36cf09c1941897a4647",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b1a9e36cf09c1941897a4647",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b1a9e36cf09c1941897a4647",
+      "width": 160
+    }
+  ],
+  "popularity": 49,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07OF36h5y4S6s9ckQliaj3"
+  }
+}

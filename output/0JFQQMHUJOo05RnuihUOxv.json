@@ -1,0 +1,33 @@
+{
+  "id": "0JFQQMHUJOo05RnuihUOxv",
+  "name": "Soul Connection",
+  "uri": "spotify:artist:0JFQQMHUJOo05RnuihUOxv",
+  "followers": {
+    "href": null,
+    "total": 770
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dd055d7321ecd1ae8bbac9d9",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e02dd055d7321ecd1ae8bbac9d9",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d00004851dd055d7321ecd1ae8bbac9d9",
+      "width": 64
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0JFQQMHUJOo05RnuihUOxv"
+  }
+}

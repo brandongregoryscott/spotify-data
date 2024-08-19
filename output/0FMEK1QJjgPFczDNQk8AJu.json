@@ -1,0 +1,33 @@
+{
+  "id": "0FMEK1QJjgPFczDNQk8AJu",
+  "name": "STRABE",
+  "uri": "spotify:artist:0FMEK1QJjgPFczDNQk8AJu",
+  "followers": {
+    "href": null,
+    "total": 4249
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc156ba64a0e498400ed996dd",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174c156ba64a0e498400ed996dd",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178c156ba64a0e498400ed996dd",
+      "width": 160
+    }
+  ],
+  "popularity": 30,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0FMEK1QJjgPFczDNQk8AJu"
+  }
+}

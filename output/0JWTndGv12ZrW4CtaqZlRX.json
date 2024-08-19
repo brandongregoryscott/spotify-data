@@ -1,0 +1,33 @@
+{
+  "id": "0JWTndGv12ZrW4CtaqZlRX",
+  "name": "Aporia",
+  "uri": "spotify:artist:0JWTndGv12ZrW4CtaqZlRX",
+  "followers": {
+    "href": null,
+    "total": 384
+  },
+  "genres": [
+    "polish emo"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb263b551830ad5db1e379c553",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174263b551830ad5db1e379c553",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178263b551830ad5db1e379c553",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0JWTndGv12ZrW4CtaqZlRX"
+  }
+}

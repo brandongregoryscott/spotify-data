@@ -1,0 +1,33 @@
+{
+  "id": "0DuNuGFzjexgkrlOQT7cbX",
+  "name": "Koortal",
+  "uri": "spotify:artist:0DuNuGFzjexgkrlOQT7cbX",
+  "followers": {
+    "href": null,
+    "total": 69
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb6382ebec09de23158af41aa",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b6382ebec09de23158af41aa",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b6382ebec09de23158af41aa",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0DuNuGFzjexgkrlOQT7cbX"
+  }
+}

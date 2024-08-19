@@ -1,0 +1,33 @@
+{
+  "id": "0EOUI0VPUqI52ZP7DWYGbf",
+  "name": "V-One",
+  "uri": "spotify:artist:0EOUI0VPUqI52ZP7DWYGbf",
+  "followers": {
+    "href": null,
+    "total": 694
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733bea0acc8c13a9131822174c",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab67616d00001e023bea0acc8c13a9131822174c",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67616d000048513bea0acc8c13a9131822174c",
+      "width": 64
+    }
+  ],
+  "popularity": 12,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0EOUI0VPUqI52ZP7DWYGbf"
+  }
+}

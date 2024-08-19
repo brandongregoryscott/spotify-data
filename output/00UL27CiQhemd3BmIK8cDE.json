@@ -1,0 +1,33 @@
+{
+  "id": "00UL27CiQhemd3BmIK8cDE",
+  "name": "schmock_mp3",
+  "uri": "spotify:artist:00UL27CiQhemd3BmIK8cDE",
+  "followers": {
+    "href": null,
+    "total": 167
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfd1eb2adeeeb65b0b7122fea",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fd1eb2adeeeb65b0b7122fea",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fd1eb2adeeeb65b0b7122fea",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/00UL27CiQhemd3BmIK8cDE"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0FSYLrFgZzvahHGgrk20IG",
+  "name": "3.2KM",
+  "uri": "spotify:artist:0FSYLrFgZzvahHGgrk20IG",
+  "followers": {
+    "href": null,
+    "total": 570
+  },
+  "genres": [
+    "hard industrial techno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf6a4e4d0993230b10dbbf140",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174f6a4e4d0993230b10dbbf140",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178f6a4e4d0993230b10dbbf140",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0FSYLrFgZzvahHGgrk20IG"
+  }
+}

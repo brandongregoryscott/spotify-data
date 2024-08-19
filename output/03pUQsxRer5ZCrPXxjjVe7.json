@@ -1,0 +1,33 @@
+{
+  "id": "03pUQsxRer5ZCrPXxjjVe7",
+  "name": "MacBuck",
+  "uri": "spotify:artist:03pUQsxRer5ZCrPXxjjVe7",
+  "followers": {
+    "href": null,
+    "total": 66
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb92a846283a0ccfccee3cfe43",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517492a846283a0ccfccee3cfe43",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17892a846283a0ccfccee3cfe43",
+      "width": 160
+    }
+  ],
+  "popularity": 0,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/03pUQsxRer5ZCrPXxjjVe7"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0IKEPLbn0hEwkB3luZcUKp",
+  "name": "Bluedög",
+  "uri": "spotify:artist:0IKEPLbn0hEwkB3luZcUKp",
+  "followers": {
+    "href": null,
+    "total": 190
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb777f9ad2bf77c42a53601afe",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174777f9ad2bf77c42a53601afe",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178777f9ad2bf77c42a53601afe",
+      "width": 160
+    }
+  ],
+  "popularity": 3,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0IKEPLbn0hEwkB3luZcUKp"
+  }
+}

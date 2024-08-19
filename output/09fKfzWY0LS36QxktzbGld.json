@@ -1,0 +1,33 @@
+{
+  "id": "09fKfzWY0LS36QxktzbGld",
+  "name": "Gudnyt",
+  "uri": "spotify:artist:09fKfzWY0LS36QxktzbGld",
+  "followers": {
+    "href": null,
+    "total": 282
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdbca79b4eb8dd0de2c4de761",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174dbca79b4eb8dd0de2c4de761",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178dbca79b4eb8dd0de2c4de761",
+      "width": 160
+    }
+  ],
+  "popularity": 7,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/09fKfzWY0LS36QxktzbGld"
+  }
+}

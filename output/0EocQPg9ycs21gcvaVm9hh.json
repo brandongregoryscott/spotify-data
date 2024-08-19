@@ -1,0 +1,37 @@
+{
+  "id": "0EocQPg9ycs21gcvaVm9hh",
+  "name": "Joss Favela",
+  "uri": "spotify:artist:0EocQPg9ycs21gcvaVm9hh",
+  "followers": {
+    "href": null,
+    "total": 1463151
+  },
+  "genres": [
+    "banda",
+    "corrido",
+    "musica mexicana",
+    "norteno",
+    "sierreno"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb411d609de3bf1ab20099a809",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174411d609de3bf1ab20099a809",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178411d609de3bf1ab20099a809",
+      "width": 160
+    }
+  ],
+  "popularity": 58,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+  }
+}

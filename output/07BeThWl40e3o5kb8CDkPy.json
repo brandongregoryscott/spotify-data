@@ -1,0 +1,33 @@
+{
+  "id": "07BeThWl40e3o5kb8CDkPy",
+  "name": "Diamant",
+  "uri": "spotify:artist:07BeThWl40e3o5kb8CDkPy",
+  "followers": {
+    "href": null,
+    "total": 426
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfde7fcfeeb46ac7b609521d4",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174fde7fcfeeb46ac7b609521d4",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178fde7fcfeeb46ac7b609521d4",
+      "width": 160
+    }
+  ],
+  "popularity": 11,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/07BeThWl40e3o5kb8CDkPy"
+  }
+}

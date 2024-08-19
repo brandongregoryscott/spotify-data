@@ -1,0 +1,33 @@
+{
+  "id": "0BuaCs7iHhs85Cvj0bdSfp",
+  "name": "Marc Amat",
+  "uri": "spotify:artist:0BuaCs7iHhs85Cvj0bdSfp",
+  "followers": {
+    "href": null,
+    "total": 258
+  },
+  "genres": [
+    "musica catalana"
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb48fb8abf2a0ef5aba3d59048",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab6761610000517448fb8abf2a0ef5aba3d59048",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f17848fb8abf2a0ef5aba3d59048",
+      "width": 160
+    }
+  ],
+  "popularity": 2,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0BuaCs7iHhs85Cvj0bdSfp"
+  }
+}

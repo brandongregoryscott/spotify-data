@@ -1,0 +1,33 @@
+{
+  "id": "0EW3eyLYXe1J9Z433fHgrg",
+  "name": "KRLY",
+  "uri": "spotify:artist:0EW3eyLYXe1J9Z433fHgrg",
+  "followers": {
+    "href": null,
+    "total": 77
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3b28f28e37ee143a7e231f1b",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab676161000051743b28f28e37ee143a7e231f1b",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f1783b28f28e37ee143a7e231f1b",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0EW3eyLYXe1J9Z433fHgrg"
+  }
+}

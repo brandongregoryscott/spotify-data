@@ -1,0 +1,33 @@
+{
+  "id": "00JYiJ5dIlaJ9gzyKffr8P",
+  "name": "Banga",
+  "uri": "spotify:artist:00JYiJ5dIlaJ9gzyKffr8P",
+  "followers": {
+    "href": null,
+    "total": 610
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba89c0d880167edb632f222ad",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174a89c0d880167edb632f222ad",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178a89c0d880167edb632f222ad",
+      "width": 160
+    }
+  ],
+  "popularity": 10,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/00JYiJ5dIlaJ9gzyKffr8P"
+  }
+}

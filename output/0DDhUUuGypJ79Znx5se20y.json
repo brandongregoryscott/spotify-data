@@ -1,0 +1,33 @@
+{
+  "id": "0DDhUUuGypJ79Znx5se20y",
+  "name": "Flesh Bouquet",
+  "uri": "spotify:artist:0DDhUUuGypJ79Znx5se20y",
+  "followers": {
+    "href": null,
+    "total": 175
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbb175b01d8b248ec55f469e0",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174bb175b01d8b248ec55f469e0",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178bb175b01d8b248ec55f469e0",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/0DDhUUuGypJ79Znx5se20y"
+  }
+}

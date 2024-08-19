@@ -1,0 +1,33 @@
+{
+  "id": "00JuW5c5vm2ztgv54DRqF4",
+  "name": "Hylander",
+  "uri": "spotify:artist:00JuW5c5vm2ztgv54DRqF4",
+  "followers": {
+    "href": null,
+    "total": 294
+  },
+  "genres": [
+
+  ],
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb122e2acafc4fe86c886ad105",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174122e2acafc4fe86c886ad105",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178122e2acafc4fe86c886ad105",
+      "width": 160
+    }
+  ],
+  "popularity": 1,
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/00JuW5c5vm2ztgv54DRqF4"
+  }
+}
