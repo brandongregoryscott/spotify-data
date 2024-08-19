@@ -82,7 +82,7 @@ def json_stringify_artist(artist) # rubocop:disable Metrics/MethodLength
     'popularity' => artist.popularity,
     'external_urls' => artist.external_urls
   }
-  JSON.pretty_generate(artist_object)
+  JSON.fast_generate(artist_object)
 end
 
 main
