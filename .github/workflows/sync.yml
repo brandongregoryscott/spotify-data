@@ -11,25 +11,34 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-
-    - name: Set cache key
+    - name: Set branch name
       run: |
-        echo CURRENT_CACHE_KEY=$(node -e 'console.log(new Date().toISOString())') >> $GITHUB_ENV
-        echo SHORT_CACHE_KEY=$(node -e 'console.log(new Date().toISOString().split("T")[0])') >> $GITHUB_ENV
+        echo BRANCH_NAME=$(node -e 'console.log(new Date().toISOString().split("T")[0])') >> $GITHUB_ENV
 
-    - name: Restore cache
-      uses: actions/cache/restore@v4
+    - name: Checkout daily branch
+      uses: actions/checkout@v4
+      id: checkout-daily-branch
+      continue-on-error: true
       with:
-        path: |
-          .git
-        key: ${{env.CURRENT_CACHE_KEY}}
-        restore-keys: |
-          ${{env.CURRENT_CACHE_KEY}}
-          ${{env.SHORT_CACHE_KEY}}
+        ref: ${{env.BRANCH_NAME}}
 
-    - uses: actions/checkout@v4
+    - name: Checkout main branch
+      uses: actions/checkout@v4
+      id: checkout-main-branch
+      if: failure() && steps.checkout-daily-branch.conclusion == 'failure'
       with:
-        clean: false
+        ref: main
+
+    - name: Create daily branch
+      id: create-daily-branch
+      if: success() && steps.checkout-main-branch.conclusion == 'success'
+      run: |
+        git checkout -b ${{env.BRANCH_NAME}}
+
+    - name: Configure git user
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.comm"
 
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
@@ -40,18 +49,8 @@ jobs:
     - name: Install gems
       run: bundle install
 
-    - name: Checkout daily branch
-      run: ruby scripts/checkout_branch.rb
-
     - name: Sync data
       run: ruby scripts/sync.rb
 
     - name: Commit and push
       run: ruby scripts/commit_and_push.rb
-
-    - name: Save cache
-      uses: actions/cache/save@v4
-      with:
-        path: |
-          .git
-        key: ${{env.CURRENT_CACHE_KEY}}
