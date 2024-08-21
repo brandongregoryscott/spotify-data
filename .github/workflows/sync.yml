@@ -25,20 +25,20 @@ jobs:
     - name: Checkout main branch
       uses: actions/checkout@v4
       id: checkout-main-branch
-      if: failure() && steps.checkout-daily-branch.conclusion == 'failure'
+      if: always() && steps.checkout-daily-branch.outcome == 'failure'
       with:
         ref: main
 
     - name: Create daily branch
       id: create-daily-branch
-      if: success() && steps.checkout-main-branch.conclusion == 'success'
+      if: always() && steps.checkout-main-branch.outcome == 'success'
       run: |
         git checkout -b ${{env.BRANCH_NAME}}
 
     - name: Configure git user
       run: |
         git config user.name "github-actions[bot]"
-        git config user.email "41898282+github-actions[bot]@users.noreply.github.comm"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
