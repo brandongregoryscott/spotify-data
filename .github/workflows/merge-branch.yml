@@ -12,24 +12,19 @@ jobs:
   merge-branch:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout specified branch
+      - name: Checkout main branch
         uses: actions/checkout@v4
         with:
-          ref: ${{github.event.inputs.branch}}
+          ref: main
+          fetch-depth: 0
 
       - name: Configure git user
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Fetch origin/main
-        run: |
-          git fetch --depth 1 origin main
-
       - name: Merge branch and push
         run: |
-          git checkout main
-          git merge --squash ${{github.event.inputs.branch}}
+          git merge --squash origin/${{github.event.inputs.branch}}
           git commit -m ${{github.event.inputs.branch}}
-          git push origin ${{github.event.inputs.branch}} --delete
-          git push origin main
+          git push && git push --delete origin/${{github.event.inputs.branch}}
