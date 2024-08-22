@@ -11,9 +11,10 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-    - name: Set branch name
+    - name: Set environment variables
       run: |
         echo BRANCH_NAME=$(node -e 'console.log(new Date().toISOString().split("T")[0])') >> $GITHUB_ENV
+        echo FETCH_DEPTH=$(node -e 'console.log(new Date().getHours() === 23 ? 0 : 1)') >> $GITHUB_ENV
 
     - name: Checkout daily branch
       uses: actions/checkout@v4
@@ -21,6 +22,7 @@ jobs:
       continue-on-error: true
       with:
         ref: ${{env.BRANCH_NAME}}
+        fetch-depth: ${{env.FETCH_DEPTH}}
 
     - name: Checkout main branch
       uses: actions/checkout@v4
