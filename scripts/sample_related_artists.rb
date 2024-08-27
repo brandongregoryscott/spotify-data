@@ -11,7 +11,7 @@ def main
   authenticate
 
   artist_ids = read_artists_json_file
-  sample_count = ARGV.first && !ARGV.first.empty? ? Integer(ARGV.first) : 50
+  sample_count = ARGV.first && !ARGV.first.empty? ? Integer(ARGV.first) : 1000
 
   sampled_artist_ids = artist_ids.sample(sample_count)
   sampled_artist_ids.each_slice(50) do |artist_ids_chunk|
