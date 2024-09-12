@@ -6,6 +6,7 @@ require 'date'
 require 'pathname'
 require 'logger'
 
+MAX_RETRIES = 5
 
 def main
   logger = Logger.new($stdout)
@@ -28,8 +29,24 @@ def merge_and_delete_daily_branch(git, branch_name)
   git.checkout('main')
   system("git merge --squash  #{branch_name}")
   git.commit(branch_name)
+  delete_remote_branch(git, branch_name)
+  push_main_branch(git)
+end
+
+def delete_remote_branch(git, branch_name, attempt = 1)
   git.push('origin', branch_name, delete: true)
+rescue Git::FailedError
+  max_sleep_seconds = Float(2**attempt)
+  sleep rand(0..max_sleep_seconds)
+  delete_remote_branch(git, branch_name, attempt + 1) if attempt < MAX_RETRIES
+end
+
+def push_main_branch(git, attempt = 1)
   git.push('origin', 'main')
+rescue Git::FailedError
+  max_sleep_seconds = Float(2**attempt)
+  sleep rand(0..max_sleep_seconds)
+  push_main_branch(git, attempt + 1) if attempt < MAX_RETRIES
 end
 
 def current_hour
