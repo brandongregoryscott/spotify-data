@@ -15,6 +15,7 @@ def main
   branch_name = git.current_branch
 
   git.add('output')
+  exit(0) if git.status.none? { |file| modified_file?(file) }
   git.commit(DateTime.now.iso8601)
 
   if current_hour == 23
@@ -53,6 +54,10 @@ def current_hour
   # - flag drops then padding
   hour = DateTime.now.strftime('%-H')
   Integer(hour)
+end
+
+def modified_file?(file)
+  file.path.start_with?('output') && (file.type == 'M' || file.type == 'A')
 end
 
 main
