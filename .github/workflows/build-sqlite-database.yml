@@ -13,6 +13,8 @@ on:
         type: boolean
         description: Run with logging output
 
+  schedule:
+    - cron:  '13 17 1 * *'
 
 jobs:
   build_sqlite_database:
