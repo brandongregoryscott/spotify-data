@@ -1,0 +1,14 @@
+name: Deploy API
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron:  '13 18 2 * *'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run Render deployment
+        run: curl ${{secrets.RENDER_DEPLOY_URL}}
