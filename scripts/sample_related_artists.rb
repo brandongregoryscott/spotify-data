@@ -34,6 +34,8 @@ rescue RestClient::TooManyRequests, RestClient::ServiceUnavailable, RestClient::
   sleep rand(0..max_sleep_seconds)
   authenticate
   find_related_artists(artist, attempt + 1) if attempt < MAX_RETRIES
+rescue RestClient::NotFound
+  []
 end
 
 def authenticate(attempt = 1)
